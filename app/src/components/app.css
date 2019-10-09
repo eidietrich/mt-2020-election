@@ -1,0 +1,34 @@
+button {
+    display: inline-block;
+    font-weight: bold;
+    text-align: center;
+    white-space: nowrap;
+    border: none;
+    background-color: #eee;
+    border: 1px solid #666;
+    text-transform: uppercase;
+    color: #222;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    cursor: pointer;
+    /* margin-right: 0.2rem; */
+    /* border-radius: 0.25rem; */
+}
+
+button:hover {
+    background-color: #222;
+    border: 1px solid #222;
+    color: white;
+}
+
+a {
+    color: #2800d7;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a.button-link:hover {
+    text-decoration: none;
+}
