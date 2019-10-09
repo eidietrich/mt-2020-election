@@ -1,41 +1,32 @@
-# Data flow
+# Montana 2020
 
-General pattern: Local scripts to pull in data, stash as .json locally to feed to Gatsby build process.
-Avoid a database if possible.
+Work in progress news app for parsing & presenting candidate data for the 2020 Montana election cycle.
 
-Current
-- Candidate Google doc -`get-data.js`-> 'data.json' --> homepage + candidate pages
-
-SIMPLE TODO:
-- Embed podcast player in dropdown
-- Add Google Analytics
-
-BIGGER PICTURE TODO
-- Clean up Google Docs import, security issues
-- Build a shared component library? How would that work?
-
-STRUCTURE
+## Structure
 - app - Gatsby app for building public-facing product
 - analysis - Gatsby app designed for experiments/internal reporting work
 - data - centralized repository for cleaned data, stored as .json (may migrate this to MongoDB down the road)
 - scrapers - data acquistion/processing pipelines
 - utils - one-off scripts
 
-DATA PROCESSING PIPELINES
+## Data flow
 
-Existing
+General pattern: Local scripts (Python or Node) to pull in data, stash as .json locally, then feed to Gatsby build process. Plan is to avoid mucking with a database if possible.
+
+Some data pipeline folders contain Jupyter notebooks for exploration/script development.
+
+### Existing data processing pipelines
 - app-copy - Pulls in [ArchieML](http://archieml.org) for app text content from [Google Doc](https://docs.google.com/document/d/1-PomtLY2bwwC9I-osdZnxcb8nwB9ubvhxyxLocPBk4w/edit). Relies on `token.json` and `credentials.json` in project root.
-    - Refresh copy: `node scrapers/app-copy/fetch-app-copy.js`
+    - CMD: Refresh copy: `node scrapers/app-copy/fetch-app-copy.js`
 - state-finance-reports - itemized state/local race campaign finance data from COPP
-    - Check for new candidate filings: `python3 scrapers/state-finance-reports/check-candidate-updates.py`
-    - Check for new C-5 filings: `python3 scrapers/state-finance-reports/check-report-updates.py`
-    - Refresh data: `python3 scrapers/state-finance-reports/fetch-finance-reports.py`
+    - CMD: Check for new candidate filings: `python3 scrapers/state-finance-reports/check-candidate-updates.py`
+    - CMD: Check for new C-5 filings: `python3 scrapers/state-finance-reports/check-report-updates.py`
+    - CMD: Refresh data: `python3 scrapers/state-finance-reports/fetch-finance-reports.py`
 
-Next priority:
+### Next priority pipelines:
 - fed-finance-reports - federal race campaign finance data from FEC API
 
-
-Planned/potential
+### Planned/potential (some of these won't be feasible)
 - boundaries - house/senate district & (hopefully) precinct-level geodata
 - boundaries-cartogram - build
 - results-historical- historical election data from SOS
@@ -45,8 +36,21 @@ Planned/potential
 - candidate-records - hand-curated info on prior accomplishments? (include in app-copy?)
 - district-demographics - state district/precinct-level demographic data - census bureau
 - coverage-mtfp - list of stories related to specific candidates/races from MTFP - source to MTFP website API
-- coverage-outside - list of stories from other outlets - hand-curate in Google Doc
+- coverage-outside - list of stories from other outlets - hand-curate links in Google Sheet, pipe headlines/bylines/etc. into Gatsby with some sort of metadata scraper
 - candidate-images - (currently stashed in app, incomplete)
 - candidate-statements - hand-curate social media posts/press releases/other statemetns in Google Doc?
 - candidate-mailers - mailers/advertisements - figure out system?
 - spending-tv-spots - figure out how to scrape data from local TV stations
+
+## TODO
+
+SIMPLE TODO:
+- Embed podcast player in dropdown for candidates who've been interviewed on [MTFP podcast](https://montanafreepress.org/series/montana-lowdown-podcast/)
+- Add Google Analytics
+- Add remaining candidate portraits
+
+BIGGER PICTURE TODO
+- Clean up Google Docs import, bulletproof security issues
+- Build a shared component library? How would that work? [Storybook](https://storybook.js.org/)?
+- Think through testing for data pipelines
+
