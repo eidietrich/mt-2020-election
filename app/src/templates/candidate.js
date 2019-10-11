@@ -3,11 +3,13 @@ import { Link } from 'gatsby'
 import Layout from "../components/layout"
 import SEO from '../components/seo'
 
+import CampaignFinanceState from '../components/CampaignFinanceState' 
+import CampaignFinanceFederal from '../components/CampaignFinanceFederal' 
+
 // import { } from '../logic/config.js'
 import { getCandidateParty } from '../logic/functions.js'
 
 // import styles from './single-lawmaker-page.module.css'
-
 
 class CandidatePage extends Component {
     constructor(props){
@@ -15,8 +17,15 @@ class CandidatePage extends Component {
         // this.state = {}
     }
     render(){
-        const { candidate } = this.props.pageContext
+        const { candidate,
+            stateContributions, 
+            stateExpenditures,
+        } = this.props.pageContext
         const party = getCandidateParty(candidate)
+
+        const jurisdiction = 'state'
+
+        // console.log(this.props.pageContext)
         
         return (<Layout>
             <SEO
@@ -32,6 +41,20 @@ class CandidatePage extends Component {
             <hr />   
             <p><em>The following could be tabs/sections etc. We probably don't have the capacity to do everything sketched out here.</em></p>
             
+            <h2>TK: Campaign finance</h2>
+            {/* <CampaignFinance jurisdiction={jurisdiction} /> */}
+            {(jurisdiction === 'state') ?
+                <CampaignFinanceState 
+                    candidate={candidate}
+                    contributions={stateContributions}
+                    expenditures={stateExpenditures}
+                /> :
+                <div>Federal</div>
+            }
+            <p>Need to figure out data sourcing here. Will have to treat state/federal elections separately. Sketch out/develop appropriate data viz.</p>     
+            
+            
+
             <h2>TK: Biographical info</h2> 
             <p>Will have to report/compile for each candidate</p>
 
@@ -43,9 +66,6 @@ class CandidatePage extends Component {
 
             <h2>TK: Primary & General Election Results</h2> 
             <p>Only include after we get election results</p>
-
-            <h2>TK: Campaign finance</h2>
-            <p>Need to figure out data sourcing here. Will have to treat state/federal elections separately. Sketch out/develop appropriate data viz.</p>
 
             <h2>TK: Candidate record</h2>
             <p>2019 voting record for current state legislators (link to page in legislative tracker), ??? for non-state legislators </p>
@@ -61,3 +81,10 @@ class CandidatePage extends Component {
 
 
 export default CandidatePage
+
+const CampaignFinance = (props) => {
+    // return <div>This is campaign fin</div>
+    const { jurisdiction } = props
+    if (jurisdiction === 'state') { return <div>This is campaign fine</div> }
+    // if (jurisdiction === 'federal') { return <CampaignFinanceFederal /> }
+}
