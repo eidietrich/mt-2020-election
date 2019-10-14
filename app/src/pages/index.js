@@ -67,6 +67,7 @@ class IndexPage extends Component {
           select={this.select}
           reset={this.reset}
       />)}
+      <div>See a text-only version of this page <Link to='/text-only'>here</Link>.</div>
     </Layout>
   }
 }

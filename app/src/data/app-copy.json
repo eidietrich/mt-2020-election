@@ -275,8 +275,8 @@
       "status": "Announced",
       "photo_slug": "cora-neumann.png",
       "podcast_url": "",
-      "web_url": "<a href=\"https://coraformontana.com/\">https://coraformontana.com</a>",
-      "fb_url": "",
+      "web_url": "https://coraformontana.com",
+      "fb_url": "https://www.facebook.com/CoraForMontana/",
       "text": "Neumann, of Bozeman, announced her candidacy Oct. 1. Raised in Bozeman, she has spent much of her career working in global public health. She also founded the <a href=\"https://www.gfla.org/about/\">Global First Ladies Alliance</a>."
     },
     {
@@ -537,6 +537,21 @@
     {
       "position": "Secretary of State",
       "party": "R",
+      "first_name": "Forrest",
+      "last_name": "Mandeville",
+      "current_title": "State Rep.",
+      "incumbent": "FALSE",
+      "residence": "",
+      "status": "Announced",
+      "photo_slug": "forrest-mandeville.png",
+      "podcast_url": "",
+      "web_url": "https://mandevilleformontana.com/",
+      "fb_url": "https://www.facebook.com/MandevilleForMontana/",
+      "text": "Mandeville, of Columbus, announced his candidacy in July. He has served in the state Legislature since 2015."
+    },
+    {
+      "position": "Secretary of State",
+      "party": "R",
       "first_name": "Christi",
       "last_name": "Jacobsen",
       "current_title": "SOS Chief of Staff",
@@ -545,8 +560,10 @@
       "status": "Announced",
       "photo_slug": "christi-jacobsen.png",
       "podcast_url": "",
-      "web_url": "",
-      "fb_url": "",
+      "Web_url": "http://christijacobsen.com/",
+      "fb_url": "https://www.facebook.com/Christi4Montana/",
+      "tw_url": "https://twitter.com/christi4montana",
+      "insta_url": "https://www.instagram.com/christi4montana/",
       "text": "Jacobsen, of Helena, filed candidacy paperwork with the Montana Commissioner of Political Practices Oct. 4. She serves as the Chief of Staff for current Secretary of State Corey Stapleton."
     },
     {
@@ -637,7 +654,7 @@
       "podcast_url": "",
       "web_url": "https://nellynicol4stateauditor.com/",
       "fb_url": "https://www.facebook.com/pg/Nelly-Nicol-for-Montana-State-Auditor-101390104570267/",
-      "text": "Downing, a military veteran who ran in the Republican primary for the U.S. Senate in 2018, said June 26th he’ll run for state auditor in 2020."
+      "text": "Nicol, of Billings, announced her candidacy in October. According to <a href=\"https://www.linkedin.com/in/nellynicol/\">her LinkedIn profile</a>, she has worked at Miles City-based Victory Insurance Company for more than a decade."
     },
     {
       "position": "State Auditor",
@@ -655,5 +672,5 @@
       "text": "Morigeau, a state representative from Missoula, announced his candidacy for state auditor June 30. He is a member of the Confederated Salish and Kootenai Tribes and has a law degree from the University of Montana."
     }
   ],
-  "lastUpdated": "2019-10-10T02:36:28.271Z"
+  "lastUpdated": "2019-10-14T17:55:50.590Z"
 }
