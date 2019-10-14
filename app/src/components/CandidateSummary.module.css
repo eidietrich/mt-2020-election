@@ -1,0 +1,119 @@
+.CandidateSummary {
+
+}
+.summaryHeader {
+    background-color: #ddd;
+    position: relative;
+    
+    color: #eee;
+    font-weight: bold;
+    /* border-klef: 1px solid #666; */
+    /* border-top: 1px solid #222; */
+}
+.summaryHeaderTitle {
+    padding: 0.5rem;
+    font-size: 1.3em;
+    padding-right: 2rem;
+
+}
+.summaryHeaderTitle::before {
+    content: '✕';
+    color: #fff;
+    opacity: 0.7;
+    position: absolute;
+    right: 0.5rem;
+    top: 0.5rem;
+    font-size: 1em;
+}
+
+.summaryBody {
+    padding: 0.5rem;
+}
+.summaryTopMatter {
+    display: flex;
+}
+
+.summaryImage {
+    flex: 0 1 40%;
+    max-width: 200px;
+}
+.summaryTopMatterText {
+    flex: 1 1 60%;
+    padding: 0 0.25rem;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.summaryTitle {
+    padding: 0.25em 0.25em;
+    font-size: 1.3em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.summaryName {
+    font-size: 2em;
+    line-height: 1em;
+    padding: 0.25em 0.25em;
+    font-weight: bold;
+    text-align: center;
+}
+.summaryNarrative {
+    margin-top: 0.5rem;
+    /* font-style: italic; */
+    font-size: 0.9em;
+    line-height: 1.2em;
+
+}
+.summaryPodcast {
+    margin: 0.25rem 0;
+    font-size: 0.9em;
+}
+.summaryContacts {
+    margin-top: 0.5rem;
+    font-size: 0.9em;
+
+}
+
+.summaryButton {
+    display: block;
+    max-width: 20rem;
+    margin: 1rem auto;
+    padding: 0.5rem 1rem;
+}
+
+
+/* Desktop modal display - under office container */
+@media screen and (min-width: 500px) {
+    .summaryModal {
+        position: static;
+    }
+    .summaryHeader {
+        border-bottom: none;
+    }
+    .summaryHeaderTitle:before {
+        content: none;
+    }
+    .summaryImage {
+        display: none;
+    }
+    .candidacy {
+        display: block;
+    }
+}
+
+/* default/mobile modal display - pop-up */
+.summaryModal {
+    background: #fff;
+    /* display: none; */
+    /* opacity: 0.95; */
+    
+    position: fixed;
+    /* top: 10px; */
+    left: 0px;
+    right: 0px;
+    bottom: 0;
+    z-index: 200;  
+}

@@ -5,6 +5,7 @@ import SEO from '../components/seo'
 
 import CampaignFinanceState from '../components/CampaignFinanceState' 
 import CampaignFinanceFederal from '../components/CampaignFinanceFederal' 
+import CandidateSummary from '../components/CandidateSummary'
 
 // import { } from '../logic/config.js'
 import { getCandidateParty } from '../logic/functions.js'
@@ -25,8 +26,6 @@ class CandidatePage extends Component {
 
         const jurisdiction = 'state'
 
-        // console.log(this.props.pageContext)
-        
         return (<Layout>
             <SEO
                 title={`${candidate.last_name} | Montana 2020`}
@@ -34,7 +33,7 @@ class CandidatePage extends Component {
             />
             <Link to='/'>All candidates</Link>
             <h1>{`${candidate.first_name} ${candidate.last_name}`}</h1>
-            <h2>Summary info</h2>
+            <CandidateSummary candidate={candidate}/>
             <div>{party.name} for {candidate.position}</div>
             <div>Links to Dem/GOP opponents' pages </div>
             <div>Status: "Incumbent", "Challenger", "Running against 3 opponents in GOP primary" etc.</div>
