@@ -7,42 +7,55 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-import { useStaticQuery, graphql } from "gatsby"
 
-import Header from "./header"
+import Footer from '../library/MTFPFooter'
+import Header from '../library/MTFPHeader'
+
+
 import "./default.css" // from Gatsby default
 import "./app.css"
 
+const styles = {
+  body: {
+    margin: `10px auto`,
+    maxWidth: 1000,
+    padding: `0px 5px`,
+    paddingTop: 0,
+  },
+  appHeader: {
+    backgroundColor: '#222',
+    color: '#fff',
+    textAlign: 'center',
+    padding: '1.2em',
+  },
+  appHed: {
+    fontSize: '3em',
+    fontWeight: 'bold',
+    marginBottom: '0.3em',
+  },
+  appSubhed: {
+    fontSize: '1.5em',
+    marginBottom: '0.3em',
+  }
+}
+
+const options = ['A','B','C']
 
 const Layout = ({ children }) => {
-  const data = useStaticQuery(graphql`
-    query SiteTitleQuery {
-      site {
-        siteMetadata {
-          title
-        }
-      }
-    }
-  `)
-
   return (
     <>
-      {/* <Header siteTitle={data.site.siteMetadata.title} /> */}
-      <div
-        style={{
-          margin: `0 auto`,
-          maxWidth: 960,
-          padding: `0px 5px`,
-          paddingTop: 0,
-        }}
-      >
+      <Header />
+      <div style={styles.body}>
+        <div style={styles.appHeader}>
+          <div style={styles.appHed}>Montana's 2020 election</div>
+          <div style={styles.appSubhed}>A citizen's guide by the Montana Free Press</div>
+          <div>
+            
+          </div>
+        </div>
         <main>{children}</main>
-        <footer>
-          © Montana Free Press {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
       </div>
+      <Footer />
     </>
   )
 }

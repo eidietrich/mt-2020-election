@@ -13,7 +13,7 @@ import text from '../data/app-copy.json'
 import styles from './index.module.css'
 
 import { parties, excludeStatuses } from '../logic/config.js'
-import { makeCandidateKey, cleanDisplayUrl, getCandidateParty } from '../logic/functions.js'
+import { makeCandidateKey } from '../logic/functions.js'
 
 
 const { candidates, positionDescriptions, lastUpdated } = text
@@ -46,7 +46,6 @@ class IndexPage extends Component {
     return <Layout>
       <SEO title="Home" />
       <div className="intro">
-        <div>[TK: MTFP Header]</div>
         <h1>{text.headline}</h1>
         <div className="intro-text">
           <div className={styles.byline}>By MTFP Staff</div>

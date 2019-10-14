@@ -1,3 +1,7 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 button {
     display: inline-block;
     font-weight: bold;
@@ -31,4 +35,22 @@ a:hover {
 }
 a.button-link:hover {
     text-decoration: none;
+}
+
+/* For Footer component - here b/c of CSS import issue */
+footer {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    background-color: #222;
+    color: #fff;
+    padding: 1rem;
+}
+
+footer a {
+    color: #ddd;
+}
+footer a:hover {
+    color: #fff;
+    text-decoration: underline;
 }
