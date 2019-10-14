@@ -20,14 +20,14 @@ const makeCandidateKey = candidate => (candidate.first_name + '-' + candidate.la
 const getCandidateContributions = candidate => {
     const key = `${candidate.last_name}, ${candidate.first_name}`
     const matches = stateContributions.filter(d => d.Candidate.trim() === key)
-    console.log('cont', key, matches.length)
+    // console.log('cont', key, matches.length)
     return matches
 }
 const getCandidateExpenditures = candidate => {
     const key = `${candidate.last_name}, ${candidate.first_name}`
     const matches = stateExpenditures.filter(d => d.Candidate.trim() === key)
-    console.log('exp', key, matches.length)
-    return 
+    // console.log('exp', key, matches.length)
+    return matches
 }
 
 exports.createPages = async({ actions: { createPage } }) => {
@@ -35,6 +35,8 @@ exports.createPages = async({ actions: { createPage } }) => {
     candidates.forEach(candidate => {
         const stateContributions = getCandidateContributions(candidate)
         const stateExpenditures = getCandidateExpenditures(candidate)
+        console.log(candidate.last_name)
+        console.log('sc', stateContributions.length, 'se', stateExpenditures.length)
         createPage({
             path: `/candidates/${makeCandidateKey(candidate)}`,
             component: require.resolve('./src/templates/candidate.js'),

@@ -50,7 +50,9 @@ const Layout = ({ children }) => {
           <div style={styles.appHed}>Montana's 2020 election</div>
           <div style={styles.appSubhed}>A citizen's guide by the Montana Free Press</div>
           <div>
-            
+            <div>Overview</div>
+            <div>Candidates</div>
+            <div>Races</div>
           </div>
         </div>
         <main>{children}</main>

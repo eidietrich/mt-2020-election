@@ -38,7 +38,7 @@ Some data pipeline folders contain Jupyter notebooks for exploration/script deve
 - coverage-mtfp - list of stories related to specific candidates/races from MTFP - source to MTFP website API
 - coverage-outside - list of stories from other outlets - hand-curate links in Google Sheet, pipe headlines/bylines/etc. into Gatsby with some sort of metadata scraper
 - candidate-images - (currently stashed in app, incomplete)
-- candidate-statements - hand-curate social media posts/press releases/other statemetns in Google Doc?
+- candidate-statements - hand-curate social media posts/press releases/other statements in Google Doc?
 - candidate-mailers - mailers/advertisements - figure out system?
 - spending-tv-spots - figure out how to scrape data from local TV stations
 
@@ -48,6 +48,8 @@ SIMPLE TODO:
 - Embed podcast player in dropdown for candidates who've been interviewed on [MTFP podcast](https://montanafreepress.org/series/montana-lowdown-podcast/)
 - Add Google Analytics
 - Add remaining candidate portraits
+- Make plain text version of homepage at `/text-only/` (partially complete - need to run through formatting)
+- Make MTFP header/footer menus
 
 BIGGER PICTURE TODO
 - Clean up Google Docs import, bulletproof security issues
