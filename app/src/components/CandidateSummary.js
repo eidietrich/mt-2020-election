@@ -1,6 +1,8 @@
 import React from 'react'
 import { Link } from "gatsby"
 
+import Portrait from './Portrait'
+
 import styles from './CandidateSummary.module.css'
 
 import {makeCandidateKey, cleanDisplayUrl, getCandidateParty } from '../logic/functions.js'
@@ -19,9 +21,22 @@ const CandidateSummary = (props) => {
         <div className={styles.summaryTopMatter}>
           <div className={styles.summaryTopMatterText}>
             <div className={styles.summaryTitle}>{candidate.current_title}</div>
-            <div className={styles.summaryName}>{candidate.first_name} {candidate.last_name}</div>
+            <div className={styles.summaryName}>
+              <Link to={`/candidates/${makeCandidateKey(candidate)}`}>{candidate.first_name} {candidate.last_name}</Link>
+            </div>
           </div>
         </div>
+
+        <div className={styles.portrait}>
+          <Portrait filename={candidate.photo_slug} />
+        </div>
+        
+
+        {/* <CandidateMug
+          key={candidate.last_name}
+          candidate={candidate}
+          party={candidate.party}
+        /> */}
         
         <div className={styles.summaryNarrative} dangerouslySetInnerHTML={{ __html: candidate.text }} />
   
@@ -34,11 +49,11 @@ const CandidateSummary = (props) => {
             {candidate.fb_url ? <div><strong>Facebook: </strong><a href={candidate.fb_url}>{cleanDisplayUrl(candidate.fb_url)}</a></div> : null}
             {candidate.tw_url ? <div><strong>Twitter: </strong><a href={candidate.tw_url}>{cleanDisplayUrl(candidate.tw_url)}</a></div> : null}
         </div>
-        <Link to={`/candidates/${makeCandidateKey(candidate)}`} className='button-link'>
+        {/* <Link to={`/candidates/${makeCandidateKey(candidate)}`} className='button-link'>
           <button className={styles.summaryButton}>
               More on {candidate.last_name}
           </button>
-        </Link>
+        </Link> */}
       </div>
       
       

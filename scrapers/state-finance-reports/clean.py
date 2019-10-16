@@ -9,10 +9,21 @@ expenditures = pd.read_json(base_path + 'data/raw-expenditures.json', orient='re
 # Cleaning
 contributions['Candidate'] = contributions['Candidate'].str.strip()
 expenditures['Candidate'] = expenditures['Candidate'].str.strip()
-
+contribution_type = {
+    1: 'Personal contributions',
+    2: 'Unitemized contributions',
+    3: 'Loans',
+    4: 'Fundraisers & misc',
+    5: 'PAC contributions',
+    6: 'Political party contributions',
+    7: 'Incidental committee contributions',
+    8: 'Other political committee contributions',
+    9: 'Individual contributions',
+}
+contributions['type'] = contributions['Contribution Type'].replace(contribution_type)
 output = {
-    "contributions": contributions.to_json(orient='records'),
-    "expenditures": expenditures.to_json(orient='records')
+    'contributions': contributions.to_json(orient='records'),
+    'expenditures': expenditures.to_json(orient='records')
 }
 
 with open(base_path + 'data/state-finance-cleaned.json', 'w') as f:

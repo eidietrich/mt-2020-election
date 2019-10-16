@@ -3,14 +3,17 @@ import { Link } from 'gatsby'
 import Layout from "../components/layout"
 import SEO from '../components/seo'
 
-import CampaignFinanceState from '../components/CampaignFinanceState' 
-import CampaignFinanceFederal from '../components/CampaignFinanceFederal' 
+import CandidateFinanceState from '../components/CandidateFinanceState' 
+import CandidateFinanceFederal from '../components/CandidateFinanceFederal' 
 import CandidateSummary from '../components/CandidateSummary'
 
 // import { } from '../logic/config.js'
-import { getCandidateParty } from '../logic/functions.js'
+import { makeCandidateKey, makeRaceKey, candidateNameParty } from '../logic/functions.js'
+import { excludeStatuses } from '../logic/config.js'
 
-// import styles from './single-lawmaker-page.module.css'
+import { candidates } from '../data/app-copy.json' // TODO: Replace this with gatsby-node logic
+
+import styles from './candidate.module.css'
 
 class CandidatePage extends Component {
     constructor(props){
@@ -18,11 +21,17 @@ class CandidatePage extends Component {
         // this.state = {}
     }
     render(){
-        const { candidate,
-            stateContributions, 
-            stateExpenditures,
+        const {
+            candidate,
+            race
         } = this.props.pageContext
-        const party = getCandidateParty(candidate)
+
+        const competitors = candidates
+            .filter(d => !excludeStatuses.includes(d.status))
+            .filter(c => c.position === race.position)
+            .filter(c => makeCandidateKey(c) !== makeCandidateKey(candidate))
+
+        console.log(competitors)
 
         const jurisdiction = 'state'
 
@@ -31,28 +40,40 @@ class CandidatePage extends Component {
                 title={`${candidate.last_name} | Montana 2020`}
                 description={`TK`}
             />
-            <Link to='/'>All candidates</Link>
-            <h1>{`${candidate.first_name} ${candidate.last_name}`}</h1>
+            {/* <Link to='/'>All candidates</Link> */}
+            {/* <h1>{`${candidate.first_name} ${candidate.last_name}`}</h1> */}
             <CandidateSummary candidate={candidate}/>
-            <div>{party.name} for {candidate.position}</div>
-            <div>Links to Dem/GOP opponents' pages </div>
-            <div>Status: "Incumbent", "Challenger", "Running against 3 opponents in GOP primary" etc.</div>
+
+            <hr />
+
+            <div className={styles.competitors}>
+                <span><strong>Competitors:</strong> </span>
+                {competitors.map((c, i) => {
+                    const url = `/candidates/${makeCandidateKey(c)}`
+                    return <span key={String(i)}><Link to={url}>{candidateNameParty(c)}</Link></span>
+                    })
+                    .reduce((prev, curr) => [prev, ', ', curr])
+                }
+            </div>
+            <div>
+                <strong>Race overview:</strong> <Link to={`/races/${makeRaceKey(race)}`}>2020 {race.position}</Link>
+            </div>
             <hr />   
-            <p><em>The following could be tabs/sections etc. We probably don't have the capacity to do everything sketched out here.</em></p>
+            
             
             <h2>TK: Campaign finance</h2>
             {/* <CampaignFinance jurisdiction={jurisdiction} /> */}
             {(jurisdiction === 'state') ?
-                <CampaignFinanceState 
+                <CandidateFinanceState 
                     candidate={candidate}
-                    contributions={stateContributions}
-                    expenditures={stateExpenditures}
+                    contributions={candidate.stateContributions}
+                    expenditures={candidate.stateExpenditures}
                 /> :
                 <div>Federal</div>
             }
             <p>Need to figure out data sourcing here. Will have to treat state/federal elections separately. Sketch out/develop appropriate data viz.</p>     
             
-            
+            {/* <p><em>The following could be tabs/sections etc. We probably don't have the capacity to do everything sketched out here.</em></p>
 
             <h2>TK: Biographical info</h2> 
             <p>Will have to report/compile for each candidate</p>
@@ -73,17 +94,10 @@ class CandidatePage extends Component {
             <p>We can set this up to populate automatically from our CMS based on tags with the candidate name. We could also feature podcasts in this section.</p>
 
             <h2>TK: Curated coverage from other organizations</h2>
-            <p>We'll have to curate this by hand, most likely - easiest way is to set up a Gdoc spreadsheet of links relevant to specific candidates</p>
+            <p>We'll have to curate this by hand, most likely - easiest way is to set up a Gdoc spreadsheet of links relevant to specific candidates</p> */}
         </Layout>);
     }
   }
 
 
 export default CandidatePage
-
-const CampaignFinance = (props) => {
-    // return <div>This is campaign fin</div>
-    const { jurisdiction } = props
-    if (jurisdiction === 'state') { return <div>This is campaign fine</div> }
-    // if (jurisdiction === 'federal') { return <CampaignFinanceFederal /> }
-}

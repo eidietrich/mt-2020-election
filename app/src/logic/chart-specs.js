@@ -1,4 +1,7 @@
 
+const moneyAxisFormat = '$,.0f'
+const dateAxisFormat = '%m/%d/%y'
+
 
 const baseSpec = {
     data: { values: []}, // add in component
@@ -13,7 +16,7 @@ export const contributionBreakdownSpec = {
     height: 150,
     encoding: {
         x: { field: 'Amount', aggregate: 'sum', type: 'quantitative',
-            axis: {format: '$,.0s'}
+            axis: {format: moneyAxisFormat}
         },
         y: { field: 'Candidate', type: 'nominal', title: '' },
         color: {field: 'type2', type: 'nominal',
@@ -49,10 +52,10 @@ export const cumulativeContributionSpec = {
     ],
     encoding: {
         x: { field: 'Date Paid', type: 'temporal', title:'',
-            axis: {format: '%b.%y'}
+            axis: {format: dateAxisFormat}
          },
         y: { field: 'cumulative_amount', type: 'quantitative', title: 'Total raised',
-            axis: {format: '$,.0s'}
+            axis: {format: moneyAxisFormat}
           },
         tooltip: [
             { field: 'Date Paid', type: 'temporal', title: 'Date'},
@@ -83,10 +86,10 @@ export const cumulativeExpendituresSpec = {
     ],
     encoding: {
         x: { field: 'Date Paid', type: 'temporal', title:'',
-            axis: {format: '%b.%y'}
+            axis: {format: dateAxisFormat}
          },
         y: { field: 'cumulative_amount', type: 'quantitative', title: 'Total raised',
-            axis: {format: '$,.0s'},
+            axis: {format: moneyAxisFormat},
             // scale: {domain: [0,600000]}
           },
         tooltip: [

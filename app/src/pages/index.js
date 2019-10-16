@@ -1,5 +1,5 @@
 import React, {Component} from "react"
-import { Link } from "gatsby"
+import { Link, navigate } from "gatsby"
 
 import { timeFormat } from 'd3-time-format'
 
@@ -8,15 +8,17 @@ import CandidateMug from "../components/CandidateMug"
 import CandidateSummary from '../components/CandidateSummary'
 import SEO from "../components/seo"
 
+import TextBlock from '../library/TextBlock.js'
+
 import text from '../data/app-copy.json'
 
 import styles from './index.module.css'
 
 import { parties, excludeStatuses } from '../logic/config.js'
-import { makeCandidateKey } from '../logic/functions.js'
+import { makeCandidateKey, makeRaceKey } from '../logic/functions.js'
 
 
-const { candidates, positionDescriptions, lastUpdated } = text
+const { candidates, races, lastUpdated } = text
 
 const offices = Array.from(new Set(candidates.map(d => d.position)))
 
@@ -31,11 +33,16 @@ class IndexPage extends Component {
     this.select = this.select.bind(this)
     this.reset = this.reset.bind(this)
   }
+  
+  // // Make page interactive
+  // select(candidate){
+  //   this.setState({
+  //     selCandidate: makeCandidateKey(candidate)
+  //   })
+  // }
 
   select(candidate){
-    this.setState({
-      selCandidate: makeCandidateKey(candidate)
-    })
+    navigate(`candidates/${makeCandidateKey(candidate)}/`)
   }
 
   reset(){
@@ -46,58 +53,68 @@ class IndexPage extends Component {
     return <Layout>
       <SEO title="Home" />
       <div className="intro">
-        <h1>{text.headline}</h1>
+        {/* <h1>{text.headline}</h1> */}
         <div className="intro-text">
-          <div className={styles.byline}>By MTFP Staff</div>
+          <div className={styles.byline}>{text.byline}</div>
           <div className={styles.timestamp}>Last updated {timeFormat("%B %d, %Y")(new Date(lastUpdated))}</div>
-          {text.intro.map((d,i) => <p key={String(i)} dangerouslySetInnerHTML={{ __html: d.value }}></p>)}
+          <TextBlock paragraphs={text.intro} />
         </div>
       </div>
-      {offices.map(office => <Office
+      <h1>Overview: Who's in the running</h1>
+      <div>(A text-only version of this page is <Link to='/text-only'>here</Link>.)</div>
+      {offices.map(office => <Race
           key={office}
           name={office}
           candidates={candidates.filter(d => d.position === office )}
-          positionDescriptions={positionDescriptions}
+          race={races.find(d => d.position === office)}
 
+          // interaction
           selCandidate={this.state.selCandidate}
           select={this.select}
           reset={this.reset}
       />)}
-      <div>See a text-only version of this page <Link to='/text-only'>here</Link>.</div>
     </Layout>
   }
 }
-
 export default IndexPage
 
-const Office = (props) => {
-  const {name, candidates, positionDescriptions, selCandidate, select, reset} = props
+const Race = (props) => {
+  const {candidates, race, selCandidate, select, reset} = props
   // null if no selCandidate or selCandidate isn't in Office list
   const summarizeCandidate = candidates
     .find(d => makeCandidateKey(d) === selCandidate)
-  const descriptionObject = positionDescriptions.find(d => d.position === name)
-  return <div className={styles.Office}>
-    <div className={styles.officeHeader}>
-      <h2 className={styles.officeName}>{name}</h2>
-      {descriptionObject ? <div className={styles.officeDescription}>{descriptionObject.description}</div>: null}
-    </div>
+  // const descriptionObject = positionDescriptions.find(d => d.position === name)
+
+  const primaryFields = parties
+    .filter(party => candidates.find(d => d.party === party.key)) // exclude parties w/out candidates
+    .map(party => {
+      const partyCandidates = candidates
+        .filter(d => !excludeStatuses.includes(d.status))
+        .filter(d => d.party === party.key)
+      return <Primary key={party.key}
+        name={party.name}
+        candidates={partyCandidates}
+        party={party}
+        // interaction
+        selCandidate={selCandidate}
+        select={select}
+        reset={reset}
+        
+      />
+    })
+
+  return <div className={styles.Race}>
+
+    <Link to={`races/${makeRaceKey(race)}`}>
+      <div className={styles.officeHeader}>
+        <h2 className={styles.officeName}>{race.position}</h2>
+        {/* <div className={styles.officeType}>{race.type} race</div> */}
+        {/* <div className={styles.officeDescription}>{race.description}</div> */}
+      </div>
+    </Link>
     
     <div className={styles.officePrimaries}>
-      {parties
-        .filter(party => candidates.find(d => d.party === party.key)) // exclude parties w/out candidates
-        .map(party => {
-          const partyCandidates = candidates
-            .filter(d => !excludeStatuses.includes(d.status))
-            .filter(d => d.party === party.key)
-          return <Primary key={party.key}
-            name={party.name}
-            candidates={partyCandidates}
-            party={party}
-            select={select}
-            selCandidate={selCandidate}
-          />
-        })
-      }
+      {primaryFields}
     </div>
     <div className={styles.summaryModal}
       onClick={reset}
@@ -111,7 +128,7 @@ const Office = (props) => {
 }
 
 const Primary = (props) => {
-  const {candidates, party, select, selCandidate} = props
+  const {candidates, party, select, reset, selCandidate} = props
   return <div className={styles.Primary}>
     <h4 className={styles.primaryName} style={{color: party.color}}>{props.name}</h4>
     <div className={styles.primaryCandidates}>
@@ -119,7 +136,9 @@ const Primary = (props) => {
         key={candidate.last_name}
         candidate={candidate}
         party={party}
+        // interaction
         handleSelect={select}
+        handleReset={reset}
         isSelected={makeCandidateKey(candidate) === selCandidate}
       />)}
     </div>

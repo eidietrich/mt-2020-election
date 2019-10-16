@@ -1,5 +1,10 @@
 import { format } from 'd3-format'
 
+export const raceTypes = [
+  {key: 'state', description: 'State office. Race regulated by the Montana Commissioner of Political Practices'},
+  {key: 'federal', description: 'Federal office. Race regulated by the Federal Election Commission.'}
+]
+
 export const parties = [
     {key: 'R', name:'Republican', color: '#d73027'},
     {key: 'D', name:'Democrat', color: '#4575b4'},

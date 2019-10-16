@@ -33,6 +33,10 @@
     display: flex;
 }
 
+.portrait {
+    width: 200px;
+}
+
 .summaryImage {
     flex: 0 1 40%;
     max-width: 200px;

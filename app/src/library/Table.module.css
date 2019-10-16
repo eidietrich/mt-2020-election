@@ -1,0 +1,149 @@
+
+.table {
+    overflow: scroll;
+}
+.description {
+    padding: 0.5rem;
+}
+
+.header {
+    display: flex;
+    font-size: 0.8em;
+    position: relative;
+}
+
+.rowsContainer {
+    /* color: green; */
+    /* overflow: contain; */
+    /* width: fit-content; */
+}
+
+.row {
+    /* background-color: #eee; */
+    border-top: 1px solid #ddd;
+    padding: 0.2rem;
+    font-size: 0.8rem;
+
+    /* opacity: 0.8; */
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: nowrap;
+    /* cursor: pointer; */
+
+    text-decoration: none;
+    color: #000;
+}
+.row:nth-child(odd){
+    background-color: #eee;
+}
+
+
+/* COLUMN WIDTH SPACING */
+
+.nameCol {
+    flex: 1 0 8rem;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 0.2rem;
+    margin-left: 0.5rem;
+    margin-right: 0.2rem;
+}
+.partyCol {
+    flex: 1 0 8rem;
+    margin-right: 0.2rem;
+}
+.thumbnailCol {
+    flex: 0 0 110px;
+}
+.textCol {
+    flex: 1 0 8rem;
+    margin-right: 0.2rem;
+}
+.linkCol {
+    flex: 1 0 10rem;
+    margin-right: 0.2rem;
+}
+
+@media(max-width: 400px){
+    .nameCol {
+        flex: 2 0 4rem;
+        font-size: 0.8rem;
+    }
+    .linkCol {
+        display: none;
+    }
+}
+
+.header .partyCol,
+.header .nameCol,
+.header .districtCol{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1em;
+    text-align: left;
+}
+
+.header .billNumCol,
+.header .votePercentCol {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1em;
+    /* text-align: center; */
+}
+
+/* sortable headers w/ icons */
+.colSortable {
+    cursor: pointer;
+    display: block;
+    /* color: brown; */
+}
+
+.colSortable:before {
+    font-size: 1.2em;
+    content: '↕ '
+}
+.colSortable:after {
+    border-top-color: #666;
+	margin-top: 1px;
+}
+
+.colSortable:hover {
+    font-weight: bold;
+}
+.colNotSortable {
+    /* color: blue; */
+}
+.colSortable.colActiveSortAsc {
+    font-weight: bold;
+}
+.colSortable.colActiveSortAsc:before {
+    font-size: 1.2em;
+    content: '↑ '
+}
+.colSortable.colActiveSortDesc {
+    font-weight: bold;
+}
+.colSortable.colActiveSortDesc:before {
+    font-size: 1.2em;
+    content: '↓ '
+}
+    
+
+.action {
+    margin-left: 0.2rem;
+    height: 0.8rem;
+    flex: 0 0 0.8rem;
+    padding: 0 0.1rem;
+
+    border: 1px solid #222;
+
+    /*glyph*/
+    /* text-align: center; */
+    font-size: 0.1em;
+    color: #222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

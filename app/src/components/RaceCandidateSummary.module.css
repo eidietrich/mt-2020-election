@@ -1,0 +1,53 @@
+.Race {
+    border: 1px solid #bbb;
+    background-color: #eee;
+    margin: 1rem 0;
+}
+.officeHeader {
+    background-color: #222;
+    color: #fff;
+    /* margin: 0.5rem 0.25rem; */
+    padding: 0.5rem;
+}
+
+.officeName {
+    text-transform: uppercase;
+    margin-bottom: 0;
+    text-align: center;
+}
+.officeType {
+    text-transform: capitalize;
+    text-align: center;
+    margin-bottom: 0.3rem;
+}
+.officeDescription {
+    font-style: italic;
+    font-size: 0.9em;
+    line-height: 1.2em;
+    margin-bottom: 0.3rem;
+}
+.officePrimaries {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0.5rem 0;
+}
+
+
+
+.Primary {
+    /* border: 1px solid blue; */
+    min-width: 150px;
+    margin-right: 1em;
+
+}
+.primaryName {
+    color: #666;
+    margin: 0.25rem;
+    text-align: center;
+}
+.primaryCandidates {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}   

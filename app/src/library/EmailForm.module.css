@@ -1,0 +1,39 @@
+.signup {
+    width: 530px;
+    margin: 1rem auto;
+}
+
+.signupGroup {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;display: flex;
+    flex-wrap: wrap;   
+}
+
+.message {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.textInput {
+    display: inline-block;
+    flex: 4 1 15rem;
+    margin: -1px;
+    height: 2.5rem;
+    padding-left: 0.5rem;
+    
+}
+.submitButton {
+    display: inline-block;
+    flex: 1 1 auto;
+    margin: -1px;
+    background-color: #2800d7;
+    color: #fff;
+    /* height: 1.2em; */
+}
+
+.submitButton:hover{
+    background-color: #eee;
+    color: #222;
+
+}

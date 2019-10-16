@@ -13,25 +13,39 @@
 
 
 
-.Office {
+.Race {
     border: 1px solid #bbb;
     background-color: #eee;
     margin: 1rem 0;
 }
 .officeHeader {
-    background-color: #444444;
+    background-color: #222;
     color: #fff;
     /* margin: 0.5rem 0.25rem; */
     padding: 0.5rem;
 }
+.officeHeader:hover {
+    background-color: #2800d7;
+}
+
 .officeName {
     text-transform: uppercase;
     margin-bottom: 0;
+    text-align: center;
+}
+.officeName a {
+    color: #fff;
+}
+.officeType {
+    text-transform: capitalize;
+    text-align: center;
+    margin-bottom: 0.3rem;
 }
 .officeDescription {
     font-style: italic;
     font-size: 0.9em;
     line-height: 1.2em;
+    margin-bottom: 0.3rem;
 }
 .officePrimaries {
     display: flex;

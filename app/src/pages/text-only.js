@@ -14,7 +14,7 @@ import { parties, excludeStatuses } from '../logic/config.js'
 import { cleanDisplayUrl } from '../logic/functions.js'
 
 
-const { candidates, positionDescriptions, lastUpdated } = text
+const { candidates, races, lastUpdated } = text
 
 const offices = Array.from(new Set(candidates.map(d => d.position)))
 
@@ -25,7 +25,7 @@ class PlainTextPage extends Component {
       key={office}
       name={office}
       candidates={candidates.filter(d => d.position === office )}
-      officeInfo={positionDescriptions.find(d => d.position === office)}
+      officeInfo={races.find(d => d.position === office)}
     />)  
 
     return <Layout>

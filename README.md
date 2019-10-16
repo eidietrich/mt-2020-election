@@ -21,7 +21,9 @@ Some data pipeline folders contain Jupyter notebooks for exploration/script deve
 - state-finance-reports - itemized state/local race campaign finance data from COPP
     - CMD: Check for new candidate filings: `python3 scrapers/state-finance-reports/check-candidate-updates.py`
     - CMD: Check for new C-5 filings: `python3 scrapers/state-finance-reports/check-report-updates.py`
-    - CMD: Refresh data: `python3 scrapers/state-finance-reports/fetch-finance-reports.py`
+    - CMD: Refresh data: (Takes several minutes) `python3 scrapers/state-finance-reports/fetch-finance-reports.py`
+    - CMD: Clean data: `python3 scrapers/state-finance-reports/clean.py`
+    - CMD: Move to app: `sh utils/campaign-finance-to-app.sh` # replace w/ node script that also parses
 
 ### Next priority pipelines:
 - fed-finance-reports - federal race campaign finance data from FEC API

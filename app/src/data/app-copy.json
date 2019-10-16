@@ -1,56 +1,78 @@
 {
-  "headline": "Who’s in the running",
-  "byline": "Montana Free Press staff",
+  "appHed": "Montana's 2020 election",
+  "appSubhed": "A citizen's guide by the Montana Free Press",
+  "byline": "By Montana Free Press staff",
   "intro": [
     {
       "type": "text",
-      "value": "HELENA — Montana voters will have a hefty ballot to consider in 2020, packed with decisions about the U.S. presidential election, two of Montana’s three congressional seats, and five statewide offices including governor."
+      "value": "HELENA — Montana voters will have a consequential ballot to ponder in 2020, packed with decisions about the U.S. presidential election, two of the three seats in Montana’s federal delegation, and five statewide offices including governor."
     },
     {
       "type": "text",
-      "value": "Even with a year and a half until Election Day, Tuesday, Nov. 3, 2020, Montana candidates aspiring and declared have begun jockeying for position in primary elections set for June 2, 2020. Keeping track can feel like herding cats. The round-up that follows can help."
+      "value": "That’s a lot for our citizens to keep track of — especially with national media outlets focused on who will win control of the White House. This section of our website is an effort to help, particularly with the down-ballot races that don’t necessarily receive wall-to-wall coverage."
     },
     {
       "type": "text",
-      "value": "Montana Free Press will keep this article updated as new candidates throw their hats in the ring in the coming months. And, hey, if you’re a Montanan planning a run and want to tip us off, <a href=\"mailto:info@montanafreepress.org\">send us an email</a>."
+      "value": "Some dates to keep in mind: Montana’s primary elections are set for June 2, 2020. The winning candidate from each political party will then move on to the general election, set for Tuesday Nov. 3, 2020."
+    },
+    {
+      "type": "text",
+      "value": "We plan to update and expand this guide over the coming months as we interview candidates, track campaign spending, and watch our political aspirants make their case for how they’ll serve the state. We’d very much appreciate your feedback on what information you’d find most helpful to see here as you ponder how to cast your ballot — you can reach us by email at <a href=\"mailto:info@montanafreepress.org\">info@montanafreepress.org</a>."
     }
   ],
-  "positionDescriptions": [
+  "introTitle": "Overview: Who's in the running",
+  "candidatePageTitle": "",
+  "candidatePageText": [],
+  "racePageTitle": "Races: Montana offices up for election in 2020",
+  "racePageText": [
+    {
+      "type": "text",
+      "value": "Race page intro here."
+    },
+    {
+      "type": "text",
+      "value": "Mention some races being federal, others state jurisdiction."
+    },
+    {
+      "type": "text",
+      "value": "Not included here currently: Open supreme court seat, Public Service Commission races, Montana House and Senate races. Or local races (e.g., city commission or school board elections)."
+    }
+  ],
+  "races": [
     {
       "position": "Governor",
+      "type": "state",
       "description": "Montana’s chief executive, tasked with overseeing state agencies and proposing state budgets to the Montana Legislature, elected to a four-year term. Also one of five seats on the Montana Board of Land Commissioners, which has authority over state trust lands."
     },
     {
       "position": "U.S. Senate",
+      "type": "federal",
       "description": "One of Montana’s two representatives in the upper chamber of the U.S. Congress, elected to a six-year term. Montana’s other senator, Jon Tester, is next up for re-election in 2024."
     },
     {
       "position": "U.S. House",
+      "type": "federal",
       "description": "Montana’s sole representative in the lower chamber of the U.S. Congress, elected to a two-year term."
     },
     {
       "position": "Attorney General",
+      "type": "state",
       "description": "The state’s chief law enforcement and legal officer, who oversees the state Department of Justice, issues legal opinions interpreting state law and acts as an advocate for the public interest in certain legal proceedings. One of five seats on the state land board and elected to a four-year term."
     },
     {
       "position": "Secretary of State",
+      "type": "state",
       "description": "Oversees Montana elections and manages state records, as well as serving on the state land board. Elected to a four-year term."
     },
     {
       "position": "Superintendent of Public Instruction",
+      "type": "state",
       "description": "Heads the Montana Office of Public Instruction and oversees the state’s K-12 school system, much of which is governed directly by locally elected school boards. Also a seat on the state land board and elected to a four-year term."
     },
     {
       "position": "State Auditor",
+      "type": "state",
       "description": "Runs the office responsible for protecting Montanans from fraud by regulating insurance and securities industries. Also a seat on the state land board and elected to a four-year term."
-    },
-    {
-      "position": "Public Service Commissioner",
-      "description": "Description TK"
-    },
-    {
-      "position": "Montana Supreme Court Justice",
-      "description": "Description TK"
     }
   ],
   "candidates": [
@@ -672,5 +694,5 @@
       "text": "Morigeau, a state representative from Missoula, announced his candidacy for state auditor June 30. He is a member of the Confederated Salish and Kootenai Tribes and has a law degree from the University of Montana."
     }
   ],
-  "lastUpdated": "2019-10-14T21:25:47.609Z"
+  "lastUpdated": "2019-10-16T00:06:56.726Z"
 }
