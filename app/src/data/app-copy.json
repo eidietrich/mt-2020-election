@@ -21,21 +21,33 @@
     }
   ],
   "introTitle": "Overview: Who's in the running",
-  "candidatePageTitle": "",
-  "candidatePageText": [],
+  "candidatePageTitle": "Candidates: Montana’s 2020 hopefuls",
+  "candidatePageText": [
+    {
+      "type": "text",
+      "value": "(This listing currently excludes Montana candidates for an open Supreme Court Seat, Public Service Commission districts and Montana House and Senate races as well as local races including city commission and school board elections.)"
+    }
+  ],
   "racePageTitle": "Races: Montana offices up for election in 2020",
   "racePageText": [
     {
       "type": "text",
-      "value": "Race page intro here."
+      "value": "This listing currently omits open seats on the Montana Supreme Court as well as Public Service Commission and Montana House and Senate races. It also excludes local races such as city commission and school board seats."
     },
     {
       "type": "text",
-      "value": "Mention some races being federal, others state jurisdiction."
+      "value": "Montana races for federal office (U.S. Senate and U.S. House seats) are under the jurisdiction of the <a href=\"https://www.fec.gov/\">Federal Election Commission</a>. State office races shown here are policed by the <a href=\"http://politicalpractices.mt.gov/\">Montana Commissioner of Political Practices</a>."
+    }
+  ],
+  "checkBackHed": "Stay tuned for more",
+  "checkBackSectionText": [
+    {
+      "type": "text",
+      "value": "We'll be updating this page with additional information through the general election in November 2020."
     },
     {
       "type": "text",
-      "value": "Not included here currently: Open supreme court seat, Public Service Commission races, Montana House and Senate races. Or local races (e.g., city commission or school board elections)."
+      "value": "Have ideas about what types of coverage would be helpful to you as you consider how you'll vote? Tell us at <a href=\"mailto:info@montanafreepress.org\">info@montanafreepress.org</a>."
     }
   ],
   "races": [
@@ -694,5 +706,5 @@
       "text": "Morigeau, a state representative from Missoula, announced his candidacy for state auditor June 30. He is a member of the Confederated Salish and Kootenai Tribes and has a law degree from the University of Montana."
     }
   ],
-  "lastUpdated": "2019-10-16T00:06:56.726Z"
+  "lastUpdated": "2019-10-17T16:53:03.061Z"
 }

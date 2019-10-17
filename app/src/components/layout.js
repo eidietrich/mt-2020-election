@@ -29,6 +29,7 @@ const styles = {
     color: '#fff',
     textAlign: 'center',
     padding: '1.2em',
+    marginBottom: '0.5em'
   },
   appHed: {
     fontSize: '3em',
@@ -65,8 +66,8 @@ const Layout = ({ children }) => {
           <div style={styles.appSubhed}>{text.appSubhed}</div>
           <div style={styles.navBar}>
             <Link style={styles.navItem} to='/'>Overview</Link>
-            <Link style={styles.navItem} to='/candidates'>Candidates</Link>
             <Link style={styles.navItem} to='/races'>Races</Link>
+            <Link style={styles.navItem} to='/candidates'>Candidates</Link>
           </div>
         </div>
         <main>{children}</main>

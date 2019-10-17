@@ -1,4 +1,9 @@
 
 .competitors {
     margin-bottom: 0.5rem;
+    padding: 0.5rem;
+}
+
+.race {
+    padding: 0.5rem;
 }

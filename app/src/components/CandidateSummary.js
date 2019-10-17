@@ -1,54 +1,54 @@
 import React from 'react'
-import { Link } from "gatsby"
+import { Link, navigate } from "gatsby"
 
 import Portrait from './Portrait'
+// import CandidateMug from './CandidateMug'
 
 import styles from './CandidateSummary.module.css'
 
-import {makeCandidateKey, cleanDisplayUrl, getCandidateParty } from '../logic/functions.js'
+import {makeCandidateKey, makeCandidateUrl, cleanDisplayUrl, getCandidateParty } from '../logic/functions.js'
 
 const CandidateSummary = (props) => {
     const {candidate} = props
     const party = getCandidateParty(candidate)
     return <div>
-      <div className={styles.summaryHeader} style={{backgroundColor: party.color}}>
+      <div className={styles.header} style={{backgroundColor: party.color}}>
+        {party.name} for {candidate.position}
         <div className={styles.summaryHeaderTitle}>
-          {party.name} for {candidate.position}
-        </div>
-        
+          
+        </div> 
       </div>
-      <div className={styles.summaryBody}>
-        <div className={styles.summaryTopMatter}>
-          <div className={styles.summaryTopMatterText}>
-            <div className={styles.summaryTitle}>{candidate.current_title}</div>
-            <div className={styles.summaryName}>
-              <Link to={`/candidates/${makeCandidateKey(candidate)}`}>{candidate.first_name} {candidate.last_name}</Link>
+      <div className={styles.body}> 
+        <div className={styles.container}>
+          <div className={styles.portraitNameTitleGroup}>
+            <div className={styles.portrait}>
+            <Link to={`/candidates/${makeCandidateKey(candidate)}`}>
+              <Portrait filename={candidate.photo_slug} />
+            </Link>
+            </div>
+            <div className={styles.nameTitleGroup}>
+              <div className={styles.title}>{candidate.current_title}</div>
+              <div className={styles.name}>
+                <Link to={`/candidates/${makeCandidateKey(candidate)}`}>{candidate.first_name} {candidate.last_name}</Link>
+              </div>
             </div>
           </div>
+          <div className={styles.textGroup}>
+            <div className={styles.bio} dangerouslySetInnerHTML={{ __html: candidate.text }} />
+            <div className={styles.contacts}>
+              {candidate.web_url ? <div><strong>Website: </strong><a href={candidate.web_url}>{cleanDisplayUrl(candidate.web_url)}</a></div> : null}
+              {candidate.fb_url ? <div><strong>Facebook: </strong><a href={candidate.fb_url}>{cleanDisplayUrl(candidate.fb_url)}</a></div> : null}
+              {candidate.tw_url ? <div><strong>Twitter: </strong><a href={candidate.tw_url}>{cleanDisplayUrl(candidate.tw_url)}</a></div> : null}
+          </div>
+          </div>
+          
         </div>
 
-        <div className={styles.portrait}>
-          <Portrait filename={candidate.photo_slug} />
-        </div>
-        
-
-        {/* <CandidateMug
-          key={candidate.last_name}
-          candidate={candidate}
-          party={candidate.party}
-        /> */}
-        
-        <div className={styles.summaryNarrative} dangerouslySetInnerHTML={{ __html: candidate.text }} />
-  
-        <div className={styles.summaryPodcast}>
+        {/* <div className={styles.summaryPodcast}>
             {candidate.podcast_url ? <div><strong>INTERVIEW: </strong><a href={candidate.podcast_url}>Montana Lowdown Podcast</a></div> : null}
-        </div>
+        </div> */}
          
-        <div className={styles.summaryContacts}>
-            {candidate.web_url ? <div><strong>Website: </strong><a href={candidate.web_url}>{cleanDisplayUrl(candidate.web_url)}</a></div> : null}
-            {candidate.fb_url ? <div><strong>Facebook: </strong><a href={candidate.fb_url}>{cleanDisplayUrl(candidate.fb_url)}</a></div> : null}
-            {candidate.tw_url ? <div><strong>Twitter: </strong><a href={candidate.tw_url}>{cleanDisplayUrl(candidate.tw_url)}</a></div> : null}
-        </div>
+        
         {/* <Link to={`/candidates/${makeCandidateKey(candidate)}`} className='button-link'>
           <button className={styles.summaryButton}>
               More on {candidate.last_name}

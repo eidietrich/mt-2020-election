@@ -7,6 +7,7 @@ Work in progress news app for parsing & presenting candidate data for the 2020 M
 - analysis - Gatsby app designed for experiments/internal reporting work
 - data - centralized repository for cleaned data, stored as .json (may migrate this to MongoDB down the road)
 - scrapers - data acquistion/processing pipelines
+- process - scripts for processing scraped data into forms used by app and analysis
 - utils - one-off scripts
 
 ## Data flow
@@ -16,9 +17,9 @@ General pattern: Local scripts (Python or Node) to pull in data, stash as .json 
 Some data pipeline folders contain Jupyter notebooks for exploration/script development.
 
 ### Existing data processing pipelines
-- app-copy - Pulls in [ArchieML](http://archieml.org) for app text content from [Google Doc](https://docs.google.com/document/d/1-PomtLY2bwwC9I-osdZnxcb8nwB9ubvhxyxLocPBk4w/edit). Relies on `token.json` and `credentials.json` in project root.
+- *app-copy* - Pulls in [ArchieML](http://archieml.org) for app text content from [Google Doc](https://docs.google.com/document/d/1-PomtLY2bwwC9I-osdZnxcb8nwB9ubvhxyxLocPBk4w/edit). Relies on `token.json` and `credentials.json` in project root.
     - CMD: Refresh copy: `node scrapers/app-copy/fetch-app-copy.js`
-- state-finance-reports - itemized state/local race campaign finance data from COPP
+- *state-finance-reports* - itemized state/local race campaign finance data from COPP
     - CMD: Check for new candidate filings: `python3 scrapers/state-finance-reports/check-candidate-updates.py`
     - CMD: Check for new C-5 filings: `python3 scrapers/state-finance-reports/check-report-updates.py`
     - CMD: Refresh data: (Takes several minutes) `python3 scrapers/state-finance-reports/fetch-finance-reports.py`
@@ -48,10 +49,8 @@ Some data pipeline folders contain Jupyter notebooks for exploration/script deve
 
 SIMPLE TODO:
 - Embed podcast player in dropdown for candidates who've been interviewed on [MTFP podcast](https://montanafreepress.org/series/montana-lowdown-podcast/)
-- Add Google Analytics
-- Add remaining candidate portraits
-- Make plain text version of homepage at `/text-only/` (partially complete - need to run through formatting)
-- Make MTFP header/footer menus
+- Make plain text version of homepage at `/text-only/` (partially complete - need another through styling)
+- Finish implementing campaign finance
 
 BIGGER PICTURE TODO
 - Clean up Google Docs import, bulletproof security issues

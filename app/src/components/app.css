@@ -36,3 +36,10 @@ a:hover {
 a.button-link:hover {
     text-decoration: none;
 }
+
+hr {
+    border-top: 1px solid #666;
+    height: 0;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}

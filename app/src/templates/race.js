@@ -5,6 +5,9 @@ import SEO from '../components/seo'
 
 import RaceFinanceState from '../components/RaceFinanceState' 
 import RaceCandidateSummary from '../components/RaceCandidateSummary' 
+
+import MoreToComeMessage from '../components/MoreToComeMessage'
+
 // import CampaignFinanceFederal from '../components/CandidateFinanceFederal'  // TK
 // import CandidateSummary from '../components/CandidateSummary'
 
@@ -25,14 +28,16 @@ class RacePage extends Component {
                 title={`${race.position} | Montana 2020`}
                 description={`TK`}
             />
-            <Link to='/'>All candidates</Link>
             <h1>{race.position}</h1>
             <p>{race.description}</p>
+            <h2>Current candidates</h2>
             <RaceCandidateSummary
                 race={race}
                 candidates={raceCandidates}
             />
-            <RaceFinanceState />
+            <hr />
+            {/* <RaceFinanceState /> */}
+            <MoreToComeMessage />
         </Layout>);
     }
 }
