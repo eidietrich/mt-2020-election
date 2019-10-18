@@ -9,7 +9,7 @@ import CandidateSummary from '../components/CandidateSummary'
 import MoreToComeMessage from '../components/MoreToComeMessage'
 
 // import { } from '../logic/config.js'
-import { makeCandidateKey, makeRaceKey, candidateNameParty } from '../logic/functions.js'
+import { makeCandidateUrl, makeCandidateKey, makeRaceUrl, candidateNameParty } from '../logic/functions.js'
 import { excludeStatuses } from '../logic/config.js'
 
 import { candidates } from '../data/app-copy.json' // TODO: Replace this with gatsby-node logic
@@ -24,17 +24,17 @@ class CandidatePage extends Component {
     render(){
         const {
             candidate,
-            race
+            race,
         } = this.props.pageContext
+        console.log(this.props.pageContext)
+        // console.log(candidateSummary)
 
         const competitors = candidates
             .filter(d => !excludeStatuses.includes(d.status))
             .filter(c => c.position === race.position)
             .filter(c => makeCandidateKey(c) !== makeCandidateKey(candidate))
 
-        console.log(competitors)
-
-        const jurisdiction = 'state'
+        const jurisdiction = 'state' // TEMP
 
         return (<Layout>
             <SEO
@@ -46,29 +46,25 @@ class CandidatePage extends Component {
             <div className={styles.competitors}>
                 <span><strong>Competitors:</strong> </span>
                 {competitors.map((c, i) => {
-                    const url = `/candidates/${makeCandidateKey(c)}`
-                    return <span key={String(i)}><Link to={url}>{candidateNameParty(c)}</Link></span>
+                    // const url = `/candidates/${makeCandidateKey(c)}`
+                    return <span key={String(i)}><Link to={makeCandidateUrl(c)}>{candidateNameParty(c)}</Link></span>
                     })
                     .reduce((prev, curr) => [prev, ', ', curr])
                 }
             </div>
             <div className={styles.race}>
-                <strong>Race overview:</strong> <Link to={`/races/${makeRaceKey(race)}`}>2020 {race.position}</Link>
+                <strong>Race overview:</strong> <Link to={makeRaceUrl(race)}>2020 {race.position}</Link>
             </div>
             <hr /> 
-            <MoreToComeMessage />  
             
-            
-            {/* <h2>TK: Campaign finance</h2> */}
-            {/* <CampaignFinance jurisdiction={jurisdiction} /> */}
-            {/* {(jurisdiction === 'state') ?
+            {(jurisdiction === 'state') ?
                 <CandidateFinanceState 
                     candidate={candidate}
-                    contributions={candidate.stateContributions}
-                    expenditures={candidate.stateExpenditures}
                 /> :
                 <div>Federal</div>
-            } */}
+            }
+
+            <MoreToComeMessage />  
 
             
         </Layout>);

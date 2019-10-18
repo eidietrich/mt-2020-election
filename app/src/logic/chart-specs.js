@@ -1,6 +1,9 @@
+import counties from '../data/mt-10m-counties.json'
+import zips from '../data/mt-zips.json'
 
 const moneyAxisFormat = '$,.0f'
 const dateAxisFormat = '%m/%d/%y'
+
 
 
 const baseSpec = {
@@ -43,23 +46,23 @@ export const cumulativeContributionSpec = {
     title: 'Cumulative fundraising',
     height: 200,
     // width set responsively
-    transform: [
-        {
-            sort: [{field: "Date Paid", type: 'temporal'}],
-            window: [{"op": "sum", "field": "Amount", "as": "cumulative_amount"}],
-            frame: [null, 0]
-        },
-    ],
+    // transform: [
+    //     {
+    //         sort: [{field: "Date Paid", type: 'temporal'}],
+    //         window: [{"op": "sum", "field": "Amount", "as": "cumulative_amount"}],
+    //         frame: [null, 0]
+    //     },
+    // ],
     encoding: {
-        x: { field: 'Date Paid', type: 'temporal', title:'',
+        x: { field: 'date', type: 'temporal', title:'',
             axis: {format: dateAxisFormat}
          },
-        y: { field: 'cumulative_amount', type: 'quantitative', title: 'Total raised',
+        y: { field: 'cumulative', type: 'quantitative', title: 'Total raised',
             axis: {format: moneyAxisFormat}
           },
         tooltip: [
-            { field: 'Date Paid', type: 'temporal', title: 'Date'},
-            { field: 'cumulative_amount', type: 'quantitative', format: '$,.0f', title: 'Total raised' },
+            { field: 'date', type: 'temporal', title: 'Date'},
+            { field: 'cumulative', type: 'quantitative', format: '$,.0f', title: 'Total raised' },
         ]
     },
     mark: {
@@ -79,21 +82,22 @@ export const cumulativeExpendituresSpec = {
     // width set responsively
     transform: [
         {
-            sort: [{field: "Date Paid", type: 'temporal'}],
+            sort: [{field: "date", type: 'temporal'}],
             window: [{"op": "sum", "field": "Amount", "as": "cumulative_amount"}],
             frame: [null, 0]
         },
     ],
     encoding: {
-        x: { field: 'Date Paid', type: 'temporal', title:'',
+        x: { field: 'date', type: 'temporal', title:'',
             axis: {format: dateAxisFormat}
          },
-        y: { field: 'cumulative_amount', type: 'quantitative', title: 'Total raised',
+        y: { field: 'cumulative', type: 'quantitative', title: 'Total raised',
+            stack: false,
             axis: {format: moneyAxisFormat},
             // scale: {domain: [0,600000]}
           },
         tooltip: [
-            { field: 'Date Paid', type: 'temporal', title: 'Date'},
+            { field: 'date', type: 'temporal', title: 'Date'},
             { field: 'cumulative_amount', type: 'quantitative', format: '$,.0f', title: 'Total raised' },
         ]
     },
@@ -106,3 +110,99 @@ export const cumulativeExpendituresSpec = {
         color: "darkred"
     }
 }
+export const cumulativeCombinedSpec = {
+    ...baseSpec, 
+    title: 'Cumulative campaign financials',
+    height: 200,
+    // width set responsively
+    encoding: {
+        x: { field: 'date', type: 'temporal', title:'',
+            scale: {domain: ["01/01/2019", "11/31/2020"]},
+            axis: {format: dateAxisFormat}
+         },
+        y: { field: 'cumulative', type: 'quantitative', title: 'Total raised',
+            stack: false,
+            axis: {format: moneyAxisFormat},
+            // scale: {domain: [0,600000]}
+          },
+        color: { field: 'type', type: 'nominal', title: '',
+          legend: {orient: 'top'}
+        },
+        tooltip: [
+            { field: 'date', type: 'temporal', title: 'Date'},
+            { field: 'type', type: 'nominal', title: 'Type' },
+            { field: 'cumulative', type: 'quantitative', format: '$,.0f', title: 'Total to date' },
+        ]
+    },
+    mark: {
+        type: 'area',
+        fillOpacity: 0.5,
+        line: {
+            "color": "darkred"
+          },
+        color: "darkred"
+    }
+}
+
+export const contributionMapSpec = {
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "width": 600,
+    "height": 400,
+    "projection": {
+      "type": "mercator"
+    },
+    // // Alternate option, Montana-optimized
+    // "projection": {
+    //   "type": "albers",
+    //   "rotate": [110,0,0],
+    // },
+    "layer": [
+      {
+        "data": {
+          "values": counties,
+          "format": {
+            "type": "topojson",
+            "feature": "counties"
+          }
+        },
+        
+        "mark": {
+          "type": "geoshape",
+          "fill": "lightgray",
+          "stroke": "white",
+          "strokeWidth": 0.5,
+        }
+      },
+      {
+        "data": {"values": zips},
+        "mark": {
+            type: "circle",
+            fillOpacity: 0.3,
+            strokeWidth: 1,
+            stroke: "darkgreen",
+            color: "darkgreen"
+        },
+        "encoding": {
+          "longitude": {
+            "field": "longitude",
+            "type": "quantitative"
+          },
+          "latitude": {
+            "field": "latitude",
+            "type": "quantitative"
+          },
+          "size": {"field": 'amount', 'type': 'quantitative',
+            title: 'Donations in zipcode', format: '$,',
+            scale: { range: [0,1000]},
+            legend: { orient: 'top', format: '$,.0s' },
+            },
+          "tooltip": [
+            {field: "zip_code", type: "nominal", "title": "Zip code"},
+            {field: "city", type: "nominal", title: "Place"},
+            {field: "amount", type: "quantitative", format: '$,.0f', "title": 'Donations'},
+            {field: "number", type: "quantitative", format: ',', "title": 'Number'},
+          ]
+        }
+      }
+    ]
+  }

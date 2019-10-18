@@ -6,7 +6,11 @@ import PodcastLink from '../library/PodcastLink'
 
 import styles from './CandidateSummary.module.css'
 
-import {makeCandidateKey, makeCandidateUrl, cleanDisplayUrl, getCandidateParty } from '../logic/functions.js'
+import {
+  makeCandidateUrl,
+  cleanDisplayUrl,
+  getCandidateParty
+} from '../logic/functions.js'
 
 const CandidateSummary = (props) => {
     const {candidate} = props
@@ -22,14 +26,14 @@ const CandidateSummary = (props) => {
         <div className={styles.container}>
           <div className={styles.portraitNameTitleGroup}>
             <div className={styles.portrait}>
-            <Link to={`/candidates/${makeCandidateKey(candidate)}`}>
+            <Link to={makeCandidateUrl(candidate)}>
               <Portrait filename={candidate.photo_slug} />
             </Link>
             </div>
             <div className={styles.nameTitleGroup}>
               <div className={styles.title}>{candidate.current_title}</div>
               <div className={styles.name}>
-                <Link to={`/candidates/${makeCandidateKey(candidate)}`}>{candidate.first_name} {candidate.last_name}</Link>
+                <Link to={makeCandidateUrl(candidate)}>{candidate.first_name} {candidate.last_name}</Link>
               </div>
             </div>
           </div>

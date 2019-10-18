@@ -4,118 +4,96 @@ import ResponsiveVegaLite from '../library/ResponsiveVegaLite'
 import PullStatMain from '../library/PullStatMain'
 import PullStatSecondaryRow from '../library/PullStatSecondaryRow'
 
-import mtCounties from '../data/mt-10m-counties.json'
-
 import {
-    cumulativeContributionSpec,
-    cumulativeExpendituresSpec,
     contributionBreakdownSpec,
     cumulativeCombinedSpec,
+    contributionMapSpec
 } from '../logic/chart-specs.js'
 
 import { dollarFormat } from '../logic/config'
 
-const contributionTypes = {
-    selfFinance: ['Personal contributions','Loans'],
-    committee: ['PAC contributions','Political party contributions','Incidental committee contributions','Other political committee contributions'],
-    individual: ['Individual contributions'],
-    other: ['Unitemized contributions','Fundraisers & misc']
-}
-const totalSpendingDomain = [0,600000] // TODO Set this by race
+import styles from './CandidateFinance.module.css'
 
-const forPrimary = contributions => contributions.filter(d => d['Election Type'] === 'PM')
-const forGeneral = contributions => contributions.filter(d => d['Election Type'] === 'GN')
-
-const sumAmount = entries => entries.reduce((acc, obj) => obj['Amount'] + acc, 0)
-
-const CampaignFinanceState = (props) => {
+const CandidateFinanceState = (props) => {
     const {
-        candidate, contributions, expenditures
+        candidate,
     } = props
     console.log(props)
+
+    const cumulativeCombined = candidate.fundraisingSummary.cumulativeContributions.concat(candidate.fundraisingSummary.cumulativeExpenditures)
+
+    // inject data into graph specifications
     
-    // cleaning - TODO move this to development script
-    contributions.forEach(d => {
-        if (contributionTypes.selfFinance.includes(d.type)) d.type2 = 'Self financing'
-        if (contributionTypes.committee.includes(d.type)) d.type2 = 'Committee support'
-        if (contributionTypes.individual.includes(d.type)) d.type2 = 'Individual donations'
-        if (contributionTypes.other.includes(d.type)) d.type2 = 'Other support'
-        d.direction = 'contribution'
+    // contributionBreakdownSpec.data = {values: contributions} 
+    cumulativeCombinedSpec.data = {values: cumulativeCombined}
+    const byZip = candidate.fundraisingSummary.contributionsByZip
+    // TODO add warning for missed zip matches
+    contributionMapSpec.layer[1].data.values.forEach(zip => {
+        const match = byZip.find(d => zip.zip_code === d.zip)
+        if (match) {
+            zip.amount = match.amount
+            zip.number = match.number
+        } else {
+            zip.amount = 0
+            zip.number = 0
+        }
     })
-    expenditures.forEach(d => {
-        d.direction = 'expenditure'
-    })
-
-    // TODO: Elegentize this
-    const reportingPeriods = Array.from(new Set(contributions.map(d => d['Reporting Period'])))
-
-    // Prep values for display
-    const totalRaised = sumAmount(contributions)
-    const totalRaisedPrimary = sumAmount(forPrimary(contributions))
-    const totalRaisedGeneral = sumAmount(forGeneral(contributions))
-    const totalSpent = sumAmount(expenditures)
-
-    const individualContributions = contributions.filter(d => d.type2 === 'Individual donations')
-    const numIndividualContributions = individualContributions.length
-    const averageIndividualContributionSize = sumAmount(individualContributions) / numIndividualContributions
-
-    // prep data for graphs
-    contributionBreakdownSpec.data = {values: contributions} 
-    cumulativeContributionSpec.data = {values: contributions}
-    cumulativeExpendituresSpec.data = {values: expenditures}
 
     // set y-scales
     // cumulativeContributionSpec.encoding.y.scale = { domain: totalSpendingDomain }
     // cumulativeExpendituresSpec.encoding.y.scale = { domain: totalSpendingDomain }
 
     return <div style={{maxWidth: 1200, width: '100%', border: '1px solid red'}}>
-            <div>**Campaign Finance State**</div>
-            <div>Reporting periods: {reportingPeriods.join(',')}</div>
+            <h2>Fundraising and campaign spending</h2>
+            <div>Reporting periods: {'TK'}</div>
  
             <PullStatMain
-                stat={dollarFormat(totalRaised)}
+                stat={dollarFormat(candidate.fundraisingSummary.totalRaised)}
                 label='Total raised'
             />
             <PullStatSecondaryRow
                 stats={[
                     {
-                        stat: dollarFormat(totalRaisedPrimary),
+                        stat: dollarFormat(candidate.fundraisingSummary.totalRaisedPrimary),
                         label: 'Raised for primary'
                     },
                     {
-                        stat: dollarFormat(totalRaisedGeneral),
+                        stat: dollarFormat(candidate.fundraisingSummary.totalRaisedGeneral),
                         label: 'Raised for general election'
                     },
                 ]}
             />
-            <ResponsiveVegaLite spec={cumulativeContributionSpec}/>
-            <ResponsiveVegaLite spec={contributionBreakdownSpec}/>
-            
             <PullStatMain
-                stat={dollarFormat(totalSpent)}
+                stat={dollarFormat(candidate.fundraisingSummary.totalSpent)}
                 label='Total spending'
             />
-            <ResponsiveVegaLite spec={cumulativeExpendituresSpec}/>
-
+            <ResponsiveVegaLite spec={cumulativeCombinedSpec}/>
+            
+            <h3>Where the campaign budget is coming from</h3>
+            {/* <ResponsiveVegaLite spec={contributionBreakdownSpec}/> */}
+            <div>TK: % from within Montana</div>
+            <ResponsiveVegaLite spec={contributionMapSpec}/>
+            <div>TK: Political committee donations</div>
+            
             <PullStatSecondaryRow
                 stats={[
                     {
-                        stat: numIndividualContributions,
+                        stat: candidate.fundraisingSummary.numIndividualContributions,
                         label: 'Number of individual contributions ($35+)'
                     },
                     {
-                        stat: dollarFormat(averageIndividualContributionSize),
+                        stat: dollarFormat(candidate.fundraisingSummary.averageIndividualContributionSize),
                         label: 'Average individual contribution size'
                     },
                 ]}
             />
 
-            <div className="note">
+            <div className={styles.note}>
                 Notes: Figures from data as reported to the Montana Commissioner of Political Practices by campaigns. TK other caveats - no refunds factored in yet, mention what contribution limits are
             </div>
             
         </div>
 }
 
-export default CampaignFinanceState
+export default CandidateFinanceState
 
