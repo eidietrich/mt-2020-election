@@ -2,7 +2,7 @@ import React from 'react'
 import { Link, navigate } from "gatsby"
 
 import Portrait from './Portrait'
-// import CandidateMug from './CandidateMug'
+import PodcastLink from '../library/PodcastLink'
 
 import styles from './CandidateSummary.module.css'
 
@@ -35,6 +35,9 @@ const CandidateSummary = (props) => {
           </div>
           <div className={styles.textGroup}>
             <div className={styles.bio} dangerouslySetInnerHTML={{ __html: candidate.text }} />
+
+            {candidate.podcast_url ? <PodcastLink podcastUrl={candidate.podcast_url} /> : null}
+
             <div className={styles.contacts}>
               {candidate.web_url ? <div><strong>Website: </strong><a href={candidate.web_url}>{cleanDisplayUrl(candidate.web_url)}</a></div> : null}
               {candidate.fb_url ? <div><strong>Facebook: </strong><a href={candidate.fb_url}>{cleanDisplayUrl(candidate.fb_url)}</a></div> : null}
@@ -43,11 +46,6 @@ const CandidateSummary = (props) => {
           </div>
           
         </div>
-
-        {/* <div className={styles.summaryPodcast}>
-            {candidate.podcast_url ? <div><strong>INTERVIEW: </strong><a href={candidate.podcast_url}>Montana Lowdown Podcast</a></div> : null}
-        </div> */}
-         
         
         {/* <Link to={`/candidates/${makeCandidateKey(candidate)}`} className='button-link'>
           <button className={styles.summaryButton}>
@@ -61,3 +59,4 @@ const CandidateSummary = (props) => {
 }
 
 export default CandidateSummary
+
