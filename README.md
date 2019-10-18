@@ -28,7 +28,8 @@ Some data pipeline folders contain Jupyter notebooks for exploration/script deve
 
 ### Deploy app to MTFP server
 - `(cd app; gatsby build --prefix-paths && rm -r ./montana-2020 ||: && mv ./public ./montana-2020)`
-- `(cd app; lftp -c \"open sftp://ericdietrich@sftp.flywheelsites.com/mtfpeditor/montana-free-press/apps; mirror -eR montana-2020/\")`
+- Copy and Paste: `(cd app; lftp -c "open sftp://ericdietrich@sftp.flywheelsites.com/mtfpeditor/montana-free-press/apps; mirror -eR montana-2020/")`
+- NODE: `(cd app; lftp -c \"open sftp://ericdietrich@sftp.flywheelsites.com/mtfpeditor/montana-free-press/apps; mirror -eR montana-2020/\")`
 
 ### Next priority pipelines:
 - fed-finance-reports - federal race campaign finance data from FEC API
@@ -51,8 +52,7 @@ Some data pipeline folders contain Jupyter notebooks for exploration/script deve
 
 ## TODO
 
-SIMPLE TODO:
-- Embed podcast player in dropdown for candidates who've been interviewed on [MTFP podcast](https://montanafreepress.org/series/montana-lowdown-podcast/)
+SIMPLE TODO: 
 - Make plain text version of homepage at `/text-only/` (partially complete - need another through styling)
 - Finish implementing campaign finance
 

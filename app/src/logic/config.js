@@ -11,6 +11,18 @@ export const parties = [
     {key: 'L', name:'Libertarian', color: '#e89a0b'},
   ]
 
+// TODO: Automate this
+export const fundraisingDomainUpperBound = {
+  'Governor': 2000000,
+  'U.S.-Senate': null,
+  'U.S.-House': null,
+  'Attorney-General': 200000,
+  'Secretary-of-State' : 100000,
+  'Superintendent-of-Public-Instruction': 100000,
+  'State-Auditor': 100000,
+}
+
+
 // candidate statuses excluded from summary page
 export const excludeStatuses = ['Withdrawn','Not Running','Rumored','Potential','Suspended']
 

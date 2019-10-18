@@ -10,13 +10,16 @@ import {
     contributionMapSpec
 } from '../logic/chart-specs.js'
 
-import { dollarFormat } from '../logic/config'
+import { dollarFormat, fundraisingDomainUpperBound, raceTypes,  } from '../logic/config'
+
+import { makeRaceKey } from '../logic/functions'
 
 import styles from './CandidateFinance.module.css'
 
 const CandidateFinanceState = (props) => {
     const {
         candidate,
+        race
     } = props
     console.log(props)
 
@@ -25,6 +28,7 @@ const CandidateFinanceState = (props) => {
     // inject data into graph specifications
     
     // contributionBreakdownSpec.data = {values: contributions} 
+    
     cumulativeCombinedSpec.data = {values: cumulativeCombined}
     const byZip = candidate.fundraisingSummary.contributionsByZip
     // TODO add warning for missed zip matches
@@ -41,6 +45,9 @@ const CandidateFinanceState = (props) => {
     contributionMapSpec.title = "Individual contributions by Montana zip code"
 
     // set y-scales
+    const upperBound = fundraisingDomainUpperBound[makeRaceKey(race)]
+    cumulativeCombinedSpec.encoding.y.scale.domain = [0, upperBound]
+    contributionMapSpec.layer[1].encoding.size.scale.domain = [0, upperBound / 10]
     // cumulativeContributionSpec.encoding.y.scale = { domain: totalSpendingDomain }
     // cumulativeExpendituresSpec.encoding.y.scale = { domain: totalSpendingDomain }
 

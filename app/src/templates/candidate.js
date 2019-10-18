@@ -60,6 +60,7 @@ class CandidatePage extends Component {
             {(jurisdiction === 'state') ?
                 <CandidateFinanceState 
                     candidate={candidate}
+                    race={race}
                 /> :
                 <div>Federal</div>
             }

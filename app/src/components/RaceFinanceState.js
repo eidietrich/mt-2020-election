@@ -11,7 +11,10 @@ import {
     cumulativeCombinedSpec,
 } from '../logic/chart-specs.js'
 
-import { dollarFormat } from '../logic/config'
+import {
+    dollarFormat,
+    fundraisingDomainUpperBound
+} from '../logic/config'
 
 const contributionTypes = {
     selfFinance: ['Personal contributions','Loans'],
@@ -19,6 +22,10 @@ const contributionTypes = {
     individual: ['Individual contributions'],
     other: ['Unitemized contributions','Fundraisers & misc']
 }
+
+
+
+
 const totalSpendingDomain = [0,600000] // TODO Set this by race
 
 const forPrimary = contributions => contributions.filter(d => d['Election Type'] === 'PM')

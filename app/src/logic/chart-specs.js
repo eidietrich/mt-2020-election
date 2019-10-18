@@ -131,7 +131,7 @@ export const cumulativeCombinedSpec = {
             field: 'cumulative', type: 'quantitative', title: 'Total raised',
             stack: false,
             axis: { format: moneyAxisFormat },
-            // scale: {domain: [0,600000]}
+            scale: {domain: [0,1000000]}
         },
         color: {
             field: 'type', type: 'nominal', title: '',
@@ -210,7 +210,7 @@ export const contributionMapSpec = {
                 "size": {
                     "field": 'amount', 'type': 'quantitative',
                     title: 'Total donated in zipcode', format: '$,',
-                    scale: { range: [0, 1000] },
+                    scale: { domain: [0,1000000], range: [0, 1000] },
                     legend: { orient: 'top', format: '$,.0s' },
                 },
                 "tooltip": [
