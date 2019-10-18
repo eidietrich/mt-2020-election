@@ -38,6 +38,7 @@ const CandidateFinanceState = (props) => {
             zip.number = 0
         }
     })
+    contributionMapSpec.title = "Individual contributions by Montana zip code"
 
     // set y-scales
     // cumulativeContributionSpec.encoding.y.scale = { domain: totalSpendingDomain }

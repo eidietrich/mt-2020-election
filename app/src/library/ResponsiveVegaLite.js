@@ -16,7 +16,12 @@ class ResponsiveVegaLite extends Component {
     
     render() {
         return <div ref={this.containerRef}>
-                <VegaLite spec={this.props.spec} width={this.state.width} actions={false}/>
+                <VegaLite
+                    spec={this.props.spec}
+                    width={this.state.width}
+                    actions={false}
+                    // hover={true}
+                />
             </div>
     }
 }

@@ -161,7 +161,7 @@ function totalByZipcode(contributions){
         })
 }
 function summarizeByCandidate(contributions, expenditures){
-    // Prep values for pull stats
+    // Prep values for pull stats by candidate
     const totalRaised = sumAmount(contributions)
     const totalRaisedPrimary = sumAmount(forPrimary(contributions))
     const totalRaisedGeneral = sumAmount(forGeneral(contributions))
@@ -171,12 +171,18 @@ function summarizeByCandidate(contributions, expenditures){
     const numIndividualContributions = individualContributions.length
     const averageIndividualContributionSize = sumAmount(individualContributions) / numIndividualContributions
 
+    // percentOfItemizedInMontana
+    const mtIndividualContributions = individualContributions
+        .filter(d => d.State === 'MT')
+    const percentIndividualFromMontana = Math.round(sumAmount(mtIndividualContributions) / sumAmount(individualContributions), 3)
+
     return {
         totalRaised,
         totalRaisedPrimary,
         totalRaisedGeneral,
         totalSpent,
         numIndividualContributions,
-        averageIndividualContributionSize
+        averageIndividualContributionSize,
+        percentIndividualFromMontana
     }
 }
