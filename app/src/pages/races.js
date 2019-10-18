@@ -9,10 +9,9 @@ import styles from './races.module.css'
 
 import { races, candidates, racePageText, racePageTitle } from '../data/app-copy.json'
 
-import { makeRaceUrl, makeCandidateUrl, candidateNameParty } from '../logic/functions.js'
+import { makeRaceUrl, makeCandidateUrl, candidateNameParty, filterToActive } from '../logic/functions.js'
 
 const Races = () => {
-    console.log(races)
     return <Layout>
         <SEO title="Montana 2020 election races" />
         <h1>{racePageTitle}</h1>
@@ -37,7 +36,7 @@ const Race = (props) => {
         {/* <p><Link to={makeRaceUrl(race)}>Race overview</Link></p> */}
         <div>
             <span><strong>Candidates:</strong> </span>
-            {candidates.map((c, i) => {
+            {filterToActive(candidates).map((c, i) => {
                 return <span key={String(i)}><Link to={makeCandidateUrl(c)}>{candidateNameParty(c)}</Link></span>
                 })
                 .reduce((prev, curr) => [prev, ', ', curr])
