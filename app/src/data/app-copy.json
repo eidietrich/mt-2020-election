@@ -1,53 +1,53 @@
 {
   "appHed": "Montana's 2020 election",
-  "appSubhed": "A citizen's guide by the Montana Free Press",
-  "byline": "By Montana Free Press staff",
+  "appSubhed": "A citizens’ guide",
+  "byline": "By Eric Dietrich, Montana Free Press",
   "intro": [
     {
       "type": "text",
-      "value": "HELENA — Montana voters will have a consequential ballot to ponder in 2020, packed with decisions about the U.S. presidential election, two of the three seats in Montana’s federal delegation, and five statewide offices including governor."
+      "value": "HELENA — Montana voters will have a consequential ballot to ponder in 2020, packed with decisions about the U.S. presidential election, two of the three seats in Montana’s federal delegation, and five statewide offices, including governor."
     },
     {
       "type": "text",
-      "value": "That’s a lot for our citizens to keep track of — especially with national media outlets focused on who will win control of the White House. This section of our website is an effort to help, particularly with the down-ballot races that don’t necessarily receive wall-to-wall coverage."
+      "value": "That’s a lot for voters to keep track of, especially with national media outlets focused on who will win control of the White House. This guide is our attempt to help, particularly with the down-ballot races that don’t necessarily receive wall-to-wall coverage."
     },
     {
       "type": "text",
-      "value": "Some dates to keep in mind: Montana’s primary elections are set for June 2, 2020. The winning candidate from each political party will then move on to the general election, set for Tuesday Nov. 3, 2020."
+      "value": "Some dates to keep in mind: Montana’s primary elections are set for June 2, 2020. The winning candidate from each political party will then move on to the general election, set for Tuesday, Nov. 3, 2020."
     },
     {
       "type": "text",
-      "value": "We plan to update and expand this guide over the coming months as we interview candidates, track campaign spending, and watch our political aspirants make their case for how they’ll serve the state. We’d very much appreciate your feedback on what information you’d find most helpful to see here as you ponder how to cast your ballot — you can reach us by email at <a href=\"mailto:info@montanafreepress.org\">info@montanafreepress.org</a>."
+      "value": "We’ll update and expand this guide over the coming months as we interview candidates, track campaign spending, and watch aspirants make their case for how they plan to serve the state. We welcome your feedback about what information you’d find most helpful to see here — you can reach us by email at <a href=\"mailto:edietrich@montanafreepress.org\">edietrich@montanafreepress.org</a>."
     }
   ],
   "introTitle": "Overview: Who's in the running",
-  "candidatePageTitle": "Candidates: Montana’s 2020 hopefuls",
+  "candidatePageTitle": "Montana’s 2020 candidates",
   "candidatePageText": [
     {
       "type": "text",
-      "value": "(This listing currently excludes Montana candidates for an open Supreme Court Seat, Public Service Commission districts and Montana House and Senate races as well as local races including city commission and school board elections.)"
+      "value": "This list currently excludes Montana candidates for two open Supreme Court seats, three Public Service Commission districts, and Montana House and Senate races, as well as local races, including city commission and school board elections."
     }
   ],
   "racePageTitle": "Races: Montana offices up for election in 2020",
   "racePageText": [
     {
       "type": "text",
-      "value": "This listing currently omits open seats on the Montana Supreme Court as well as Public Service Commission and Montana House and Senate races. It also excludes local races such as city commission and school board seats."
+      "value": "This list currently omits two open seats on the Montana Supreme Court as well as three Public Service Commission districts and Montana House and Senate races. It also excludes local races such as city commission and school board seats."
     },
     {
       "type": "text",
-      "value": "Montana races for federal office (U.S. Senate and U.S. House seats) are under the jurisdiction of the <a href=\"https://www.fec.gov/\">Federal Election Commission</a>. State office races shown here are policed by the <a href=\"http://politicalpractices.mt.gov/\">Montana Commissioner of Political Practices</a>."
+      "value": "Montana races for federal office (U.S. Senate and U.S. House seats) are under the jurisdiction of the <a href=\"https://www.fec.gov/\">Federal Election Commission</a>. State office races shown here are regulated by the <a href=\"http://politicalpractices.mt.gov/\">Montana Commissioner of Political Practices</a>."
     }
   ],
   "checkBackHed": "Stay tuned for more",
   "checkBackSectionText": [
     {
       "type": "text",
-      "value": "We'll be updating this page with additional information through the general election in November 2020."
+      "value": "We'll be updating this page with new information through Election Day in November 2020."
     },
     {
       "type": "text",
-      "value": "Have ideas about what types of coverage would be helpful to you as you consider how you'll vote? Tell us at <a href=\"mailto:info@montanafreepress.org\">info@montanafreepress.org</a>."
+      "value": "Have ideas about additional coverage would be helpful as you consider your vote? Tell us at <a href=\"mailto:edietrich@montanafreepress.org\">edietrich@montanafreepress.org</a>."
     }
   ],
   "races": [
@@ -69,7 +69,7 @@
     {
       "position": "Attorney General",
       "type": "state",
-      "description": "The state’s chief law enforcement and legal officer, who oversees the state Department of Justice, issues legal opinions interpreting state law and acts as an advocate for the public interest in certain legal proceedings. One of five seats on the state land board and elected to a four-year term."
+      "description": "The state’s chief law enforcement and legal officer, who oversees the state Department of Justice, issues legal opinions interpreting state law, and advocates for the public interest in certain legal proceedings. One of five seats on the state land board, and elected to a four-year term."
     },
     {
       "position": "Secretary of State",
@@ -79,12 +79,12 @@
     {
       "position": "Superintendent of Public Instruction",
       "type": "state",
-      "description": "Heads the Montana Office of Public Instruction and oversees the state’s K-12 school system, much of which is governed directly by locally elected school boards. Also a seat on the state land board and elected to a four-year term."
+      "description": "Heads the Montana Office of Public Instruction and oversees the state’s K-12 school system, much of which is governed directly by locally elected school boards. Also holds a seat on the state land board. Elected to a four-year term."
     },
     {
       "position": "State Auditor",
       "type": "state",
-      "description": "Runs the office responsible for protecting Montanans from fraud by regulating insurance and securities industries. Also a seat on the state land board and elected to a four-year term."
+      "description": "Runs the office responsible for protecting Montanans from fraud by regulating the insurance and securities industries. Also holds a seat on the state land board. Elected to a four-year term."
     }
   ],
   "candidates": [
@@ -97,6 +97,7 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "Fox, Tim",
       "photo_slug": "tim-fox.png",
       "podcast_url": "",
       "web_url": "https://foxforgovernor.com/",
@@ -108,10 +109,11 @@
       "party": "R",
       "first_name": "Al",
       "last_name": "Olszewski",
-      "current_title": "State Sen.",
+      "current_title": "State Senator",
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "Olszewski, Albert",
       "photo_slug": "al-olszewski.png",
       "podcast_url": "",
       "web_url": "https://alformontana.com/",
@@ -123,30 +125,32 @@
       "party": "R",
       "first_name": "Greg",
       "last_name": "Gianforte",
-      "current_title": "U.S. Rep",
+      "current_title": "U.S. Representative",
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "Gianforte, Greg",
       "photo_slug": "greg-gianforte.png",
       "podcast_url": "",
       "web_url": "https://gregformontana.com/",
       "fb_url": "https://www.facebook.com/RepGianforte/",
-      "text": "Gianforte was the Republican nominee for governor in 2012, but failed to derail Gov. Steve Bullock’s re-election bid. Jumping into politics after founding and selling RightNow Technologies in Bozeman, he was elected to the U.S. House in the 2017 special election and re-elected to a two-year term in 2019. He was also <a href=\"https://www.bozemandailychronicle.com/news/crime/gianforte-sentenced-to-anger-management-community-service-for-assault-of/article_b6e6241e-e1a3-56fe-a32a-6a02ba234129.html\">convicted of misdemeanor assault</a> for attacking a reporter during his 2017 run. Gianforte filed to run for Montana governor a second time June 7."
+      "text": "Gianforte was the Republican nominee for governor in 2012, but failed to derail Gov. Steve Bullock’s re-election bid. Entering politics after founding and selling RightNow Technologies in Bozeman, he was elected to the U.S. House in the 2017 special election and re-elected to a two-year term in 2019. He was also <a href=\"https://www.bozemandailychronicle.com/news/crime/gianforte-sentenced-to-anger-management-community-service-for-assault-of/article_b6e6241e-e1a3-56fe-a32a-6a02ba234129.html\">convicted of misdemeanor assault</a> for attacking a reporter during his 2017 run. Gianforte filed to run for Montana governor a second time June 7."
     },
     {
       "position": "Governor",
       "party": "R",
       "first_name": "Gary",
       "last_name": "Perry",
-      "current_title": "Former state Sen.",
+      "current_title": "Former state senator",
       "incumbent": "FALSE",
       "residence": "",
       "status": "Withdrawn",
+      "state_finance_data_name": "",
       "photo_slug": "gary-perry.png",
       "podcast_url": "",
       "web_url": "",
       "fb_url": "https://www.facebook.com/PerryGov2020/",
-      "text": "Perry, of Manhattan, filed as a gubernatorial candidate with the Montana Commissioner of Political Practices April 10 and had his candidacy marked as closed by July 2019. He served as a state senator between 2002 and 2010."
+      "text": "Perry, of Manhattan, filed as a gubernatorial candidate with the Montana Commissioner of Political Practices April 10. His candidacy marked as closed by July 2019. He served as a state senator between 2002 and 2010."
     },
     {
       "position": "Governor",
@@ -157,11 +161,12 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Withdrawn",
+      "state_finance_data_name": "",
       "photo_slug": "corey-stapleton.png",
       "podcast_url": "",
       "web_url": "",
       "fb_url": "",
-      "text": "Stapleton, currently Montana’s secretary of state, initially announced a 2020 bid for Montana governor but shifted his focus to the U.S. House after incumbent U.S. Rep. Greg Gianforte announced he would run for governor in June."
+      "text": "Stapleton, currently Montana’s secretary of state, initially announced a 2020 bid for Montana governor, but shifted his sights to the U.S. House after incumbent U.S. Rep. Greg Gianforte announced he would run for governor in June."
     },
     {
       "position": "Governor",
@@ -172,26 +177,28 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "Schreiner, Casey  J",
       "photo_slug": "casey-schreiner.png",
       "podcast_url": "",
       "web_url": "https://caseyformontana.com/",
       "fb_url": "https://www.facebook.com/SchreinerforMT/",
-      "text": "Schreiner is a four-term representative who served in minority leadership in House in the 2015 and 2017 legislative sessions. He is termed-out of the House in 2020. Schreiner is a former science teacher who now serves as the director of the Montana State Workforce Innovation Board."
+      "text": "Schreiner is a four-term representative who served in minority House leadership during the 2015 and 2017 legislative sessions. He is termed-out of the House in 2020. Schreiner is a former science teacher who now serves as director of the Montana State Workforce Innovation Board."
     },
     {
       "position": "Governor",
       "party": "D",
       "first_name": "Mike",
       "last_name": "Cooney",
-      "current_title": "Lt. Gov",
+      "current_title": "Lt. Governor",
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "Cooney, Mike  R",
       "photo_slug": "mike-cooney.png",
       "podcast_url": "",
       "web_url": "https://www.cooneyformontana.com/",
       "fb_url": "https://www.facebook.com/CooneyForMT/",
-      "text": "Cooney, a former Montana legislator and secretary of state from Butte, <a href=\"http://governor.mt.gov/About/Lieutenant-Governor\">has been Bullock’s lieutenant governor</a> since 2016. He officially announced his campaign July 3."
+      "text": "Cooney, a former Montana legislator and secretary of state from Butte, <a href=\"http://governor.mt.gov/About/Lieutenant-Governor\">has been Bullock’s lieutenant governor</a> since 2016. He announced his campaign July 3."
     },
     {
       "position": "Governor",
@@ -202,41 +209,28 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "",
       "photo_slug": "whitney-williams.png",
       "podcast_url": "",
       "web_url": "https://whitneyformontana.com/",
       "fb_url": "https://www.facebook.com/WhitneyforMontana/",
-      "text": "Williams, of Missoula, announced her candidacy Oct. 3. She is the daughter of longtime Montana Congressman Pat Williams and Carol Williams, who was the first woman to serve as Montana Senate Majority Leader. She is also the founder and CEO of <a href=\"http://williamsworks.com/about/\">williamsworks</a>, a Missoula-based philanthropic consulting firm."
+      "text": "Williams, of Missoula, announced her candidacy Oct. 3. She is the daughter of longtime Montana Congressman Pat Williams and Carol Williams, who was the first woman to serve as Montana Senate majority leader. She is also the founder and CEO of <a href=\"http://williamsworks.com/about/\">williamsworks</a>, a Missoula-based philanthropic consulting firm."
     },
     {
       "position": "Governor",
       "party": "D",
       "first_name": "Reilly",
       "last_name": "Neill",
-      "current_title": "Former state Rep.",
+      "current_title": "Former state representative",
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "Neill, Reilly",
       "photo_slug": "reilly-neill.png",
       "podcast_url": "",
       "web_url": "https://www.votereilly.com/",
       "fb_url": "https://www.facebook.com/Reilly2020/",
-      "text": "Neill, who represented Park County from 2013 to 2015, filed to run for Governor as a Democrat June 8. A Livingston resident, she is also the editor of the arts and culture publication Montana Press Monthly."
-    },
-    {
-      "position": "Governor",
-      "party": "D",
-      "first_name": "Michael",
-      "last_name": "Punke",
-      "current_title": "Former Deputy U.S. Trade Representative",
-      "incumbent": "FALSE",
-      "residence": "",
-      "status": "Not Running",
-      "photo_slug": "michael-punke.png",
-      "podcast_url": "",
-      "web_url": "",
-      "fb_url": "",
-      "text": "Punke, who served as U.S. ambassador to the World Trade Organization in the Obama administration, is better known in Montana as the author of the novel The Revenant, which was adapted into the movie starring Leonardo DiCaprio. He lives in Missoula and, according to his LinkedIn profile, currently works as a vice president of global public policy for Amazon Web Services. Punke had been named as a potential Democratic Senate or gubernatorial candidate, but said in a June 24 tweet that he wouldn’t seek election in the 2020 cycle."
+      "text": "Neill, who represented Park County from 2013 to 2015, filed to run for governor June 8. A Livingston resident, she is the publisher of the publication Montana Press Monthly."
     },
     {
       "position": "Governor",
@@ -247,26 +241,28 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Filed",
+      "state_finance_data_name": "Vandevender, Ron  S",
       "photo_slug": "ron-vandevender.png",
       "podcast_url": "",
       "web_url": "https://www.ronformontana.com/",
       "fb_url": "",
-      "text": "Vandevender, of Cascade, previously ran for Governor in 2012 and has also campaigned for a seat in the Montana Legislature."
+      "text": "Vandevender, of Cascade, previously ran for governor in 2012, and has also campaigned for a seat in the Montana Legislature."
     },
     {
       "position": "U.S. Senate",
       "party": "R",
       "first_name": "Steve",
       "last_name": "Daines",
-      "current_title": "U.S. Sen.",
+      "current_title": "U.S. Senator",
       "incumbent": "TRUE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "",
       "photo_slug": "steve-daines.png",
       "podcast_url": "",
       "web_url": "https://www.stevedaines.com/",
       "fb_url": "https://www.facebook.com/SteveDainesMT/",
-      "text": "Daines, who worked for Rep. Greg Gianforte as an executive at the Bozeman company RightNow Technologies, was Montana’s U.S. representative during the 2012 term, and was elected to the Senate in 2014. He has said he plans to seek re-election to a second term in 2020."
+      "text": "Daines, who worked for Greg Gianforte as an executive at the Bozeman company RightNow Technologies, was Montana’s U.S. representative during the 2012 term, and was elected to the Senate in 2014. He has said he plans to seek re-election to a second term in 2020."
     },
     {
       "position": "U.S. Senate",
@@ -277,11 +273,12 @@
       "incumbent": "FALSE",
       "Residence": "Helena",
       "status": "Announced",
+      "state_finance_data_name": "",
       "photo_slug": "wilmot-collins.png",
       "podcast_url": "",
       "web_url": "https://wilmotcollins.com/",
       "fb_url": "https://www.facebook.com/WilmotCollinsforSenate/",
-      "text": "Collins, elected mayor of Helena in 2017, announced his bid for the U.S. Senate May 13. A Liberian refugee, he fled his home country’s civil war in the 1990s, according to the Helena Independent Record. Collins is thought to be Montana’s first black mayor since statehood."
+      "text": "Collins, elected mayor of Helena in 2017, announced his bid for the U.S. Senate May 13. A Liberian refugee, he fled his home country’s civil war in the 1990s. Collins is thought to be Montana’s first black mayor since statehood."
     },
     {
       "position": "U.S. Senate",
@@ -292,11 +289,12 @@
       "incumbent": "FALSE",
       "Residence": "Loma",
       "status": "Announced",
+      "state_finance_data_name": "",
       "photo_slug": "john-mues.png",
       "podcast_url": "",
       "web_url": "https://muesformontana.com",
       "fb_url": "https://www.facebook.com/MuesforMontana/",
-      "text": "Mues, of Loma, said July 11 that he is running for the U.S. Senate. He is a Navy veteran and engineer who says he served as a nuclear submarine officer."
+      "text": "Mues, of Loma, said July 11 that he is running for the U.S. Senate. He is a Navy veteran and engineer."
     },
     {
       "position": "U.S. Senate",
@@ -307,11 +305,12 @@
       "incumbent": "FALSE",
       "Residence": "Bozeman",
       "status": "Announced",
+      "state_finance_data_name": "",
       "photo_slug": "cora-neumann.png",
       "podcast_url": "",
       "web_url": "https://coraformontana.com",
       "fb_url": "https://www.facebook.com/CoraForMontana/",
-      "text": "Neumann, of Bozeman, announced her candidacy Oct. 1. Raised in Bozeman, she has spent much of her career working in global public health. She also founded the <a href=\"https://www.gfla.org/about/\">Global First Ladies Alliance</a>."
+      "text": "Neumann, of Bozeman, announced her candidacy Oct. 1. Raised in Bozeman, she spent much of her career working in global public health. She also founded the <a href=\"https://www.gfla.org/about/\">Global First Ladies Alliance</a>."
     },
     {
       "position": "U.S. Senate",
@@ -322,11 +321,12 @@
       "incumbent": "FALSE",
       "Residence": "Bozeman",
       "status": "Announced",
+      "state_finance_data_name": "",
       "photo_slug": "michael-knoles.png",
       "podcast_url": "",
       "web_url": "",
       "fb_url": "",
-      "text": "Michael Knoles, of Bozeman, filed <a href=\"https://docquery.fec.gov/cgi-bin/forms/C00720672/1353976/\">candidacy paperwork</a> with the Federal Election Commission Sept. 26."
+      "text": "Knoles, of Bozeman, filed <a href=\"https://docquery.fec.gov/cgi-bin/forms/C00720672/1353976/\">candidacy paperwork</a> with the Federal Election Commission Sept. 26."
     },
     {
       "position": "U.S. Senate",
@@ -337,21 +337,23 @@
       "incumbent": "FALSE",
       "Residence": "Red Lodge",
       "status": "Suspended",
+      "state_finance_data_name": "",
       "photo_slug": "jack-ballard.png",
       "podcast_url": "",
       "web_url": "",
       "fb_url": "",
-      "text": "Ballard, of Red Lodge, announced his candidacy in July and, citing health problems, said he was suspending his campaign Sept. 13. A full-time writer, he is a former board member of the Outdoors Writers Association of America, according to the Billings Gazette."
+      "text": "Ballard, of Red Lodge, announced his candidacy in July and suspended his campaign Sept. 13, citing health problems. A full-time writer, he is a former board member of the Outdoors Writers Association of America."
     },
     {
       "position": "U.S. Senate",
       "party": "D",
       "first_name": "Steve",
       "last_name": "Bullock",
-      "current_title": "Gov.",
+      "current_title": "Governor",
       "incumbent": "FALSE",
       "residence": "",
       "status": "Potential",
+      "state_finance_data_name": "",
       "photo_slug": "steve-bullock.png",
       "podcast_url": "",
       "web_url": "",
@@ -367,11 +369,12 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "",
       "photo_slug": "corey-stapleton.png",
       "podcast_url": "",
       "web_url": "http://www.coreystapleton.com/",
       "fb_url": "https://www.facebook.com/CoreyforMT/",
-      "text": "Stapleton, a former state senator, was elected secretary of state in 2016 and made unsuccessful primary bids for governor in 2012 and the U.S. House in 2014. According to MTN News, he has an engineering degree from the U.S. Naval Academy and previously worked as a financial adviser in Billings. He said he would run for Montana governor in January, but switched his focus to the U.S. House after Gianforte announced his own gubernatorial bid."
+      "text": "Stapleton, a former state senator, was elected secretary of state in 2016, and made unsuccessful primary bids for governor in 2012 and the U.S. House in 2014. He has an engineering degree from the U.S. Naval Academy and previously worked as a financial adviser in Billings. He said in January that he would run for Montana governor, but switched to the U.S. House race after Gianforte announced his own gubernatorial bid."
     },
     {
       "position": "U.S. House",
@@ -382,11 +385,12 @@
       "incumbent": "FALSE",
       "residence": "Glendive",
       "status": "Announced",
+      "state_finance_data_name": "",
       "photo_slug": "matt-rosendale.png",
       "podcast_url": "",
       "web_url": "https://mattformontana.com/",
       "fb_url": "https://www.facebook.com/MattForMontana/",
-      "text": "Rosendale, of Glendive, said he would run for the U.S. House June 17. Elected state auditor in 2016, he made an unsuccessful run against U.S. Sen. Jon Tester in 2018."
+      "text": "Rosendale, of Glendive, announced on June 17 that he would run for the U.S. House. Elected state auditor in 2016, he made an unsuccessful run against U.S. Sen. Jon Tester in 2018."
     },
     {
       "position": "U.S. House",
@@ -397,11 +401,12 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "",
       "photo_slug": "joe-dooling.png",
       "podcast_url": "",
-      "web_url": "",
+      "web_url": "http://www.joedooling.com/",
       "fb_url": "https://www.facebook.com/joedoolingforcongress/",
-      "text": "Dooling, a rancher from the Helena Valley and chairman of the Lewis and Clark County GOP Central Committee, filed paperwork to run for Montana U.S. House seat June 24. He is the husband of state Rep. Julie Dooling."
+      "text": "Dooling, a rancher from the Helena valley and chairman of the Lewis and Clark County GOP Central Committee, filed paperwork to run for Montana’s U.S. House seat June 24. He is the husband of state Rep. Julie Dooling."
     },
     {
       "position": "U.S. House",
@@ -412,11 +417,12 @@
       "incumbent": "FALSE",
       "Residence": "Corvallis",
       "status": "Announced",
+      "state_finance_data_name": "",
       "photo_slug": "tim-johnson.png",
       "podcast_url": "",
-      "web_url": "",
-      "fb_url": "",
-      "text": "Johnson, of Corvallis, is the superintendent of Corvallis Public Schools, according to the Associated Press. He filed July 3 to run for the U.S. House."
+      "web_url": "https://www.timjohnsonformontana.com/",
+      "fb_url": "https://www.facebook.com/TJ4MT/",
+      "text": "Johnson, of Corvallis, is the superintendent of Corvallis Public Schools. He filed July 3 to run for the U.S. House."
     },
     {
       "position": "U.S. House",
@@ -427,10 +433,11 @@
       "incumbent": "FALSE",
       "Residence": "Livingston",
       "status": "Announced",
+      "state_finance_data_name": "",
       "photo_slug": "debra-lamm.png",
       "podcast_url": "",
-      "web_url": "",
-      "fb_url": "",
+      "web_url": "https://debralamm.com/",
+      "fb_url": "https://www.facebook.com/LammForCongress",
       "text": "Lamm, of Livingston, announced her intention Sept. 9 to seek the GOP nomination. She served in the Montana House during the 2015 Legislature."
     },
     {
@@ -438,30 +445,32 @@
       "party": "D",
       "first_name": "Kathleen",
       "last_name": "Williams",
-      "current_title": "Former state Rep.",
+      "current_title": "Former state representative",
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "",
       "photo_slug": "kathleen-williams.png",
       "podcast_url": "",
       "web_url": "https://kathleenformontana.com/",
       "fb_url": "https://www.facebook.com/Williamsformontana/",
-      "text": "Williams, a former state legislator from Bozeman, announced her second run for the U.S. House in April. While she came up 24,000 votes short in her prior attempt to unseat Gianforte in 2018, that margin was closer than any Democrat who has run for Montana’s U.S. House seat in more than a decade."
+      "text": "Williams, a former state legislator from Bozeman, announced her second run for the U.S. House in April. Williams lost her prior attempt, running to unseat Gianforte in 2018, by 24,000 votes."
     },
     {
       "position": "U.S. House",
       "party": "D",
       "first_name": "Tom",
       "last_name": "Winter",
-      "current_title": "State Rep.",
+      "current_title": "State representative",
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "",
       "photo_slug": "tom-winter.png",
       "podcast_url": "",
       "web_url": "https://www.winterformontana.com/",
       "fb_url": "https://www.facebook.com/WinterForMontana/",
-      "text": "Winter, a freshman state representative from Missoula, announced his candidacy in April. He owns home health-care provider Interim HealthCare of Montana, according to Lee Newspapers."
+      "text": "Winter, a freshman state representative from Missoula, announced his candidacy in April. He owns home health care provider Interim HealthCare of Western Montana."
     },
     {
       "position": "U.S. House",
@@ -472,11 +481,12 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Filed",
+      "state_finance_data_name": "",
       "photo_slug": "matt-rains.png",
       "podcast_url": "",
       "web_url": "https://rainsformontana.com/",
-      "fb_url": "",
-      "text": "Rains, of Simms, says he is an Army veteran who currently owns a ranch. He filed to run for the U.S. House July 1."
+      "fb_url": "https://www.facebook.com/RainsforMT/",
+      "text": "Rains, of Simms, is an Army veteran who owns a ranch, according to his campaign website. He filed to run for the U.S. House July 1."
     },
     {
       "position": "Attorney General",
@@ -487,6 +497,7 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "Bennion, Jon",
       "photo_slug": "jon-bennion.png",
       "podcast_url": "https://montanafreepress.org/2019/06/11/mt-lowdown-e22-jon-bennion-vying-for-ag/",
       "web_url": "https://www.bennionforag.com/",
@@ -502,6 +513,7 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "Knudsen, Austin",
       "photo_slug": "austin-knudsen.png",
       "podcast_url": "",
       "web_url": "https://austinformontana.com/",
@@ -513,10 +525,11 @@
       "party": "D",
       "first_name": "Kim",
       "last_name": "Dudik",
-      "current_title": "State Rep.",
+      "current_title": "State Representative",
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "Dudik, Kimberly",
       "photo_slug": "kim-dudik.png",
       "podcast_url": "https://montanafreepress.org/2019/05/22/mt-lowdown-dudik-for-ag/",
       "web_url": "https://www.dudikformontana.com/",
@@ -532,6 +545,7 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "Graybill, Raph",
       "photo_slug": "raph-graybill.png",
       "Podcast_url": "https://montanafreepress.org/2019/06/25/mt-lowdown-podcast-episode-24-democrat-raph-graybills-vision-for-attorney-general/",
       "web_url": "https://www.raphgraybill.com/",
@@ -547,11 +561,12 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Withdrawn",
+      "state_finance_data_name": "",
       "photo_slug": "james-cossitt.png",
       "Podcast_url": "",
       "web_url": "",
       "fb_url": "https://www.facebook.com/Cossitt-for-Montana-Attorney-General-1943535719295070/",
-      "text": "Cossitt, of Kalispell, filed his candidacy paperwork in July and said he was withdrawing from the race in October. An attorney, he previously ran to represent Kalispell in the state Legislature in 2018."
+      "text": "Cossitt, of Kalispell, filed his candidacy paperwork in July, and announced his withdrawal from the race in October. An attorney, he previously ran to represent Kalispell in the state Legislature in 2018."
     },
     {
       "position": "Secretary of State",
@@ -562,21 +577,23 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "Sales, Scott",
       "photo_slug": "scott-sales.png",
       "podcast_url": "",
       "web_url": "",
       "fb_url": "",
-      "text": "Sales, a state senator from Bozeman who has served in the Montana Legislature since 2003, said he would run for secretary of state in March. He served as senate president in the 2017 and 2019 legislative sessions."
+      "text": "Sales, a state senator from Bozeman who has served in the Montana Legislature since 2003, announced his run for secretary of state in March. He served as senate president in the 2017 and 2019 legislative sessions."
     },
     {
       "position": "Secretary of State",
       "party": "R",
       "first_name": "Forrest",
       "last_name": "Mandeville",
-      "current_title": "State Rep.",
+      "current_title": "State representative",
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "Mandeville, Forrest  J",
       "photo_slug": "forrest-mandeville.png",
       "podcast_url": "",
       "web_url": "https://mandevilleformontana.com/",
@@ -592,13 +609,14 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "",
       "photo_slug": "christi-jacobsen.png",
       "podcast_url": "",
-      "Web_url": "http://christijacobsen.com/",
+      "web_url": "http://christijacobsen.com/",
       "fb_url": "https://www.facebook.com/Christi4Montana/",
       "tw_url": "https://twitter.com/christi4montana",
       "insta_url": "https://www.instagram.com/christi4montana/",
-      "text": "Jacobsen, of Helena, filed candidacy paperwork with the Montana Commissioner of Political Practices Oct. 4. She serves as the Chief of Staff for current Secretary of State Corey Stapleton."
+      "text": "Jacobsen, of Helena, filed candidacy paperwork with the Montana Commissioner of Political Practices Oct. 4. She serves as the chief of staff for current Secretary of State Corey Stapleton."
     },
     {
       "position": "Secretary of State",
@@ -609,21 +627,23 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Rumored",
+      "state_finance_data_name": "",
       "photo_slug": "brad-johnson.png",
       "podcast_url": "",
       "web_url": "",
       "fb_url": "",
-      "text": "Johnson, of East Helena, has been mentioned as a potential secretary of state candidate. He told MTFP in June that he was too busy with his work at the PSC, the state’s utility regulation commission, to give his political future much thought but didn’t rule out a run. He previously served as secretary of state from 2005 to 2009."
+      "text": "Johnson, of East Helena, has been mentioned as a potential secretary of state candidate. He told MTFP in June that he was too busy with his work at the PSC, the state’s utility regulation commission, to give his political future much thought, but didn’t rule out a run. He previously served as secretary of state from 2005 to 2009."
     },
     {
       "position": "Secretary of State",
       "party": "D",
       "first_name": "Bryce",
       "last_name": "Bennett",
-      "current_title": "state Sen.",
+      "current_title": "State Senator",
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "Bennett, Bryce",
       "photo_slug": "bryce-bennett.png",
       "podcast_url": "https://montanafreepress.org/2019/07/02/mt-lowdown-podcast-episode-25-democrat-bryce-bennetts-run-for-secretary-of-state/",
       "web_url": "https://www.bennettformontana.com",
@@ -639,11 +659,12 @@
       "incumbent": "TRUE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "Arntzen, Elsie",
       "photo_slug": "elsie-arntzen.png",
       "podcast_url": "",
       "web_url": "https://elsieformontana.com",
       "fb_url": "https://www.facebook.com/SuperintendentElsieArntzen/",
-      "text": "Arntzen, formerly a state legislator from Billings, was elected superintendent of public instruction in 2016. She said she will seek re-election June 11."
+      "text": "Arntzen, formerly a state legislator from Billings, was elected superintendent of public instruction in 2016. She announced June 11 that she will seek re-election."
     },
     {
       "position": "Superintendent of Public Instruction",
@@ -654,11 +675,12 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "Romano, Melissa",
       "photo_slug": "melissa-romano.png",
       "podcast_url": "",
       "web_url": "http://romanoformontana.com",
       "fb_url": "https://www.facebook.com/romanoformontana/",
-      "text": "Romano, an award-winning Helena teacher, was the 2016 Democratic nominee for superintendent of public instruction, losing to Arntzen. She said she plans to take another shot at the job in April."
+      "text": "Romano, a Helena teacher, was the 2016 Democratic nominee for superintendent of public instruction, losing to Arntzen. She said in April she plans to take another shot at the job."
     },
     {
       "position": "State Auditor",
@@ -669,11 +691,12 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "Downing, Troy  B",
       "photo_slug": "troy-downing.png",
       "podcast_url": "",
       "web_url": "http://www.troydowning.com/",
       "fb_url": "https://www.facebook.com/TroyDowningMT/",
-      "text": "Downing, a military veteran who ran in the Republican primary for the U.S. Senate in 2018, said June 26th he’ll run for state auditor in 2020."
+      "text": "Downing, a military veteran who ran in the Republican primary for the U.S. Senate in 2018, said June 26 he’ll run for state auditor in 2020."
     },
     {
       "position": "State Auditor",
@@ -684,6 +707,7 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "Nicol Nelly",
       "photo_slug": "nelly-nicol.png",
       "podcast_url": "",
       "web_url": "https://nellynicol4stateauditor.com/",
@@ -695,10 +719,11 @@
       "party": "D",
       "first_name": "Shane",
       "last_name": "Morigeau",
-      "current_title": "State Rep.",
+      "current_title": "State Representative",
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "state_finance_data_name": "Morigeau, Shane  A",
       "photo_slug": "shane-morigeau.png",
       "podcast_url": "",
       "web_url": "https://shaneformontana.com/",
@@ -706,5 +731,5 @@
       "text": "Morigeau, a state representative from Missoula, announced his candidacy for state auditor June 30. He is a member of the Confederated Salish and Kootenai Tribes and has a law degree from the University of Montana."
     }
   ],
-  "lastUpdated": "2019-10-17T16:53:03.061Z"
+  "lastUpdated": "2019-10-18T17:10:12.897Z"
 }

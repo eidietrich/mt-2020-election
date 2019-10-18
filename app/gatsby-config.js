@@ -4,6 +4,14 @@ module.exports = {
     description: '',
     author: `@mtfreepress`,
   },
+  siteMetadata: {
+    title: `Montana Free Press`,
+    description: `A citizens' guide to the 2020 Montana election`,
+    author: `Eric Dietrich / Montana Free Press`,
+    siteUrl:`https://www.montanafreepress.org/apps/montana-2020`,
+    keywords: ['Montana','election','2020','votes','politics','U.S. Senate','Governor','U.S. House','congress']
+  },
+  pathPrefix: `/apps/montana-2020`,
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
@@ -33,6 +41,7 @@ module.exports = {
         trackingId: "UA-70813941-1",
       },
     },
+    `gatsby-plugin-webpack-size`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,

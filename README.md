@@ -26,6 +26,10 @@ Some data pipeline folders contain Jupyter notebooks for exploration/script deve
     - CMD: Clean data: `python3 scrapers/state-finance-reports/clean.py`
     - CMD: Move to app: `sh utils/campaign-finance-to-app.sh` # replace w/ node script that also parses
 
+### Deploy app to MTFP server
+- `(cd app; npm run build)`
+- `(cd app; lftp -c \"open sftp://ericdietrich@sftp.flywheelsites.com/mtfpeditor/montana-free-press/apps; mirror -eR track-mtleg-2019/\")`
+
 ### Next priority pipelines:
 - fed-finance-reports - federal race campaign finance data from FEC API
 

@@ -10,6 +10,9 @@ __pycache__/
 scrapers/fed-finance-reports/data/individual-contributions-20.zip
 scrapers/fed-finance-reports/data/individual-contributions-20/
 
+# build files
+montana-2020/
+
 # vscode
 .vscode/
 
