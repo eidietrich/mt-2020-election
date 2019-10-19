@@ -36,7 +36,11 @@ class RacePage extends Component {
                 candidates={raceCandidates}
             />
             <hr />
-            {/* <RaceFinanceState /> */}
+            <RaceFinanceState
+                race={race}
+                candidates={raceCandidates}
+            />
+            <hr />
             <MoreToComeMessage />
         </Layout>);
     }

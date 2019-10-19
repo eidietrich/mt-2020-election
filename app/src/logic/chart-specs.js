@@ -20,6 +20,7 @@ export const contributionBreakdownSpec = {
     encoding: {
         x: {
             field: 'Amount', aggregate: 'sum', type: 'quantitative',
+            scale: { domain: [0, 1000000]},
             axis: { format: moneyAxisFormat }
         },
         y: { field: 'Candidate', type: 'nominal', title: '' },
@@ -219,6 +220,68 @@ export const contributionMapSpec = {
                     { field: "amount", type: "quantitative", format: '$,.0f', "title": 'Donations' },
                     { field: "number", type: "quantitative", format: ',', "title": 'Number' },
                 ]
+            }
+        }
+    ]
+}
+
+export const raceMapSpec = {
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "width": 600,
+    "height": 400,
+    "projection": {
+        "type": "mercator"
+    },
+    "layer": [
+        {
+            "data": {
+                "values": counties,
+                "format": {
+                    "type": "topojson",
+                    "feature": "counties"
+                }
+            },
+            "mark": {
+                "type": "geoshape",
+                "fill": "lightgray",
+                "stroke": "white",
+                "strokeWidth": 0.5,
+            }
+        },
+        {
+            "data": { "values": zips },
+            "selection": {
+                "highlight": { "type": "single", "empty": "none", "on": "mouseover" },
+            },
+            "mark": {
+                type: "circle",
+                fillOpacity: 0.5,
+                strokeWidth: 1,
+                stroke: "darkgreen",
+                color: "darkgreen"
+            },
+            "encoding": {
+                "longitude": {
+                    "field": "longitude",
+                    "type": "quantitative"
+                },
+                "latitude": {
+                    "field": "latitude",
+                    "type": "quantitative"
+                },
+                "size": {
+                    "field": 'amount', 'type': 'quantitative',
+                    title: 'Total donated in zipcode', format: '$,',
+                    scale: { domain: [0,1000000], range: [0, 1000] },
+                    legend: { orient: 'top', format: '$,.0s' },
+                },
+                "row": { "field": "candidate", "type": "nominal"},
+                // "tooltip": [
+                //     { field: "zip_code", type: "nominal", "title": "Zip code" },
+                //     { field: "city", type: "nominal", title: "Place" },
+                //     { field: "amount", type: "quantitative", format: '$,.0f', "title": 'Donations' },
+                //     { field: "number", type: "quantitative", format: ',', "title": 'Number' },
+                // ]
             }
         }
     ]

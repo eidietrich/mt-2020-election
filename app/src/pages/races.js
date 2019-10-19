@@ -11,6 +11,8 @@ import { races, candidates, racePageText, racePageTitle } from '../data/app-copy
 
 import { makeRaceUrl, makeCandidateUrl, candidateNameParty, filterToActive } from '../logic/functions.js'
 
+const activeCandidates = filterToActive(candidates)
+
 const Races = () => {
     return <Layout>
         <SEO title="Montana 2020 election races" />
@@ -19,7 +21,7 @@ const Races = () => {
         {races.map((race, i) => {
             return <Race key={String(i)}
                 race={race}
-                candidates={candidates.filter(candidate => candidate.position === race.position)}
+                candidates={activeCandidates.filter(candidate => candidate.position === race.position)}
             />
         })}
     </Layout>
@@ -36,7 +38,7 @@ const Race = (props) => {
         {/* <p><Link to={makeRaceUrl(race)}>Race overview</Link></p> */}
         <div>
             <span><strong>Candidates:</strong> </span>
-            {filterToActive(candidates).map((c, i) => {
+            {candidates.map((c, i) => {
                 return <span key={String(i)}><Link to={makeCandidateUrl(c)}>{candidateNameParty(c)}</Link></span>
                 })
                 .reduce((prev, curr) => [prev, ', ', curr])

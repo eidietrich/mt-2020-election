@@ -69,14 +69,14 @@ import { candidates, candidatePageTitle, candidatePageText } from '../data/app-c
 // ]
 
 const Candidates = () => {
-  const useCandidates = filterToActive(candidates)
+  const activeCandidates = filterToActive(candidates)
 
   return <Layout>
     <SEO title="Montana 2020 election candidates" />
     <h1>{candidatePageTitle}</h1>
     <TextBlock paragraphs={candidatePageText} />
     <div>
-      {useCandidates.map(candidate => <CandidateSummary
+      {activeCandidates.map(candidate => <CandidateSummary
         key={makeCandidateKey(candidate)}
         candidate={candidate}
       />)}

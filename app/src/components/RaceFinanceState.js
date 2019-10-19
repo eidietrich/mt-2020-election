@@ -5,16 +5,19 @@ import PullStatMain from '../library/PullStatMain'
 import PullStatSecondaryRow from '../library/PullStatSecondaryRow'
 
 import {
-    cumulativeContributionSpec,
-    cumulativeExpendituresSpec,
-    contributionBreakdownSpec,
-    cumulativeCombinedSpec,
+    raceMapSpec,
+    contributionBreakdownSpec
 } from '../logic/chart-specs.js'
 
 import {
     dollarFormat,
     fundraisingDomainUpperBound
 } from '../logic/config'
+
+import {
+    candidateNameParty,
+    makeRaceKey
+} from '../logic/functions'
 
 const contributionTypes = {
     selfFinance: ['Personal contributions','Loans'],
@@ -23,11 +26,6 @@ const contributionTypes = {
     other: ['Unitemized contributions','Fundraisers & misc']
 }
 
-
-
-
-const totalSpendingDomain = [0,600000] // TODO Set this by race
-
 const forPrimary = contributions => contributions.filter(d => d['Election Type'] === 'PM')
 const forGeneral = contributions => contributions.filter(d => d['Election Type'] === 'GN')
 
@@ -35,47 +33,41 @@ const sumAmount = entries => entries.reduce((acc, obj) => obj['Amount'] + acc, 0
 
 const CampaignFinanceState = (props) => {
     const {
-        candidates
+        candidates,
+        race
     } = props
     console.log(props)
 
-    
-    // // cleaning - TODO move this to development script
-    // contributions.forEach(d => {
-    //     if (contributionTypes.selfFinance.includes(d.type)) d.type2 = 'Self financing'
-    //     if (contributionTypes.committee.includes(d.type)) d.type2 = 'Committee support'
-    //     if (contributionTypes.individual.includes(d.type)) d.type2 = 'Individual donations'
-    //     if (contributionTypes.other.includes(d.type)) d.type2 = 'Other support'
-    //     d.direction = 'contribution'
-    // })
-    // expenditures.forEach(d => {
-    //     d.direction = 'expenditure'
-    // })
+    let contributions = []
+    candidates.forEach(candidate => {
+        const candContributions = candidate.stateContributions
+        // byZipForCandidate.forEach(d => d.candidate = candidateNameParty(candidate))
+        contributions = contributions.concat(candContributions)
+    })
 
-    // // TODO: Elegentize this
-    // const reportingPeriods = Array.from(new Set(contributions.map(d => d['Reporting Period'])))
+    let contributionsByZip = []
+    candidates.forEach(candidate => {
+        const byZipForCandidate = candidate.fundraisingSummary.contributionsByZip
+        byZipForCandidate.forEach(d => d.candidate = candidateNameParty(candidate))
+        contributionsByZip = contributionsByZip.concat(byZipForCandidate)
+    })
+    console.log(contributions)
 
-    // // Prep values for display
-    // const totalRaised = sumAmount(contributions)
-    // const totalRaisedPrimary = sumAmount(forPrimary(contributions))
-    // const totalRaisedGeneral = sumAmount(forGeneral(contributions))
-    // const totalSpent = sumAmount(expenditures)
+    contributionBreakdownSpec.data.values = contributions
+    contributionBreakdownSpec.height = 20 * candidates.length + 100
+    const upperBound = fundraisingDomainUpperBound[makeRaceKey(race)]
+    contributionBreakdownSpec.encoding.x.scale.domain = [0, upperBound]
 
-    // const individualContributions = contributions.filter(d => d.type2 === 'Individual donations')
-    // const numIndividualContributions = individualContributions.length
-    // const averageIndividualContributionSize = sumAmount(individualContributions) / numIndividualContributions
-
-    // // prep data for graphs
-    // contributionBreakdownSpec.data = {values: contributions} 
-    // cumulativeContributionSpec.data = {values: contributions}
-    // cumulativeExpendituresSpec.data = {values: expenditures}
-
-    // // set y-scales
-    // // cumulativeContributionSpec.encoding.y.scale = { domain: totalSpendingDomain }
-    // // cumulativeExpendituresSpec.encoding.y.scale = { domain: totalSpendingDomain }
+    // This is going to take some more work
+    // raceMapSpec.layer[1].encoding.data.values.zips.forEach
 
     return <div style={{maxWidth: 1200, width: '100%', border: '1px solid red'}}>
-            <div>**Campaign Finance State**</div>
+            <h2>Fundraising</h2>
+            <div>TK Chart: fundraising broken down by type</div>
+            <ResponsiveVegaLite spec={contributionBreakdownSpec} />
+            <div>TK Chart: fundraising over time</div>
+            
+
             <div className="note">
                 Notes: Figures from data as reported to the Montana Commissioner of Political Practices by campaigns. TK other caveats - no refunds factored in yet, mention what contribution limits are
             </div>

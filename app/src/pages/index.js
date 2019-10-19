@@ -14,8 +14,8 @@ import text from '../data/app-copy.json'
 
 import styles from './index.module.css'
 
-import { parties, excludeStatuses } from '../logic/config.js'
-import { makeCandidateKey, makeRaceKey } from '../logic/functions.js'
+import { parties } from '../logic/config.js'
+import { makeCandidateKey, makeRaceKey, filterToActive } from '../logic/functions.js'
 
 
 const { candidates, races, lastUpdated } = text
@@ -88,8 +88,7 @@ const Race = (props) => {
   const primaryFields = parties
     .filter(party => candidates.find(d => d.party === party.key)) // exclude parties w/out candidates
     .map(party => {
-      const partyCandidates = candidates
-        .filter(d => !excludeStatuses.includes(d.status))
+      const partyCandidates = filterToActive(candidates)
         .filter(d => d.party === party.key)
       return <Primary key={party.key}
         name={party.name}

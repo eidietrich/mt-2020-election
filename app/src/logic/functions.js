@@ -1,7 +1,7 @@
 // centralized utility & data management functions 
 
 import { parties, excludeStatuses } from './config.js'
-
+ 
 export const filterToActive = candidates => candidates.filter(d => !excludeStatuses.includes(d.status))
 
 export const makeCandidateKey = candidate => (candidate.first_name + '-' + candidate.last_name).replace(/\s/g, '-')

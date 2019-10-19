@@ -34,8 +34,10 @@ const raw = getJson(FINANCE_SOURCE)
 const contributions = cleanContributions(JSON.parse(raw.contributions))
 const expenditures = cleanExpenditures(JSON.parse(raw.expenditures))
 
+const activeCandidates = filterToActive(candidates)
+
 // sort candidates into state/federal races
-candidates.forEach(candidate => {
+activeCandidates.forEach(candidate => {
     const race = races.find(race => race.position === candidate.position)
     candidate.jurisdiction = race.type
 })
@@ -45,10 +47,10 @@ console.log(
 Processing ${contributions.length} contributions, ${expenditures.length} expenditures`
 )
 // run tests
-checkCandidateMatches(candidates, contributions)
+checkCandidateMatches(activeCandidates, contributions)
 
 // perform aggregation calcs
-const candidateSummaries = makeCandidateSummaries(candidates, contributions, expenditures)
+const candidateSummaries = makeCandidateSummaries(activeCandidates, contributions, expenditures)
 // console.table(candidateSummaries)
 // console.log('3)\n', candidateSummaries[0].contributionsByZip)
 
@@ -84,7 +86,7 @@ function cleanExpenditures(expenditures){
 
 function checkCandidateMatches(candidates, contributions){
     const stateFinanceDataNames = Array.from(new Set(contributions.map(d => d.Candidate)))
-    const candidatesWithoutStateFinanceDataMatch = filterToActive(candidates)
+    const candidatesWithoutStateFinanceDataMatch = activeCandidates
         .filter(d => d.jurisdiction === 'state') // exclude federal candidates
         .filter(d => !(stateFinanceDataNames.includes(d.state_finance_data_name)))
     console.log('No state finance data for:', candidatesWithoutStateFinanceDataMatch.map(d => `${d.first_name} ${d.last_name}`))
@@ -102,7 +104,7 @@ function checkForNonsensicalAmounts(){
 // OUTPUTS
 
 function makeCandidateSummaries(candidates, contributions, expenditures){
-    const candidateSummaries = filterToActive(candidates).map(candidate => {
+    const candidateSummaries = activeCandidates.map(candidate => {
         const candidateContributions = contributions.filter(d => d.Candidate === candidate.state_finance_data_name)
         const candidateExpenditures = expenditures.filter(d => d.Candidate === candidate.state_finance_data_name)
         const summaries = summarizeByCandidate(candidateContributions, candidateExpenditures)
