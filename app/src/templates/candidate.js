@@ -3,8 +3,7 @@ import { Link } from 'gatsby'
 import Layout from "../components/layout"
 import SEO from '../components/seo'
 
-import CandidateFinanceState from '../components/CandidateFinanceState' 
-import CandidateFinanceFederal from '../components/CandidateFinanceFederal' 
+import CandidateFinance from '../components/CandidateFinance' 
 import CandidateSummary from '../components/CandidateSummary'
 import MoreToComeMessage from '../components/MoreToComeMessage'
 
@@ -58,12 +57,14 @@ class CandidatePage extends Component {
             <hr /> 
             
             {(jurisdiction === 'state') ?
-                <CandidateFinanceState 
+                <CandidateFinance 
                     candidate={candidate}
                     race={race}
                 /> :
                 <div>Federal</div>
             }
+
+            <hr />
 
             <MoreToComeMessage />  
 

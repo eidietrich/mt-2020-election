@@ -1,0 +1,79 @@
+
+
+
+.primary {
+    border: 1px solid #666;
+    /* background: #ddd; */
+    text-align: center;
+    margin-bottom: 0.5rem;
+    padding: 0.75rem;
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+    min-height: 6em;
+
+    flex: 1 0 200px;
+}
+
+.secondaryRow {
+    /* border: 1px solid blue; */
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    padding: 0.25rem;
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+    /* width: 100%; */
+    flex: 2 0 200px;
+
+    min-height: 6em;
+
+    border: 1px solid #666;
+
+}
+
+.secondary {
+    /* border: 1px solid green; */
+    padding: 0.5rem;
+    text-align: center;
+
+    flex: 1 0 100px;
+}
+
+.primaryStat {
+    font-weight: bold;
+    font-size: 2em;
+    line-height: 1.2em;
+    
+}
+.primaryLabel {
+    color: #666;
+    font-size: 1.1em;
+    line-height: 1.1em;
+
+}
+.secondaryStat {
+    font-weight: bold;
+    font-size: 1.5em;
+    line-height: 1.2em;
+
+    flex: 1 0 100px;
+
+}
+.secondaryLabel {
+    color: #666;
+    font-size: 1.1em;
+    line-height: 1.2em;
+    flex: 1 0 100px;
+
+}
+
+@media screen and (max-width: 400px) {
+    .primaryLabel,
+    .secondaryLabel {
+        font-size: 12px
+    }
+}

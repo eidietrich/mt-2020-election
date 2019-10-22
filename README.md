@@ -26,10 +26,14 @@ Some data pipeline folders contain Jupyter notebooks for exploration/script deve
     - CMD: Clean data: `python3 scrapers/state-finance-reports/clean.py`
     - CMD: Move to app: `sh utils/campaign-finance-to-app.sh` # replace w/ node script that also parses
 
+### App data compilation
+
+- CMD: push state finance to app: `node process/process-state-finance.js`
+
 ### Deploy app to MTFP server
 - `(cd app; gatsby build --prefix-paths && rm -r ./montana-2020 ||: && mv ./public ./montana-2020)`
-- Copy and Paste: `(cd app; lftp -c "open sftp://ericdietrich@sftp.flywheelsites.com/mtfpeditor/montana-free-press/apps; mirror -eR montana-2020/")`
-- NODE: `(cd app; lftp -c \"open sftp://ericdietrich@sftp.flywheelsites.com/mtfpeditor/montana-free-press/apps; mirror -eR montana-2020/\")`
+- `(cd app; lftp -c "open sftp://ericdietrich@sftp.flywheelsites.com/mtfpeditor/montana-free-press/apps; mirror -eR montana-2020/")` // with file deletion
+- `(cd app; lftp -c "open sftp://ericdietrich@sftp.flywheelsites.com/mtfpeditor/montana-free-press/apps; mirror -R montana-2020/")` // quicker?
 
 ### Next priority pipelines:
 - fed-finance-reports - federal race campaign finance data from FEC API
@@ -52,12 +56,19 @@ Some data pipeline folders contain Jupyter notebooks for exploration/script deve
 
 ## TODO
 
-SIMPLE TODO: 
-- Make plain text version of homepage at `/text-only/` (partially complete - need another through styling)
+FIRST TODO:
+- Make plain text version of homepage at `/text-only/` (partially complete - need another through styling pass)
 - Finish implementing campaign finance
+
+MED TODO:
+- Better graphic design - photo underlay on homepage title, match fonts/styles etc.
+- Better homepage image
+- Add updates page for new data/corrections etc.
 
 BIGGER PICTURE TODO
 - Clean up Google Docs import, bulletproof security issues
 - Build a shared component library? How would that work? [Storybook](https://storybook.js.org/)?
 - Think through testing for data pipelines
+- Embed podcast player in dropdown for candidates who've been interviewed on [MTFP podcast](https://montanafreepress.org/series/montana-lowdown-podcast/)
+
 

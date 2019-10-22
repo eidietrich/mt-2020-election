@@ -134,7 +134,7 @@
       "podcast_url": "",
       "web_url": "https://gregformontana.com/",
       "fb_url": "https://www.facebook.com/RepGianforte/",
-      "text": "Gianforte was the Republican nominee for governor in 2012, but failed to derail Gov. Steve Bullock’s re-election bid. Entering politics after founding and selling RightNow Technologies in Bozeman, he was elected to the U.S. House in the 2017 special election and re-elected to a two-year term in 2019. He was also <a href=\"https://www.bozemandailychronicle.com/news/crime/gianforte-sentenced-to-anger-management-community-service-for-assault-of/article_b6e6241e-e1a3-56fe-a32a-6a02ba234129.html\">convicted of misdemeanor assault</a> for attacking a reporter during his 2017 run. Gianforte filed to run for Montana governor a second time June 7."
+      "text": "Gianforte was the Republican nominee for governor in 2016, but failed to derail Gov. Steve Bullock’s re-election bid. Entering politics after founding and selling RightNow Technologies in Bozeman, he was elected to the U.S. House in the 2017 special election and re-elected to a two-year term in 2019. He was also <a href=\"https://www.bozemandailychronicle.com/news/crime/gianforte-sentenced-to-anger-management-community-service-for-assault-of/article_b6e6241e-e1a3-56fe-a32a-6a02ba234129.html\">convicted of misdemeanor assault</a> for attacking a reporter during his 2017 run. Gianforte filed to run for Montana governor a second time June 7."
     },
     {
       "position": "Governor",
@@ -209,7 +209,7 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
-      "state_finance_data_name": "",
+      "state_finance_data_name": "Williams, Whitney",
       "photo_slug": "whitney-williams.png",
       "podcast_url": "",
       "web_url": "https://whitneyformontana.com/",
@@ -609,7 +609,7 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
-      "state_finance_data_name": "",
+      "state_finance_data_name": "Jacobsen, Christi K",
       "photo_slug": "christi-jacobsen.png",
       "podcast_url": "",
       "web_url": "http://christijacobsen.com/",
@@ -707,7 +707,7 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
-      "state_finance_data_name": "Nicol Nelly",
+      "state_finance_data_name": "Nicol, Nelly",
       "photo_slug": "nelly-nicol.png",
       "podcast_url": "",
       "web_url": "https://nellynicol4stateauditor.com/",
@@ -731,5 +731,5 @@
       "text": "Morigeau, a state representative from Missoula, announced his candidacy for state auditor June 30. He is a member of the Confederated Salish and Kootenai Tribes and has a law degree from the University of Montana."
     }
   ],
-  "lastUpdated": "2019-10-18T20:05:35.754Z"
+  "lastUpdated": "2019-10-22T20:02:06.743Z"
 }

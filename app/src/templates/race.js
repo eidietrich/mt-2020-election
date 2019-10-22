@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 import Layout from "../components/layout"
 import SEO from '../components/seo'
 
-import RaceFinanceState from '../components/RaceFinanceState' 
+import RaceFinance from '../components/RaceFinance' 
 import RaceCandidateSummary from '../components/RaceCandidateSummary' 
 
 import MoreToComeMessage from '../components/MoreToComeMessage'
@@ -36,7 +36,7 @@ class RacePage extends Component {
                 candidates={raceCandidates}
             />
             <hr />
-            <RaceFinanceState
+            <RaceFinance
                 race={race}
                 candidates={raceCandidates}
             />

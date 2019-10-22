@@ -15,10 +15,13 @@ class ResponsiveVegaLite extends Component {
     }
     
     render() {
-        return <div ref={this.containerRef}>
+        const height = this.props.aspectRatio ? this.props.aspectRatio * this.state.width : null
+        return <div ref={this.containerRef} className={this.props.className}
+            style={{width: '100%'}}>
                 <VegaLite
                     spec={this.props.spec}
                     width={this.state.width}
+                    height={height}
                     actions={false}
                     // hover={true}
                 />

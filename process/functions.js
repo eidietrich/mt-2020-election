@@ -15,6 +15,14 @@ module.exports.writeJson = (path, data) => {
     );
 }
 
+module.exports.getDaysArray = function(start, end) {
+    // from https://stackoverflow.com/questions/4413590/javascript-get-array-of-dates-between-2-dates
+    for(var arr=[],dt=start; dt<=end; dt.setDate(dt.getDate()+1)){
+        arr.push(new Date(dt));
+    }
+    return arr;
+};
+
 module.exports.filterToActive = candidates => candidates.filter(d => !excludeStatuses.includes(d.status))
 // contribution/expenditure handling
 module.exports.sumAmount = entries => Math.round(entries.reduce((acc, obj) => obj['Amount'] + acc, 0), 2)

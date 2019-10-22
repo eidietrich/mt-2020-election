@@ -1,4 +1,5 @@
 import { format } from 'd3-format'
+import { timeFormat } from 'd3-time-format'
 
 export const raceTypes = [
   {key: 'state', description: 'State office. Race regulated by the Montana Commissioner of Political Practices'},
@@ -13,7 +14,7 @@ export const parties = [
 
 // TODO: Automate this
 export const fundraisingDomainUpperBound = {
-  'Governor': 2000000,
+  'Governor':1800000,
   'U.S.-Senate': null,
   'U.S.-House': null,
   'Attorney-General': 200000,
@@ -29,3 +30,6 @@ export const excludeStatuses = ['Withdrawn','Not Running','Rumored','Potential',
 
 // display info
 export const dollarFormat = format('$,.0f')
+export const percentFormat = format('.1%')
+export const numberFormat = format(',')
+export const dateFormat = timeFormat('%m/%d/%Y')
