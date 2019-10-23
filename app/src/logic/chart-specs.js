@@ -16,6 +16,7 @@ const partyColors = {
 }
 
 const baseSpec = {
+    $schema: "https://vega.github.io/schema/vega-lite/v4.json",
     autosize: {
         type: "fit",
         contains: "padding"
@@ -360,6 +361,8 @@ const partyColorScale = {
     // legend: { orient: 'top', title: null}
     legend: null,
 }
+
+// Line chart on race page
 export const raceCumulativeContributionSpec = {
     ...baseSpec,
     // title: 'Cumulative fundraising',
@@ -450,125 +453,10 @@ export const raceCumulativeContributionSpec = {
             }
         },
         {
-            "mark": {
-                type: "text",
-                dx: 5,
-                align: 'left',
-            },
-            encoding: {
-              x: {
-                field: "date",
-                type: "temporal",
-                aggregate: "max"
-              },
-              y: {
-                field: 'cumulative',
-                aggregate: "max",
-                type: 'quantitative',
-                stack: 'none',
-              },
-              color: partyColorScale,
-              detail: {
-                  field: 'candidate', type: 'nominal'
-              },
-              text: {
-                field: 'candidate', type: 'nominal'
-              },
-            }
-        }
-    ]
-}
-export const raceCumulativeExpenditureSpec = {
-    ...baseSpec,
-    // title: 'Cumulative fundraising',
-    data: {values: []},
-    height: 200,
-    "config": {
-        padding: {"left": 0, "top": 0, "right": 0, "bottom": 0},
-        style: {
-            cell: {
-                stroke: 'transparent'
-            },
-        }
-    },
-    // width set responsively
-    layer: [
-        {
-            encoding: {
-                x: {
-                    field: 'date', type: 'temporal', title: '',
-                    scale: { domain: ["01/01/2019", "11/31/2020"] },
-                    axis: { format: dateAxisFormat, grid: false  }
-                },
-                y: {
-                    field: 'cumulative', type: 'quantitative', title: 'Total raised',
-                    stack: 'none',
-                    scale: {domain: [0, 10000]},
-                    axis: { format: moneyAxisFormat}
-                },
-                color: partyColorScale,
-                detail: {
-                    field: 'candidate', type: 'nominal',
-                },
-                tooltip: [
-                    { field: 'candidate', type: 'nominal', title: 'Candidate' },
-                    { field: 'date', type: 'temporal', title: 'Date' },
-                    { field: 'cumulative', type: 'quantitative', format: '$,.0f', title: 'Total raised' },
-                ]
+            data: {
+                values: []
             },
             mark: {
-                type: 'area',
-                fillOpacity: 0.2,
-                interpolate: 'step-after',
-                line: {
-                    "color": "black"
-                },
-            }
-        },
-        {
-            "mark": "rule",
-            data: {
-                values: [
-                    { date: primaryDate },
-                    { date: generalDate }
-                ]
-            },
-            "encoding": {
-              "x": {
-                "field": "date",
-                "type": "temporal"
-              },
-              "size": {"value": 2},
-            }
-        },
-        {
-            "mark": {
-                type: "text",
-                dy: -3,
-                dx: -2,
-                angle: -90,
-                align: 'right',
-                baseline: 'bottom',
-            },
-            data: {
-                values: [
-                    { date: primaryDate, label: 'Primary (June 6)' },
-                    { date: generalDate, label: 'General (Nov. 3)' }
-                ]
-            },
-            "encoding": {
-              "x": {
-                "field": "date",
-                "type": "temporal"
-              },
-              y: {value: 0},
-              text: {
-                field: 'label', type: 'nominal'
-              },
-            }
-        },
-        {
-            "mark": {
                 type: "text",
                 dx: 5,
                 align: 'left',
@@ -577,22 +465,18 @@ export const raceCumulativeExpenditureSpec = {
               x: {
                 field: "date",
                 type: "temporal",
-                aggregate: "max"
               },
               y: {
                 field: 'cumulative',
-                aggregate: "max",
                 type: 'quantitative',
-                stack: 'none',
+                stack: false,
               },
               color: partyColorScale,
-              detail: {
-                  field: 'candidate', type: 'nominal'
-              },
               text: {
                 field: 'candidate', type: 'nominal'
               },
-            }
+            },
+            
         }
     ]
 }

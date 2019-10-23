@@ -5,7 +5,7 @@ class ResponsiveVegaLite extends Component {
     // wrapper for VegaLite that sizes chart for component render width
     constructor(props){
         super(props)
-        this.state = { width:0 }
+        this.state = { width: 300 } // default, shouldn't ever be visible
         this.containerRef = React.createRef();
     }
 
@@ -15,7 +15,7 @@ class ResponsiveVegaLite extends Component {
     }
     
     render() {
-        const height = this.props.aspectRatio ? this.props.aspectRatio * this.state.width : null
+        const height = this.props.aspectRatio ? this.props.aspectRatio * this.state.width : 200
         return <div ref={this.containerRef} className={this.props.className}
             style={{width: '100%'}}>
                 <VegaLite

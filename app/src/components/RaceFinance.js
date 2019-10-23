@@ -37,6 +37,12 @@ const RaceFinance = (props) => {
             items.forEach(d => d.candidate = candidate.last_name)
             return acc.concat(items)
         }, [])
+    const latestForEachCandidate = candidates.map(candidate => {
+        const items = candidate.fundraisingSummary.cumulativeContributions
+            .sort((a,b) => new Date(b.date) - new Date(a.date))
+        return items[0]
+    }).filter( d => d !== undefined)
+    // console.log(latestForEachCandidate)
 
     let contributionsByType = []
     candidates.forEach(candidate => {
@@ -50,6 +56,7 @@ const RaceFinance = (props) => {
         // byZipForCandidate.forEach(d => d.candidate = candidateNameParty(candidate))
         contributionsByType = contributionsByType.concat(candContributions)
     })
+    
 
     // const cumulativeExpenditures = candidates
     //     .reduce((acc, candidate) => {
@@ -66,6 +73,7 @@ const RaceFinance = (props) => {
     // line charts
     raceCumulativeContributionSpec.data.values = cumulativeContributions
     raceCumulativeContributionSpec.layer[0].encoding.y.scale.domain = [0, upperBound]
+    raceCumulativeContributionSpec.layer[3].data.values = latestForEachCandidate // for labels
     // raceCumulativeExpenditureSpec.data.values = cumulativeExpenditures
     // raceCumulativeExpenditureSpec.layer[0].encoding.y.scale.domain = [0, upperBound]
 
@@ -110,11 +118,11 @@ const RaceFinance = (props) => {
                 <h4>Cumulative fundraising</h4>
                 <ResponsiveVegaLite spec={raceCumulativeContributionSpec} />
             </div>
-            
-            <div className={styles.chartContainer}>
+
+            {/* <div className={styles.chartContainer}>
                 <h4>Funding sources</h4>
                 <ResponsiveVegaLite spec={contributionTypesSpec} />
-            </div>
+            </div> */}
             
 
             {/* <div>
