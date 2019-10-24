@@ -5,6 +5,7 @@ import SEO from '../components/seo'
 
 import RaceFinance from '../components/RaceFinance' 
 import RaceCandidateSummary from '../components/RaceCandidateSummary' 
+import LinksList from '../library/LinksList'
 
 import MoreToComeMessage from '../components/MoreToComeMessage'
 
@@ -22,6 +23,7 @@ class RacePage extends Component {
             race,
             raceCandidates
         } = this.props.pageContext
+        // console.log(this.props.pageContext)
 
         return (<Layout>
             <SEO
@@ -39,6 +41,11 @@ class RacePage extends Component {
             <RaceFinance
                 race={race}
                 candidates={raceCandidates}
+            />
+            <hr />
+            <LinksList
+                links={race.coverageLinks}
+                featuredFilter={(link) => link.race_page_featured === 'yes'}
             />
             <hr />
             <MoreToComeMessage />

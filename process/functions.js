@@ -30,3 +30,4 @@ module.exports.forPrimary = contributions => contributions.filter(d => d['Electi
 module.exports.forGeneral = contributions => contributions.filter(d => d['Election Type'] === 'GN')
 
 module.exports.makeCandidateKey = candidate => (candidate.first_name + '-' + candidate.last_name).replace(/\s/g, '-')
+module.exports.makeRaceKey = race => race.position.replace(/\s/g, '-')

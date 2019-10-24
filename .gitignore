@@ -1,6 +1,8 @@
 # Security
 credentials.json
+credentials-old.json
 token.json
+token-mtfp.json
 
 #Jupyter
 .ipynb_checkpoints/

@@ -7,11 +7,10 @@
 // You can delete this file if you're not using it
 
 const { candidates, races } = require('./src/data/app-copy.json')
-const stateFinance = require('./src/data/state-finance.json')
+const preppedData = require('./src/data/app-prepped-data.json') // TODO: Change file name
+const coverageLinks = require('./src/data/outside-links.json')
 
-const stateContributions = stateFinance.contributions
-const stateExpenditures = stateFinance.expenditures
-const candidateSummaries = stateFinance.candidateSummaries
+const financeSummaries = preppedData.financeSummaries
 
 const excludeStatuses = ['Withdrawn','Not Running','Rumored','Potential','Suspended']
 const filterToActive = candidates => candidates.filter(d => !excludeStatuses.includes(d.status))
@@ -22,13 +21,16 @@ const activeCandidates = filterToActive(candidates)
 const makeCandidateKey = candidate => (candidate.first_name + '-' + candidate.last_name).replace(/\s/g, '-')
 const makeRaceKey = race => race.position.replace(/\s/g, '-')
 
-// TODO: Move data-matching logic to standalone script
-// Add in server-side processing to optimize client performance
+console.log(coverageLinks)
 
+// TODO: Move data-matching logic to standalone process script
 activeCandidates.forEach(candidate => {
-    candidate.stateContributions = stateContributions.filter(d => d.Candidate === candidate.state_finance_data_name)
-    candidate.stateExpenditures = stateExpenditures.filter(d => d.Candidate === candidate.state_finance_data_name)
-    candidate.fundraisingSummary = candidateSummaries.find(summary => summary.key === makeCandidateKey(candidate))
+    candidate.fundraisingSummary = financeSummaries.find(summary => summary.key === makeCandidateKey(candidate))
+    candidate.coverageLinks = coverageLinks.filter(link => link.candidate === makeCandidateKey(candidate))
+})
+
+races.forEach(race => {
+    race.coverageLinks = coverageLinks.filter(link => link.race === makeRaceKey(race))
 })
 
 exports.createPages = async({ actions: { createPage } }) => {
@@ -41,7 +43,7 @@ exports.createPages = async({ actions: { createPage } }) => {
             component: require.resolve('./src/templates/race.js'),
             context: {
                 race,
-                raceCandidates
+                raceCandidates,
             },
         })
 

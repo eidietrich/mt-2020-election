@@ -1,4 +1,4 @@
-// script for parsing
+// script for parsing data into app appropriate
 
 const {timeFormat} = require('d3-time-format')
 const {min, max} = require('d3-array')
@@ -29,14 +29,16 @@ const contributionTypes = {
 // TODO: This also needs some refactoing
 
 const FINANCE_SOURCE = './scrapers/state-finance-reports/data/state-finance-cleaned.json'
-const APP_CONTRIBUTION = './app/src/data/state-finance.json'
+const APP_DATA = './app/src/data/app-prepped-data.json'
 
-const APP_COPY_PATH = './app/src/data/app-copy.json'
+const APP_COPY_PATH = './app/src/data/app-copy.json' // TODO: Standardize this
+// const OUTSIDE_LINKS_PATH = './data/outside-links.json'
 
 // const financeDateRange = ["01/01/2019", "11/31/2020"]
 const dateFormat = timeFormat('%m/%d/%Y')
 
 const { candidates, races } = getJson(APP_COPY_PATH)
+// const { links } = getJson(OUTSIDE_LINKS_PATH)
 const raw = getJson(FINANCE_SOURCE)
 const contributions = cleanContributions(JSON.parse(raw.contributions))
 const expenditures = cleanExpenditures(JSON.parse(raw.expenditures))
@@ -58,16 +60,16 @@ checkCandidateMatches(activeCandidates, contributions)
 checkReportingPeriodCompleteness(activeCandidates, contributions)
 
 // perform aggregation calcs
-const candidateSummaries = makeCandidateSummaries(activeCandidates, contributions, expenditures)
-// console.table(candidateSummaries)
-// console.log('3)\n', candidateSummaries[0].contributionsByZip)
+const financeSummaries = makeCandidateSummaries(activeCandidates, contributions, expenditures)
 
-const recombined = {
-    contributions: contributions,
-    expenditures: expenditures,
-    candidateSummaries: candidateSummaries
+
+const preppedData = {
+    financeSummaries: financeSummaries
 }
-writeJson(APP_CONTRIBUTION, recombined)
+writeJson(APP_DATA, preppedData)
+
+
+//#### STATE FINANCE DATA 
 
 function cleanContributions(contributions) {
     // categorize contribution type
@@ -127,11 +129,6 @@ function checkReportingPeriodCompleteness(candidates, contributions){
 function checkForNonsensicalAmounts(){
 
 }
-
-
-
-
-// OUTPUTS
 
 function makeCandidateSummaries(candidates, contributions, expenditures){
     const candidateSummaries = activeCandidates.map(candidate => {
