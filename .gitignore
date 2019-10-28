@@ -11,6 +11,7 @@ __pycache__/
 # Large data files
 scrapers/fed-finance-reports/data/individual-contributions-20.zip
 scrapers/fed-finance-reports/data/individual-contributions-20/
+scrapers/fed-finance-reports/data/old-data/
 
 # build files
 montana-2020/
