@@ -48,7 +48,7 @@ module.exports.makeFederalCandidateSummaries = function (candidates, fundraising
         // const candidateExpenditures = expenditures.filter(d => d.Candidate === candidate.state_finance_data_name)
         const fundraisingSummary = fundraisingSummaries.find(d => d['CAND_NAME'] === candidate.fed_finance_data_name) || {}
         const candidateInfo = candidateInfoList.find(d => d['CAND_NAME'] === candidate.fed_finance_data_name) || {}
-        // console.log(fecSummary)
+        // console.log(fundraisingSummary)
 
         const committeeId = candidateInfo.CAND_PCC || null
         const candidateContributions = contributions.filter(d => d.committee_id === committeeId)
@@ -68,6 +68,13 @@ module.exports.makeFederalCandidateSummaries = function (candidates, fundraising
             federalCandidateId: fundraisingSummary.CAND_ID || null,
             federalCandidateCommitteeId: committeeId,
             totalRaised: fundraisingSummary.TTL_RECEIPTS || 0,
+            
+
+            totalIndividual: fundraisingSummary.TTL_INDIV_CONTRIB || 0,
+            totalCommittees: (fundraisingSummary.POL_PTY_CONTRIB + fundraisingSummary.OTHER_POL_CMTE_CONTRIB + fundraisingSummary.TRANS_FROM_AUTH) || 0,
+            totalSelfFinance: (fundraisingSummary.CAND_CONTRIB + fundraisingSummary.CAND_LOANS) || 0, //
+
+
             totalRaisedPrimary: null, // NOT IN FEC SUMMARY, sums won't match calculated from itemized
             totalRaisedGeneral: null, // NOT IN FEC SUMMARY
             totalSpent: fundraisingSummary.TTL_DISB || 0,
