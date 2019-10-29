@@ -1,8 +1,12 @@
 const fs = require('fs')
 
+const {timeFormat} = require('d3-time-format')
+
 // consts
 // candidate statuses excluded from summary page
 const excludeStatuses = ['Withdrawn','Not Running','Rumored','Potential','Suspended']
+
+module.exports.dateFormat = timeFormat('%m/%d/%Y')
 
 // Utility functions
 module.exports.getJson = (path) => JSON.parse(fs.readFileSync(path))

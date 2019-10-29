@@ -15,8 +15,8 @@ export const parties = [
 // TODO: Automate this
 export const fundraisingDomainUpperBound = {
   'Governor': 1800000,
-  'U.S.-Senate': null,
-  'U.S.-House': null,
+  'U.S.-Senate': 4000000,
+  'U.S.-House': 1000000,
   'Attorney-General': 200000,
   'Secretary-of-State' : 100000,
   'Superintendent-of-Public-Instruction': 100000,

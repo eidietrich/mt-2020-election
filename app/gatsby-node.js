@@ -10,7 +10,7 @@ const { candidates, races } = require('./src/data/app-copy.json')
 const preppedData = require('./src/data/app-prepped-data.json') // TODO: Change file name
 const coverageLinks = require('./src/data/outside-links.json')
 
-const financeSummaries = preppedData.financeSummaries
+const financeSummaries = preppedData.finance
 
 const excludeStatuses = ['Withdrawn','Not Running','Rumored','Potential','Suspended']
 const filterToActive = candidates => candidates.filter(d => !excludeStatuses.includes(d.status))
@@ -21,11 +21,9 @@ const activeCandidates = filterToActive(candidates)
 const makeCandidateKey = candidate => (candidate.first_name + '-' + candidate.last_name).replace(/\s/g, '-')
 const makeRaceKey = race => race.position.replace(/\s/g, '-')
 
-console.log(coverageLinks)
-
 // TODO: Move data-matching logic to standalone process script
 activeCandidates.forEach(candidate => {
-    candidate.fundraisingSummary = financeSummaries.find(summary => summary.key === makeCandidateKey(candidate))
+    candidate.finance = financeSummaries.find(summary => summary.key === makeCandidateKey(candidate))
     candidate.coverageLinks = coverageLinks.filter(link => link.candidate === makeCandidateKey(candidate))
 })
 

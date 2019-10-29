@@ -24,7 +24,7 @@
   },
   "scripts": {
     "start": "cd app && npm start",
-    "refresh-data": "node process/prep-app-data.js",
+    "refresh:data": "node process/prep-app-data.js",
     "check:state-finance-candidates": "python3 scrapers/state-finance-reports/check-candidate-updates.py",
     "check:state-finance-filings": "python3 scrapers/state-finance-reports/check-report-updates.py",
     "fetch:links": "node scrapers/coverage-outside/fetch-coverage-list.js && node process/prep-outside-links.js",

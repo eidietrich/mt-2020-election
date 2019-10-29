@@ -8,7 +8,7 @@ import styles from './LinksList.module.css'
 
 const LinksList = (props) => {
     const { links, featuredFilter } = props
-    console.log(links)
+    // console.log(links)
     return <div className={styles.container}>
         <h2>Media coverage</h2>
         {

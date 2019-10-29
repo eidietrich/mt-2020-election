@@ -13,10 +13,6 @@ from functions import get_mt_federal_candidates
 
 REFERENCE_PATH = './scrapers/fed-finance-reports/data/candidates.json' # rel to project root
 
-API_KEY = 'qBKWfB76QbfggIpt6DaK2ZApCBRHJeMyTkOeNtYe'
-BASE_URL = 'https://api.open.fec.gov'
-VERSION = '/v1'
-
 def check_candidates_for_updates(candidates, reference_path):
     '''
     Returns human-readable list of candidates added since last full data scrape. (Updated w/ fetch script)
