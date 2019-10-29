@@ -1,7 +1,9 @@
 import React from "react"
+import { Link } from 'gatsby'
 
 import ResponsiveVegaLite from '../library/ResponsiveVegaLite'
 import PullStatMain from '../library/PullStatMain'
+import Table from '../library/Table'
 // import PullStatSecondaryRow from '../library/PullStatSecondaryRow'
 
 import {
@@ -18,16 +20,19 @@ import {
 
 import {
     makeRaceKey,
+    candidateNameParty,
+    getCandidateParty,
+    makeCandidateUrl
 } from '../logic/functions'
 
 import styles from './RaceFinance.module.css'
+import tableStyles from '../library/Table.module.css'
 
 const RaceFinance = (props) => {
     const {
         candidates,
         race
     } = props
-    const jurisdiction = race.type
     console.log(props)
 
     // aggregate data 
@@ -44,7 +49,6 @@ const RaceFinance = (props) => {
             .sort((a,b) => new Date(b.date) - new Date(a.date))
         return items[0]
     }).filter( d => d !== undefined)
-    console.log(latestForEachCandidate)
 
     let contributionsByType = []
     candidates.forEach(candidate => {
@@ -109,6 +113,48 @@ const RaceFinance = (props) => {
 
 export default RaceFinance
 
+const tableSchematic = [
+    {
+        key: 'name',
+        header: 'Candidate',
+        content: d => <Link to={makeCandidateUrl(d)}
+            style={({color: getCandidateParty(d).color})}
+        >
+            {candidateNameParty(d)}
+        </Link>,
+        style: styles.tableCellCandidate,
+        sortFunction: null
+    },
+    {
+        key: 'totalRaised',
+        header: 'Total raised',
+        content: d => dollarFormat(d.finance.totalRaised),
+        style: styles.tableCellNumberImportant,
+        sortFunction: (a,b) => (a.finance.totalRaised - b.finance.totalRaised)
+    },
+    {
+        key: 'individual',
+        header: 'Individual contributions',
+        content: d => dollarFormat(d.finance.totalIndividual),
+        style: styles.tableCellNumber,
+        sortFunction: (a,b) => (a.finance.totalIndividual - b.finance.totalIndividual)
+    },
+    {
+        key: 'pac',
+        header: 'Committee contributions',
+        content: d => dollarFormat(d.finance.totalCommittees),
+        style: styles.tableCellNumber,
+        sortFunction: (a,b) => (a.finance.totalCommittees - b.finance.totalCommittees)
+    },
+    {
+        key: 'self',
+        header: 'Self-financing',
+        content: d => dollarFormat(d.finance.totalSelfFinance),
+        style: styles.tableCellNumber,
+        sortFunction: (a,b) => (a.finance.totalSelfFinance - b.finance.totalSelfFinance)
+    },
+]
+
 const StateRaceFinance = (props) => {
     const { 
         candidates,
@@ -143,6 +189,17 @@ const StateRaceFinance = (props) => {
         <div className={styles.chartContainer}>
             <h4>Cumulative fundraising</h4>
             <ResponsiveVegaLite spec={raceCumulativeContributionSpec} />
+        </div>
+
+        <div className={styles.tableContainer}>
+            <Table 
+                defaultSort={((a,b) => b.finance.totalRaised - a.finance.totalRaised)}
+                columns={tableSchematic}
+                rowData={candidates}
+            />
+            <div className={styles.note}>
+                Note: Fundraising components in table don't necessarily sum to exact total because of miscellaneous receipts and accounting adjustments. Self-financing includes candidate contributions and campaign loans. 
+            </div>
         </div>
 
         {/* <div className={styles.chartContainer}>
@@ -195,6 +252,8 @@ const FederalRaceFinance = (props) => {
             />
         </div>
 
+        {/* 
+        // This is problematic because missing unitemized contributions are significant :^/
         <div className={styles.chartContainer}>
             <h4>Cumulative fundraising</h4>
             <ResponsiveVegaLite spec={raceCumulativeContributionSpec} />
@@ -202,6 +261,19 @@ const FederalRaceFinance = (props) => {
                 Includes only itemized receipts.
             </div>
         </div>
+        */}
+
+        <div className={styles.tableContainer}>
+            <Table 
+                defaultSort={((a,b) => b.finance.totalRaised - a.finance.totalRaised)}
+                columns={tableSchematic}
+                rowData={candidates}
+            />
+            <div className={styles.note}>
+                Note: Fundraising components in table don't necessarily sum to exact total because of miscellaneous receipts and accounting adjustments. Self-financing includes candidate contributions and campaign loans. 
+            </div>
+        </div>
+
 
         {/* <div className={styles.chartContainer}>
             <h4>Funding sources</h4>

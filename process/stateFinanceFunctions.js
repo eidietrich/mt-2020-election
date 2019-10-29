@@ -175,6 +175,10 @@ function summarizeByCandidate(contributions, expenditures){
         totalRaisedGeneral,
         totalSpent,
 
+        totalIndividual: sumAmount(contributions.filter(d => d.type2 === 'Individual donations')),
+        totalCommittees: sumAmount(contributions.filter(d => d.type2 === 'Committee support')),
+        totalSelfFinance: sumAmount(contributions.filter(d => d.type2 === 'Self financing')),
+
         numIndividualContributions,
         averageIndividualContributionSize,
         percentIndividualFromMontana,

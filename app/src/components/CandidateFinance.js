@@ -55,7 +55,7 @@ const CandidateFinance = (props) => {
     // set y-scales
     const upperBound = fundraisingDomainUpperBound[makeRaceKey(race)]
     cumulativeCombinedSpec.encoding.y.scale.domain = [0, upperBound]
-    contributionMapSpec.layer[1].encoding.size.scale.domain = [0, upperBound / 10]
+    contributionMapSpec.layer[1].encoding.size.scale.domain = [0, upperBound / 20]
     // cumulativeContributionSpec.encoding.y.scale = { domain: totalSpendingDomain }
     // cumulativeExpendituresSpec.encoding.y.scale = { domain: totalSpendingDomain }
 
@@ -99,26 +99,30 @@ const StateCandidateFinance = (props) => {
                 stat={dollarFormat(candidate.finance.totalRaised)}
                 label='Total raised'
             />
+            
+            <PullStatMain
+                stat={dollarFormat(candidate.finance.totalSpent)}
+                label='Total spending'
+            />
+        </div>
+
+        <div className={styles.row}>
             <PullStatSecondaryRow
                 stats={[
                     {
-                        stat: dollarFormat(candidate.finance.totalRaisedPrimary),
-                        label: 'Raised for primary election'
+                        stat: dollarFormat(candidate.finance.totalIndividual),
+                        label: 'From individuals'
                     },
                     {
-                        stat: dollarFormat(candidate.finance.totalRaisedGeneral),
-                        label: 'Raised for general election'
+                        stat: dollarFormat(candidate.finance.totalCommittees),
+                        label: 'From committees'
                     },
                     {
-                        stat: dollarFormat(candidate.finance.totalSpent),
-                        label: 'Total spending'
+                        stat: dollarFormat(candidate.finance.totalSelfFinance),
+                        label: 'Self-financing'
                     }
                 ]}
             />
-            {/* <PullStatMain
-                stat={dollarFormat(candidate.finance.totalSpent)}
-                label='Total spending'
-            /> */}
         </div>
         
         {/* <div className={styles.row}>
@@ -152,7 +156,7 @@ const StateCandidateFinance = (props) => {
                 stats={[
                     {
                         stat: numberFormat(candidate.finance.numIndividualContributions),
-                        label: 'Individual contributions ($35+)'
+                        label: 'Itemized individual contributions ($35+)'
                     },
                     {
                         stat: dollarFormat(candidate.finance.averageIndividualContributionSize),
@@ -161,13 +165,7 @@ const StateCandidateFinance = (props) => {
                 ]}
             />
 
-            {/* <div className={styles.note}>
-                Source: Campaign finance reports filed with the <a href="https://politicalpractices.mt.gov/">Montana Commissioner of Political Practices</a>. See the COPP-administered <a href="https://camptrackext.mt.gov/CampaignTracker/dashboard">Campaign Electronic Reporting System</a> for official records.
-            </div> */}
-
         </div>
-    
-        {/* TK: List donations from political committees */}
     </div>
 
 }
@@ -186,25 +184,28 @@ const FederalCandidateFinance = (props) => {
                 stat={dollarFormat(candidate.finance.totalRaised)}
                 label='Total raised'
             />
-            {/* <PullStatSecondaryRow
-                stats={[
-                    // {
-                    //     stat: dollarFormat(candidate.finance.totalRaisedPrimary),
-                    //     label: 'Raised for primary election'
-                    // },
-                    // {
-                    //     stat: dollarFormat(candidate.finance.totalRaisedGeneral),
-                    //     label: 'Raised for general election'
-                    // },
-                    {
-                        stat: dollarFormat(candidate.finance.totalSpent),
-                        label: 'Total spending'
-                    }
-                ]}
-            /> */}
             <PullStatMain
                 stat={dollarFormat(candidate.finance.totalSpent)}
                 label='Total spent'
+            />
+        </div>
+
+        <div className={styles.row}>
+            <PullStatSecondaryRow
+                stats={[
+                    {
+                        stat: dollarFormat(candidate.finance.totalIndividual),
+                        label: 'From individuals'
+                    },
+                    {
+                        stat: dollarFormat(candidate.finance.totalCommittees),
+                        label: 'From committees'
+                    },
+                    {
+                        stat: dollarFormat(candidate.finance.totalSelfFinance),
+                        label: 'Self-financing'
+                    }
+                ]}
             />
         </div>
         
@@ -240,7 +241,7 @@ const FederalCandidateFinance = (props) => {
                 stats={[
                     {
                         stat: numberFormat(candidate.finance.numIndividualContributions),
-                        label: 'Individual contributions reported'
+                        label: 'Itemized individual contributions reported'
                     },
                     {
                         stat: dollarFormat(candidate.finance.averageIndividualContributionSize),

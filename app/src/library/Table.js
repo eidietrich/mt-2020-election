@@ -57,7 +57,9 @@ class Table extends Component {
     constructor(props){
         super(props)
         this.state = {
-            sortColumn: this.props.defaultSort || (() => true),
+            sortColumn: {
+                sortFunction: this.props.defaultSort || (() => true)
+            },
             sortAscending: true,
         }
         this.makeSortHandler = this.makeSortHandler.bind(this)
@@ -69,21 +71,24 @@ class Table extends Component {
         return () => {
             this.setState({
                 sortColumn: column,
-                sortAscending: !this.state.ascending
+                sortAscending: !this.state.sortAscending
             })
         }
     }
 
     makeRow(d, i){
         const cells = this.props.columns.map(schema => {
-            return <div
+            return <td
                 key={schema.header}
-                className={schema.style}
+                className={`${styles.cell} ${schema.style}`}
                 >
                 {schema.content(d)}
-            </div>
+            </td>
         })
-        return <div key={String(i)} className={styles.row}>{cells}</div>
+        return <tr key={String(i)}
+            className={styles.row}>
+            {cells}
+        </tr>
     }
     
     render() {
@@ -105,19 +110,22 @@ class Table extends Component {
             else if (schema.key === sortColumn.key && sortAscending) sortClass = `${styles.colSortable} ${styles.colActiveSortAsc}`
             else if (schema.key === sortColumn.key && !sortAscending) sortClass = `${styles.colSortable} ${styles.colActiveSortDesc}`
             
-            return <div
+            return <th
                 key={schema.header}
-                className={`${schema.style}`}
+                className={`${styles.headerCell} ${schema.style}`}
                 onClick={this.makeSortHandler(schema)}
                 >
                 <span className={sortClass}>{schema.header}</span>
-            </div>
+            </th>
         })
         const rows = sortedData.map(this.makeRow)
-        return (<div className={styles.table}>
-            <div className={styles.header}>{headers}</div>
-            <div className={styles.rowsContainer}>{rows}</div>
-        </div>);
+        return (<table className={styles.table}>
+            <thead>
+                <tr className={styles.header}>{headers}</tr>
+            </thead>
+            <tbody>{rows}</tbody>
+            {/* <div className={styles.rowsContainer}>{rows}</div> */}
+        </table>);
     }
 }
 
