@@ -8,9 +8,10 @@ import requests
 
 from functions import open_json
 
+from secrets import API_KEY # FEC API key: See https://api.open.fec.gov/developers/
+
 REFERENCE_PATH = './scrapers/fed-finance-reports/data/candidates.json' # rel to project root
 
-API_KEY = 'qBKWfB76QbfggIpt6DaK2ZApCBRHJeMyTkOeNtYe'
 BASE_URL = 'https://api.open.fec.gov'
 VERSION = '/v1'
 
