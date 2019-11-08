@@ -1,3 +1,71 @@
-.Race {
-    margin-bottom: 3rem;
+.races {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    margin: 0 -0.5rem;
+
+}
+
+@media (max-width: 700px){
+    .races {
+        display: block;
+        width: 100%;
+    }
+}
+
+.race {
+    flex: 0 0 45%;
+    /* max-width: 500px;s */
+    margin: 0.5rem 0.5rem;
+    border: 1px solid #ccc;
+    padding: 0.75rem;
+    background-color: white;
+    box-shadow: 1px 1px 3px #888;
+
+    
+}
+.raceHeader {
+    background-color: #666;
+    color: white;
+    min-height: 1.5em;
+    padding: 0.5rem;
+
+    margin-bottom: 0.75rem;
+
+    font-size: 1.5em;
+    line-height: 1.4em;
+    font-weight: bold;;
+
+    cursor: pointer;
+    text-align: center;
+}
+.raceHeader:hover {
+    background-color: #2800d7;
+    box-shadow: 1px 1px 3px #222;
+}
+.raceHeader a {    
+    color: white;
+}
+.raceHeader a:hover {
+    text-decoration: none;
+}
+
+.flag {
+    display: inline-block;
+    width: 1.5em;
+    margin-right: 0.5em;
+    /* border: 1px solid rgba(50, 50, 50, 0.3); */
+    box-shadow: 1px 1px 2px #222;
+    transform: translateY(0.1em);
+
+}
+.raceHeader:hover a > .flag {
+    /* border: 1px solid #ddd; */
+}
+
+.candidates,
+.description {
+    font-size: 0.9em;
+    line-height: 1.08em;
 }

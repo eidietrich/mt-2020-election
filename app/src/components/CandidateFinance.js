@@ -20,14 +20,21 @@ import {
 
 import { makeRaceKey } from '../logic/functions'
 
+import {
+    candidatePageFundraisingCaveat,
+    candidatePageIndividualStateCaveat,
+    candidatePageIndividualFederalCaveat
+} from '../data/app-copy.json'
+
 import styles from './CandidateFinance.module.css'
+
+const contributionMapLabel = 'Contributions by zip code'
 
 const CandidateFinance = (props) => {
     const {
         candidate,
         race
     } = props
-    console.log(props)
 
     const jurisdiction = race.type
 
@@ -71,12 +78,20 @@ const CandidateFinance = (props) => {
     if (jurisdiction === 'state') {
         return <StateCandidateFinance
             candidate={candidate}
+            text={{
+                candidatePageFundraisingCaveat,
+                candidatePageIndividualStateCaveat
+            }}
         />
     }
 
     if (jurisdiction === 'federal') {
         return <FederalCandidateFinance
             candidate={candidate}
+            text={{
+                candidatePageFundraisingCaveat,
+                candidatePageIndividualFederalCaveat
+            }}
         />
     }
 }
@@ -86,6 +101,7 @@ export default CandidateFinance
 const StateCandidateFinance = (props) => {
     const {
         candidate,
+        text,
     } = props
 
     return <div className={styles.container}>
@@ -124,20 +140,14 @@ const StateCandidateFinance = (props) => {
                 ]}
             />
         </div>
-        
-        {/* <div className={styles.row}>
-            <div className={styles.oneThird}>
-                <h4>Fundraising by source</h4>
-                <ResponsiveVegaLite spec={contributionTypesSpec}/>
-            </div>
-            <div className={styles.twoThirds}>
-                <h4>Cumulative fundraising</h4>
-                <ResponsiveVegaLite spec={cumulativeCombinedSpec}/>
-            </div>
-        </div> */}
+
+        <div className={styles.note}>
+            {text.candidatePageFundraisingCaveat}
+        </div>
+    
         <div className={styles.chartContainer}>
             <div className={styles.mapRow}>
-                <h4>Contributions by zipcode</h4>
+                <h4>{contributionMapLabel}</h4>
                 <ResponsiveVegaLite
                     spec={contributionMapSpec}
                     aspectRatio={0.7}
@@ -149,14 +159,14 @@ const StateCandidateFinance = (props) => {
         <div className={styles.row}>
             <PullStatMain
                 stat={percentFormat(candidate.finance.percentIndividualFromMontana)}
-                label='Donors with Montana addresses'
+                label='Portion of fundraising from Montana donors'
             />
 
             <PullStatSecondaryRow
                 stats={[
                     {
                         stat: numberFormat(candidate.finance.numIndividualContributions),
-                        label: 'Itemized individual contributions ($35+)'
+                        label: 'Itemized individual contributions'
                     },
                     {
                         stat: dollarFormat(candidate.finance.averageIndividualContributionSize),
@@ -164,7 +174,9 @@ const StateCandidateFinance = (props) => {
                     },
                 ]}
             />
-
+        </div>
+        <div className={styles.note}>
+            {text.candidatePageIndividualStateCaveat}
         </div>
     </div>
 
@@ -172,7 +184,8 @@ const StateCandidateFinance = (props) => {
 
 const FederalCandidateFinance = (props) => {
     const {
-        candidate
+        candidate,
+        text
     } = props
     const fecUrl = `https://www.fec.gov/data/candidate/${candidate.finance.federalCandidateId}/?cycle=2020&election_full=false`
     return <div className={styles.container}>
@@ -208,21 +221,14 @@ const FederalCandidateFinance = (props) => {
                 ]}
             />
         </div>
-        
-        {/* <div className={styles.row}>
-            <div className={styles.oneThird}>
-                <h4>Fundraising by source</h4>
-                <ResponsiveVegaLite spec={contributionTypesSpec}/>
-            </div>
-            <div className={styles.twoThirds}>
-                <h4>Cumulative fundraising</h4>
-                <ResponsiveVegaLite spec={cumulativeCombinedSpec}/>
-            </div>
-        </div> */}
+
+        <div className={styles.note}>
+            {text.candidatePageFundraisingCaveat}
+        </div>
         
         <div className={styles.chartContainer}>
             <div className={styles.mapRow}>
-                <h4>Contributions by zipcode</h4>
+                <h4>{contributionMapLabel}</h4>
                 <ResponsiveVegaLite
                     spec={contributionMapSpec}
                     aspectRatio={0.7}
@@ -234,7 +240,7 @@ const FederalCandidateFinance = (props) => {
         <div className={styles.row}>
             <PullStatMain
                 stat={percentFormat(candidate.finance.percentIndividualFromMontana)}
-                label='Donors with Montana addresses'
+                label='Portion of individual receipts from Montana'
             />
 
             <PullStatSecondaryRow
@@ -251,5 +257,8 @@ const FederalCandidateFinance = (props) => {
             />
 
         </div> 
+        <div className={styles.note}>
+            {text.candidatePageIndividualFederalCaveat}
+        </div>
     </div>
 }

@@ -10,15 +10,21 @@ import SEO from "../components/seo"
 
 import TextBlock from '../library/TextBlock.js'
 
-import text from '../data/app-copy.json'
+import {
+  // text
+  intro,
+  introTitle,
+  byline,
+  // data
+  candidates,
+  races,
+  lastUpdated
+} from '../data/app-copy.json'
 
 import styles from './index.module.css'
 
 import { parties } from '../logic/config.js'
 import { makeCandidateKey, makeRaceKey, filterToActive } from '../logic/functions.js'
-
-
-const { candidates, races, lastUpdated } = text
 
 const offices = Array.from(new Set(candidates.map(d => d.position)))
 
@@ -51,17 +57,17 @@ class IndexPage extends Component {
 
   render(){
     return <Layout>
-      <SEO title="Home" />
+      <SEO title="Montana 2020 election - overview" />
       <div className="intro">
         {/* <h1>{text.headline}</h1> */}
         <div className="intro-text">
-          <div className={styles.byline}>{text.byline}</div>
+          <div className={styles.byline}>{byline}</div>
           <div className={styles.timestamp}>Last updated {timeFormat("%B %d, %Y")(new Date(lastUpdated))}</div>
-          <TextBlock paragraphs={text.intro} />
+          <TextBlock paragraphs={intro} />
         </div>
       </div>
-      <h1>Overview: Who's in the running</h1>
-      <div>(A text-only version of this page is <Link to='/text-only'>here</Link>.)</div>
+      <h1>{introTitle}</h1>
+      {/* <div>(A text-only version of this page is <Link to='/text-only'>here</Link>.)</div> */}
       {offices.map(office => <Race
           key={office}
           name={office}
@@ -104,13 +110,15 @@ const Race = (props) => {
 
   return <div className={styles.Race}>
 
-    <Link to={`races/${makeRaceKey(race)}`}>
+    
       <div className={styles.officeHeader}>
-        <h2 className={styles.officeName}>{race.position}</h2>
+        <Link to={`/races/${makeRaceKey(race)}`}>
+          <h2 className={styles.officeName}>{race.position}</h2>
+        </Link>
         {/* <div className={styles.officeType}>{race.type} race</div> */}
         {/* <div className={styles.officeDescription}>{race.description}</div> */}
       </div>
-    </Link>
+    
     
     <div className={styles.officePrimaries}>
       {primaryFields}

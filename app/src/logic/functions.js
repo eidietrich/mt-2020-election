@@ -11,6 +11,7 @@ export const makeRaceKey = race => race.position.replace(/\s/g, '-')
 export const makeRaceUrl = candidate => `/races/${makeRaceKey(candidate)}`
 
 export const getCandidateParty = candidate => parties.find(d => d.key === candidate.party)
+export const getPartyFromLetter = letter => parties.find(d => d.key === letter)
 
 export const candidateNameParty = candidate => {
   const incumbency = c => (candidate.incumbent === 'TRUE') ? "-INCUMBENT" : ""

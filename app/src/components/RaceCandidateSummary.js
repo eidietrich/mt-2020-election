@@ -9,7 +9,7 @@ import {parties, excludeStatuses} from '../logic/config.js'
 import { makeCandidateKey } from '../logic/functions.js'
 
 const RaceCandidateSummary = (props) => {
-    const {race, candidates} = props  
+    const { candidates } = props  
     const primaryFields = parties
       .filter(party => candidates.find(d => d.party === party.key)) // exclude parties w/out candidates
       .map(party => {
@@ -23,14 +23,7 @@ const RaceCandidateSummary = (props) => {
         />
       })
   
-    return <div className={styles.Race}>
-  
-      {/* <div className={styles.officeHeader}>
-        <h2 className={styles.officeName}>{race.position}</h2>
-        <div className={styles.officeType}>{race.type} race</div>
-        <div className={styles.officeDescription}>{race.description}</div>
-      </div> */}
-      
+    return <div className={styles.Race}>     
       <div className={styles.officePrimaries}>
         {primaryFields}
       </div>

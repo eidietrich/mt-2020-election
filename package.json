@@ -24,8 +24,10 @@
   },
   "scripts": {
     "start": "cd app && npm start",
+    "refresh": "npm run fetch:text && npm run fetch:links && npm run refresh:data",
     "build:demo": "cd app && gatsby build",
     "deploy:demo": "aws s3 sync app/public s3://mtfp-election-demo",
+    "deploy:prod": "cd app && gatsby build --prefix-paths && aws s3 sync public s3://apps.montanafreepress.org/montana-2020",
     "refresh:data": "node process/prep-app-data.js",
     "check:state-finance-candidates": "python3 scrapers/state-finance-reports/check-candidate-updates.py",
     "check:state-finance-filings": "python3 scrapers/state-finance-reports/check-report-updates.py",

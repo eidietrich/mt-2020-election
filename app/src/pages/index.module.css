@@ -19,23 +19,22 @@
     margin: 1rem 0;
 }
 .officeHeader {
-    background-color: #222;
+    background-color: #666;
     color: #fff;
     /* margin: 0.5rem 0.25rem; */
     padding: 0.5rem;
 }
-.officeHeader:hover {
-    background-color: #2800d7;
-}
-
 .officeName {
     text-transform: uppercase;
     margin-bottom: 0;
     text-align: center;
-}
-.officeName a {
     color: #fff;
 }
+.officeName:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
 .officeType {
     text-transform: capitalize;
     text-align: center;

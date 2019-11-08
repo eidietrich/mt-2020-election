@@ -8,7 +8,6 @@ import styles from './LinksList.module.css'
 
 const LinksList = (props) => {
     const { links, featuredFilter } = props
-    // console.log(links)
     return <div className={styles.container}>
         <h2>Media coverage</h2>
         {
@@ -39,7 +38,6 @@ export default LinksList
 
 const FeaturedLink = (props) => {
     const { url, dek, title, date } = props
-    console.log(date)
     return <a className={`${styles.link} ${styles.featured}`} href={url}>
         <div className={styles.dek}>{dek}</div>
         <div className={styles.title}>{title}</div>

@@ -1,5 +1,4 @@
 import React, {Component} from "react"
-import { Link } from "gatsby"
 
 import { timeFormat } from 'd3-time-format'
 
