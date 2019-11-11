@@ -10,6 +10,7 @@ import PropTypes from "prop-types"
 import { Link, useStaticQuery, graphql } from 'gatsby'
 import Img from "gatsby-image"
 
+import NewsMatchAd from '../library/NewsMatchAd'
 import Footer from '../library/MTFPFooter'
 import Header from '../library/MTFPHeader'
 
@@ -56,7 +57,8 @@ const Layout = ({ children }) => {
         
         <main>{children}</main>
       </div>
-      <Footer />
+      <NewsMatchAd url='https://checkout.fundjournalism.org/memberform?org_id=montanafreepress&campaign=7013s000000mcU8AAI' />
+      <Footer donateUrl='https://checkout.fundjournalism.org/memberform?org_id=montanafreepress&campaign=7013s000000mcU8AAI'/>
     </>
   )
 }

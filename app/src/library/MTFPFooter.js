@@ -6,9 +6,10 @@ import EmailForm from './EmailForm'
 import styles from './MTFPFooter.module.css'
 
 const MTFPFooter = (props) => {
+    const donateUrl = props.donateUrl || 'https://montanafreepress.org'
     return <footer className={styles.Footer}>
         <div className={styles.support}>
-            Find this useful? <a href="https://montanafreepress.org/donate/">Support</a> our nonprofit journalism.
+            Find this useful? <a href={donateUrl}>Support</a> our nonprofit journalism.
         </div>
         <div className={styles.logo}>
             <MTFPLogo />

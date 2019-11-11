@@ -31,7 +31,7 @@ Some data pipeline folders contain Jupyter notebooks for exploration/script deve
 - CMD: push state finance to app: `node process/process-state-finance.js`
 
 ### Deploy app to MTFP server
-- `(cd app; gatsby build --prefix-paths && rm -r ./montana-2020 ||: && mv ./public ./montana-2020)`
+- `(cd app; gatsby build --prefix-paths && rm -r ./montana-2020 ||: && mv ./public ./montana-2020 && lftp -c "open sftp://ericdietrich@sftp.flywheelsites.com/mtfpeditor/montana-free-press/apps; mirror -eR montana-2020/")`
 - `(cd app; lftp -c "open sftp://ericdietrich@sftp.flywheelsites.com/mtfpeditor/montana-free-press/apps; mirror -eR montana-2020/")` // with file deletion
 - `(cd app; lftp -c "open sftp://ericdietrich@sftp.flywheelsites.com/mtfpeditor/montana-free-press/apps; mirror -R montana-2020/")` // quicker?
 
