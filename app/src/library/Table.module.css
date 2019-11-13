@@ -1,36 +1,22 @@
-
 .table {
-    overflow: scroll;
+    font-size: 12px;
 }
-.description {
-    padding: 0.5rem;
+.cell, .headerCell  {
+    border: none;
 }
-
-.header {
-    display: flex;
-    font-size: 0.8em;
-    position: relative;
-}
-
-.rowsContainer {
-    /* color: green; */
-    /* overflow: contain; */
-    /* width: fit-content; */
+.headerCell {
+    line-height: 14px;
 }
 
 .row {
-    /* background-color: #eee; */
     border-top: 1px solid #ddd;
     padding: 0.2rem;
     font-size: 0.8rem;
-
-    /* opacity: 0.8; */
     
-    display: flex;
+    /* display: flex;
     flex-direction: row;
     align-items: center;
-    flex-wrap: nowrap;
-    /* cursor: pointer; */
+    flex-wrap: nowrap; */
 
     text-decoration: none;
     color: #000;
@@ -38,16 +24,24 @@
 .row:nth-child(odd){
     background-color: #eee;
 }
+.row:last-child {
+    border-bottom: 1px solid #ddd;
+}
 
 
 /* COLUMN WIDTH SPACING */
 
-.nameCol {
+/*.nameCol {
     flex: 1 0 8rem;
     font-weight: bold;
-    font-size: 1rem;
+    font-size: 1em;
     padding: 0.2rem;
     margin-left: 0.5rem;
+    margin-right: 0.2rem;
+}
+.statCol {
+    flex: 1 0 8rem;
+    text-align: right;
     margin-right: 0.2rem;
 }
 .partyCol {
@@ -90,8 +84,8 @@
     font-style: normal;
     font-weight: normal;
     font-size: 1em;
-    /* text-align: center; */
-}
+    
+} */
 
 /* sortable headers w/ icons */
 .colSortable {
@@ -128,22 +122,4 @@
 .colSortable.colActiveSortDesc:before {
     font-size: 1.2em;
     content: '↓ '
-}
-    
-
-.action {
-    margin-left: 0.2rem;
-    height: 0.8rem;
-    flex: 0 0 0.8rem;
-    padding: 0 0.1rem;
-
-    border: 1px solid #222;
-
-    /*glyph*/
-    /* text-align: center; */
-    font-size: 0.1em;
-    color: #222;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }

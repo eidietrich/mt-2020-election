@@ -1,5 +1,9 @@
 .CandidateSummary {
-
+    margin: 0.5rem 0.5rem;
+    border: 1px solid #666;
+    padding: 0.75rem;
+    background-color: white;
+    box-shadow: 1px 1px 3px #888;
 }
 
 .summaryHeaderTitle {
@@ -98,22 +102,10 @@
 
 
 .body {
-    padding: 0.5rem;
+    padding: 0.25rem;
 }
 
-.header {
-    background-color: #ddd;
-    position: relative;
-    
-    color: #eee;
-    font-weight: bold;
-    /* border-klef: 1px solid #666; */
-    /* border-top: 1px solid #222; */
 
-    padding: 0.5rem;
-    font-size: 1.3em;
-    padding-right: 2rem;
-}
 
 .container {
     display: flex;
@@ -133,6 +125,7 @@
 
 .portrait {
     width: 150px;
+    height: fit-content;
     margin-right: 1rem;
     border: 2px solid white;
     cursor: pointer;
@@ -169,7 +162,10 @@
 }
 
 .textGroup {
-    flex: 1 0 300px;
+    flex: 1 1 300px;
+
+    font-size: 0.9em;
+    line-height: 1.08em;
 }
 
 .contacts {

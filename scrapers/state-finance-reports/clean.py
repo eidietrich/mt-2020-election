@@ -28,3 +28,6 @@ output = {
 
 with open(base_path + 'data/state-finance-cleaned.json', 'w') as f:
     f.write(json.dumps(output))
+
+contributions.to_csv('data/state-candidate-contributions.csv', index=False)
+expenditures.to_csv('data/state-candidate-expenditures.csv', index=False)

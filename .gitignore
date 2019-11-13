@@ -1,6 +1,9 @@
 # Security
 credentials.json
+credentials-old.json
 token.json
+token-mtfp.json
+secrets.py
 
 #Jupyter
 .ipynb_checkpoints/
@@ -9,6 +12,8 @@ __pycache__/
 # Large data files
 scrapers/fed-finance-reports/data/individual-contributions-20.zip
 scrapers/fed-finance-reports/data/individual-contributions-20/
+scrapers/fed-finance-reports/data/old-data/
+scrapers/fed-finance-reports/data/itemized-receipts-raw.*
 
 # build files
 montana-2020/

@@ -7,3 +7,21 @@
 .race {
     padding: 0.5rem;
 }
+
+.header {
+    background-color: #ddd;
+    position: relative;
+    
+    color: #eee;
+    font-weight: bold;
+
+    padding: 0.5rem;
+    font-size: 1.3em;
+    padding-right: 2rem;
+    text-transform: uppercase;
+}
+
+.text {
+    font-size: 0.9em;
+    line-height: 1.08em;
+}

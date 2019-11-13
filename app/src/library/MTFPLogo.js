@@ -17,6 +17,7 @@ import Img from "gatsby-image"
 // Assumes logo file at specified in images/ folder
 
 const Logo = () => {
+  // _noBase64 prevents awkward blur effect
   const data = useStaticQuery(graphql`
     query {
       images: allFile(filter: {relativePath: {eq: "mtfp-logo.png"}}) {
@@ -25,7 +26,7 @@ const Logo = () => {
                     relativePath
                     childImageSharp {
                         fluid(maxWidth: 230) {
-                            ...GatsbyImageSharpFluid
+                            ...GatsbyImageSharpFluid_noBase64
                         }
                     }
                 }
@@ -33,6 +34,9 @@ const Logo = () => {
         }
     }
   `)
-  return <a href="https://montanafreepress.org"><Img fluid={data.images.edges[0].node.childImageSharp.fluid} /></a>
+  const fluidImage = data.images.edges[0].node.childImageSharp.fluid
+  return <a href="https://montanafreepress.org">
+    <Img fluid={fluidImage} fadeIn durationFadeIn={100}/>
+  </a>
 }
 export default Logo

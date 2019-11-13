@@ -3,13 +3,20 @@ import { Link } from 'gatsby'
 import Layout from "../components/layout"
 import SEO from '../components/seo'
 
-import CandidateFinanceState from '../components/CandidateFinanceState' 
-import CandidateFinanceFederal from '../components/CandidateFinanceFederal' 
+import CandidateFinance from '../components/CandidateFinance' 
 import CandidateSummary from '../components/CandidateSummary'
 import MoreToComeMessage from '../components/MoreToComeMessage'
 
+import LinksList from '../library/LinksList'
+
 // import { } from '../logic/config.js'
-import { makeCandidateKey, makeRaceKey, candidateNameParty } from '../logic/functions.js'
+import { 
+    makeCandidateUrl,
+    makeCandidateKey,
+    makeRaceUrl,
+    candidateNameParty,
+    getCandidateParty
+} from '../logic/functions.js'
 import { excludeStatuses } from '../logic/config.js'
 
 import { candidates } from '../data/app-copy.json' // TODO: Replace this with gatsby-node logic
@@ -17,14 +24,10 @@ import { candidates } from '../data/app-copy.json' // TODO: Replace this with ga
 import styles from './candidate.module.css'
 
 class CandidatePage extends Component {
-    constructor(props){
-        super(props)
-        // this.state = {}
-    }
     render(){
         const {
             candidate,
-            race
+            race,
         } = this.props.pageContext
 
         const competitors = candidates
@@ -32,43 +35,52 @@ class CandidatePage extends Component {
             .filter(c => c.position === race.position)
             .filter(c => makeCandidateKey(c) !== makeCandidateKey(candidate))
 
-        console.log(competitors)
-
-        const jurisdiction = 'state'
+        const party = getCandidateParty(candidate)
 
         return (<Layout>
             <SEO
                 title={`${candidate.last_name} | Montana 2020`}
-                description={`TK`}
+                description={candidate.text}
             />
+
+            <div className={styles.header} style={{backgroundColor: party.color}}>
+                    {party.name} for {candidate.position}
+            </div>
+
             <CandidateSummary candidate={candidate}/>
 
-            <div className={styles.competitors}>
-                <span><strong>Competitors:</strong> </span>
-                {competitors.map((c, i) => {
-                    const url = `/candidates/${makeCandidateKey(c)}`
-                    return <span key={String(i)}><Link to={url}>{candidateNameParty(c)}</Link></span>
-                    })
-                    .reduce((prev, curr) => [prev, ', ', curr])
-                }
+            <div className={styles.text}>
+                <div className={styles.competitors}>
+                    <span><strong>Competitors:</strong> </span>
+                    {competitors.map((c, i) => {
+                        // const url = `/candidates/${makeCandidateKey(c)}`
+                        return <span key={String(i)}><Link to={makeCandidateUrl(c)}>{candidateNameParty(c)}</Link></span>
+                        })
+                        .reduce((prev, curr) => [prev, ', ', curr])
+                    }
+                </div>
+                <div className={styles.race}>
+                    <strong>Race overview:</strong> <Link to={makeRaceUrl(race)}>2020 {race.position}</Link>
+                </div>
             </div>
-            <div className={styles.race}>
-                <strong>Race overview:</strong> <Link to={`/races/${makeRaceKey(race)}`}>2020 {race.position}</Link>
-            </div>
+            
             <hr /> 
+            
+            <CandidateFinance 
+                candidate={candidate}
+                race={race}
+            />
+
+            <hr />
+
+            <LinksList
+                links={candidate.coverageLinks}
+                featuredFilter={(link) => link.candidate_page_featured === 'yes'}
+            />
+
+            <hr />
+
             <MoreToComeMessage />  
-            
-            
-            {/* <h2>TK: Campaign finance</h2> */}
-            {/* <CampaignFinance jurisdiction={jurisdiction} /> */}
-            {/* {(jurisdiction === 'state') ?
-                <CandidateFinanceState 
-                    candidate={candidate}
-                    contributions={candidate.stateContributions}
-                    expenditures={candidate.stateExpenditures}
-                /> :
-                <div>Federal</div>
-            } */}
 
             
         </Layout>);

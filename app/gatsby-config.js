@@ -1,17 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `The MTFP Guide: Who's running in 2020`,
-    description: '',
-    author: `@mtfreepress`,
-  },
-  siteMetadata: {
-    title: `Montana Free Press`,
-    description: `A citizens' guide to the 2020 Montana election`,
+    title: `Montana 2020`,
+    description: `The MTFP guide to the 2020 Montana election`,
     author: `Eric Dietrich / Montana Free Press`,
     siteUrl:`https://www.montanafreepress.org/apps/montana-2020`,
     keywords: ['Montana','election','2020','votes','politics','U.S. Senate','Governor','U.S. House','congress']
   },
-  pathPrefix: `/apps/montana-2020`,
+  pathPrefix: `/apps/montana-2020`, // old hosting
+  // pathPrefix: `/montana-2020`, // for S3
   plugins: [
     `gatsby-plugin-react-helmet`,
     {

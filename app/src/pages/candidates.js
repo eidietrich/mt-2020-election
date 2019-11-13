@@ -1,94 +1,82 @@
 import React from "react"
-import { Link, navigate } from 'gatsby'
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-import CandidateMug from '../components/CandidateMug.js'
 import CandidateSummary from '../components/CandidateSummary'
 
 import TextBlock from '../library/TextBlock.js'
-import Table from '../library/Table.js'
-import tableStyles from '../library/Table.module.css'
 
-
-import { excludeStatuses } from '../logic/config.js'
 import {
-  getCandidateParty,
-  makeCandidateUrl,
-  cleanDisplayUrl,
-  makeRaceUrl,
   makeCandidateKey,
-  filterToActive
+  filterToActive,
+  getPartyFromLetter,
 } from '../logic/functions.js'
 
-import { candidates, candidatePageTitle, candidatePageText } from '../data/app-copy.json'
+import {
+  candidates,
+  candidatePageTitle,
+  candidatePageText
+} from '../data/app-copy.json'
 
-// const candidateTableColumns = [
-//   {
-//     key: 'mug',
-//     header: '',
-//     content: d => <CandidateMug
-//       candidate={d}
-//       party={getCandidateParty(d)}
-//       suppressLabel
-//       handleSelect={() => navigate(makeCandidateUrl(d))}
-//     />,
-//     style: tableStyles.thumbnailCol,
-//     sortFunction: null,
-//   },
-//   {
-//     key: 'name',
-//     header: 'Candidate',
-//     content: d => <Link to={makeCandidateUrl(d)}>{d.first_name} {d.last_name}</Link>,
-//     style: tableStyles.nameCol,
-//     sortFunction: null,
-//   },
-//   {
-//     key: 'race',
-//     header: 'Race',
-//     content: d => <Link to={makeRaceUrl(d)}>{d.position}</Link>,
-//     style: tableStyles.textCol,
-//     sortFunction: null,
-//   },
-//   {
-//     key: 'party',
-//     header: 'Party',
-//     content: d => `${getCandidateParty(d).name}`,
-//     style: tableStyles.partyCol,
-//     sortFunction: null,
-//   },
-//   {
-    
-//     key: 'website',
-//     header: 'Campaign website',
-//     content: d => <a href={`${d.web_url}`}>{cleanDisplayUrl(d.web_url || '')}</a>,
-//     style: tableStyles.linkCol,
-//     sortFunction: null,
-//   }
-// ]
+import styles from './candidates.module.css'
 
 const Candidates = () => {
-  const useCandidates = filterToActive(candidates)
+  const activeCandidates = filterToActive(candidates)
+  const races = Array.from(new Set(activeCandidates.map(d => d.position)))
 
   return <Layout>
-    <SEO title="Montana 2020 election candidates" />
+    <SEO title="Montana 2020 election - candidates" />
     <h1>{candidatePageTitle}</h1>
     <TextBlock paragraphs={candidatePageText} />
     <div>
-      {useCandidates.map(candidate => <CandidateSummary
-        key={makeCandidateKey(candidate)}
-        candidate={candidate}
+      {races.map(race => <Race
+          key={race}
+          raceName={race}
+          candidates={candidates.filter(d => d.position === race )}          
       />)}
     </div>
-    
-    {/* <div style={{maxWidth: 800, margin: 'auto'}}>
-      <Table
-        rowData={useCandidates}
-        columns={candidateTableColumns}
-      />
-    </div> */}
   </Layout>
 }
-
 export default Candidates
+
+const Race = (props) => {
+  const {candidates, raceName} = props
+
+  const parties = Array.from(new Set(candidates.map(d => d.party)))
+  const primaryFields = parties
+    .filter(partyLetter => candidates.find(d => d.party === partyLetter)) // exclude parties w/out candidates
+    .map(partyLetter => {
+      const party = getPartyFromLetter(partyLetter)        
+      return <Primary key={party.key}
+        candidates={candidates.filter(d => d.party === partyLetter)}
+        party={party}        
+        raceName={raceName}
+      />
+    })
+
+  return <div className={styles.Race}>
+    <div className={styles.raceName}>- {raceName} -</div>
+    {primaryFields}
+    <hr className={styles.divider}/>
+  </div>
+}
+
+const Primary = (props) => {
+  const {candidates, party, raceName } = props
+  const candidateSummaries = candidates.map(candidate => <CandidateSummary
+      key={makeCandidateKey(candidate)}
+      candidate={candidate}
+  />)
+  const plural = (candidates.length > 1) ? 's' : ''
+  return <div className={styles.Primary}>
+    <div className={styles.primaryHeader} style={{backgroundColor: party.color}}>
+      <h2 className={styles.officeName}>{party.name + plural} for {raceName}</h2>
+    </div>
+
+    {/* <h4 className={styles.primaryName} style={{color: party.color}}>{props.name}</h4> */}
+    <div className={styles.primaryCandidates}>
+      {candidateSummaries}
+    </div>
+  </div>
+}
