@@ -138,6 +138,8 @@ const StateRaceFinance = (props) => {
     const updateDate = new Date(candidates[0].finance.lastReportingDate)
     const noReportsFor = candidates.filter(d => d.finance.numReportingPeriods === 0)
 
+    
+
     return <div className={styles.container}>
 
         <h2>Campaign finance</h2> 

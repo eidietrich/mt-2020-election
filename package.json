@@ -25,17 +25,16 @@
   "scripts": {
     "start": "cd app && npm start",
     "refresh": "npm run fetch:text && npm run fetch:links && npm run refresh:data",
-    "demo": "npm run build:demo && npm run deploy:demo",
-    "build:demo": "cd app && gatsby build",
-    "deploy:demo": "aws s3 sync app/public s3://mtfp-election-demo",
+    "local:demo": "(cd app && gatsby build) && serve app/public",
+    "deploy:demo": "(cd app && gatsby build) && aws s3 sync app/public s3://mtfp-election-demo",
     "deploy:prod-tk": "cd app && gatsby build --prefix-paths && aws s3 sync public s3://apps.montanafreepress.org/montana-2020",
     "deploy:prod": "(cd app; gatsby build --prefix-paths && rm -r ./montana-2020 ||: && mv ./public ./montana-2020 && lftp -c \"open sftp://ericdietrich@sftp.flywheelsites.com/mtfpeditor/montana-free-press/apps; mirror -eR montana-2020/\")",
     "refresh:data": "node process/prep-app-data.js",
     "check:state-finance-candidates": "python3 scrapers/state-finance-reports/check-candidate-updates.py",
     "check:state-finance-filings": "python3 scrapers/state-finance-reports/check-report-updates.py",
+    "fetch:state-finance-filings": "python3 scrapers/state-finance-reports/fetch-finance-reports.py && python3 scrapers/state-finance-reports/clean.py",
     "fetch:links": "node scrapers/coverage-outside/fetch-coverage-list.js && node process/prep-outside-links.js",
-    "fetch:text": "node scrapers/app-copy/fetch-app-copy.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "fetch:text": "node scrapers/app-copy/fetch-app-copy.js"
   },
   "repository": {
     "type": "git",

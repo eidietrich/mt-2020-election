@@ -18,7 +18,7 @@ export const fundraisingDomainUpperBound = {
   'U.S.-Senate': 4000000,
   'U.S.-House': 1000000,
   'Attorney-General': 200000,
-  'Secretary-of-State' : 100000,
+  'Secretary-of-State' : 200000,
   'Superintendent-of-Public-Instruction': 100000,
   'State-Auditor': 100000,
 }

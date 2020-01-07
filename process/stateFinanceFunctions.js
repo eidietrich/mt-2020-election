@@ -1,5 +1,8 @@
 const {min, max} = require('d3-array')
 
+const {
+    reportingPeriodDict
+} = require('./config.js')
 
 const {
     getDaysArray,
@@ -57,14 +60,27 @@ module.exports.checkStateReportingPeriodCompleteness = function (candidates, con
     const check = names.map(name => {
         const matches = contributions.filter(d => d.Candidate === name)
         const reportingPeriods = Array.from(new Set(matches.map(d => d['Reporting Period']))).sort()
+        const reportingPeriodsNotInConfig = reportingPeriods.filter(d => !Object.keys(reportingPeriodDict).includes(d))
+        if (reportingPeriodsNotInConfig.length > 0){
+            console.warn("\x1b[33m", '\nUncategorized state reporting periods in process/config:\n',
+                reportingPeriodsNotInConfig
+            )
+        }
+        const reportingPeriodCounts = {}
+        reportingPeriods.forEach(key => {
+            const quarter = reportingPeriodDict[key]
+            const recordCount = matches.filter(d => d['Reporting Period'] === key).length 
+            reportingPeriodCounts[quarter] = recordCount
+        })
         // const reportingStarts = Array.from(new Set(matches.map(d => d.reporting_start))).sort()
-        const reportingEnds = Array.from(new Set(matches.map(d => d.reporting_end))).sort()
+        // const reportingEnds = Array.from(new Set(matches.map(d => d.reporting_end))).sort()
         return {
             name,
             records: matches.length,
             periods: reportingPeriods.length,
-            first_period: reportingEnds[0],
-            // end_dates: reportingEnds,
+            // first_period: reportingEnds[0],
+            // last_period: reportingEnds.slice(-1)[0],
+            ...reportingPeriodCounts,
         }
     })
     console.log('\n### State candidate reporting periods:')
@@ -77,13 +93,21 @@ module.exports.makeStateCandidateSummaries = function (candidates, contributions
         const candidateExpenditures = expenditures.filter(d => d.Candidate === candidate.state_finance_data_name)
         const summaries = summarizeByCandidate(candidateContributions, candidateExpenditures)
 
-        const firstDate = min(candidateContributions.concat(candidateExpenditures), d => d['Date Paid'])
-        const lastDate = max(candidateContributions.concat(candidateExpenditures), d => d.reporting_end)
+        const firstDate = min(candidateContributions.concat(candidateExpenditures), d => new Date(d['Date Paid']))
+        const lastDate = max(candidateContributions.concat(candidateExpenditures), d => new Date(d.reporting_end))
         const dates = getDaysArray(new Date(firstDate), new Date(lastDate)).map(d => dateFormat(d))
         const cumulativeContributions = runningTotalByDate(dates, candidateContributions, 'Fundraising', candidate)
         const cumulativeExpenditures = runningTotalByDate(dates, candidateExpenditures, 'Spending', candidate)
         const contributionsByZip = totalByZipcode(candidateContributions, candidate)
         const contributionsByType = totalByType(candidateContributions, candidate)
+
+        // testing
+        if ((candidateContributions.length > 0) && cumulativeContributions.length == 0) {
+            console.log('contribution running total error', candidate.state_finance_data_name)
+        }
+        
+
+        // console.log(candidate.state_finance_data_name, , cumulativeContributions.length)
 
         return ({
             key: makeCandidateKey(candidate),

@@ -18,6 +18,24 @@ Some data pipeline folders contain Jupyter notebooks for exploration/script deve
 
 See `package.json` for shorthand commands (TODO: Document these better)
 
+### package.json commands
+
+#### Public-facing app
+- Develop app: `npm run start`
+- Build app + serve local demo: `npm run local:demo`
+- Build app + deploy demo to AWS demo server: `npm run deploy demo`
+- Build app + deply to production (custom to MTFP server; expects PW): `npm run deploy:prod`
+
+#### Data management
+- Refresh app copy: `npm run refresh`
+- Check state records for new candidates: ``
+- Check state records for new finance filings: ``
+- Fetch current state finance data: `` 
+- Check federal records for new candidates: ``
+- Check federal records for new finance filings: `TK`
+- Fetch current federal finance data: ``
+
+
 ### Existing data processing pipelines
 - *app-copy* - Pulls in [ArchieML](http://archieml.org) for app text content from [Google Doc](https://docs.google.com/document/d/1-PomtLY2bwwC9I-osdZnxcb8nwB9ubvhxyxLocPBk4w/edit). Relies on `token.json` and `credentials.json` in project root.
     - CMD: Refresh copy: `node scrapers/app-copy/fetch-app-copy.js`
@@ -57,4 +75,23 @@ Built gatsby app in `app/public` can be deployed to S3 or similar
 
 - Build a shared component library? How would that work? [Storybook](https://storybook.js.org/)?
 - Think through testing for data pipelines
+
+## Ideas
+- Get more info above the fold? - move intro to sidebar/below content on mobile
+- Ballot initiatives. Where do the candidates stand?
+- Candidate info - feed for each candidate (Q is how to curate)
+- Dockerize build process
+- Automate rebuild w github action + webhook/slack or chron job
+
+Candidate info feed - components
+- Display (live-blog style)
+- G sheet backend
+- Scraper tool --> Url to structured data
+- Interface
+    - Slack
+    - Chrome extension?
+    - Google Form?
+    - Web app
+
+Dockerize build process + rebuild w/ github action
 

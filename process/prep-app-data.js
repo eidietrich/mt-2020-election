@@ -75,7 +75,8 @@ ${ activeCandidates.length - activeFederalCandidates.length - activeStateCandida
 
 console.log(
 `## State Finance:
-Processing ${contributions.length} contributions, ${expenditures.length} expenditures`
+Processing ${contributions.length} contributions, ${expenditures.length} expenditures
+`
 )
 // run tests
 checkStateCandidateMatches(activeStateCandidates, contributions)

@@ -27,6 +27,7 @@ output = {
 }
 
 with open(base_path + 'data/state-finance-cleaned.json', 'w') as f:
+    print('Cleaned finance data written')
     f.write(json.dumps(output))
 
 contributions.to_csv('data/state-candidate-contributions.csv', index=False)
