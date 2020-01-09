@@ -28,7 +28,7 @@ import {
 
 import styles from './CandidateFinance.module.css'
 
-const contributionMapLabel = 'Contributions by zip code'
+const contributionMapLabel = (candidate) => `Contributions by zip code: ${candidate.first_name} ${candidate.last_name} (${candidate.party})`
 
 const CandidateFinance = (props) => {
     const {
@@ -147,7 +147,7 @@ const StateCandidateFinance = (props) => {
     
         <div className={styles.chartContainer}>
             <div className={styles.mapRow}>
-                <h4>{contributionMapLabel}</h4>
+                <h4>{contributionMapLabel(candidate)}</h4>
                 <ResponsiveVegaLite
                     spec={contributionMapSpec}
                     aspectRatio={0.7}
@@ -228,7 +228,7 @@ const FederalCandidateFinance = (props) => {
         
         <div className={styles.chartContainer}>
             <div className={styles.mapRow}>
-                <h4>{contributionMapLabel}</h4>
+                <h4>{contributionMapLabel(candidate)}</h4>
                 <ResponsiveVegaLite
                     spec={contributionMapSpec}
                     aspectRatio={0.7}
