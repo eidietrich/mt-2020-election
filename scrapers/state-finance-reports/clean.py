@@ -26,9 +26,12 @@ output = {
     'expenditures': expenditures.to_json(orient='records')
 }
 
+contributions.to_csv('data/state-candidate-contributions.csv', index=False)
+expenditures.to_csv('data/state-candidate-expenditures.csv', index=False)
+contributions.to_csv(base_path + 'data/state-candidate-contributions.csv', index=False)
+expenditures.to_csv(base_path + 'data/state-candidate-expenditures.csv', index=False)
+
 with open(base_path + 'data/state-finance-cleaned.json', 'w') as f:
     print('Cleaned finance data written')
     f.write(json.dumps(output))
 
-contributions.to_csv('data/state-candidate-contributions.csv', index=False)
-expenditures.to_csv('data/state-candidate-expenditures.csv', index=False)

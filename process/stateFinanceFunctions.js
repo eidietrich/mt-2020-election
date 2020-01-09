@@ -1,4 +1,4 @@
-const {min, max} = require('d3-array')
+const {min, max, sum} = require('d3-array')
 
 const {
     reportingPeriodDict
@@ -125,12 +125,15 @@ module.exports.makeStateCandidateSummaries = function (candidates, contributions
 function runningTotalByDate(dates, items, type, candidate){
     // combine contributions or expenditures for cumulative chart
     let runningTotal = 0
-    return dates.map(date => {
+    // check that each item in 
+    const unmatches = items.filter(d => !dates.includes(d['Date Paid']))
+    return dates.map((date, i) => {
         const matches = items.filter(d => d['Date Paid'] === date)
         runningTotal += sumAmount(matches)
+        if (i+1 === dates.length) runningTotal += sumAmount(unmatches) // add unmatched contributions on last day
         return {
             date: date,
-            cumulative: runningTotal,
+            cumulative: Math.round(runningTotal), // Be sure to round once
             type: type,
             party: candidate.party,
         }
@@ -194,10 +197,12 @@ function summarizeByCandidate(contributions, expenditures){
     const numReportingPeriods = reportingPeriods.length
     
     return {
-        totalRaised,
-        totalRaisedPrimary,
-        totalRaisedGeneral,
-        totalSpent,
+        totalRaised: Math.round(totalRaised),
+        totalRaisedPrimary: Math.round(totalRaisedPrimary),
+        totalRaisedGeneral: Math.round(totalRaisedGeneral),
+        totalSpent: Math.round(totalSpent),
+
+        testSum: sum(contributions, d => d['Amount']),
 
         totalIndividual: sumAmount(contributions.filter(d => d.type2 === 'Individual donations')),
         totalCommittees: sumAmount(contributions.filter(d => d.type2 === 'Committee support')),
@@ -211,4 +216,18 @@ function summarizeByCandidate(contributions, expenditures){
         firstReportingDate,
         lastReportingDate,
     }
+}
+
+module.exports.checkStateCandidateFundraising = function(summaries) {
+    summaries.forEach(summary => {
+        
+        /// Check that sums from running totals and overall totals match
+        const runningTotalSum = summary.cumulativeContributions.slice(-1)[0]
+        if (!runningTotalSum) return null
+        if (runningTotalSum.cumulative !== summary.totalRaised) {
+            console.log('Sum mismatch', summary.key)
+            console.log('Running total sum:', runningTotalSum.cumulative)
+            console.log('Summary total sum:', summary.totalRaised)
+        }
+    })
 }

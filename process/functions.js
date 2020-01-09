@@ -29,7 +29,7 @@ module.exports.getDaysArray = function(start, end) {
 
 module.exports.filterToActive = candidates => candidates.filter(d => !excludeStatuses.includes(d.status))
 // contribution/expenditure handling
-module.exports.sumAmount = entries => Math.round(entries.reduce((acc, obj) => obj['Amount'] + acc, 0), 2)
+module.exports.sumAmount = entries => entries.reduce((acc, obj) => obj['Amount'] + acc, 0)
 module.exports.forPrimary = contributions => contributions.filter(d => d['Election Type'] === 'PM')
 module.exports.forGeneral = contributions => contributions.filter(d => d['Election Type'] === 'GN')
 

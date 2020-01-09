@@ -13,6 +13,7 @@ const {
     // testing
     checkStateCandidateMatches,
     checkStateReportingPeriodCompleteness,
+    checkStateCandidateFundraising,
     // processing
     makeStateCandidateSummaries
 } = require('./stateFinanceFunctions.js')
@@ -89,15 +90,10 @@ const stateFinanceSummaries = makeStateCandidateSummaries(activeStateCandidates,
 const federalFinanceSummaries = makeFederalCandidateSummaries(activeFederalCandidates, federalCampaignTotals, federalContributions,[])
 const financeSummaries = stateFinanceSummaries.concat(federalFinanceSummaries)
 
+checkStateCandidateFundraising(stateFinanceSummaries)
+
 const preppedData = {
     finance: financeSummaries
 }
 
 writeJson(APP_DATA, preppedData)
-
-
-
-
-function checkForNonsensicalAmounts(){
-
-}
