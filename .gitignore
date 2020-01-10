@@ -8,6 +8,7 @@ secrets.py
 #Jupyter
 .ipynb_checkpoints/
 __pycache__/
+scratch*.ipynb
 
 # Large data files
 scrapers/fed-finance-reports/data/individual-contributions-20.zip
