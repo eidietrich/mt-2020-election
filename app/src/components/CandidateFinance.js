@@ -21,7 +21,8 @@ import {
 import { makeRaceKey } from '../logic/functions'
 
 import {
-    candidatePageFundraisingCaveat,
+    candidatePageFundraisingStateCaveat,
+    candidatePageFundraisingFederalCaveat,
     candidatePageIndividualStateCaveat,
     candidatePageIndividualFederalCaveat
 } from '../data/app-copy.json'
@@ -79,7 +80,7 @@ const CandidateFinance = (props) => {
         return <StateCandidateFinance
             candidate={candidate}
             text={{
-                candidatePageFundraisingCaveat,
+                candidatePageFundraisingStateCaveat,
                 candidatePageIndividualStateCaveat
             }}
         />
@@ -89,7 +90,7 @@ const CandidateFinance = (props) => {
         return <FederalCandidateFinance
             candidate={candidate}
             text={{
-                candidatePageFundraisingCaveat,
+                candidatePageFundraisingFederalCaveat,
                 candidatePageIndividualFederalCaveat
             }}
         />
@@ -103,6 +104,8 @@ const StateCandidateFinance = (props) => {
         candidate,
         text,
     } = props
+
+    console.log(candidate)
 
     return <div className={styles.container}>
         <h2>Fundraising and campaign spending</h2>
@@ -126,23 +129,27 @@ const StateCandidateFinance = (props) => {
             <PullStatSecondaryRow
                 stats={[
                     {
-                        stat: dollarFormat(candidate.finance.totalIndividual),
-                        label: 'From individuals'
+                        stat: dollarFormat(candidate.finance.itemizedIndividual),
+                        label: 'Itemized individual contributions'
                     },
                     {
-                        stat: dollarFormat(candidate.finance.totalCommittees),
+                        stat: dollarFormat(candidate.finance.itemizedCommittees),
                         label: 'From committees'
                     },
                     {
-                        stat: dollarFormat(candidate.finance.totalSelfFinance),
+                        stat: dollarFormat(candidate.finance.itemizedSelfFinance),
                         label: 'Self-financing'
+                    },
+                    {
+                        stat: dollarFormat(candidate.finance.unitemized),
+                        label: 'Unitemized'
                     }
                 ]}
             />
         </div>
 
         <div className={styles.note}>
-            {text.candidatePageFundraisingCaveat}
+            {text.candidatePageFundraisingStateCaveat}
         </div>
     
         <div className={styles.chartContainer}>
@@ -159,7 +166,7 @@ const StateCandidateFinance = (props) => {
         <div className={styles.row}>
             <PullStatMain
                 stat={percentFormat(candidate.finance.percentIndividualFromMontana)}
-                label='Portion of fundraising from Montana donors'
+                label='Portion of itemized fundraising from Montana donors'
             />
 
             <PullStatSecondaryRow
@@ -169,8 +176,8 @@ const StateCandidateFinance = (props) => {
                         label: 'Itemized individual contributions'
                     },
                     {
-                        stat: dollarFormat(candidate.finance.averageIndividualContributionSize),
-                        label: 'Average contribution size'
+                        stat: numberFormat(candidate.finance.numIndividualContributionsAtLimit),
+                        label: `Number at ${dollarFormat(candidate.finance.contributionLimit)} contribution limit`
                     },
                 ]}
             />
@@ -223,7 +230,7 @@ const FederalCandidateFinance = (props) => {
         </div>
 
         <div className={styles.note}>
-            {text.candidatePageFundraisingCaveat}
+            {text.candidatePageFundraisingFederalCaveat}
         </div>
         
         <div className={styles.chartContainer}>
@@ -250,9 +257,13 @@ const FederalCandidateFinance = (props) => {
                         label: 'Itemized individual contributions reported'
                     },
                     {
-                        stat: dollarFormat(candidate.finance.averageIndividualContributionSize),
-                        label: 'Average contribution size'
+                        stat: numberFormat(candidate.finance.numIndividualContributionsAtLimit),
+                        label: `Number at ${dollarFormat(candidate.finance.contributionLimit)} contribution limit`
                     },
+                    // {
+                    //     stat: dollarFormat(candidate.finance.averageIndividualContributionSize),
+                    //     label: 'Average contribution size'
+                    // },
                 ]}
             />
 

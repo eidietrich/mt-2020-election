@@ -1,6 +1,10 @@
 const { sum, min } = require('d3-array')
 
 const {
+    contributionLimitsByOffice
+} = require('./config.js')
+
+const {
     getJson,
     makeCandidateKey,
     getDaysArray,
@@ -44,11 +48,14 @@ module.exports.checkFederalCandidateMatches = function (candidates, federalCampa
 
 module.exports.makeFederalCandidateSummaries = function (candidates, fundraisingSummaries, contributions, expenditures){
     const candidateSummaries = candidates.map(candidate => {
-        
+        const officeTitle = candidate && candidate.position
+        const contributionLimit = contributionLimitsByOffice[officeTitle]
+
+        if (candidate && !officeTitle in contributionLimitsByOffice) console.log('Missing office title', officeTitle)
+
         // const candidateExpenditures = expenditures.filter(d => d.Candidate === candidate.state_finance_data_name)
         const fundraisingSummary = fundraisingSummaries.find(d => d['CAND_NAME'] === candidate.fed_finance_data_name) || {}
         const candidateInfo = candidateInfoList.find(d => d['CAND_NAME'] === candidate.fed_finance_data_name) || {}
-        // console.log(fundraisingSummary)
 
         const committeeId = candidateInfo.CAND_PCC || null
         const candidateContributions = contributions.filter(d => d.committee_id === committeeId)
@@ -60,6 +67,9 @@ module.exports.makeFederalCandidateSummaries = function (candidates, fundraising
         // console.log(candidate.last_name, itemizedIndividualTotal)
         // console.log(candidate.last_name, fundraisingSummary.CAND_ID, committeeId, candidateContributions.length)
         
+        const individualContributionsAtLimit = individualContributions.filter(d => d.contribution_receipt_amount >= contributionLimit)
+
+
         const firstDate = min(candidateContributions, d => d.contribution_receipt_date)
         const lastDate = fundraisingSummary.CVG_END_DT
         const dates = getDaysArray(new Date(firstDate), new Date(lastDate)).map(d => dateFormat(d))
@@ -69,22 +79,24 @@ module.exports.makeFederalCandidateSummaries = function (candidates, fundraising
             federalCandidateCommitteeId: committeeId,
             totalRaised: fundraisingSummary.TTL_RECEIPTS || 0,
             
-
             totalIndividual: fundraisingSummary.TTL_INDIV_CONTRIB || 0,
             totalCommittees: (fundraisingSummary.POL_PTY_CONTRIB + fundraisingSummary.OTHER_POL_CMTE_CONTRIB + fundraisingSummary.TRANS_FROM_AUTH) || 0,
             totalSelfFinance: (fundraisingSummary.CAND_CONTRIB + fundraisingSummary.CAND_LOANS) || 0, //
-
 
             totalRaisedPrimary: null, // NOT IN FEC SUMMARY, sums won't match calculated from itemized
             totalRaisedGeneral: null, // NOT IN FEC SUMMARY
             totalSpent: fundraisingSummary.TTL_DISB || 0,
 
             numIndividualContributions: individualContributions.length, // TK from itemized 
-            averageIndividualContributionSize: itemizedIndividualTotal / individualContributions.length, // TK from itemized
+            // averageIndividualContributionSize: itemizedIndividualTotal / individualContributions.length, // TK from itemized
+            numIndividualContributionsAtLimit: individualContributionsAtLimit.length,
+
             percentIndividualFromMontana: percentIndividualFromMontana,
             numReportingPeriods: (fundraisingSummary.TTL_RECEIPTS ? 1 : 0), // TEMP - add actual value from itemized
             firstReportingDate: null, // NOT IN FEC SUMMARY
             lastReportingDate: fundraisingSummary.CVG_END_DT || 'None',
+
+            contributionLimit
         }
         const cumulativeContributions = runningTotalByDate(dates, candidateContributions, 'Fundraising', candidate)
         const cumulativeExpenditures = [] // TK w/ itemized expenditure data

@@ -50,9 +50,11 @@
       "value": "Have ideas about additional coverage would be helpful as you consider your vote? Tell us at <a href=\"mailto:edietrich@montanafreepress.org\">edietrich@montanafreepress.org</a>."
     }
   ],
-  "racePageFundraisingCaveat": "Note: Fundraising components in table don't necessarily sum to exact total because of miscellaneous receipts and accounting adjustments. Self-financing includes candidate contributions and campaign loans.",
-  "candidatePageFundraisingCaveat": "Note: Fundraising components shown here don't necessarily sum to total fundraising because of miscellaneous receipts and accounting adjustments. Self-financing includes candidate contributions and campaign loans.",
-  "candidatePageIndividualStateCaveat": "Note: Average contribution size represents itemized individual contributions reported in candidate filings with the COPP. Unitemized donations under $35 may not be included in the average. Individual donors are limited to giving $710 per election to gubernatorial candidates and $360 per election to candidates for other statewide offices.",
+  "racePageFundraisingStateCaveat": "Note: Self-financing includes candidate contributions and campaign loans. Prior to Jan. 17, 2019, these figures underreported fundraising for state candidates by omitting unitemized contributions. Unitemized contribution totals, which include small-dollar donations, are calculated here by subtracting itemized cash contributions from reported fundraising totals.",
+  "racePageFundraisingFederalCaveat": "Note: Fundraising components in table don't necessarily sum to exact total because of miscellaneous receipts and accounting adjustments. Self-financing includes candidate contributions and campaign loans.",
+  "candidatePageFundraisingStateCaveat": "Note: Self-financing includes candidate contributions and campaign loans. Prior to Jan. 17, 2019, these figures underreported fundraising for state candidates by omitting unitemized contributions. Unitemized contribution totals, which include small-dollar donations, are calculated here by subtracting itemized cash contributions from reported fundraising totals.",
+  "candidatePageFundraisingFederalCaveat": "Note: Fundraising components shown here don't necessarily sum to total fundraising because of miscellaneous receipts and accounting adjustments. Self-financing includes candidate contributions and campaign loans.",
+  "candidatePageIndividualStateCaveat": "Note: Individual donors are limited to giving $710 per election to gubernatorial candidates and $360 per election to candidates for other statewide offices, with the primary and general contests counted as separate elections.",
   "candidatePageIndividualFederalCaveat": "Note: Average contribution size represents itemized individual contributions reported in candidate committee filings with the FEC, with duplicate entries removed. Small individual donations totalling $200 or less may not be included in the average. Individual contributions to federal candidates are limited to $2,800.",
   "races": [
     {
@@ -670,5 +672,5 @@
       "text": "Morigeau, a state representative from Missoula, announced his candidacy for state auditor June 30. He is a member of the Confederated Salish and Kootenai Tribes and has a law degree from the University of Montana."
     }
   ],
-  "lastUpdated": "2020-01-08T01:06:33.557Z"
+  "lastUpdated": "2020-01-17T21:11:01.987Z"
 }

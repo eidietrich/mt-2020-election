@@ -33,12 +33,19 @@ const {
 // TODO: Look at merging state/federal data into common format here
 // TODO: This also needs some refactoing
 
+// INPUTS
+// TODO: Add STATE_FINANCE_SUMMARY
+const STATE_FINANCE_SUMMARY = './scrapers/state-finance-reports/data/state-candidate-summaries.json'
 const STATE_FINANCE_SOURCE = './scrapers/state-finance-reports/data/state-finance-cleaned.json'
 const FED_FINANCE_SUMMARY = './scrapers/fed-finance-reports/data/raw-summaries.json'
 const FED_ITEMIZED_RECEIPTS = './scrapers/fed-finance-reports/data/itemized-receipts.json'
+
+// Memo to past self: Why is this input COMING from the app folder?
+const APP_COPY_PATH = './app/src/data/app-copy.json' // TODO: Standardize this
+
+// OUTPUT
 const APP_DATA = './app/src/data/app-prepped-data.json'
 
-const APP_COPY_PATH = './app/src/data/app-copy.json' // TODO: Standardize this
 // const OUTSIDE_LINKS_PATH = './data/outside-links.json'
 
 // const financeDateRange = ["01/01/2019", "11/31/2020"]
@@ -46,12 +53,14 @@ const APP_COPY_PATH = './app/src/data/app-copy.json' // TODO: Standardize this
 
 const { candidates, races } = getJson(APP_COPY_PATH)
 // const { links } = getJson(OUTSIDE_LINKS_PATH)
-const rawStateFinance = getJson(STATE_FINANCE_SOURCE)
-const contributions = cleanStateContributions(JSON.parse(rawStateFinance.contributions))
-const expenditures = cleanStateExpenditures(JSON.parse(rawStateFinance.expenditures))
+const stateFinanceTotals = getJson(STATE_FINANCE_SUMMARY)
+const stateFinance = getJson(STATE_FINANCE_SOURCE)
+const stateContributions = cleanStateContributions(JSON.parse(stateFinance.contributions))
+const stateExpenditures = cleanStateExpenditures(JSON.parse(stateFinance.expenditures))
 
-const federalCampaignTotals = getJson(FED_FINANCE_SUMMARY)
+const federalFinanceTotals = getJson(FED_FINANCE_SUMMARY)
 const federalContributions = getJson(FED_ITEMIZED_RECEIPTS)
+const federalExpenditures = [] // TODO
 
 const activeCandidates = filterToActive(candidates)
 
@@ -74,22 +83,26 @@ ${ activeCandidates.length - activeFederalCandidates.length - activeStateCandida
 `
 )
 
-console.log(
-`## State Finance:
-Processing ${contributions.length} contributions, ${expenditures.length} expenditures
-`
-)
-// run tests
-checkStateCandidateMatches(activeStateCandidates, contributions)
-checkFederalCandidateMatches(activeFederalCandidates, federalCampaignTotals)
-checkStateReportingPeriodCompleteness(activeStateCandidates, contributions)
+// run pre-processing tests
+checkStateCandidateMatches(activeStateCandidates, stateContributions)
+checkFederalCandidateMatches(activeFederalCandidates, federalFinanceTotals)
+checkStateReportingPeriodCompleteness(activeStateCandidates, stateContributions)
 
 // perform aggregation calcs
-const stateFinanceSummaries = makeStateCandidateSummaries(activeStateCandidates, contributions, expenditures)
-// console.log(stateFinanceSummaries)
-const federalFinanceSummaries = makeFederalCandidateSummaries(activeFederalCandidates, federalCampaignTotals, federalContributions,[])
+console.log(
+    `\n## State Finance:
+    Processing ${stateContributions.length} contributions, ${stateExpenditures.length} expenditures
+    `)
+const stateFinanceSummaries = makeStateCandidateSummaries(activeStateCandidates, stateFinanceTotals, stateContributions, stateExpenditures)
+console.log(
+    `\n## Federal Finance:
+    Processing ${federalContributions.length} contributions, ${federalExpenditures.length} expenditures
+    `)
+const federalFinanceSummaries = makeFederalCandidateSummaries(activeFederalCandidates, federalFinanceTotals, federalContributions, federalExpenditures)
+
 const financeSummaries = stateFinanceSummaries.concat(federalFinanceSummaries)
 
+// post-processing tests
 checkStateCandidateFundraising(stateFinanceSummaries)
 
 const preppedData = {

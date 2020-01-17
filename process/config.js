@@ -34,3 +34,13 @@ module.exports.reportingPeriodDict = {
 
     '10/01/2020 to 12/31/2020': 'Q4_20',
 }
+
+module.exports.contributionLimitsByOffice = {
+    'Governor': 710,
+    'U.S. Senate': 2800,
+    'U.S. House': 2800,
+    'Attorney General': 360,
+    'Secretary of State': 360, 
+    'Superintendent of Public Instruction': 360,
+    'State Auditor': 360,
+}

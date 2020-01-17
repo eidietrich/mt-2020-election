@@ -12,15 +12,16 @@ import re
 from functions import get_candidate_finance_reports_cleaned
 from functions import get_candidate_list_cleaned
 
-OUT_PATH = 'data/state-candidate-summaries.csv'
+OUT_PATH = 'data/state-candidate-summaries'
 
 def main():
     print('Starting state finance summaries fetch')
     cs = CandidateSummaries('2020', 'SW') # SW --> statewide candidates
     print('Candidate list collected')
     cs.collect_candidates() # Slow step
-    cs.summary.to_csv(OUT_PATH, index=False)
-    cs.summary.to_csv('scrapers/state-finance-reports/' + OUT_PATH, index=False)
+    cs.summary.to_csv(OUT_PATH + '.csv', index=False)
+    cs.summary.to_csv('scrapers/state-finance-reports/' + OUT_PATH + '.csv', index=False)
+    cs.summary.to_json('scrapers/state-finance-reports/' + OUT_PATH + '.json', orient='records')
     print('Written to', OUT_PATH)
     
     

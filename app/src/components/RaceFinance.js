@@ -22,7 +22,10 @@ import {
     makeCandidateUrl
 } from '../logic/functions'
 
-import { racePageFundraisingCaveat } from '../data/app-copy.json'
+import {
+    racePageFundraisingStateCaveat,
+    racePageFundraisingFederalCaveat,
+} from '../data/app-copy.json'
 
 import styles from './RaceFinance.module.css'
 
@@ -64,7 +67,7 @@ const RaceFinance = (props) => {
             totalFundraising={totalFundraising}
             raceCumulativeContributionSpec={raceCumulativeContributionSpec}
             text = {{
-                racePageFundraisingCaveat
+                racePageFundraisingStateCaveat
             }}
         />
     }
@@ -76,7 +79,7 @@ const RaceFinance = (props) => {
             totalFundraising={totalFundraising}
             raceCumulativeContributionSpec={raceCumulativeContributionSpec}
             text = {{
-                racePageFundraisingCaveat
+                racePageFundraisingFederalCaveat
             }}
         />
     }
@@ -84,7 +87,7 @@ const RaceFinance = (props) => {
 
 export default RaceFinance
 
-const tableSchematic = [
+const tableSchematicState = [
     {
         key: 'name',
         header: 'Candidate',
@@ -105,24 +108,31 @@ const tableSchematic = [
     },
     {
         key: 'individual',
-        header: 'Individual contributions',
-        content: d => dollarFormat(d.finance.totalIndividual),
+        header: 'Itemized individual contributions',
+        content: d => dollarFormat(d.finance.itemizedIndividual),
         style: styles.tableCellNumber,
-        sortFunction: (a,b) => (a.finance.totalIndividual - b.finance.totalIndividual)
+        sortFunction: (a,b) => (a.finance.itemizedIndividual - b.finance.itemizedIndividual)
     },
     {
         key: 'pac',
         header: 'Committee contributions',
-        content: d => dollarFormat(d.finance.totalCommittees),
+        content: d => dollarFormat(d.finance.itemizedCommittees),
         style: styles.tableCellNumber,
-        sortFunction: (a,b) => (a.finance.totalCommittees - b.finance.totalCommittees)
+        sortFunction: (a,b) => (a.finance.itemizedCommittees - b.finance.itemizedCommittees)
     },
     {
         key: 'self',
         header: 'Self-financing',
-        content: d => dollarFormat(d.finance.totalSelfFinance),
+        content: d => dollarFormat(d.finance.itemizedSelfFinance),
         style: styles.tableCellNumber,
-        sortFunction: (a,b) => (a.finance.totalSelfFinance - b.finance.totalSelfFinance)
+        sortFunction: (a,b) => (a.finance.itemizedSelfFinance - b.finance.itemizedSelfFinance)
+    },
+    {
+        key: 'self',
+        header: 'Unitemized contributions',
+        content: d => dollarFormat(d.finance.unitemized),
+        style: styles.tableCellNumber,
+        sortFunction: (a,b) => (a.finance.unitemized - b.finance.unitemized)
     },
 ]
 
@@ -162,19 +172,19 @@ const StateRaceFinance = (props) => {
             />
         </div>
 
-        <div className={styles.chartContainer}>
+        {/* <div className={styles.chartContainer}>
             <h4>Cumulative fundraising</h4>
             <ResponsiveVegaLite spec={raceCumulativeContributionSpec} />
-        </div>
+        </div> */}
 
         <div className={styles.tableContainer}>
             <Table 
                 defaultSort={((a,b) => b.finance.totalRaised - a.finance.totalRaised)}
-                columns={tableSchematic}
+                columns={tableSchematicState}
                 rowData={candidates}
             />
             <div className={styles.note}>
-                {text.racePageFundraisingCaveat}
+                {text.racePageFundraisingStateCaveat}
             </div>
         </div>
         
@@ -184,6 +194,48 @@ const StateRaceFinance = (props) => {
     </div>
 }
 
+const tableSchematicFederal = [
+    {
+        key: 'name',
+        header: 'Candidate',
+        content: d => <Link to={makeCandidateUrl(d)}
+            style={({color: getCandidateParty(d).color})}
+        >
+            {candidateNameParty(d)}
+        </Link>,
+        style: styles.tableCellCandidate,
+        sortFunction: null
+    },
+    {
+        key: 'totalRaised',
+        header: 'Total raised',
+        content: d => dollarFormat(d.finance.totalRaised),
+        style: styles.tableCellNumberImportant,
+        sortFunction: (a,b) => (a.finance.totalRaised - b.finance.totalRaised)
+    },
+    {
+        key: 'individual',
+        header: 'Individual contributions',
+        content: d => dollarFormat(d.finance.totalIndividual),
+        style: styles.tableCellNumber,
+        sortFunction: (a,b) => (a.finance.totalIndividual - b.finance.totalIndividual)
+    },
+    {
+        key: 'pac',
+        header: 'Committee contributions',
+        content: d => dollarFormat(d.finance.totalCommittees),
+        style: styles.tableCellNumber,
+        sortFunction: (a,b) => (a.finance.totalCommittees - b.finance.totalCommittees)
+    },
+    {
+        key: 'self',
+        header: 'Self-financing',
+        content: d => dollarFormat(d.finance.totalSelfFinance),
+        style: styles.tableCellNumber,
+        sortFunction: (a,b) => (a.finance.totalSelfFinance - b.finance.totalSelfFinance)
+    }
+]
+
 const FederalRaceFinance = (props) => {
     const { 
         candidates,
@@ -192,6 +244,7 @@ const FederalRaceFinance = (props) => {
         text
         // raceCumulativeContributionSpec,
     } = props
+    console.log('text', text)
     // pull update date from most recent candidate
     const updateDate = new Date(candidates[0].finance.lastReportingDate)
     const noReportsFor = candidates.filter(d => d.finance.numReportingPeriods === 0)
@@ -230,11 +283,11 @@ const FederalRaceFinance = (props) => {
         <div className={styles.tableContainer}>
             <Table 
                 defaultSort={((a,b) => b.finance.totalRaised - a.finance.totalRaised)}
-                columns={tableSchematic}
+                columns={tableSchematicFederal}
                 rowData={candidates}
             />
             <div className={styles.note}>
-                {text.racePageFundraisingCaveat}
+                {text.racePageFundraisingFederalCaveat}
             </div>
         </div>
         

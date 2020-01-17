@@ -1,14 +1,15 @@
 const {min, max, sum} = require('d3-array')
 
 const {
-    reportingPeriodDict
+    reportingPeriodDict,
+    contributionLimitsByOffice
 } = require('./config.js')
 
 const {
     getDaysArray,
     sumAmount,
-    forGeneral,
-    forPrimary,
+    // forGeneral,
+    // forPrimary,
     makeCandidateKey,
     dateFormat,
 } = require('./functions.js')
@@ -37,10 +38,10 @@ module.exports.cleanStateContributions = function (contributions) {
         d.reporting_start = d['Reporting Period'].split(' to ')[0]
         d.reporting_end = d['Reporting Period'].split(' to ')[1]
     })
-    
-    
 
-    return contributions
+    // exclude in-kind contributions
+    cashContributions = contributions.filter(d => d['Amount Type'] === 'CA')
+    return cashContributions
 }
 
 module.exports.cleanStateExpenditures = function (expenditures){
@@ -87,22 +88,28 @@ module.exports.checkStateReportingPeriodCompleteness = function (candidates, con
     console.table(check)
 }
 
-module.exports.makeStateCandidateSummaries = function (candidates, contributions, expenditures){
+module.exports.makeStateCandidateSummaries = function (candidates, allSummaryTotals, allItemizedContributions, allItemizedExpenditures){
     const candidateSummaries = candidates.map(candidate => {
-        const candidateContributions = contributions.filter(d => d.Candidate === candidate.state_finance_data_name)
-        const candidateExpenditures = expenditures.filter(d => d.Candidate === candidate.state_finance_data_name)
-        const summaries = summarizeByCandidate(candidateContributions, candidateExpenditures)
+        // const office = candidate.officeTitle
+        // console.log('xx', office)
+        // const contributionLimit = contributionLimitsByOffice
 
-        const firstDate = min(candidateContributions.concat(candidateExpenditures), d => new Date(d['Date Paid']))
-        const lastDate = max(candidateContributions.concat(candidateExpenditures), d => new Date(d.reporting_end))
+        // TODO - clean whitespace in data prep step so .trim() isn't necessary here
+        const summaryTotals = allSummaryTotals.find(d => d.candidateName.trim() == candidate.state_finance_data_name)
+        const itemizedContributions = allItemizedContributions.filter(d => d.Candidate === candidate.state_finance_data_name)
+        const itemizedExpenditures = allItemizedExpenditures.filter(d => d.Candidate === candidate.state_finance_data_name)
+        const summaries = summarizeByCandidate(summaryTotals, itemizedContributions, itemizedExpenditures)
+
+        const firstDate = min(itemizedContributions.concat(itemizedExpenditures), d => new Date(d['Date Paid']))
+        const lastDate = max(itemizedContributions.concat(itemizedExpenditures), d => new Date(d.reporting_end))
         const dates = getDaysArray(new Date(firstDate), new Date(lastDate)).map(d => dateFormat(d))
-        const cumulativeContributions = runningTotalByDate(dates, candidateContributions, 'Fundraising', candidate)
-        const cumulativeExpenditures = runningTotalByDate(dates, candidateExpenditures, 'Spending', candidate)
-        const contributionsByZip = totalByZipcode(candidateContributions, candidate)
-        const contributionsByType = totalByType(candidateContributions, candidate)
+        const cumulativeContributions = runningTotalByDate(dates, itemizedContributions, 'Fundraising', candidate)
+        const cumulativeExpenditures = runningTotalByDate(dates, itemizedExpenditures, 'Spending', candidate)
+        const contributionsByZip = totalByZipcode(itemizedContributions, candidate)
+        const contributionsByType = totalByType(itemizedContributions, candidate)
 
         // testing
-        if ((candidateContributions.length > 0) && cumulativeContributions.length == 0) {
+        if ((itemizedContributions.length > 0) && cumulativeContributions.length == 0) {
             console.log('contribution running total error', candidate.state_finance_data_name)
         }
         
@@ -176,16 +183,33 @@ function totalByType(contributions, candidate){
         }
     })
 }
-function summarizeByCandidate(contributions, expenditures){
+function summarizeByCandidate(summary, contributions, expenditures){
     // Prep values for pull stats by candidate
-    const totalRaised = sumAmount(contributions)
-    const totalRaisedPrimary = sumAmount(forPrimary(contributions))
-    const totalRaisedGeneral = sumAmount(forGeneral(contributions))
-    const totalSpent = sumAmount(expenditures)
+   
+    if (!summary) console.log("A candidate is missing from state summary data... \nprobably Christi K")
+    const totalRaised = (summary && summary.receipts) || 0
+    const totalSpent = (summary && summary.expenditures) || 0
+    
+
+    const officeTitle = summary && summary.officeTitle
+
+    if (summary && !officeTitle in contributionLimitsByOffice) console.log('Missing office title', officeTitle)
+    const contributionLimit = contributionLimitsByOffice[officeTitle]
+
+    // TODO: Add cash on hand
+
+    // spending breakdown
+    const itemizedIndividual = sumAmount(contributions.filter(d => d.type2 === 'Individual donations'))
+    const itemizedCommittees = sumAmount(contributions.filter(d => d.type2 === 'Committee support'))
+    const itemizedSelfFinance = sumAmount(contributions.filter(d => d.type2 === 'Self financing'))
+    const unitemized = totalRaised - itemizedIndividual - itemizedCommittees - itemizedSelfFinance
+
+    if (unitemized < 0) console.log('WARN: unitemized remainder', unitemized)
 
     const individualContributions = contributions.filter(d => d.type2 === 'Individual donations')
     const numIndividualContributions = individualContributions.length
-    const averageIndividualContributionSize = sumAmount(individualContributions) / numIndividualContributions
+    // const averageIndividualContributionSize = sumAmount(individualContributions) / numIndividualContributions
+    const numIndividualContributionsAtLimit = individualContributions.filter(d => d.Amount >= contributionLimit).length
 
     const mtIndividualContributions = individualContributions
         .filter(d => d.State === 'MT')
@@ -198,23 +222,27 @@ function summarizeByCandidate(contributions, expenditures){
     
     return {
         totalRaised: Math.round(totalRaised),
-        totalRaisedPrimary: Math.round(totalRaisedPrimary),
-        totalRaisedGeneral: Math.round(totalRaisedGeneral),
+        // totalRaisedPrimary: Math.round(totalRaisedPrimary),
+        // totalRaisedGeneral: Math.round(totalRaisedGeneral),
         totalSpent: Math.round(totalSpent),
 
         testSum: sum(contributions, d => d['Amount']),
 
-        totalIndividual: sumAmount(contributions.filter(d => d.type2 === 'Individual donations')),
-        totalCommittees: sumAmount(contributions.filter(d => d.type2 === 'Committee support')),
-        totalSelfFinance: sumAmount(contributions.filter(d => d.type2 === 'Self financing')),
+        itemizedIndividual, 
+        itemizedCommittees, 
+        itemizedSelfFinance,
+        unitemized,
 
         numIndividualContributions,
-        averageIndividualContributionSize,
+        numIndividualContributionsAtLimit,
+        // averageIndividualContributionSize,
         percentIndividualFromMontana,
 
         numReportingPeriods,
         firstReportingDate,
         lastReportingDate,
+
+        contributionLimit,
     }
 }
 
