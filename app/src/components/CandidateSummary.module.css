@@ -138,6 +138,7 @@
     flex: 1 1 300px;
     display: flex;
     flex-direction: column;
+    padding: 0.25em 0.25em;
 
 }
 
@@ -152,9 +153,14 @@
 .name {
     font-size: 1.8em;
     line-height: 1em;
-    padding: 0.25em 0.25em;
+    
     font-weight: bold;
     /* text-align: center; */
+}
+
+.withdrawn {
+    color: #666;
+    font-style: italic;
 }
 
 .name a {

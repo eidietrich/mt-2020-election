@@ -75,6 +75,8 @@ class Table extends Component {
     }
 
     makeRow(d, i){
+        const rowClasses = this.props.rowClassTests && this.props.rowClassTests.map(test => test(d))
+        console.log(rowClasses.join(' '))
         const cells = this.props.columns.map(schema => {
             return <td
                 key={schema.header}
@@ -84,7 +86,7 @@ class Table extends Component {
             </td>
         })
         return <tr key={String(i)}
-            className={styles.row}>
+            className={`${styles.row} ${rowClasses.join(' ')}`}>
             {cells}
         </tr>
     }

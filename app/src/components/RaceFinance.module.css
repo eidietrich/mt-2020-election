@@ -14,6 +14,11 @@
     overflow: scroll;
 
 }
+.strikethrough {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+
 .oneThird {
     flex: 1 1 200px;
     min-width: 200px

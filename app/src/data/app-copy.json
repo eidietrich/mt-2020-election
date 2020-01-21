@@ -167,12 +167,13 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "withdrawal_date": "1/12/20",
       "state_finance_data_name": "Neill, Reilly",
       "photo_slug": "reilly-neill.png",
       "podcast_url": "",
       "web_url": "https://www.votereilly.com/",
       "fb_url": "https://www.facebook.com/Reilly2020/",
-      "text": "Neill, who represented Park County from 2013 to 2015, filed to run for governor June 8. A Livingston resident, she is the publisher of the publication Montana Press Monthly."
+      "text": "Neill, who represented Park County from 2013 to 2015, filed to run for governor June 8, 2019. A Livingston resident, she is the publisher of the publication Montana Press Monthly. She <a href=\"https://www.votereilly.com/post/reilly-neill-continuing-to-work-to-make-a-better-montana\">announced her departure for the race</a> Jan. 12, 2020."
     },
     {
       "position": "Governor",
@@ -401,13 +402,14 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Filed",
+      "withdrawal_date": "1/21/20",
       "state_finance_data_name": "",
       "fed_finance_data_name": "RAINS, MATTHEW",
       "photo_slug": "matt-rains.png",
       "podcast_url": "https://montanafreepress.org/2019/11/12/episode-44-us-house-candidate-matt-rains/",
       "web_url": "https://rainsformontana.com/",
       "fb_url": "https://www.facebook.com/RainsforMT/",
-      "text": "Rains, of Simms, is an Army veteran who owns a ranch, according to his campaign website. He filed to run for the U.S. House July 1."
+      "text": "Rains, of Simms, is an Army veteran who owns a ranch. He filed to run for the U.S. House July 1, 2019, then <a href=\"https://www.facebook.com/RainsforMT/posts/520863055302681?__xts__[0]=68.ARC0eNz-LA2KqCrZJq4VZt3H1BIPzodj36-RS33QMI16uOUxBxnftqx5gbKQm_9-c1-Q_lT0wu3M98qij4zuwZ8NHEEbMwycm9wCspuDKW75efO2XzXppeHwWioSYn0NfLmSPsKyJhLfvlZo4EV-m6ahAJEpDbCqVKOdyocrraLv10KZEvY5jr41i2CSnMT1BFYifHG-Fu7j0ne0DgiNC-xOdF6QseZKW_I7l6GFh4fBbo0EGtW0kS-gcQ-G0RBT8EkVmyHVbVyMYEw5qhPUKJNUc-UpLGPJW9k2GZaiEII0jgEQrl6wyYInP6mrkXD0Bs0z-YIxVI0KUTxvueU&__tn__=-R\">announced he was withdrawing to run for the Montana House</a> Jan. 21, 2020."
     },
     {
       "position": "U.S. House",
@@ -672,5 +674,5 @@
       "text": "Morigeau, a state representative from Missoula, announced his candidacy for state auditor June 30. He is a member of the Confederated Salish and Kootenai Tribes and has a law degree from the University of Montana."
     }
   ],
-  "lastUpdated": "2020-01-21T16:38:04.756Z"
+  "lastUpdated": "2020-01-21T19:03:02.226Z"
 }

@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from "gatsby"
 
 import Portrait from './Portrait'
+import CandidateMug from './CandidateMug'
 import PodcastLink from '../library/PodcastLink'
 
 import styles from './CandidateSummary.module.css'
@@ -17,15 +18,14 @@ const CandidateSummary = (props) => {
       <div className={styles.body}> 
         <div className={styles.container}>
           <div className={styles.portraitNameTitleGroup}>
-            <div className={styles.portrait}>
-            <Link to={makeCandidateUrl(candidate)}>
-              <Portrait filename={candidate.photo_slug} />
-            </Link>
-            </div>
+              <CandidateMug candidate={candidate}/>
             <div className={styles.nameTitleGroup}>
               {/* <div className={styles.title}>{candidate.current_title}</div> */}
               <div className={styles.name}>
                 <Link to={makeCandidateUrl(candidate)}>{candidate.first_name} {candidate.last_name}</Link>
+              </div>
+              <div className={styles.withdrawn}>
+                {candidate.withdrawal_date ? `Withdrew ${candidate.withdrawal_date}` : null}
               </div>
             </div>
           </div>

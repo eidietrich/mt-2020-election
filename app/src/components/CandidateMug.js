@@ -1,23 +1,32 @@
 import React from 'react'
+import { Link } from "gatsby"
+
 import Portrait from './Portrait'
+
+import {
+  getCandidateParty,
+  makeCandidateUrl
+} from '../logic/functions'
 
 import styles from './CandidateMug.module.css'
 
 const CandidateMug = (props) => {
-    const {candidate, party, handleSelect, handleReset, isSelected, suppressLabel} = props
-
-    const candidateContent = (<div 
-      className={`${styles.CandidateMug} ${isSelected ? styles.selected : null}`}
+    const {candidate} = props
+    const withdrawnStyle = candidate.withdrawal_date ? styles.withdrawn : null
+    const party = getCandidateParty(candidate)
+    const mug = (<div 
+      className={`${styles.CandidateMug} ${styles.button}`}
       style={{borderColor: party.color}} 
-      onClick={() => !isSelected ? handleSelect(candidate) : handleReset()}
       >
-      <div className={styles.mug}>
+      <div className={`${styles.mug} ${withdrawnStyle}`}>
         <Portrait filename={candidate.photo_slug}/>
       </div>
-      {(!suppressLabel) ? <div className={styles.name}>{candidate.last_name}</div> : null}
+      <div className={styles.name}>{candidate.last_name}</div>
     </div>)
-  
-    return candidateContent
+
+    return <Link to={makeCandidateUrl(candidate)} className={styles.mugLink}>
+      {mug}
+    </Link>
   
 }
 export default CandidateMug

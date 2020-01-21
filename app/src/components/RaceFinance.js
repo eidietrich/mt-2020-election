@@ -29,6 +29,11 @@ import {
 
 import styles from './RaceFinance.module.css'
 
+const rowClassTests = [
+    // functions that apply class to table row based on test condition
+    row => row.withdrawal_date ? styles.strikethrough : '',
+]
+
 const RaceFinance = (props) => {
     const {
         candidates,
@@ -182,6 +187,7 @@ const StateRaceFinance = (props) => {
                 defaultSort={((a,b) => b.finance.totalRaised - a.finance.totalRaised)}
                 columns={tableSchematicState}
                 rowData={candidates}
+                rowClassTests={rowClassTests}
             />
             <div className={styles.note}>
                 {text.racePageFundraisingStateCaveat}
@@ -244,7 +250,6 @@ const FederalRaceFinance = (props) => {
         text
         // raceCumulativeContributionSpec,
     } = props
-    console.log('text', text)
     // pull update date from most recent candidate
     const updateDate = new Date(candidates[0].finance.lastReportingDate)
     const noReportsFor = candidates.filter(d => d.finance.numReportingPeriods === 0)
@@ -285,6 +290,7 @@ const FederalRaceFinance = (props) => {
                 defaultSort={((a,b) => b.finance.totalRaised - a.finance.totalRaised)}
                 columns={tableSchematicFederal}
                 rowData={candidates}
+                rowClassTests={rowClassTests}
             />
             <div className={styles.note}>
                 {text.racePageFundraisingFederalCaveat}
