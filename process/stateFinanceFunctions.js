@@ -90,16 +90,12 @@ module.exports.checkStateReportingPeriodCompleteness = function (candidates, con
 
 module.exports.makeStateCandidateSummaries = function (candidates, allSummaryTotals, allItemizedContributions, allItemizedExpenditures){
     const candidateSummaries = candidates.map(candidate => {
-        // const office = candidate.officeTitle
-        // console.log('xx', office)
-        // const contributionLimit = contributionLimitsByOffice
 
         // TODO - clean whitespace in data prep step so .trim() isn't necessary here
-        const summaryTotals = allSummaryTotals.find(d => d.candidateName.trim() == candidate.state_finance_data_name)
+        const summaryTotals = allSummaryTotals.find(d => d.candidateName.trim() === candidate.state_finance_data_name)
         const itemizedContributions = allItemizedContributions.filter(d => d.Candidate === candidate.state_finance_data_name)
         const itemizedExpenditures = allItemizedExpenditures.filter(d => d.Candidate === candidate.state_finance_data_name)
         const summaries = summarizeByCandidate(summaryTotals, itemizedContributions, itemizedExpenditures)
-
         const firstDate = min(itemizedContributions.concat(itemizedExpenditures), d => new Date(d['Date Paid']))
         const lastDate = max(itemizedContributions.concat(itemizedExpenditures), d => new Date(d.reporting_end))
         const dates = getDaysArray(new Date(firstDate), new Date(lastDate)).map(d => dateFormat(d))
@@ -185,8 +181,7 @@ function totalByType(contributions, candidate){
 }
 function summarizeByCandidate(summary, contributions, expenditures){
     // Prep values for pull stats by candidate
-   
-    if (!summary) console.log("A candidate is missing from state summary data... \nprobably Christi K")
+    if (!summary) console.log("A candidate is missing from state summary data...")
     const totalRaised = (summary && summary.receipts) || 0
     const totalSpent = (summary && summary.expenditures) || 0
     
@@ -204,7 +199,13 @@ function summarizeByCandidate(summary, contributions, expenditures){
     const itemizedSelfFinance = sumAmount(contributions.filter(d => d.type2 === 'Self financing'))
     const unitemized = totalRaised - itemizedIndividual - itemizedCommittees - itemizedSelfFinance
 
-    if (unitemized < 0) console.log('WARN: unitemized remainder', unitemized)
+    if (unitemized < 0) console.log('WARN: unitemized remainder:\n',
+     summary,
+     '\nI:', itemizedIndividual,
+     '\nC:', itemizedCommittees,
+     '\nS:', itemizedSelfFinance,
+     '\nU:', unitemized,
+    )
 
     const individualContributions = contributions.filter(d => d.type2 === 'Individual donations')
     const numIndividualContributions = individualContributions.length

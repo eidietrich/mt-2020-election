@@ -88,7 +88,7 @@ class Summary:
     def _fetch_candidate_summaries(self, candidateId):
         reports = get_candidate_finance_reports_cleaned(candidateId)
         if len(reports) == 0:
-            print('Found no reports', candidateName, candidateId)
+            print('Found no reports', candidateId)
             return []
         candidateName = reports[0]['candidateName']
         print('Found', len(reports), 'reports for', candidateName, candidateId)
