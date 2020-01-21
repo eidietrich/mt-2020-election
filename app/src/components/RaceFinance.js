@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from 'gatsby'
 
-import ResponsiveVegaLite from '../library/ResponsiveVegaLite'
+// import ResponsiveVegaLite from '../library/ResponsiveVegaLite'
 import PullStatMain from '../library/PullStatMain'
 import Table from '../library/Table'
 

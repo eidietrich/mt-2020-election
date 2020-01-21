@@ -105,8 +105,6 @@ const StateCandidateFinance = (props) => {
         text,
     } = props
 
-    console.log(candidate)
-
     return <div className={styles.container}>
         <h2>Fundraising and campaign spending</h2>
         <div className={styles.note}>

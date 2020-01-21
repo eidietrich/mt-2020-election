@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from "gatsby"
 
-import Portrait from './Portrait'
 import CandidateMug from './CandidateMug'
 import PodcastLink from '../library/PodcastLink'
 
