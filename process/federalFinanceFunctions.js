@@ -34,7 +34,29 @@ Need to match state candidate summaries of form
 
 const candidateInfoList = getJson('./scrapers/fed-finance-reports/data/candidates.json')
 
-
+module.exports.checkFederalReportingPeriodCompleteness = function (candidates, contributions){
+    const names = candidates.map(d => d.fed_finance_data_name).filter(d => d !== '')
+    const check = names.map(name => {
+        const candidateInfo = candidateInfoList.find(d => d['CAND_NAME'] === name) || {}
+        if (!candidateInfo.CAND_PCC) console.log('No candidate info match')
+        const matches = contributions.filter(d => d.committee_id === candidateInfo.CAND_PCC)
+        const reportingPeriods = Array.from(new Set(matches.map(d => `${d.report_type}_${d.report_year}` ))).sort()
+        const reportingPeriodCounts = {}
+        reportingPeriods.forEach(key => {
+            const recordCount = matches.filter(d => `${d.report_type}_${d.report_year}` === key).length 
+            reportingPeriodCounts[key] = recordCount
+        })
+        return {
+            name,
+            committee: candidateInfo.CAND_PCC,
+            records: matches.length,
+            // periods: reportingPeriods.length,
+            ...reportingPeriodCounts,
+        }
+    })
+    console.log('\n### Federal candidate reporting periods:')
+    console.table(check)
+}
 
 
 // EXPORT FUNCTIONS

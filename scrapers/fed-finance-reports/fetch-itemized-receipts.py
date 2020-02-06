@@ -12,7 +12,7 @@ CANDIDATE_PATH = BASE_PATH + 'candidates.json' # rel to project root
 
 candidate_committee_ids = list(pd.read_json(CANDIDATE_PATH)['CAND_PCC'])
 print(candidate_committee_ids)
-# receipts = fetch_all_receipts(candidate_committee_ids)
+receipts = fetch_all_receipts(candidate_committee_ids)
 
 
 print('# Receipts', len(receipts))

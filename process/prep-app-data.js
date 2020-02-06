@@ -21,6 +21,7 @@ const {
 const {
     // testing
     checkFederalCandidateMatches,
+    checkFederalReportingPeriodCompleteness,
     // processing
     makeFederalCandidateSummaries
 } = require('./federalFinanceFunctions.js')
@@ -87,23 +88,24 @@ ${ activeCandidates.length - activeFederalCandidates.length - activeStateCandida
 checkStateCandidateMatches(activeStateCandidates, stateContributions)
 checkFederalCandidateMatches(activeFederalCandidates, federalFinanceTotals)
 checkStateReportingPeriodCompleteness(activeStateCandidates, stateContributions)
+checkFederalReportingPeriodCompleteness(activeFederalCandidates, federalContributions)
 
 // perform aggregation calcs
-console.log(
-    `\n## State Finance:
-    Processing ${stateContributions.length} contributions, ${stateExpenditures.length} expenditures
-    `)
+// console.log(
+//     `\n## State Finance:
+//     Processing ${stateContributions.length} contributions, ${stateExpenditures.length} expenditures
+//     `)
 const stateFinanceSummaries = makeStateCandidateSummaries(activeStateCandidates, stateFinanceTotals, stateContributions, stateExpenditures)
-console.log(
-    `\n## Federal Finance:
-    Processing ${federalContributions.length} contributions, ${federalExpenditures.length} expenditures
-    `)
+// console.log(
+//     `\n## Federal Finance:
+//     Processing ${federalContributions.length} contributions, ${federalExpenditures.length} expenditures
+//     `)
 const federalFinanceSummaries = makeFederalCandidateSummaries(activeFederalCandidates, federalFinanceTotals, federalContributions, federalExpenditures)
 
 const financeSummaries = stateFinanceSummaries.concat(federalFinanceSummaries)
 
 // post-processing tests
-checkStateCandidateFundraising(stateFinanceSummaries)
+// checkStateCandidateFundraising(stateFinanceSummaries)
 
 const preppedData = {
     finance: financeSummaries
