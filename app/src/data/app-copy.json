@@ -184,12 +184,13 @@
       "incumbent": "FALSE",
       "residence": "",
       "status": "Announced",
+      "withdrawal_date": "2/3/2020",
       "state_finance_data_name": "Schreiner, Casey  J",
       "photo_slug": "casey-schreiner.png",
       "podcast_url": "",
       "web_url": "https://caseyformontana.com/",
       "fb_url": "https://www.facebook.com/SchreinerforMT/",
-      "text": "Schreiner is a four-term representative who served in minority House leadership during the 2015 and 2017 legislative sessions. He is termed-out of the House in 2020. Schreiner is a former science teacher who now serves as director of the Montana State Workforce Innovation Board."
+      "text": "Schreiner is a four-term representative who served in minority House leadership during the 2015 and 2017 legislative sessions. He is termed-out of the House in 2020. Schreiner is a former science teacher who now serves as director of the Montana State Workforce Innovation Board. He <a href=\"https://helenair.com/news/state-and-regional/govt-and-politics/casey-schreiner-ends-montana-gubernatorial-campaign/article_e5eb9e2f-1acc-5748-ad24-8a5948ce8079.html\">announced he was ending his campaign</a> Feb. 3, saying he wasn’t raising enough money to be competitive in the gubernatorial contest."
     },
     {
       "position": "Governor",
@@ -392,6 +393,23 @@
       "web_url": "https://mattformontana.com/",
       "fb_url": "https://www.facebook.com/MattForMontana/",
       "text": "Rosendale, of Glendive, announced on June 17 that he would run for the U.S. House. Elected state auditor in 2016, he made an unsuccessful run against U.S. Sen. Jon Tester in 2018."
+    },
+    {
+      "position": "U.S. House",
+      "party": "R",
+      "first_name": "John",
+      "last_name": "Evankovich",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "residence": "Butte",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "fed_finance_data_name": "",
+      "photo_slug": "john-evankovich-png",
+      "podcast_url": "",
+      "web_url": "",
+      "fb_url": "",
+      "text": "Evankovich, of Butte, filed for U.S. House with the Montana Secretary of State Jan. 9. He doesn’t appear to have a website or campaign social media presence and as of Feb. 6 hadn’t registered as a candidate with the Federal Election Commission."
     },
     {
       "position": "U.S. House",
@@ -674,5 +692,5 @@
       "text": "Morigeau, a state representative from Missoula, announced his candidacy for state auditor June 30. He is a member of the Confederated Salish and Kootenai Tribes and has a law degree from the University of Montana."
     }
   ],
-  "lastUpdated": "2020-01-21T19:03:02.226Z"
+  "lastUpdated": "2020-02-06T17:49:09.358Z"
 }

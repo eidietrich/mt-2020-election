@@ -8,6 +8,11 @@ import styles from './LinksList.module.css'
 
 const LinksList = (props) => {
     const { links, featuredFilter } = props
+    if (links.length == 0) return <div className={styles.container}>
+        <h2>Media coverage</h2>
+        <div className={styles.note}>No stories currently in our database</div>
+    </div> 
+
     return <div className={styles.container}>
         <h2>Media coverage</h2>
         {
