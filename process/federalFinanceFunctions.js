@@ -1,4 +1,4 @@
-const { sum, min } = require('d3-array')
+const { sum, min, max } = require('d3-array')
 
 const {
     contributionLimitsByOffice
@@ -92,15 +92,11 @@ module.exports.makeFederalCandidateSummaries = function (candidates, fundraising
         const individualContributionsAtLimit = individualContributions.filter(d => d.contribution_receipt_amount >= contributionLimit)
 
 
-        const firstDate = min(candidateContributions, d => d.contribution_receipt_date)
-        const lastDate = fundraisingSummary.CVG_END_DT
-        const dates = getDaysArray(new Date(firstDate), new Date(lastDate)).map(d => dateFormat(d))
+        const firstItemizedDate = min(candidateContributions, d => d.contribution_receipt_date)
+        const coverageEndDate = fundraisingSummary.CVG_END_DT
+        const dates = getDaysArray(new Date(firstItemizedDate), new Date(coverageEndDate)).map(d => dateFormat(d))
 
-        // Summary columns
-        // itemizedIndividual
-        // itemizedCommittee
-        // itemizedSelfFinance
-        // unitemized
+        const lastItemizedDate = max(candidateContributions, d => d.contribution_receipt_date)
 
         const summaries = {
             federalCandidateId: fundraisingSummary.CAND_ID || null,
@@ -122,7 +118,8 @@ module.exports.makeFederalCandidateSummaries = function (candidates, fundraising
             percentIndividualFromMontana: percentIndividualFromMontana,
             numReportingPeriods: (fundraisingSummary.TTL_RECEIPTS ? 1 : 0), // TEMP - add actual value from itemized
             firstReportingDate: null, // NOT IN FEC SUMMARY
-            lastReportingDate: fundraisingSummary.CVG_END_DT || 'None',
+            lastReportingDate: coverageEndDate,
+            lastItemizedReportingDate: lastItemizedDate,
 
             contributionLimit
         }
