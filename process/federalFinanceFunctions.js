@@ -96,6 +96,12 @@ module.exports.makeFederalCandidateSummaries = function (candidates, fundraising
         const lastDate = fundraisingSummary.CVG_END_DT
         const dates = getDaysArray(new Date(firstDate), new Date(lastDate)).map(d => dateFormat(d))
 
+        // Summary columns
+        // itemizedIndividual
+        // itemizedCommittee
+        // itemizedSelfFinance
+        // unitemized
+
         const summaries = {
             federalCandidateId: fundraisingSummary.CAND_ID || null,
             federalCandidateCommitteeId: committeeId,

@@ -58,6 +58,7 @@ cand_cols = [
 def get_campaign_summaries(candidate_ids, BASE_PATH):
     # JUST for 2019-20 period
     url = 'https://www.fec.gov/files/bulk-downloads/2020/webl20.zip'
+    # Data dictionary: https://www.fec.gov/campaign-finance-data/current-campaigns-house-and-senate-file-description/
     local_path = BASE_PATH + 'candidate-committee-summaries-20.zip'
     download_large_file(url, local_path)
     names = [
@@ -72,5 +73,4 @@ def get_campaign_summaries(candidate_ids, BASE_PATH):
     ]
     df = pd.read_csv(local_path, delimiter="|", header=None, names=names)
     df = df[df['CAND_ID'].isin(candidate_ids)]
-#     df.to_json('data/mt-2020-candidate-committee-summaries.json', orient='records')
     return df

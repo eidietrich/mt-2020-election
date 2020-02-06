@@ -55,7 +55,7 @@
   "candidatePageFundraisingStateCaveat": "Note: Self-financing includes candidate contributions and campaign loans. Prior to Jan. 17, 2019, these figures underreported fundraising for state candidates by omitting unitemized contributions. Unitemized contribution totals, which include small-dollar donations, are calculated here by subtracting itemized cash contributions from reported fundraising totals.",
   "candidatePageFundraisingFederalCaveat": "Note: Fundraising components shown here don't necessarily sum to total fundraising because of miscellaneous receipts and accounting adjustments. Self-financing includes candidate contributions and campaign loans.",
   "candidatePageIndividualStateCaveat": "Note: Individual donors are limited to giving $710 per election to gubernatorial candidates and $360 per election to candidates for other statewide offices, with the primary and general contests counted as separate elections.",
-  "candidatePageIndividualFederalCaveat": "Note: Average contribution size represents itemized individual contributions reported in candidate committee filings with the FEC, with duplicate entries removed. Small individual donations totalling $200 or less may not be included in the average. Individual contributions to federal candidates are limited to $2,800.",
+  "candidatePageIndividualFederalCaveat": "Note: Small individual donors totalling $200 or less in contributions aren’t necessarily reported in itemized data used for map. Individual contributions to federal candidates are limited to $2,800.",
   "races": [
     {
       "position": "Governor",
@@ -692,5 +692,5 @@
       "text": "Morigeau, a state representative from Missoula, announced his candidacy for state auditor June 30. He is a member of the Confederated Salish and Kootenai Tribes and has a law degree from the University of Montana."
     }
   ],
-  "lastUpdated": "2020-02-06T17:49:09.358Z"
+  "lastUpdated": "2020-02-06T20:59:55.073Z"
 }
