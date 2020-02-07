@@ -193,15 +193,11 @@ const FederalCandidateFinance = (props) => {
         text
     } = props
     const fecUrl = `https://www.fec.gov/data/candidate/${candidate.finance.federalCandidateId}/?cycle=2020&election_full=false`
-    console.log('lastReportingDate', candidate.finance.lastReportingDate)
 
     const itemizedReportingNote = candidate.finance.lastItemizedReportingDate ?
         `Map data current through ${dateFormat(new Date(candidate.finance.lastItemizedReportingDate))}. Official itemized data from the FEC can be unavailable for days or weeks following quarterly campaign filing deadlines.` :
         `No itemized data available from the FEC as of last election guide update. Official itemized data from the FEC can be unavailable for days or weeks following quarterly campaign filing deadlines.`
     
-    const lastItemizedReportingDate = candidate.finance.lastItemizedReportingDate ? dateFormat(new Date(candidate.finance.lastItemizedReportingDate)) : 'No itemized data'
-    console.log('lastItemizedReportingDate', lastItemizedReportingDate)
-
     return <div className={styles.container}>
         <h2>Campaign finance</h2>
         <div className={styles.note}>As a federal candidate, {candidate.last_name} has a campaign committee that files financial reports with the <a href="https://www.fec.gov/">Federal Election Commission</a>. Data shown here, current through {dateFormat(new Date(candidate.finance.lastReportingDate))}, is pulled <a href={fecUrl}>from the FEC website</a> for the 2019-20 election cycle.</div>

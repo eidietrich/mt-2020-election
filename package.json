@@ -34,7 +34,9 @@
     "deploy:demo": "(cd app && gatsby build) && aws s3 sync app/public s3://mtfp-election-demo",
     "deploy:prod-tk": "cd app && gatsby build --prefix-paths && aws s3 sync public s3://apps.montanafreepress.org/montana-2020",
     "deploy:prod": "(cd app; gatsby build --prefix-paths && rm -r ./montana-2020 ||: && mv ./public ./montana-2020 && lftp -c \"open sftp://ericdietrich@sftp.flywheelsites.com/mtfpeditor/montana-free-press/apps; mirror -eR montana-2020/\")",
-    
+    "sync": "aws s3 sync app/public s3://apps.montanafreepress.org/montana-2020 --delete",
+
+
     "check:state-candidates": "python3 scrapers/state-finance-reports/check-candidate-updates.py",
     "check:state-filings": "python3 scrapers/state-finance-reports/check-report-updates.py",
     "fetch:state-filings": "python3 scrapers/state-finance-reports/fetch-finance-reports.py && python3 scrapers/state-finance-reports/clean.py",
