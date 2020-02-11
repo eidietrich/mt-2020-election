@@ -95,3 +95,5 @@ Candidate info feed - components
 
 Dockerize build process + rebuild w/ github action
 
+## App Secrets
+- npm cache clearing script expects the Cloudfront distribution ID in `$CLOUDFRONT_DIST`

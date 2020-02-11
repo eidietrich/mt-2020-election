@@ -6,8 +6,8 @@ module.exports = {
     siteUrl:`https://www.montanafreepress.org/apps/montana-2020`,
     keywords: ['Montana','election','2020','votes','politics','U.S. Senate','Governor','U.S. House','congress']
   },
-  pathPrefix: `/apps/montana-2020`, // old hosting
-  // pathPrefix: `/montana-2020`, // for S3
+  // pathPrefix: `/apps/montana-2020`, // old hosting
+  pathPrefix: `/montana-2020`, // for S3
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
