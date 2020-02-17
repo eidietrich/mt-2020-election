@@ -11,7 +11,6 @@ const presentDate = date => date ? dateFormat(new Date(date)) : null
 
 const LinksList = (props) => {
     const { links, featuredFilter } = props
-    console.log('links', links)
     if (links.length === 0) return <div className={styles.container}>
         <h2>Media coverage</h2>
         <div className={styles.note}>No stories currently in our database</div>

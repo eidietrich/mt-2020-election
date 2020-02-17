@@ -268,7 +268,7 @@
       "Residence": "Bozeman",
       "status": "Announced",
       "state_finance_data_name": "",
-      "fed_finance_data_name": "KNOLES, MICHAEL CHANTRY",
+      "fed_finance_data_name": "KNOLES, MIKE",
       "photo_slug": "michael-knoles.png",
       "podcast_url": "",
       "web_url": "",
@@ -404,12 +404,12 @@
       "residence": "Butte",
       "status": "Announced",
       "state_finance_data_name": "",
-      "fed_finance_data_name": "",
+      "fed_finance_data_name": "EVANKOVICH, JOHN DAVID",
       "photo_slug": "john-evankovich-png",
       "podcast_url": "",
       "web_url": "",
       "fb_url": "",
-      "text": "Evankovich, of Butte, filed for U.S. House with the Montana Secretary of State Jan. 9. He doesn’t appear to have a website or campaign social media presence and as of Feb. 6 hadn’t registered as a candidate with the Federal Election Commission."
+      "text": "Evankovich, of Butte, filed for U.S. House with the Montana Secretary of State Jan. 9 and the Federal Election Commission Feb. 15. As of Feb. 17, he didn’t appear to have a website or campaign social media presence."
     },
     {
       "position": "U.S. House",
@@ -692,5 +692,5 @@
       "text": "Morigeau, a state representative from Missoula, announced his candidacy for state auditor June 30. He is a member of the Confederated Salish and Kootenai Tribes and has a law degree from the University of Montana."
     }
   ],
-  "lastUpdated": "2020-02-17T20:18:09.523Z"
+  "lastUpdated": "2020-02-17T20:47:49.796Z"
 }
