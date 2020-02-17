@@ -28,7 +28,12 @@ activeCandidates.forEach(candidate => {
 })
 
 races.forEach(race => {
-    race.coverageLinks = coverageLinks.filter(link => link.race === makeRaceKey(race))
+    // collect media coverage links and deduplicate
+    // Will pull in first entry
+    const withDuplicates = coverageLinks.filter(link => link.race === makeRaceKey(race))
+    const uniqueUrls = Array.from(new Set(withDuplicates.map(d => d.link)))
+    const deduped = uniqueUrls.map(url => withDuplicates.find(d => d.link === url))
+    race.coverageLinks = deduped
 })
 
 exports.createPages = async({ actions: { createPage } }) => {

@@ -6,8 +6,12 @@ import {
 
 import styles from './LinksList.module.css'
 
+// Handles null dates from improperly parsed links
+const presentDate = date => date ? dateFormat(new Date(date)) : null
+
 const LinksList = (props) => {
     const { links, featuredFilter } = props
+    console.log('links', links)
     if (links.length === 0) return <div className={styles.container}>
         <h2>Media coverage</h2>
         <div className={styles.note}>No stories currently in our database</div>
@@ -46,7 +50,7 @@ const FeaturedLink = (props) => {
     return <a className={`${styles.link} ${styles.featured}`} href={url}>
         <div className={styles.dek}>{dek}</div>
         <div className={styles.title}>{title}</div>
-        <div className={styles.date}>{dateFormat(new Date(date))}</div>
+        <div className={styles.date}>{presentDate(date)}</div>
     </a>
 
 }
@@ -56,6 +60,6 @@ const BasicLink = (props) => {
     return <a className={`${styles.link} ${styles.basic}`} href={url}>
         <div className={styles.dek}>{dek}</div>
         <div className={styles.title}>{title}</div>
-        <div className={styles.date}>{dateFormat(new Date(date))}</div>
+        <div className={styles.date}>{presentDate(date)}</div>
     </a>
 }
