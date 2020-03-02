@@ -108,7 +108,7 @@
       "podcast_url": "",
       "web_url": "https://foxforgovernor.com/",
       "fb_url": "https://www.facebook.com/foxforgovernor/",
-      "text": "Fox, wrapping up his second four-year term as Montana’s attorney general, announced his campaign for governor in January. Originally from Hardin, he has a University of Montana law degree and formerly worked as an attorney in private practice."
+      "text": "Fox, wrapping up his second four-year term as Montana’s attorney general, announced his campaign for governor in January. Originally from Hardin, he has a University of Montana law degree and formerly worked as an attorney in private practice. He has named former state Rep. Jon Knokey of Bozeman as his running mate."
     },
     {
       "position": "Governor",
@@ -124,7 +124,7 @@
       "podcast_url": "",
       "web_url": "https://gregformontana.com/",
       "fb_url": "https://www.facebook.com/RepGianforte/",
-      "text": "Gianforte was the Republican nominee for governor in 2016, but failed to derail Gov. Steve Bullock’s re-election bid. Entering politics after founding and selling RightNow Technologies in Bozeman, he was elected to the U.S. House in the 2017 special election and re-elected to a two-year term in 2019. He was also <a href=\"https://www.bozemandailychronicle.com/news/crime/gianforte-sentenced-to-anger-management-community-service-for-assault-of/article_b6e6241e-e1a3-56fe-a32a-6a02ba234129.html\">convicted of misdemeanor assault</a> for attacking a reporter during his 2017 run. Gianforte filed to run for Montana governor a second time June 7."
+      "text": "Gianforte was the Republican nominee for governor in 2016, but failed to derail Gov. Steve Bullock’s re-election bid. Entering politics after founding and selling RightNow Technologies in Bozeman, he was elected to the U.S. House in the 2017 special election and re-elected to a two-year term in 2019. He was also <a href=\"https://www.bozemandailychronicle.com/news/crime/gianforte-sentenced-to-anger-management-community-service-for-assault-of/article_b6e6241e-e1a3-56fe-a32a-6a02ba234129.html\">convicted of misdemeanor assault</a> for attacking a reporter during his 2017 run. Gianforte filed to run for Montana governor a second time June 7. He has named University of Montana law professor Kristen Juras as his running mate."
     },
     {
       "position": "Governor",
@@ -140,7 +140,7 @@
       "podcast_url": "https://montanafreepress.org/2019/11/26/episode-46-montana-gubernatorial-candidate-al-olszewski/",
       "web_url": "https://alformontana.com/",
       "fb_url": "https://www.facebook.com/alformontana/",
-      "text": "Olszewski, an orthopedic surgeon and state senator from Kalispell, announced his gubernatorial campaign in April. He previously ran for the U.S. Senate in 2018, placing fourth in the Republican primary."
+      "text": "Olszewski, an orthopedic surgeon and state senator from Kalispell, announced his gubernatorial campaign in April. He previously ran for the U.S. Senate in 2018, placing fourth in the Republican primary. He has named fellow state senator Ken Bognar, of Miles City, as his running mate."
     },
     {
       "position": "Governor",
@@ -156,7 +156,7 @@
       "podcast_url": "",
       "web_url": "https://www.cooneyformontana.com/",
       "fb_url": "https://www.facebook.com/CooneyForMT/",
-      "text": "Cooney, a former Montana legislator and secretary of state from Butte, <a href=\"http://governor.mt.gov/About/Lieutenant-Governor\">has been Bullock’s lieutenant governor</a> since 2016. He announced his campaign July 3."
+      "text": "Cooney, a former Montana legislator and secretary of state from Butte, <a href=\"http://governor.mt.gov/About/Lieutenant-Governor\">has been Bullock’s lieutenant governor</a> since 2016. He announced his campaign July 3. He has named former gubernatorial candidate and House Minority Leader Casey Schreiner, of Great Falls, as his running mate."
     },
     {
       "position": "Governor",
@@ -206,7 +206,23 @@
       "podcast_url": "",
       "web_url": "https://whitneyformontana.com/",
       "fb_url": "https://www.facebook.com/WhitneyforMontana/",
-      "text": "Williams, of Missoula, announced her candidacy Oct. 3. She is the daughter of longtime Montana Congressman Pat Williams and Carol Williams, who was the first woman to serve as Montana Senate majority leader. She is also the founder and CEO of <a href=\"http://williamsworks.com/about/\">williamsworks</a>, a Missoula-based philanthropic consulting firm."
+      "text": "Williams, of Missoula, announced her candidacy Oct. 3. She is the daughter of longtime Montana Congressman Pat Williams and Carol Williams, who was the first woman to serve as Montana Senate majority leader. She is also the founder and CEO of <a href=\"http://williamsworks.com/about/\">williamsworks</a>, a Missoula-based philanthropic consulting firm. She has named ag leader Buzz Mattelin of Culbertson as her running mate."
+    },
+    {
+      "position": "Governor",
+      "party": "L",
+      "first_name": "Lyman",
+      "last_name": "Bishop",
+      "current_title": "Business owner",
+      "incumbent": "FALSE",
+      "residence": "",
+      "status": "Announced",
+      "state_finance_data_name": "Lyman, Bishop J",
+      "photo_slug": "lyman-bishop.png",
+      "podcast_url": "",
+      "web_url": "https://www.lyman2020.com/",
+      "fb_url": "",
+      "text": "Bishop, who owns Hoplite Armor in Kalispell, filed with the Montana Secretary of State Feb. 20. He has named John Nesper as his running mate."
     },
     {
       "position": "Governor",
@@ -240,6 +256,23 @@
       "web_url": "https://www.stevedaines.com/",
       "fb_url": "https://www.facebook.com/SteveDainesMT/",
       "text": "Daines, who worked for Greg Gianforte as an executive at the Bozeman company RightNow Technologies, was Montana’s U.S. representative during the 2012 term, and was elected to the Senate in 2014. He has said he plans to seek re-election to a second term in 2020."
+    },
+    {
+      "position": "U.S. Senate",
+      "party": "R",
+      "first_name": "Dan",
+      "last_name": "Larson",
+      "current_title": "Business owner",
+      "incumbent": "FALSE",
+      "residence": "",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "fed_finance_data_name": "",
+      "photo_slug": "dan-larson.png",
+      "podcast_url": "",
+      "web_url": "",
+      "fb_url": "https://www.facebook.com/Dan-Larson-for-Montana-106854634239959/",
+      "text": "Larson, of Stevensville, announced his primary challenge to Daines in February. A hardware store owner and political newcomer, <a href=\"https://www.ktvh.com/news/montana-news/unknown-republican-enters-mts-u-s-senate-race-challenging-daines\">told MTN News</a> he thinks the race needs a conservative who believes in true Christian values, limited government and responsible spending."
     },
     {
       "position": "U.S. Senate",
@@ -308,6 +341,23 @@
       "web_url": "https://coraformontana.com",
       "fb_url": "https://www.facebook.com/CoraForMontana/",
       "text": "Neumann, of Bozeman, announced her candidacy Oct. 1. Raised in Bozeman, she spent much of her career working in global public health. She also founded the <a href=\"https://www.gfla.org/about/\">Global First Ladies Alliance</a>."
+    },
+    {
+      "position": "U.S. Senate",
+      "party": "D",
+      "first_name": "Josh",
+      "last_name": "Seckinger",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "Residence": "Bozeman",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "fed_finance_data_name": "",
+      "photo_slug": "josh-seckinger.png",
+      "podcast_url": "",
+      "web_url": "",
+      "fb_url": "https://www.facebook.com/SeckForSenate/",
+      "text": "Seckinger, of Bozeman, announced his candidacy Feb. 18. A fly-fishing guide, he has lived in Bozeman since 2009 and describes himself as a “working-class Montanan” who has “never had a full-time job with benefits,” <a href=\"https://www.bozemandailychronicle.com/news/elections/another-bozeman-candidate-enters-democratic-race-for-u-s-senate/article_8ac3e3fd-494d-5778-ad6d-08ddfaa7d6cf.html\">according to the Bozeman Daily Chronicle</a>."
     },
     {
       "position": "U.S. House",
@@ -405,11 +455,28 @@
       "status": "Announced",
       "state_finance_data_name": "",
       "fed_finance_data_name": "EVANKOVICH, JOHN DAVID",
-      "photo_slug": "john-evankovich-png",
+      "photo_slug": "john-evankovich.png",
       "podcast_url": "",
       "web_url": "",
       "fb_url": "",
-      "text": "Evankovich, of Butte, filed for U.S. House with the Montana Secretary of State Jan. 9 and the Federal Election Commission Feb. 15. As of Feb. 17, he didn’t appear to have a website or campaign social media presence."
+      "text": "Evankovich, of Butte, filed for U.S. House with the Montana Secretary of State Jan. 9 and the Federal Election Commission Feb. 15. As of March 2, he didn’t appear to have a website or campaign social media presence."
+    },
+    {
+      "position": "U.S. House",
+      "party": "R",
+      "first_name": "Mark",
+      "last_name": "McGinley",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "residence": "Dillon",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "fed_finance_data_name": "",
+      "photo_slug": "mark-mcginley.png",
+      "podcast_url": "",
+      "web_url": "http://markmcginley2020.com/",
+      "fb_url": "https://www.facebook.com/markmcginley2020/",
+      "text": "McGinley, of Dillon, filed for U.S. House with the Montana Secretary of State Feb. 26."
     },
     {
       "position": "U.S. House",
@@ -677,6 +744,22 @@
     },
     {
       "position": "State Auditor",
+      "party": "R",
+      "first_name": "Scott",
+      "last_name": "Tuxbury",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "residence": "",
+      "status": "Announced",
+      "state_finance_data_name": "Tuxbury, Scott Lee",
+      "photo_slug": "scott-tuxbury.png",
+      "podcast_url": "",
+      "web_url": "https://tuxformt.com/",
+      "fb_url": "https://www.facebook.com/TuxforMT/",
+      "text": "Tuxbury, of Missoula, announced his candidacy Feb. 17 with an <a href=\"https://twitter.com/TuxforMT/status/1229458973973192704/photo/1\">announcement</a> touting his long experience in the insurance industry."
+    },
+    {
+      "position": "State Auditor",
       "party": "D",
       "first_name": "Shane",
       "last_name": "Morigeau",
@@ -692,5 +775,5 @@
       "text": "Morigeau, a state representative from Missoula, announced his candidacy for state auditor June 30. He is a member of the Confederated Salish and Kootenai Tribes and has a law degree from the University of Montana."
     }
   ],
-  "lastUpdated": "2020-02-17T20:47:49.796Z"
+  "lastUpdated": "2020-03-02T19:03:22.160Z"
 }

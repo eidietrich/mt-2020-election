@@ -31,7 +31,7 @@
     "local:demo": "(cd app && gatsby build) && serve app/public",
     "deploy:demo": "(cd app && gatsby build) && aws s3 sync app/public s3://mtfp-election-demo",
     "deploy:prod": "(cd app && gatsby build --prefix-paths && aws s3 sync public s3://apps.montanafreepress.org/montana-2020 --delete)",
-    "deploy:clear-cache": "aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DIST --paths \"/montana-2020/*\"",
+    "deploy:clear-cache": "aws cloudfront create-invalidation --distribution-id E3LVPS3XLJHLL5 --paths \"/montana-2020/*\"",
     "sync": "aws s3 sync app/public s3://apps.montanafreepress.org/montana-2020 --delete",
     "check:state-candidates": "python3 scrapers/state-finance-reports/check-candidate-updates.py",
     "check:state-filings": "python3 scrapers/state-finance-reports/check-report-updates.py",
