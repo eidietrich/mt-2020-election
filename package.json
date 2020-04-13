@@ -29,6 +29,7 @@
     "refresh:links": "node scrapers/coverage-outside/fetch-coverage-list.js && node process/prep-outside-links.js",
     "refresh:text": "node scrapers/app-copy/fetch-app-copy.js",
     "local:demo": "(cd app && gatsby build) && serve app/public",
+    "deploy": "npm run deploy:prod && npm run deploy:clear-cache",
     "deploy:demo": "(cd app && gatsby build) && aws s3 sync app/public s3://mtfp-election-demo",
     "deploy:prod": "(cd app && gatsby build --prefix-paths && aws s3 sync public s3://apps.montanafreepress.org/montana-2020 --delete)",
     "deploy:clear-cache": "aws cloudfront create-invalidation --distribution-id E3LVPS3XLJHLL5 --paths \"/montana-2020/*\"",

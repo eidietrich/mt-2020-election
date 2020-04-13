@@ -16,6 +16,7 @@ const RaceCandidateSummary = (props) => {
         const partyCandidates = candidates
           .filter(d => !excludeStatuses.includes(d.status))
           .filter(d => d.party === party.key)
+          .sort((a,b) => a.withdrawal_date ? 1 : -1)
         return <Primary key={party.key}
           name={party.name}
           candidates={partyCandidates}

@@ -35,14 +35,23 @@ async function main(){
     checkForBadMatches(rawStories)
 
     const metadataEnhancedStories = rawStories.map(async story => {
-        const metadata = await fetchMetadata(story.link)
-        return {
-            ...story,
-            title: metadata.title,
-            date: metadata.date,
-            author: metadata.author,
-            imageUrl: metadata.image,
-            description: metadata.description
+        try {
+            const metadata = await fetchMetadata(story.link)
+            return {
+                ...story,
+                title: metadata.title,
+                date: metadata.date,
+                author: metadata.author,
+                imageUrl: metadata.image,
+                description: metadata.description
+            }
+        }
+        catch (err) {
+            console.log(
+                err.name,
+                err.url,
+                // Object.keys(err)
+                )
         }
     })
 

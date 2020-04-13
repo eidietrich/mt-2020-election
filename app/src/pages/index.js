@@ -57,6 +57,8 @@ const Race = (props) => {
     .map(party => {
       const partyCandidates = filterToActive(candidates)
         .filter(d => d.party === party.key)
+        .sort((a,b) => a.withdrawal_date ? 1 : -1)
+      console.log(partyCandidates)
       return <Primary key={party.key}
         name={party.name}
         candidates={partyCandidates}
