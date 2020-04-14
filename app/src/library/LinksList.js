@@ -9,18 +9,28 @@ import styles from './LinksList.module.css'
 // Handles null dates from improperly parsed links
 const presentDate = date => date ? dateFormat(new Date(date)) : null
 
+const dedupeTitles = (links) => {
+    const sorted = links.sort((a,b) => new Date(b.date) - new Date(a.date))
+    const uniqueTitles = Array.from(new Set(sorted.map(d => d.title)))
+    return uniqueTitles.map(title => sorted.find(d => title === d.title))
+}
+
 const LinksList = (props) => {
     const { links, featuredFilter } = props
+    
     if (links.length === 0) return <div className={styles.container}>
         <h2>Media coverage</h2>
         <div className={styles.note}>No stories currently in our database</div>
     </div> 
 
+    const deduped = dedupeTitles(links)
+
     return <div className={styles.container}>
         <h2>Media coverage</h2>
         {
-            links
+            deduped
                 .filter(featuredFilter)
+                .sort((a,b) => new Date(b.date) - new Date(a.date))
                 .map((link, i) => <FeaturedLink 
                     key={String(i)}
                     url={link.link}
@@ -30,8 +40,9 @@ const LinksList = (props) => {
                 />)
         }
         {
-            links
+            deduped
                 .filter((d) => !featuredFilter(d)) // invert
+                .sort((a,b) => new Date(b.date) - new Date(a.date))
                 .map((link, i) => <BasicLink
                     key={String(i)}
                     url={link.link}
