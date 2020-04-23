@@ -122,7 +122,7 @@ class Summary:
         return parsed
 
     def _fetch_summary_report(self, reportId, candidateId):
-        post_url = 'https://camptrackext.mt.gov/CampaignTracker/public/viewFinanceReport/retrieveReport'
+        post_url = 'https://cers-ext.mt.gov/CampaignTracker/public/viewFinanceReport/retrieveReport'
         post_payload = {
             'candidateId': candidateId,
             'reportId': reportId,

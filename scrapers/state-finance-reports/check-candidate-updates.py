@@ -5,8 +5,11 @@
 run as: python3 scrapers/state-finance-reports/check-candidate-updates.py
 """
 
+import pandas as pd # only for logging
+
 from functions import open_json
 from functions import get_candidate_list_cleaned
+
 
 reference_path = './scrapers/state-finance-reports/data/candidates.json' # rel to project root
 
@@ -47,8 +50,8 @@ def check_candidates_for_updates(candidates, archive_path):
     dropped_candidates = [c for c in prev_candidates if c['candidateId'] not in cur_ids]
     
     return {
-        'added': [c['candidateName'] for c in added_candidates],
-        'dropped': [c['candidateName'] for c in dropped_candidates],
+        'added': ['"' + c['candidateName'] + '"' for c in added_candidates],
+        'dropped': ['"' + c['candidateName'] + '"' for c in dropped_candidates],
     }
 
 def main():
@@ -57,7 +60,8 @@ def main():
     changes = check_candidates_for_updates(candidates, reference_path)
     
     print('Num. candidates:', len(candidates))
-    print('Changes:', changes)
+    print('Added:\n', pd.DataFrame(changes['added']))
+    print('Dropped:\n', pd.DataFrame(changes['dropped']))
     
 #     print('\n---')
 #     print('Candidates')

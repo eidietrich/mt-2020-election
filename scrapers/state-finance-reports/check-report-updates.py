@@ -6,6 +6,8 @@ python3 scrapers/state-finance-reports/check-report-updates.py
 
 """
 
+import pandas as pd # only for logging
+
 from functions import open_json
 from functions import get_candidate_list_cleaned
 from functions import get_finance_reports
@@ -64,7 +66,8 @@ def main():
     
     changes = check_reports_for_updates(reports, reference_path)
     
-    print('Changes:', changes)
+    print('Added:\n', pd.DataFrame(changes['added']))
+    print('Dropped:\n', pd.DataFrame(changes['dropped']))
 
 if __name__ == '__main__':
     main()
