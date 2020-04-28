@@ -52,12 +52,13 @@ const Layout = ({ children }) => {
             <Link className={styles.navItem} to='/'>Overview</Link>
             <Link className={styles.navItem} to='/races'>Races</Link>
             <Link className={styles.navItem} to='/candidates'>Candidates</Link>
+            <Link className={styles.navItem} to='/how-to-vote'>How to vote</Link>
           </div>
         </div>
         
         <main>{children}</main>
       </div>
-      <SupportUsAd url='https://checkout.fundjournalism.org/memberform?org_id=montanafreepress&campaign=7013s000000mcU8AAI' />
+      {/* <SupportUsAd url='https://checkout.fundjournalism.org/memberform?org_id=montanafreepress&campaign=7013s000000mcU8AAI' /> */}
       <Footer donateUrl='https://checkout.fundjournalism.org/memberform?org_id=montanafreepress&campaign=7013s000000mcU8AAI'/>
     </>
   )

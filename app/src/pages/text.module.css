@@ -1,0 +1,9 @@
+.body {
+    max-width: 40em;
+    margin: auto;
+}
+
+.byline {
+    font-style: italic;
+    margin-bottom: 1em;
+}
