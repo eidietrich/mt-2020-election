@@ -20,6 +20,10 @@ TODO:
 import requests
 import pandas as pd
 from io import StringIO
+from dateutil.parser import parse
+
+import re
+from bs4 import BeautifulSoup
 
 class CandidateList:
     """List of candidates from specific search
@@ -104,16 +108,18 @@ class Candidate:
         self.name = data['candidateName']
         self.data = data
         self.finance_reports = []
-
+        
         if fetchRegistration:
-            pass # TODO
+            pass # TODO 
 
         if fetchReports:
             finance_reports = self._fetch_candidate_finance_reports()
             print(f'## Fetching {len(finance_reports)} finance reports for {self.name}')
             self.finance_reports = [Report(r) for r in finance_reports]
+            self.summary = self._get_summary()
             self.contributions = self._get_contributions()
             self.expenditures = self._get_expenditures()
+            self.unitemized_contributions = self._get_unitemized_contributions()
             print(f'Found {len(self.contributions)} contributions and {len(self.expenditures)} expenditures in {len(self.finance_reports)} reports\n')
 
     def _fetch_candidate_finance_reports(self, raw=False):
@@ -152,7 +158,27 @@ class Candidate:
     def list_reports(self):
         return [c.data for c in self.finance_reports]
 
-        
+    def list_summaries(self):
+        summaries = [c.summary for c in self.finance_reports]
+        summaries_sorted = sorted(summaries, key=lambda i: parse(i['report_end_date']))
+        return summaries_sorted
+
+    def _get_summary(self):
+        summaries = [c.summary for c in self.finance_reports]
+        summaries_sorted = sorted(summaries, key=lambda i: parse(i['report_end_date']))
+        return {
+            'contributions': {
+                'primary': sum(s['Receipts']['primary'] for s in summaries_sorted),
+                'general': sum(s['Receipts']['general'] for s in summaries_sorted),
+                'total': sum(s['Receipts']['total'] for s in summaries_sorted)
+            },
+            'expenditures': {
+                'primary': sum(s['Expenditures']['primary'] for s in summaries_sorted),
+                'general': sum(s['Expenditures']['general'] for s in summaries_sorted),
+                'total': sum(s['Expenditures']['total'] for s in summaries_sorted)
+            },
+            'cash_on_hand': summaries_sorted[-1]['Ending Balance']
+        }
 
     def _get_contributions(self):
         """
@@ -185,6 +211,22 @@ class Candidate:
             df = df.append(dfi)
         return df
 
+    def _get_unitemized_contributions(self):
+        """
+        Return total + by-report unitemized contributions
+        """
+        reports = self.finance_reports
+        by_report = [{
+            'report': r.label,
+            'unitemized_contributions': r.unitemized_contributions,
+        } for r in reports]
+        
+        return {
+            'total': sum(r.unitemized_contributions for r in reports),
+            'reports': by_report
+        }
+
+
 class Report:
     def __init__(self, data):
         self.id = data['reportId']
@@ -192,27 +234,39 @@ class Report:
         self.type = data['formTypeCode']
         self.start_date = data['fromDateStr']
         self.end_date = data['toDateStr']
+        self.label = f'{self.start_date} to {self.end_date}'
         
         if (self.type == 'C5'):
+            self.summary = self._fetch_report_summary()
             self.contributions = self._fetch_contributions_schedule()
             self.expenditures = self._fetch_expenditures_schedule()
-            pass
+            self.unitemized_contributions = self._calc_unitemized_contributions()
         else:
             print('Warning - unhandled report type', self.type, self.id)
-            pass
     
     def _fetch_report_summary(self):
         post_url = 'https://cers-ext.mt.gov/CampaignTracker/public/viewFinanceReport/retrieveReport'
         post_payload = {
-            'candidateId': candidateId,
-            'reportId': reportId,
+            'candidateId': self.data['candidateId'],
+            'reportId': self.id,
             'searchPage': 'public'
         }
         session = requests.Session()
         p = session.post(post_url, post_payload)
-        return p
-
-        # TODO: continue here
+        
+        # Parse report
+        soup = BeautifulSoup(p.text, 'html.parser')
+        labels = [
+            'previous report',
+            'Receipts',
+            'Expenditures',
+            'Ending Balance',
+        ]
+        table = soup.find('div', id='summaryAccordionId').find('table')
+        parsed = { label: self._parse_html_get_row(table, label) for label in labels }
+        parsed['report_start_date'] = self.start_date
+        parsed['report_end_date'] = self.end_date
+        return parsed
 
     def _fetch_contributions_schedule(self):
         return self._fetch_c5_schedule('A')
@@ -250,5 +304,26 @@ class Report:
 
     def _parse_schedule_text(self, text):
         if (text == ''): return pd.DataFrame()
-        return pd.read_csv(StringIO(text), sep='|', error_bad_lines=False, warn_bad_lines=True)
-        
+        parsed = pd.read_csv(StringIO(text), sep='|', error_bad_lines=False, warn_bad_lines=True, index_col=False)
+        return parsed
+
+    def _parse_html_get_row(self, table, label):
+        # label can be partial text or regex
+        row = table.find('td', text=re.compile(label)).parent
+        # replaces remove "$" and "," from strings
+        pri = self._clean_value(row.find_all('td')[2].text)
+        gen =  self._clean_value(row.find_all('td')[3].text)
+        return {
+            'primary': pri,
+            'general': gen,
+            'total': round(pri + gen, 2),
+        }
+    
+    def _clean_value(self, val):
+        return float(val.replace('$','').replace(',','').replace(',',''))
+    
+    def _calc_unitemized_contributions(self):
+        totalSum = self.summary['Receipts']['total']
+        itemizedSum = self.contributions['Amount'].sum()
+        # Only bothering with totals for now
+        return totalSum - itemizedSum
