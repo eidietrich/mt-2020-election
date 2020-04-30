@@ -11,6 +11,21 @@ Refs: https://docs.pytest.org/en/latest/unittest.html
 import pandas as pd
 from dateutil.parser import parse
 
+def test_candidate_list():
+    from cers_models import CandidateList
+    search = {
+        'lastName': '',
+        'firstName': '',
+        'middleInitial': '',
+        'electionYear': '2020',
+        'candidateTypeCode': '',
+        'officeCode': '245', # OPI
+        'countyCode': '',
+        'partyCode': '',
+    }
+    cs = CandidateList(search, filterStatuses=['Active','Reopened','Amended'])
+    cs.export('raw/')
+
 def test_candidate():
     from cers_models import Candidate
     test_candidate = {
@@ -25,13 +40,15 @@ def test_candidate():
     }
     tc = Candidate(test_candidate)
 
-    summaries_sorted = sorted(tc.list_summaries(), key=lambda i: parse(i['report_end_date']))
+    # summaries_sorted = sorted(tc.list_summaries(), key=lambda i: parse(i['report_end_date']))
     
-    _verify_summary_totals_sum(tc.summary)
-    _verify_candidate_reports_match(summaries_sorted)
+    # _verify_summary_totals_sum(tc.summary)
+    # _verify_candidate_reports_match(summaries_sorted)
     
-    print(tc.summary)
-    print(tc.unitemized_contributions)
+    # print(tc.summary)
+    # print(tc.unitemized_contributions)
+
+    tc.export('raw/')
 
     # for total in summaries_sorted:
     #     print(total)
@@ -89,7 +106,8 @@ def _verify_summary_totals_sum(summary_total):
     print('Summary totals checked')
 
 def main():
-    test_candidate()
+    test_candidate_list()
+    # test_candidate()
     # test_report()
     
 if __name__ == '__main__':

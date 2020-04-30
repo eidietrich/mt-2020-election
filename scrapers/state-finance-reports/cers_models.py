@@ -20,7 +20,12 @@ TODO:
 import requests
 import pandas as pd
 from io import StringIO
+
+from datetime import date
 from dateutil.parser import parse
+
+import os
+import json
 
 import re
 from bs4 import BeautifulSoup
@@ -78,6 +83,10 @@ class CandidateList:
         # TODO: Flatten this
         reports_by_candidate = [c.list_reports() for c in self.candidates]
         return reports_by_candidate
+
+    def export(self, base_dir):
+        for candidate in self.candidates:
+            candidate.export(base_dir)
 
     def _get_contributions(self):
         if len(self.candidates) == 0:
@@ -162,6 +171,35 @@ class Candidate:
         summaries = [c.summary for c in self.finance_reports]
         summaries_sorted = sorted(summaries, key=lambda i: parse(i['report_end_date']))
         return summaries_sorted
+
+    def export(self, base_dir):
+        slug = self.name.strip().replace(' ','-').replace(',','')
+        write_dir = os.path.join(base_dir, slug)
+        # make folder if it doesn't exist
+        if not os.path.exists(write_dir):
+            os.makedirs(write_dir)
+        summary_path = os.path.join(os.getcwd(), write_dir, slug + '-summary.json')
+        contributions_path = os.path.join(os.getcwd(), write_dir, slug + '-contributions-itemized.json')
+        expenditures_path = os.path.join(os.getcwd(), write_dir, slug + '-expenditures-itemized.json')
+        summary = {
+            'slug': slug,
+            'candidateName': self.name,
+            'scrape_date': date.today().strftime('%Y-%m-%d'),
+            'officeTitle': self.data['officeTitle'],
+            'partyDescr': self.data['partyDescr'],
+            'periods': len(self.finance_reports),
+            'receipts': self.summary['contributions']['total'],
+            'expenditures': self.summary['expenditures']['total'],
+            'balance': self.summary['cash_on_hand']['total'],
+            'summary': self.summary,
+            'unitemized_contributions': self.unitemized_contributions,
+        }
+        with open(summary_path, 'w') as f:
+            json.dump(summary, f, indent=4)
+        self.contributions.to_json(contributions_path, orient='records')
+        self.expenditures.to_json(expenditures_path, orient='records')
+        print(slug, 'written to', os.path.join(os.getcwd(), write_dir))
+
 
     def _get_summary(self):
         summaries = [c.summary for c in self.finance_reports]
@@ -324,6 +362,9 @@ class Report:
     
     def _calc_unitemized_contributions(self):
         totalSum = self.summary['Receipts']['total']
-        itemizedSum = self.contributions['Amount'].sum()
+        if (len(self.contributions) > 0):
+            itemizedSum = self.contributions['Amount'].sum()
+        else:
+            itemizedSum = 0
         # Only bothering with totals for now
         return totalSum - itemizedSum

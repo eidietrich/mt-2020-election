@@ -1,14 +1,28 @@
 import pandas as pd
 import json
+import os
+import glob
 
-base_path = 'scrapers/state-finance-reports/'
+BASE_PATH = 'scrapers/state-finance-reports'
+IN_PATH = os.path.join(BASE_PATH, 'raw')
 
-contributions = pd.read_json(base_path + 'data/raw-contributions.json', orient='records')
-expenditures = pd.read_json(base_path + 'data/raw-expenditures.json', orient='records')
+def open_json(path):
+    with open(path) as f:
+        return json.load(f)
 
-# Cleaning
+summary_paths = glob.glob(os.path.join(IN_PATH, '*-summary.json'))
+summaries = []
+for file in summary_paths:
+    summary = open_json(file)
+    summaries.append(dict(summary))
+
+contribution_paths = glob.glob(os.path.join(IN_PATH, '*-contributions-itemized.json'))
+contributions = pd.DataFrame()
+for file in contribution_paths:
+    dfi = pd.read_json(file, orient='records')
+    contributions = contributions.append(dfi)
+
 contributions['Candidate'] = contributions['Candidate'].str.strip()
-expenditures['Candidate'] = expenditures['Candidate'].str.strip()
 contribution_type = {
     1: 'Personal contributions',
     2: 'Unitemized contributions',
@@ -21,17 +35,25 @@ contribution_type = {
     9: 'Individual contributions',
 }
 contributions['type'] = contributions['Contribution Type'].replace(contribution_type)
+
+expenditure_paths = glob.glob(os.path.join(IN_PATH, '*-expenditures-itemized.json'))
+expenditures = pd.DataFrame()
+for file in expenditure_paths:
+    dfi = pd.read_json(file, orient='records')
+    expenditures = expenditures.append(dfi)
+
+expenditures['Candidate'] = expenditures['Candidate'].str.strip()
+
+OUT_PATH = os.path.join(BASE_PATH, 'data/state-finance-cleaned.json')
+
+contributions.to_csv(os.path.join(BASE_PATH,'data/state-candidate-contributions.csv'), index=False)
+expenditures.to_csv(os.path.join(BASE_PATH,'data/state-candidate-expenditures.csv'), index=False)
+
 output = {
+    'summaries': summaries,
     'contributions': contributions.to_json(orient='records'),
     'expenditures': expenditures.to_json(orient='records')
 }
-
-contributions.to_csv('data/state-candidate-contributions.csv', index=False)
-expenditures.to_csv('data/state-candidate-expenditures.csv', index=False)
-contributions.to_csv(base_path + 'data/state-candidate-contributions.csv', index=False)
-expenditures.to_csv(base_path + 'data/state-candidate-expenditures.csv', index=False)
-
-with open(base_path + 'data/state-finance-cleaned.json', 'w') as f:
-    print('Cleaned finance data written')
+with open(OUT_PATH, 'w') as f:
     f.write(json.dumps(output))
-
+    print(f'Cleaned data written to {OUT_PATH}')
