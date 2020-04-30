@@ -38,12 +38,25 @@ class Interface:
         ) 
         return candidates_state_2020.list_candidates()
 
-    def statewide_2020(self):
+    def list_statewide_2020_candidates_with_reports(self):
+        """Lists statewide 2020 candidates and reports without fetching full reports"""
+        search = CANDIDATE_SEARCH_DEFAULT.copy()
+        search['electionYear'] = '2020'
+        search['candidateTypeCode'] = 'SW' # statewide
+        candidates_state_2020 = CandidateList(
+            search,
+            fetchReports=True,
+            fetchFullReports=False, # avoids costly scraping operation
+            filterStatuses=ACTIVE_STATUSES
+        ) 
+        return candidates_state_2020.list_candidates_with_reports()
+
+    def statewide_2020(self, excludeCandidates=[]):
         """Runs a full data fetch on statewide 2020 candidates"""
         search = CANDIDATE_SEARCH_DEFAULT.copy()
         search['electionYear'] = '2020'
         search['candidateTypeCode'] = 'SW' # statewide
-        return CandidateList(search, filterStatuses=ACTIVE_STATUSES)
+        return CandidateList(search, filterStatuses=ACTIVE_STATUSES, excludeCandidates=excludeCandidates)
 
     def statewide_2020_johnsons(self):
         """For testing"""
@@ -53,8 +66,7 @@ class Interface:
         search['lastName'] = 'Johnson'
         return CandidateList(search, filterStatuses=ACTIVE_STATUSES)
 
-
-
+    # TODO - interfaces here for single-candidate-by-id search
 
         
 

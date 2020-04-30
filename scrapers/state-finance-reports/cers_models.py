@@ -36,15 +36,18 @@ class CandidateList:
     - filterStatuses - if non-false, filter to candidates with statuses in array
     
     """
-    def __init__(self, search, fetchReports=True, filterStatuses=False):
+    def __init__(self,search, fetchReports=True, fetchFullReports=True, filterStatuses=False, excludeCandidates=[], checkCache=True, writeCache=True):
         candidate_list = self._fetch_candidate_list(search)
         if filterStatuses:
             candidate_list = [c for c in candidate_list if c['candidateStatusDescr'] in filterStatuses]
-        self.candidates = [Candidate(c, fetchReports=fetchReports) for c in candidate_list]
-        self.contributions = self._get_contributions()
-        self.expenditures = self._get_expenditures()
-        print(f'{len(self.candidates)} candidates compiled with {len(self.contributions)} contributions and {len(self.expenditures)} expenditures')
-    
+        if len(excludeCandidates) > 0:
+            candidate_list = [c for c in candidate_list if c['candidateId'] not in excludeCandidates]
+        self.candidates = [Candidate(c, fetchReports=fetchReports, fetchFullReports=fetchFullReports, checkCache=checkCache, writeCache=writeCache) for c in candidate_list]
+        if fetchReports and fetchFullReports:
+            self.contributions = self._get_contributions()
+            self.expenditures = self._get_expenditures()
+            print(f'{len(self.candidates)} candidates compiled with {len(self.contributions)} contributions and {len(self.expenditures)} expenditures')
+
     def _fetch_candidate_list(self, search, raw=False, filterStatuses=False):
         session = requests.Session()
         candidate_search_url = 'https://cers-ext.mt.gov/CampaignTracker/public/searchResults/searchCandidates'
@@ -84,6 +87,9 @@ class CandidateList:
         reports_by_candidate = [c.list_reports() for c in self.candidates]
         return reports_by_candidate
 
+    def list_candidates_with_reports(self):
+        return [{**c.data, 'reports': c.list_reports()} for c in self.candidates]
+
     def export(self, base_dir):
         for candidate in self.candidates:
             candidate.export(base_dir)
@@ -112,24 +118,27 @@ class Candidate:
     """
     Single candidate for given election cycle
     """
-    def __init__(self, data, fetchRegistration=False, fetchSummary=True, fetchReports=True):
+    def __init__(self, data, cachePath='scrapers/state-finance-reports/raw', fetchSummary=True, fetchReports=True, fetchFullReports=True, checkCache=True, writeCache=True):
         self.id = data['candidateId']
         self.name = data['candidateName']
+        self.slug = self.name.strip().replace(' ','-').replace(',','')
         self.data = data
         self.finance_reports = []
-        
-        if fetchRegistration:
-            pass # TODO 
+
+        cachePath = os.path.join('scrapers/state-finance-reports/raw/', self.slug)
 
         if fetchReports:
-            finance_reports = self._fetch_candidate_finance_reports()
-            print(f'## Fetching {len(finance_reports)} finance reports for {self.name}')
-            self.finance_reports = [Report(r) for r in finance_reports]
+            self.raw_reports = self._fetch_candidate_finance_reports()
+        if (fetchReports and fetchFullReports):
+            print(f'## Fetching {len(self.raw_reports)} finance reports for {self.name} ({self.id})')
+            self.finance_reports = [Report(r, cachePath=cachePath, checkCache=checkCache, writeCache=writeCache) for r in self.raw_reports]
             self.summary = self._get_summary()
             self.contributions = self._get_contributions()
             self.expenditures = self._get_expenditures()
             self.unitemized_contributions = self._get_unitemized_contributions()
-            print(f'Found {len(self.contributions)} contributions and {len(self.expenditures)} expenditures in {len(self.finance_reports)} reports\n')
+            print(f'Found {len(self.contributions)} contributions and {len(self.expenditures)} expenditures in {len(self.finance_reports)} reports')
+        self.export(cachePath)
+        print('\n')
 
     def _fetch_candidate_finance_reports(self, raw=False):
         post_url = 'https://cers-ext.mt.gov/CampaignTracker/public/publicReportList/retrieveCampaignReports'
@@ -163,26 +172,24 @@ class Candidate:
         }, full))
         return cleaned
         
-
     def list_reports(self):
-        return [c.data for c in self.finance_reports]
+        return self.raw_reports
 
     def list_summaries(self):
         summaries = [c.summary for c in self.finance_reports]
         summaries_sorted = sorted(summaries, key=lambda i: parse(i['report_end_date']))
         return summaries_sorted
 
-    def export(self, base_dir):
-        slug = self.name.strip().replace(' ','-').replace(',','')
-        write_dir = os.path.join(base_dir, slug)
+    def export(self, write_dir):
+        # write_dir = os.path.join(base_dir, self.slug)
         # make folder if it doesn't exist
         if not os.path.exists(write_dir):
             os.makedirs(write_dir)
-        summary_path = os.path.join(os.getcwd(), write_dir, slug + '-summary.json')
-        contributions_path = os.path.join(os.getcwd(), write_dir, slug + '-contributions-itemized.json')
-        expenditures_path = os.path.join(os.getcwd(), write_dir, slug + '-expenditures-itemized.json')
+        summary_path = os.path.join(os.getcwd(), write_dir, self.slug + '-summary.json')
+        contributions_path = os.path.join(os.getcwd(), write_dir, self.slug + '-contributions-itemized.json')
+        expenditures_path = os.path.join(os.getcwd(), write_dir, self.slug + '-expenditures-itemized.json')
         summary = {
-            'slug': slug,
+            'slug': self.slug,
             'candidateName': self.name,
             'scrape_date': date.today().strftime('%Y-%m-%d'),
             'officeTitle': self.data['officeTitle'],
@@ -198,12 +205,17 @@ class Candidate:
             json.dump(summary, f, indent=4)
         self.contributions.to_json(contributions_path, orient='records')
         self.expenditures.to_json(expenditures_path, orient='records')
-        print(slug, 'written to', os.path.join(os.getcwd(), write_dir))
+        print(self.slug, 'written to', os.path.join(os.getcwd(), write_dir))
 
 
     def _get_summary(self):
         summaries = [c.summary for c in self.finance_reports]
         summaries_sorted = sorted(summaries, key=lambda i: parse(i['report_end_date']))
+        default_cash_on_hand = {
+            'total': 0,
+            'general': 0,
+            'primary': 0,
+        }
         return {
             'contributions': {
                 'primary': sum(s['Receipts']['primary'] for s in summaries_sorted),
@@ -215,7 +227,8 @@ class Candidate:
                 'general': sum(s['Expenditures']['general'] for s in summaries_sorted),
                 'total': sum(s['Expenditures']['total'] for s in summaries_sorted)
             },
-            'cash_on_hand': summaries_sorted[-1]['Ending Balance']
+            'cash_on_hand': summaries_sorted[-1]['Ending Balance'] if (len(summaries_sorted) > 0) else default_cash_on_hand,
+
         }
 
     def _get_contributions(self):
@@ -266,22 +279,60 @@ class Candidate:
 
 
 class Report:
-    def __init__(self, data):
+    def __init__(self, data, cachePath, checkCache=True, writeCache=True):
         self.id = data['reportId']
         self.data = data
         self.type = data['formTypeCode']
         self.start_date = data['fromDateStr']
         self.end_date = data['toDateStr']
         self.label = f'{self.start_date} to {self.end_date}'
-        
+    
+        filePath = os.path.join(cachePath, f'{self.type}-{self.id}.json')
+
         if (self.type == 'C5'):
-            self.summary = self._fetch_report_summary()
-            self.contributions = self._fetch_contributions_schedule()
-            self.expenditures = self._fetch_expenditures_schedule()
-            self.unitemized_contributions = self._calc_unitemized_contributions()
+            if checkCache:
+                if os.path.isfile(filePath):
+                    self._get_c5_data_from_cache(filePath)
+                else:
+                    self._get_c5_data_from_scrape()
+            else:
+                self._get_c5_data_from_scrape()
+            
+            if writeCache:
+                if not os.path.exists(cachePath): os.makedirs(cachePath)
+                self.export(filePath)     
         else:
+            # TODO - figure out how to handle non C-5 reports
             print('Warning - unhandled report type', self.type, self.id)
     
+    def _get_c5_data_from_cache(self, filePath):
+        print(f'From cache, loading C5 {self.start_date}-{self.end_date} ({self.id})')
+        with open(filePath) as f:
+            cache = json.load(f)
+        self.summary = cache['summary']
+        self.contributions = pd.read_json(cache['contributions'])
+        self.expenditures = pd.read_json(cache['expenditures'])
+        self.unitemized_contributions = cache['unitemized_contributions']
+        # TODO: Write unit test to unsure caching/uncaching doesn't change data
+
+    def _get_c5_data_from_scrape(self):
+        print(f'Fetching C5 {self.start_date}-{self.end_date} ({self.id})')
+        self.summary = self._fetch_report_summary()
+        self.contributions = self._fetch_contributions_schedule()
+        self.expenditures = self._fetch_expenditures_schedule()
+        self.unitemized_contributions = self._calc_unitemized_contributions()
+
+    def export(self, filePath):
+        output = {
+            'summary': self.summary,
+            'contributions': self.contributions.to_json(orient='records'),
+            'expenditures': self.expenditures.to_json(orient='records'),
+            'unitemized_contributions': self.unitemized_contributions,
+        }
+        with open(filePath, 'w') as f:
+            json.dump(output, f, indent=4)
+        # print(f'Cached to {filePath}')
+
     def _fetch_report_summary(self):
         post_url = 'https://cers-ext.mt.gov/CampaignTracker/public/viewFinanceReport/retrieveReport'
         post_payload = {
