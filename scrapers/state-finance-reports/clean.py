@@ -10,13 +10,13 @@ def open_json(path):
     with open(path) as f:
         return json.load(f)
 
-summary_paths = glob.glob(os.path.join(IN_PATH, '*-summary.json'))
+summary_paths = glob.glob(os.path.join(IN_PATH, '*/*-summary.json'))
 summaries = []
 for file in summary_paths:
     summary = open_json(file)
     summaries.append(dict(summary))
 
-contribution_paths = glob.glob(os.path.join(IN_PATH, '*-contributions-itemized.json'))
+contribution_paths = glob.glob(os.path.join(IN_PATH, '*/*-contributions-itemized.json'))
 contributions = pd.DataFrame()
 for file in contribution_paths:
     dfi = pd.read_json(file, orient='records')
@@ -36,7 +36,7 @@ contribution_type = {
 }
 contributions['type'] = contributions['Contribution Type'].replace(contribution_type)
 
-expenditure_paths = glob.glob(os.path.join(IN_PATH, '*-expenditures-itemized.json'))
+expenditure_paths = glob.glob(os.path.join(IN_PATH, '*/*-expenditures-itemized.json'))
 expenditures = pd.DataFrame()
 for file in expenditure_paths:
     dfi = pd.read_json(file, orient='records')

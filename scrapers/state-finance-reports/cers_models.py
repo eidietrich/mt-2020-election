@@ -131,14 +131,14 @@ class Candidate:
             self.raw_reports = self._fetch_candidate_finance_reports()
         if (fetchReports and fetchFullReports):
             print(f'## Fetching {len(self.raw_reports)} finance reports for {self.name} ({self.id})')
-            self.finance_reports = [Report(r, cachePath=cachePath, checkCache=checkCache, writeCache=writeCache) for r in self.raw_reports]
+            self.finance_reports = [Report(r, cachePath=cachePath, checkCache=checkCache, writeCache=writeCache, fetchFullReports=fetchFullReports) for r in self.raw_reports]
             self.summary = self._get_summary()
             self.contributions = self._get_contributions()
             self.expenditures = self._get_expenditures()
             self.unitemized_contributions = self._get_unitemized_contributions()
             print(f'Found {len(self.contributions)} contributions and {len(self.expenditures)} expenditures in {len(self.finance_reports)} reports')
-        self.export(cachePath)
-        print('\n')
+            self.export(cachePath)
+            print('\n')
 
     def _fetch_candidate_finance_reports(self, raw=False):
         post_url = 'https://cers-ext.mt.gov/CampaignTracker/public/publicReportList/retrieveCampaignReports'
@@ -279,13 +279,18 @@ class Candidate:
 
 
 class Report:
-    def __init__(self, data, cachePath, checkCache=True, writeCache=True):
+    def __init__(self, data, cachePath, checkCache=True, writeCache=True, fetchFullReports=True):
         self.id = data['reportId']
         self.data = data
         self.type = data['formTypeCode']
         self.start_date = data['fromDateStr']
         self.end_date = data['toDateStr']
         self.label = f'{self.start_date} to {self.end_date}'
+
+        self.fetchFullReports=fetchFullReports
+
+        self.contributions = pd.DataFrame()
+        self.expenditures = pd.DataFrame()
     
         filePath = os.path.join(cachePath, f'{self.type}-{self.id}.json')
 
@@ -318,9 +323,14 @@ class Report:
     def _get_c5_data_from_scrape(self):
         print(f'Fetching C5 {self.start_date}-{self.end_date} ({self.id})')
         self.summary = self._fetch_report_summary()
-        self.contributions = self._fetch_contributions_schedule()
-        self.expenditures = self._fetch_expenditures_schedule()
-        self.unitemized_contributions = self._calc_unitemized_contributions()
+        print('summary skipped')
+        if self.fetchFullReports:
+            self.contributions = self._fetch_contributions_schedule()
+            print('contributions fetched')
+            self.expenditures = self._fetch_expenditures_schedule()
+            print('expenditures fetched')
+            # TODO - move this to cleaning step?
+            self.unitemized_contributions = self._calc_unitemized_contributions()
 
     def export(self, filePath):
         output = {
@@ -378,9 +388,13 @@ class Report:
         }
 
         session = requests.Session()
-        p = session.post(post_url, post_payload)
+        print('posting')
+        p = session.post(post_url, post_payload, timeout=120)
+        print('posted')
         if 'fileName' in p.json():
+            print('getting')
             r = session.get(get_url, params=p.json())
+            print('gotten')
             if r.text == '':
                 print('Empty file. Report ID:', report_id)
             raw_text = r.text
