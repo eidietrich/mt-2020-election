@@ -1,0 +1,45 @@
+{
+    "slug": "McKinnon-Laurie",
+    "candidateName": "McKinnon, Laurie ",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Supreme Court Justice No. 05",
+    "partyDescr": "Non-Partisan",
+    "periods": 3,
+    "receipts": 10423.99,
+    "expenditures": 8263.99,
+    "balance": 2160.0,
+    "summary": {
+        "contributions": {
+            "primary": 8703.99,
+            "general": 1720.0,
+            "total": 10423.99
+        },
+        "expenditures": {
+            "primary": 8263.99,
+            "general": 0.0,
+            "total": 8263.99
+        },
+        "cash_on_hand": {
+            "primary": 440.0,
+            "general": 1720.0,
+            "total": 2160.0
+        }
+    },
+    "unitemized_contributions": {
+        "total": -1661.8099999999995,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 0.0
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": -1661.8099999999995
+            },
+            {
+                "report": "11/25/2019 to 12/31/2019",
+                "unitemized_contributions": 0.0
+            }
+        ]
+    }
+}

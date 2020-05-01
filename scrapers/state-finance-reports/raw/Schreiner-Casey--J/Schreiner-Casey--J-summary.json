@@ -1,0 +1,53 @@
+{
+    "slug": "Schreiner-Casey--J",
+    "candidateName": "Schreiner, Casey  J",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Governor",
+    "partyDescr": "Democrat",
+    "periods": 5,
+    "receipts": 84462.09,
+    "expenditures": 79670.45,
+    "balance": 4791.64,
+    "summary": {
+        "contributions": {
+            "primary": 74797.09,
+            "general": 9665.0,
+            "total": 84462.09
+        },
+        "expenditures": {
+            "primary": 71495.45,
+            "general": 8175.0,
+            "total": 79670.45
+        },
+        "cash_on_hand": {
+            "primary": 3301.64,
+            "general": 1490.0,
+            "total": 4791.64
+        }
+    },
+    "unitemized_contributions": {
+        "total": 4753.78,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 0.0
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": 82.77999999999997
+            },
+            {
+                "report": "10/01/2019 to 12/31/2019",
+                "unitemized_contributions": 884.0
+            },
+            {
+                "report": "07/01/2019 to 09/30/2019",
+                "unitemized_contributions": 1862.0
+            },
+            {
+                "report": "04/01/2019 to 06/30/2019",
+                "unitemized_contributions": 1925.0
+            }
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "slug": "Dudik-Kimberly",
+    "candidateName": "Dudik, Kimberly ",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Attorney General",
+    "partyDescr": "Democrat",
+    "periods": 6,
+    "receipts": 218587.24999999997,
+    "expenditures": 180935.45,
+    "balance": 37651.8,
+    "summary": {
+        "contributions": {
+            "primary": 200104.66999999998,
+            "general": 18482.58,
+            "total": 218587.24999999997
+        },
+        "expenditures": {
+            "primary": 177249.30000000002,
+            "general": 3686.15,
+            "total": 180935.45
+        },
+        "cash_on_hand": {
+            "primary": 22855.37,
+            "general": 14796.43,
+            "total": 37651.8
+        }
+    },
+    "unitemized_contributions": {
+        "total": 7697.690000000006,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 1464.3999999999996
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": 3293.25
+            },
+            {
+                "report": "10/01/2019 to 12/31/2019",
+                "unitemized_contributions": 495.5400000000009
+            },
+            {
+                "report": "07/01/2019 to 09/30/2019",
+                "unitemized_contributions": 1856.5
+            },
+            {
+                "report": "04/02/2019 to 06/30/2019",
+                "unitemized_contributions": 762.9900000000052
+            },
+            {
+                "report": "12/21/2018 to 04/01/2019",
+                "unitemized_contributions": -174.98999999999978
+            }
+        ]
+    }
+}

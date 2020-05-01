@@ -1,0 +1,57 @@
+{
+    "slug": "Fox-Tim",
+    "candidateName": "Fox, Tim ",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Governor",
+    "partyDescr": "Republican",
+    "periods": 6,
+    "receipts": 719747.9099999999,
+    "expenditures": 537613.0700000001,
+    "balance": 182134.84,
+    "summary": {
+        "contributions": {
+            "primary": 551991.98,
+            "general": 167755.93,
+            "total": 719747.9099999999
+        },
+        "expenditures": {
+            "primary": 530796.0900000001,
+            "general": 6816.98,
+            "total": 537613.0700000001
+        },
+        "cash_on_hand": {
+            "primary": 21195.89,
+            "general": 160938.95,
+            "total": 182134.84
+        }
+    },
+    "unitemized_contributions": {
+        "total": 8025.590000000004,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 305.6200000000026
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": 649.7599999999948
+            },
+            {
+                "report": "10/01/2019 to 12/31/2019",
+                "unitemized_contributions": 2088.779999999999
+            },
+            {
+                "report": "07/01/2019 to 09/30/2019",
+                "unitemized_contributions": 1410.3500000000058
+            },
+            {
+                "report": "04/02/2019 to 06/30/2019",
+                "unitemized_contributions": 3018.199999999997
+            },
+            {
+                "report": "01/01/2019 to 04/01/2019",
+                "unitemized_contributions": 552.8800000000047
+            }
+        ]
+    }
+}

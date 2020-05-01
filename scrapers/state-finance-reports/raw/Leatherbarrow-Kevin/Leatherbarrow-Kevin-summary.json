@@ -1,0 +1,37 @@
+{
+    "slug": "Leatherbarrow-Kevin",
+    "candidateName": "Leatherbarrow, Kevin ",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Superintendent of Public Instruction",
+    "partyDescr": "Libertarian",
+    "periods": 1,
+    "receipts": 0.0,
+    "expenditures": 0.0,
+    "balance": 0.0,
+    "summary": {
+        "contributions": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "cash_on_hand": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        }
+    },
+    "unitemized_contributions": {
+        "total": -1163.79,
+        "reports": [
+            {
+                "report": "03/06/2020 to 03/20/2020",
+                "unitemized_contributions": -1163.79
+            }
+        ]
+    }
+}

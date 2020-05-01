@@ -1,0 +1,41 @@
+{
+    "slug": "Shea-James--J",
+    "candidateName": "Shea, James  J",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Supreme Court Justice No. 06",
+    "partyDescr": "Non-Partisan",
+    "periods": 2,
+    "receipts": 10941.0,
+    "expenditures": 3969.17,
+    "balance": 6971.83,
+    "summary": {
+        "contributions": {
+            "primary": 10941.0,
+            "general": 0.0,
+            "total": 10941.0
+        },
+        "expenditures": {
+            "primary": 3969.17,
+            "general": 0.0,
+            "total": 3969.17
+        },
+        "cash_on_hand": {
+            "primary": 6971.83,
+            "general": 0.0,
+            "total": 6971.83
+        }
+    },
+    "unitemized_contributions": {
+        "total": -40.0,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 0.0
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": -40.0
+            }
+        ]
+    }
+}

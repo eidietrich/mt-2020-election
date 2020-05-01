@@ -1,0 +1,45 @@
+{
+    "slug": "Jacobsen-Christi--K",
+    "candidateName": "Jacobsen, Christi  K",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Secretary of State",
+    "partyDescr": "Republican",
+    "periods": 3,
+    "receipts": 143345.76,
+    "expenditures": 121159.89,
+    "balance": 22185.87,
+    "summary": {
+        "contributions": {
+            "primary": 124306.09999999999,
+            "general": 19039.66,
+            "total": 143345.76
+        },
+        "expenditures": {
+            "primary": 121159.89,
+            "general": 0.0,
+            "total": 121159.89
+        },
+        "cash_on_hand": {
+            "primary": 3146.21,
+            "general": 19039.66,
+            "total": 22185.87
+        }
+    },
+    "unitemized_contributions": {
+        "total": 354.60000000000036,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": -256.39999999999964
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": 291.0
+            },
+            {
+                "report": "10/01/2019 to 12/31/2019",
+                "unitemized_contributions": 320.0
+            }
+        ]
+    }
+}

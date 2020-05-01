@@ -1,0 +1,45 @@
+{
+    "slug": "Nicol-Nelly",
+    "candidateName": "Nicol, Nelly ",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "State Auditor",
+    "partyDescr": "Republican",
+    "periods": 3,
+    "receipts": 88432.88,
+    "expenditures": 45046.31999999999,
+    "balance": 43386.56,
+    "summary": {
+        "contributions": {
+            "primary": 83782.88,
+            "general": 4650.0,
+            "total": 88432.88
+        },
+        "expenditures": {
+            "primary": 45046.31999999999,
+            "general": 0.0,
+            "total": 45046.31999999999
+        },
+        "cash_on_hand": {
+            "primary": 38736.56,
+            "general": 4650.0,
+            "total": 43386.56
+        }
+    },
+    "unitemized_contributions": {
+        "total": 2.999999999998181,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 0.0
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": -1.8189894035458565e-12
+            },
+            {
+                "report": "10/02/2019 to 12/31/2019",
+                "unitemized_contributions": 3.0
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "slug": "Downing-Troy--B",
+    "candidateName": "Downing, Troy  B",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "State Auditor",
+    "partyDescr": "Republican",
+    "periods": 5,
+    "receipts": 115708.0,
+    "expenditures": 39412.93,
+    "balance": 76295.07,
+    "summary": {
+        "contributions": {
+            "primary": 104708.0,
+            "general": 11000.0,
+            "total": 115708.0
+        },
+        "expenditures": {
+            "primary": 39412.93,
+            "general": 0.0,
+            "total": 39412.93
+        },
+        "cash_on_hand": {
+            "primary": 65295.07,
+            "general": 11000.0,
+            "total": 76295.07
+        }
+    },
+    "unitemized_contributions": {
+        "total": -2812.5499999999956,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 145.0
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": -2934.9000000000015
+            },
+            {
+                "report": "10/01/2019 to 12/31/2019",
+                "unitemized_contributions": 148.0
+            },
+            {
+                "report": "07/01/2019 to 09/30/2019",
+                "unitemized_contributions": -170.64999999999418
+            },
+            {
+                "report": "06/26/2019 to 06/30/2019",
+                "unitemized_contributions": 0.0
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "slug": "Bishop-Lyman--J",
+    "candidateName": "Bishop, Lyman  J",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Governor",
+    "partyDescr": "Libertarian",
+    "periods": 2,
+    "receipts": 12053.1,
+    "expenditures": 6209.05,
+    "balance": 5844.05,
+    "summary": {
+        "contributions": {
+            "primary": 0.0,
+            "general": 12053.1,
+            "total": 12053.1
+        },
+        "expenditures": {
+            "primary": 0.0,
+            "general": 6209.05,
+            "total": 6209.05
+        },
+        "cash_on_hand": {
+            "primary": 0.0,
+            "general": 5844.05,
+            "total": 5844.05
+        }
+    },
+    "unitemized_contributions": {
+        "total": -588.9699999999992,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 244.5000000000001
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": -833.4699999999993
+            }
+        ]
+    }
+}

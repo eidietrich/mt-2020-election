@@ -1,0 +1,53 @@
+{
+    "slug": "Bennett-Bryce",
+    "candidateName": "Bennett, Bryce ",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Secretary of State",
+    "partyDescr": "Democrat",
+    "periods": 5,
+    "receipts": 154468.7,
+    "expenditures": 44789.60999999999,
+    "balance": 109679.09,
+    "summary": {
+        "contributions": {
+            "primary": 4533.0,
+            "general": 149935.7,
+            "total": 154468.7
+        },
+        "expenditures": {
+            "primary": 300.0,
+            "general": 44489.60999999999,
+            "total": 44789.60999999999
+        },
+        "cash_on_hand": {
+            "primary": 4233.0,
+            "general": 105446.09,
+            "total": 109679.09
+        }
+    },
+    "unitemized_contributions": {
+        "total": 9407.729999999996,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 2083.0
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": 2644.199999999997
+            },
+            {
+                "report": "10/01/2019 to 12/31/2019",
+                "unitemized_contributions": -1213.5
+            },
+            {
+                "report": "07/01/2019 to 09/30/2019",
+                "unitemized_contributions": 2605.029999999999
+            },
+            {
+                "report": "05/26/2019 to 06/30/2019",
+                "unitemized_contributions": 3289.0
+            }
+        ]
+    }
+}

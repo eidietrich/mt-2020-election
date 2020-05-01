@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Ending Balance": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "report_start_date": "01/01/2020",
+        "report_end_date": "03/20/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"04\\/16\\/2020\",\"Entity Name\":null,\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":null,\"City\":null,\"State\":null,\"Zip\":null,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":1,\"Amount\":981.04,\"Amount Type\":\"IK\",\"Purpose\":\"filing fee secretary of state\",\"Election Type\":\"PM\",\"Total Primary\":981.04,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[]",
+    "unitemized_contributions": -981.04
+}

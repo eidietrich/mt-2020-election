@@ -1,0 +1,49 @@
+{
+    "slug": "Mandeville-Forrest--J",
+    "candidateName": "Mandeville, Forrest  J",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Secretary of State",
+    "partyDescr": "Republican",
+    "periods": 4,
+    "receipts": 40018.0,
+    "expenditures": 32092.269999999997,
+    "balance": 7925.73,
+    "summary": {
+        "contributions": {
+            "primary": 40018.0,
+            "general": 0.0,
+            "total": 40018.0
+        },
+        "expenditures": {
+            "primary": 32092.269999999997,
+            "general": 0.0,
+            "total": 32092.269999999997
+        },
+        "cash_on_hand": {
+            "primary": 7925.73,
+            "general": 0.0,
+            "total": 7925.73
+        }
+    },
+    "unitemized_contributions": {
+        "total": -5357.470000000005,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 60.0
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": -1569.5
+            },
+            {
+                "report": "10/01/2019 to 12/31/2019",
+                "unitemized_contributions": -2760.7500000000036
+            },
+            {
+                "report": "07/24/2019 to 09/30/2019",
+                "unitemized_contributions": -1087.2200000000012
+            }
+        ]
+    }
+}

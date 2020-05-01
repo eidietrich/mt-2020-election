@@ -1,0 +1,57 @@
+{
+    "slug": "Sales-Scott",
+    "candidateName": "Sales, Scott ",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Secretary of State",
+    "partyDescr": "Republican",
+    "periods": 6,
+    "receipts": 132690.34,
+    "expenditures": 53406.119999999995,
+    "balance": 79284.22,
+    "summary": {
+        "contributions": {
+            "primary": 109250.34,
+            "general": 23440.0,
+            "total": 132690.34
+        },
+        "expenditures": {
+            "primary": 53406.119999999995,
+            "general": 0.0,
+            "total": 53406.119999999995
+        },
+        "cash_on_hand": {
+            "primary": 55844.22,
+            "general": 23440.0,
+            "total": 79284.22
+        }
+    },
+    "unitemized_contributions": {
+        "total": -2420.419999999999,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": -944.0099999999993
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": 0.0
+            },
+            {
+                "report": "10/01/2019 to 12/31/2019",
+                "unitemized_contributions": -675.760000000002
+            },
+            {
+                "report": "07/01/2019 to 09/30/2019",
+                "unitemized_contributions": -120.64999999999782
+            },
+            {
+                "report": "04/03/2019 to 06/30/2019",
+                "unitemized_contributions": -680.0
+            },
+            {
+                "report": "03/13/2019 to 04/02/2019",
+                "unitemized_contributions": 0.0
+            }
+        ]
+    }
+}

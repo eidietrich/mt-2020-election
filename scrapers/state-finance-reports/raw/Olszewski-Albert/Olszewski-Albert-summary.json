@@ -1,0 +1,53 @@
+{
+    "slug": "Olszewski-Albert",
+    "candidateName": "Olszewski, Albert ",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Governor",
+    "partyDescr": "Republican",
+    "periods": 5,
+    "receipts": 277528.89,
+    "expenditures": 208061.96,
+    "balance": 69466.93,
+    "summary": {
+        "contributions": {
+            "primary": 250075.69999999998,
+            "general": 27453.19,
+            "total": 277528.89
+        },
+        "expenditures": {
+            "primary": 208061.96,
+            "general": 0.0,
+            "total": 208061.96
+        },
+        "cash_on_hand": {
+            "primary": 42013.74,
+            "general": 27453.19,
+            "total": 69466.93
+        }
+    },
+    "unitemized_contributions": {
+        "total": -30350.12,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 226.29999999999927
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": -15619.0
+            },
+            {
+                "report": "10/01/2019 to 12/31/2019",
+                "unitemized_contributions": -13931.220000000001
+            },
+            {
+                "report": "07/01/2019 to 09/30/2019",
+                "unitemized_contributions": -1420.199999999997
+            },
+            {
+                "report": "04/02/2019 to 06/30/2019",
+                "unitemized_contributions": 394.0
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "slug": "Romano-Melissa",
+    "candidateName": "Romano, Melissa ",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Superintendent of Public Instruction",
+    "partyDescr": "Democrat",
+    "periods": 5,
+    "receipts": 125224.2,
+    "expenditures": 23068.929999999997,
+    "balance": 102155.27,
+    "summary": {
+        "contributions": {
+            "primary": 122614.2,
+            "general": 2610.0,
+            "total": 125224.2
+        },
+        "expenditures": {
+            "primary": 23068.929999999997,
+            "general": 0.0,
+            "total": 23068.929999999997
+        },
+        "cash_on_hand": {
+            "primary": 99545.27,
+            "general": 2610.0,
+            "total": 102155.27
+        }
+    },
+    "unitemized_contributions": {
+        "total": 11094.729999999998,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 2710.0
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": 6166.199999999997
+            },
+            {
+                "report": "10/01/2019 to 12/31/2019",
+                "unitemized_contributions": 749.0900000000001
+            },
+            {
+                "report": "07/01/2019 to 09/30/2019",
+                "unitemized_contributions": 888.4400000000005
+            },
+            {
+                "report": "04/01/2019 to 06/30/2019",
+                "unitemized_contributions": 581.0
+            }
+        ]
+    }
+}

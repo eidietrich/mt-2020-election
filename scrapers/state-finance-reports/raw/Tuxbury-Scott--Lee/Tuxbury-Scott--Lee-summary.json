@@ -1,0 +1,41 @@
+{
+    "slug": "Tuxbury-Scott--Lee",
+    "candidateName": "Tuxbury, Scott  Lee",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "State Auditor",
+    "partyDescr": "Republican",
+    "periods": 2,
+    "receipts": 52545.0,
+    "expenditures": 23028.46,
+    "balance": 29516.54,
+    "summary": {
+        "contributions": {
+            "primary": 51685.0,
+            "general": 860.0,
+            "total": 52545.0
+        },
+        "expenditures": {
+            "primary": 23028.46,
+            "general": 0.0,
+            "total": 23028.46
+        },
+        "cash_on_hand": {
+            "primary": 28656.54,
+            "general": 860.0,
+            "total": 29516.54
+        }
+    },
+    "unitemized_contributions": {
+        "total": 335.0,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 145.0
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": 190.0
+            }
+        ]
+    }
+}

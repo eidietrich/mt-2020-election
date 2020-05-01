@@ -1,0 +1,53 @@
+{
+    "slug": "Black-Michael--G",
+    "candidateName": "Black, Michael  G",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Supreme Court Justice No. 05",
+    "partyDescr": "Non-Partisan",
+    "periods": 5,
+    "receipts": 98968.81,
+    "expenditures": 68889.62,
+    "balance": 30079.19,
+    "summary": {
+        "contributions": {
+            "primary": 96348.81,
+            "general": 2620.0,
+            "total": 98968.81
+        },
+        "expenditures": {
+            "primary": 68889.62,
+            "general": 0.0,
+            "total": 68889.62
+        },
+        "cash_on_hand": {
+            "primary": 27459.19,
+            "general": 2620.0,
+            "total": 30079.19
+        }
+    },
+    "unitemized_contributions": {
+        "total": -1297.8099999999977,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 160.0
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": -1336.8099999999977
+            },
+            {
+                "report": "10/01/2019 to 12/31/2019",
+                "unitemized_contributions": -191.0
+            },
+            {
+                "report": "07/02/2019 to 09/30/2019",
+                "unitemized_contributions": 70.0
+            },
+            {
+                "report": "06/07/2019 to 07/01/2019",
+                "unitemized_contributions": 0.0
+            }
+        ]
+    }
+}

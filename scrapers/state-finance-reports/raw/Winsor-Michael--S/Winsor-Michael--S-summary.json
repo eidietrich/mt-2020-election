@@ -1,0 +1,41 @@
+{
+    "slug": "Winsor-Michael--S",
+    "candidateName": "Winsor, Michael  S",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "State Auditor",
+    "partyDescr": "Democrat",
+    "periods": 2,
+    "receipts": 1405.0,
+    "expenditures": 124.69,
+    "balance": 1280.31,
+    "summary": {
+        "contributions": {
+            "primary": 1405.0,
+            "general": 0.0,
+            "total": 1405.0
+        },
+        "expenditures": {
+            "primary": 124.69,
+            "general": 0.0,
+            "total": 124.69
+        },
+        "cash_on_hand": {
+            "primary": 1280.31,
+            "general": 0.0,
+            "total": 1280.31
+        }
+    },
+    "unitemized_contributions": {
+        "total": -1510.0300000000002,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": -1510.0300000000002
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": 0.0
+            }
+        ]
+    }
+}

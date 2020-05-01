@@ -1,0 +1,41 @@
+{
+    "slug": "Johnson-Brad",
+    "candidateName": "Johnson, Brad ",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Secretary of State",
+    "partyDescr": "Republican",
+    "periods": 2,
+    "receipts": 0.0,
+    "expenditures": 0.0,
+    "balance": 0.0,
+    "summary": {
+        "contributions": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "cash_on_hand": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        }
+    },
+    "unitemized_contributions": {
+        "total": 0.0,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 0.0
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": 0.0
+            }
+        ]
+    }
+}

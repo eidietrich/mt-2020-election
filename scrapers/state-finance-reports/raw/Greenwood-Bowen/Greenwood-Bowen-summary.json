@@ -1,0 +1,45 @@
+{
+    "slug": "Greenwood-Bowen",
+    "candidateName": "Greenwood, Bowen ",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Secretary of State",
+    "partyDescr": "Republican",
+    "periods": 3,
+    "receipts": 19310.87,
+    "expenditures": 7922.9400000000005,
+    "balance": 11387.93,
+    "summary": {
+        "contributions": {
+            "primary": 15245.87,
+            "general": 4065.0,
+            "total": 19310.87
+        },
+        "expenditures": {
+            "primary": 7492.6,
+            "general": 430.34,
+            "total": 7922.9400000000005
+        },
+        "cash_on_hand": {
+            "primary": 7753.27,
+            "general": 3634.66,
+            "total": 11387.93
+        }
+    },
+    "unitemized_contributions": {
+        "total": -1465.4499999999991,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 118.75999999999999
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": 203.0
+            },
+            {
+                "report": "10/01/2019 to 12/31/2019",
+                "unitemized_contributions": -1787.2099999999991
+            }
+        ]
+    }
+}

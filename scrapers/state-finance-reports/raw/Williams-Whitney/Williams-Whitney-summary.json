@@ -1,0 +1,45 @@
+{
+    "slug": "Williams-Whitney",
+    "candidateName": "Williams, Whitney ",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Governor",
+    "partyDescr": "Democrat",
+    "periods": 3,
+    "receipts": 848513.2699999999,
+    "expenditures": 494231.08,
+    "balance": 354282.19,
+    "summary": {
+        "contributions": {
+            "primary": 630328.67,
+            "general": 218184.6,
+            "total": 848513.2699999999
+        },
+        "expenditures": {
+            "primary": 492416.08,
+            "general": 1815.0,
+            "total": 494231.08
+        },
+        "cash_on_hand": {
+            "primary": 137912.59,
+            "general": 216369.6,
+            "total": 354282.19
+        }
+    },
+    "unitemized_contributions": {
+        "total": 17753.26999999999,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 3669.220000000001
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": 6644.049999999988
+            },
+            {
+                "report": "10/01/2019 to 12/31/2019",
+                "unitemized_contributions": 7440.0
+            }
+        ]
+    }
+}

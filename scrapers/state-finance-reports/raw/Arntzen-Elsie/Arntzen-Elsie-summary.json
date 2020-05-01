@@ -1,0 +1,53 @@
+{
+    "slug": "Arntzen-Elsie",
+    "candidateName": "Arntzen, Elsie ",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Superintendent of Public Instruction",
+    "partyDescr": "Republican",
+    "periods": 5,
+    "receipts": 52482.51,
+    "expenditures": 23246.95,
+    "balance": 29235.56,
+    "summary": {
+        "contributions": {
+            "primary": 50772.51,
+            "general": 1710.0,
+            "total": 52482.51
+        },
+        "expenditures": {
+            "primary": 23246.95,
+            "general": 0.0,
+            "total": 23246.95
+        },
+        "cash_on_hand": {
+            "primary": 27525.56,
+            "general": 1710.0,
+            "total": 29235.56
+        }
+    },
+    "unitemized_contributions": {
+        "total": 504.0,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 25.0
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": 85.0
+            },
+            {
+                "report": "10/01/2019 to 12/31/2019",
+                "unitemized_contributions": 374.0
+            },
+            {
+                "report": "07/01/2019 to 09/30/2019",
+                "unitemized_contributions": 0.0
+            },
+            {
+                "report": "06/01/2019 to 06/30/2019",
+                "unitemized_contributions": 20.0
+            }
+        ]
+    }
+}

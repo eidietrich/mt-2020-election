@@ -1,0 +1,53 @@
+{
+    "slug": "Graybill-Raph",
+    "candidateName": "Graybill, Raph ",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Attorney General",
+    "partyDescr": "Democrat",
+    "periods": 5,
+    "receipts": 281916.82,
+    "expenditures": 50412.0,
+    "balance": 231504.82,
+    "summary": {
+        "contributions": {
+            "primary": 219439.82,
+            "general": 62477.0,
+            "total": 281916.82
+        },
+        "expenditures": {
+            "primary": 48522.68,
+            "general": 1889.3200000000002,
+            "total": 50412.0
+        },
+        "cash_on_hand": {
+            "primary": 170917.14,
+            "general": 60587.68,
+            "total": 231504.82
+        }
+    },
+    "unitemized_contributions": {
+        "total": 13821.880000000005,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 4036.1100000000006
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": 7273.889999999999
+            },
+            {
+                "report": "10/01/2019 to 12/31/2019",
+                "unitemized_contributions": 828.8700000000026
+            },
+            {
+                "report": "07/01/2019 to 09/30/2019",
+                "unitemized_contributions": 743.489999999998
+            },
+            {
+                "report": "04/01/2019 to 06/30/2019",
+                "unitemized_contributions": 939.5200000000041
+            }
+        ]
+    }
+}

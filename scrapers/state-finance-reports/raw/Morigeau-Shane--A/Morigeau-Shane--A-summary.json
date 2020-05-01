@@ -1,0 +1,53 @@
+{
+    "slug": "Morigeau-Shane--A",
+    "candidateName": "Morigeau, Shane  A",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "State Auditor",
+    "partyDescr": "Democrat",
+    "periods": 5,
+    "receipts": 109615.41,
+    "expenditures": 64669.270000000004,
+    "balance": 44946.14,
+    "summary": {
+        "contributions": {
+            "primary": 102935.41,
+            "general": 6680.0,
+            "total": 109615.41
+        },
+        "expenditures": {
+            "primary": 64669.270000000004,
+            "general": 0.0,
+            "total": 64669.270000000004
+        },
+        "cash_on_hand": {
+            "primary": 38266.14,
+            "general": 6680.0,
+            "total": 44946.14
+        }
+    },
+    "unitemized_contributions": {
+        "total": -1926.2399999999961,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": -970.0900000000001
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": -2803.3399999999965
+            },
+            {
+                "report": "10/01/2019 to 12/31/2019",
+                "unitemized_contributions": -88.40999999999985
+            },
+            {
+                "report": "07/01/2019 to 09/30/2019",
+                "unitemized_contributions": 1579.4500000000007
+            },
+            {
+                "report": "06/01/2019 to 06/30/2019",
+                "unitemized_contributions": 356.14999999999964
+            }
+        ]
+    }
+}

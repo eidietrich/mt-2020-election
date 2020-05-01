@@ -1,0 +1,49 @@
+{
+    "slug": "Cooney-Mike--R",
+    "candidateName": "Cooney, Mike  R",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Governor",
+    "partyDescr": "Democrat",
+    "periods": 4,
+    "receipts": 758226.42,
+    "expenditures": 514598.79000000004,
+    "balance": 243627.63,
+    "summary": {
+        "contributions": {
+            "primary": 684990.42,
+            "general": 73236.0,
+            "total": 758226.42
+        },
+        "expenditures": {
+            "primary": 511739.79000000004,
+            "general": 2859.0,
+            "total": 514598.79000000004
+        },
+        "cash_on_hand": {
+            "primary": 173250.63,
+            "general": 70377.0,
+            "total": 243627.63
+        }
+    },
+    "unitemized_contributions": {
+        "total": 75151.32999999996,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 4791.0
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": 18705.409999999974
+            },
+            {
+                "report": "10/01/2019 to 12/31/2019",
+                "unitemized_contributions": 20977.73999999999
+            },
+            {
+                "report": "07/01/2019 to 09/30/2019",
+                "unitemized_contributions": 30677.179999999993
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Ending Balance": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "report_start_date": "03/09/2020",
+        "report_end_date": "03/25/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"03\\/09\\/2020\",\"Entity Name\":null,\"First Name\":\"Royal\",\"Middle Initial\":\"a\",\"Last Name\":\"Davis\",\"Addr Line1\":\"PO Box 4673\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59604,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Retired\",\"Employer\":\"Retired\",\"Contribution Type\":3,\"Amount\":1410.23,\"Amount Type\":\"IK\",\"Purpose\":\"SOS Filing fee\",\"Election Type\":\"PM\",\"Total Primary\":1410.23,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[]",
+    "unitemized_contributions": -1410.23
+}

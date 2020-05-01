@@ -1,0 +1,57 @@
+{
+    "slug": "Bennion-Jon",
+    "candidateName": "Bennion, Jon ",
+    "scrape_date": "2020-04-30",
+    "officeTitle": "Attorney General",
+    "partyDescr": "Republican",
+    "periods": 6,
+    "receipts": 209098.76,
+    "expenditures": 34883.81,
+    "balance": 174214.95,
+    "summary": {
+        "contributions": {
+            "primary": 166893.76,
+            "general": 42205.0,
+            "total": 209098.76
+        },
+        "expenditures": {
+            "primary": 34750.909999999996,
+            "general": 132.9,
+            "total": 34883.81
+        },
+        "cash_on_hand": {
+            "primary": 132142.85,
+            "general": 42072.1,
+            "total": 174214.95
+        }
+    },
+    "unitemized_contributions": {
+        "total": -4766.280000000001,
+        "reports": [
+            {
+                "report": "03/16/2020 to 04/15/2020",
+                "unitemized_contributions": 182.76000000000022
+            },
+            {
+                "report": "01/01/2020 to 03/15/2020",
+                "unitemized_contributions": -507.76000000000204
+            },
+            {
+                "report": "10/01/2019 to 12/31/2019",
+                "unitemized_contributions": -375.1399999999994
+            },
+            {
+                "report": "07/01/2019 to 09/30/2019",
+                "unitemized_contributions": -4881.139999999999
+            },
+            {
+                "report": "04/02/2019 to 06/30/2019",
+                "unitemized_contributions": 305.0
+            },
+            {
+                "report": "01/01/2019 to 04/01/2019",
+                "unitemized_contributions": 510.0
+            }
+        ]
+    }
+}
