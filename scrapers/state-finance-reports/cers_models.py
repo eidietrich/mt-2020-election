@@ -30,6 +30,21 @@ import json
 import re
 from bs4 import BeautifulSoup
 
+# Hacky - Alternative reports for places where CERS is choking
+# id: filename: filePath (.csv downloaded from CERS on a good day)
+MANUAL_CACHES = {
+    46959: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-46959-cooney-q12020-contributions.csv', # Cooney Q1 2020, which is sticking
+    46348: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-46348-cooney-q42019-contributions.csv',
+    45786: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-45786-cooney-q32019-contributions.csv',
+}
+
+
+
+
+
+
+
+
 class CandidateList:
     """List of candidates from specific search
     - fetchReports - flag to run costly scrape of individual financial reports
@@ -298,9 +313,15 @@ class Report:
             if checkCache:
                 if os.path.isfile(filePath):
                     self._get_c5_data_from_cache(filePath)
+                elif self.id in MANUAL_CACHES.keys():
+                    # Files that I'm having a hard time downloading from CERS
+                    self._get_c5_data_from_manual_cache()
                 else:
                     self._get_c5_data_from_scrape()
+            elif self.id in MANUAL_CACHES.keys():
+                self._get_c5_data_from_manual_cache()
             else:
+                print('scraping')
                 self._get_c5_data_from_scrape()
             
             if writeCache:
@@ -320,15 +341,22 @@ class Report:
         self.unitemized_contributions = cache['unitemized_contributions']
         # TODO: Write unit test to unsure caching/uncaching doesn't change data
 
+    def _get_c5_data_from_manual_cache(self):
+        file = MANUAL_CACHES[self.id]
+        print(f'Fetching manual cache {file}')
+        self.summary = self._fetch_report_summary()
+        if self.fetchFullReports:
+            self.contributions = pd.read_csv(file, sep='|', error_bad_lines=False, warn_bad_lines=True, index_col=False)
+            self.expenditures = self._fetch_expenditures_schedule()
+            # TODO - move this to cleaning step?
+            self.unitemized_contributions = self._calc_unitemized_contributions()
+
     def _get_c5_data_from_scrape(self):
         print(f'Fetching C5 {self.start_date}-{self.end_date} ({self.id})')
         self.summary = self._fetch_report_summary()
-        print('summary skipped')
         if self.fetchFullReports:
             self.contributions = self._fetch_contributions_schedule()
-            print('contributions fetched')
             self.expenditures = self._fetch_expenditures_schedule()
-            print('expenditures fetched')
             # TODO - move this to cleaning step?
             self.unitemized_contributions = self._calc_unitemized_contributions()
 
@@ -388,13 +416,9 @@ class Report:
         }
 
         session = requests.Session()
-        print('posting')
         p = session.post(post_url, post_payload, timeout=120)
-        print('posted')
         if 'fileName' in p.json():
-            print('getting')
             r = session.get(get_url, params=p.json())
-            print('gotten')
             if r.text == '':
                 print('Empty file. Report ID:', report_id)
             raw_text = r.text
