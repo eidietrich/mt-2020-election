@@ -14,6 +14,7 @@ summary_paths = glob.glob(os.path.join(IN_PATH, '*/*-summary.json'))
 summaries = []
 for file in summary_paths:
     summary = open_json(file)
+    summary['candidateName'] = summary['candidateName'].strip()
     summaries.append(dict(summary))
 
 contribution_paths = glob.glob(os.path.join(IN_PATH, '*/*-contributions-itemized.json'))
