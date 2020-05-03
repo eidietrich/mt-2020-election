@@ -324,7 +324,6 @@ class Report:
             elif self.id in MANUAL_CACHES.keys():
                 self._get_c5_data_from_manual_cache()
             else:
-                print('scraping')
                 self._get_c5_data_from_scrape()
             
             if writeCache:
