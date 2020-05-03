@@ -150,7 +150,8 @@ class Candidate:
             self.summary = self._get_summary()
             self.contributions = self._get_contributions()
             self.expenditures = self._get_expenditures()
-            self.unitemized_contributions = self._get_unitemized_contributions()
+            # self.unitemized_contributions = self._get_unitemized_contributions()
+            self.summarized_reports = self._summarize_reports()
             print(f'Found {len(self.contributions)} contributions and {len(self.expenditures)} expenditures in {len(self.finance_reports)} reports')
             self.export(cachePath)
             print('\n')
@@ -190,7 +191,7 @@ class Candidate:
     def list_reports(self):
         return self.raw_reports
 
-    def list_summaries(self):
+    def list_report_summaries(self):
         summaries = [c.summary for c in self.finance_reports]
         summaries_sorted = sorted(summaries, key=lambda i: parse(i['report_end_date']))
         return summaries_sorted
@@ -214,7 +215,8 @@ class Candidate:
             'expenditures': self.summary['expenditures']['total'],
             'balance': self.summary['cash_on_hand']['total'],
             'summary': self.summary,
-            'unitemized_contributions': self.unitemized_contributions,
+            # 'unitemized_contributions': self.unitemized_contributions,
+            'reports': self.summarized_reports
         }
         with open(summary_path, 'w') as f:
             json.dump(summary, f, indent=4)
@@ -277,21 +279,22 @@ class Candidate:
             df = df.append(dfi)
         return df
 
-    def _get_unitemized_contributions(self):
+    def _summarize_reports(self):
         """
         Return total + by-report unitemized contributions
         """
         reports = self.finance_reports
-        by_report = [{
+        return [{
             'report': r.label,
+            'id': r.id,
+            'type': r.data['formTypeCode'],
+            'start_date': r.start_date,
+            'end_date': r.end_date,
             'unitemized_contributions': r.unitemized_contributions,
+            'num_contributions': len(r.contributions),
+            'num_expenditures': len(r.expenditures),
+            'summary': r.summary
         } for r in reports]
-        
-        return {
-            'total': sum(r.unitemized_contributions for r in reports),
-            'reports': by_report
-        }
-
 
 class Report:
     def __init__(self, data, cachePath, checkCache=True, writeCache=True, fetchFullReports=True):
