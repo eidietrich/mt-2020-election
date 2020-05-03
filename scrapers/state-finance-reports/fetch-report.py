@@ -16,8 +16,9 @@ def open_json(path):
 
 # report_id = 47485 # Arntzen Q2 2020
 # report_id = 46959 # Cooney Q1 2020, which is sticking --> Manually cached
-report_id = 46348 # Cooney 10/01/2019-12/31/2019 - Also sticking
+# report_id = 46348 # Cooney 10/01/2019-12/31/2019 - Also sticking
 # report_id = 45786 # Cooney 7/1 to 9/30 2019 -
+report_id = 47481 # Downing
 candidates = open_json('scrapers/state-finance-reports/raw/candidates.json')
 reports = []
 for candidate in candidates:

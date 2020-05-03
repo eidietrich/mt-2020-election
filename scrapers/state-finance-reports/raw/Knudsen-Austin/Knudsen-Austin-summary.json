@@ -100,7 +100,7 @@
             "type": "C5",
             "start_date": "10/01/2019",
             "end_date": "12/31/2019",
-            "unitemized_contributions": 164.0,
+            "unitemized_contributions": 340.0,
             "num_contributions": 167,
             "num_expenditures": 19,
             "summary": {
@@ -134,7 +134,7 @@
             "type": "C5",
             "start_date": "07/01/2019",
             "end_date": "09/30/2019",
-            "unitemized_contributions": -21.5,
+            "unitemized_contributions": 205.0,
             "num_contributions": 146,
             "num_expenditures": 13,
             "summary": {
@@ -168,7 +168,7 @@
             "type": "C5",
             "start_date": "05/17/2019",
             "end_date": "06/30/2019",
-            "unitemized_contributions": -1835.1300000000047,
+            "unitemized_contributions": 675.0,
             "num_contributions": 241,
             "num_expenditures": 31,
             "summary": {

@@ -341,7 +341,9 @@ class Report:
         self.summary = cache['summary']
         self.contributions = pd.read_json(cache['contributions'])
         self.expenditures = pd.read_json(cache['expenditures'])
-        self.unitemized_contributions = cache['unitemized_contributions']
+         # TODO - move this to cleaning step?
+        self.unitemized_contributions = self._calc_unitemized_contributions()
+        # self.unitemized_contributions = cache['unitemized_contributions']
         # TODO: Write unit test to unsure caching/uncaching doesn't change data
 
     def _get_c5_data_from_manual_cache(self):
@@ -455,7 +457,8 @@ class Report:
     def _calc_unitemized_contributions(self):
         totalSum = self.summary['Receipts']['total']
         if (len(self.contributions) > 0):
-            itemizedSum = self.contributions['Amount'].sum()
+            cashContributions =  self.contributions[self.contributions['Amount Type'] == 'CA']
+            itemizedSum = cashContributions['Amount'].sum()
         else:
             itemizedSum = 0
         # Only bothering with totals for now
