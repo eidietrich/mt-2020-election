@@ -16,11 +16,15 @@ See: https://www.fec.gov/campaign-finance-data/contributions-individuals-file-de
 
 If this works as intended, total campaign receipts should total the sum of items for each candidate plus unitemized individual contributions not counted here. (It looks like there are still small discrepancies in the data, but I'm calling it good enough)
 '''
-
+print('raw', raw['committee_name'].value_counts(dropna=False))
 cleaned = raw[
-    (raw['two_year_transaction_period'] == 2020) # limits to 2019-20 period (some U.S. Senate candidates have been fundraising longer)
+    # limits to 2019-20 period (some U.S. Senate candidates have been fundraising longer)
+    # two_transaction_period is non-null in processed data
+    # pgo field is non-null in raw data
+    (raw['two_year_transaction_period'] == 2020) | (raw['pgo'].isin(['P2020', 'G2020'])) 
     & (raw['memo_code'] != 'X') # Removes duplicate items from total
 ]
+print('cleaned', cleaned['committee_name'].value_counts(dropna=False))
 
 
 print('## Cleaning/de-duplicating federal itemized data')

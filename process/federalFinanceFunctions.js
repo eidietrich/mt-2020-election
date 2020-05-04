@@ -11,34 +11,13 @@ const {
     dateFormat,
 } = require('./functions.js')
 
-/*
-Need to match state candidate summaries of form
-{
-    key: 'Nelly-Nicol',
-    totalRaised: 0,
-    totalRaisedPrimary: 0,
-    totalRaisedGeneral: 0,
-    totalSpent: 0,
-    numIndividualContributions: 0,
-    averageIndividualContributionSize: NaN,
-    percentIndividualFromMontana: NaN,
-    numReportingPeriods: 0,
-    firstReportingDate: undefined,
-    lastReportingDate: undefined,
-    cumulativeContributions: [],
-    cumulativeExpenditures: [],
-    contributionsByZip: [],
-    contributionsByType: []
-}
-*/
-
 const candidateInfoList = getJson('./scrapers/fed-finance-reports/data/candidates.json')
 
 module.exports.checkFederalReportingPeriodCompleteness = function (candidates, contributions){
     const names = candidates.map(d => d.fed_finance_data_name).filter(d => d !== '')
     const check = names.map(name => {
         const candidateInfo = candidateInfoList.find(d => d['CAND_NAME'] === name) || {}
-        if (!candidateInfo.CAND_PCC) console.log('No candidate info match')
+        // if (!candidateInfo.CAND_PCC) console.warn('No candidate info match', name)
         const matches = contributions.filter(d => d.committee_id === candidateInfo.CAND_PCC)
         const reportingPeriods = Array.from(new Set(matches.map(d => `${d.report_type}_${d.report_year}` ))).sort()
         const reportingPeriodCounts = {}
@@ -63,9 +42,11 @@ module.exports.checkFederalReportingPeriodCompleteness = function (candidates, c
 
 module.exports.checkFederalCandidateMatches = function (candidates, federalCampaignTotals){
     const federalFinanceDataNames = Array.from(new Set(federalCampaignTotals.map(d => d['CAND_NAME'])))
+    console.log(federalFinanceDataNames)
     const missingMatches = candidates
         .filter(d => !(federalFinanceDataNames.includes(d.fed_finance_data_name)))
-    console.log('\n### No federal finance data for:', missingMatches.map(d => `${d.last_name}, ${d.first_name} (Fed:${d.fed_finance_data_name})`))
+    console.log('\n###')
+    console.log('No federal finance data for:', missingMatches.map(d => `${d.last_name}, ${d.first_name} (Fed:${d.fed_finance_data_name})`))
 }
 
 module.exports.makeFederalCandidateSummaries = function (candidates, fundraisingSummaries, contributions, expenditures){

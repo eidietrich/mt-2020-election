@@ -7,6 +7,7 @@ import requests
 import json
 import io
 import time
+from datetime import date
 
 from secrets import API_KEY # FEC API key: See https://api.open.fec.gov/developers/
 
@@ -41,7 +42,7 @@ def fetch_download_url(call):
     
     if (attempts == 10):
         print('Failed after 10 attempts')
-        return null
+        return None
     return response.json()['url']
 
 def get_download(url):
@@ -54,10 +55,23 @@ def fetch_committee_receipts(committee_id, processed=True):
     url = fetch_download_url(call)
     df = get_download(url)
     if (len(df) > 0):
-        print(f'Fetched {df.iloc[0]["committee_name"]}:', len(df))
+        df['filing_type'] = 'processed'
+        df['scrape_date'] = date.today().strftime('%Y-%m-%d')
+        print(f'Fetched {df.iloc[0]["committee_name"]} via processed filings:', len(df))
+        return df
     else:
-        print(f'No rows returned: {committee_id}')
-    return df
+        # If no rows in processed data, fall back to raw FEC filings
+        print('No processed filings, falling back to raw')
+        call = build_url_call(committee_id, processed=False)
+        url = fetch_download_url(call)
+        df = get_download(url)
+        if (len(df) > 0):
+            df['filing_type'] = 'raw'
+            print(f'Fetched {df.iloc[0]["committee_name"]} via raw filings:', len(df))
+            return df
+        else:
+            print(f'No rows returned: {committee_id}')
+            return pd.DataFrame()
 
 def fetch_all_receipts(committee_ids):
     df = pd.DataFrame()

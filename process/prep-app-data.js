@@ -36,7 +36,7 @@ const {
 
 // INPUTS
 // TODO: Add STATE_FINANCE_SUMMARY
-const STATE_FINANCE_SUMMARY = './scrapers/state-finance-reports/data/state-candidate-summaries.json'
+// const STATE_FINANCE_SUMMARY = './scrapers/state-finance-reports/data/state-candidate-summaries.json'
 const STATE_FINANCE_SOURCE = './scrapers/state-finance-reports/data/state-finance-cleaned.json'
 const FED_FINANCE_SUMMARY = './scrapers/fed-finance-reports/data/raw-summaries.json'
 const FED_ITEMIZED_RECEIPTS = './scrapers/fed-finance-reports/data/itemized-receipts.json'
@@ -54,7 +54,7 @@ const APP_DATA = './app/src/data/app-prepped-data.json'
 
 const { candidates, races } = getJson(APP_COPY_PATH)
 // const { links } = getJson(OUTSIDE_LINKS_PATH)
-const stateFinanceTotals = getJson(STATE_FINANCE_SUMMARY)
+
 const stateFinance = getJson(STATE_FINANCE_SOURCE)
 const stateContributions = cleanStateContributions(JSON.parse(stateFinance.contributions))
 const stateExpenditures = cleanStateExpenditures(JSON.parse(stateFinance.expenditures))
@@ -75,17 +75,17 @@ activeCandidates.forEach(candidate => {
 activeFederalCandidates = activeCandidates.filter(d => d.jurisdiction === 'federal')
 activeStateCandidates = activeCandidates.filter(d => d.jurisdiction === 'state')
 
-console.log(
-`## Candidates:
-${activeCandidates.length} Active candidates
-${activeFederalCandidates.length} Federal
-${activeStateCandidates.length} State
-${ activeCandidates.length - activeFederalCandidates.length - activeStateCandidates.length} UNSORTED
-`
-)
+// console.log(
+// `## Candidates:
+// ${activeCandidates.length} Active candidates
+// ${activeFederalCandidates.length} Federal
+// ${activeStateCandidates.length} State
+// ${ activeCandidates.length - activeFederalCandidates.length - activeStateCandidates.length} UNSORTED
+// `
+// )
 
 // run pre-processing tests
-checkStateCandidateMatches(activeStateCandidates, stateContributions)
+checkStateCandidateMatches(activeStateCandidates, stateFinance.summaries)
 checkFederalCandidateMatches(activeFederalCandidates, federalFinanceTotals)
 checkStateReportingPeriodCompleteness(activeStateCandidates, stateContributions)
 checkFederalReportingPeriodCompleteness(activeFederalCandidates, federalContributions)
@@ -95,7 +95,7 @@ checkFederalReportingPeriodCompleteness(activeFederalCandidates, federalContribu
 //     `\n## State Finance:
 //     Processing ${stateContributions.length} contributions, ${stateExpenditures.length} expenditures
 //     `)
-const stateFinanceSummaries = makeStateCandidateSummaries(activeStateCandidates, stateFinanceTotals, stateContributions, stateExpenditures)
+const stateFinanceSummaries = makeStateCandidateSummaries(activeStateCandidates, stateFinance.summaries, stateContributions, stateExpenditures)
 // console.log(
 //     `\n## Federal Finance:
 //     Processing ${federalContributions.length} contributions, ${federalExpenditures.length} expenditures

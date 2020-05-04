@@ -45,8 +45,14 @@ def get_mt_federal_candidates():
         & (df['CAND_ELECTION_YR'] == 2020)
         & (df['CAND_OFFICE'].isin(['H','S'])) # House or Senate
     ]
-    mt_2020.to_json('data/mt-2020-candidates.json', orient='records')
-    return mt_2020
+    
+    # b/c Kathleen Williams has been miscategorized as a Mississippi candidate
+    kw = df[(df["CAND_ID"] == 'H8MT01232') & (df["CAND_OFFICE_ST"] != 'MT')].copy()
+    kw["CAND_OFFICE_ST"] = 'MT'
+
+    candidates = mt_2020.append(kw)
+    candidates.to_json('data/mt-2020-candidates.json', orient='records')
+    return candidates
 
 # cols to include in abbreviated data
 cand_cols = [
@@ -55,7 +61,8 @@ cand_cols = [
     'candidate_status','last_f2_date', 'first_file_date','last_file_date'
 ]
 
-def get_campaign_summaries(candidate_ids, BASE_PATH):
+
+def get_campaign_summaries(candidates, BASE_PATH):
     # JUST for 2019-20 period
     url = 'https://www.fec.gov/files/bulk-downloads/2020/webl20.zip'
     # Data dictionary: https://www.fec.gov/campaign-finance-data/current-campaigns-house-and-senate-file-description/
@@ -71,6 +78,9 @@ def get_campaign_summaries(candidate_ids, BASE_PATH):
         "GEN_ELECTION_PRECENT", "OTHER_POL_CMTE_CONTRIB", "POL_PTY_CONTRIB", 
         "CVG_END_DT", "INDIV_REFUNDS", "CMTE_REFUNDS"
     ]
-    df = pd.read_csv(local_path, delimiter="|", header=None, names=names)
-    df = df[df['CAND_ID'].isin(candidate_ids)]
-    return df
+    summaries = pd.read_csv(local_path, delimiter="|", header=None, names=names)
+    # df = df[df['CAND_ID'].isin(candidate_ids)]
+    join_on = ['CAND_ID','CAND_NAME','CAND_PTY_AFFILIATION','CAND_OFFICE_ST']
+    
+    combined = candidates.merge(summaries, on=join_on, how='left')
+    return combined

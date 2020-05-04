@@ -49,12 +49,13 @@ module.exports.cleanStateExpenditures = function (expenditures){
 }
 
 
-module.exports.checkStateCandidateMatches = function (candidates, contributions){
-    const stateFinanceDataNames = Array.from(new Set(contributions.map(d => d.Candidate)))
+module.exports.checkStateCandidateMatches = function (candidates, summaries){
+    const stateFinanceDataNames = summaries.map( d => d['candidateName'])
+    // console.log('state data names', stateFinanceDataNames)
     const candidatesWithoutStateFinanceDataMatch = candidates
-        // .filter(d => d.jurisdiction === 'state') // exclude federal candidates 
         .filter(d => !(stateFinanceDataNames.includes(d.state_finance_data_name)))
-    console.log('\n### No state finance data for:', candidatesWithoutStateFinanceDataMatch.map(d => `${d.last_name}, ${d.first_name}: (State:${d.state_finance_data_name})`))
+    console.log('\n###')
+    console.log('Candidates in app config missing from state finance data:', candidatesWithoutStateFinanceDataMatch.map(d => `${d.last_name}, ${d.first_name}: (State:${d.state_finance_data_name})`))
 }
 module.exports.checkStateReportingPeriodCompleteness = function (candidates, contributions){
     const names = candidates.map(d => d.state_finance_data_name).filter(d => d !== '')
