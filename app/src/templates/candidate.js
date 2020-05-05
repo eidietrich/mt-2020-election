@@ -3,8 +3,10 @@ import { Link } from 'gatsby'
 import Layout from "../components/layout"
 import SEO from '../components/seo'
 
-import CandidateFinance from '../components/CandidateFinance' 
 import CandidateSummary from '../components/CandidateSummary'
+import CandidateFinance from '../components/CandidateFinance' 
+import CandidateIssues from '../components/CandidateIssues'
+
 import MoreToComeMessage from '../components/MoreToComeMessage'
 
 import LinksList from '../library/LinksList'
@@ -15,9 +17,9 @@ import {
     makeCandidateKey,
     makeRaceUrl,
     candidateNameParty,
-    getCandidateParty
+    getCandidateParty,
 } from '../logic/functions.js'
-import { excludeStatuses } from '../logic/config.js'
+import { excludeStatuses, hasIssueAnswers } from '../logic/config.js'
 
 import { candidates } from '../data/app-copy.json' // TODO: Replace this with gatsby-node logic
 
@@ -65,7 +67,16 @@ class CandidatePage extends Component {
             </div>
             
             <hr /> 
+
+            {hasIssueAnswers[candidate.position] ?
+                <CandidateIssues
+                    candidate={candidate}
+                    race={race}
+                    color={party.color}
+                /> : null}
+            {hasIssueAnswers[candidate.position] ? <hr /> : null}
             
+
             <CandidateFinance 
                 candidate={candidate}
                 race={race}

@@ -1,0 +1,22 @@
+.responses {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.response {
+    flex: 1 0 50%;
+    min-width: 20em;
+    /* padding-left: 1em; */
+    padding-right: 1em;
+    /* margin-right: 1em; */
+    /* margin-left: 1px; */
+}
+
+.issueHeader {
+    /* color: red; */
+    background-color: #222;
+    color: #fff;
+    padding: 0.5em;
+    padding-bottom: 1em;
+    /* font-size: 1.2em; */
+}

@@ -9,6 +9,7 @@
 const { candidates, races } = require('./src/data/app-copy.json')
 const preppedData = require('./src/data/app-prepped-data.json') // TODO: Change file name
 const coverageLinks = require('./src/data/outside-links.json')
+const issueStatements = require('./src/data/q-and-a.json')
 
 const financeSummaries = preppedData.finance
 
@@ -21,8 +22,10 @@ const makeRaceKey = race => race.position.replace(/\s/g, '-')
 
 // TODO: Move data-matching logic to standalone process script
 activeCandidates.forEach(candidate => {
-    candidate.finance = financeSummaries.find(summary => summary.key === makeCandidateKey(candidate))
-    candidate.coverageLinks = coverageLinks.filter(link => link.candidate === makeCandidateKey(candidate))
+    const candidateKey = makeCandidateKey(candidate)
+    candidate.finance = financeSummaries.find(summary => summary.key === candidateKey)
+    candidate.coverageLinks = coverageLinks.filter(link => link.candidate === candidateKey)
+    candidate.issues = issueStatements.find(statement => statement.name.replace(/\s/g, '-') === candidateKey)
 })
 
 races.forEach(race => {

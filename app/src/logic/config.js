@@ -24,6 +24,16 @@ export const fundraisingDomainUpperBound = {
   'State-Auditor': 100000,
 }
 
+export const hasIssueAnswers = {
+  'Governor': true,
+  'U.S.-Senate': true,
+  'U.S.-House': true,
+  'Attorney-General': true,
+  'Secretary-of-State' : false,
+  'Superintendent-of-Public-Instruction': false,
+  'State-Auditor': false,
+}
+
 
 // candidate statuses excluded from summary page
 export const excludeStatuses = ['Withdrawn','Not Running','Rumored','Potential','Suspended']

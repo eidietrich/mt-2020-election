@@ -2,7 +2,8 @@ import React, { Component } from 'react'
 import Layout from "../components/layout"
 import SEO from '../components/seo'
 
-import RaceFinance from '../components/RaceFinance' 
+import RaceFinance from '../components/RaceFinance'
+import RaceIssues from '../components/RaceIssues' 
 import RaceCandidateSummary from '../components/RaceCandidateSummary' 
 import LinksList from '../library/LinksList'
 
@@ -27,6 +28,11 @@ class RacePage extends Component {
             
             <h2>Candidates</h2>
             <RaceCandidateSummary
+                race={race}
+                candidates={raceCandidates}
+            />
+            <hr />
+            <RaceIssues
                 race={race}
                 candidates={raceCandidates}
             />
