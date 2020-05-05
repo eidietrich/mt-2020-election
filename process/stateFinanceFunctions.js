@@ -57,29 +57,47 @@ module.exports.checkStateCandidateMatches = function (candidates, summaries){
     console.log('\n###')
     console.log('Candidates in app config missing from state finance data:', candidatesWithoutStateFinanceDataMatch.map(d => `${d.last_name}, ${d.first_name}: (State:${d.state_finance_data_name})`))
 }
-module.exports.checkStateReportingPeriodCompleteness = function (candidates, contributions){
+module.exports.checkStateReportingPeriodCompleteness = function (candidates, summaries, contributions){
     const names = candidates.map(d => d.state_finance_data_name).filter(d => d !== '')
     const check = names.map(name => {
         const matches = contributions.filter(d => d.Candidate === name)
-        const reportingPeriods = Array.from(new Set(matches.map(d => d['Reporting Period']))).sort()
+        const summary = summaries.find(d => d['candidateName'].trim() === name)
+        if (!summary) console.log('No summary match for', name)
+
+        // const reportingPeriods = Array.from(new Set(matches.map(d => d['Reporting Period']))).sort()
+        const reportingPeriods = (summary && summary.reports && summary.reports.map(d => d.report)) || []
         const reportingPeriodsNotInConfig = reportingPeriods.filter(d => !Object.keys(reportingPeriodDict).includes(d))
         if (reportingPeriodsNotInConfig.length > 0){
             console.warn("\x1b[33m", '\nUncategorized state reporting periods in process/config:\n',
                 reportingPeriodsNotInConfig
             )
         }
+        const contributionsNotMatched = matches.filter(d => !reportingPeriods.includes(d['Reporting Period']))
+        if (contributionsNotMatched.length > 0){
+            console.warn("\x1b[33m", '\nContributions with unmatched reporting periods:\n',
+                contributionsNotMatched.length,
+                name,
+                'reportPeriods', reportingPeriods,
+                'unmatched:', new Set(contributionsNotMatched.map(d => d['Reporting Period'])),
+                
+            )
+        }
+
+        const periodOrder = Array.from(new Set(Object.values(reportingPeriodDict)))
         const reportingPeriodCounts = {}
-        reportingPeriods.forEach(key => {
-            const quarter = reportingPeriodDict[key]
-            const recordCount = matches.filter(d => d['Reporting Period'] === key).length 
-            reportingPeriodCounts[quarter] = recordCount
-        })
+        reportingPeriods
+            .sort((a,b) => periodOrder.indexOf(reportingPeriodDict[a]) - periodOrder.indexOf(reportingPeriodDict[b]))
+            .forEach(key => {
+                const quarter = reportingPeriodDict[key]
+                const recordCount = matches.filter(d => d['Reporting Period'] === key).length 
+                reportingPeriodCounts[quarter] = recordCount
+            })
         // const reportingStarts = Array.from(new Set(matches.map(d => d.reporting_start))).sort()
         // const reportingEnds = Array.from(new Set(matches.map(d => d.reporting_end))).sort()
         return {
             name,
             records: matches.length,
-            periods: reportingPeriods.length,
+            reports: (summary && summary.reports && summary.reports.length) || 0,
             // first_period: reportingEnds[0],
             // last_period: reportingEnds.slice(-1)[0],
             ...reportingPeriodCounts,
@@ -91,11 +109,12 @@ module.exports.checkStateReportingPeriodCompleteness = function (candidates, con
 
 module.exports.makeStateCandidateSummaries = function (candidates, allSummaryTotals, allItemizedContributions, allItemizedExpenditures){
     const candidateSummaries = candidates.map(candidate => {
-
+        
         // TODO - clean whitespace in data prep step so .trim() isn't necessary here
         const summaryTotals = allSummaryTotals.find(d => d.candidateName.trim() === candidate.state_finance_data_name)
         const itemizedContributions = allItemizedContributions.filter(d => d.Candidate === candidate.state_finance_data_name)
         const itemizedExpenditures = allItemizedExpenditures.filter(d => d.Candidate === candidate.state_finance_data_name)
+        if (!summaryTotals) console.log(`${candidate.last_name} is missing from state summary data`)
         const summaries = summarizeByCandidate(summaryTotals, itemizedContributions, itemizedExpenditures)
         const firstDate = min(itemizedContributions.concat(itemizedExpenditures), d => new Date(d['Date Paid']))
         const lastDate = max(itemizedContributions.concat(itemizedExpenditures), d => new Date(d.reporting_end))
@@ -182,7 +201,6 @@ function totalByType(contributions, candidate){
 }
 function summarizeByCandidate(summary, contributions, expenditures){
     // Prep values for pull stats by candidate
-    if (!summary) console.log("A candidate is missing from state summary data...")
     const totalRaised = (summary && summary.receipts) || 0
     const totalSpent = (summary && summary.expenditures) || 0
     
@@ -217,9 +235,16 @@ function summarizeByCandidate(summary, contributions, expenditures){
         .filter(d => d.State === 'MT')
     const percentIndividualFromMontana = sumAmount(mtIndividualContributions) / sumAmount(individualContributions)
     
-    const reportingPeriods = Array.from(new Set(contributions.map(d => d['Reporting Period']))).sort()
-    const firstReportingDate = Array.from(new Set(contributions.map(d => d.reporting_start))).sort()[0]
-    const lastReportingDate = Array.from(new Set(contributions.map(d => d.reporting_end))).sort().slice(-1)[0]
+    // const reportingPeriods = Array.from(new Set(contributions.map(d => d['Reporting Period']))).sort()
+    const reportingPeriods = (summary && summary.reports) || []
+    
+    
+    const firstReportingDate = Array.from(new Set(
+        reportingPeriods.map(d => d.start_date)
+    )).sort((a,b) => new Date(a) - new Date(b))[0]
+    const lastReportingDate = Array.from(new Set(
+        reportingPeriods.map(d => d.end_date)
+    )).sort((a,b) => new Date(a) - new Date(b)).slice(-1)[0]
     const numReportingPeriods = reportingPeriods.length
     
     return {

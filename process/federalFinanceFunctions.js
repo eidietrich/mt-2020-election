@@ -42,7 +42,7 @@ module.exports.checkFederalReportingPeriodCompleteness = function (candidates, c
 
 module.exports.checkFederalCandidateMatches = function (candidates, federalCampaignTotals){
     const federalFinanceDataNames = Array.from(new Set(federalCampaignTotals.map(d => d['CAND_NAME'])))
-    console.log(federalFinanceDataNames)
+    // console.log(federalFinanceDataNames)
     const missingMatches = candidates
         .filter(d => !(federalFinanceDataNames.includes(d.fed_finance_data_name)))
     console.log('\n###')

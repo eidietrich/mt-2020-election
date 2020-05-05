@@ -87,7 +87,7 @@ activeStateCandidates = activeCandidates.filter(d => d.jurisdiction === 'state')
 // run pre-processing tests
 checkStateCandidateMatches(activeStateCandidates, stateFinance.summaries)
 checkFederalCandidateMatches(activeFederalCandidates, federalFinanceTotals)
-checkStateReportingPeriodCompleteness(activeStateCandidates, stateContributions)
+checkStateReportingPeriodCompleteness(activeStateCandidates, stateFinance.summaries, stateContributions)
 checkFederalReportingPeriodCompleteness(activeFederalCandidates, federalContributions)
 
 // perform aggregation calcs

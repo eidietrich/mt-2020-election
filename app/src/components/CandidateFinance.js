@@ -105,11 +105,24 @@ const StateCandidateFinance = (props) => {
         text,
     } = props
 
+    const dataNote = <div className={styles.note}>
+        As a state candidate, {candidate.last_name} files campaign finance reports with the <a href="https://politicalpractices.mt.gov/">Montana Commissioner of Political Practices</a>. See the COPP <a href="https://camptrackext.mt.gov/CampaignTracker/dashboard">Campaign Electronic Reporting System</a> for official records. Data shown here is current through {dateFormat(new Date(candidate.finance.lastReportingDate))}.
+    </div>
+
+    if (candidate.finance.totalRaised === 0) {
+        return <div className={styles.container}>
+            <h2>Fundraising and campaign spending</h2>
+            {dataNote}
+            <br />
+            <div className={styles.note}>
+                As of that date, {candidate.last_name} had reported no fundraising to the COPP.
+            </div>
+        </div>
+    }
+
     return <div className={styles.container}>
         <h2>Fundraising and campaign spending</h2>
-        <div className={styles.note}>
-            As a state candidate, {candidate.last_name} files campaign finance reports with the <a href="https://politicalpractices.mt.gov/">Montana Commissioner of Political Practices</a>. See the COPP <a href="https://camptrackext.mt.gov/CampaignTracker/dashboard">Campaign Electronic Reporting System</a> for official records. Data shown here is current through {dateFormat(new Date(candidate.finance.lastReportingDate))}.
-        </div>
+        {dataNote}
 
         <div className={styles.row}>
             <PullStatMain
