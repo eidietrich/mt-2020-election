@@ -12,7 +12,8 @@ OUT_PATH = os.path.join(BASE_PATH, 'itemized-receipts-raw.json')
 
 candidates = pd.read_json(CANDIDATE_PATH)
 candidate_committee_ids = list(candidates['CAND_PCC'])
-receipts = fetch_all_receipts(candidate_committee_ids)
+print('Fetching raw itemized receipts')
+receipts = fetch_all_receipts(candidate_committee_ids, processed=False)
 
 print('# Receipts:', len(receipts))
 

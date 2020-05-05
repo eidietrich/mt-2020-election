@@ -72,7 +72,7 @@ const CandidateFinance = (props) => {
         return (
             <div className={styles.container}>
                 <h2>Campaign finance</h2>
-                <div className={styles.note}>No campaign finance filings yet on file. Candidates generally file with the Federal Election Commission or Montana Commissioner of Political Practices on a quarterly basis.</div>
+                <div className={styles.note}>No campaign finance filings yet on file. Candidates generally file with the Federal Election Commission or Montana Commissioner of Political Practices on a quarterly basis. Federal candidates that haven't raised or spent more than $5,000 <a href="https://www.fec.gov/help-candidates-and-committees/registering-candidate/">aren't required to file reports</a>.</div>
             </div>
         )
     }
@@ -208,8 +208,8 @@ const FederalCandidateFinance = (props) => {
     const fecUrl = `https://www.fec.gov/data/candidate/${candidate.finance.federalCandidateId}/?cycle=2020&election_full=false`
 
     const itemizedReportingNote = candidate.finance.lastItemizedReportingDate ?
-        `Map data current through ${dateFormat(new Date(candidate.finance.lastItemizedReportingDate))}. Official itemized data from the FEC can be unavailable for days or weeks following quarterly campaign filing deadlines.` :
-        `No itemized data available from the FEC as of last election guide update. Official itemized data from the FEC can be unavailable for days or weeks following quarterly campaign filing deadlines.`
+        `Map includes contributions through ${dateFormat(new Date(candidate.finance.lastItemizedReportingDate))}.` :
+        `No itemized data available from the FEC as of last election guide update.`
     
     return <div className={styles.container}>
         <h2>Campaign finance</h2>

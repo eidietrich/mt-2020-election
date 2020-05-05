@@ -50,7 +50,7 @@ def get_download(url):
 #     print(f'Fetched {url}')
     return pd.read_csv(io.StringIO(response.text))
 
-def fetch_committee_receipts(committee_id, processed=True):
+def fetch_committee_receipts(committee_id, processed=True, fallBackToRaw=True):
     call = build_url_call(committee_id, processed)
     url = fetch_download_url(call)
     df = get_download(url)
@@ -59,7 +59,7 @@ def fetch_committee_receipts(committee_id, processed=True):
         df['scrape_date'] = date.today().strftime('%Y-%m-%d')
         print(f'Fetched {df.iloc[0]["committee_name"]} via processed filings:', len(df))
         return df
-    else:
+    elif (processed and fallBackToRaw):
         # If no rows in processed data, fall back to raw FEC filings
         print('No processed filings, falling back to raw')
         call = build_url_call(committee_id, processed=False)
@@ -72,11 +72,14 @@ def fetch_committee_receipts(committee_id, processed=True):
         else:
             print(f'No rows returned: {committee_id}')
             return pd.DataFrame()
+    else:
+            print(f'No rows returned: {committee_id}')
+            return pd.DataFrame()
 
-def fetch_all_receipts(committee_ids):
+def fetch_all_receipts(committee_ids, processed=True):
     df = pd.DataFrame()
     for committee_id in committee_ids:
-        dfi = fetch_committee_receipts(committee_id)
+        dfi = fetch_committee_receipts(committee_id, processed)
         df = df.append(dfi)
         if (len(dfi) == 0): print(f'No records found for {committee_id}')
     return df
