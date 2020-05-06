@@ -101,11 +101,10 @@
       "last_name": "Fox",
       "current_title": "Attorney General",
       "incumbent": "FALSE",
-      "residence": "",
       "status": "Announced",
       "state_finance_data_name": "Fox, Tim",
       "photo_slug": "tim-fox.png",
-      "podcast_url": "",
+      "podcast_url": "https://montanafreepress.org/2020/02/25/episode-57-attorney-general-and-republican-candidate-for-governor-tim-fox/",
       "web_url": "https://foxforgovernor.com/",
       "fb_url": "https://www.facebook.com/foxforgovernor/",
       "tw_url": "https://twitter.com/foxforgovernor",
@@ -156,7 +155,7 @@
       "status": "Announced",
       "state_finance_data_name": "Cooney, Mike  R",
       "photo_slug": "mike-cooney.png",
-      "podcast_url": "",
+      "podcast_url": "https://montanafreepress.org/2020/04/28/democratic-candidate-for-governor-mike-cooney/",
       "web_url": "https://www.cooneyformontana.com/",
       "fb_url": "https://www.facebook.com/CooneyForMT/",
       "tw_url": "https://twitter.com/CooneyforMT",
@@ -209,7 +208,7 @@
       "status": "Announced",
       "state_finance_data_name": "Williams, Whitney",
       "photo_slug": "whitney-williams.png",
-      "podcast_url": "",
+      "podcast_url": "https://montanafreepress.org/2020/03/03/episode-58-democratic-candidate-for-governor-whitney-williams/",
       "web_url": "https://whitneyformontana.com/",
       "fb_url": "https://www.facebook.com/WhitneyforMontana/",
       "tw_url": "https://twitter.com/WhitneyforMT",
@@ -1030,9 +1029,9 @@
       "state_finance_data_name": "Winsor, Michael  S",
       "photo_slug": "mike-winsor.png",
       "podcast_url": "",
-      "web_url": "",
-      "fb_url": "",
-      "tw_url": "",
+      "web_url": "https://www.winsor4stateauditor.com/",
+      "fb_url": "https://www.facebook.com/Mike-Winsor-for-State-Auditor-102491428110905",
+      "tw_url": "https://twitter.com/Winsor4Auditor",
       "text": "Winsor, a Helena Attorney who previously worked as a Special Assistant Attorney General for the State Auditor’s Office, filed to run for State Auditor March 8."
     },
     {
@@ -1053,5 +1052,5 @@
       "text": "Roots, of Livingston, <a href=\"http://rogerroots.com/\">describes himself</a> as an attorney and civil liberties activist. He <a href=\"https://www.mtpr.org/post/libertarian-roger-roots-will-remain-ballot-supreme-court-rules\">ran for Secretary of State</a> in 2016."
     }
   ],
-  "lastUpdated": "2020-05-06T16:57:40.916Z"
+  "lastUpdated": "2020-05-06T17:35:36.721Z"
 }
