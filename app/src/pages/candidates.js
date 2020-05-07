@@ -33,7 +33,7 @@ const Candidates = () => {
       {races.map(race => <Race
           key={race}
           raceName={race}
-          candidates={candidates.filter(d => d.position === race )}          
+          candidates={activeCandidates.filter(d => d.position === race )}          
       />)}
     </div>
   </Layout>

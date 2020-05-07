@@ -5,27 +5,26 @@ const styles = {
     header: {
         maxWidth: '1000px',
         margin: 'auto',
-        borderBottom: '6px solid #222',
-        // flexbox
-        display: 'flex',
-        flexWrap: 'wrap',
-        alignItems: 'flex-end',
-
     },
     logoContainer: {
-        width: '230px',
-        marginRight: '20px',
-        marginBottom: '10px',
+        maxWidth: '430px',
+        margin: '30px auto',
     },
-    linkContainer : {
+    navBar : {
+        borderTop: '1px solid #ccc',
+        borderBottom: '1px solid #ccc',
+        paddingTop: '0.5em',
+        paddingBottom: '0.5em',
+
         display: 'flex',
-        marginTop: '5px',
-        marginBottom: '5px',
-        marginLeft: '5px',
+        justifyContent: 'center',
+        flexWrap: 'wrap',
     },
     headerLink: {
-        marginRight: '20px',
-        color: '#222',
+        marginRight: '1em',
+        marginLeft: '1em',
+        fontSize: '13px',
+        color: '#555',
         textTransform: 'uppercase',
         fontWeight: 'bold',
     },
@@ -34,17 +33,11 @@ const styles = {
 const MTFPHeader = (props) => {
     return <header style={styles.header}>
         <div style={styles.logoContainer}><MTFPLogo /></div>
-        <div style={styles.linkContainer}>
+        <div style={styles.navBar}>
             <a style={styles.headerLink} href="https://montanafreepress.org/">Home</a>
             <a style={styles.headerLink} href="https://montanafreepress.org/sign-up/">Subscribe</a>
-            <a style={styles.headerLink}href="https://montanafreepress.org/donate/">Donate</a>
+            <a style={styles.headerLink} href="https://montanafreepress.org/donate/">Donate</a>
         </div>
-        {/* <div styles={styles.linkContainer}>
-            <Link style={styles.headerLink} to={`/`}>Tracking MTLeg 2019</Link>
-            <Link style={styles.headerLink} to={`/lawmakers`}>✓Lawmakers</Link>
-            <Link style={styles.headerLink} to={`/bills`}>✓Bills</Link>
-            <Link style={styles.headerLink} to={`/governor`}>✓Gov. action</Link>
-        </div> */}
     </header>
 }
 export default MTFPHeader 

@@ -20,37 +20,41 @@ const LinksList = (props) => {
     
     if (links.length === 0) return <div className={styles.container}>
         <h2>Media coverage</h2>
-        <div className={styles.note}>No stories currently in our database</div>
+        <div className={'note'}>No stories currently in our database.</div>
     </div> 
 
     const deduped = dedupeTitles(links)
 
     return <div className={styles.container}>
         <h2>Media coverage</h2>
-        {
-            deduped
-                .filter(featuredFilter)
-                .sort((a,b) => new Date(b.date) - new Date(a.date))
-                .map((link, i) => <FeaturedLink 
-                    key={String(i)}
-                    url={link.link}
-                    dek={link.publication}
-                    title={link.title}
-                    date={link.date}
-                />)
-        }
-        {
-            deduped
-                .filter((d) => !featuredFilter(d)) // invert
-                .sort((a,b) => new Date(b.date) - new Date(a.date))
-                .map((link, i) => <BasicLink
-                    key={String(i)}
-                    url={link.link}
-                    dek={link.publication}
-                    title={link.title}
-                    date={link.date}
-                />)
-        }
+        <div className={'note'}>Stories tracked in our database of 2020 election coverage.</div>
+        <br/>
+        <div className={styles.links}>
+            {
+                deduped
+                    .filter(featuredFilter)
+                    .sort((a,b) => new Date(b.date) - new Date(a.date))
+                    .map((link, i) => <FeaturedLink 
+                        key={String(i)}
+                        url={link.link}
+                        dek={link.publication}
+                        title={link.title}
+                        date={link.date}
+                    />)
+            }
+            {
+                deduped
+                    .filter((d) => !featuredFilter(d)) // invert
+                    .sort((a,b) => new Date(b.date) - new Date(a.date))
+                    .map((link, i) => <BasicLink
+                        key={String(i)}
+                        url={link.link}
+                        dek={link.publication}
+                        title={link.title}
+                        date={link.date}
+                    />)
+            }
+        </div>
     </div>
 }
 export default LinksList 

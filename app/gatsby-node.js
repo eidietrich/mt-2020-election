@@ -12,9 +12,7 @@ const coverageLinks = require('./src/data/outside-links.json')
 
 const financeSummaries = preppedData.finance
 
-const excludeStatuses = ['Withdrawn','Not Running','Rumored','Potential','Suspended']
-const filterToActive = candidates => candidates.filter(d => !excludeStatuses.includes(d.status))
-
+const filterToActive = candidates => candidates.filter(d => d.status == 'Announced')
 const activeCandidates = filterToActive(candidates)
 
 // redundant w/ src/logic/functions.js bc node doesn't like modern import calls

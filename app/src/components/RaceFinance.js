@@ -5,18 +5,18 @@ import { Link } from 'gatsby'
 import PullStatMain from '../library/PullStatMain'
 import Table from '../library/Table'
 
-import {
-    raceCumulativeContributionSpec,
-} from '../logic/chart-specs.js'
+// import {
+//     raceCumulativeContributionSpec,
+// } from '../logic/chart-specs.js'
 
 import {
     dollarFormat,
     dateFormat,
-    fundraisingDomainUpperBound,
+    // fundraisingDomainUpperBound,
 } from '../logic/config'
 
 import {
-    makeRaceKey,
+    // makeRaceKey,
     candidateNameParty,
     getCandidateParty,
     makeCandidateUrl
@@ -40,37 +40,37 @@ const RaceFinance = (props) => {
         race
     } = props
 
-    // aggregate data 
-    const cumulativeContributions = candidates
-        .reduce((acc, candidate) => {
-            const items = candidate.finance.cumulativeContributions
-            if (!items) return acc
-            items.forEach(d => d.candidate = candidate.last_name)
-            return acc.concat(items)
-        }, [])
-    const latestForEachCandidate = candidates.map(candidate => {
-        if (!candidate.finance.cumulativeContributions) return undefined
-        const items = candidate.finance.cumulativeContributions
-            .sort((a,b) => new Date(b.date) - new Date(a.date))
-        return items[0]
-    }).filter( d => d !== undefined)
+    // // aggregate data 
+    // const cumulativeContributions = candidates
+    //     .reduce((acc, candidate) => {
+    //         const items = candidate.finance.cumulativeContributions
+    //         if (!items) return acc
+    //         items.forEach(d => d.candidate = candidate.last_name)
+    //         return acc.concat(items)
+    //     }, [])
+    // const latestForEachCandidate = candidates.map(candidate => {
+    //     if (!candidate.finance.cumulativeContributions) return undefined
+    //     const items = candidate.finance.cumulativeContributions
+    //         .sort((a,b) => new Date(b.date) - new Date(a.date))
+    //     return items[0]
+    // }).filter( d => d !== undefined)
     
     const totalFundraising = candidates.reduce((acc, candidate) => acc + candidate.finance.totalRaised, 0)
     const totalSpending = candidates.reduce((acc, candidate) => acc + candidate.finance.totalSpent, 0)
 
     // inject data for line charts
-    const upperBound = fundraisingDomainUpperBound[makeRaceKey(race)]
-    // line chart
-    raceCumulativeContributionSpec.data.values = cumulativeContributions
-    raceCumulativeContributionSpec.layer[0].encoding.y.scale.domain = [0, upperBound]
-    raceCumulativeContributionSpec.layer[3].data.values = latestForEachCandidate // for labels
+    // const upperBound = fundraisingDomainUpperBound[makeRaceKey(race)]
+    // // line chart
+    // raceCumulativeContributionSpec.data.values = cumulativeContributions
+    // raceCumulativeContributionSpec.layer[0].encoding.y.scale.domain = [0, upperBound]
+    // raceCumulativeContributionSpec.layer[3].data.values = latestForEachCandidate // for labels
 
     if (race.type === 'state') {
         return <StateRaceFinance 
             candidates={candidates}
             totalSpending={totalSpending}
             totalFundraising={totalFundraising}
-            raceCumulativeContributionSpec={raceCumulativeContributionSpec}
+            // raceCumulativeContributionSpec={raceCumulativeContributionSpec}
             text = {{
                 racePageFundraisingStateCaveat
             }}
@@ -82,7 +82,7 @@ const RaceFinance = (props) => {
             candidates={candidates}
             totalSpending={totalSpending}
             totalFundraising={totalFundraising}
-            raceCumulativeContributionSpec={raceCumulativeContributionSpec}
+            // raceCumulativeContributionSpec={raceCumulativeContributionSpec}
             text = {{
                 racePageFundraisingFederalCaveat
             }}
@@ -146,7 +146,7 @@ const StateRaceFinance = (props) => {
         candidates,
         totalSpending,
         totalFundraising,
-        raceCumulativeContributionSpec,
+        // raceCumulativeContributionSpec,
         text
     } = props
     // pull update date from most recent candidate
@@ -159,11 +159,9 @@ const StateRaceFinance = (props) => {
 
         <h2>Campaign finance</h2> 
 
-        <div className={styles.note}>
-            <p>
-                As reported in quarterly filings. Data current through {dateFormat(updateDate)}.
-                {noReportsFor.map((d, i) => <span key={String(i)}> No reports yet on file for {d.first_name} {d.last_name}.</span>)}
-            </p>
+        <div className={'note'}>
+            As reported in quarterly filings. Data current through {dateFormat(updateDate)}.
+            {noReportsFor.map((d, i) => <span key={String(i)}> No reports yet on file for {d.first_name} {d.last_name}.</span>)}
         </div>
 
         <div className={styles.row}>
@@ -189,12 +187,12 @@ const StateRaceFinance = (props) => {
                 rowData={candidates}
                 rowClassTests={rowClassTests}
             />
-            <div className={styles.note}>
+            <div className={'note'}>
                 {text.racePageFundraisingStateCaveat}
             </div>
         </div>
         
-        <div className={styles.note}>
+        <div className={'note'}>
             Source: Campaign finance reports filed with the <a href="https://politicalpractices.mt.gov/">Montana Commissioner of Political Practices</a>. See the COPP-administered <a href="https://camptrackext.mt.gov/CampaignTracker/dashboard">Campaign Electronic Reporting System</a> for official records.
         </div>
     </div>
@@ -256,11 +254,9 @@ const FederalRaceFinance = (props) => {
 
     return <div className={styles.container}>
         <h2>Campaign finance</h2> 
-        <div className={styles.note}>
-            <p>
-                As reported in quarterly filings. Data current through {dateFormat(updateDate)}.
-                {noReportsFor.map((d, i) => <span key={String(i)}> No reports yet on file for {d.first_name} {d.last_name}.</span>)}
-            </p>
+        <div className={'note'}>
+            As reported in quarterly filings. Data current through {dateFormat(updateDate)}.
+            {noReportsFor.map((d, i) => <span key={String(i)}> No reports yet on file for {d.first_name} {d.last_name}.</span>)}
         </div>
 
         <div className={styles.row}>
@@ -279,7 +275,7 @@ const FederalRaceFinance = (props) => {
         <div className={styles.chartContainer}>
             <h4>Cumulative fundraising</h4>
             <ResponsiveVegaLite spec={raceCumulativeContributionSpec} />
-            <div className={styles.note}>
+            <div className={'note'}>
                 Includes only itemized receipts.
             </div>
         </div>
@@ -292,12 +288,12 @@ const FederalRaceFinance = (props) => {
                 rowData={candidates}
                 rowClassTests={rowClassTests}
             />
-            <div className={styles.note}>
+            <div className={'note'}>
                 {text.racePageFundraisingFederalCaveat}
             </div>
         </div>
         
-        <div className={styles.note}>
+        <div className={'note'}>
             Source: Campaign finance reports filed with the <a href="https://www.fec.gov/">Federal Election Commission</a>.
         </div>
     </div>

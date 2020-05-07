@@ -43,9 +43,9 @@
 }
 .primaryLabel {
     color: #666;
-    font-size: 1.1em;
+    font-size: 1em;
     line-height: 1.1em;
-
+    font-family: Arial, sans-serif;
 }
 .secondaryStat {
     font-weight: bold;
@@ -57,15 +57,16 @@
 }
 .secondaryLabel {
     color: #666;
-    font-size: 1.1em;
-    line-height: 1.2em;
+    font-size: 1em;
+    line-height: 1.1em;
     flex: 1 0 100px;
+    font-family: Arial, sans-serif;
 
 }
 
 @media screen and (max-width: 400px) {
     .primaryLabel,
     .secondaryLabel {
-        font-size: 12px
+        font-size: 16px
     }
 }

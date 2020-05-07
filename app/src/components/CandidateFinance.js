@@ -72,7 +72,7 @@ const CandidateFinance = (props) => {
         return (
             <div className={styles.container}>
                 <h2>Campaign finance</h2>
-                <div className={styles.note}>No campaign finance filings yet on file. Candidates generally file with the Federal Election Commission or Montana Commissioner of Political Practices on a quarterly basis. Federal candidates that haven't raised or spent more than $5,000 <a href="https://www.fec.gov/help-candidates-and-committees/registering-candidate/">aren't required to file reports</a>.</div>
+                <div className={'note'}>No campaign finance filings yet on file. Candidates generally file with the Federal Election Commission or Montana Commissioner of Political Practices on a quarterly basis. Federal candidates that haven't raised or spent more than $5,000 <a href="https://www.fec.gov/help-candidates-and-committees/registering-candidate/">aren't required to file reports</a>.</div>
             </div>
         )
     }
@@ -105,7 +105,7 @@ const StateCandidateFinance = (props) => {
         text,
     } = props
 
-    const dataNote = <div className={styles.note}>
+    const dataNote = <div className={'note'}>
         As a state candidate, {candidate.last_name} files campaign finance reports with the <a href="https://politicalpractices.mt.gov/">Montana Commissioner of Political Practices</a>. See the COPP <a href="https://camptrackext.mt.gov/CampaignTracker/dashboard">Campaign Electronic Reporting System</a> for official records. Data shown here is current through {dateFormat(new Date(candidate.finance.lastReportingDate))}.
     </div>
 
@@ -114,7 +114,7 @@ const StateCandidateFinance = (props) => {
             <h2>Fundraising and campaign spending</h2>
             {dataNote}
             <br />
-            <div className={styles.note}>
+            <div className={'note'}>
                 As of that date, {candidate.last_name} had reported no fundraising to the COPP.
             </div>
         </div>
@@ -159,7 +159,7 @@ const StateCandidateFinance = (props) => {
             />
         </div>
 
-        <div className={styles.note}>
+        <div className={'note'}>
             {text.candidatePageFundraisingStateCaveat}
         </div>
     
@@ -193,7 +193,7 @@ const StateCandidateFinance = (props) => {
                 ]}
             />
         </div>
-        <div className={styles.note}>
+        <div className={'note'}>
             {text.candidatePageIndividualStateCaveat}
         </div>
     </div>
@@ -213,7 +213,7 @@ const FederalCandidateFinance = (props) => {
     
     return <div className={styles.container}>
         <h2>Campaign finance</h2>
-        <div className={styles.note}>As a federal candidate, {candidate.last_name} has a campaign committee that files financial reports with the <a href="https://www.fec.gov/">Federal Election Commission</a>. Data shown here, current through {dateFormat(new Date(candidate.finance.lastReportingDate))}, is pulled <a href={fecUrl}>from the FEC website</a> for the 2019-20 election cycle.</div>
+        <div className={'note'}>As a federal candidate, {candidate.last_name} has a campaign committee that files financial reports with the <a href="https://www.fec.gov/">Federal Election Commission</a>. Data shown here, current through {dateFormat(new Date(candidate.finance.lastReportingDate))}, is pulled <a href={fecUrl}>from the FEC website</a> for the 2019-20 election cycle.</div>
 
         <div className={styles.row}>
             <PullStatMain
@@ -245,7 +245,7 @@ const FederalCandidateFinance = (props) => {
             />
         </div>
 
-        <div className={styles.note}>
+        <div className={'note'}>
             {text.candidatePageFundraisingFederalCaveat}
         </div>
         
@@ -260,7 +260,7 @@ const FederalCandidateFinance = (props) => {
 
         </div>
 
-        <div className={styles.note}>
+        <div className={'note'}>
             {itemizedReportingNote}
         </div>
         
@@ -288,7 +288,7 @@ const FederalCandidateFinance = (props) => {
             />
 
         </div> 
-        <div className={styles.note}>
+        <div className={'note'}>
             {text.candidatePageIndividualFederalCaveat}
         </div>
     </div>

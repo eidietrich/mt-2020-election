@@ -32,7 +32,7 @@ class IndexPage extends Component {
     return <Layout>
       <SEO title="Montana 2020 election - overview" />
       <div className="intro">
-        <div className="intro-text">
+        <div className="text">
           <div className={styles.byline}>{byline}</div>
           <div className={styles.timestamp}>Last updated {timeFormat("%B %d, %Y")(new Date(lastUpdated))}</div>
           <TextBlock paragraphs={intro} />

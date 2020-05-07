@@ -21,7 +21,10 @@ class RacePage extends Component {
                 description={race.description}
             />
             <h1>{race.position}</h1>
-            <p>{race.description}</p>
+            <div className="text">
+                <p>{race.description}</p>
+            </div>
+            
             <h2>Candidates</h2>
             <RaceCandidateSummary
                 race={race}

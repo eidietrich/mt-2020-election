@@ -87,6 +87,8 @@
     margin: 0 0.25rem;
     margin-bottom: 0.5rem;
 
+    box-shadow: 2px 2px 3px #bbb;
+
     text-align: center;
 
     cursor: pointer;
@@ -99,7 +101,14 @@
 .navItem:hover {
     text-decoration: none;
     color: white;
-    background-color: #2800d7;
-    border: 2px solid #2800d7;
+    background-color: #BA892D;
+    border: 2px solid #BA892D;
     box-shadow: 1px 1px 3px #222;
+}
+@media screen and (max-width: 400px) {
+    .navItem {
+        flex: 1 0 4em;
+        height: 4em;
+    }
+    
 }

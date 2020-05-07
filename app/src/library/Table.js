@@ -119,13 +119,15 @@ class Table extends Component {
             </th>
         })
         const rows = sortedData.map(this.makeRow)
-        return (<table className={styles.table}>
-            <thead>
-                <tr className={styles.header}>{headers}</tr>
-            </thead>
-            <tbody>{rows}</tbody>
-            {/* <div className={styles.rowsContainer}>{rows}</div> */}
-        </table>);
+        return (<div className={styles.container}>
+            <table className={styles.table}>
+                <thead>
+                    <tr className={styles.header}>{headers}</tr>
+                </thead>
+                <tbody>{rows}</tbody>
+                {/* <div className={styles.rowsContainer}>{rows}</div> */}
+            </table>
+        </div>);
     }
 }
 

@@ -2,7 +2,7 @@
     width: 100%;
     max-width: 1000px;
     margin: auto;
-    background-color: #222;
+    background-color: #171818;
     color: #fff;
     padding: 1rem;
 
@@ -31,11 +31,11 @@
     margin-top: 0.5rem;
 }
 
-.Footer a {
+/* .Footer a {
     color: #ddd;
     text-decoration: underline;
 }
 .Footer a:hover {
     color: #fff;
     
-}
+} */

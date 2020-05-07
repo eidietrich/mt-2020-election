@@ -31,6 +31,9 @@
     text-align: center;
     background-color: #fff;
     color: #222;
+    font-style: italic;
+    /* text-transform: uppercase; */
+    /* font-weight: bold; */
     /* border: 1px solid #ddd;
     border-top: none; */
 }

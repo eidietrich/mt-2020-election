@@ -1,5 +1,35 @@
+@import url('https://use.typekit.net/fsd6htq.css');
+
 body {
+    /* Default to futura-pt for text elements */
+    font-family: futura-pt, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+p {
+    /* Standard MTFP serif font for any block text copy */
+    font-family: utopia-std, Georgia, Garamond, "Times New Roman", serif;
+    color: rgb(17, 17, 17);
+    font-size: 18px;
+    line-height: 28.8px;
+    font-weight: 400;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family:  futura-pt, Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+.text {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+.note {
+    /* Deliberate choice to not use future-pt here*/
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+    line-height: 1.2em;
+    font-style: italic;
+    color: #666;
 }
 
 button {
@@ -27,7 +57,8 @@ button:hover {
 }
 
 a {
-    color: #2800d7;
+    /* color: #2800d7; */
+    color: #ce5a00;
     text-decoration: none;
 }
 a:hover {

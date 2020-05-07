@@ -1,18 +1,18 @@
 .PodcastLink {
     display: block;
     background-color: #444;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     /* cursor: pointer; */
 
     color: #fff;
-    padding: 0.5rem;
+    padding: 0.75rem;
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
 
     text-align: center;
 }
 .PodcastLink:hover {
-    background-color: #2800d7;
+    background-color: #BA892D;
     text-decoration: none;
 }
 

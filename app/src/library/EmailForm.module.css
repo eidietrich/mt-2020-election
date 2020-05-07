@@ -27,13 +27,15 @@
     display: inline-block;
     flex: 1 1 auto;
     margin: -1px;
-    background-color: #2800d7;
+    background-color: #F85028;
+    border: 1px solid #F85028;
     color: #fff;
     /* height: 1.2em; */
 }
 
 .submitButton:hover{
-    background-color: #eee;
-    color: #222;
+    background-color: #BA892D;
+    border: 1px solid #BA892D;
+    /* color: #222; */
 
 }

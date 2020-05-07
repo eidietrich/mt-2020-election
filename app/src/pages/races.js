@@ -42,23 +42,24 @@ const Race = (props) => {
     const flagIcon = (race.type === 'federal') ? <UsFlagIcon /> : <MtFlagIcon />
     
     return <div className={styles.race}>
-        <Link to={makeRaceUrl(race)}>
+        <Link className={styles.raceHeaderLink} to={makeRaceUrl(race)}>
             <div className={styles.raceHeader}>            
                 <div className={styles.flag}>{flagIcon}</div>
                 {race.position}
             </div>
         </Link>
         
-        
-        <p className={styles.description}>{race.description}</p>
-        {/* <p><Link to={makeRaceUrl(race)}>Race overview</Link></p> */}
-        <div className={styles.candidates}>
-            <span><strong>Candidates:</strong> </span>
-            {candidates.map((c, i) => {
-                return <span key={String(i)}><Link to={makeCandidateUrl(c)}>{candidateNameParty(c)}</Link></span>
-                })
-                .reduce((prev, curr) => [prev, ', ', curr])
-            }
+        <div className={styles.raceContents}>
+            <p className={styles.description}>{race.description}</p>
+            <div className={styles.candidates}>
+                <span><strong>Candidates:</strong> </span>
+                {candidates.map((c, i) => {
+                    return <span key={String(i)}><Link to={makeCandidateUrl(c)}>{candidateNameParty(c)}</Link></span>
+                    })
+                    .reduce((prev, curr) => [prev, ', ', curr])
+                }
+            </div>
         </div>
+        
     </div>
 }

@@ -25,7 +25,7 @@ const Logo = () => {
                 node {
                     relativePath
                     childImageSharp {
-                        fluid(maxWidth: 230) {
+                        fluid(maxWidth: 430) {
                             ...GatsbyImageSharpFluid_noBase64
                         }
                     }

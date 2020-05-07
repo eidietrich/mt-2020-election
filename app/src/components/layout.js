@@ -10,7 +10,6 @@ import PropTypes from "prop-types"
 import { Link, useStaticQuery, graphql } from 'gatsby'
 import Img from "gatsby-image"
 
-import SupportUsAd from '../library/SupportUsAd'
 import Footer from '../library/MTFPFooter'
 import Header from '../library/MTFPHeader'
 

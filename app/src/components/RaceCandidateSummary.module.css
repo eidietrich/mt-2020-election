@@ -45,6 +45,8 @@
     color: #666;
     margin: 0.25rem;
     text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
 }
 .primaryCandidates {
     display: flex;
