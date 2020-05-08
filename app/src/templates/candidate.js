@@ -68,22 +68,19 @@ class CandidatePage extends Component {
             </div>
             
             <hr /> 
-            
-            {hasIssueAnswers[positionKey] ?
-                <CandidateIssues
-                    candidate={candidate}
-                    race={race}
-                    color={party.color}
-                /> : null}
-            {hasIssueAnswers[positionKey] ? <hr /> : null}
-            
-            {candidate.finance ? 
-                <CandidateFinance 
-                    candidate={candidate}
-                    race={race}
-                /> : null
-            }
-            {candidate.finance ?  <hr /> : null}
+
+            <CandidateIssues
+                candidate={candidate}
+                race={race}
+                color={party.color}
+            />
+            <hr />
+
+            <CandidateFinance 
+                candidate={candidate}
+                race={race}
+            />
+            <hr />
 
             <LinksList
                 links={candidate.coverageLinks}

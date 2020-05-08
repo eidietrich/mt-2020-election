@@ -7,12 +7,19 @@ import {
     getCandidateParty
 } from '../logic/functions.js'
 
-import { parties } from '../logic/config.js'
+import { parties,  hasIssueAnswers} from '../logic/config.js'
 
 import styles from './RaceIssues.module.css'
 
 const RaceIssues = (props) => {
-    const { candidates } = props
+    const { candidates, race } = props
+
+    if (race.hasIssueStatements === 'no') {
+        return <div className={styles.container}>
+            <h2>On the issues</h2>
+            <div className={'note'}>Due to time constraints, MTFP hasn't conducted a candidate questionnaire for this race.</div>
+        </div>
+    }
 
     // Assume all candidates have same questions
     const questions = candidates[0].issues.responses.map(d => d.question)
@@ -32,17 +39,15 @@ const RaceIssues = (props) => {
         }
     })
 
-    console.log(byQuestion)
-
     const missingResponses = candidates.filter(d => !d.withdrawal_date).filter(d => !d.issues)
-    console.log('Missing', missingResponses)
 
     let renderedMissing = null
     if (missingResponses.length > 0) {
         const listed = missingResponses.map(d => `${d.first_name} ${d.last_name}`)
         const text = listed.length > 1 ? `${listed.slice(0, -1).join(', ')} or ${listed.slice(-1)}` : listed[0]
-        renderedMissing =  <div className={styles.note}>
-            MTFP staff contacted each candidate repeatedly via emails and phone numbers listed in candidacy paperwork to solicit answers to these questions. Complete responses weren't submitted by our deadline from {text}. 
+        const noResponsesText = (listed.length > 0) ? ` Complete responses weren't submitted by our deadline from ${text}.` : null
+        renderedMissing =  <div className={'note'}>
+            Issue statements were solicited from active candidates via a written questionnaire, with candidates contacted repeatedly via phone numbers and emails listed in candidacy paperwork.{noResponsesText} 
         </div>
     }
     

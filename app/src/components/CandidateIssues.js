@@ -5,16 +5,23 @@ import TextBlock from '../library/TextBlock.js'
 
 import styles from './CandidateIssues.module.css'
 
+const ledeIn = `Issue statements were solicited from active candidates via a written questionnaire.`
+
 const CandidateIssues = (props) => {
-    const { color } = props
+    const { color, race } = props
     const responses = props.candidate.issues && props.candidate.issues.responses
 
-    console.log(responses)
+    if ((race.hasIssueStatements === 'no')) {
+        return <div className={styles.container}>
+            <h2>On the issues</h2>
+            <div className={'note'}>Due to time constraints, MTFP hasn't conducted a candidate questionnaire for this race.</div>
+        </div>
+    }
 
     if (!responses) {
-        return <div className={styles.section}>
+        return <div className={styles.container}>
             <h2>On the issues</h2>
-            <div>No responses on file</div>
+            <div className={'note'}>No responses on file. {ledeIn} All active candidates for {race.position} were contacted repeatedly via phone numbers and emails included in election paperwork. Some didn't submit complete responses by deadline.</div>
         </div>
     }
 
@@ -25,8 +32,9 @@ const CandidateIssues = (props) => {
         </div>
     })
     return (
-        <div className={styles.section}>
+        <div className={styles.container}>
             <h2>On the issues</h2>
+            <div className={'note'}>{ledeIn}</div>
             <div className={styles.responses}>{responsesRendered}</div>
         </div>
     )

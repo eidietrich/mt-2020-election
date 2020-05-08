@@ -34,6 +34,20 @@ export const hasIssueAnswers = {
   'Secretary-of-State' : false,
   'Superintendent-of-Public-Instruction': false,
   'State-Auditor': false,
+  'Montana-Supreme-Court': false,
+  'Public-Service-Commission': false,
+}
+
+export const hasCampaignFinance = {
+  'Governor': true,
+  'U.S.-Senate': true,
+  'U.S.-House': true,
+  'Attorney-General': true,
+  'Secretary-of-State' : true,
+  'Superintendent-of-Public-Instruction': true,
+  'State-Auditor': true,
+  'Montana-Supreme-Court': false,
+  'Public-Service-Commission': false,
 }
 
 

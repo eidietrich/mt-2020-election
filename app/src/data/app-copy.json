@@ -60,41 +60,57 @@
     {
       "position": "Governor",
       "type": "state",
+      "hasCampaignFinance": "yes",
+      "hasIssueStatements": "yes",
       "description": "Montana’s chief executive, tasked with overseeing state agencies and proposing state budgets to the Montana Legislature, elected to a four-year term. Also one of five seats on the Montana Board of Land Commissioners, which has authority over state trust lands. Incumbent Gov. Steve Bullock is facing term limits and running for the U.S. Senate."
     },
     {
       "position": "U.S. Senate",
       "type": "federal",
+      "hasCampaignFinance": "yes",
+      "hasIssueStatements": "yes",
       "description": "One of Montana’s two representatives in the upper chamber of the U.S. Congress, elected to a six-year term. Incumbent Steve Daines is seeking re-election. Montana’s other senator, Jon Tester, is next up for re-election in 2024."
     },
     {
       "position": "U.S. House",
       "type": "federal",
+      "hasCampaignFinance": "yes",
+      "hasIssueStatements": "yes",
       "description": "Montana’s sole representative in the lower chamber of the U.S. Congress, elected to a two-year term."
     },
     {
       "position": "Attorney General",
       "type": "state",
+      "hasCampaignFinance": "yes",
+      "hasIssueStatements": "yes",
       "description": "The state’s chief law enforcement and legal officer, who oversees the state Department of Justice, issues legal opinions interpreting state law, and advocates for the public interest in certain legal proceedings. One of five seats on the state land board, and elected to a four-year term. Incumbent Tim Fox is facing term limits and running for governor."
     },
     {
       "position": "Secretary of State",
       "type": "state",
+      "hasCampaignFinance": "yes",
+      "hasIssueStatements": "no",
       "description": "Oversees Montana elections and manages state records, as well as serving on the state land board. Elected to a four-year term. Incumbent Corey Stapleton is running for the U.S. House."
     },
     {
       "position": "Superintendent of Public Instruction",
       "type": "state",
+      "hasCampaignFinance": "yes",
+      "hasIssueStatements": "no",
       "description": "Heads the Montana Office of Public Instruction and oversees the state’s K-12 school system, much of which is governed directly by locally elected school boards. Also holds a seat on the state land board. Elected to a four-year term. Incumbent Elsie Arntzen is seeking re-election."
     },
     {
       "position": "State Auditor",
       "type": "state",
+      "hasCampaignFinance": "yes",
+      "hasIssueStatements": "no",
       "description": "Runs the office responsible for protecting Montanans from fraud by regulating the insurance and securities industries. Also holds a seat on the state land board. Elected to a four-year term. Incumbent Matt Rosendale is running for the U.S. House."
     },
     {
       "position": "Montana Supreme Court",
       "type": "state-district",
+      "hasCampaignFinance": "no",
+      "hasIssueStatements": "no",
       "description": "Seats on the Montana Supreme Court, which hears cases appealed from lower courts and oversees the state judicial system. In districts with more than two candidates, the two who receive the most votes in the June primary will advance to the November general election. Montana judicial elections are nonpartisan.",
       "districts": [
         {
@@ -110,6 +126,8 @@
     {
       "position": "Public Service Commission",
       "type": "state-district",
+      "hasCampaignFinance": "no",
+      "hasIssueStatements": "yes",
       "description": "Three district-based seats on the five-member Montana Public Service Commission, which regulates monopoly utilities including power companies like NorthWestern Energy. Commissioners are elected to four-year terms. The remaining two commissioners, Randy Pinocci and Brad Johnson, are out-of-cycle in 2020, though Johnson is running for Secretary of State.",
       "districts": [
         {
@@ -394,7 +412,7 @@
       "web_url": "https://www.mikeknoles2020.com/",
       "fb_url": "https://www.facebook.com/MikeKnolesforSenate/",
       "tw_url": "https://twitter.com/KnolesMichael",
-      "text": "Knoles, of Bozeman, announced his departure from the Senate race March 9 but will be on democratic primary ballots because he apparently hasn’t filed official withdrawal paperwork with the Montana Secretary of State."
+      "text": "Knoles, of Bozeman, announced his departure from the Senate race on Twitter March 9. He will be included on democratic primary ballots regardless as filing information with the Montana Secretary of State indicates he hasn’t officially filed withdrawal paperwork."
     },
     {
       "position": "U.S. Senate",
@@ -1305,5 +1323,5 @@
       "text": "Tranel, of Missoula, is an attorney who works with energy and regulatory issues. She previously worked as a PSC staff attorney and for the Montana Consumer Counsel."
     }
   ],
-  "lastUpdated": "2020-05-08T03:45:54.241Z"
+  "lastUpdated": "2020-05-08T14:20:34.734Z"
 }

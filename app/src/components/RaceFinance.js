@@ -13,6 +13,7 @@ import {
     dollarFormat,
     dateFormat,
     // fundraisingDomainUpperBound,
+    hasCampaignFinance,
 } from '../logic/config'
 
 import {
@@ -39,6 +40,13 @@ const RaceFinance = (props) => {
         candidates,
         race
     } = props
+    
+    if ((race.hasCampaignFinance === 'no')) {
+        return <div className={styles.container}>
+            <h2>Campaign finance</h2> 
+            <div className={'note'}>No campaign finance data compiled for this race at this time.</div>
+        </div>
+    }
 
     // // aggregate data 
     // const cumulativeContributions = candidates
@@ -64,6 +72,8 @@ const RaceFinance = (props) => {
     // raceCumulativeContributionSpec.data.values = cumulativeContributions
     // raceCumulativeContributionSpec.layer[0].encoding.y.scale.domain = [0, upperBound]
     // raceCumulativeContributionSpec.layer[3].data.values = latestForEachCandidate // for labels
+
+    
 
     if (race.type === 'state') {
         return <StateRaceFinance 

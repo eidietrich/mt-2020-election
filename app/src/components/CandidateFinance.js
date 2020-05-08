@@ -37,6 +37,13 @@ const CandidateFinance = (props) => {
         race
     } = props
 
+    if ((race.hasCampaignFinance === 'no')) {
+        return <div className={styles.container}>
+            <h2>Campaign finance</h2> 
+            <div className={'note'}>No campaign finance data compiled for this race at this time.</div>
+        </div>
+    }
+
     const jurisdiction = race.type
 
     const cumulativeCombined = candidate.finance.cumulativeContributions.concat(candidate.finance.cumulativeExpenditures)
