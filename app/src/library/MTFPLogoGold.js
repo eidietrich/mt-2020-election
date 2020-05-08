@@ -20,12 +20,12 @@ const Logo = () => {
   // _noBase64 prevents awkward blur effect
   const data = useStaticQuery(graphql`
     query {
-      images: allFile(filter: {relativePath: {eq: "mtfp-logo.png"}}) {
+      images: allFile(filter: {relativePath: {eq: "mtfp-logo-gold.png"}}) {
             edges {
                 node {
                     relativePath
                     childImageSharp {
-                        fluid(maxWidth: 430) {
+                        fluid(maxWidth: 400) {
                             ...GatsbyImageSharpFluid_noBase64
                         }
                     }

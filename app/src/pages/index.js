@@ -29,6 +29,24 @@ const offices = Array.from(new Set(candidates.map(d => d.position)))
 
 class IndexPage extends Component {
   render(){
+    const racesRendered = offices.map(office => {
+      const race = races.find(d => d.position === office)
+      if (race.type === 'state-district') {
+        return <RaceWithDistricts
+          key={office}
+          name={office}
+          candidates={candidates.filter(d => d.position === office )}
+          race={race}
+        />
+      } else {
+        return <Race
+          key={office}
+          name={office}
+          candidates={candidates.filter(d => d.position === office )}
+          race={race}
+        />
+      }
+    })
     return <Layout>
       <SEO title="Montana 2020 election - overview" />
       <div className="intro">
@@ -39,12 +57,7 @@ class IndexPage extends Component {
         </div>
       </div>
       <h1>{introTitle}</h1>
-      {offices.map(office => <Race
-          key={office}
-          name={office}
-          candidates={candidates.filter(d => d.position === office )}
-          race={races.find(d => d.position === office)}
-      />)}
+      {racesRendered}
     </Layout>
   }
 }
@@ -58,7 +71,6 @@ const Race = (props) => {
       const partyCandidates = filterToActive(candidates)
         .filter(d => d.party === party.key)
         .sort((a,b) => a.withdrawal_date ? 1 : -1)
-      console.log(partyCandidates)
       return <Primary key={party.key}
         name={party.name}
         candidates={partyCandidates}
@@ -67,13 +79,13 @@ const Race = (props) => {
     })
 
   return <div className={styles.Race}>
-      <div className={styles.officeHeader}>
-        <Link to={`/races/${makeRaceKey(race)}`}>
-          <h2 className={styles.officeName}>{race.position}</h2>
-        </Link>
-        {/* <div className={styles.officeType}>{race.type} race</div> */}
-        {/* <div className={styles.officeDescription}>{race.description}</div> */}
-      </div>
+    <div className={styles.officeHeader}>
+      <Link to={`/races/${makeRaceKey(race)}`}>
+        <h2 className={styles.officeName}>{race.position}</h2>
+      </Link>
+      {/* <div className={styles.officeType}>{race.type} race</div> */}
+    </div>
+    {/* <div className={styles.officeDescription}>{race.description}</div> */}
     <div className={styles.officePrimaries}>
       {primaryFields}
     </div>
@@ -89,6 +101,57 @@ const Primary = (props) => {
         key={makeCandidateKey(candidate)}
         candidate={candidate}
       />)}      
+    </div>
+  </div>
+}
+
+const District = (props) => {
+  const {candidates, name, description } = props
+  
+  const primariesRendered = parties
+    .filter(party => candidates.find(d => d.party === party.key)) // exclude parties w/out candidates
+    .map(party => {
+      const partyCandidates = filterToActive(candidates)
+        .filter(d => d.party === party.key)
+        .sort((a,b) => a.withdrawal_date ? 1 : -1)
+      return <Primary key={party.key}
+        name={party.name}
+        candidates={partyCandidates}
+        party={party}
+      />
+    })
+
+   return <div className={styles.district}>
+      <div className={styles.districtInfo}>
+        <div className={styles.districtName}>{name}</div>
+        {/* <div className={styles.description}>{description}</div> */}
+      </div>
+      <div className={styles.officePrimaries}>
+        {primariesRendered}
+      </div>
+    </div>
+}
+
+const RaceWithDistricts = (props) => {
+  const {candidates, race } = props
+  const districtsRendered = race.districts.map(district => {
+    const candidatesInDistrict = candidates.filter(d => d.district === district.district)
+    return <District 
+      name={district.district}
+      description={district.description}
+      race={race}
+      candidates={candidatesInDistrict}
+    />
+  })
+
+  return <div className={styles.Race}>
+      <div className={styles.officeHeader}>
+        <Link to={`/races/${makeRaceKey(race)}`}>
+          <h2 className={styles.officeName}>{race.position}</h2>
+        </Link>
+      </div>
+    <div className={styles.officeDistricts}>
+      {districtsRendered}
     </div>
   </div>
 }

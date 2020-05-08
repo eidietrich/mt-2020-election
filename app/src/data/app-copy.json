@@ -25,7 +25,7 @@
   "candidatePageText": [
     {
       "type": "text",
-      "value": "This list currently excludes Montana candidates for two open Supreme Court seats, three Public Service Commission districts, and Montana House and Senate races, as well as local races, including city commission and school board elections."
+      "value": "This list currently excludes Montana House and Senate races, as well as local races, including city commission and school board elections."
     }
   ],
   "racePageTitle": "Montana offices up for election in 2020",
@@ -60,12 +60,12 @@
     {
       "position": "Governor",
       "type": "state",
-      "description": "Montana’s chief executive, tasked with overseeing state agencies and proposing state budgets to the Montana Legislature, elected to a four-year term. Also one of five seats on the Montana Board of Land Commissioners, which has authority over state trust lands."
+      "description": "Montana’s chief executive, tasked with overseeing state agencies and proposing state budgets to the Montana Legislature, elected to a four-year term. Also one of five seats on the Montana Board of Land Commissioners, which has authority over state trust lands. Incumbent Gov. Steve Bullock is facing term limits and running for the U.S. Senate."
     },
     {
       "position": "U.S. Senate",
       "type": "federal",
-      "description": "One of Montana’s two representatives in the upper chamber of the U.S. Congress, elected to a six-year term. Montana’s other senator, Jon Tester, is next up for re-election in 2024."
+      "description": "One of Montana’s two representatives in the upper chamber of the U.S. Congress, elected to a six-year term. Incumbent Steve Daines is seeking re-election. Montana’s other senator, Jon Tester, is next up for re-election in 2024."
     },
     {
       "position": "U.S. House",
@@ -75,22 +75,56 @@
     {
       "position": "Attorney General",
       "type": "state",
-      "description": "The state’s chief law enforcement and legal officer, who oversees the state Department of Justice, issues legal opinions interpreting state law, and advocates for the public interest in certain legal proceedings. One of five seats on the state land board, and elected to a four-year term."
+      "description": "The state’s chief law enforcement and legal officer, who oversees the state Department of Justice, issues legal opinions interpreting state law, and advocates for the public interest in certain legal proceedings. One of five seats on the state land board, and elected to a four-year term. Incumbent Tim Fox is facing term limits and running for governor."
     },
     {
       "position": "Secretary of State",
       "type": "state",
-      "description": "Oversees Montana elections and manages state records, as well as serving on the state land board. Elected to a four-year term."
+      "description": "Oversees Montana elections and manages state records, as well as serving on the state land board. Elected to a four-year term. Incumbent Corey Stapleton is running for the U.S. House."
     },
     {
       "position": "Superintendent of Public Instruction",
       "type": "state",
-      "description": "Heads the Montana Office of Public Instruction and oversees the state’s K-12 school system, much of which is governed directly by locally elected school boards. Also holds a seat on the state land board. Elected to a four-year term."
+      "description": "Heads the Montana Office of Public Instruction and oversees the state’s K-12 school system, much of which is governed directly by locally elected school boards. Also holds a seat on the state land board. Elected to a four-year term. Incumbent Elsie Arntzen is seeking re-election."
     },
     {
       "position": "State Auditor",
       "type": "state",
-      "description": "Runs the office responsible for protecting Montanans from fraud by regulating the insurance and securities industries. Also holds a seat on the state land board. Elected to a four-year term."
+      "description": "Runs the office responsible for protecting Montanans from fraud by regulating the insurance and securities industries. Also holds a seat on the state land board. Elected to a four-year term. Incumbent Matt Rosendale is running for the U.S. House."
+    },
+    {
+      "position": "Montana Supreme Court",
+      "type": "state-district",
+      "description": "Seats on the Montana Supreme Court, which hears cases appealed from lower courts and oversees the state judicial system. In districts with more than two candidates, the two who receive the most votes in the June primary will advance to the November general election. Montana judicial elections are nonpartisan.",
+      "districts": [
+        {
+          "district": "District 5",
+          "description": "Statewide district. Incumbent Laurie McKinnon is seeking re-election."
+        },
+        {
+          "district": "District 6",
+          "description": "Statewide district. Jim Shea is running for re-election unopposed."
+        }
+      ]
+    },
+    {
+      "position": "Public Service Commission",
+      "type": "state-district",
+      "description": "Three district-based seats on the five-member Montana Public Service Commission, which regulates monopoly utilities including power companies like NorthWestern Energy. Commissioners are elected to four-year terms. The remaining two commissioners, Randy Pinocci and Brad Johnson, are out-of-cycle in 2020, though Johnson is running for Secretary of State.",
+      "districts": [
+        {
+          "district": "District 2",
+          "description": "Representing Billings and southeast Montana. Incumbent Tony O’Donnell is seeking re-election"
+        },
+        {
+          "district": "District 3",
+          "description": "Representing Bozeman, Butte and southwest Montana. Incumbent Roger Koopman is facing term limits."
+        },
+        {
+          "district": "District 4",
+          "description": "Representing Missoula and northwest Montana. Incumbent Bob Lake is facing term limits."
+        }
+      ]
     }
   ],
   "candidates": [
@@ -108,7 +142,7 @@
       "web_url": "https://foxforgovernor.com/",
       "fb_url": "https://www.facebook.com/foxforgovernor/",
       "tw_url": "https://twitter.com/foxforgovernor",
-      "text": "Fox, wrapping up his second four-year term as Montana’s attorney general, announced his campaign for governor in January. Originally from Hardin, he has a University of Montana law degree and formerly worked as an attorney in private practice. He has named former state Rep. Jon Knokey of Bozeman as his running mate."
+      "text": "Fox is wrapping up his second four-year term as Montana’s attorney general. He has a University of Montana law degree and formerly worked as an attorney in private practice. He has named former state Rep. Jon Knokey of Bozeman as his running mate."
     },
     {
       "position": "Governor",
@@ -124,7 +158,7 @@
       "web_url": "https://gregformontana.com/",
       "fb_url": "https://www.facebook.com/RepGianforte/",
       "tw_url": "https://twitter.com/GregForMontana",
-      "text": "Gianforte was the Republican nominee for governor in 2016, but failed to derail Gov. Steve Bullock’s re-election bid. Entering politics after founding and selling RightNow Technologies in Bozeman, he was elected to the U.S. House in the 2017 special election and re-elected to a two-year term in 2019. He was also <a href=\"https://www.bozemandailychronicle.com/news/crime/gianforte-sentenced-to-anger-management-community-service-for-assault-of/article_b6e6241e-e1a3-56fe-a32a-6a02ba234129.html\">convicted of misdemeanor assault</a> for attacking a reporter during his 2017 run. Gianforte filed to run for Montana governor a second time June 7. He has named University of Montana law professor Kristen Juras as his running mate."
+      "text": "Gianforte was elected to the U.S. House in the 2017 special election and re-elected to a two-year term in 2019. He was the Republican nominee for governor in 2016, losing in the general election to incumbent Gov. Steve Bullock. Gianforte was also <a href=\"https://www.bozemandailychronicle.com/news/crime/gianforte-sentenced-to-anger-management-community-service-for-assault-of/article_b6e6241e-e1a3-56fe-a32a-6a02ba234129.html\">convicted of misdemeanor assault</a> for attacking a reporter during his 2017 House run and, before entering politics, founded RightNow Technologies in Bozeman. He has named University of Montana law professor Kristen Juras as his running mate."
     },
     {
       "position": "Governor",
@@ -140,7 +174,7 @@
       "web_url": "https://alformontana.com/",
       "fb_url": "https://www.facebook.com/alformontana/",
       "tw_url": "https://twitter.com/alformontana",
-      "text": "Olszewski, an orthopedic surgeon and state senator from Kalispell, announced his gubernatorial campaign in April. He previously ran for the U.S. Senate in 2018, placing fourth in the Republican primary. He has named fellow state senator Ken Bognar, of Miles City, as his running mate."
+      "text": "Olszewski is an orthopedic surgeon and state senator from Kalispell who has served in the Montana Legislature since 2015. He has named fellow state senator Ken Bognar of Miles City as his running mate."
     },
     {
       "position": "Governor",
@@ -156,7 +190,7 @@
       "web_url": "https://www.cooneyformontana.com/",
       "fb_url": "https://www.facebook.com/CooneyForMT/",
       "tw_url": "https://twitter.com/CooneyforMT",
-      "text": "Cooney, a former Montana legislator and secretary of state from Butte, <a href=\"http://governor.mt.gov/About/Lieutenant-Governor\">has been Bullock’s lieutenant governor</a> since 2016. He announced his campaign July 3. He has named former gubernatorial candidate and House Minority Leader Casey Schreiner, of Great Falls, as his running mate."
+      "text": "Cooney, of Helena, is a former Montana legislator and secretary of state who <a href=\"http://governor.mt.gov/About/Lieutenant-Governor\">has been Bullock’s lieutenant governor</a> since 2016. He has named former gubernatorial candidate and House Minority Leader Casey Schreiner of Great Falls as his running mate."
     },
     {
       "position": "Governor",
@@ -206,7 +240,7 @@
       "web_url": "https://whitneyformontana.com/",
       "fb_url": "https://www.facebook.com/WhitneyforMontana/",
       "tw_url": "https://twitter.com/WhitneyforMT",
-      "text": "Williams, of Missoula, announced her candidacy Oct. 3. She is the daughter of longtime Montana Congressman Pat Williams and Carol Williams, who was the first woman to serve as Montana Senate majority leader. She is also the founder and CEO of <a href=\"http://williamsworks.com/about/\">williamsworks</a>, a Missoula-based philanthropic consulting firm. She has named ag leader Buzz Mattelin of Culbertson as her running mate."
+      "text": "Williams, of Missoula, is the daughter of longtime Montana Congressman Pat Williams and Carol Williams, who was the first woman to serve as Montana Senate majority leader. She is also the founder and CEO of <a href=\"http://williamsworks.com/about/\">williamsworks</a>, a Missoula-based philanthropic consulting firm. She has named Buzz Mattelin of Culbertson as her running mate."
     },
     {
       "position": "Governor",
@@ -222,7 +256,7 @@
       "web_url": "https://www.lyman2020.com/",
       "fb_url": "",
       "tw_url": "",
-      "text": "Bishop, who owns Hoplite Armor in Kalispell, filed with the Montana Secretary of State Feb. 20. He has named John Nesper as his running mate."
+      "text": "Bishop owns Hoplite Armor in Kalispell. He has named John Nesper as his running mate."
     },
     {
       "position": "Governor",
@@ -272,7 +306,7 @@
       "web_url": "https://www.stevedaines.com/",
       "fb_url": "https://www.facebook.com/SteveDainesMT/",
       "tw_url": "https://twitter.com/DainesForMT",
-      "text": "Daines, who worked for Greg Gianforte as an executive at the Bozeman company RightNow Technologies, was Montana’s U.S. representative during the 2012 term, and was elected to the Senate in 2014. He has said he plans to seek re-election to a second term in 2020."
+      "text": "Daines, of Bozeman, elected Montana’s U.S. representative in 2012, and was elected to the Senate in 2014. He previously worked as an executive at RightNow Technologies."
     },
     {
       "position": "U.S. Senate",
@@ -289,7 +323,7 @@
       "web_url": "",
       "fb_url": "",
       "tw_url": "",
-      "text": "Driscoll, of Helena, filed for U.S. Senate as a Republican March 9. He is a former state representative and Public Service Commissioner who has twice run for the U.S. House as a Democrat."
+      "text": "Driscoll, of Helena, is a former state representative and Public Service Commissioner who has twice run for the U.S. House as a Democrat."
     },
     {
       "position": "U.S. Senate",
@@ -306,7 +340,7 @@
       "web_url": "https://www.danformontana.com/",
       "fb_url": "https://www.facebook.com/Dan-Larson-for-Montana-106854634239959/",
       "tw_url": "https://twitter.com/danformontana",
-      "text": "Larson, of Stevensville, announced his primary challenge to Daines in February. A hardware store owner and political newcomer, <a href=\"https://www.ktvh.com/news/montana-news/unknown-republican-enters-mts-u-s-senate-race-challenging-daines\">told MTN News</a> he thinks the race needs a conservative who believes in true Christian values, limited government and responsible spending."
+      "text": "Larson, of Stevensville, owns a hardware store. He has a Masters in Business Administration from the University of Montana."
     },
     {
       "position": "U.S. Senate",
@@ -324,7 +358,7 @@
       "fb_url": "https://www.facebook.com/stevebullockMT/",
       "tw_url": "https://twitter.com/stevebullockmt",
       "insta_url": "https://www.instagram.com/stevebullockmt/",
-      "text": "Bullock, facing term limits after two terms as Montana Governor, <a href=\"https://montanafreepress.org/2020/03/09/at-filing-deadline-bullock-announces-challenge-to-daines-for-u-s-senate-seat/\">announced his Senate candidacy March 9</a>. Previously Montana’s Attorney General, he also made an unsuccessful 2020 bid for U.S. President."
+      "text": "Bullock is facing term limits after two terms as Montana Governor. Previously Montana’s Attorney General, he also made an unsuccessful 2020 bid for U.S. President."
     },
     {
       "position": "U.S. Senate",
@@ -351,7 +385,7 @@
       "last_name": "Knoles",
       "current_title": "",
       "incumbent": "FALSE",
-      "status": "Withdrawn",
+      "status": "Announced",
       "withdrawal_date": "3/9/2020",
       "state_finance_data_name": "",
       "fed_finance_data_name": "KNOLES, MIKE",
@@ -360,7 +394,7 @@
       "web_url": "https://www.mikeknoles2020.com/",
       "fb_url": "https://www.facebook.com/MikeKnolesforSenate/",
       "tw_url": "https://twitter.com/KnolesMichael",
-      "text": "Knoles, of Bozeman, filed <a href=\"https://docquery.fec.gov/cgi-bin/forms/C00720672/1353976/\">candidacy paperwork</a> with the Federal Election Commission Sept. 26."
+      "text": "Knoles, of Bozeman, announced his departure from the Senate race March 9 but will be on democratic primary ballots because he apparently hasn’t filed official withdrawal paperwork with the Montana Secretary of State."
     },
     {
       "position": "U.S. Senate",
@@ -498,7 +532,7 @@
       "web_url": "",
       "fb_url": "https://www.facebook.com/John-Evankovich-for-Congress-104391184329867/",
       "tw_url": "",
-      "text": "Evankovich, of Butte, filed for U.S. House with the Montana Secretary of State Jan. 9 and the Federal Election Commission Feb. 15. As of March 2, he didn’t appear to have a website or campaign social media presence."
+      "text": "Evankovich, of Butte, filed for U.S. House with the Montana Secretary of State Jan. 9 and the Federal Election Commission Feb. 15."
     },
     {
       "position": "U.S. House",
@@ -619,7 +653,7 @@
       "web_url": "https://kathleenformontana.com/",
       "fb_url": "https://www.facebook.com/Williamsformontana/",
       "tw_url": "https://twitter.com/WilliamsForMT",
-      "text": "Williams, a former state legislator from Bozeman, announced her second run for the U.S. House in April. Williams lost her prior attempt, running to unseat Gianforte in 2018, by 24,000 votes."
+      "text": "Williams, of Bozeman, is a former state legislator from Bozeman who has worked for the Western Landowners Alliance. She previously made a run for the U.S. House in 2018, losing the general election to incumbent Rep. Greg Gianforte."
     },
     {
       "position": "U.S. House",
@@ -636,7 +670,7 @@
       "web_url": "https://www.winterformontana.com/",
       "fb_url": "https://www.facebook.com/WinterForMontana/",
       "tw_url": "https://twitter.com/WinterForMT",
-      "text": "Winter, a freshman state representative from Missoula, announced his candidacy in April. He owns home health care provider Interim HealthCare of Western Montana."
+      "text": "Winter, of Missoula, has served one term in the Montana House. He owns home health care provider Interim HealthCare of Western Montana."
     },
     {
       "position": "U.S. House",
@@ -669,7 +703,7 @@
       "web_url": "https://www.bennionforag.com/",
       "fb_url": "https://www.facebook.com/bennionforag/",
       "tw_url": "",
-      "text": "Bennion, currently a senior staffer in the attorney general’s office, announced his candidacy in February. Originally from Billings, he has worked in the AG’s office since 2013."
+      "text": "Bennion, of Helena, is currently a senior staffer in the attorney general’s office. He went to law school at the University of Montana and has worked in the AG’s office since 2013."
     },
     {
       "position": "Attorney General",
@@ -685,7 +719,7 @@
       "web_url": "https://austinformontana.com/",
       "fb_url": "https://www.facebook.com/Austin-Knudsen-for-Montana-294061056548/",
       "tw_url": "",
-      "text": "Knudsen, an attorney from Culbertson, served eight years in the Montana House of Representatives, including four as one of the state’s youngest-ever speakers of the House. He <a href=\"https://twitter.com/aaronflint/status/1130499291292741637\">announced his candidacy</a> May 20. Knudsen, who was termed out of the House after four terms, was elected Roosevelt County Attorney in 2018."
+      "text": "Knudsen, an attorney from Culbertson, graduated from law school at the University of Montana and served eight years in the Montana House of Representatives, including four as one of the state’s youngest-ever speakers of the House. He was elected Roosevelt County Attorney in 2018."
     },
     {
       "position": "Attorney General",
@@ -701,7 +735,7 @@
       "web_url": "https://www.dudikformontana.com/",
       "fb_url": "https://www.facebook.com/dudikformontana/",
       "tw_url": "https://twitter.com/dudikkimberly",
-      "text": "Dudik, who currently represents Missoula in the state Legislature, announced her candidacy in December."
+      "text": "Dudik, of Missoula, is an attorney who served in the Montana Legislature since 2013. She previously worked as a registered nurse and graduated from law school at the University of Montana."
     },
     {
       "position": "Attorney General",
@@ -717,7 +751,7 @@
       "web_url": "https://www.raphgraybill.com/",
       "fb_url": "https://www.facebook.com/RaphforAG/",
       "tw_url": "https://twitter.com/raphgraybill",
-      "text": "Graybill, currently the governor’s chief legal counsel, announced his candidacy in May 2019."
+      "text": "Graybill, of Helena, is currently the governor’s chief legal counsel. He is a graduate of Yale Law School, and studied at Oxford University as a Rhodes Scholar."
     },
     {
       "position": "Attorney General",
@@ -801,7 +835,7 @@
       "fb_url": "",
       "tw_url": "",
       "insta_url": "",
-      "text": "Johnson, of Missoula, filed for the office March 9."
+      "text": "Johnson, of Missoula, filed for the office March 9. His campaign filing materials don’t include contact information or a campaign website."
     },
     {
       "position": "Secretary of State",
@@ -817,7 +851,7 @@
       "web_url": "https://mandevilleformontana.com/",
       "fb_url": "https://www.facebook.com/MandevilleForMontana/",
       "tw_url": "https://twitter.com/FJMandeville",
-      "text": "Mandeville, of Columbus, announced his candidacy in July. He has served in the state Legislature since 2015."
+      "text": "Mandeville, of Columbus, has served in the state Legislature since 2015. He also works as a land-use planner."
     },
     {
       "position": "Secretary of State",
@@ -834,7 +868,7 @@
       "fb_url": "https://www.facebook.com/SalesforMontana",
       "tw_url": "https://twitter.com/SalesforMT",
       "insta_url": "https://www.instagram.com/salesformontana/",
-      "text": "Sales, a state senator from Bozeman who has served in the Montana Legislature since 2003, announced his run for secretary of state in March. He served as senate president in the 2017 and 2019 legislative sessions."
+      "text": "Sales, a state senator from Bozeman, has served in the Montana Legislature since 2003. He served as senate president in the 2017 and 2019 legislative sessions."
     },
     {
       "position": "Secretary of State",
@@ -851,7 +885,7 @@
       "fb_url": "https://www.facebook.com/bennett4montana/",
       "tw_url": "https://twitter.com/brycebennett",
       "insta_url": "https://www.instagram.com/brycebennettmt/",
-      "text": "Bennett, a state senator from Missoula, announced his candidacy for secretary of state May 29. He is the executive director of the Montana Public Interest Research Group, a University of Montana-affiliated policy nonprofit, and has served in the Legislature since 2011."
+      "text": "Bennett is a state senator from Missoula. He was previously the executive director of the Montana Public Interest Research Group, a University of Montana-affiliated policy nonprofit, and has served in the Legislature since 2011."
     },
     {
       "position": "Superintendent of Public Instruction",
@@ -867,7 +901,7 @@
       "web_url": "https://elsieformontana.com",
       "fb_url": "https://www.facebook.com/SuperintendentElsieArntzen/",
       "tw_url": "https://twitter.com/elsieformontana",
-      "text": "Arntzen, formerly a state legislator from Billings, was elected superintendent of public instruction in 2016. She announced June 11 that she will seek re-election."
+      "text": "Arntzen, formerly a state legislator from Billings, was elected superintendent of public instruction in 2016."
     },
     {
       "position": "Superintendent of Public Instruction",
@@ -883,7 +917,7 @@
       "web_url": "http://romanoformontana.com",
       "fb_url": "https://www.facebook.com/romanoformontana/",
       "tw_url": "https://twitter.com/MelissaRomanoMT",
-      "text": "Romano, a Helena teacher, was the 2016 Democratic nominee for superintendent of public instruction, losing to Arntzen. She said in April she plans to take another shot at the job."
+      "text": "Romano is a Helena teacher. She was the 2016 Democratic nominee for superintendent of public instruction, losing to Arntzen."
     },
     {
       "position": "Superintendent of Public Instruction",
@@ -899,7 +933,7 @@
       "web_url": "",
       "fb_url": "https://www.facebook.com/LeatherbarrowMTEd/",
       "tw_url": "",
-      "text": "Leatherbarrow <a href=\"https://www.greatfallstribune.com/story/news/2019/05/15/go-and-grow-living-up-its-name-providing-educational-help/3669311002/\">runs a private tutoring center in Great Falls</a>. He was previously a Libertarian candidate <a href=\"https://www.greatfallstribune.com/story/news/2018/10/14/libertarian-kevin-leatherbarrow-candidate-great-falls-montana-senate/1614658002/\">for the Montana Senate</a> and filed to run for the state’s top education job March 6."
+      "text": "Leatherbarrow <a href=\"https://www.greatfallstribune.com/story/news/2019/05/15/go-and-grow-living-up-its-name-providing-educational-help/3669311002/\">runs a private tutoring center in Great Falls</a>. He was previously a Libertarian candidate <a href=\"https://www.greatfallstribune.com/story/news/2018/10/14/libertarian-kevin-leatherbarrow-candidate-great-falls-montana-senate/1614658002/\">for the Montana Senate</a>."
     },
     {
       "position": "State Auditor",
@@ -931,7 +965,7 @@
       "web_url": "https://nellynicol4stateauditor.com/",
       "fb_url": "https://www.facebook.com/pg/Nelly-Nicol-for-Montana-State-Auditor-101390104570267/",
       "tw_url": "https://twitter.com/Nelly4Montana",
-      "text": "Nicol, of Billings, announced her candidacy in October. According to <a href=\"https://www.linkedin.com/in/nellynicol/\">her LinkedIn profile</a>, she has worked at Miles City-based Victory Insurance Company for more than a decade."
+      "text": "Nicol, of Billings, works at Miles City-based Victory Insurance Company for more than a decade."
     },
     {
       "position": "State Auditor",
@@ -980,7 +1014,7 @@
       "web_url": "https://www.winsor4stateauditor.com/",
       "fb_url": "https://www.facebook.com/Mike-Winsor-for-State-Auditor-102491428110905",
       "tw_url": "https://twitter.com/Winsor4Auditor",
-      "text": "Winsor, a Helena Attorney who previously worked as a Special Assistant Attorney General for the State Auditor’s Office, filed to run for State Auditor March 8."
+      "text": "Winsor is an attorney in Helena. He previously worked as a Special Assistant Attorney General for the State Auditor’s Office."
     },
     {
       "position": "State Auditor",
@@ -997,7 +1031,279 @@
       "fb_url": "https://www.facebook.com/pages/category/Personal-Blog/Roger-Roots-For-Montana-State-Auditor-153690155314517/",
       "tw_url": "",
       "text": "Roots, of Livingston, <a href=\"http://rogerroots.com/\">describes himself</a> as an attorney and civil liberties activist. He <a href=\"https://www.mtpr.org/post/libertarian-roger-roots-will-remain-ballot-supreme-court-rules\">ran for Secretary of State</a> in 2016."
+    },
+    {
+      "position": "Montana Supreme Court",
+      "district": "District 5",
+      "party": "N",
+      "first_name": "Laurie",
+      "last_name": "McKinnon",
+      "current_title": "",
+      "incumbent": "TRUE",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "podcast_url": "",
+      "web_url": "https://www.mckinnon2020.com",
+      "fb_url": "",
+      "tw_url": "",
+      "text": "McKinnon, of Helena, was elected to the Montana Supreme Court in 2012. She previously served as a District Court Judge in north-central Montana."
+    },
+    {
+      "position": "Montana Supreme Court",
+      "district": "District 5",
+      "party": "N",
+      "first_name": "Mike",
+      "last_name": "Black",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "podcast_url": "",
+      "web_url": "http://blackformontana.com",
+      "fb_url": "https://www.facebook.com/blackformontana",
+      "tw_url": "",
+      "text": "Black, of Helena, has been admitted to practice law in Montana since 1991. He worked in the Montana Attorney General’s office from 2011 to 2015."
+    },
+    {
+      "position": "Montana Supreme Court",
+      "district": "District 5",
+      "party": "N",
+      "first_name": "Mars",
+      "last_name": "Scott",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "podcast_url": "",
+      "web_url": "https://www.marsscottsupremecourt.com/",
+      "fb_url": "https://www.facebook.com/MarsForMontana/",
+      "tw_url": "https://twitter.com/mars_court",
+      "text": "Scott, of Missoula, is a longtime Montana attorney who owns a family law practice in Missoula."
+    },
+    {
+      "position": "Montana Supreme Court",
+      "district": "District 6",
+      "party": "N",
+      "first_name": "Jim",
+      "last_name": "Shea",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "podcast_url": "",
+      "web_url": "https://sheaforjustice.com/",
+      "fb_url": "",
+      "tw_url": "",
+      "text": "Shea, of Helena, has served on the Montana Supreme Court since 2014."
+    },
+    {
+      "position": "Montana Supreme Court",
+      "district": "District 2",
+      "party": "R",
+      "first_name": "Tony",
+      "last_name": "O’Donnell",
+      "current_title": "",
+      "incumbent": "TRUE",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "podcast_url": "",
+      "web_url": "",
+      "fb_url": "",
+      "tw_url": "",
+      "text": "O’Donnell, of Billings, was elected to the PSC in 2016. He previously worked at a home improvement store and ran a retail merchandising company."
+    },
+    {
+      "position": "Public Service Commission",
+      "district": "District 2",
+      "party": "R",
+      "first_name": "Kirk",
+      "last_name": "Bushman",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "podcast_url": "",
+      "web_url": "http://kirkbushman.com/",
+      "fb_url": "https://www.facebook.com/KirkBushmanforPSC/",
+      "tw_url": "",
+      "text": "Bushman, of Billings, is a mechanical engineer. He served previously on the PSC before being unseated by Tony O’Donnell in 2016."
+    },
+    {
+      "position": "Public Service Commission",
+      "district": "District 2",
+      "party": "R",
+      "first_name": "Daniel",
+      "last_name": "Zolnikov",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "podcast_url": "",
+      "web_url": "https://danielzolnikov.com",
+      "fb_url": "https://www.facebook.com/DanielZolnikov",
+      "tw_url": "https://twitter.com/DanielZolnikov",
+      "text": "Zolnikov, of Billings, has served in the Montana Legislature since 2013. He was the chair of the House Energy, Technology, and Federal Relations Committee during the 2017 and 2019 sessions."
+    },
+    {
+      "position": "Public Service Commission",
+      "district": "District 2",
+      "party": "D",
+      "first_name": "Valerie",
+      "last_name": "McMurtry",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "podcast_url": "",
+      "web_url": "https://mcmurtry4psc.com/",
+      "fb_url": "",
+      "tw_url": "",
+      "text": "McMurtry, of Billings, is a retired P.E. and Special Education teacher. She was educated at Montana State University."
+    },
+    {
+      "position": "Public Service Commission",
+      "district": "District 3",
+      "party": "R",
+      "first_name": "James",
+      "last_name": "Brown",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "podcast_url": "",
+      "web_url": "https://www.jamesbrownformontana.com/",
+      "fb_url": "",
+      "tw_url": "",
+      "text": "Brown, of Dillon, operates a business law practice and lobbies for industry groups including the Montana Wool Growers Association, Solid Waste Contractors Association and Montana Funeral Directors Association."
+    },
+    {
+      "position": "Public Service Commission",
+      "district": "District 3",
+      "party": "R",
+      "first_name": "Alan",
+      "last_name": "George",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "podcast_url": "",
+      "web_url": "",
+      "fb_url": "https://www.alangeorgeforpsc.com/",
+      "tw_url": "",
+      "text": "George, of Belgrade, is a mechanical engineering professor at Montana State University."
+    },
+    {
+      "position": "Public Service Commission",
+      "district": "District 3",
+      "party": "D",
+      "first_name": "Tom",
+      "last_name": "Woods",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "podcast_url": "",
+      "web_url": "https://www.tomwoodsforpsc.com/",
+      "fb_url": "",
+      "tw_url": "",
+      "text": "Woods, of Bozeman, has served in the Montana Legislature since 2013. He also teaches cell biology, animal physiology and physics at Montana State University."
+    },
+    {
+      "position": "Public Service Commission",
+      "district": "District 3",
+      "party": "I",
+      "first_name": "Rob",
+      "last_name": "Elwood",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "podcast_url": "",
+      "web_url": "http://www.elwood4psc.jawrd.com/",
+      "fb_url": "",
+      "tw_url": "",
+      "text": "Elwood, of Harlowton, has served in the Montana National Guard and worked in telecommunications. He currently serves on the Harlowton City Council and is a partner in a barbecue business."
+    },
+    {
+      "position": "Public Service Commission",
+      "district": "District 4",
+      "party": "R",
+      "first_name": "Will",
+      "last_name": "Deschamps",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "podcast_url": "",
+      "web_url": "http://www.deschampsforpsc.com/",
+      "fb_url": "",
+      "tw_url": "",
+      "text": "Deschamps, of Missoula, runs a political consulting company. He is a Marine Corps veteran and a former chair of the Montana Republican Party."
+    },
+    {
+      "position": "Public Service Commission",
+      "district": "District 4",
+      "party": "R",
+      "first_name": "Champ",
+      "last_name": "Edmunds",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "podcast_url": "",
+      "web_url": "https://www.champformontana.com/",
+      "fb_url": "https://www.facebook.com/MontanaChamp/",
+      "tw_url": "https://twitter.com/champedmunds",
+      "text": "Edmunds, of Darby, served two terms as a state representative for Missoula from 2011 to 2014. He and his wife run a chocolate shop and real estate business."
+    },
+    {
+      "position": "Public Service Commission",
+      "district": "District 4",
+      "party": "R",
+      "first_name": "Jennifer",
+      "last_name": "Fielder",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "podcast_url": "",
+      "web_url": "https://jenniferfielder.com/",
+      "fb_url": "https://www.facebook.com/JenniferFielder4MT/",
+      "tw_url": "",
+      "text": "Fielder, of Thompson Falls, has served in the Montana Legislature since 2013 and chaired the Senate Fish and Game committee in 2019. She is also the CEO of the American Lands Council, a nonprofit <a href=\"http://www.americanlandscouncil.org/our_mission\">that advocates for the transfer of federal lands to state ownership</a>."
+    },
+    {
+      "position": "Public Service Commission",
+      "district": "District 4",
+      "party": "D",
+      "first_name": "Daniel",
+      "last_name": "Carlino",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "podcast_url": "",
+      "web_url": "https://carlino2020.com/",
+      "fb_url": "https://www.facebook.com/CarlinoforMT",
+      "tw_url": "",
+      "text": "Carlino, of Missoula, lobbied for sustainability initiatives while a student at the University of Montana, where he graduated in 2019. At UM, he studied environmental studies and wildlife biology."
+    },
+    {
+      "position": "Public Service Commission",
+      "district": "District 4",
+      "party": "D",
+      "first_name": "Monica",
+      "last_name": "Tranel",
+      "current_title": "",
+      "incumbent": "FALSE",
+      "status": "Announced",
+      "state_finance_data_name": "",
+      "podcast_url": "",
+      "web_url": "https://tranel4psc.com",
+      "fb_url": "https://www.facebook.com/tranelforpsc/",
+      "tw_url": "https://twitter.com/TranelforPSC",
+      "text": "Tranel, of Missoula, is an attorney who works with energy and regulatory issues. She previously worked as a PSC staff attorney and for the Montana Consumer Counsel."
     }
   ],
-  "lastUpdated": "2020-05-07T18:15:59.055Z"
+  "lastUpdated": "2020-05-08T03:45:54.241Z"
 }

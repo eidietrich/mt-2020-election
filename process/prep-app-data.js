@@ -64,7 +64,6 @@ const federalContributions = getJson(FED_ITEMIZED_RECEIPTS)
 const federalExpenditures = [] // TODO
 
 const activeCandidates = filterToActive(candidates)
-console.log(activeCandidates.map(d => `${d.last_name} ${d.status}`))
 
 
 

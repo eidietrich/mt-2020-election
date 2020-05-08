@@ -1,5 +1,5 @@
 import React from 'react'
-import MTFPLogo from './MTFPLogo'
+import MTFPLogoFull from './MTFPLogoFull'
 
 const styles = {
     header: {
@@ -32,11 +32,11 @@ const styles = {
 
 const MTFPHeader = (props) => {
     return <header style={styles.header}>
-        <div style={styles.logoContainer}><MTFPLogo /></div>
+        <div style={styles.logoContainer}><MTFPLogoFull /></div>
         <div style={styles.navBar}>
             <a style={styles.headerLink} href="https://montanafreepress.org/">Home</a>
             <a style={styles.headerLink} href="https://montanafreepress.org/sign-up/">Subscribe</a>
-            <a style={styles.headerLink} href="https://montanafreepress.org/donate/">Donate</a>
+            <a style={styles.headerLink} href="https://checkout.fundjournalism.org/memberform?org_id=montanafreepress&campaign=7013s000000mfEdAAI">Donate</a>
         </div>
     </header>
 }

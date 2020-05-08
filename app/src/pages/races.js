@@ -23,9 +23,10 @@ const Races = () => {
         <TextBlock paragraphs={racePageText} />
         <div className={styles.races}>
             {races.map((race, i) => {
+                const candidates = activeCandidates.filter(candidate => candidate.position === race.position)
                 return <Race key={String(i)}
                     race={race}
-                    candidates={activeCandidates.filter(candidate => candidate.position === race.position)}
+                    candidates={candidates}
                 />
             })}
         </div>
@@ -37,10 +38,17 @@ export default Races
 
 const Race = (props) => {
     const { race, candidates } = props
-    // console.log(race.type)
 
     const flagIcon = (race.type === 'federal') ? <UsFlagIcon /> : <MtFlagIcon />
-    
+    let candidatesRendered = '(None)'
+    if (candidates.length > 0) {
+        candidatesRendered = candidates.map((c, i) => {
+            return <span key={String(i)}><Link to={makeCandidateUrl(c)}>{candidateNameParty(c)}</Link></span>
+            })
+            .reduce((prev, curr) => [prev, ', ', curr])
+    }
+
+
     return <div className={styles.race}>
         <Link className={styles.raceHeaderLink} to={makeRaceUrl(race)}>
             <div className={styles.raceHeader}>            
@@ -53,11 +61,7 @@ const Race = (props) => {
             <p className={styles.description}>{race.description}</p>
             <div className={styles.candidates}>
                 <span><strong>Candidates:</strong> </span>
-                {candidates.map((c, i) => {
-                    return <span key={String(i)}><Link to={makeCandidateUrl(c)}>{candidateNameParty(c)}</Link></span>
-                    })
-                    .reduce((prev, curr) => [prev, ', ', curr])
-                }
+                {candidatesRendered}
             </div>
         </div>
         

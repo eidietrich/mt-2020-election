@@ -1,5 +1,5 @@
 import React from 'react'
-import MTFPLogo from './MTFPLogo.js'
+import MTFPLogoGold from './MTFPLogoGold.js'
 
 import EmailForm from './EmailForm'
 
@@ -12,7 +12,7 @@ const MTFPFooter = (props) => {
             Find this useful? <a href={donateUrl}>Support</a> our nonprofit journalism.
         </div>
         <div className={styles.logo}>
-            <MTFPLogo />
+            <MTFPLogoGold />
         </div>
 
         <div className={styles.email}>

@@ -94,3 +94,21 @@
     flex-wrap: wrap;
     justify-content: center;
 }   
+
+/* For districts */
+
+.district {
+    padding: 0.5em;
+    text-align: center;
+}
+.districtInfo {
+    text-align: center;
+}
+.districtName {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.districtInfo {
+    font-size: 0.9em;
+    line-height: 1.1em;
+}

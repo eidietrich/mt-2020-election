@@ -38,6 +38,7 @@ class CandidatePage extends Component {
             .filter(c => makeCandidateKey(c) !== makeCandidateKey(candidate))
 
         const party = getCandidateParty(candidate)
+        const positionKey = candidate.position.replace(/\s/g, '-')
 
         return (<Layout>
             <SEO
@@ -67,22 +68,22 @@ class CandidatePage extends Component {
             </div>
             
             <hr /> 
-
-            {hasIssueAnswers[candidate.position] ?
+            
+            {hasIssueAnswers[positionKey] ?
                 <CandidateIssues
                     candidate={candidate}
                     race={race}
                     color={party.color}
                 /> : null}
-            {hasIssueAnswers[candidate.position] ? <hr /> : null}
+            {hasIssueAnswers[positionKey] ? <hr /> : null}
             
-
-            <CandidateFinance 
-                candidate={candidate}
-                race={race}
-            />
-
-            <hr />
+            {candidate.finance ? 
+                <CandidateFinance 
+                    candidate={candidate}
+                    race={race}
+                /> : null
+            }
+            {candidate.finance ?  <hr /> : null}
 
             <LinksList
                 links={candidate.coverageLinks}
