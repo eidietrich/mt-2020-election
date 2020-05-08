@@ -30,7 +30,7 @@
         ]
       },
       {
-        "question": "If elected governor, how would you attempt to bridge partisan divides to work with Montanans who don't share your political orientation in order to ensure their concerns are considered by your administration",
+        "question": "If elected governor, how would you attempt to bridge partisan divides to work with Montanans who don't share your political orientation in order to ensure their concerns are considered by your administration?",
         "answer": [
           {
             "type": "text",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "question": "If elected governor, how would you attempt to bridge partisan divides to work with Montanans who don't share your political orientation in order to ensure their concerns are considered by your administration",
+        "question": "If elected governor, how would you attempt to bridge partisan divides to work with Montanans who don't share your political orientation in order to ensure their concerns are considered by your administration?",
         "answer": [
           {
             "type": "text",
@@ -374,7 +374,7 @@
         ]
       },
       {
-        "question": "If elected governor, how would you attempt to bridge partisan divides to work with Montanans who don't share your political orientation in order to ensure their concerns are considered by your administration",
+        "question": "If elected governor, how would you attempt to bridge partisan divides to work with Montanans who don't share your political orientation in order to ensure their concerns are considered by your administration?",
         "answer": [
           {
             "type": "text",
@@ -518,7 +518,7 @@
         ]
       },
       {
-        "question": "If elected governor, how would you attempt to bridge partisan divides to work with Montanans who don't share your political orientation in order to ensure their concerns are considered by your administration",
+        "question": "If elected governor, how would you attempt to bridge partisan divides to work with Montanans who don't share your political orientation in order to ensure their concerns are considered by your administration?",
         "answer": [
           {
             "type": "text",
@@ -702,7 +702,7 @@
         ]
       },
       {
-        "question": "If elected governor, how would you attempt to bridge partisan divides to work with Montanans who don't share your political orientation in order to ensure their concerns are considered by your administration",
+        "question": "If elected governor, how would you attempt to bridge partisan divides to work with Montanans who don't share your political orientation in order to ensure their concerns are considered by your administration?",
         "answer": [
           {
             "type": "text",
@@ -1074,35 +1074,11 @@
           },
           {
             "type": "text",
-            "value": "69-3-301. Schedule of rates, tolls, and charges. (1) Every public utility shall file with the commission..."
+            "value": "<a href=\"https://leg.mt.gov/bills/mca/title_0690/chapter_0030/part_0030/section_0010/0690-0030-0030-0010.html\">69-3-301</a>. Schedule of rates, tolls, and charges. (1) Every public utility shall file with the commission..."
           },
           {
             "type": "text",
-            "value": "69-3-101. Meaning of term \"public utility\". (1) The term \"public utility\", within the meaning of this chapter, includes … for the production, delivery, or furnishing ..."
-          },
-          {
-            "type": "text",
-            "value": "(a) heat;"
-          },
-          {
-            "type": "text",
-            "value": "(b) street-railway service;"
-          },
-          {
-            "type": "text",
-            "value": "(c) light;"
-          },
-          {
-            "type": "text",
-            "value": "(d) power in any form or by any agency;"
-          },
-          {
-            "type": "text",
-            "value": "(e) except as provided in chapter 7, water for business, manufacturing, household use, or sewerage service, whether within the limits of municipalities or towns or elsewhere;"
-          },
-          {
-            "type": "text",
-            "value": "(f) regulated telecommunications service..."
+            "value": "<a href=\"https://leg.mt.gov/bills/mca/title_0690/chapter_0030/part_0010/section_0010/0690-0030-0010-0010.html\">69-3-101</a>. Meaning of term \"public utility\". (1) The term \"public utility\", within the meaning of this chapter, includes … for the production, delivery, or furnishing … (a) heat; (b) street-railway service; (c) light; (d) power in any form or by any agency; (e) except as provided in chapter 7, water for business, manufacturing, household use, or sewerage service, whether within the limits of municipalities or towns or elsewhere; (f) regulated telecommunications service..."
           }
         ]
       },
@@ -1242,7 +1218,7 @@
   },
   {
     "race": "PSC",
-    "name": "Tony O'Donnell",
+    "name": "Tony O’Donnell",
     "responses": [
       {
         "question": "How would you assess the performance of the current Public Service Commission?",
@@ -1578,7 +1554,7 @@
         ]
       },
       {
-        "question": "Would you have voted to impeach President Donald Trump based on the evidence presented to the U.S. House in last year. Why?",
+        "question": "Would you have voted to impeach President Donald Trump based on the evidence presented to the U.S. House last year? Why?",
         "answer": [
           {
             "type": "text",
@@ -1665,7 +1641,7 @@
         ]
       },
       {
-        "question": "Would you have voted to impeach President Donald Trump based on the evidence presented to the U.S. House in last year. Why?",
+        "question": "Would you have voted to impeach President Donald Trump based on the evidence presented to the U.S. House last year? Why?",
         "answer": [
           {
             "type": "text",
@@ -1772,7 +1748,7 @@
         ]
       },
       {
-        "question": "Would you have voted to impeach President Donald Trump based on the evidence presented to the U.S. House in last year. Why?",
+        "question": "Would you have voted to impeach President Donald Trump based on the evidence presented to the U.S. House last year? Why?",
         "answer": [
           {
             "type": "text",
@@ -1903,7 +1879,7 @@
         ]
       },
       {
-        "question": "Would you have voted to impeach President Donald Trump based on the evidence presented to the U.S. House in last year. Why?",
+        "question": "Would you have voted to impeach President Donald Trump based on the evidence presented to the U.S. House last year? Why?",
         "answer": [
           {
             "type": "text",
@@ -2002,7 +1978,7 @@
         ]
       },
       {
-        "question": "Would you have voted to impeach President Donald Trump based on the evidence presented to the U.S. House in last year. Why?",
+        "question": "Would you have voted to impeach President Donald Trump based on the evidence presented to the U.S. House last year? Why?",
         "answer": [
           {
             "type": "text",
@@ -2101,7 +2077,7 @@
         ]
       },
       {
-        "question": "Would you have voted to impeach President Donald Trump based on the evidence presented to the U.S. House in last year. Why?",
+        "question": "Would you have voted to impeach President Donald Trump based on the evidence presented to the U.S. House last year? Why?",
         "answer": [
           {
             "type": "text",
@@ -2188,7 +2164,7 @@
         ]
       },
       {
-        "question": "Would you have voted to impeach President Donald Trump based on the evidence presented to the U.S. House in last year. Why?",
+        "question": "Would you have voted to impeach President Donald Trump based on the evidence presented to the U.S. House last year? Why?",
         "answer": [
           {
             "type": "text",
@@ -2454,31 +2430,7 @@
         "answer": [
           {
             "type": "text",
-            "value": "In Montana, there are tremendous needs for spending at a local level. Policies that focus on and support the health of our rural communities will create the right environment for job growth in Montana. These policies include:"
-          },
-          {
-            "type": "text",
-            "value": "Developing rural broadband,"
-          },
-          {
-            "type": "text",
-            "value": "Funding for water and sanitation infrastructure,"
-          },
-          {
-            "type": "text",
-            "value": "Improving access to capital for small businesses,"
-          },
-          {
-            "type": "text",
-            "value": "Promoting a regulatory environment that supports entrepreneurship,"
-          },
-          {
-            "type": "text",
-            "value": "Fighting for our agricultural producers,"
-          },
-          {
-            "type": "text",
-            "value": "Supporting rural health care, education, and local government funding."
+            "value": "In Montana, there are tremendous needs for spending at a local level. Policies that focus on and support the health of our rural communities will create the right environment for job growth in Montana. These policies include: developing rural broadband, funding for water and sanitation infrastructure, improving access to capital for small businesses, promoting a regulatory environment that supports entrepreneurship, fighting for our agricultural producers, and supporting rural health care, education, and local government funding."
           },
           {
             "type": "text",

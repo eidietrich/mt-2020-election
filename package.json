@@ -24,11 +24,11 @@
   },
   "scripts": {
     "start": "cd app && npm start",
-    "refresh": "npm run refersh:issues && npm run refresh:text && npm run refresh:links && npm run refresh:data",
+    "refresh": "npm run refresh:issues && npm run refresh:text && npm run refresh:links && npm run refresh:data",
     "refresh:data": "node process/prep-app-data.js",
     "refresh:links": "node scrapers/coverage-outside/fetch-coverage-list.js && node process/prep-outside-links.js",
     "refresh:text": "node scrapers/app-copy/fetch-app-copy.js",
-    "refesh:issues": "node scrapers/issue-questions/doc-to-local.js",
+    "refresh:issues": "node scrapers/issue-questions/doc-to-local.js",
     "local:demo": "(cd app && gatsby build) && serve app/public",
     "deploy": "npm run deploy:prod && npm run deploy:clear-cache",
     "deploy:demo": "(cd app && gatsby build) && aws s3 sync app/public s3://mtfp-election-demo",

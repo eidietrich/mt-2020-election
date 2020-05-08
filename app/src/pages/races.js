@@ -51,7 +51,7 @@ const Race = (props) => {
                 return <span key={String(i)}><Link to={makeCandidateUrl(c)}>{candidateNameParty(c)}</Link></span>
             })
             .reduce((prev, curr) => [prev, ', ', curr]))
-            candidatesRendered.push(['. '])
+            candidatesRendered.push([' '])
 
         })
         // candidatesRendered = 'Has districts'

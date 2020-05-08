@@ -47,7 +47,7 @@ const RaceIssues = (props) => {
         const text = listed.length > 1 ? `${listed.slice(0, -1).join(', ')} or ${listed.slice(-1)}` : listed[0]
         const noResponsesText = (listed.length > 0) ? ` Complete responses weren't submitted by our deadline from ${text}.` : null
         renderedMissing =  <div className={'note'}>
-            Issue statements were solicited from active candidates via a written questionnaire, with candidates contacted repeatedly via phone numbers and emails listed in candidacy paperwork. Answers have been lightly edited for punctuation and spelling.{noResponsesText} 
+            Issue statements were solicited from active candidates via a written questionnaire. Answers have been lightly edited for punctuation and spelling.{noResponsesText} 
         </div>
     }
     

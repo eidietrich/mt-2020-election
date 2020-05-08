@@ -52,8 +52,11 @@ class CandidatePage extends Component {
             <CandidateSummary candidate={candidate}/>
 
             <div className={styles.text}>
+                <div className={styles.race}>
+                    <strong>Race overview:</strong> <Link to={makeRaceUrl(race)}>2020 {race.position}</Link>
+                </div>
                 <div className={styles.competitors}>
-                    <span><strong>Competitors:</strong> </span>
+                    <span><strong>Other candidates:</strong> </span>
                     {competitors.map((c, i) => {
                         // const url = `/candidates/${makeCandidateKey(c)}`
                         return <span key={String(i)}><Link to={makeCandidateUrl(c)}>{candidateNameParty(c)}</Link></span>
@@ -61,9 +64,7 @@ class CandidatePage extends Component {
                         .reduce((prev, curr) => [prev, ', ', curr])
                     }
                 </div>
-                <div className={styles.race}>
-                    <strong>Race overview:</strong> <Link to={makeRaceUrl(race)}>2020 {race.position}</Link>
-                </div>
+                
             </div>
             
             <hr /> 

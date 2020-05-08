@@ -21,7 +21,7 @@ const CandidateIssues = (props) => {
     if (!responses) {
         return <div className={styles.container}>
             <h2>On the issues</h2>
-            <div className={'note'}>No responses on file. {ledeIn} All active candidates for {race.position} were contacted repeatedly via phone numbers and emails included in election paperwork. Some didn't submit complete responses by deadline.</div>
+            <div className={'note'}>No responses on file. {ledeIn} All active candidates in the race were contacted repeatedly via phone numbers and emails included in election paperwork. Some didn't submit complete responses by deadline.</div>
         </div>
     }
 
