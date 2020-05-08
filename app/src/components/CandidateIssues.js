@@ -5,7 +5,7 @@ import TextBlock from '../library/TextBlock.js'
 
 import styles from './CandidateIssues.module.css'
 
-const ledeIn = `Issue statements were solicited from active candidates via a written questionnaire.`
+const ledeIn = `Issue statements were solicited from active candidates via a written questionnaire. Answers have been lightly edited for punctuation and spelling.`
 
 const CandidateIssues = (props) => {
     const { color, race } = props

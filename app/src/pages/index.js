@@ -106,7 +106,7 @@ const Primary = (props) => {
 }
 
 const District = (props) => {
-  const {candidates, name, description } = props
+  const {candidates, name } = props
   
   const primariesRendered = parties
     .filter(party => candidates.find(d => d.party === party.key)) // exclude parties w/out candidates
@@ -124,7 +124,6 @@ const District = (props) => {
    return <div className={styles.district}>
       <div className={styles.districtInfo}>
         <div className={styles.districtName}>{name}</div>
-        {/* <div className={styles.description}>{description}</div> */}
       </div>
       <div className={styles.officePrimaries}>
         {primariesRendered}

@@ -19,7 +19,7 @@ import {
     candidateNameParty,
     getCandidateParty,
 } from '../logic/functions.js'
-import { excludeStatuses, hasIssueAnswers } from '../logic/config.js'
+import { excludeStatuses } from '../logic/config.js'
 
 import { candidates } from '../data/app-copy.json' // TODO: Replace this with gatsby-node logic
 
@@ -38,7 +38,6 @@ class CandidatePage extends Component {
             .filter(c => makeCandidateKey(c) !== makeCandidateKey(candidate))
 
         const party = getCandidateParty(candidate)
-        const positionKey = candidate.position.replace(/\s/g, '-')
 
         return (<Layout>
             <SEO

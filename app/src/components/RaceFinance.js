@@ -13,7 +13,6 @@ import {
     dollarFormat,
     dateFormat,
     // fundraisingDomainUpperBound,
-    hasCampaignFinance,
 } from '../logic/config'
 
 import {

@@ -41,7 +41,21 @@ const Race = (props) => {
 
     const flagIcon = (race.type === 'federal') ? <UsFlagIcon /> : <MtFlagIcon />
     let candidatesRendered = '(None)'
-    if (candidates.length > 0) {
+
+    if (race.districts && race.districts.length > 0) {
+        candidatesRendered = []
+        race.districts.forEach(district => {
+            const candidatesInDistrict = candidates.filter(d => d.district === district.district)
+            candidatesRendered.push([<span key={district.district}>{district.district}: </span>])
+            candidatesRendered.push(candidatesInDistrict.map((c, i) => {
+                return <span key={String(i)}><Link to={makeCandidateUrl(c)}>{candidateNameParty(c)}</Link></span>
+            })
+            .reduce((prev, curr) => [prev, ', ', curr]))
+            candidatesRendered.push(['. '])
+
+        })
+        // candidatesRendered = 'Has districts'
+    } else if (candidates.length > 0) {
         candidatesRendered = candidates.map((c, i) => {
             return <span key={String(i)}><Link to={makeCandidateUrl(c)}>{candidateNameParty(c)}</Link></span>
             })

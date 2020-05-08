@@ -1,12 +1,12 @@
 import React from 'react'
-import { navigate, Link } from 'gatsby'
+import { navigate } from 'gatsby'
 
 import CandidateMug from './CandidateMug'
 
 import styles from './RaceCandidateSummary.module.css'
 
 import {parties, excludeStatuses} from '../logic/config.js'
-import { makeCandidateKey, filterToActive, makeRaceKey } from '../logic/functions.js'
+import { makeCandidateKey, filterToActive } from '../logic/functions.js'
 
 const RaceCandidateSummaryWrapper = (props) => {
   const { race } = props
@@ -49,6 +49,7 @@ const RaceCandidateSummary = (props) => {
     const districtsRendered = race.districts.map(district => {
       const candidatesInDistrict = candidates.filter(d => d.district === district.district)
       return <District 
+        key={district.district}
         name={district.district}
         description={district.description}
         race={race}
@@ -109,28 +110,4 @@ const RaceCandidateSummary = (props) => {
           {primariesRendered}
         </div>
       </div>
-  }
-  
-  const RaceWithDistricts = (props) => {
-    const {candidates, race } = props
-    const districtsRendered = race.districts.map(district => {
-      const candidatesInDistrict = candidates.filter(d => d.district === district.district)
-      return <District 
-        name={district.district}
-        description={district.description}
-        race={race}
-        candidates={candidatesInDistrict}
-      />
-    })
-  
-    return <div className={styles.Race}>
-        <div className={styles.officeHeader}>
-          <Link to={`/races/${makeRaceKey(race)}`}>
-            <h2 className={styles.officeName}>{race.position}</h2>
-          </Link>
-        </div>
-      <div className={styles.officeDistricts}>
-        {districtsRendered}
-      </div>
-    </div>
   }
