@@ -11,7 +11,7 @@ export const parties = [
     {key: 'D', name:'Democrat', color: '#4575b4'},
     {key: 'L', name:'Libertarian', color: '#e89a0b'},
     {key: 'G', name:'Green Party', color: '#36913f'},
-    {key: 'N', name:'Non-partisan', color: '#858585'},
+    {key: 'N', name:'Nonpartisan', color: '#858585'},
     {key: 'I', name:'Independent', color: '#858585'},
   ]
 
