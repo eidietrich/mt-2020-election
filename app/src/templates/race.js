@@ -6,6 +6,7 @@ import RaceFinance from '../components/RaceFinance'
 import RaceIssues from '../components/RaceIssues' 
 import RaceCandidateSummary from '../components/RaceCandidateSummary' 
 import LinksList from '../library/LinksList'
+import EmailFormElex from '../library/EmailFormElex.jsx'
 
 import MoreToComeMessage from '../components/MoreToComeMessage'
 
@@ -31,7 +32,9 @@ class RacePage extends Component {
                 race={race}
                 candidates={raceCandidates}
             />
-            <hr />
+
+            < EmailFormElex />
+
             <RaceIssues
                 race={race}
                 candidates={raceCandidates}

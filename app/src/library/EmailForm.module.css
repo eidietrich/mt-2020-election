@@ -1,3 +1,12 @@
+.containerDark {
+    background: #191919;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    padding-top: 2em;
+    margin-bottom: 2em;
+}
+
 .signup {
     max-width: 530px;
     margin: 1rem auto;

@@ -10,6 +10,8 @@ import CandidateIssues from '../components/CandidateIssues'
 import MoreToComeMessage from '../components/MoreToComeMessage'
 
 import LinksList from '../library/LinksList'
+import EmailFormElex from '../library/EmailFormElex'
+
 
 // import { } from '../logic/config.js'
 import { 
@@ -24,6 +26,7 @@ import { excludeStatuses } from '../logic/config.js'
 import { candidates } from '../data/app-copy.json' // TODO: Replace this with gatsby-node logic
 
 import styles from './candidate.module.css'
+
 
 class CandidatePage extends Component {
     render(){
@@ -67,7 +70,7 @@ class CandidatePage extends Component {
                 
             </div>
             
-            <hr /> 
+            <EmailFormElex />
 
             <CandidateIssues
                 candidate={candidate}
