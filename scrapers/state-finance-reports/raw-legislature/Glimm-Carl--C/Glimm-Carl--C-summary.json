@@ -1,0 +1,98 @@
+{
+    "slug": "Glimm-Carl--C",
+    "candidateName": "Glimm, Carl  C",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "Senate District No. 02",
+    "partyDescr": "Republican",
+    "periods": 2,
+    "receipts": 5200.0,
+    "expenditures": 2797.26,
+    "balance": 2402.74,
+    "summary": {
+        "contributions": {
+            "primary": 5200.0,
+            "general": 0.0,
+            "total": 5200.0
+        },
+        "expenditures": {
+            "primary": 2797.26,
+            "general": 0.0,
+            "total": 2797.26
+        },
+        "cash_on_hand": {
+            "primary": 2402.74,
+            "general": 0.0,
+            "total": 2402.74
+        }
+    },
+    "reports": [
+        {
+            "report": "03/21/2020 to 04/20/2020",
+            "id": 47544,
+            "type": "C5",
+            "start_date": "03/21/2020",
+            "end_date": "04/20/2020",
+            "unitemized_contributions": 20.0,
+            "num_contributions": 17,
+            "num_expenditures": 7,
+            "summary": {
+                "previous report": {
+                    "primary": 2217.27,
+                    "general": 0.0,
+                    "total": 2217.27
+                },
+                "Receipts": {
+                    "primary": 2630.0,
+                    "general": 0.0,
+                    "total": 2630.0
+                },
+                "Expenditures": {
+                    "primary": 2444.53,
+                    "general": 0.0,
+                    "total": 2444.53
+                },
+                "Ending Balance": {
+                    "primary": 2402.74,
+                    "general": 0.0,
+                    "total": 2402.74
+                },
+                "report_start_date": "03/21/2020",
+                "report_end_date": "04/20/2020"
+            }
+        },
+        {
+            "report": "01/20/2020 to 03/20/2020",
+            "id": 46927,
+            "type": "C5",
+            "start_date": "01/20/2020",
+            "end_date": "03/20/2020",
+            "unitemized_contributions": 20.0,
+            "num_contributions": 18,
+            "num_expenditures": 4,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 2570.0,
+                    "general": 0.0,
+                    "total": 2570.0
+                },
+                "Expenditures": {
+                    "primary": 352.73,
+                    "general": 0.0,
+                    "total": 352.73
+                },
+                "Ending Balance": {
+                    "primary": 2217.27,
+                    "general": 0.0,
+                    "total": 2217.27
+                },
+                "report_start_date": "01/20/2020",
+                "report_end_date": "03/20/2020"
+            }
+        }
+    ]
+}

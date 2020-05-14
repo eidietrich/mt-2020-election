@@ -1,0 +1,98 @@
+{
+    "slug": "Phalen-Bob",
+    "candidateName": "Phalen, Bob ",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 36",
+    "partyDescr": "Republican",
+    "periods": 2,
+    "receipts": 7890.5,
+    "expenditures": 3113.0299999999997,
+    "balance": 4777.47,
+    "summary": {
+        "contributions": {
+            "primary": 7890.5,
+            "general": 0.0,
+            "total": 7890.5
+        },
+        "expenditures": {
+            "primary": 3113.0299999999997,
+            "general": 0.0,
+            "total": 3113.0299999999997
+        },
+        "cash_on_hand": {
+            "primary": 4777.47,
+            "general": 0.0,
+            "total": 4777.47
+        }
+    },
+    "reports": [
+        {
+            "report": "03/19/2020 to 04/15/2020",
+            "id": 47005,
+            "type": "C5",
+            "start_date": "03/19/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 100.0,
+            "num_contributions": 32,
+            "num_expenditures": 8,
+            "summary": {
+                "previous report": {
+                    "primary": 1745.84,
+                    "general": 0.0,
+                    "total": 1745.84
+                },
+                "Receipts": {
+                    "primary": 3760.0,
+                    "general": 0.0,
+                    "total": 3760.0
+                },
+                "Expenditures": {
+                    "primary": 728.37,
+                    "general": 0.0,
+                    "total": 728.37
+                },
+                "Ending Balance": {
+                    "primary": 4777.47,
+                    "general": 0.0,
+                    "total": 4777.47
+                },
+                "report_start_date": "03/19/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "02/18/2020 to 03/18/2020",
+            "id": 46665,
+            "type": "C5",
+            "start_date": "02/18/2020",
+            "end_date": "03/18/2020",
+            "unitemized_contributions": 80.0,
+            "num_contributions": 33,
+            "num_expenditures": 8,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 4130.5,
+                    "general": 0.0,
+                    "total": 4130.5
+                },
+                "Expenditures": {
+                    "primary": 2384.66,
+                    "general": 0.0,
+                    "total": 2384.66
+                },
+                "Ending Balance": {
+                    "primary": 1745.84,
+                    "general": 0.0,
+                    "total": 1745.84
+                },
+                "report_start_date": "02/18/2020",
+                "report_end_date": "03/18/2020"
+            }
+        }
+    ]
+}

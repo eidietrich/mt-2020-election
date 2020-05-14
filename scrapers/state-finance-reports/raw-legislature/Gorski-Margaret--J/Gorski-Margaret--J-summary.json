@@ -1,0 +1,98 @@
+{
+    "slug": "Gorski-Margaret--J",
+    "candidateName": "Gorski, Margaret  J",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "Senate District No. 44",
+    "partyDescr": "Democrat",
+    "periods": 2,
+    "receipts": 1144.6,
+    "expenditures": 45.4,
+    "balance": 1099.2,
+    "summary": {
+        "contributions": {
+            "primary": 1144.6,
+            "general": 0.0,
+            "total": 1144.6
+        },
+        "expenditures": {
+            "primary": 45.4,
+            "general": 0.0,
+            "total": 45.4
+        },
+        "cash_on_hand": {
+            "primary": 1099.2,
+            "general": 0.0,
+            "total": 1099.2
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 47145,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 9,
+            "num_expenditures": 2,
+            "summary": {
+                "previous report": {
+                    "primary": 9.2,
+                    "general": 0.0,
+                    "total": 9.2
+                },
+                "Receipts": {
+                    "primary": 1135.0,
+                    "general": 0.0,
+                    "total": 1135.0
+                },
+                "Expenditures": {
+                    "primary": 45.0,
+                    "general": 0.0,
+                    "total": 45.0
+                },
+                "Ending Balance": {
+                    "primary": 1099.2,
+                    "general": 0.0,
+                    "total": 1099.2
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "01/01/2020 to 03/15/2020",
+            "id": 46791,
+            "type": "C5",
+            "start_date": "01/01/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 9.6,
+            "num_contributions": 5,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 9.6,
+                    "general": 0.0,
+                    "total": 9.6
+                },
+                "Expenditures": {
+                    "primary": 0.4,
+                    "general": 0.0,
+                    "total": 0.4
+                },
+                "Ending Balance": {
+                    "primary": 9.2,
+                    "general": 0.0,
+                    "total": 9.2
+                },
+                "report_start_date": "01/01/2020",
+                "report_end_date": "03/15/2020"
+            }
+        }
+    ]
+}

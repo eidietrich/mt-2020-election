@@ -1,12 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Montana 2020`,
+    title: `Montana Free Press`,
     description: `The MTFP guide to the 2020 Montana election`,
     author: `Eric Dietrich / Montana Free Press`,
     siteUrl:`https://www.montanafreepress.org/apps/montana-2020`,
-    keywords: ['Montana','election','2020','votes','politics','U.S. Senate','Governor','U.S. House','congress']
+    keywords: ['Montana','election','candidates','2020','vote',
+      'politics','U.S. Senate','Governor','U.S. House','congress','Public Service Commission',
+      'Attorney General','Superintendent of Public Instruction','Secretary of State','State Auditor',
+    ]
   },
-  // pathPrefix: `/apps/montana-2020`, // old hosting
   pathPrefix: `/montana-2020`, // for S3
   plugins: [
     `gatsby-plugin-react-helmet`,

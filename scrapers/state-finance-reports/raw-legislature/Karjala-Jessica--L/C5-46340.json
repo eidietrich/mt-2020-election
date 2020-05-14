@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Receipts": {
+            "primary": 144.06,
+            "general": 0.0,
+            "total": 144.06
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Ending Balance": {
+            "primary": 144.06,
+            "general": 0.0,
+            "total": 144.06
+        },
+        "report_start_date": "01/01/2020",
+        "report_end_date": "03/15/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"01\\/06\\/2020\",\"Entity Name\":null,\"First Name\":\"ERIN\",\"Middle Initial\":null,\"Last Name\":\"GRANTHAM\",\"Addr Line1\":\"1990 MCKAY LANE\",\"City\":\"BILLINGS\",\"State\":\"MT\",\"Zip\":59102,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Physician\",\"Employer\":\"Billings Clinic\",\"Contribution Type\":9,\"Amount\":48.02,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":48.02,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"01\\/06\\/2020\",\"Entity Name\":null,\"First Name\":\"MICHAEL\",\"Middle Initial\":null,\"Last Name\":\"GRANTHAM\",\"Addr Line1\":\"1990 MCKAY LANE\",\"City\":\"BILLINGS\",\"State\":\"MT\",\"Zip\":59102,\"Zip4\":null,\"Country\":null,\"Occupation\":\"None \",\"Employer\":\"None \",\"Contribution Type\":9,\"Amount\":48.02,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":48.02,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"02\\/03\\/2020\",\"Entity Name\":null,\"First Name\":\"Kay\",\"Middle Initial\":null,\"Last Name\":\"Carlson\",\"Addr Line1\":\"844 Yellowstone\",\"City\":\"Billings\",\"State\":\"MT\",\"Zip\":59102,\"Zip4\":null,\"Country\":null,\"Occupation\":\"RETIRED \",\"Employer\":\"Retired\",\"Contribution Type\":9,\"Amount\":48.02,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":48.02,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0.0
+}

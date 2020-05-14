@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 2902.74,
+            "general": 0.0,
+            "total": 2902.74
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Expenditures": {
+            "primary": 325.95,
+            "general": 0.0,
+            "total": 325.95
+        },
+        "Ending Balance": {
+            "primary": 2576.79,
+            "general": 0.0,
+            "total": 2576.79
+        },
+        "report_start_date": "03/16/2020",
+        "report_end_date": "04/15/2020"
+    },
+    "contributions": "[]",
+    "expenditures": "[{\"Date Paid\":\"03\\/31\\/2020\",\"Entity Name\":null,\"First Name\":\"Chase\",\"Middle Initial\":\"P\",\"Last Name\":\"Gay\",\"Addr Line1\":\"P.O. Box 231\",\"City\":\"Frenchtown\",\"State\":\"MT\",\"Zip\":59834,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":50.0,\"Purpose\":\"Campaign contribution - Senate District 47\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"03\\/31\\/2020\",\"Entity Name\":null,\"First Name\":\"Lisa\",\"Middle Initial\":null,\"Last Name\":\"Pavlock\",\"Addr Line1\":\"62551 Wild Rose Lane\",\"City\":\"St. Ignatius\",\"State\":\"MT\",\"Zip\":59865,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":50.0,\"Purpose\":\"Campaign contribution - House District 93\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"03\\/31\\/2020\",\"Entity Name\":null,\"First Name\":\"Daniel\",\"Middle Initial\":\"T\",\"Last Name\":\"Carlino\",\"Addr Line1\":\"PO Box 7534\",\"City\":\"Missoula\",\"State\":\"MT\",\"Zip\":59807,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":180.0,\"Purpose\":\"Campaign contribution - PSC District 4\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 0.0
+}

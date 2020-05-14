@@ -1,0 +1,98 @@
+{
+    "slug": "Lovick-Helena",
+    "candidateName": "Lovick, Helena ",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 26",
+    "partyDescr": "Democrat",
+    "periods": 2,
+    "receipts": 4481.0599999999995,
+    "expenditures": 1141.4199999999998,
+    "balance": 3339.64,
+    "summary": {
+        "contributions": {
+            "primary": 0.0,
+            "general": 4481.0599999999995,
+            "total": 4481.0599999999995
+        },
+        "expenditures": {
+            "primary": 0.0,
+            "general": 1141.4199999999998,
+            "total": 1141.4199999999998
+        },
+        "cash_on_hand": {
+            "primary": 0.0,
+            "general": 3339.64,
+            "total": 3339.64
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 47265,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 213.5,
+            "num_contributions": 19,
+            "num_expenditures": 8,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 2046.24,
+                    "total": 2046.24
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 1363.5,
+                    "total": 1363.5
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 70.1,
+                    "total": 70.1
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 3339.64,
+                    "total": 3339.64
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "01/01/2020 to 03/15/2020",
+            "id": 46866,
+            "type": "C5",
+            "start_date": "01/01/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 217.55999999999995,
+            "num_contributions": 31,
+            "num_expenditures": 13,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 3117.56,
+                    "total": 3117.56
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 1071.32,
+                    "total": 1071.32
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 2046.24,
+                    "total": 2046.24
+                },
+                "report_start_date": "01/01/2020",
+                "report_end_date": "03/15/2020"
+            }
+        }
+    ]
+}

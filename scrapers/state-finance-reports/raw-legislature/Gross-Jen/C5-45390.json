@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Receipts": {
+            "primary": 159.0,
+            "general": 610.0,
+            "total": 769.0
+        },
+        "Expenditures": {
+            "primary": 134.0,
+            "general": 30.48,
+            "total": 164.48
+        },
+        "Ending Balance": {
+            "primary": 25.0,
+            "general": 579.52,
+            "total": 604.52
+        },
+        "report_start_date": "04/20/2019",
+        "report_end_date": "06/30/2019"
+    },
+    "contributions": "[{\"Date Paid\":\"07\\/05\\/2019\",\"Entity Name\":null,\"First Name\":\"Dionne\",\"Middle Initial\":null,\"Last Name\":\"Kellogg\",\"Addr Line1\":\"310 Box Elder Creek Rd\",\"City\":\"Billings\",\"State\":\"MT\",\"Zip\":59101,\"Zip4\":null,\"Country\":null,\"Occupation\":\"RETIRED\",\"Employer\":null,\"Contribution Type\":9,\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":100,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"07\\/05\\/2019\",\"Entity Name\":null,\"First Name\":\"Jesse\",\"Middle Initial\":\"A\",\"Last Name\":\"Laslovich\",\"Addr Line1\":\"4910 Smallwood Ct \",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59601,\"Zip4\":6708.0,\"Country\":null,\"Occupation\":\"Consultant\",\"Employer\":\"SCL Health\",\"Contribution Type\":9,\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":100,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"07\\/05\\/2019\",\"Entity Name\":null,\"First Name\":\"BEV\",\"Middle Initial\":null,\"Last Name\":\"ROSS\",\"Addr Line1\":\"3131 FORSYTHIA BLVD\",\"City\":\"BILLINGS\",\"State\":\"MT\",\"Zip\":59102,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Retired\",\"Employer\":\"Retired\",\"Contribution Type\":9,\"Amount\":180,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":180,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"07\\/05\\/2019\",\"Entity Name\":null,\"First Name\":\"BEVERLY\",\"Middle Initial\":null,\"Last Name\":\"MAGLEY\",\"Addr Line1\":\"805 SO. RODNEY ST\",\"City\":\"HELENA\",\"State\":\"MT\",\"Zip\":59601,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Freelance Writer\",\"Employer\":\"Follow the Money\",\"Contribution Type\":9,\"Amount\":50,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":50,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"07\\/05\\/2019\",\"Entity Name\":null,\"First Name\":\"Diane\",\"Middle Initial\":\"D\",\"Last Name\":\"Sands\",\"Addr Line1\":\"4487 Nicole Ct\",\"City\":\"Missoula\",\"State\":\"MT\",\"Zip\":59803,\"Zip4\":2791.0,\"Country\":null,\"Occupation\":\"Senator\",\"Employer\":\"Montana State Senate\",\"Contribution Type\":9,\"Amount\":180,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":180,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 159.0
+}

@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Receipts": {
+            "primary": 1100.01,
+            "general": 0.0,
+            "total": 1100.01
+        },
+        "Expenditures": {
+            "primary": 1030.0,
+            "general": 0.0,
+            "total": 1030.0
+        },
+        "Ending Balance": {
+            "primary": 70.01,
+            "general": 0.0,
+            "total": 70.01
+        },
+        "report_start_date": "01/04/2020",
+        "report_end_date": "03/20/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"01\\/07\\/2020\",\"Entity Name\":null,\"First Name\":\"David\",\"Middle Initial\":\"W\",\"Last Name\":\"Dunn\",\"Addr Line1\":\"P.O. Box 10902 \",\"City\":\"Kalispell\",\"State\":\"MT\",\"Zip\":59904,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Farmer\",\"Employer\":\"Self-Employed\",\"Contribution Type\":3,\"Amount\":100.01,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":1100.01,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"02\\/26\\/2020\",\"Entity Name\":null,\"First Name\":\"David\",\"Middle Initial\":\"W\",\"Last Name\":\"Dunn\",\"Addr Line1\":\"P.O. Box 10902 \",\"City\":\"Kalispell\",\"State\":\"MT\",\"Zip\":59904,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Farmer\",\"Employer\":\"Self Employed\",\"Contribution Type\":3,\"Amount\":1000.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":1100.01,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[{\"Date Paid\":\"01\\/09\\/2020\",\"Entity Name\":null,\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":null,\"City\":null,\"State\":null,\"Zip\":null,\"Zip4\":null,\"Expenditure Type\":1,\"Amount\":15,\"Purpose\":\"Register for election\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"03\\/05\\/2020\",\"Entity Name\":\"Flathead Central Commitee\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"P.O. Box 8865, Kalispell, MT 59904\",\"City\":\"Kalispell\",\"State\":\"MT\",\"Zip\":59901.0,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":1000,\"Purpose\":\"Charlie Kirk Event gold sponsor \",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":\"Central commitee event, kalispell hilton\",\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"01\\/15\\/2020\",\"Entity Name\":\"David Dunn HD9 Legislator\",\"First Name\":\"David\",\"Middle Initial\":null,\"Last Name\":\"Dunn\",\"Addr Line1\":\"Po Box 10902\",\"City\":\"Kalispell\",\"State\":\"MT\",\"Zip\":59901.0,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":15,\"Purpose\":\"Candidate primary filing fee\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 0.0
+}

@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Receipts": {
+            "primary": 100.0,
+            "general": 0.0,
+            "total": 100.0
+        },
+        "Expenditures": {
+            "primary": 53.0,
+            "general": 0.0,
+            "total": 53.0
+        },
+        "Ending Balance": {
+            "primary": 47.0,
+            "general": 0.0,
+            "total": 47.0
+        },
+        "report_start_date": "03/09/2020",
+        "report_end_date": "04/14/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"04\\/28\\/2020\",\"Entity Name\":null,\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":null,\"City\":null,\"State\":null,\"Zip\":null,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":1,\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":100,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[{\"Date Paid\":\"03\\/11\\/2020\",\"Entity Name\":null,\"First Name\":\"Benjamin\",\"Middle Initial\":\"J\",\"Last Name\":\"Burda\",\"Addr Line1\":\"2360 Cottage Ct\",\"City\":\"Missoula\",\"State\":\"MT\",\"Zip\":59801,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":53,\"Purpose\":\"Open PO Box for Campaign \",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":\"6 months\",\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 0.0
+}

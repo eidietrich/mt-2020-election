@@ -1,0 +1,98 @@
+{
+    "slug": "Quist-Guthrie--W",
+    "candidateName": "Quist, Guthrie  W",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "Senate District No. 03",
+    "partyDescr": "Democrat",
+    "periods": 2,
+    "receipts": 1190.0,
+    "expenditures": 567.23,
+    "balance": 622.77,
+    "summary": {
+        "contributions": {
+            "primary": 0.0,
+            "general": 1190.0,
+            "total": 1190.0
+        },
+        "expenditures": {
+            "primary": 0.0,
+            "general": 567.23,
+            "total": 567.23
+        },
+        "cash_on_hand": {
+            "primary": 0.0,
+            "general": 622.77,
+            "total": 622.77
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 47624,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 85.0,
+            "num_contributions": 5,
+            "num_expenditures": 3,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 491.0,
+                    "total": 491.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 515.0,
+                    "total": 515.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 383.23,
+                    "total": 383.23
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 622.77,
+                    "total": 622.77
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "01/01/2020 to 03/15/2020",
+            "id": 46953,
+            "type": "C5",
+            "start_date": "01/01/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 145.0,
+            "num_contributions": 5,
+            "num_expenditures": 2,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 675.0,
+                    "total": 675.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 184.0,
+                    "total": 184.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 491.0,
+                    "total": 491.0
+                },
+                "report_start_date": "01/01/2020",
+                "report_end_date": "03/15/2020"
+            }
+        }
+    ]
+}

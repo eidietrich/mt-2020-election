@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Receipts": {
+            "primary": 200.0,
+            "general": 200.0,
+            "total": 400.0
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Ending Balance": {
+            "primary": 200.0,
+            "general": 200.0,
+            "total": 400.0
+        },
+        "report_start_date": "10/15/2019",
+        "report_end_date": "01/06/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"01\\/06\\/2020\",\"Entity Name\":null,\"First Name\":\"Sally\",\"Middle Initial\":null,\"Last Name\":\"Dickinson\",\"Addr Line1\":\"1106 South Tracy\",\"City\":\"Bozeman\",\"State\":\"MT\",\"Zip\":59715.0,\"Zip4\":null,\"Country\":null,\"Occupation\":\"RETIRED\",\"Employer\":\"RETIRED\",\"Contribution Type\":9,\"Amount\":100.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":100.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"01\\/06\\/2020\",\"Entity Name\":null,\"First Name\":\"Josh\",\"Middle Initial\":null,\"Last Name\":\"Dickinson\",\"Addr Line1\":\"1106 South Tracy\",\"City\":\"Bozeman\",\"State\":\"MT\",\"Zip\":59715.0,\"Zip4\":null,\"Country\":null,\"Occupation\":\"RETIRED\",\"Employer\":\"RETIRED\",\"Contribution Type\":9,\"Amount\":100.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":100.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"01\\/06\\/2020\",\"Entity Name\":null,\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":null,\"City\":null,\"State\":null,\"Zip\":null,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":1,\"Amount\":200.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":200.0,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"10\\/23\\/2019\",\"Entity Name\":null,\"First Name\":\"Christopher\",\"Middle Initial\":\"S\",\"Last Name\":\"Pope\",\"Addr Line1\":\"Pope for Montana 2020, PO Box 6546\",\"City\":\"Bozeman\",\"State\":\"MT\",\"Zip\":59771.0,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Legislator HD 65\",\"Employer\":\"State of Montana\",\"Contribution Type\":3,\"Amount\":56.36,\"Amount Type\":\"IK\",\"Purpose\":\"Campaign Checking Account Deposit slips\",\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":56.36,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0.0
+}

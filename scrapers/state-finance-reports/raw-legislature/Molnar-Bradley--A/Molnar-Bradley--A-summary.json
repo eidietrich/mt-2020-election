@@ -1,0 +1,98 @@
+{
+    "slug": "Molnar-Bradley--A",
+    "candidateName": "Molnar, Bradley  A",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "Senate District No. 28",
+    "partyDescr": "Republican",
+    "periods": 2,
+    "receipts": 7247.26,
+    "expenditures": 5680.34,
+    "balance": 1566.92,
+    "summary": {
+        "contributions": {
+            "primary": 7247.26,
+            "general": 0.0,
+            "total": 7247.26
+        },
+        "expenditures": {
+            "primary": 5680.34,
+            "general": 0.0,
+            "total": 5680.34
+        },
+        "cash_on_hand": {
+            "primary": 1566.92,
+            "general": 0.0,
+            "total": 1566.92
+        }
+    },
+    "reports": [
+        {
+            "report": "03/21/2020 to 04/15/2020",
+            "id": 47385,
+            "type": "C5",
+            "start_date": "03/21/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 180.0,
+            "num_contributions": 25,
+            "num_expenditures": 14,
+            "summary": {
+                "previous report": {
+                    "primary": 1117.26,
+                    "general": 0.0,
+                    "total": 1117.26
+                },
+                "Receipts": {
+                    "primary": 6130.0,
+                    "general": 0.0,
+                    "total": 6130.0
+                },
+                "Expenditures": {
+                    "primary": 5680.34,
+                    "general": 0.0,
+                    "total": 5680.34
+                },
+                "Ending Balance": {
+                    "primary": 1566.92,
+                    "general": 0.0,
+                    "total": 1566.92
+                },
+                "report_start_date": "03/21/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "01/01/2020 to 03/20/2020",
+            "id": 46761,
+            "type": "C5",
+            "start_date": "01/01/2020",
+            "end_date": "03/20/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 2,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 1117.26,
+                    "general": 0.0,
+                    "total": 1117.26
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 1117.26,
+                    "general": 0.0,
+                    "total": 1117.26
+                },
+                "report_start_date": "01/01/2020",
+                "report_end_date": "03/20/2020"
+            }
+        }
+    ]
+}

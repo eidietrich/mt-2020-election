@@ -1,0 +1,200 @@
+{
+    "slug": "Gauthier-Terry--J",
+    "candidateName": "Gauthier, Terry  J",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "Senate District No. 40",
+    "partyDescr": "Republican",
+    "periods": 5,
+    "receipts": 1910.0,
+    "expenditures": 0.0,
+    "balance": 1910.0,
+    "summary": {
+        "contributions": {
+            "primary": 0.0,
+            "general": 1910.0,
+            "total": 1910.0
+        },
+        "expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "cash_on_hand": {
+            "primary": 0.0,
+            "general": 1910.0,
+            "total": 1910.0
+        }
+    },
+    "reports": [
+        {
+            "report": "03/18/2020 to 04/20/2020",
+            "id": 47571,
+            "type": "C5",
+            "start_date": "03/18/2020",
+            "end_date": "04/20/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 1910.0,
+                    "total": 1910.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 1910.0,
+                    "total": 1910.0
+                },
+                "report_start_date": "03/18/2020",
+                "report_end_date": "04/20/2020"
+            }
+        },
+        {
+            "report": "01/06/2020 to 03/17/2020",
+            "id": 46584,
+            "type": "C5",
+            "start_date": "01/06/2020",
+            "end_date": "03/17/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 10,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 1910.0,
+                    "total": 1910.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 1910.0,
+                    "total": 1910.0
+                },
+                "report_start_date": "01/06/2020",
+                "report_end_date": "03/17/2020"
+            }
+        },
+        {
+            "report": "10/06/2019 to 01/05/2020",
+            "id": 46290,
+            "type": "C5",
+            "start_date": "10/06/2019",
+            "end_date": "01/05/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "report_start_date": "10/06/2019",
+                "report_end_date": "01/05/2020"
+            }
+        },
+        {
+            "report": "07/01/2019 to 10/05/2019",
+            "id": 45866,
+            "type": "C5",
+            "start_date": "07/01/2019",
+            "end_date": "10/05/2019",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "report_start_date": "07/01/2019",
+                "report_end_date": "10/05/2019"
+            }
+        },
+        {
+            "report": "04/01/2019 to 06/30/2019",
+            "id": 45527,
+            "type": "C5",
+            "start_date": "04/01/2019",
+            "end_date": "06/30/2019",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "report_start_date": "04/01/2019",
+                "report_end_date": "06/30/2019"
+            }
+        }
+    ]
+}

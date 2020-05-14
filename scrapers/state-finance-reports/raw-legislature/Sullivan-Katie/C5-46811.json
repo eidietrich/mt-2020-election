@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 860.0,
+            "general": 0.0,
+            "total": 860.0
+        },
+        "Receipts": {
+            "primary": 280.0,
+            "general": 1096.2,
+            "total": 1376.2
+        },
+        "Expenditures": {
+            "primary": 1140.0,
+            "general": 0.0,
+            "total": 1140.0
+        },
+        "Ending Balance": {
+            "primary": 0.0,
+            "general": 1096.2,
+            "total": 1096.2
+        },
+        "report_start_date": "01/01/2020",
+        "report_end_date": "03/15/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"02\\/10\\/2020\",\"Entity Name\":\"Montana Hospital association\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"2625 Winne Ave.\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59601,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":5,\"Amount\":180.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":180.0,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"03\\/15\\/2020\",\"Entity Name\":\"First Security Bank\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":\"First Security Bank\",\"Addr Line1\":\"1709 Dearborn Ave.\",\"City\":\"Missoula\",\"State\":\"MT\",\"Zip\":59801,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":4,\"Amount\":1096.2,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":1096.2,\"Refund Transaction Type\":\"REFUND\",\"Refund Original Transaction Date\":\"03\\/15\\/2020\",\"Refund Original Transaction Total\":1096.2,\"Refund Original Transaction Descr\":\"Transfer from primary fund to general fund\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"03\\/01\\/2020\",\"Entity Name\":null,\"First Name\":\"Chase\",\"Middle Initial\":null,\"Last Name\":\"Gay\",\"Addr Line1\":\"305 E. Front St Apt. 206\",\"City\":\"Missoula\",\"State\":\"MT\",\"Zip\":59802,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Student\",\"Employer\":\"None\",\"Contribution Type\":9,\"Amount\":100.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":100.0,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[{\"Date Paid\":\"01\\/09\\/2020\",\"Entity Name\":\"MT Secretary of State\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"P.O. Box 202801\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59620,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":15.0,\"Purpose\":\"Filing fee for HD 89\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"03\\/01\\/2020\",\"Entity Name\":\"Act Blue\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 441146\",\"City\":\"Somerville\",\"State\":\"MA\",\"Zip\":2144,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":3.95,\"Purpose\":\"Online Fee - one donation\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"03\\/15\\/2020\",\"Entity Name\":\"First Security Bank\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":\"First Security Bank\",\"Addr Line1\":\"1709 Dearborn Ave.\",\"City\":\"Missoula\",\"State\":\"MT\",\"Zip\":59801,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":1096.2,\"Purpose\":\"Transfer from primary fund to general fund\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":\"Transfer from primary fund to general fund\"},{\"Date Paid\":\"01\\/09\\/2020\",\"Entity Name\":\"WIX.com\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"500 Tery A Francois Blvd Fl 6\",\"City\":\"San Francisco\",\"State\":\"CA\",\"Zip\":94158,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":24.85,\"Purpose\":\"Domain registration\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":\"Wix.com\",\"Expenditure Paid Communications Quantity\":\"one domain for one year\",\"Expenditure Paid Communications Subject Matter\":\"purchased one domain for campaign website \"}]",
+    "unitemized_contributions": 0.0
+}

@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 2983.38,
+            "general": 0.0,
+            "total": 2983.38
+        },
+        "Receipts": {
+            "primary": 150.12,
+            "general": 0.0,
+            "total": 150.12
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Ending Balance": {
+            "primary": 3133.5,
+            "general": 0.0,
+            "total": 3133.5
+        },
+        "report_start_date": "03/16/2020",
+        "report_end_date": "04/15/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"04\\/13\\/2020\",\"Entity Name\":null,\"First Name\":\"Dale\",\"Middle Initial\":null,\"Last Name\":\"Hovdey\",\"Addr Line1\":\"1846 Frey Lane\",\"City\":\"Missoula\",\"State\":\"MT\",\"Zip\":59847,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Retired\",\"Employer\":\"Retired\",\"Contribution Type\":9,\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":100,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"04\\/10\\/2020\",\"Entity Name\":null,\"First Name\":\"Michelle\",\"Middle Initial\":null,\"Last Name\":\"Landquist\",\"Addr Line1\":\"PO Box 533\",\"City\":\"Lolo\",\"State\":\"MT\",\"Zip\":59847,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Sheep Farm\",\"Employer\":\"Self Employed\",\"Contribution Type\":9,\"Amount\":50,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":50,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0.12000000000000455
+}

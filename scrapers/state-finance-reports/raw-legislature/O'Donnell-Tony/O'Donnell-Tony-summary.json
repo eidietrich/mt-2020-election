@@ -1,0 +1,98 @@
+{
+    "slug": "O'Donnell-Tony",
+    "candidateName": "O'Donnell, Tony ",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "Public Service Commission District No. 02",
+    "partyDescr": "Republican",
+    "periods": 2,
+    "receipts": 10670.0,
+    "expenditures": 5977.889999999999,
+    "balance": 4692.11,
+    "summary": {
+        "contributions": {
+            "primary": 10670.0,
+            "general": 0.0,
+            "total": 10670.0
+        },
+        "expenditures": {
+            "primary": 5977.889999999999,
+            "general": 0.0,
+            "total": 5977.889999999999
+        },
+        "cash_on_hand": {
+            "primary": 4692.11,
+            "general": 0.0,
+            "total": 4692.11
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 47622,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 3,
+            "num_expenditures": 4,
+            "summary": {
+                "previous report": {
+                    "primary": 7716.75,
+                    "general": 0.0,
+                    "total": 7716.75
+                },
+                "Receipts": {
+                    "primary": 370.0,
+                    "general": 0.0,
+                    "total": 370.0
+                },
+                "Expenditures": {
+                    "primary": 3394.64,
+                    "general": 0.0,
+                    "total": 3394.64
+                },
+                "Ending Balance": {
+                    "primary": 4692.11,
+                    "general": 0.0,
+                    "total": 4692.11
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "02/14/2020 to 03/15/2020",
+            "id": 47011,
+            "type": "C5",
+            "start_date": "02/14/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 3,
+            "num_expenditures": 2,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 10300.0,
+                    "general": 0.0,
+                    "total": 10300.0
+                },
+                "Expenditures": {
+                    "primary": 2583.25,
+                    "general": 0.0,
+                    "total": 2583.25
+                },
+                "Ending Balance": {
+                    "primary": 7716.75,
+                    "general": 0.0,
+                    "total": 7716.75
+                },
+                "report_start_date": "02/14/2020",
+                "report_end_date": "03/15/2020"
+            }
+        }
+    ]
+}

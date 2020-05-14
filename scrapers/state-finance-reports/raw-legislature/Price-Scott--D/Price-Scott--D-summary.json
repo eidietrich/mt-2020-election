@@ -1,0 +1,98 @@
+{
+    "slug": "Price-Scott--D",
+    "candidateName": "Price, Scott  D",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "Senate District No. 25",
+    "partyDescr": "Republican",
+    "periods": 2,
+    "receipts": 4000.0,
+    "expenditures": 1081.8600000000001,
+    "balance": 2918.14,
+    "summary": {
+        "contributions": {
+            "primary": 0.0,
+            "general": 4000.0,
+            "total": 4000.0
+        },
+        "expenditures": {
+            "primary": 0.0,
+            "general": 1081.8600000000001,
+            "total": 1081.8600000000001
+        },
+        "cash_on_hand": {
+            "primary": 0.0,
+            "general": 2918.14,
+            "total": 2918.14
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 46973,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 7,
+            "num_expenditures": 4,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 2753.13,
+                    "total": 2753.13
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 1000.0,
+                    "total": 1000.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 834.99,
+                    "total": 834.99
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 2918.14,
+                    "total": 2918.14
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "03/02/2020 to 03/15/2020",
+            "id": 46611,
+            "type": "C5",
+            "start_date": "03/02/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 2,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 3000.0,
+                    "total": 3000.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 246.87,
+                    "total": 246.87
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 2753.13,
+                    "total": 2753.13
+                },
+                "report_start_date": "03/02/2020",
+                "report_end_date": "03/15/2020"
+            }
+        }
+    ]
+}

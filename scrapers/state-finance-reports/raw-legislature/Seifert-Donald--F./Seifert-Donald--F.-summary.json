@@ -1,0 +1,64 @@
+{
+    "slug": "Seifert-Donald--F.",
+    "candidateName": "Seifert, Donald  F.",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 69",
+    "partyDescr": "Republican",
+    "periods": 1,
+    "receipts": 4345.15,
+    "expenditures": 2615.47,
+    "balance": 1729.68,
+    "summary": {
+        "contributions": {
+            "primary": 4345.15,
+            "general": 0.0,
+            "total": 4345.15
+        },
+        "expenditures": {
+            "primary": 2615.47,
+            "general": 0.0,
+            "total": 2615.47
+        },
+        "cash_on_hand": {
+            "primary": 1729.68,
+            "general": 0.0,
+            "total": 1729.68
+        }
+    },
+    "reports": [
+        {
+            "report": "01/13/2020 to 04/15/2020",
+            "id": 46914,
+            "type": "C5",
+            "start_date": "01/13/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 50.0,
+            "num_contributions": 32,
+            "num_expenditures": 16,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 4345.15,
+                    "general": 0.0,
+                    "total": 4345.15
+                },
+                "Expenditures": {
+                    "primary": 2615.47,
+                    "general": 0.0,
+                    "total": 2615.47
+                },
+                "Ending Balance": {
+                    "primary": 1729.68,
+                    "general": 0.0,
+                    "total": 1729.68
+                },
+                "report_start_date": "01/13/2020",
+                "report_end_date": "04/15/2020"
+            }
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "slug": "Dear-Ruel-Jerramy--K",
+    "candidateName": "Dear-Ruel, Jerramy  K",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 06",
+    "partyDescr": "Democrat",
+    "periods": 2,
+    "receipts": 480.0,
+    "expenditures": 7.9,
+    "balance": 472.1,
+    "summary": {
+        "contributions": {
+            "primary": 0.0,
+            "general": 480.0,
+            "total": 480.0
+        },
+        "expenditures": {
+            "primary": 0.0,
+            "general": 7.9,
+            "total": 7.9
+        },
+        "cash_on_hand": {
+            "primary": 0.0,
+            "general": 472.1,
+            "total": 472.1
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 47449,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 5,
+            "num_expenditures": 2,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 480.0,
+                    "total": 480.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 7.9,
+                    "total": 7.9
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 472.1,
+                    "total": 472.1
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "03/11/2020 to 03/15/2020",
+            "id": 46822,
+            "type": "C5",
+            "start_date": "03/11/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "report_start_date": "03/11/2020",
+                "report_end_date": "03/15/2020"
+            }
+        }
+    ]
+}

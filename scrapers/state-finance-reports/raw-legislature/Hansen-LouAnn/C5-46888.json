@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 2758.15,
+            "general": 0.0,
+            "total": 2758.15
+        },
+        "Receipts": {
+            "primary": 225.23,
+            "general": 0.0,
+            "total": 225.23
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Ending Balance": {
+            "primary": 2983.38,
+            "general": 0.0,
+            "total": 2983.38
+        },
+        "report_start_date": "01/01/2020",
+        "report_end_date": "03/15/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"03\\/13\\/2020\",\"Entity Name\":null,\"First Name\":\"Mark\",\"Middle Initial\":null,\"Last Name\":\"Thane\",\"Addr Line1\":\"604 W. Artemos Dr.\",\"City\":\"Missoula\",\"State\":\"MT\",\"Zip\":59803,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Retired\",\"Employer\":\"Retired\",\"Contribution Type\":9,\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":100,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"02\\/04\\/2020\",\"Entity Name\":null,\"First Name\":\"Mickey\",\"Middle Initial\":null,\"Last Name\":\"Mulholland\",\"Addr Line1\":\"1661 S. 7th St. W.\",\"City\":\"Missoula\",\"State\":\"MT\",\"Zip\":59801,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Field Agent\",\"Employer\":\"Laborers' Local #1686\",\"Contribution Type\":9,\"Amount\":50,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":50,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"01\\/14\\/2020\",\"Entity Name\":null,\"First Name\":\"Nancy\",\"Middle Initial\":null,\"Last Name\":\"Zadra\",\"Addr Line1\":\"PO Box 776\",\"City\":\"Missoula\",\"State\":\"MT\",\"Zip\":59806,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Retired\",\"Employer\":\"Retired\",\"Contribution Type\":9,\"Amount\":50,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":50,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 25.22999999999999
+}

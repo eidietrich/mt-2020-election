@@ -1,0 +1,98 @@
+{
+    "slug": "Karjala-Jessica--L",
+    "candidateName": "Karjala, Jessica  L",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 48",
+    "partyDescr": "Democrat",
+    "periods": 2,
+    "receipts": 194.06,
+    "expenditures": 0.0,
+    "balance": 194.06,
+    "summary": {
+        "contributions": {
+            "primary": 194.06,
+            "general": 0.0,
+            "total": 194.06
+        },
+        "expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "cash_on_hand": {
+            "primary": 194.06,
+            "general": 0.0,
+            "total": 194.06
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 47606,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 50.0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 144.06,
+                    "general": 0.0,
+                    "total": 144.06
+                },
+                "Receipts": {
+                    "primary": 50.0,
+                    "general": 0.0,
+                    "total": 50.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 194.06,
+                    "general": 0.0,
+                    "total": 194.06
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "01/01/2020 to 03/15/2020",
+            "id": 46340,
+            "type": "C5",
+            "start_date": "01/01/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 3,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 144.06,
+                    "general": 0.0,
+                    "total": 144.06
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 144.06,
+                    "general": 0.0,
+                    "total": 144.06
+                },
+                "report_start_date": "01/01/2020",
+                "report_end_date": "03/15/2020"
+            }
+        }
+    ]
+}

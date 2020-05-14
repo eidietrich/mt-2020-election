@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Receipts": {
+            "primary": 132.4,
+            "general": 0.0,
+            "total": 132.4
+        },
+        "Expenditures": {
+            "primary": 8.95,
+            "general": 0.0,
+            "total": 8.95
+        },
+        "Ending Balance": {
+            "primary": 123.45,
+            "general": 0.0,
+            "total": 123.45
+        },
+        "report_start_date": "01/01/2020",
+        "report_end_date": "03/16/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"03\\/16\\/2020\",\"Entity Name\":null,\"First Name\":\"Sheridan\",\"Middle Initial\":null,\"Last Name\":\"Buck\",\"Addr Line1\":\"82 Bend View Lane\",\"City\":\"Great Falls\",\"State\":\"MT\",\"Zip\":59404,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Homemaker\\/Retired Military Spouse\",\"Employer\":null,\"Contribution Type\":3,\"Amount\":8.95,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":132.4,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"03\\/14\\/2020\",\"Entity Name\":null,\"First Name\":\"Sheridan\",\"Middle Initial\":null,\"Last Name\":\"Buck\",\"Addr Line1\":\"82 Bend View Lane\",\"City\":\"Great Falls\",\"State\":\"MT\",\"Zip\":59404,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Homemaker\\/Retired Military Spouse\",\"Employer\":null,\"Contribution Type\":3,\"Amount\":123.45,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":132.4,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[{\"Date Paid\":\"03\\/16\\/2020\",\"Entity Name\":\"United States Post Office\\/Spring Branch\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"132 Blazing Meadow Rd.\",\"City\":\"Spring Branch\",\"State\":\"TX\",\"Zip\":78070,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":8.95,\"Purpose\":\"In-kind Postage Expense pd by Candidate\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":\"Postage\\/D-1 Hard Copy Mailing (one signed copy to COPP office)\",\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 0.0
+}

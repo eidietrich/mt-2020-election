@@ -1,0 +1,98 @@
+{
+    "slug": "McClafferty-Edith--L",
+    "candidateName": "McClafferty, Edith  L",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "Senate District No. 38",
+    "partyDescr": "Democrat",
+    "periods": 2,
+    "receipts": 4285.0,
+    "expenditures": 366.99,
+    "balance": 3918.01,
+    "summary": {
+        "contributions": {
+            "primary": 0.0,
+            "general": 4285.0,
+            "total": 4285.0
+        },
+        "expenditures": {
+            "primary": 0.0,
+            "general": 366.99,
+            "total": 366.99
+        },
+        "cash_on_hand": {
+            "primary": 0.0,
+            "general": 3918.01,
+            "total": 3918.01
+        }
+    },
+    "reports": [
+        {
+            "report": "03/21/2020 to 04/20/2020",
+            "id": 47286,
+            "type": "C5",
+            "start_date": "03/21/2020",
+            "end_date": "04/20/2020",
+            "unitemized_contributions": 10.0,
+            "num_contributions": 7,
+            "num_expenditures": 3,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 3200.0,
+                    "total": 3200.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 1030.0,
+                    "total": 1030.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 311.99,
+                    "total": 311.99
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 3918.01,
+                    "total": 3918.01
+                },
+                "report_start_date": "03/21/2020",
+                "report_end_date": "04/20/2020"
+            }
+        },
+        {
+            "report": "01/19/2020 to 03/20/2020",
+            "id": 46505,
+            "type": "C5",
+            "start_date": "01/19/2020",
+            "end_date": "03/20/2020",
+            "unitemized_contributions": 165.0,
+            "num_contributions": 34,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 3255.0,
+                    "total": 3255.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 55.0,
+                    "total": 55.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 3200.0,
+                    "total": 3200.0
+                },
+                "report_start_date": "01/19/2020",
+                "report_end_date": "03/20/2020"
+            }
+        }
+    ]
+}

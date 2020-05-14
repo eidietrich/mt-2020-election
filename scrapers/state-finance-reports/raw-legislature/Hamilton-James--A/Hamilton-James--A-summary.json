@@ -1,0 +1,132 @@
+{
+    "slug": "Hamilton-James--A",
+    "candidateName": "Hamilton, James  A",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 61",
+    "partyDescr": "Democrat",
+    "periods": 3,
+    "receipts": 3300.0,
+    "expenditures": 871.98,
+    "balance": 2428.02,
+    "summary": {
+        "contributions": {
+            "primary": 3130.0,
+            "general": 170.0,
+            "total": 3300.0
+        },
+        "expenditures": {
+            "primary": 861.16,
+            "general": 10.82,
+            "total": 871.98
+        },
+        "cash_on_hand": {
+            "primary": 2268.84,
+            "general": 159.18,
+            "total": 2428.02
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 47299,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 40.0,
+            "num_contributions": 15,
+            "num_expenditures": 2,
+            "summary": {
+                "previous report": {
+                    "primary": 1211.0,
+                    "general": 159.18,
+                    "total": 1370.18
+                },
+                "Receipts": {
+                    "primary": 1660.0,
+                    "general": 0.0,
+                    "total": 1660.0
+                },
+                "Expenditures": {
+                    "primary": 602.16,
+                    "general": 0.0,
+                    "total": 602.16
+                },
+                "Ending Balance": {
+                    "primary": 2268.84,
+                    "general": 159.18,
+                    "total": 2428.02
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "01/01/2020 to 03/15/2020",
+            "id": 46638,
+            "type": "C5",
+            "start_date": "01/01/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 5,
+            "num_expenditures": 3,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 159.18,
+                    "total": 159.18
+                },
+                "Receipts": {
+                    "primary": 1470.0,
+                    "general": 0.0,
+                    "total": 1470.0
+                },
+                "Expenditures": {
+                    "primary": 259.0,
+                    "general": 0.0,
+                    "total": 259.0
+                },
+                "Ending Balance": {
+                    "primary": 1211.0,
+                    "general": 159.18,
+                    "total": 1370.18
+                },
+                "report_start_date": "01/01/2020",
+                "report_end_date": "03/15/2020"
+            }
+        },
+        {
+            "report": "10/01/2019 to 12/31/2019",
+            "id": 46279,
+            "type": "C5",
+            "start_date": "10/01/2019",
+            "end_date": "12/31/2019",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 1,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 170.0,
+                    "total": 170.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 10.82,
+                    "total": 10.82
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 159.18,
+                    "total": 159.18
+                },
+                "report_start_date": "10/01/2019",
+                "report_end_date": "12/31/2019"
+            }
+        }
+    ]
+}

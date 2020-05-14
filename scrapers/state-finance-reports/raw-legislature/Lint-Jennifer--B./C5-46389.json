@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Receipts": {
+            "primary": 1400.0,
+            "general": 0.0,
+            "total": 1400.0
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Ending Balance": {
+            "primary": 1400.0,
+            "general": 0.0,
+            "total": 1400.0
+        },
+        "report_start_date": "01/12/2020",
+        "report_end_date": "02/26/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"02\\/26\\/2020\",\"Entity Name\":null,\"First Name\":\"Jennifer\",\"Middle Initial\":\"B.\",\"Last Name\":\"Lint\",\"Addr Line1\":\"2976 Mittower Road\",\"City\":\"Victor\",\"State\":\"MT\",\"Zip\":59875,\"Zip4\":null,\"Country\":null,\"Occupation\":\"District Judge\",\"Employer\":\"State of Montana\",\"Contribution Type\":3,\"Amount\":1400.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":1400.0,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0.0
+}

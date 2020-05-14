@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 790.0,
+            "total": 790.0
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Ending Balance": {
+            "primary": 0.0,
+            "general": 790.0,
+            "total": 790.0
+        },
+        "report_start_date": "01/01/2020",
+        "report_end_date": "03/15/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"03\\/10\\/2020\",\"Entity Name\":\"MODEPAC\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 1154\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59624,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":5,\"Amount\":180,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":180,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"03\\/10\\/2020\",\"Entity Name\":null,\"First Name\":\"Andrew\",\"Middle Initial\":null,\"Last Name\":\"Cetraro\",\"Addr Line1\":\"33 Riverside Drive\",\"City\":\"Bozeman\",\"State\":\"MT\",\"Zip\":59715,\"Zip4\":null,\"Country\":null,\"Occupation\":\"SMALL BUSINESS OWNER - Restaurant\",\"Employer\":\"Self Employed\",\"Contribution Type\":9,\"Amount\":180,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":180,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"03\\/10\\/2020\",\"Entity Name\":null,\"First Name\":\"Dax\",\"Middle Initial\":null,\"Last Name\":\"Cetraro\",\"Addr Line1\":\"1830 Prospect Avenue\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59601,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Small Business Owner - Restaurant Owner\",\"Employer\":\"Self Employed\",\"Contribution Type\":9,\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":100,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"03\\/02\\/2020\",\"Entity Name\":null,\"First Name\":\"Aimee\",\"Middle Initial\":null,\"Last Name\":\"Grmoljez\",\"Addr Line1\":\"908 Silverette St\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59601,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Lawyer\",\"Employer\":\"Crowley & Fleck\",\"Contribution Type\":9,\"Amount\":50,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":50,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"03\\/10\\/2020\",\"Entity Name\":null,\"First Name\":\"Scott\",\"Middle Initial\":null,\"Last Name\":\"Sales\",\"Addr Line1\":\"5200 Bostwick Rd\",\"City\":\"Bozeman\",\"State\":\"MT\",\"Zip\":59715,\"Zip4\":null,\"Country\":null,\"Occupation\":\"RETIRED \",\"Employer\":null,\"Contribution Type\":9,\"Amount\":180,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":180,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"03\\/02\\/2020\",\"Entity Name\":\"CRH Americas, Inc PAC\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"800 Maine Avenue SW, STE 800 West\",\"City\":\"Washington\",\"State\":\"DC\",\"Zip\":20024,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":6,\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":100,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0.0
+}

@@ -66,6 +66,17 @@ class Interface:
         search['lastName'] = 'Johnson'
         return CandidateList(search, filterStatuses=ACTIVE_STATUSES)
 
+    def legislature_2020(self, excludeCandidates=[], cachePath='scrapers/state-finance-reports/raw'):
+        """Runs a full data fetch on statewide 2020 candidates"""
+        search = CANDIDATE_SEARCH_DEFAULT.copy()
+        search['electionYear'] = '2020'
+        search['candidateTypeCode'] = 'SD' # state district
+        return CandidateList(search,
+            filterStatuses=ACTIVE_STATUSES,
+            excludeCandidates=excludeCandidates,
+            cachePath=cachePath,
+        )
+
     # TODO - interfaces here for single-candidate-by-id search
 
         

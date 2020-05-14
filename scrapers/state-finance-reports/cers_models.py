@@ -51,13 +51,25 @@ class CandidateList:
     - filterStatuses - if non-false, filter to candidates with statuses in array
     
     """
-    def __init__(self,search, fetchReports=True, fetchFullReports=True, filterStatuses=False, excludeCandidates=[], checkCache=True, writeCache=True):
+    def __init__(self,search,
+        fetchReports=True, fetchFullReports=True,
+        filterStatuses=False, excludeCandidates=[], 
+        cachePath='scrapers/state-finance-reports/raw',
+        checkCache=True, writeCache=True,
+
+        ):
         candidate_list = self._fetch_candidate_list(search)
         if filterStatuses:
             candidate_list = [c for c in candidate_list if c['candidateStatusDescr'] in filterStatuses]
         if len(excludeCandidates) > 0:
             candidate_list = [c for c in candidate_list if c['candidateId'] not in excludeCandidates]
-        self.candidates = [Candidate(c, fetchReports=fetchReports, fetchFullReports=fetchFullReports, checkCache=checkCache, writeCache=writeCache) for c in candidate_list]
+        self.candidates = [Candidate(c,
+            fetchReports=fetchReports,
+            fetchFullReports=fetchFullReports,
+            cachePath=cachePath,
+            checkCache=checkCache,
+            writeCache=writeCache
+            ) for c in candidate_list]
         if fetchReports and fetchFullReports:
             self.contributions = self._get_contributions()
             self.expenditures = self._get_expenditures()
@@ -140,7 +152,7 @@ class Candidate:
         self.data = data
         self.finance_reports = []
 
-        cachePath = os.path.join('scrapers/state-finance-reports/raw/', self.slug)
+        cachePath = os.path.join(cachePath, self.slug)
 
         if fetchReports:
             self.raw_reports = self._fetch_candidate_finance_reports()
@@ -226,8 +238,13 @@ class Candidate:
 
 
     def _get_summary(self):
-        summaries = [c.summary for c in self.finance_reports]
-        summaries_sorted = sorted(summaries, key=lambda i: parse(i['report_end_date']))
+        c5_summaries = [r.summary for r in self.finance_reports if r.type == 'C5']
+        c5_summaries = sorted(c5_summaries, key=lambda i: parse(i['report_end_date']))
+
+        c7_summaries = [r.summary for r in self.finance_reports if r.type == 'C7']
+        if len(c7_summaries) > 0:
+            print('## WARNING - skipping C-7 filings in summary')
+
         default_cash_on_hand = {
             'total': 0,
             'general': 0,
@@ -235,16 +252,16 @@ class Candidate:
         }
         return {
             'contributions': {
-                'primary': sum(s['Receipts']['primary'] for s in summaries_sorted),
-                'general': sum(s['Receipts']['general'] for s in summaries_sorted),
-                'total': sum(s['Receipts']['total'] for s in summaries_sorted)
+                'primary': sum(s['Receipts']['primary'] for s in c5_summaries),
+                'general': sum(s['Receipts']['general'] for s in c5_summaries),
+                'total': sum(s['Receipts']['total'] for s in c5_summaries)
             },
             'expenditures': {
-                'primary': sum(s['Expenditures']['primary'] for s in summaries_sorted),
-                'general': sum(s['Expenditures']['general'] for s in summaries_sorted),
-                'total': sum(s['Expenditures']['total'] for s in summaries_sorted)
+                'primary': sum(s['Expenditures']['primary'] for s in c5_summaries),
+                'general': sum(s['Expenditures']['general'] for s in c5_summaries),
+                'total': sum(s['Expenditures']['total'] for s in c5_summaries)
             },
-            'cash_on_hand': summaries_sorted[-1]['Ending Balance'] if (len(summaries_sorted) > 0) else default_cash_on_hand,
+            'cash_on_hand': c5_summaries[-1]['Ending Balance'] if (len(c5_summaries) > 0) else default_cash_on_hand,
 
         }
 
@@ -332,6 +349,14 @@ class Report:
         else:
             # TODO - figure out how to handle non C-5 reports
             print('Warning - unhandled report type', self.type, self.id)
+            self.expenditures = pd.DataFrame()
+            self.contributions = pd.DataFrame()
+            self.unitemized_contributions = 0
+            self.summary = {
+                'report_start_date': self.start_date,
+                'report_end_date': self.end_date,
+            }
+            
     
     def _get_c5_data_from_cache(self, filePath):
         print(f'From cache, loading C5 {self.start_date}-{self.end_date} ({self.id})')
@@ -451,7 +476,11 @@ class Report:
         }
     
     def _clean_value(self, val):
-        return float(val.replace('$','').replace(',','').replace(',',''))
+        if re.compile(r'\(*\)').search(val):
+            # check for negative numbers indicated by parenthesis
+            return -1 * float(val.replace('$','').replace(',','').replace(',','').replace(')','').replace('(',''))
+        else:
+            return float(val.replace('$','').replace(',','').replace(',',''))
     
     def _calc_unitemized_contributions(self):
         totalSum = self.summary['Receipts']['total']

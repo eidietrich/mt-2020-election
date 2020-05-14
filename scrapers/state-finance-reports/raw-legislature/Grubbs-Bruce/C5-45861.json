@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 317.98,
+            "general": 0.0,
+            "total": 317.98
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Expenditures": {
+            "primary": 28.28,
+            "general": 0.0,
+            "total": 28.28
+        },
+        "Ending Balance": {
+            "primary": 289.7,
+            "general": 0.0,
+            "total": 289.7
+        },
+        "report_start_date": "07/01/2019",
+        "report_end_date": "09/30/2019"
+    },
+    "contributions": "[]",
+    "expenditures": "[{\"Date Paid\":\"07\\/03\\/2019\",\"Entity Name\":\"Harland Clarke\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 340 \",\"City\":\"Worth \",\"State\":\"IL\",\"Zip\":60482,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":28.28,\"Purpose\":\"Campaign Checks\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 0.0
+}

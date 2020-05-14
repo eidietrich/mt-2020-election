@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 900.01,
+            "general": 0.0,
+            "total": 900.01
+        },
+        "Receipts": {
+            "primary": 180.02,
+            "general": 0.0,
+            "total": 180.02
+        },
+        "Expenditures": {
+            "primary": 375.0,
+            "general": 0.0,
+            "total": 375.0
+        },
+        "Ending Balance": {
+            "primary": 705.03,
+            "general": 0.0,
+            "total": 705.03
+        },
+        "report_start_date": "01/01/2020",
+        "report_end_date": "03/15/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"01\\/28\\/2020\",\"Entity Name\":\"Contractors' PAC\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"1717 11th Avenue\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59601,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":5,\"Amount\":180,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":180,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[{\"Date Paid\":\"02\\/13\\/2020\",\"Entity Name\":\"Pharaohplex, Inc.\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"105 Pennsylvania Ave.\",\"City\":\"Hamilton\",\"State\":\"MT\",\"Zip\":59840,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":375,\"Purpose\":\"on-screen advertising\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":\"screens at movie theater\",\"Expenditure Paid Communications Quantity\":\"scheduled to show daily over the period 4\\/21\\/2020 - 6\\/2\\/2020\",\"Expenditure Paid Communications Subject Matter\":\" photo of candidate with the message \\\"proven conservative leader\\\"\"}]",
+    "unitemized_contributions": 0.020000000000010232
+}

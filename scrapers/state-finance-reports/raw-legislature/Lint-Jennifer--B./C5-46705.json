@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 1400.0,
+            "general": 0.0,
+            "total": 1400.0
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Expenditures": {
+            "primary": 1368.96,
+            "general": 0.0,
+            "total": 1368.96
+        },
+        "Ending Balance": {
+            "primary": 31.04,
+            "general": 0.0,
+            "total": 31.04
+        },
+        "report_start_date": "02/27/2020",
+        "report_end_date": "03/16/2020"
+    },
+    "contributions": "[]",
+    "expenditures": "[{\"Date Paid\":\"03\\/12\\/2020\",\"Entity Name\":\"Bank of AMerica\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":\"Bank of AMerica\",\"Addr Line1\":\"PO Box 15019\",\"City\":\"Wilmington\",\"State\":\"DE\",\"Zip\":19850,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":1368.96,\"Purpose\":\"Payment to candidate's credit card for filing fee paid \",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 0.0
+}

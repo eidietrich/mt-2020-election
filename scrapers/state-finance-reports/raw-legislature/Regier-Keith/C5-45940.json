@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Receipts": {
+            "primary": 280.0,
+            "general": 180.0,
+            "total": 460.0
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Ending Balance": {
+            "primary": 280.0,
+            "general": 180.0,
+            "total": 460.0
+        },
+        "report_start_date": "08/27/2019",
+        "report_end_date": "10/15/2019"
+    },
+    "contributions": "[{\"Date Paid\":\"08\\/27\\/2019\",\"Entity Name\":null,\"First Name\":\"Keith\",\"Middle Initial\":null,\"Last Name\":\"Regier\",\"Addr Line1\":\"1078 Stillwater Road\",\"City\":\"Kalispell\",\"State\":\"MT\",\"Zip\":59901,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Retired\",\"Employer\":\"Retired\",\"Contribution Type\":3,\"Amount\":100.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":100.0,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"10\\/17\\/2019\",\"Entity Name\":null,\"First Name\":\"Jason\",\"Middle Initial\":null,\"Last Name\":\"Ellsworth\",\"Addr Line1\":\"1073 Golf Course Rd \",\"City\":\"Hamilton\",\"State\":\"MT\",\"Zip\":59840,\"Zip4\":9230.0,\"Country\":null,\"Occupation\":\"IT Consultant\",\"Employer\":\"self\",\"Contribution Type\":9,\"Amount\":180.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":180.0,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"10\\/17\\/2019\",\"Entity Name\":null,\"First Name\":\"Jason\",\"Middle Initial\":\"w\",\"Last Name\":\"ellsworth\",\"Addr Line1\":\"1073 golf course rd\",\"City\":\"hamilton\",\"State\":\"MT\",\"Zip\":59840,\"Zip4\":null,\"Country\":null,\"Occupation\":\"IT Consultant\",\"Employer\":\"self\",\"Contribution Type\":9,\"Amount\":180.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":180.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0.0
+}

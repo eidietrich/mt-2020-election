@@ -1,0 +1,98 @@
+{
+    "slug": "Bertoglio-Marta--L",
+    "candidateName": "Bertoglio, Marta  L",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 75",
+    "partyDescr": "Republican",
+    "periods": 2,
+    "receipts": 12275.0,
+    "expenditures": 7637.68,
+    "balance": 4637.32,
+    "summary": {
+        "contributions": {
+            "primary": 11195.0,
+            "general": 1080.0,
+            "total": 12275.0
+        },
+        "expenditures": {
+            "primary": 7637.68,
+            "general": 0.0,
+            "total": 7637.68
+        },
+        "cash_on_hand": {
+            "primary": 3557.32,
+            "general": 1080.0,
+            "total": 4637.32
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 47189,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 45.0,
+            "num_contributions": 50,
+            "num_expenditures": 20,
+            "summary": {
+                "previous report": {
+                    "primary": 4080.0,
+                    "general": 540.0,
+                    "total": 4620.0
+                },
+                "Receipts": {
+                    "primary": 7115.0,
+                    "general": 540.0,
+                    "total": 7655.0
+                },
+                "Expenditures": {
+                    "primary": 7637.68,
+                    "general": 0.0,
+                    "total": 7637.68
+                },
+                "Ending Balance": {
+                    "primary": 3557.32,
+                    "general": 1080.0,
+                    "total": 4637.32
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "01/01/2020 to 03/15/2020",
+            "id": 46639,
+            "type": "C5",
+            "start_date": "01/01/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 11,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 4080.0,
+                    "general": 540.0,
+                    "total": 4620.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 4080.0,
+                    "general": 540.0,
+                    "total": 4620.0
+                },
+                "report_start_date": "01/01/2020",
+                "report_end_date": "03/15/2020"
+            }
+        }
+    ]
+}

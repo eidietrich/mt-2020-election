@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 25.0,
+            "general": 579.52,
+            "total": 604.52
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 590.0,
+            "total": 590.0
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Ending Balance": {
+            "primary": 25.0,
+            "general": 1169.52,
+            "total": 1194.52
+        },
+        "report_start_date": "07/01/2019",
+        "report_end_date": "09/30/2019"
+    },
+    "contributions": "[{\"Date Paid\":\"10\\/29\\/2019\",\"Entity Name\":null,\"First Name\":\"Ben\",\"Middle Initial\":null,\"Last Name\":\"Halverson\",\"Addr Line1\":\"2646 Clark Avenue \",\"City\":\"Billings\",\"State\":\"MT\",\"Zip\":59102,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Lawyer\",\"Employer\":\"City of Billings\",\"Contribution Type\":9,\"Amount\":180,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":180,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"11\\/01\\/2019\",\"Entity Name\":null,\"First Name\":\"Rhonda\",\"Middle Initial\":null,\"Last Name\":\"O'Malley\",\"Addr Line1\":\"364 Future Circle\",\"City\":\"Billings\",\"State\":\"MT\",\"Zip\":59102,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Nurse\",\"Employer\":\"VA\",\"Contribution Type\":9,\"Amount\":50,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":50,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"11\\/01\\/2019\",\"Entity Name\":null,\"First Name\":\"Jason\",\"Middle Initial\":null,\"Last Name\":\"Smith\",\"Addr Line1\":\"4515 Palisades Park Dr\",\"City\":\"Billings\",\"State\":\"MT\",\"Zip\":59106,\"Zip4\":null,\"Country\":null,\"Occupation\":\"FLORIST PHARMCIST\",\"Employer\":\"Montana Advanced Caregivers\",\"Contribution Type\":9,\"Amount\":180,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":180,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"08\\/20\\/2019\",\"Entity Name\":null,\"First Name\":\"Tim\",\"Middle Initial\":null,\"Last Name\":\"Warner\",\"Addr Line1\":\"796 Stonegate Drive\",\"City\":\"Bozeman\",\"State\":\"MT\",\"Zip\":59715,\"Zip4\":null,\"Country\":null,\"Occupation\":\"CONSULTANT\",\"Employer\":\"Plazby LLC\",\"Contribution Type\":9,\"Amount\":180,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":180,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0.0
+}

@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 4200.0,
+            "general": 40.0,
+            "total": 4240.0
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Expenditures": {
+            "primary": 2000.0,
+            "general": 0.0,
+            "total": 2000.0
+        },
+        "Ending Balance": {
+            "primary": 2200.0,
+            "general": 40.0,
+            "total": 2240.0
+        },
+        "report_start_date": "03/16/2020",
+        "report_end_date": "04/15/2020"
+    },
+    "contributions": "[]",
+    "expenditures": "[{\"Date Paid\":\"04\\/08\\/2020\",\"Entity Name\":\"The Political Company\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"3413 Gabel Rd\",\"City\":\"Billings\",\"State\":\"MT\",\"Zip\":59102,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":2000.0,\"Purpose\":\"Yard and Highway Signs\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":\"Printed Signs for Yards and Highway Placement\",\"Expenditure Paid Communications Quantity\":\"25 4'x4' Highway Signs @ $50\\/each, 100 Small Yard Signs @ $7.50\\/each\",\"Expenditure Paid Communications Subject Matter\":\"Basic Campaign Sign with Political Affiliation, Name, House District, and \\\"Paid For By\\\" Disclosure\"}]",
+    "unitemized_contributions": 0.0
+}

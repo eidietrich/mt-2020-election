@@ -1,0 +1,78 @@
+{
+    "slug": "Larsh-(Test-account)-Molly",
+    "candidateName": "Larsh (Test account), Molly ",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 79",
+    "partyDescr": "Independent",
+    "periods": 2,
+    "receipts": 1610.0,
+    "expenditures": 580.0,
+    "balance": 1030.0,
+    "summary": {
+        "contributions": {
+            "primary": 1610.0,
+            "general": 0.0,
+            "total": 1610.0
+        },
+        "expenditures": {
+            "primary": 580.0,
+            "general": 0.0,
+            "total": 580.0
+        },
+        "cash_on_hand": {
+            "primary": 1030.0,
+            "general": 0.0,
+            "total": 1030.0
+        }
+    },
+    "reports": [
+        {
+            "report": "01/02/2020 to 01/02/2020",
+            "id": 46171,
+            "type": "C7E",
+            "start_date": "01/02/2020",
+            "end_date": "01/02/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "01/02/2020",
+                "report_end_date": "01/02/2020"
+            }
+        },
+        {
+            "report": "11/04/2019 to 12/31/2019",
+            "id": 46167,
+            "type": "C5",
+            "start_date": "11/04/2019",
+            "end_date": "12/31/2019",
+            "unitemized_contributions": 30.0,
+            "num_contributions": 5,
+            "num_expenditures": 4,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 1610.0,
+                    "general": 0.0,
+                    "total": 1610.0
+                },
+                "Expenditures": {
+                    "primary": 580.0,
+                    "general": 0.0,
+                    "total": 580.0
+                },
+                "Ending Balance": {
+                    "primary": 1030.0,
+                    "general": 0.0,
+                    "total": 1030.0
+                },
+                "report_start_date": "11/04/2019",
+                "report_end_date": "12/31/2019"
+            }
+        }
+    ]
+}

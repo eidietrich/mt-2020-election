@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 15045.91,
+            "total": 15045.91
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 660.0,
+            "total": 660.0
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 742.92,
+            "total": 742.92
+        },
+        "Ending Balance": {
+            "primary": 0.0,
+            "general": 14962.99,
+            "total": 14962.99
+        },
+        "report_start_date": "03/21/2020",
+        "report_end_date": "04/15/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"03\\/31\\/2020\",\"Entity Name\":null,\"First Name\":\"Domonic\",\"Middle Initial\":null,\"Last Name\":\"Reisig\",\"Addr Line1\":\"104 Palmer Pl\",\"City\":\"Washington\",\"State\":\"NC\",\"Zip\":27889,\"Zip4\":null,\"Country\":null,\"Occupation\":\"PROFESSOR\",\"Employer\":\"North Carolina State University\",\"Contribution Type\":9,\"Amount\":50.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":50.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"03\\/24\\/2020\",\"Entity Name\":null,\"First Name\":\"Chris\",\"Middle Initial\":null,\"Last Name\":\"Uffelman\",\"Addr Line1\":\"1913 Street E\",\"City\":\"Hardin\",\"State\":\"MT\",\"Zip\":59034,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Truck Driver\",\"Employer\":\"ED Uffelman\",\"Contribution Type\":9,\"Amount\":50.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":50.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"03\\/24\\/2020\",\"Entity Name\":null,\"First Name\":\"Mike\",\"Middle Initial\":\"W\",\"Last Name\":\"Lucas\",\"Addr Line1\":\"1970 US Hwy 89 N\",\"City\":\"Wilsall\",\"State\":\"MT\",\"Zip\":59086,\"Zip4\":null,\"Country\":null,\"Occupation\":\"RETIRED\",\"Employer\":\"RETIERED\",\"Contribution Type\":9,\"Amount\":100.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":100.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"03\\/24\\/2020\",\"Entity Name\":null,\"First Name\":\"Pamela\",\"Middle Initial\":\"B\",\"Last Name\":\"Lucas\",\"Addr Line1\":\"1970 US Hwy 89 N\",\"City\":\"Wilsall\",\"State\":\"MT\",\"Zip\":59086,\"Zip4\":null,\"Country\":null,\"Occupation\":\"RETIERD\",\"Employer\":\"RETIERED\",\"Contribution Type\":9,\"Amount\":100.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":100.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"03\\/23\\/2020\",\"Entity Name\":null,\"First Name\":\"Robert\",\"Middle Initial\":null,\"Last Name\":\"Fisher\",\"Addr Line1\":\"2018 Constellation Trail\",\"City\":\"Billings\",\"State\":\"MT\",\"Zip\":59105,\"Zip4\":null,\"Country\":null,\"Occupation\":\"GEOLOGIST\",\"Employer\":\"Agustus Energy Partners II\",\"Contribution Type\":9,\"Amount\":180.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":180.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"03\\/23\\/2020\",\"Entity Name\":null,\"First Name\":\"Frances\",\"Middle Initial\":null,\"Last Name\":\"Fisher\",\"Addr Line1\":\"2018 Constellation Trail\",\"City\":\"Billings\",\"State\":\"MT\",\"Zip\":59105,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Accountant\",\"Employer\":\"WIPFLI, LLC\",\"Contribution Type\":9,\"Amount\":180.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":180.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[{\"Date Paid\":\"03\\/31\\/2020\",\"Entity Name\":\"Stripe\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"510 Townsend Street\",\"City\":\"San Francisco\",\"State\":\"CA\",\"Zip\":94103,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":1.75,\"Purpose\":\"fee charged for online donation \",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":\"Website\",\"Expenditure Paid Communications Quantity\":\"one time\",\"Expenditure Paid Communications Subject Matter\":\"donation fee\"}]",
+    "unitemized_contributions": 0.0
+}

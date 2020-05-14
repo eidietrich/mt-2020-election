@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 360.0,
+            "general": 0.0,
+            "total": 360.0
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Expenditures": {
+            "primary": 160.0,
+            "general": 0.0,
+            "total": 160.0
+        },
+        "Ending Balance": {
+            "primary": 200.0,
+            "general": 0.0,
+            "total": 200.0
+        },
+        "report_start_date": "07/06/2019",
+        "report_end_date": "10/05/2019"
+    },
+    "contributions": "[]",
+    "expenditures": "[{\"Date Paid\":\"09\\/24\\/2019\",\"Entity Name\":\"Ravalli County Republican Central Committee\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"POBox 773\",\"City\":\"Hamilton\",\"State\":\"MT\",\"Zip\":59840,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":40,\"Purpose\":\"2 Octoberfest tickets\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"08\\/20\\/2019\",\"Entity Name\":\"Missoula County Republicans\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 2082\",\"City\":\"Missoula\",\"State\":\"MT\",\"Zip\":59806,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":120,\"Purpose\":\"2 banquet tickets\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 0.0
+}

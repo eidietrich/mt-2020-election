@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Receipts": {
+            "primary": 1334.84,
+            "general": 0.0,
+            "total": 1334.84
+        },
+        "Expenditures": {
+            "primary": 271.15,
+            "general": 0.0,
+            "total": 271.15
+        },
+        "Ending Balance": {
+            "primary": 1063.69,
+            "general": 0.0,
+            "total": 1063.69
+        },
+        "report_start_date": "10/01/2019",
+        "report_end_date": "01/05/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"12\\/05\\/2019\",\"Entity Name\":null,\"First Name\":\"John\",\"Middle Initial\":\"D.\",\"Last Name\":\"Fuller\",\"Addr Line1\":\"P.O. Box 7002\",\"City\":\"Kalispell\",\"State\":\"MT\",\"Zip\":59904,\"Zip4\":null,\"Country\":null,\"Occupation\":\"RETIRED  educator\",\"Employer\":\"Retired\",\"Contribution Type\":3,\"Amount\":1154.84,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":1154.84,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"12\\/31\\/2019\",\"Entity Name\":\"BNSF RAILPAC\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 961039 \",\"City\":\"Fort Worth\",\"State\":\"TX\",\"Zip\":76161,\"Zip4\":39.0,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":5,\"Amount\":180.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":180.0,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[{\"Date Paid\":\"12\\/18\\/2019\",\"Entity Name\":\"Siteground Hosting\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"901 N Pitt Street Suite 325\",\"City\":\"Alesandria\",\"State\":\"VA\",\"Zip\":22314,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":179.15,\"Purpose\":\"Campaign Website Domain Name & Renewal 1 year\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"12\\/06\\/2019\",\"Entity Name\":\"US Post Office\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"Flathead Station\",\"City\":\"Kalispell\",\"State\":\"MT\",\"Zip\":59901,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":92.0,\"Purpose\":\"Annual Post Office Box Rental\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 0.0
+}

@@ -1,0 +1,98 @@
+{
+    "slug": "Tutvedt-Bruce--P",
+    "candidateName": "Tutvedt, Bruce  P",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 06",
+    "partyDescr": "Republican",
+    "periods": 2,
+    "receipts": 9585.0,
+    "expenditures": 4367.29,
+    "balance": 5217.71,
+    "summary": {
+        "contributions": {
+            "primary": 9405.0,
+            "general": 180.0,
+            "total": 9585.0
+        },
+        "expenditures": {
+            "primary": 4367.29,
+            "general": 0.0,
+            "total": 4367.29
+        },
+        "cash_on_hand": {
+            "primary": 5037.71,
+            "general": 180.0,
+            "total": 5217.71
+        }
+    },
+    "reports": [
+        {
+            "report": "03/18/2020 to 04/17/2020",
+            "id": 47027,
+            "type": "C5",
+            "start_date": "03/18/2020",
+            "end_date": "04/17/2020",
+            "unitemized_contributions": 25.0,
+            "num_contributions": 21,
+            "num_expenditures": 8,
+            "summary": {
+                "previous report": {
+                    "primary": 4891.0,
+                    "general": 0.0,
+                    "total": 4891.0
+                },
+                "Receipts": {
+                    "primary": 3225.0,
+                    "general": 180.0,
+                    "total": 3405.0
+                },
+                "Expenditures": {
+                    "primary": 3078.29,
+                    "general": 0.0,
+                    "total": 3078.29
+                },
+                "Ending Balance": {
+                    "primary": 5037.71,
+                    "general": 180.0,
+                    "total": 5217.71
+                },
+                "report_start_date": "03/18/2020",
+                "report_end_date": "04/17/2020"
+            }
+        },
+        {
+            "report": "01/01/2020 to 03/17/2020",
+            "id": 46646,
+            "type": "C5",
+            "start_date": "01/01/2020",
+            "end_date": "03/17/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 4,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 6180.0,
+                    "general": 0.0,
+                    "total": 6180.0
+                },
+                "Expenditures": {
+                    "primary": 1289.0,
+                    "general": 0.0,
+                    "total": 1289.0
+                },
+                "Ending Balance": {
+                    "primary": 4891.0,
+                    "general": 0.0,
+                    "total": 4891.0
+                },
+                "report_start_date": "01/01/2020",
+                "report_end_date": "03/17/2020"
+            }
+        }
+    ]
+}

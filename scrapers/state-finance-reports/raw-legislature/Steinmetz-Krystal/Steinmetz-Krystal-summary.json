@@ -1,0 +1,98 @@
+{
+    "slug": "Steinmetz-Krystal",
+    "candidateName": "Steinmetz, Krystal ",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 28",
+    "partyDescr": "Democrat",
+    "periods": 2,
+    "receipts": 4120.0,
+    "expenditures": 858.4399999999999,
+    "balance": 3261.56,
+    "summary": {
+        "contributions": {
+            "primary": 0.0,
+            "general": 4120.0,
+            "total": 4120.0
+        },
+        "expenditures": {
+            "primary": 0.0,
+            "general": 858.4399999999999,
+            "total": 858.4399999999999
+        },
+        "cash_on_hand": {
+            "primary": 0.0,
+            "general": 3261.56,
+            "total": 3261.56
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 47942,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 25.0,
+            "num_contributions": 18,
+            "num_expenditures": 8,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 1821.22,
+                    "total": 1821.22
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 2265.0,
+                    "total": 2265.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 824.66,
+                    "total": 824.66
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 3261.56,
+                    "total": 3261.56
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "01/20/2020 to 03/15/2020",
+            "id": 46602,
+            "type": "C5",
+            "start_date": "01/20/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 45.0,
+            "num_contributions": 9,
+            "num_expenditures": 3,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 1855.0,
+                    "total": 1855.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 33.78,
+                    "total": 33.78
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 1821.22,
+                    "total": 1821.22
+                },
+                "report_start_date": "01/20/2020",
+                "report_end_date": "03/15/2020"
+            }
+        }
+    ]
+}

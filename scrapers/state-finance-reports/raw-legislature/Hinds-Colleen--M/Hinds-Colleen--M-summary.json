@@ -1,0 +1,98 @@
+{
+    "slug": "Hinds-Colleen--M",
+    "candidateName": "Hinds, Colleen  M",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 13",
+    "partyDescr": "Democrat",
+    "periods": 2,
+    "receipts": 320.0,
+    "expenditures": 15.0,
+    "balance": 305.0,
+    "summary": {
+        "contributions": {
+            "primary": 0.0,
+            "general": 320.0,
+            "total": 320.0
+        },
+        "expenditures": {
+            "primary": 0.0,
+            "general": 15.0,
+            "total": 15.0
+        },
+        "cash_on_hand": {
+            "primary": 0.0,
+            "general": 305.0,
+            "total": 305.0
+        }
+    },
+    "reports": [
+        {
+            "report": "03/17/2020 to 04/15/2020",
+            "id": 47261,
+            "type": "C5",
+            "start_date": "03/17/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 20.0,
+            "num_contributions": 3,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 35.0,
+                    "total": 35.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 270.0,
+                    "total": 270.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 305.0,
+                    "total": 305.0
+                },
+                "report_start_date": "03/17/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "03/09/2020 to 03/16/2020",
+            "id": 46721,
+            "type": "C5",
+            "start_date": "03/09/2020",
+            "end_date": "03/16/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 1,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 50.0,
+                    "total": 50.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 15.0,
+                    "total": 15.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 35.0,
+                    "total": 35.0
+                },
+                "report_start_date": "03/09/2020",
+                "report_end_date": "03/16/2020"
+            }
+        }
+    ]
+}

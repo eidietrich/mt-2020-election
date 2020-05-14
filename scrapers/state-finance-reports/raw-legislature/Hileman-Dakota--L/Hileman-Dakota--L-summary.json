@@ -1,0 +1,98 @@
+{
+    "slug": "Hileman-Dakota--L",
+    "candidateName": "Hileman, Dakota  L",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 96",
+    "partyDescr": "Democrat",
+    "periods": 2,
+    "receipts": 355.0,
+    "expenditures": 339.08,
+    "balance": 15.92,
+    "summary": {
+        "contributions": {
+            "primary": 355.0,
+            "general": 0.0,
+            "total": 355.0
+        },
+        "expenditures": {
+            "primary": 339.08,
+            "general": 0.0,
+            "total": 339.08
+        },
+        "cash_on_hand": {
+            "primary": 15.92,
+            "general": 0.0,
+            "total": 15.92
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 47630,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 255.0,
+            "num_contributions": 1,
+            "num_expenditures": 7,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 355.0,
+                    "general": 0.0,
+                    "total": 355.0
+                },
+                "Expenditures": {
+                    "primary": 339.08,
+                    "general": 0.0,
+                    "total": 339.08
+                },
+                "Ending Balance": {
+                    "primary": 15.92,
+                    "general": 0.0,
+                    "total": 15.92
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "01/01/2020 to 03/15/2020",
+            "id": 47013,
+            "type": "C5",
+            "start_date": "01/01/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "report_start_date": "01/01/2020",
+                "report_end_date": "03/15/2020"
+            }
+        }
+    ]
+}

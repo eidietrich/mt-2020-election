@@ -1,0 +1,98 @@
+{
+    "slug": "Abbott-Kim",
+    "candidateName": "Abbott, Kim ",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 83",
+    "partyDescr": "Democrat",
+    "periods": 2,
+    "receipts": 2020.0,
+    "expenditures": 336.94,
+    "balance": 1683.06,
+    "summary": {
+        "contributions": {
+            "primary": 0.0,
+            "general": 2020.0,
+            "total": 2020.0
+        },
+        "expenditures": {
+            "primary": 0.0,
+            "general": 336.94,
+            "total": 336.94
+        },
+        "cash_on_hand": {
+            "primary": 0.0,
+            "general": 1683.06,
+            "total": 1683.06
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 47579,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 3,
+            "num_expenditures": 2,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 1547.06,
+                    "total": 1547.06
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 460.0,
+                    "total": 460.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 324.0,
+                    "total": 324.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 1683.06,
+                    "total": 1683.06
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "01/28/2020 to 03/15/2020",
+            "id": 46816,
+            "type": "C5",
+            "start_date": "01/28/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 11,
+            "num_expenditures": 3,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 1560.0,
+                    "total": 1560.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 12.94,
+                    "total": 12.94
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 1547.06,
+                    "total": 1547.06
+                },
+                "report_start_date": "01/28/2020",
+                "report_end_date": "03/15/2020"
+            }
+        }
+    ]
+}

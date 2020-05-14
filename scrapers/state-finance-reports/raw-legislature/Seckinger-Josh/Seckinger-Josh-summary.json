@@ -1,0 +1,98 @@
+{
+    "slug": "Seckinger-Josh",
+    "candidateName": "Seckinger, Josh ",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 64",
+    "partyDescr": "Democrat",
+    "periods": 2,
+    "receipts": 1457.0,
+    "expenditures": 577.81,
+    "balance": 879.19,
+    "summary": {
+        "contributions": {
+            "primary": 1457.0,
+            "general": 0.0,
+            "total": 1457.0
+        },
+        "expenditures": {
+            "primary": 577.81,
+            "general": 0.0,
+            "total": 577.81
+        },
+        "cash_on_hand": {
+            "primary": 879.19,
+            "general": 0.0,
+            "total": 879.19
+        }
+    },
+    "reports": [
+        {
+            "report": "03/21/2020 to 04/15/2020",
+            "id": 47570,
+            "type": "C5",
+            "start_date": "03/21/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 59.0,
+            "num_contributions": 5,
+            "num_expenditures": 5,
+            "summary": {
+                "previous report": {
+                    "primary": 764.5,
+                    "general": 0.0,
+                    "total": 764.5
+                },
+                "Receipts": {
+                    "primary": 479.0,
+                    "general": 0.0,
+                    "total": 479.0
+                },
+                "Expenditures": {
+                    "primary": 364.31,
+                    "general": 0.0,
+                    "total": 364.31
+                },
+                "Ending Balance": {
+                    "primary": 879.19,
+                    "general": 0.0,
+                    "total": 879.19
+                },
+                "report_start_date": "03/21/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "03/09/2020 to 03/20/2020",
+            "id": 46843,
+            "type": "C5",
+            "start_date": "03/09/2020",
+            "end_date": "03/20/2020",
+            "unitemized_contributions": 18.0,
+            "num_contributions": 6,
+            "num_expenditures": 3,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 978.0,
+                    "general": 0.0,
+                    "total": 978.0
+                },
+                "Expenditures": {
+                    "primary": 213.5,
+                    "general": 0.0,
+                    "total": 213.5
+                },
+                "Ending Balance": {
+                    "primary": 764.5,
+                    "general": 0.0,
+                    "total": 764.5
+                },
+                "report_start_date": "03/09/2020",
+                "report_end_date": "03/20/2020"
+            }
+        }
+    ]
+}

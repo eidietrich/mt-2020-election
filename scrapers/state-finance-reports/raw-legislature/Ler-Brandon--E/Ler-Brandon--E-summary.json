@@ -1,0 +1,98 @@
+{
+    "slug": "Ler-Brandon--E",
+    "candidateName": "Ler, Brandon  E",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 35",
+    "partyDescr": "Republican",
+    "periods": 2,
+    "receipts": 4769.87,
+    "expenditures": 1792.31,
+    "balance": 2977.56,
+    "summary": {
+        "contributions": {
+            "primary": 4769.87,
+            "general": 0.0,
+            "total": 4769.87
+        },
+        "expenditures": {
+            "primary": 1792.31,
+            "general": 0.0,
+            "total": 1792.31
+        },
+        "cash_on_hand": {
+            "primary": 2977.56,
+            "general": 0.0,
+            "total": 2977.56
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 47409,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 14,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 1541.56,
+                    "general": 0.0,
+                    "total": 1541.56
+                },
+                "Receipts": {
+                    "primary": 1740.0,
+                    "general": 0.0,
+                    "total": 1740.0
+                },
+                "Expenditures": {
+                    "primary": 304.0,
+                    "general": 0.0,
+                    "total": 304.0
+                },
+                "Ending Balance": {
+                    "primary": 2977.56,
+                    "general": 0.0,
+                    "total": 2977.56
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "01/30/2020 to 03/15/2020",
+            "id": 46747,
+            "type": "C5",
+            "start_date": "01/30/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 25.0,
+            "num_contributions": 21,
+            "num_expenditures": 10,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 3029.87,
+                    "general": 0.0,
+                    "total": 3029.87
+                },
+                "Expenditures": {
+                    "primary": 1488.31,
+                    "general": 0.0,
+                    "total": 1488.31
+                },
+                "Ending Balance": {
+                    "primary": 1541.56,
+                    "general": 0.0,
+                    "total": 1541.56
+                },
+                "report_start_date": "01/30/2020",
+                "report_end_date": "03/15/2020"
+            }
+        }
+    ]
+}

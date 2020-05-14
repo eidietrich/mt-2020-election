@@ -1,0 +1,98 @@
+{
+    "slug": "Fleming-Frank",
+    "candidateName": "Fleming, Frank ",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 51",
+    "partyDescr": "Republican",
+    "periods": 2,
+    "receipts": 2445.0,
+    "expenditures": 838.48,
+    "balance": 1606.52,
+    "summary": {
+        "contributions": {
+            "primary": 0.0,
+            "general": 2445.0,
+            "total": 2445.0
+        },
+        "expenditures": {
+            "primary": 0.0,
+            "general": 838.48,
+            "total": 838.48
+        },
+        "cash_on_hand": {
+            "primary": 0.0,
+            "general": 1606.52,
+            "total": 1606.52
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 46974,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 3,
+            "num_expenditures": 4,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 1719.29,
+                    "total": 1719.29
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 330.0,
+                    "total": 330.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 442.77,
+                    "total": 442.77
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 1606.52,
+                    "total": 1606.52
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "01/10/2020 to 03/15/2020",
+            "id": 46563,
+            "type": "C5",
+            "start_date": "01/10/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 17,
+            "num_expenditures": 9,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 2115.0,
+                    "total": 2115.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 395.71,
+                    "total": 395.71
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 1719.29,
+                    "total": 1719.29
+                },
+                "report_start_date": "01/10/2020",
+                "report_end_date": "03/15/2020"
+            }
+        }
+    ]
+}

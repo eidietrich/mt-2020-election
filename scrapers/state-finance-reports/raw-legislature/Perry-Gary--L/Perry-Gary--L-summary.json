@@ -1,0 +1,132 @@
+{
+    "slug": "Perry-Gary--L",
+    "candidateName": "Perry, Gary  L",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "Senate District No. 35",
+    "partyDescr": "Republican",
+    "periods": 3,
+    "receipts": 420.0,
+    "expenditures": 2216.49,
+    "balance": -1796.49,
+    "summary": {
+        "contributions": {
+            "primary": 420.0,
+            "general": 0.0,
+            "total": 420.0
+        },
+        "expenditures": {
+            "primary": 2216.49,
+            "general": 0.0,
+            "total": 2216.49
+        },
+        "cash_on_hand": {
+            "primary": -1796.49,
+            "general": 0.0,
+            "total": -1796.49
+        }
+    },
+    "reports": [
+        {
+            "report": "03/20/2020 to 04/15/2020",
+            "id": 47584,
+            "type": "C5",
+            "start_date": "03/20/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 2,
+            "num_expenditures": 2,
+            "summary": {
+                "previous report": {
+                    "primary": 222.51,
+                    "general": 0.0,
+                    "total": 222.51
+                },
+                "Receipts": {
+                    "primary": 100.0,
+                    "general": 0.0,
+                    "total": 100.0
+                },
+                "Expenditures": {
+                    "primary": 2119.0,
+                    "general": 0.0,
+                    "total": 2119.0
+                },
+                "Ending Balance": {
+                    "primary": -1796.49,
+                    "general": 0.0,
+                    "total": -1796.49
+                },
+                "report_start_date": "03/20/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "01/01/2020 to 03/19/2020",
+            "id": 46852,
+            "type": "C5",
+            "start_date": "01/01/2020",
+            "end_date": "03/19/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 3,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 295.0,
+                    "general": 0.0,
+                    "total": 295.0
+                },
+                "Expenditures": {
+                    "primary": 72.49,
+                    "general": 0.0,
+                    "total": 72.49
+                },
+                "Ending Balance": {
+                    "primary": 222.51,
+                    "general": 0.0,
+                    "total": 222.51
+                },
+                "report_start_date": "01/01/2020",
+                "report_end_date": "03/19/2020"
+            }
+        },
+        {
+            "report": "12/19/2019 to 12/31/2019",
+            "id": 46350,
+            "type": "C5",
+            "start_date": "12/19/2019",
+            "end_date": "12/31/2019",
+            "unitemized_contributions": 25.0,
+            "num_contributions": 0,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 25.0,
+                    "general": 0.0,
+                    "total": 25.0
+                },
+                "Expenditures": {
+                    "primary": 25.0,
+                    "general": 0.0,
+                    "total": 25.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "report_start_date": "12/19/2019",
+                "report_end_date": "12/31/2019"
+            }
+        }
+    ]
+}

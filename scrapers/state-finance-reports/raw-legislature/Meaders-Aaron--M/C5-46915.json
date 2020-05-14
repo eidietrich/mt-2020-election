@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 164.88,
+            "total": 164.88
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 64.88,
+            "total": 64.88
+        },
+        "Ending Balance": {
+            "primary": 0.0,
+            "general": 100.0,
+            "total": 100.0
+        },
+        "report_start_date": "03/09/2020",
+        "report_end_date": "03/15/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"03\\/09\\/2020\",\"Entity Name\":null,\"First Name\":\"Aaron\",\"Middle Initial\":\"M\",\"Last Name\":\"Meaders\",\"Addr Line1\":\"532 S Clark St\",\"City\":\"Butte\",\"State\":\"MT\",\"Zip\":59701.0,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Mental Health Tech\",\"Employer\":\"State of Montana - DOC\",\"Contribution Type\":3,\"Amount\":64.88,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":64.88,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"03\\/19\\/2020\",\"Entity Name\":null,\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":null,\"City\":null,\"State\":null,\"Zip\":null,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":1,\"Amount\":100.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":115.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"03\\/19\\/2020\",\"Entity Name\":null,\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":null,\"City\":null,\"State\":null,\"Zip\":null,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":1,\"Amount\":15.0,\"Amount Type\":\"IK\",\"Purpose\":\"Campaign Filing Fee\",\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":115.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[{\"Date Paid\":\"03\\/09\\/2020\",\"Entity Name\":\"Wal Mart\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"3901 Harrison Ave\",\"City\":\"Butte\",\"State\":\"MT\",\"Zip\":59701,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":64.88,\"Purpose\":\"Campaign phone, battery, charger, service\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 0.0
+}

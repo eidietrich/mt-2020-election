@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 285.0,
+            "general": 0.0,
+            "total": 285.0
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Ending Balance": {
+            "primary": 285.0,
+            "general": 0.0,
+            "total": 285.0
+        },
+        "report_start_date": "03/21/2020",
+        "report_end_date": "04/20/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"04\\/20\\/2020\",\"Entity Name\":null,\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":null,\"City\":null,\"State\":null,\"Zip\":null,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":1,\"Amount\":165,\"Amount Type\":\"IK\",\"Purpose\":\"30 used t posts @$3.00 EACH, 60 used 2\\\"x2\\\"X8' WOOD BOARDS @$1.00 EACH,100 used t25 3.5\\\" screws@ .05 each ,100 used washers @.05 each, used wire @5.00\",\"Election Type\":\"PM\",\"Total Primary\":185,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0.0
+}

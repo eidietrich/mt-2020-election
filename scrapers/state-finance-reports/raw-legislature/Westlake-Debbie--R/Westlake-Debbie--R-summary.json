@@ -1,0 +1,98 @@
+{
+    "slug": "Westlake-Debbie--R",
+    "candidateName": "Westlake, Debbie  R",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 82",
+    "partyDescr": "Republican",
+    "periods": 2,
+    "receipts": 150.0,
+    "expenditures": 78.06,
+    "balance": 71.94,
+    "summary": {
+        "contributions": {
+            "primary": 0.0,
+            "general": 150.0,
+            "total": 150.0
+        },
+        "expenditures": {
+            "primary": 0.0,
+            "general": 78.06,
+            "total": 78.06
+        },
+        "cash_on_hand": {
+            "primary": 0.0,
+            "general": 71.94,
+            "total": 71.94
+        }
+    },
+    "reports": [
+        {
+            "report": "03/21/2020 to 04/20/2020",
+            "id": 47589,
+            "type": "C5",
+            "start_date": "03/21/2020",
+            "end_date": "04/20/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 1,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 21.94,
+                    "total": 21.94
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 50.0,
+                    "total": 50.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 71.94,
+                    "total": 71.94
+                },
+                "report_start_date": "03/21/2020",
+                "report_end_date": "04/20/2020"
+            }
+        },
+        {
+            "report": "01/13/2020 to 03/20/2020",
+            "id": 46410,
+            "type": "C5",
+            "start_date": "01/13/2020",
+            "end_date": "03/20/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 1,
+            "num_expenditures": 2,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 100.0,
+                    "total": 100.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 78.06,
+                    "total": 78.06
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 21.94,
+                    "total": 21.94
+                },
+                "report_start_date": "01/13/2020",
+                "report_end_date": "03/20/2020"
+            }
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "slug": "Owens-Catherine--L",
+    "candidateName": "Owens, Catherine  L",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 05",
+    "partyDescr": "Republican",
+    "periods": 2,
+    "receipts": 1495.0,
+    "expenditures": 2329.03,
+    "balance": -834.03,
+    "summary": {
+        "contributions": {
+            "primary": 1495.0,
+            "general": 0.0,
+            "total": 1495.0
+        },
+        "expenditures": {
+            "primary": 2329.03,
+            "general": 0.0,
+            "total": 2329.03
+        },
+        "cash_on_hand": {
+            "primary": -834.03,
+            "general": 0.0,
+            "total": -834.03
+        }
+    },
+    "reports": [
+        {
+            "report": "04/01/2020 to 04/30/2020",
+            "id": 47874,
+            "type": "C5",
+            "start_date": "04/01/2020",
+            "end_date": "04/30/2020",
+            "unitemized_contributions": 20.0,
+            "num_contributions": 3,
+            "num_expenditures": 3,
+            "summary": {
+                "previous report": {
+                    "primary": -775.38,
+                    "general": 0.0,
+                    "total": -775.38
+                },
+                "Receipts": {
+                    "primary": 400.0,
+                    "general": 0.0,
+                    "total": 400.0
+                },
+                "Expenditures": {
+                    "primary": 458.65,
+                    "general": 0.0,
+                    "total": 458.65
+                },
+                "Ending Balance": {
+                    "primary": -834.03,
+                    "general": 0.0,
+                    "total": -834.03
+                },
+                "report_start_date": "04/01/2020",
+                "report_end_date": "04/30/2020"
+            }
+        },
+        {
+            "report": "01/31/2020 to 03/31/2020",
+            "id": 47060,
+            "type": "C5",
+            "start_date": "01/31/2020",
+            "end_date": "03/31/2020",
+            "unitemized_contributions": 65.0,
+            "num_contributions": 9,
+            "num_expenditures": 10,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 1095.0,
+                    "general": 0.0,
+                    "total": 1095.0
+                },
+                "Expenditures": {
+                    "primary": 1870.38,
+                    "general": 0.0,
+                    "total": 1870.38
+                },
+                "Ending Balance": {
+                    "primary": -775.38,
+                    "general": 0.0,
+                    "total": -775.38
+                },
+                "report_start_date": "01/31/2020",
+                "report_end_date": "03/31/2020"
+            }
+        }
+    ]
+}

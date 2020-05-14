@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Receipts": {
+            "primary": 1340.0,
+            "general": 0.0,
+            "total": 1340.0
+        },
+        "Expenditures": {
+            "primary": 328.28,
+            "general": 0.0,
+            "total": 328.28
+        },
+        "Ending Balance": {
+            "primary": 1011.72,
+            "general": 0.0,
+            "total": 1011.72
+        },
+        "report_start_date": "11/14/2019",
+        "report_end_date": "12/31/2019"
+    },
+    "contributions": "[{\"Date Paid\":\"12\\/31\\/2019\",\"Entity Name\":\"BNSF RAIL PAC\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 961039\",\"City\":\"Fort Worth\",\"State\":\"TX\",\"Zip\":76161,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":10,\"Amount\":180.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":180.0,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"12\\/23\\/2019\",\"Entity Name\":\"Montana Troopers PAC\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"1820 S 56th St W\",\"City\":\"Billings\",\"State\":\"MT\",\"Zip\":59106,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":5,\"Amount\":180.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":180.0,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"11\\/13\\/2019\",\"Entity Name\":null,\"First Name\":\"Vince\",\"Middle Initial\":\"J\",\"Last Name\":\"Ricci\",\"Addr Line1\":\"PO Box 5212\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59604,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Legislator\",\"Employer\":\"State of Montana\",\"Contribution Type\":3,\"Amount\":800.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":800.0,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"12\\/31\\/2019\",\"Entity Name\":\"Montana RPAC\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"1 S. Montana Avenue, Suite M1\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59601,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":5,\"Amount\":180.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":180.0,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[{\"Date Paid\":\"11\\/20\\/2019\",\"Entity Name\":\"Harland Clarke\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"15955 La Cantera Parkway\",\"City\":\"San Antonio\",\"State\":\"TX\",\"Zip\":78256,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":28.28,\"Purpose\":\"(100) Checks\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"12\\/31\\/2019\",\"Entity Name\":\"Burnt Timber Consulting, LLC\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 5315\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59604,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":100.0,\"Purpose\":\"December bookkeeping & Compliance\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"12\\/31\\/2019\",\"Entity Name\":\"Burnt Timber Consulting, LLC\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 5315\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59604,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":200.0,\"Purpose\":\"November Bookkeeping & Compliance\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 0.0
+}

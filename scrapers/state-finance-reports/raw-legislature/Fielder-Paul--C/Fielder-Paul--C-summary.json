@@ -1,0 +1,166 @@
+{
+    "slug": "Fielder-Paul--C",
+    "candidateName": "Fielder, Paul  C",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 13",
+    "partyDescr": "Republican",
+    "periods": 4,
+    "receipts": 935.0,
+    "expenditures": 332.38,
+    "balance": 602.62,
+    "summary": {
+        "contributions": {
+            "primary": 935.0,
+            "general": 0.0,
+            "total": 935.0
+        },
+        "expenditures": {
+            "primary": 332.38,
+            "general": 0.0,
+            "total": 332.38
+        },
+        "cash_on_hand": {
+            "primary": 602.62,
+            "general": 0.0,
+            "total": 602.62
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 47500,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 602.62,
+                    "general": 0.0,
+                    "total": 602.62
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 602.62,
+                    "general": 0.0,
+                    "total": 602.62
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "01/01/2020 to 03/15/2020",
+            "id": 46374,
+            "type": "C5",
+            "start_date": "01/01/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 35.0,
+            "num_contributions": 6,
+            "num_expenditures": 3,
+            "summary": {
+                "previous report": {
+                    "primary": 114.02,
+                    "general": 0.0,
+                    "total": 114.02
+                },
+                "Receipts": {
+                    "primary": 535.0,
+                    "general": 0.0,
+                    "total": 535.0
+                },
+                "Expenditures": {
+                    "primary": 46.4,
+                    "general": 0.0,
+                    "total": 46.4
+                },
+                "Ending Balance": {
+                    "primary": 602.62,
+                    "general": 0.0,
+                    "total": 602.62
+                },
+                "report_start_date": "01/01/2020",
+                "report_end_date": "03/15/2020"
+            }
+        },
+        {
+            "report": "10/05/2019 to 12/31/2019",
+            "id": 46266,
+            "type": "C5",
+            "start_date": "10/05/2019",
+            "end_date": "12/31/2019",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 1,
+            "num_expenditures": 2,
+            "summary": {
+                "previous report": {
+                    "primary": 300.0,
+                    "general": 0.0,
+                    "total": 300.0
+                },
+                "Receipts": {
+                    "primary": 100.0,
+                    "general": 0.0,
+                    "total": 100.0
+                },
+                "Expenditures": {
+                    "primary": 285.98,
+                    "general": 0.0,
+                    "total": 285.98
+                },
+                "Ending Balance": {
+                    "primary": 114.02,
+                    "general": 0.0,
+                    "total": 114.02
+                },
+                "report_start_date": "10/05/2019",
+                "report_end_date": "12/31/2019"
+            }
+        },
+        {
+            "report": "08/01/2019 to 10/04/2019",
+            "id": 45870,
+            "type": "C5",
+            "start_date": "08/01/2019",
+            "end_date": "10/04/2019",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 3,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 300.0,
+                    "general": 0.0,
+                    "total": 300.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 300.0,
+                    "general": 0.0,
+                    "total": 300.0
+                },
+                "report_start_date": "08/01/2019",
+                "report_end_date": "10/04/2019"
+            }
+        }
+    ]
+}

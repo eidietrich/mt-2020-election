@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 1580.0,
+            "general": 200.0,
+            "total": 1780.0
+        },
+        "Receipts": {
+            "primary": 690.0,
+            "general": 0.05,
+            "total": 690.05
+        },
+        "Expenditures": {
+            "primary": 40.0,
+            "general": 0.0,
+            "total": 40.0
+        },
+        "Ending Balance": {
+            "primary": 2230.0,
+            "general": 200.05,
+            "total": 2430.05
+        },
+        "report_start_date": "07/01/2019",
+        "report_end_date": "09/30/2019"
+    },
+    "contributions": "[{\"Date Paid\":\"10\\/07\\/2019\",\"Entity Name\":null,\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":null,\"City\":null,\"State\":null,\"Zip\":null,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":1,\"Amount\":40.0,\"Amount Type\":\"IK\",\"Purpose\":\"Record out-of-pocket fee payment by candidate to attend Montana Chamber of Commerce 2019 Economic Summit Update Series held 08\\/01\\/2019 in Kalispell.\",\"Election Type\":\"PM\",\"Total Primary\":40.0,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"10\\/03\\/2019\",\"Entity Name\":null,\"First Name\":\"Lavonne\",\"Middle Initial\":null,\"Last Name\":\"Larson\",\"Addr Line1\":\"162 E Nicklaus Ave\",\"City\":\"Kalispell\",\"State\":\"MT\",\"Zip\":59901.0,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Retired\",\"Employer\":\"Retired\",\"Contribution Type\":9,\"Amount\":180.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":180.0,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"10\\/03\\/2019\",\"Entity Name\":null,\"First Name\":\"Vondene\",\"Middle Initial\":null,\"Last Name\":\"Kopetski\",\"Addr Line1\":\"7373 Stonehaven Ave \",\"City\":\"Missoula\",\"State\":\"MT\",\"Zip\":59803.0,\"Zip4\":9631.0,\"Country\":null,\"Occupation\":\"Retired\",\"Employer\":\"Retired\",\"Contribution Type\":9,\"Amount\":180.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":180.0,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"10\\/03\\/2019\",\"Entity Name\":null,\"First Name\":\"Frank\",\"Middle Initial\":null,\"Last Name\":\"Garner\",\"Addr Line1\":\"PO Box 151 \",\"City\":\"Kalispell\",\"State\":\"MT\",\"Zip\":59903.0,\"Zip4\":151.0,\"Country\":null,\"Occupation\":\"Police\\/Security Consultant\",\"Employer\":\"Self-Employed\",\"Contribution Type\":9,\"Amount\":150.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":150.0,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"10\\/03\\/2019\",\"Entity Name\":null,\"First Name\":\"Nancee\",\"Middle Initial\":null,\"Last Name\":\"Olszewski\",\"Addr Line1\":\"PO Box 8891 \",\"City\":\"Kalispell\",\"State\":\"MT\",\"Zip\":59904.0,\"Zip4\":1891.0,\"Country\":null,\"Occupation\":\"Homemaker\",\"Employer\":\"Self-Employed\",\"Contribution Type\":9,\"Amount\":180.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":180.0,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[{\"Date Paid\":\"08\\/07\\/2019\",\"Entity Name\":null,\"First Name\":\"Dee\",\"Middle Initial\":null,\"Last Name\":\"Kirk-Boon\",\"Addr Line1\":\"PO Box 225 \",\"City\":\"Kalispell\",\"State\":\"MT\",\"Zip\":59903,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":40.0,\"Purpose\":\"Reimburse candidate for out-of-pocket fee to attend Montana Chamber of Commerce 2019 Economic Summit Update Series held 08\\/01\\/2019 in Kalispell.\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 0.049999999999954525
+}

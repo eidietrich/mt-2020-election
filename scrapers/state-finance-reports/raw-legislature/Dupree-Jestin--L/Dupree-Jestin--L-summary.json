@@ -1,0 +1,29 @@
+{
+    "slug": "Dupree-Jestin--L",
+    "candidateName": "Dupree, Jestin  L",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "Senate District No. 16",
+    "partyDescr": "Democrat",
+    "periods": 0,
+    "receipts": 0,
+    "expenditures": 0,
+    "balance": 0,
+    "summary": {
+        "contributions": {
+            "primary": 0,
+            "general": 0,
+            "total": 0
+        },
+        "expenditures": {
+            "primary": 0,
+            "general": 0,
+            "total": 0
+        },
+        "cash_on_hand": {
+            "total": 0,
+            "general": 0,
+            "primary": 0
+        }
+    },
+    "reports": []
+}

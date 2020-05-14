@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 410.0,
+            "general": 0.0,
+            "total": 410.0
+        },
+        "Receipts": {
+            "primary": 48.25,
+            "general": 0.0,
+            "total": 48.25
+        },
+        "Expenditures": {
+            "primary": 380.5,
+            "general": 0.0,
+            "total": 380.5
+        },
+        "Ending Balance": {
+            "primary": 77.75,
+            "general": 0.0,
+            "total": 77.75
+        },
+        "report_start_date": "03/20/2020",
+        "report_end_date": "04/15/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"03\\/24\\/2020\",\"Entity Name\":null,\"First Name\":\"Richard\",\"Middle Initial\":null,\"Last Name\":\"Wells\",\"Addr Line1\":\"Hwy 16\",\"City\":\"Glendive\",\"State\":\"MT\",\"Zip\":59330,\"Zip4\":null,\"Country\":null,\"Occupation\":\"MEDICAL DOCTOR\",\"Employer\":\"self\",\"Contribution Type\":9,\"Amount\":48.25,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":48.25,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0.0
+}

@@ -1,0 +1,98 @@
+{
+    "slug": "Allen-Jennifer",
+    "candidateName": "Allen, Jennifer ",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 10",
+    "partyDescr": "Democrat",
+    "periods": 2,
+    "receipts": 3267.98,
+    "expenditures": 1318.23,
+    "balance": 1949.75,
+    "summary": {
+        "contributions": {
+            "primary": 0.0,
+            "general": 3267.98,
+            "total": 3267.98
+        },
+        "expenditures": {
+            "primary": 0.0,
+            "general": 1318.23,
+            "total": 1318.23
+        },
+        "cash_on_hand": {
+            "primary": 0.0,
+            "general": 1949.75,
+            "total": 1949.75
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 46999,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 100.0,
+            "num_contributions": 10,
+            "num_expenditures": 13,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 1880.77,
+                    "total": 1880.77
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 1107.98,
+                    "total": 1107.98
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 1039.0,
+                    "total": 1039.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 1949.75,
+                    "total": 1949.75
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "02/25/2020 to 03/15/2020",
+            "id": 46621,
+            "type": "C5",
+            "start_date": "02/25/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 20.0,
+            "num_contributions": 14,
+            "num_expenditures": 5,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 2160.0,
+                    "total": 2160.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 279.23,
+                    "total": 279.23
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 1880.77,
+                    "total": 1880.77
+                },
+                "report_start_date": "02/25/2020",
+                "report_end_date": "03/15/2020"
+            }
+        }
+    ]
+}

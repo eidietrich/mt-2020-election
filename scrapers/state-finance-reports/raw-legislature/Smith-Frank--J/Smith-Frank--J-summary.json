@@ -1,0 +1,64 @@
+{
+    "slug": "Smith-Frank--J",
+    "candidateName": "Smith, Frank  J",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 31",
+    "partyDescr": "Democrat",
+    "periods": 1,
+    "receipts": 515.0,
+    "expenditures": 0.0,
+    "balance": 515.0,
+    "summary": {
+        "contributions": {
+            "primary": 0.0,
+            "general": 515.0,
+            "total": 515.0
+        },
+        "expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "cash_on_hand": {
+            "primary": 0.0,
+            "general": 515.0,
+            "total": 515.0
+        }
+    },
+    "reports": [
+        {
+            "report": "01/01/2020 to 03/20/2020",
+            "id": 47022,
+            "type": "C5",
+            "start_date": "01/01/2020",
+            "end_date": "03/20/2020",
+            "unitemized_contributions": 15.0,
+            "num_contributions": 1,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 515.0,
+                    "total": 515.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 515.0,
+                    "total": 515.0
+                },
+                "report_start_date": "01/01/2020",
+                "report_end_date": "03/20/2020"
+            }
+        }
+    ]
+}

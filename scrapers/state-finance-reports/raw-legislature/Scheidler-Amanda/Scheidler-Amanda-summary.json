@@ -1,0 +1,98 @@
+{
+    "slug": "Scheidler-Amanda",
+    "candidateName": "Scheidler, Amanda ",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 39",
+    "partyDescr": "Republican",
+    "periods": 2,
+    "receipts": 210.0,
+    "expenditures": 154.95000000000002,
+    "balance": 55.05,
+    "summary": {
+        "contributions": {
+            "primary": 210.0,
+            "general": 0.0,
+            "total": 210.0
+        },
+        "expenditures": {
+            "primary": 154.95000000000002,
+            "general": 0.0,
+            "total": 154.95000000000002
+        },
+        "cash_on_hand": {
+            "primary": 55.05,
+            "general": 0.0,
+            "total": 55.05
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 47173,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 30.0,
+            "num_contributions": 0,
+            "num_expenditures": 3,
+            "summary": {
+                "previous report": {
+                    "primary": 158.01,
+                    "general": 0.0,
+                    "total": 158.01
+                },
+                "Receipts": {
+                    "primary": 30.0,
+                    "general": 0.0,
+                    "total": 30.0
+                },
+                "Expenditures": {
+                    "primary": 132.96,
+                    "general": 0.0,
+                    "total": 132.96
+                },
+                "Ending Balance": {
+                    "primary": 55.05,
+                    "general": 0.0,
+                    "total": 55.05
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "03/01/2020 to 03/15/2020",
+            "id": 46603,
+            "type": "C5",
+            "start_date": "03/01/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 1,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 180.0,
+                    "general": 0.0,
+                    "total": 180.0
+                },
+                "Expenditures": {
+                    "primary": 21.99,
+                    "general": 0.0,
+                    "total": 21.99
+                },
+                "Ending Balance": {
+                    "primary": 158.01,
+                    "general": 0.0,
+                    "total": 158.01
+                },
+                "report_start_date": "03/01/2020",
+                "report_end_date": "03/15/2020"
+            }
+        }
+    ]
+}

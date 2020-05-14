@@ -1,0 +1,64 @@
+{
+    "slug": "Sweeney-Mark--A",
+    "candidateName": "Sweeney, Mark  A",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "Senate District No. 39",
+    "partyDescr": "Democrat",
+    "periods": 1,
+    "receipts": 8725.0,
+    "expenditures": 6109.57,
+    "balance": 2615.43,
+    "summary": {
+        "contributions": {
+            "primary": 8365.0,
+            "general": 360.0,
+            "total": 8725.0
+        },
+        "expenditures": {
+            "primary": 6109.57,
+            "general": 0.0,
+            "total": 6109.57
+        },
+        "cash_on_hand": {
+            "primary": 2255.43,
+            "general": 360.0,
+            "total": 2615.43
+        }
+    },
+    "reports": [
+        {
+            "report": "07/15/2019 to 03/19/2020",
+            "id": 45857,
+            "type": "C5",
+            "start_date": "07/15/2019",
+            "end_date": "03/19/2020",
+            "unitemized_contributions": 300.0,
+            "num_contributions": 66,
+            "num_expenditures": 13,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 8365.0,
+                    "general": 360.0,
+                    "total": 8725.0
+                },
+                "Expenditures": {
+                    "primary": 6109.57,
+                    "general": 0.0,
+                    "total": 6109.57
+                },
+                "Ending Balance": {
+                    "primary": 2255.43,
+                    "general": 360.0,
+                    "total": 2615.43
+                },
+                "report_start_date": "07/15/2019",
+                "report_end_date": "03/19/2020"
+            }
+        }
+    ]
+}

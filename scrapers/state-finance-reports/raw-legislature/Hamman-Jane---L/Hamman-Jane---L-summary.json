@@ -1,0 +1,64 @@
+{
+    "slug": "Hamman-Jane---L",
+    "candidateName": "Hamman, Jane   L",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "Senate District No. 38",
+    "partyDescr": "Republican",
+    "periods": 1,
+    "receipts": 2092.35,
+    "expenditures": 366.62,
+    "balance": 1725.73,
+    "summary": {
+        "contributions": {
+            "primary": 2092.35,
+            "general": 0.0,
+            "total": 2092.35
+        },
+        "expenditures": {
+            "primary": 366.62,
+            "general": 0.0,
+            "total": 366.62
+        },
+        "cash_on_hand": {
+            "primary": 1725.73,
+            "general": 0.0,
+            "total": 1725.73
+        }
+    },
+    "reports": [
+        {
+            "report": "01/29/2020 to 03/15/2020",
+            "id": 46675,
+            "type": "C5",
+            "start_date": "01/29/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 45.0,
+            "num_contributions": 12,
+            "num_expenditures": 6,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 2092.35,
+                    "general": 0.0,
+                    "total": 2092.35
+                },
+                "Expenditures": {
+                    "primary": 366.62,
+                    "general": 0.0,
+                    "total": 366.62
+                },
+                "Ending Balance": {
+                    "primary": 1725.73,
+                    "general": 0.0,
+                    "total": 1725.73
+                },
+                "report_start_date": "01/29/2020",
+                "report_end_date": "03/15/2020"
+            }
+        }
+    ]
+}

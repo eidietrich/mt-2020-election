@@ -1,0 +1,132 @@
+{
+    "slug": "Trebas-Jeremy",
+    "candidateName": "Trebas, Jeremy ",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 26",
+    "partyDescr": "Republican",
+    "periods": 3,
+    "receipts": 1100.0,
+    "expenditures": 284.54,
+    "balance": 815.46,
+    "summary": {
+        "contributions": {
+            "primary": 920.0,
+            "general": 180.0,
+            "total": 1100.0
+        },
+        "expenditures": {
+            "primary": 284.54,
+            "general": 0.0,
+            "total": 284.54
+        },
+        "cash_on_hand": {
+            "primary": 635.46,
+            "general": 180.0,
+            "total": 815.46
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/20/2020",
+            "id": 47618,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/20/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 635.46,
+                    "general": 180.0,
+                    "total": 815.46
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 635.46,
+                    "general": 180.0,
+                    "total": 815.46
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/20/2020"
+            }
+        },
+        {
+            "report": "01/01/2020 to 03/15/2020",
+            "id": 46967,
+            "type": "C5",
+            "start_date": "01/01/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 90.0,
+            "num_contributions": 5,
+            "num_expenditures": 4,
+            "summary": {
+                "previous report": {
+                    "primary": 97.64,
+                    "general": 0.0,
+                    "total": 97.64
+                },
+                "Receipts": {
+                    "primary": 570.0,
+                    "general": 180.0,
+                    "total": 750.0
+                },
+                "Expenditures": {
+                    "primary": 32.18,
+                    "general": 0.0,
+                    "total": 32.18
+                },
+                "Ending Balance": {
+                    "primary": 635.46,
+                    "general": 180.0,
+                    "total": 815.46
+                },
+                "report_start_date": "01/01/2020",
+                "report_end_date": "03/15/2020"
+            }
+        },
+        {
+            "report": "10/01/2019 to 12/31/2019",
+            "id": 46345,
+            "type": "C5",
+            "start_date": "10/01/2019",
+            "end_date": "12/31/2019",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 2,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 350.0,
+                    "general": 0.0,
+                    "total": 350.0
+                },
+                "Expenditures": {
+                    "primary": 252.36,
+                    "general": 0.0,
+                    "total": 252.36
+                },
+                "Ending Balance": {
+                    "primary": 97.64,
+                    "general": 0.0,
+                    "total": 97.64
+                },
+                "report_start_date": "10/01/2019",
+                "report_end_date": "12/31/2019"
+            }
+        }
+    ]
+}

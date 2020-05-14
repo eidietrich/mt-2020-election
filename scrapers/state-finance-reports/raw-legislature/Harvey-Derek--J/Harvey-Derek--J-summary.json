@@ -1,0 +1,132 @@
+{
+    "slug": "Harvey-Derek--J",
+    "candidateName": "Harvey, Derek  J",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 74",
+    "partyDescr": "Democrat",
+    "periods": 3,
+    "receipts": 1375.0,
+    "expenditures": 97.99,
+    "balance": 1277.01,
+    "summary": {
+        "contributions": {
+            "primary": 0.0,
+            "general": 1375.0,
+            "total": 1375.0
+        },
+        "expenditures": {
+            "primary": 0.0,
+            "general": 97.99,
+            "total": 97.99
+        },
+        "cash_on_hand": {
+            "primary": 0.0,
+            "general": 1277.01,
+            "total": 1277.01
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 47430,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 4,
+            "num_expenditures": 2,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 775.51,
+                    "total": 775.51
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 510.0,
+                    "total": 510.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 8.5,
+                    "total": 8.5
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 1277.01,
+                    "total": 1277.01
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "01/01/2020 to 03/15/2020",
+            "id": 46834,
+            "type": "C5",
+            "start_date": "01/01/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 50.0,
+            "num_contributions": 8,
+            "num_expenditures": 4,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 865.0,
+                    "total": 865.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 89.49,
+                    "total": 89.49
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 775.51,
+                    "total": 775.51
+                },
+                "report_start_date": "01/01/2020",
+                "report_end_date": "03/15/2020"
+            }
+        },
+        {
+            "report": "11/14/2019 to 12/31/2019",
+            "id": 46321,
+            "type": "C5",
+            "start_date": "11/14/2019",
+            "end_date": "12/31/2019",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 3,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "report_start_date": "11/14/2019",
+                "report_end_date": "12/31/2019"
+            }
+        }
+    ]
+}

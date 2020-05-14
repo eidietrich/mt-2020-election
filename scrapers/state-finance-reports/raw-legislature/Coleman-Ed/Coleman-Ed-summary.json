@@ -1,0 +1,98 @@
+{
+    "slug": "Coleman-Ed",
+    "candidateName": "Coleman, Ed ",
+    "scrape_date": "2020-05-11",
+    "officeTitle": "House District No. 79",
+    "partyDescr": "Democrat",
+    "periods": 2,
+    "receipts": 13310.0,
+    "expenditures": 7989.92,
+    "balance": 5320.08,
+    "summary": {
+        "contributions": {
+            "primary": 13310.0,
+            "general": 0.0,
+            "total": 13310.0
+        },
+        "expenditures": {
+            "primary": 7989.92,
+            "general": 0.0,
+            "total": 7989.92
+        },
+        "cash_on_hand": {
+            "primary": 5320.08,
+            "general": 0.0,
+            "total": 5320.08
+        }
+    },
+    "reports": [
+        {
+            "report": "03/16/2020 to 04/15/2020",
+            "id": 47346,
+            "type": "C5",
+            "start_date": "03/16/2020",
+            "end_date": "04/15/2020",
+            "unitemized_contributions": 200.0,
+            "num_contributions": 45,
+            "num_expenditures": 7,
+            "summary": {
+                "previous report": {
+                    "primary": 2257.67,
+                    "general": 0.0,
+                    "total": 2257.67
+                },
+                "Receipts": {
+                    "primary": 4880.0,
+                    "general": 0.0,
+                    "total": 4880.0
+                },
+                "Expenditures": {
+                    "primary": 1817.59,
+                    "general": 0.0,
+                    "total": 1817.59
+                },
+                "Ending Balance": {
+                    "primary": 5320.08,
+                    "general": 0.0,
+                    "total": 5320.08
+                },
+                "report_start_date": "03/16/2020",
+                "report_end_date": "04/15/2020"
+            }
+        },
+        {
+            "report": "01/01/2020 to 03/15/2020",
+            "id": 46650,
+            "type": "C5",
+            "start_date": "01/01/2020",
+            "end_date": "03/15/2020",
+            "unitemized_contributions": 593.0,
+            "num_contributions": 74,
+            "num_expenditures": 16,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 8430.0,
+                    "general": 0.0,
+                    "total": 8430.0
+                },
+                "Expenditures": {
+                    "primary": 6172.33,
+                    "general": 0.0,
+                    "total": 6172.33
+                },
+                "Ending Balance": {
+                    "primary": 2257.67,
+                    "general": 0.0,
+                    "total": 2257.67
+                },
+                "report_start_date": "01/01/2020",
+                "report_end_date": "03/15/2020"
+            }
+        }
+    ]
+}
