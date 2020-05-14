@@ -18,7 +18,7 @@ const activeCandidates = filterToActive(candidates)
 
 const Races = () => {
     return <Layout>
-        <SEO title="Montana 2020 election - races" />
+        <SEO title="Montana's 2020 election | Races" />
         <h1>{racePageTitle}</h1>
         <TextBlock paragraphs={racePageText} />
         <div className={styles.races}>

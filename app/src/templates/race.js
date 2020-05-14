@@ -19,7 +19,7 @@ class RacePage extends Component {
 
         return (<Layout>
             <SEO
-                title={`${race.position} | Montana 2020`}
+                title={`Montana's 2020 election | ${race.position}`}
                 description={race.description}
             />
             <h1>{race.position}</h1>

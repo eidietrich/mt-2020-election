@@ -133,7 +133,7 @@ class VoterFAQPage extends Component {
 
 
     return <Layout>
-      <SEO title="Voter FAQ, Montana 2020 election" />
+      <SEO title="Montana's 2020 election | How to vote" />
       <div className={`text ${styles.body}`}>
         <h1>Everything you need to know to vote</h1>
         <div className={styles.byline}>Compiled by Alex Sakariassen</div>

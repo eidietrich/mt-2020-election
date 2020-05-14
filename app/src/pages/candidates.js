@@ -26,7 +26,7 @@ const Candidates = () => {
   const races = Array.from(new Set(activeCandidates.map(d => d.position)))
 
   return <Layout>
-    <SEO title="Montana 2020 election - candidates" />
+    <SEO title="Montana's 2020 election | Candidates" />
     <h1>{candidatePageTitle}</h1>
     <TextBlock paragraphs={candidatePageText} />
     <div>

@@ -44,7 +44,7 @@ class CandidatePage extends Component {
 
         return (<Layout>
             <SEO
-                title={`${candidate.last_name} | Montana 2020`}
+                title={`Montana's 2020 election | ${candidate.first_name} ${candidate.last_name}`}
                 description={candidate.text}
             />
 

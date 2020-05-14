@@ -48,7 +48,7 @@ class IndexPage extends Component {
       }
     })
     return <Layout>
-      <SEO title="Montana 2020 election - overview" />
+      <SEO title="Montana's 2020 election" />
       <div className="intro">
         <div className="text">
           <div className={styles.byline}>{byline}</div>

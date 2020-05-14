@@ -41,6 +41,7 @@ const Layout = ({ children }) => {
             <Img 
               fluid={heroImage.placeholderImage.childImageSharp.fluid}
               className={styles.heroImage}
+              alt="Montana's 2020 election"
             />
             <div className={styles.heroText}>
               <div className={styles.appHed}>{text.appHed}</div>
