@@ -505,6 +505,7 @@
       "current_title": "Lewis and Clark County Commissioner",
       "incumbent": "FALSE",
       "status": "Announced",
+      "withdrawal_date": "5/15/20",
       "state_finance_data_name": "",
       "fed_finance_data_name": "GIESE, SUSAN GOOD",
       "photo_slug": "susan-geise.png",
@@ -512,7 +513,7 @@
       "web_url": "",
       "fb_url": "",
       "tw_url": "",
-      "text": "Geise, a longtime Republican from Augusta, filed for U.S. Senate as a Libertarian March 18. A former Montana GOP party chair, she previously represented a Great Falls district in the Legislature and has served on the Lewis and Clark County Commission since 2013."
+      "text": "Geise, a longtime Republican from Augusta, filed for U.S. Senate as a Libertarian March 18 and <a href=\"http://Susan-Geise\">said she was withdrawing from the race</a> May 15. A former Montana GOP party chair, she previously represented a Great Falls district in the Legislature and has served on the Lewis and Clark County Commission since 2013."
     },
     {
       "position": "U.S. House",
@@ -1336,5 +1337,5 @@
       "text": "Tranel, of Missoula, is an attorney who works with energy and regulatory issues. She previously worked as a PSC staff attorney and for the Montana Consumer Counsel."
     }
   ],
-  "lastUpdated": "2020-05-14T23:01:57.953Z"
+  "lastUpdated": "2020-05-15T22:56:00.977Z"
 }
