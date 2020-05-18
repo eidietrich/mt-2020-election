@@ -31,7 +31,7 @@
     "refresh:issues": "node scrapers/issue-questions/doc-to-local.js",
     "local:demo": "(cd app && gatsby build) && serve app/public",
     "deploy": "npm run deploy:prod && npm run deploy:clear-cache",
-    "deploy:demo": "(cd app && gatsby build) && aws s3 sync app/public s3://mtfp-election-demo",
+    "deploy:local": "(cd app && gatsby build && gatsby serve)",
     "deploy:prod": "(cd app && gatsby build --prefix-paths && aws s3 sync public s3://apps.montanafreepress.org/montana-2020 --delete)",
     "deploy:clear-cache": "aws cloudfront create-invalidation --distribution-id E3LVPS3XLJHLL5 --paths \"/montana-2020/*\"",
     "sync": "aws s3 sync app/public s3://apps.montanafreepress.org/montana-2020 --delete",

@@ -3,7 +3,7 @@ module.exports = {
     title: `Montana Free Press`,
     description: `The MTFP guide to the 2020 Montana election`,
     author: `Eric Dietrich / Montana Free Press`,
-    siteUrl:`https://www.montanafreepress.org/apps/montana-2020`,
+    siteUrl:`https://www.apps.montanafreepress.org/montana-2020`,
     keywords: ['Montana','election','candidates','2020','vote',
       'politics','U.S. Senate','Governor','U.S. House','congress','Public Service Commission',
       'Attorney General','Superintendent of Public Instruction','Secretary of State','State Auditor',
