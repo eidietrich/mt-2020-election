@@ -34,10 +34,13 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: "UA-70813941-5",
-      },
+        trackingIds: [
+          "UA-70813941-5", // Google Analytics
+          "AW-648334156", // Google adwords
+        ]
+      }
     },
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-webpack-size`,
