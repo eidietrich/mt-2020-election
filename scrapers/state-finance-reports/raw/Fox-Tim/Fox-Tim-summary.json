@@ -1,31 +1,93 @@
 {
     "slug": "Fox-Tim",
     "candidateName": "Fox, Tim ",
-    "scrape_date": "2020-05-03",
+    "scrape_date": "2020-05-26",
     "officeTitle": "Governor",
     "partyDescr": "Republican",
-    "periods": 6,
-    "receipts": 719747.9099999999,
-    "expenditures": 537613.0700000001,
-    "balance": 182134.84,
+    "periods": 9,
+    "receipts": 758926.0199999999,
+    "expenditures": 579349.42,
+    "balance": 179576.6,
     "summary": {
         "contributions": {
-            "primary": 551991.98,
-            "general": 167755.93,
-            "total": 719747.9099999999
+            "primary": 587940.09,
+            "general": 170985.93,
+            "total": 758926.0199999999
         },
         "expenditures": {
-            "primary": 530796.0900000001,
+            "primary": 572532.4400000001,
             "general": 6816.98,
-            "total": 537613.0700000001
+            "total": 579349.42
         },
         "cash_on_hand": {
-            "primary": 21195.89,
-            "general": 160938.95,
-            "total": 182134.84
+            "primary": 15407.65,
+            "general": 164168.95,
+            "total": 179576.6
         }
     },
     "reports": [
+        {
+            "report": "05/22/2020 to 05/22/2020",
+            "id": 48507,
+            "type": "C7",
+            "start_date": "05/22/2020",
+            "end_date": "05/22/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/22/2020",
+                "report_end_date": "05/22/2020"
+            }
+        },
+        {
+            "report": "05/21/2020 to 05/22/2020",
+            "id": 48520,
+            "type": "C7E",
+            "start_date": "05/21/2020",
+            "end_date": "05/22/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/21/2020",
+                "report_end_date": "05/22/2020"
+            }
+        },
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 48314,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 641.1100000000006,
+            "num_contributions": 253,
+            "num_expenditures": 20,
+            "summary": {
+                "previous report": {
+                    "primary": 21195.89,
+                    "general": 160938.95,
+                    "total": 182134.84
+                },
+                "Receipts": {
+                    "primary": 35948.11,
+                    "general": 3230.0,
+                    "total": 39178.11
+                },
+                "Expenditures": {
+                    "primary": 41736.35,
+                    "general": 0.0,
+                    "total": 41736.35
+                },
+                "Ending Balance": {
+                    "primary": 15407.65,
+                    "general": 164168.95,
+                    "total": 179576.6
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47497,

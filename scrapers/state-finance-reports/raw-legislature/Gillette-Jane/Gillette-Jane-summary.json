@@ -1,31 +1,65 @@
 {
     "slug": "Gillette-Jane",
     "candidateName": "Gillette, Jane ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 64",
     "partyDescr": "Republican",
-    "periods": 5,
-    "receipts": 37383.24,
-    "expenditures": 25885.55,
-    "balance": 11497.69,
+    "periods": 6,
+    "receipts": 61584.259999999995,
+    "expenditures": 53084.399999999994,
+    "balance": 8499.86,
     "summary": {
         "contributions": {
-            "primary": 37383.24,
+            "primary": 61584.259999999995,
             "general": 0.0,
-            "total": 37383.24
+            "total": 61584.259999999995
         },
         "expenditures": {
-            "primary": 25885.55,
+            "primary": 53084.399999999994,
             "general": 0.0,
-            "total": 25885.55
+            "total": 53084.399999999994
         },
         "cash_on_hand": {
-            "primary": 11497.69,
+            "primary": 8499.86,
             "general": 0.0,
-            "total": 11497.69
+            "total": 8499.86
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 48013,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 26.020000000000437,
+            "num_contributions": 19,
+            "num_expenditures": 24,
+            "summary": {
+                "previous report": {
+                    "primary": 11497.69,
+                    "general": 0.0,
+                    "total": 11497.69
+                },
+                "Receipts": {
+                    "primary": 24201.02,
+                    "general": 0.0,
+                    "total": 24201.02
+                },
+                "Expenditures": {
+                    "primary": 27198.85,
+                    "general": 0.0,
+                    "total": 27198.85
+                },
+                "Ending Balance": {
+                    "primary": 8499.86,
+                    "general": 0.0,
+                    "total": 8499.86
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47599,

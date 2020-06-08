@@ -1,31 +1,65 @@
 {
     "slug": "Meaders-Aaron--M",
     "candidateName": "Meaders, Aaron  M",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "Senate District No. 37",
     "partyDescr": "Republican",
-    "periods": 2,
-    "receipts": 164.88,
-    "expenditures": 123.60999999999999,
-    "balance": 41.27,
+    "periods": 3,
+    "receipts": 344.88,
+    "expenditures": 185.32,
+    "balance": 159.56,
     "summary": {
         "contributions": {
             "primary": 0.0,
-            "general": 164.88,
-            "total": 164.88
+            "general": 344.88,
+            "total": 344.88
         },
         "expenditures": {
             "primary": 0.0,
-            "general": 123.60999999999999,
-            "total": 123.60999999999999
+            "general": 185.32,
+            "total": 185.32
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 41.27,
-            "total": 41.27
+            "general": 159.56,
+            "total": 159.56
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48092,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 1,
+            "num_expenditures": 3,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 41.27,
+                    "total": 41.27
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 180.0,
+                    "total": 180.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 61.71,
+                    "total": 61.71
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 159.56,
+                    "total": 159.56
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47528,

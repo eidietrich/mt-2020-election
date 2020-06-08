@@ -1,31 +1,79 @@
 {
     "slug": "Loge-Denley--M",
     "candidateName": "Loge, Denley  M",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 14",
     "partyDescr": "Republican",
-    "periods": 5,
-    "receipts": 3890.0,
-    "expenditures": 1905.12,
-    "balance": 1984.88,
+    "periods": 7,
+    "receipts": 5450.0,
+    "expenditures": 5295.719999999999,
+    "balance": 154.28,
     "summary": {
         "contributions": {
-            "primary": 3890.0,
+            "primary": 5450.0,
             "general": 0.0,
-            "total": 3890.0
+            "total": 5450.0
         },
         "expenditures": {
-            "primary": 1905.12,
+            "primary": 5295.719999999999,
             "general": 0.0,
-            "total": 1905.12
+            "total": 5295.719999999999
         },
         "cash_on_hand": {
-            "primary": 1984.88,
+            "primary": 154.28,
             "general": 0.0,
-            "total": 1984.88
+            "total": 154.28
         }
     },
     "reports": [
+        {
+            "report": "05/19/2020 to 05/20/2020",
+            "id": 48268,
+            "type": "C7",
+            "start_date": "05/19/2020",
+            "end_date": "05/20/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/19/2020",
+                "report_end_date": "05/20/2020"
+            }
+        },
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 47728,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 11,
+            "num_expenditures": 5,
+            "summary": {
+                "previous report": {
+                    "primary": 1984.88,
+                    "general": 0.0,
+                    "total": 1984.88
+                },
+                "Receipts": {
+                    "primary": 1560.0,
+                    "general": 0.0,
+                    "total": 1560.0
+                },
+                "Expenditures": {
+                    "primary": 3390.6,
+                    "general": 0.0,
+                    "total": 3390.6
+                },
+                "Ending Balance": {
+                    "primary": 154.28,
+                    "general": 0.0,
+                    "total": 154.28
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 46746,

@@ -1,31 +1,65 @@
 {
     "slug": "Zolnikov-Katie",
     "candidateName": "Zolnikov, Katie ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 45",
     "partyDescr": "Republican",
-    "periods": 4,
-    "receipts": 1860.01,
-    "expenditures": 803.54,
-    "balance": 1056.47,
+    "periods": 5,
+    "receipts": 2895.01,
+    "expenditures": 879.92,
+    "balance": 2015.09,
     "summary": {
         "contributions": {
-            "primary": 1860.01,
+            "primary": 2895.01,
             "general": 0.0,
-            "total": 1860.01
+            "total": 2895.01
         },
         "expenditures": {
-            "primary": 803.54,
+            "primary": 879.92,
             "general": 0.0,
-            "total": 803.54
+            "total": 879.92
         },
         "cash_on_hand": {
-            "primary": 1056.47,
+            "primary": 2015.09,
             "general": 0.0,
-            "total": 1056.47
+            "total": 2015.09
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 47355,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 35.0,
+            "num_contributions": 6,
+            "num_expenditures": 7,
+            "summary": {
+                "previous report": {
+                    "primary": 1056.47,
+                    "general": 0.0,
+                    "total": 1056.47
+                },
+                "Receipts": {
+                    "primary": 1035.0,
+                    "general": 0.0,
+                    "total": 1035.0
+                },
+                "Expenditures": {
+                    "primary": 76.38,
+                    "general": 0.0,
+                    "total": 76.38
+                },
+                "Ending Balance": {
+                    "primary": 2015.09,
+                    "general": 0.0,
+                    "total": 2015.09
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 46707,

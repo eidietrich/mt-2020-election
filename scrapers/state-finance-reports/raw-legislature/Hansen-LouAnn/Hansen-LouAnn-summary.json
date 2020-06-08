@@ -1,31 +1,79 @@
 {
     "slug": "Hansen-LouAnn",
     "candidateName": "Hansen, LouAnn ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 97",
     "partyDescr": "Democrat",
-    "periods": 4,
-    "receipts": 4218.6,
-    "expenditures": 1085.1,
-    "balance": 3133.5,
+    "periods": 6,
+    "receipts": 5148.72,
+    "expenditures": 2788.66,
+    "balance": 2360.06,
     "summary": {
         "contributions": {
-            "primary": 4218.6,
+            "primary": 5148.72,
             "general": 0.0,
-            "total": 4218.6
+            "total": 5148.72
         },
         "expenditures": {
-            "primary": 1085.1,
+            "primary": 2788.66,
             "general": 0.0,
-            "total": 1085.1
+            "total": 2788.66
         },
         "cash_on_hand": {
-            "primary": 3133.5,
+            "primary": 2360.06,
             "general": 0.0,
-            "total": 3133.5
+            "total": 2360.06
         }
     },
     "reports": [
+        {
+            "report": "05/16/2020 to 06/02/2020",
+            "id": 48232,
+            "type": "C7",
+            "start_date": "05/16/2020",
+            "end_date": "06/02/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/16/2020",
+                "report_end_date": "06/02/2020"
+            }
+        },
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48220,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 50.120000000000005,
+            "num_contributions": 10,
+            "num_expenditures": 6,
+            "summary": {
+                "previous report": {
+                    "primary": 3133.5,
+                    "general": 0.0,
+                    "total": 3133.5
+                },
+                "Receipts": {
+                    "primary": 930.12,
+                    "general": 0.0,
+                    "total": 930.12
+                },
+                "Expenditures": {
+                    "primary": 1703.56,
+                    "general": 0.0,
+                    "total": 1703.56
+                },
+                "Ending Balance": {
+                    "primary": 2360.06,
+                    "general": 0.0,
+                    "total": 2360.06
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47522,

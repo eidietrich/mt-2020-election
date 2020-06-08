@@ -1,31 +1,65 @@
 {
     "slug": "Johnson-James--A",
     "candidateName": "Johnson, James  A",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 36",
     "partyDescr": "Republican",
-    "periods": 2,
-    "receipts": 3150.95,
-    "expenditures": 1415.52,
-    "balance": 1735.43,
+    "periods": 3,
+    "receipts": 3910.95,
+    "expenditures": 1440.52,
+    "balance": 2470.43,
     "summary": {
         "contributions": {
-            "primary": 3150.95,
+            "primary": 3910.95,
             "general": 0.0,
-            "total": 3150.95
+            "total": 3910.95
         },
         "expenditures": {
-            "primary": 1415.52,
+            "primary": 1440.52,
             "general": 0.0,
-            "total": 1415.52
+            "total": 1440.52
         },
         "cash_on_hand": {
-            "primary": 1735.43,
+            "primary": 2470.43,
             "general": 0.0,
-            "total": 1735.43
+            "total": 2470.43
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 47547,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 15,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 1735.43,
+                    "general": 0.0,
+                    "total": 1735.43
+                },
+                "Receipts": {
+                    "primary": 760.0,
+                    "general": 0.0,
+                    "total": 760.0
+                },
+                "Expenditures": {
+                    "primary": 25.0,
+                    "general": 0.0,
+                    "total": 25.0
+                },
+                "Ending Balance": {
+                    "primary": 2470.43,
+                    "general": 0.0,
+                    "total": 2470.43
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47042,

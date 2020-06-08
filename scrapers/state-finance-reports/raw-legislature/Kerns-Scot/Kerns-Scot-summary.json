@@ -1,31 +1,65 @@
 {
     "slug": "Kerns-Scot",
     "candidateName": "Kerns, Scot ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 23",
     "partyDescr": "Republican",
-    "periods": 2,
-    "receipts": 505.0,
-    "expenditures": 37.5,
-    "balance": 467.5,
+    "periods": 3,
+    "receipts": 1713.31,
+    "expenditures": 1077.33,
+    "balance": 635.98,
     "summary": {
         "contributions": {
-            "primary": 505.0,
+            "primary": 1713.31,
             "general": 0.0,
-            "total": 505.0
+            "total": 1713.31
         },
         "expenditures": {
-            "primary": 37.5,
+            "primary": 1077.33,
             "general": 0.0,
-            "total": 37.5
+            "total": 1077.33
         },
         "cash_on_hand": {
-            "primary": 467.5,
+            "primary": 635.98,
             "general": 0.0,
-            "total": 467.5
+            "total": 635.98
         }
     },
     "reports": [
+        {
+            "report": "04/21/2020 to 05/21/2020",
+            "id": 47972,
+            "type": "C5",
+            "start_date": "04/21/2020",
+            "end_date": "05/21/2020",
+            "unitemized_contributions": 120.0,
+            "num_contributions": 4,
+            "num_expenditures": 4,
+            "summary": {
+                "previous report": {
+                    "primary": 467.5,
+                    "general": 0.0,
+                    "total": 467.5
+                },
+                "Receipts": {
+                    "primary": 1208.31,
+                    "general": 0.0,
+                    "total": 1208.31
+                },
+                "Expenditures": {
+                    "primary": 1039.83,
+                    "general": 0.0,
+                    "total": 1039.83
+                },
+                "Ending Balance": {
+                    "primary": 635.98,
+                    "general": 0.0,
+                    "total": 635.98
+                },
+                "report_start_date": "04/21/2020",
+                "report_end_date": "05/21/2020"
+            }
+        },
         {
             "report": "03/20/2020 to 04/20/2020",
             "id": 47612,

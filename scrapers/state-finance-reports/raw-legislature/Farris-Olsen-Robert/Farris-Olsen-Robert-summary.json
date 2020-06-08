@@ -1,31 +1,79 @@
 {
     "slug": "Farris-Olsen-Robert",
     "candidateName": "Farris-Olsen, Robert ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 79",
     "partyDescr": "Democrat",
-    "periods": 4,
-    "receipts": 8455.0,
-    "expenditures": 1793.3600000000001,
-    "balance": 6661.64,
+    "periods": 6,
+    "receipts": 9035.0,
+    "expenditures": 7964.48,
+    "balance": 1070.52,
     "summary": {
         "contributions": {
-            "primary": 8455.0,
+            "primary": 9035.0,
             "general": 0.0,
-            "total": 8455.0
+            "total": 9035.0
         },
         "expenditures": {
-            "primary": 1793.3600000000001,
+            "primary": 7964.48,
             "general": 0.0,
-            "total": 1793.3600000000001
+            "total": 7964.48
         },
         "cash_on_hand": {
-            "primary": 6661.64,
+            "primary": 1070.52,
             "general": 0.0,
-            "total": 6661.64
+            "total": 1070.52
         }
     },
     "reports": [
+        {
+            "report": "05/21/2020 to 05/21/2020",
+            "id": 48391,
+            "type": "C7",
+            "start_date": "05/21/2020",
+            "end_date": "05/21/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/21/2020",
+                "report_end_date": "05/21/2020"
+            }
+        },
+        {
+            "report": "04/21/2020 to 05/20/2020",
+            "id": 48385,
+            "type": "C5",
+            "start_date": "04/21/2020",
+            "end_date": "05/20/2020",
+            "unitemized_contributions": 35.0,
+            "num_contributions": 8,
+            "num_expenditures": 9,
+            "summary": {
+                "previous report": {
+                    "primary": 6661.64,
+                    "general": 0.0,
+                    "total": 6661.64
+                },
+                "Receipts": {
+                    "primary": 580.0,
+                    "general": 0.0,
+                    "total": 580.0
+                },
+                "Expenditures": {
+                    "primary": 6171.12,
+                    "general": 0.0,
+                    "total": 6171.12
+                },
+                "Ending Balance": {
+                    "primary": 1070.52,
+                    "general": 0.0,
+                    "total": 1070.52
+                },
+                "report_start_date": "04/21/2020",
+                "report_end_date": "05/20/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/20/2020",
             "id": 47559,

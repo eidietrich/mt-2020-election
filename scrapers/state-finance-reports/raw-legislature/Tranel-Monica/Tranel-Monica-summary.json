@@ -1,31 +1,65 @@
 {
     "slug": "Tranel-Monica",
     "candidateName": "Tranel, Monica ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "Public Service Commission District No. 04",
     "partyDescr": "Democrat",
-    "periods": 4,
-    "receipts": 64412.32,
-    "expenditures": 28858.25,
-    "balance": 35554.07,
+    "periods": 5,
+    "receipts": 79896.65,
+    "expenditures": 57727.740000000005,
+    "balance": 22168.91,
     "summary": {
         "contributions": {
-            "primary": 58230.75,
-            "general": 6181.57,
-            "total": 64412.32
+            "primary": 73059.75,
+            "general": 6836.9,
+            "total": 79896.65
         },
         "expenditures": {
-            "primary": 28738.25,
-            "general": 120.0,
-            "total": 28858.25
+            "primary": 57587.740000000005,
+            "general": 140.0,
+            "total": 57727.740000000005
         },
         "cash_on_hand": {
-            "primary": 29492.5,
-            "general": 6061.57,
-            "total": 35554.07
+            "primary": 15472.01,
+            "general": 6696.9,
+            "total": 22168.91
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 47875,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 1094.33,
+            "num_contributions": 174,
+            "num_expenditures": 24,
+            "summary": {
+                "previous report": {
+                    "primary": 29492.5,
+                    "general": 6061.57,
+                    "total": 35554.07
+                },
+                "Receipts": {
+                    "primary": 14829.0,
+                    "general": 655.33,
+                    "total": 15484.33
+                },
+                "Expenditures": {
+                    "primary": 28849.49,
+                    "general": 20.0,
+                    "total": 28869.49
+                },
+                "Ending Balance": {
+                    "primary": 15472.01,
+                    "general": 6696.9,
+                    "total": 22168.91
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 46946,

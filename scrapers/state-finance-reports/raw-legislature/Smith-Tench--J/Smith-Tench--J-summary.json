@@ -1,31 +1,65 @@
 {
     "slug": "Smith-Tench--J",
     "candidateName": "Smith, Tench  J",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 47",
     "partyDescr": "Republican",
-    "periods": 2,
-    "receipts": 15880.0,
-    "expenditures": 917.01,
-    "balance": 14962.99,
+    "periods": 3,
+    "receipts": 16200.0,
+    "expenditures": 919.64,
+    "balance": 15280.36,
     "summary": {
         "contributions": {
             "primary": 0.0,
-            "general": 15880.0,
-            "total": 15880.0
+            "general": 16200.0,
+            "total": 16200.0
         },
         "expenditures": {
             "primary": 0.0,
-            "general": 917.01,
-            "total": 917.01
+            "general": 919.64,
+            "total": 919.64
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 14962.99,
-            "total": 14962.99
+            "general": 15280.36,
+            "total": 15280.36
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48091,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 20.0,
+            "num_contributions": 3,
+            "num_expenditures": 2,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 14962.99,
+                    "total": 14962.99
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 320.0,
+                    "total": 320.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 2.63,
+                    "total": 2.63
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 15280.36,
+                    "total": 15280.36
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/21/2020 to 04/15/2020",
             "id": 47089,

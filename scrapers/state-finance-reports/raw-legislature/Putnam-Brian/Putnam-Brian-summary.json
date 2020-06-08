@@ -1,31 +1,65 @@
 {
     "slug": "Putnam-Brian",
     "candidateName": "Putnam, Brian ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 09",
     "partyDescr": "Republican",
-    "periods": 2,
-    "receipts": 3689.33,
-    "expenditures": 3439.67,
-    "balance": 249.66,
+    "periods": 3,
+    "receipts": 6704.75,
+    "expenditures": 5353.4,
+    "balance": 1351.35,
     "summary": {
         "contributions": {
-            "primary": 3689.33,
+            "primary": 6704.75,
             "general": 0.0,
-            "total": 3689.33
+            "total": 6704.75
         },
         "expenditures": {
-            "primary": 3439.67,
+            "primary": 5353.4,
             "general": 0.0,
-            "total": 3439.67
+            "total": 5353.4
         },
         "cash_on_hand": {
-            "primary": 249.66,
+            "primary": 1351.35,
             "general": 0.0,
-            "total": 249.66
+            "total": 1351.35
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 47667,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 12,
+            "num_expenditures": 15,
+            "summary": {
+                "previous report": {
+                    "primary": 249.66,
+                    "general": 0.0,
+                    "total": 249.66
+                },
+                "Receipts": {
+                    "primary": 3015.42,
+                    "general": 0.0,
+                    "total": 3015.42
+                },
+                "Expenditures": {
+                    "primary": 1913.73,
+                    "general": 0.0,
+                    "total": 1913.73
+                },
+                "Ending Balance": {
+                    "primary": 1351.35,
+                    "general": 0.0,
+                    "total": 1351.35
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47298,

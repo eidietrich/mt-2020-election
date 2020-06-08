@@ -15,8 +15,9 @@ def open_json(path):
         return json.load(f)
 
 # candidate_id = 16074 # "Arntzen, Elsie "
-candidate_id = 16070 # cooney
+# candidate_id = 16070 # cooney
 # candidate_id = 16062 # Downing
+candidate_id = 16071
 candidates = open_json('scrapers/state-finance-reports/raw/candidates.json')
 candidate = [c for c in candidates if c['candidateId'] == candidate_id][0]
 # data = {
@@ -29,4 +30,4 @@ candidate = [c for c in candidates if c['candidateId'] == candidate_id][0]
 #         "officeTitle": "Superintendent of Public Instruction",
 #         "candidateStatusDescr": "Amended"
 # }
-c = Candidate(candidate, checkCache=False) # Runs scrape
+c = Candidate(candidate) # Runs scrape

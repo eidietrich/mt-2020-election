@@ -96,6 +96,38 @@ checkFederalReportingPeriodCompleteness(activeFederalCandidates, federalContribu
 //     Processing ${stateContributions.length} contributions, ${stateExpenditures.length} expenditures
 //     `)
 const stateFinanceSummaries = makeStateCandidateSummaries(activeStateCandidates, stateFinance.summaries, stateContributions, stateExpenditures)
+const abbreviatedStateSummaries = stateFinanceSummaries.map(({
+    key,
+    totalRaised,
+    totalSpent,
+    itemizedIndividual,
+    itemizedCommittees,
+    itemizedSelfFinance,
+    unitemized,
+    numIndividualContributions,
+    numIndividualContributionsAtLimit,
+    percentIndividualFromMontana,
+    numReportingPeriods,
+    firstReportingDate,
+    lastReportingDate,
+    contributionLimit
+}) => ({
+    key,
+    totalRaised,
+    totalSpent,
+    itemizedIndividual,
+    itemizedCommittees,
+    itemizedSelfFinance,
+    unitemized,
+    numIndividualContributions,
+    numIndividualContributionsAtLimit,
+    percentIndividualFromMontana,
+    numReportingPeriods,
+    firstReportingDate,
+    lastReportingDate,
+    contributionLimit
+}))
+writeJson('./process/state-candidate-summary.json', abbreviatedStateSummaries)
 // console.log(
 //     `\n## Federal Finance:
 //     Processing ${federalContributions.length} contributions, ${federalExpenditures.length} expenditures

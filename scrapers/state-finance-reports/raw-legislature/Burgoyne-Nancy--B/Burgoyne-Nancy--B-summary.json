@@ -1,7 +1,7 @@
 {
     "slug": "Burgoyne-Nancy--B",
     "candidateName": "Burgoyne, Nancy  B",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 98",
     "partyDescr": "Republican",
     "periods": 2,
@@ -27,11 +27,11 @@
     },
     "reports": [
         {
-            "report": "03/21/2020 to 04/15/2020",
+            "report": "03/21/2020 to 05/20/2020",
             "id": 47695,
             "type": "C5",
             "start_date": "03/21/2020",
-            "end_date": "04/15/2020",
+            "end_date": "05/20/2020",
             "unitemized_contributions": 0.0,
             "num_contributions": 0,
             "num_expenditures": 0,

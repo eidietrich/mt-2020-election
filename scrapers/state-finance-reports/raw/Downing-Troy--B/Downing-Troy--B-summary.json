@@ -1,31 +1,93 @@
 {
     "slug": "Downing-Troy--B",
     "candidateName": "Downing, Troy  B",
-    "scrape_date": "2020-05-03",
+    "scrape_date": "2020-05-26",
     "officeTitle": "State Auditor",
     "partyDescr": "Republican",
-    "periods": 5,
-    "receipts": 115708.0,
-    "expenditures": 39412.93,
-    "balance": 76295.07,
+    "periods": 8,
+    "receipts": 131558.0,
+    "expenditures": 115436.01000000001,
+    "balance": 16121.99,
     "summary": {
         "contributions": {
-            "primary": 104708.0,
-            "general": 11000.0,
-            "total": 115708.0
+            "primary": 118558.0,
+            "general": 13000.0,
+            "total": 131558.0
         },
         "expenditures": {
-            "primary": 39412.93,
+            "primary": 115436.01000000001,
             "general": 0.0,
-            "total": 39412.93
+            "total": 115436.01000000001
         },
         "cash_on_hand": {
-            "primary": 65295.07,
-            "general": 11000.0,
-            "total": 76295.07
+            "primary": 3121.99,
+            "general": 13000.0,
+            "total": 16121.99
         }
     },
     "reports": [
+        {
+            "report": "05/20/2020 to 05/22/2020",
+            "id": 48536,
+            "type": "C7E",
+            "start_date": "05/20/2020",
+            "end_date": "05/22/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/20/2020",
+                "report_end_date": "05/22/2020"
+            }
+        },
+        {
+            "report": "05/20/2020 to 05/21/2020",
+            "id": 48533,
+            "type": "C7",
+            "start_date": "05/20/2020",
+            "end_date": "05/21/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/20/2020",
+                "report_end_date": "05/21/2020"
+            }
+        },
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 48266,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 75.0,
+            "num_contributions": 47,
+            "num_expenditures": 11,
+            "summary": {
+                "previous report": {
+                    "primary": 65295.07,
+                    "general": 11000.0,
+                    "total": 76295.07
+                },
+                "Receipts": {
+                    "primary": 13850.0,
+                    "general": 2000.0,
+                    "total": 15850.0
+                },
+                "Expenditures": {
+                    "primary": 76023.08,
+                    "general": 0.0,
+                    "total": 76023.08
+                },
+                "Ending Balance": {
+                    "primary": 3121.99,
+                    "general": 13000.0,
+                    "total": 16121.99
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47481,

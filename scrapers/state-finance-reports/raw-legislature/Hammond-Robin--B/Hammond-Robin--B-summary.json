@@ -1,31 +1,99 @@
 {
     "slug": "Hammond-Robin--B",
     "candidateName": "Hammond, Robin  B",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "District Judge, District 04 Dept. 04",
     "partyDescr": "Non-Partisan",
-    "periods": 2,
-    "receipts": 1280.0,
-    "expenditures": 40.28,
-    "balance": 1239.72,
+    "periods": 4,
+    "receipts": 2265.0,
+    "expenditures": 63.0,
+    "balance": 2202.0,
     "summary": {
         "contributions": {
             "primary": 0.0,
-            "general": 1280.0,
-            "total": 1280.0
+            "general": 2265.0,
+            "total": 2265.0
         },
         "expenditures": {
             "primary": 0.0,
-            "general": 40.28,
-            "total": 40.28
+            "general": 63.0,
+            "total": 63.0
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 1239.72,
-            "total": 1239.72
+            "general": 2202.0,
+            "total": 2202.0
         }
     },
     "reports": [
+        {
+            "report": "05/16/2020 to 05/16/2020",
+            "id": 48377,
+            "type": "C5",
+            "start_date": "05/16/2020",
+            "end_date": "05/16/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 1,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 2022.0,
+                    "total": 2022.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 180.0,
+                    "total": 180.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 2202.0,
+                    "total": 2202.0
+                },
+                "report_start_date": "05/16/2020",
+                "report_end_date": "05/16/2020"
+            }
+        },
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48332,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 60.0,
+            "num_contributions": 12,
+            "num_expenditures": 9,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 1239.72,
+                    "total": 1239.72
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 805.0,
+                    "total": 805.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 22.72,
+                    "total": 22.72
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 2022.0,
+                    "total": 2022.0
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47638,

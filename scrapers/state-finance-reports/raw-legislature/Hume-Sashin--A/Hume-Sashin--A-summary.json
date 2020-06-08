@@ -1,7 +1,7 @@
 {
     "slug": "Hume-Sashin--A",
     "candidateName": "Hume, Sashin  A",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 87",
     "partyDescr": "Republican",
     "periods": 4,
@@ -27,11 +27,11 @@
     },
     "reports": [
         {
-            "report": "03/16/2020 to 04/15/2020",
+            "report": "03/16/2020 to 05/15/2020",
             "id": 47478,
             "type": "C5",
             "start_date": "03/16/2020",
-            "end_date": "04/15/2020",
+            "end_date": "05/15/2020",
             "unitemized_contributions": 0.0,
             "num_contributions": 5,
             "num_expenditures": 2,

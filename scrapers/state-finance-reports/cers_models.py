@@ -22,6 +22,7 @@ import pandas as pd
 from io import StringIO
 
 from datetime import date
+from datetime import datetime
 from dateutil.parser import parse
 
 import os
@@ -33,17 +34,12 @@ from bs4 import BeautifulSoup
 # Hacky - Alternative reports for places where CERS is choking
 # id: filename: filePath (.csv downloaded from CERS on a good day)
 MANUAL_CACHES = {
-    46959: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-46959-cooney-q12020-contributions.csv', # Cooney Q1 2020, which is sticking
     46348: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-46348-cooney-q42019-contributions.csv',
     45786: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-45786-cooney-q32019-contributions.csv',
+    46959: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-46959-cooney-q12020-contributions.csv',
+    47635: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-47635-cooney-apr2020-contributions.csv',
+    48320: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-48320-cooney-may2020-contributions.csv',
 }
-
-
-
-
-
-
-
 
 class CandidateList:
     """List of candidates from specific search
@@ -346,6 +342,17 @@ class Report:
             if writeCache:
                 if not os.path.exists(cachePath): os.makedirs(cachePath)
                 self.export(filePath)     
+        elif (self.type == 'C7'):
+            print('C7 - TODO: Finish implementing parsing code')
+            # Temporary
+            self.expenditures = pd.DataFrame()
+            self.contributions = pd.DataFrame()
+            self.unitemized_contributions = 0
+            self.summary = {
+                'report_start_date': self.start_date,
+                'report_end_date': self.end_date,
+            }
+            # self._get_c7_data_from_scrape()   
         else:
             # TODO - figure out how to handle non C-5 reports
             print('Warning - unhandled report type', self.type, self.id)
@@ -359,7 +366,7 @@ class Report:
             
     
     def _get_c5_data_from_cache(self, filePath):
-        print(f'From cache, loading C5 {self.start_date}-{self.end_date} ({self.id})')
+        print(f'--- From cache, loading C5 {self.start_date}-{self.end_date} ({self.id})')
         with open(filePath) as f:
             cache = json.load(f)
         self.summary = cache['summary']
@@ -388,6 +395,90 @@ class Report:
             self.expenditures = self._fetch_expenditures_schedule()
             # TODO - move this to cleaning step?
             self.unitemized_contributions = self._calc_unitemized_contributions()
+
+    def _get_c7_data_from_scrape(self):
+        print(f'Fetching C7 {self.start_date}-{self.end_date} ({self.id})')
+
+        post_url = 'https://cers-ext.mt.gov/CampaignTracker/public/viewFinanceReport/retrieveReport'
+        post_payload = {
+            'candidateId': self.data['candidateId'],
+            'reportId': self.id,
+            'searchPage': 'public'
+        }
+        session = requests.Session()
+        p = session.post(post_url, post_payload)
+
+        detail = session.post(
+            'https://cers-ext.mt.gov/CampaignTracker/public/viewFinanceReport/financeRepDetailList',
+            {
+                'listName': "individual",
+            }
+        )
+        
+        print('TODO: Add address parsing to C7 code')
+        print('TODO: Set up C7 code so it parses more than just individual C7 reports')
+        # Reshape data to match form of C5 itemized records
+        cleaned = []
+        for row in detail.json():
+            address = row['entityAddress'].split(',')
+            city = address[1].strip()
+            # print('address', address)
+            # Magic date conversion!
+            date  = datetime.fromtimestamp(row['datePaid'] / 1000).strftime('%m/%d/%y')
+            if (row['cashAmt'] > 0 and row['inKindAmt'] > 0):
+                amount_type = 'Mixed'
+            elif (row['cashAmt'] > 0):
+                amount_type = 'CA'
+            elif (row['inKindAmt'] > 0):
+                amount_type = 'IK'
+            cleaned.append({
+                'Candidate': 'TK',
+                'Reporting Period': self.label,
+                'Date Paid': date,
+                'Entity Name': row['entityName'],
+                'First Name' : '',
+                'Middle Initial': '',
+                'Last Name': '',
+                'Addr Line1': address[0],
+                'City': 'TK',
+                'State': 'TK',
+                'Zip': 'TK',
+                'Zip4': 'TK',
+                'Country': 'TK',
+                'Occupation': row['occupationDescr'],
+                'Employer': row['employerDescr'],
+                'Contribution Type': row['lineItemCompositeDescr'],
+                'Amount': row['totalAmt'],
+                'Amount Type': amount_type,
+                'Purpose': row['purposeDescr'],
+                'Election Type': row['amountTypeDescr'],
+                'Total Primary': row['totalToDatePrimary'],
+                'Total General': row['totalToDateGeneral'],
+                'Refund Transaction Type': '',
+                'Refund Original Transaction Date': row['refundOrigTransDate'],
+                'Refund Original Transaction Total': row['refundOrigTransTotalVal'],
+                'Refund Original Transaction Descr': row['refundOrigTransDesc'],
+                'Previous Transaction (Y/N)': row['previousTransactionInd'],
+                'Fundraiser Name': row['fundraiserName'],
+                'Fundraiser Location': row['fundraiserLocation'],
+                'Fundraiser Attendees': row['fundraiserAttendees'],
+                'Fundraiser Tickets Sold': row['fundraiserTicketsSold'],
+            })
+
+
+        print('C',pd.DataFrame(individual).iloc[3])
+
+        print('B',pd.DataFrame(cleaned).iloc[3])
+
+        # Null contents
+        self.expenditures = pd.DataFrame()
+        self.contributions = pd.DataFrame()
+        self.unitemized_contributions = 0
+        self.summary = {
+            'report_start_date': self.start_date,
+            'report_end_date': self.end_date,
+        }
+        print('---FINISH THIS---\n\n')
 
     def export(self, filePath):
         output = {

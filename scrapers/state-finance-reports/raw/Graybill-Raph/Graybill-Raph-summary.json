@@ -1,31 +1,93 @@
 {
     "slug": "Graybill-Raph",
     "candidateName": "Graybill, Raph ",
-    "scrape_date": "2020-05-03",
+    "scrape_date": "2020-05-26",
     "officeTitle": "Attorney General",
     "partyDescr": "Democrat",
-    "periods": 5,
-    "receipts": 281916.82,
-    "expenditures": 50412.0,
-    "balance": 231504.82,
+    "periods": 8,
+    "receipts": 313503.43,
+    "expenditures": 215584.02,
+    "balance": 97919.41,
     "summary": {
         "contributions": {
-            "primary": 219439.82,
-            "general": 62477.0,
-            "total": 281916.82
+            "primary": 247286.43,
+            "general": 66217.0,
+            "total": 313503.43
         },
         "expenditures": {
-            "primary": 48522.68,
-            "general": 1889.3200000000002,
-            "total": 50412.0
+            "primary": 213590.1,
+            "general": 1993.92,
+            "total": 215584.02
         },
         "cash_on_hand": {
-            "primary": 170917.14,
-            "general": 60587.68,
-            "total": 231504.82
+            "primary": 33696.33,
+            "general": 64223.08,
+            "total": 97919.41
         }
     },
     "reports": [
+        {
+            "report": "05/23/2020 to 05/25/2020",
+            "id": 48589,
+            "type": "C7",
+            "start_date": "05/23/2020",
+            "end_date": "05/25/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/23/2020",
+                "report_end_date": "05/25/2020"
+            }
+        },
+        {
+            "report": "05/19/2020 to 05/20/2020",
+            "id": 48434,
+            "type": "C7",
+            "start_date": "05/19/2020",
+            "end_date": "05/20/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/19/2020",
+                "report_end_date": "05/20/2020"
+            }
+        },
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 48349,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 3673.6100000000006,
+            "num_contributions": 304,
+            "num_expenditures": 19,
+            "summary": {
+                "previous report": {
+                    "primary": 170917.14,
+                    "general": 60587.68,
+                    "total": 231504.82
+                },
+                "Receipts": {
+                    "primary": 27846.61,
+                    "general": 3740.0,
+                    "total": 31586.61
+                },
+                "Expenditures": {
+                    "primary": 165067.42,
+                    "general": 104.6,
+                    "total": 165172.02
+                },
+                "Ending Balance": {
+                    "primary": 33696.33,
+                    "general": 64223.08,
+                    "total": 97919.41
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47300,

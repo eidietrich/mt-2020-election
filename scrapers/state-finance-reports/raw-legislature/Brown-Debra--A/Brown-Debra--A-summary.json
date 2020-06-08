@@ -1,31 +1,65 @@
 {
     "slug": "Brown-Debra--A",
     "candidateName": "Brown, Debra  A",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "Senate District No. 35",
     "partyDescr": "Republican",
-    "periods": 2,
-    "receipts": 0.0,
-    "expenditures": 0.0,
-    "balance": 0.0,
+    "periods": 3,
+    "receipts": 410.0,
+    "expenditures": 247.89,
+    "balance": 162.11,
     "summary": {
         "contributions": {
-            "primary": 0.0,
+            "primary": 410.0,
             "general": 0.0,
-            "total": 0.0
+            "total": 410.0
         },
         "expenditures": {
-            "primary": 0.0,
+            "primary": 247.89,
             "general": 0.0,
-            "total": 0.0
+            "total": 247.89
         },
         "cash_on_hand": {
-            "primary": 0.0,
+            "primary": 162.11,
             "general": 0.0,
-            "total": 0.0
+            "total": 162.11
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 48387,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 50.0,
+            "num_contributions": 5,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 410.0,
+                    "general": 0.0,
+                    "total": 410.0
+                },
+                "Expenditures": {
+                    "primary": 247.89,
+                    "general": 0.0,
+                    "total": 247.89
+                },
+                "Ending Balance": {
+                    "primary": 162.11,
+                    "general": 0.0,
+                    "total": 162.11
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47557,

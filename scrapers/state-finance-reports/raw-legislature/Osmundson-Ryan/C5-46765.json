@@ -23,7 +23,7 @@
         "report_start_date": "01/04/2020",
         "report_end_date": "03/17/2020"
     },
-    "contributions": "[{\"Date Paid\":\"03\\/13\\/2020\",\"Entity Name\":\"CRH Americas, Inc PAC\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"800 Maine Avenue SW, STE 800 West\",\"City\":\"Washington\",\"State\":\"DC\",\"Zip\":20024,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":5,\"Amount\":100.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":100.0,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "contributions": "[{\"Date Paid\":\"03\\/13\\/2020\",\"Entity Name\":\"CRH Americas, Inc PAC\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"800 Maine Avenue SW, STE 800 West\",\"City\":\"Washington\",\"State\":\"DC\",\"Zip\":20024,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":5,\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":100,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
     "expenditures": "[]",
     "unitemized_contributions": 0.0
 }

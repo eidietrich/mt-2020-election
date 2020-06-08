@@ -1,31 +1,65 @@
 {
     "slug": "Allen-Jennifer",
     "candidateName": "Allen, Jennifer ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 10",
     "partyDescr": "Democrat",
-    "periods": 2,
-    "receipts": 3267.98,
-    "expenditures": 1318.23,
-    "balance": 1949.75,
+    "periods": 3,
+    "receipts": 4557.98,
+    "expenditures": 2212.65,
+    "balance": 2345.33,
     "summary": {
         "contributions": {
             "primary": 0.0,
-            "general": 3267.98,
-            "total": 3267.98
+            "general": 4557.98,
+            "total": 4557.98
         },
         "expenditures": {
             "primary": 0.0,
-            "general": 1318.23,
-            "total": 1318.23
+            "general": 2212.65,
+            "total": 2212.65
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 1949.75,
-            "total": 1949.75
+            "general": 2345.33,
+            "total": 2345.33
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 47720,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 120.0,
+            "num_contributions": 11,
+            "num_expenditures": 8,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 1949.75,
+                    "total": 1949.75
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 1290.0,
+                    "total": 1290.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 894.42,
+                    "total": 894.42
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 2345.33,
+                    "total": 2345.33
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 46999,

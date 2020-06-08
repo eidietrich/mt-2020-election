@@ -1,31 +1,65 @@
 {
     "slug": "hawk-donavon--d",
     "candidateName": "hawk, donavon  d",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 76",
     "partyDescr": "Democrat",
-    "periods": 3,
-    "receipts": 8675.0,
-    "expenditures": 5192.14,
-    "balance": 3482.86,
+    "periods": 4,
+    "receipts": 9575.15,
+    "expenditures": 6384.280000000001,
+    "balance": 3187.89,
     "summary": {
         "contributions": {
-            "primary": 8675.0,
+            "primary": 9575.15,
             "general": 0.0,
-            "total": 8675.0
+            "total": 9575.15
         },
         "expenditures": {
-            "primary": 5192.14,
+            "primary": 6384.280000000001,
             "general": 0.0,
-            "total": 5192.14
+            "total": 6384.280000000001
         },
         "cash_on_hand": {
-            "primary": 3482.86,
+            "primary": 3187.89,
             "general": 0.0,
-            "total": 3482.86
+            "total": 3187.89
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48090,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 25.149999999999977,
+            "num_contributions": 12,
+            "num_expenditures": 12,
+            "summary": {
+                "previous report": {
+                    "primary": 3479.88,
+                    "general": 0.0,
+                    "total": 3479.88
+                },
+                "Receipts": {
+                    "primary": 900.15,
+                    "general": 0.0,
+                    "total": 900.15
+                },
+                "Expenditures": {
+                    "primary": 1192.14,
+                    "general": 0.0,
+                    "total": 1192.14
+                },
+                "Ending Balance": {
+                    "primary": 3187.89,
+                    "general": 0.0,
+                    "total": 3187.89
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47384,

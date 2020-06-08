@@ -1,31 +1,65 @@
 {
     "slug": "Bennett-Bryce",
     "candidateName": "Bennett, Bryce ",
-    "scrape_date": "2020-05-03",
+    "scrape_date": "2020-05-26",
     "officeTitle": "Secretary of State",
     "partyDescr": "Democrat",
-    "periods": 5,
-    "receipts": 154468.7,
-    "expenditures": 44789.60999999999,
-    "balance": 109679.09,
+    "periods": 6,
+    "receipts": 175052.58000000002,
+    "expenditures": 48284.45999999999,
+    "balance": 126768.12,
     "summary": {
         "contributions": {
             "primary": 4533.0,
-            "general": 149935.7,
-            "total": 154468.7
+            "general": 170519.58000000002,
+            "total": 175052.58000000002
         },
         "expenditures": {
-            "primary": 300.0,
-            "general": 44489.60999999999,
-            "total": 44789.60999999999
+            "primary": 1253.0,
+            "general": 47031.45999999999,
+            "total": 48284.45999999999
         },
         "cash_on_hand": {
-            "primary": 4233.0,
-            "general": 105446.09,
-            "total": 109679.09
+            "primary": 3280.0,
+            "general": 123488.12,
+            "total": 126768.12
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 48250,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 2025.880000000001,
+            "num_contributions": 203,
+            "num_expenditures": 17,
+            "summary": {
+                "previous report": {
+                    "primary": 4233.0,
+                    "general": 105446.09,
+                    "total": 109679.09
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 20583.88,
+                    "total": 20583.88
+                },
+                "Expenditures": {
+                    "primary": 953.0,
+                    "general": 2541.85,
+                    "total": 3494.85
+                },
+                "Ending Balance": {
+                    "primary": 3280.0,
+                    "general": 123488.12,
+                    "total": 126768.12
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47352,

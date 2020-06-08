@@ -1,31 +1,65 @@
 {
     "slug": "Stromswold-Mallerie",
     "candidateName": "Stromswold, Mallerie ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 50",
     "partyDescr": "Republican",
-    "periods": 4,
-    "receipts": 8130.0,
-    "expenditures": 4457.650000000001,
-    "balance": 3672.35,
+    "periods": 5,
+    "receipts": 8330.0,
+    "expenditures": 5099.35,
+    "balance": 3230.65,
     "summary": {
         "contributions": {
-            "primary": 7950.0,
+            "primary": 8150.0,
             "general": 180.0,
-            "total": 8130.0
+            "total": 8330.0
         },
         "expenditures": {
-            "primary": 4457.650000000001,
-            "general": 0.0,
-            "total": 4457.650000000001
+            "primary": 4919.35,
+            "general": 180.0,
+            "total": 5099.35
         },
         "cash_on_hand": {
-            "primary": 3492.35,
-            "general": 180.0,
-            "total": 3672.35
+            "primary": 3230.65,
+            "general": 0.0,
+            "total": 3230.65
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 48034,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 3,
+            "num_expenditures": 6,
+            "summary": {
+                "previous report": {
+                    "primary": 3492.35,
+                    "general": 180.0,
+                    "total": 3672.35
+                },
+                "Receipts": {
+                    "primary": 200.0,
+                    "general": 0.0,
+                    "total": 200.0
+                },
+                "Expenditures": {
+                    "primary": 461.7,
+                    "general": 180.0,
+                    "total": 641.7
+                },
+                "Ending Balance": {
+                    "primary": 3230.65,
+                    "general": 0.0,
+                    "total": 3230.65
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47382,

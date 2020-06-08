@@ -1,31 +1,65 @@
 {
     "slug": "Abbott-Kim",
     "candidateName": "Abbott, Kim ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 83",
     "partyDescr": "Democrat",
-    "periods": 2,
-    "receipts": 2020.0,
-    "expenditures": 336.94,
-    "balance": 1683.06,
+    "periods": 3,
+    "receipts": 2295.0,
+    "expenditures": 339.91,
+    "balance": 1955.09,
     "summary": {
         "contributions": {
             "primary": 0.0,
-            "general": 2020.0,
-            "total": 2020.0
+            "general": 2295.0,
+            "total": 2295.0
         },
         "expenditures": {
             "primary": 0.0,
-            "general": 336.94,
-            "total": 336.94
+            "general": 339.91,
+            "total": 339.91
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 1683.06,
-            "total": 1683.06
+            "general": 1955.09,
+            "total": 1955.09
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48339,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 25.0,
+            "num_contributions": 3,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 1683.06,
+                    "total": 1683.06
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 275.0,
+                    "total": 275.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 2.97,
+                    "total": 2.97
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 1955.09,
+                    "total": 1955.09
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47579,

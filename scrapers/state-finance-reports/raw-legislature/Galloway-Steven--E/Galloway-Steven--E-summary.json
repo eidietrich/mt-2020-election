@@ -1,31 +1,65 @@
 {
     "slug": "Galloway-Steven--E",
     "candidateName": "Galloway, Steven  E",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 24",
     "partyDescr": "Republican",
-    "periods": 2,
-    "receipts": 625.0,
-    "expenditures": 64.28,
-    "balance": 560.72,
+    "periods": 3,
+    "receipts": 5925.0,
+    "expenditures": 1204.56,
+    "balance": 4720.44,
     "summary": {
         "contributions": {
             "primary": 0.0,
-            "general": 625.0,
-            "total": 625.0
+            "general": 5925.0,
+            "total": 5925.0
         },
         "expenditures": {
             "primary": 0.0,
-            "general": 64.28,
-            "total": 64.28
+            "general": 1204.56,
+            "total": 1204.56
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 560.72,
-            "total": 560.72
+            "general": 4720.44,
+            "total": 4720.44
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48401,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 5,
+            "num_expenditures": 3,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 560.72,
+                    "total": 560.72
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 5300.0,
+                    "total": 5300.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 1140.28,
+                    "total": 1140.28
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 4720.44,
+                    "total": 4720.44
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/21/2020 to 04/15/2020",
             "id": 47546,

@@ -1,31 +1,79 @@
 {
     "slug": "Chamberlin-Randall",
     "candidateName": "Chamberlin, Randall ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 64",
     "partyDescr": "Republican",
-    "periods": 2,
-    "receipts": 12715.0,
-    "expenditures": 5186.53,
-    "balance": 7528.47,
+    "periods": 4,
+    "receipts": 14240.0,
+    "expenditures": 12332.25,
+    "balance": 1907.75,
     "summary": {
         "contributions": {
-            "primary": 12575.0,
+            "primary": 14100.0,
             "general": 140.0,
-            "total": 12715.0
+            "total": 14240.0
         },
         "expenditures": {
-            "primary": 5186.53,
+            "primary": 12332.25,
             "general": 0.0,
-            "total": 5186.53
+            "total": 12332.25
         },
         "cash_on_hand": {
-            "primary": 7388.47,
+            "primary": 1767.75,
             "general": 140.0,
-            "total": 7528.47
+            "total": 1907.75
         }
     },
     "reports": [
+        {
+            "report": "05/19/2020 to 05/20/2020",
+            "id": 48376,
+            "type": "C7",
+            "start_date": "05/19/2020",
+            "end_date": "05/20/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/19/2020",
+                "report_end_date": "05/20/2020"
+            }
+        },
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 47918,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 13,
+            "num_expenditures": 6,
+            "summary": {
+                "previous report": {
+                    "primary": 7388.47,
+                    "general": 140.0,
+                    "total": 7528.47
+                },
+                "Receipts": {
+                    "primary": 1525.0,
+                    "general": 0.0,
+                    "total": 1525.0
+                },
+                "Expenditures": {
+                    "primary": 7145.72,
+                    "general": 0.0,
+                    "total": 7145.72
+                },
+                "Ending Balance": {
+                    "primary": 1767.75,
+                    "general": 140.0,
+                    "total": 1907.75
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 46835,

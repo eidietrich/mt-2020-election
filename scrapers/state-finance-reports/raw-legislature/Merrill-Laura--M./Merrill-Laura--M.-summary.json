@@ -1,31 +1,65 @@
 {
     "slug": "Merrill-Laura--M.",
     "candidateName": "Merrill, Laura  M.",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 87",
     "partyDescr": "Democrat",
-    "periods": 2,
-    "receipts": 4285.0,
-    "expenditures": 550.97,
-    "balance": 3734.03,
+    "periods": 3,
+    "receipts": 5615.0,
+    "expenditures": 656.8100000000001,
+    "balance": 4958.19,
     "summary": {
         "contributions": {
-            "primary": 4285.0,
+            "primary": 5615.0,
             "general": 0.0,
-            "total": 4285.0
+            "total": 5615.0
         },
         "expenditures": {
-            "primary": 550.97,
+            "primary": 656.8100000000001,
             "general": 0.0,
-            "total": 550.97
+            "total": 656.8100000000001
         },
         "cash_on_hand": {
-            "primary": 3734.03,
+            "primary": 4958.19,
             "general": 0.0,
-            "total": 3734.03
+            "total": 4958.19
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 47835,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 10,
+            "num_expenditures": 2,
+            "summary": {
+                "previous report": {
+                    "primary": 3734.03,
+                    "general": 0.0,
+                    "total": 3734.03
+                },
+                "Receipts": {
+                    "primary": 1330.0,
+                    "general": 0.0,
+                    "total": 1330.0
+                },
+                "Expenditures": {
+                    "primary": 105.84,
+                    "general": 0.0,
+                    "total": 105.84
+                },
+                "Ending Balance": {
+                    "primary": 4958.19,
+                    "general": 0.0,
+                    "total": 4958.19
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 46870,

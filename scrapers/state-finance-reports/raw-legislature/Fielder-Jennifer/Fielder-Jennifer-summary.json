@@ -1,31 +1,65 @@
 {
     "slug": "Fielder-Jennifer",
     "candidateName": "Fielder, Jennifer ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "Public Service Commission District No. 04",
     "partyDescr": "Republican",
-    "periods": 2,
-    "receipts": 8825.0,
-    "expenditures": 7064.43,
-    "balance": 1760.57,
+    "periods": 3,
+    "receipts": 27338.0,
+    "expenditures": 25429.85,
+    "balance": 1908.15,
     "summary": {
         "contributions": {
-            "primary": 8445.0,
-            "general": 380.0,
-            "total": 8825.0
+            "primary": 26708.0,
+            "general": 630.0,
+            "total": 27338.0
         },
         "expenditures": {
-            "primary": 7064.43,
+            "primary": 25429.85,
             "general": 0.0,
-            "total": 7064.43
+            "total": 25429.85
         },
         "cash_on_hand": {
-            "primary": 1380.57,
-            "general": 380.0,
-            "total": 1760.57
+            "primary": 1278.15,
+            "general": 630.0,
+            "total": 1908.15
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 47959,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 2383.0,
+            "num_contributions": 83,
+            "num_expenditures": 6,
+            "summary": {
+                "previous report": {
+                    "primary": 1380.57,
+                    "general": 380.0,
+                    "total": 1760.57
+                },
+                "Receipts": {
+                    "primary": 18263.0,
+                    "general": 250.0,
+                    "total": 18513.0
+                },
+                "Expenditures": {
+                    "primary": 18365.42,
+                    "general": 0.0,
+                    "total": 18365.42
+                },
+                "Ending Balance": {
+                    "primary": 1278.15,
+                    "general": 630.0,
+                    "total": 1908.15
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47502,

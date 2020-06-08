@@ -1,7 +1,7 @@
 {
     "slug": "Fitzgerald-Ross--H",
     "candidateName": "Fitzgerald, Ross  H",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 17",
     "partyDescr": "Republican",
     "periods": 1,
@@ -27,11 +27,11 @@
     },
     "reports": [
         {
-            "report": "01/13/2020 to 04/15/2020",
+            "report": "01/13/2020 to 05/15/2020",
             "id": 46668,
             "type": "C5",
             "start_date": "01/13/2020",
-            "end_date": "04/15/2020",
+            "end_date": "05/15/2020",
             "unitemized_contributions": 0.0,
             "num_contributions": 6,
             "num_expenditures": 0,

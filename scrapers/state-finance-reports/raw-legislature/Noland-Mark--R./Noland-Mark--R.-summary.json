@@ -1,31 +1,65 @@
 {
     "slug": "Noland-Mark--R.",
     "candidateName": "Noland, Mark  R.",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 10",
     "partyDescr": "Republican",
-    "periods": 2,
-    "receipts": 3960.0,
-    "expenditures": 3211.84,
-    "balance": 748.16,
+    "periods": 3,
+    "receipts": 10410.0,
+    "expenditures": 10070.57,
+    "balance": 339.43,
     "summary": {
         "contributions": {
-            "primary": 3960.0,
+            "primary": 10410.0,
             "general": 0.0,
-            "total": 3960.0
+            "total": 10410.0
         },
         "expenditures": {
-            "primary": 3211.84,
+            "primary": 10070.57,
             "general": 0.0,
-            "total": 3211.84
+            "total": 10070.57
         },
         "cash_on_hand": {
-            "primary": 748.16,
+            "primary": 339.43,
             "general": 0.0,
-            "total": 748.16
+            "total": 339.43
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 47460,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 25.0,
+            "num_contributions": 20,
+            "num_expenditures": 15,
+            "summary": {
+                "previous report": {
+                    "primary": 748.16,
+                    "general": 0.0,
+                    "total": 748.16
+                },
+                "Receipts": {
+                    "primary": 6450.0,
+                    "general": 0.0,
+                    "total": 6450.0
+                },
+                "Expenditures": {
+                    "primary": 6858.73,
+                    "general": 0.0,
+                    "total": 6858.73
+                },
+                "Ending Balance": {
+                    "primary": 339.43,
+                    "general": 0.0,
+                    "total": 339.43
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47238,

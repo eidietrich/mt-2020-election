@@ -1,31 +1,79 @@
 {
     "slug": "Herak-Bryher",
     "candidateName": "Herak, Bryher ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 75",
     "partyDescr": "Democrat",
-    "periods": 2,
-    "receipts": 2420.0,
-    "expenditures": 244.26,
-    "balance": 2175.74,
+    "periods": 4,
+    "receipts": 2891.0,
+    "expenditures": 402.19,
+    "balance": 2488.81,
     "summary": {
         "contributions": {
-            "primary": 2420.0,
+            "primary": 2891.0,
             "general": 0.0,
-            "total": 2420.0
+            "total": 2891.0
         },
         "expenditures": {
-            "primary": 244.26,
+            "primary": 402.19,
             "general": 0.0,
-            "total": 244.26
+            "total": 402.19
         },
         "cash_on_hand": {
-            "primary": 2175.74,
+            "primary": 2488.81,
             "general": 0.0,
-            "total": 2175.74
+            "total": 2488.81
         }
     },
     "reports": [
+        {
+            "report": "05/16/2020 to 05/19/2020",
+            "id": 48191,
+            "type": "C7",
+            "start_date": "05/16/2020",
+            "end_date": "05/19/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/16/2020",
+                "report_end_date": "05/19/2020"
+            }
+        },
+        {
+            "report": "04/18/2020 to 05/15/2020",
+            "id": 47585,
+            "type": "C5",
+            "start_date": "04/18/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 11.0,
+            "num_contributions": 4,
+            "num_expenditures": 3,
+            "summary": {
+                "previous report": {
+                    "primary": 2175.74,
+                    "general": 0.0,
+                    "total": 2175.74
+                },
+                "Receipts": {
+                    "primary": 471.0,
+                    "general": 0.0,
+                    "total": 471.0
+                },
+                "Expenditures": {
+                    "primary": 157.93,
+                    "general": 0.0,
+                    "total": 157.93
+                },
+                "Ending Balance": {
+                    "primary": 2488.81,
+                    "general": 0.0,
+                    "total": 2488.81
+                },
+                "report_start_date": "04/18/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/21/2020 to 04/17/2020",
             "id": 47046,

@@ -1,31 +1,79 @@
 {
     "slug": "Hinkle-Jedediah",
     "candidateName": "Hinkle, Jedediah ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 67",
     "partyDescr": "Republican",
-    "periods": 4,
-    "receipts": 21297.46,
-    "expenditures": 12139.64,
-    "balance": 9157.82,
+    "periods": 6,
+    "receipts": 22022.46,
+    "expenditures": 12219.529999999999,
+    "balance": 9802.93,
     "summary": {
         "contributions": {
             "primary": 10601.01,
-            "general": 10696.45,
-            "total": 21297.46
+            "general": 11421.45,
+            "total": 22022.46
         },
         "expenditures": {
             "primary": 10601.01,
-            "general": 1538.63,
-            "total": 12139.64
+            "general": 1618.5200000000002,
+            "total": 12219.529999999999
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 9157.82,
-            "total": 9157.82
+            "general": 9802.93,
+            "total": 9802.93
         }
     },
     "reports": [
+        {
+            "report": "05/15/2020 to 05/17/2020",
+            "id": 48098,
+            "type": "C7",
+            "start_date": "05/15/2020",
+            "end_date": "05/17/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/15/2020",
+                "report_end_date": "05/17/2020"
+            }
+        },
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 48060,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 6,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 9157.82,
+                    "total": 9157.82
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 725.0,
+                    "total": 725.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 79.89,
+                    "total": 79.89
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 9802.93,
+                    "total": 9802.93
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47260,

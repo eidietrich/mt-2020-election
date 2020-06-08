@@ -1,31 +1,65 @@
 {
     "slug": "McMurtry-Valerie",
     "candidateName": "McMurtry, Valerie ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "Public Service Commission District No. 02",
     "partyDescr": "Democrat",
-    "periods": 2,
-    "receipts": 5250.0,
-    "expenditures": 2836.77,
-    "balance": 2413.23,
+    "periods": 3,
+    "receipts": 10375.0,
+    "expenditures": 3477.3199999999997,
+    "balance": 6897.68,
     "summary": {
         "contributions": {
-            "primary": 5250.0,
+            "primary": 10375.0,
             "general": 0.0,
-            "total": 5250.0
+            "total": 10375.0
         },
         "expenditures": {
-            "primary": 2836.77,
+            "primary": 3477.3199999999997,
             "general": 0.0,
-            "total": 2836.77
+            "total": 3477.3199999999997
         },
         "cash_on_hand": {
-            "primary": 2413.23,
+            "primary": 6897.68,
             "general": 0.0,
-            "total": 2413.23
+            "total": 6897.68
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 47640,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 205.0,
+            "num_contributions": 58,
+            "num_expenditures": 10,
+            "summary": {
+                "previous report": {
+                    "primary": 2413.23,
+                    "general": 0.0,
+                    "total": 2413.23
+                },
+                "Receipts": {
+                    "primary": 5125.0,
+                    "general": 0.0,
+                    "total": 5125.0
+                },
+                "Expenditures": {
+                    "primary": 640.55,
+                    "general": 0.0,
+                    "total": 640.55
+                },
+                "Ending Balance": {
+                    "primary": 6897.68,
+                    "general": 0.0,
+                    "total": 6897.68
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47024,

@@ -1,31 +1,65 @@
 {
     "slug": "Nunnally-norman--a",
     "candidateName": "Nunnally, norman  a",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "Senate District No. 02",
     "partyDescr": "Republican",
-    "periods": 4,
-    "receipts": 1401.28,
-    "expenditures": 1270.77,
-    "balance": 130.51,
+    "periods": 5,
+    "receipts": 1726.28,
+    "expenditures": 1275.77,
+    "balance": 284.51,
     "summary": {
         "contributions": {
-            "primary": 1401.28,
+            "primary": 1726.28,
             "general": 0.0,
-            "total": 1401.28
+            "total": 1726.28
         },
         "expenditures": {
-            "primary": 1270.77,
+            "primary": 1275.77,
             "general": 0.0,
-            "total": 1270.77
+            "total": 1275.77
         },
         "cash_on_hand": {
-            "primary": 130.51,
+            "primary": 284.51,
             "general": 0.0,
-            "total": 130.51
+            "total": 284.51
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/18/2020",
+            "id": 48123,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/18/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 14,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": -35.49,
+                    "general": 0.0,
+                    "total": -35.49
+                },
+                "Receipts": {
+                    "primary": 325.0,
+                    "general": 0.0,
+                    "total": 325.0
+                },
+                "Expenditures": {
+                    "primary": 5.0,
+                    "general": 0.0,
+                    "total": 5.0
+                },
+                "Ending Balance": {
+                    "primary": 284.51,
+                    "general": 0.0,
+                    "total": 284.51
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/18/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47287,

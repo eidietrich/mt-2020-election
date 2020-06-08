@@ -1,10 +1,10 @@
 {
     "slug": "Curdy-Willis",
     "candidateName": "Curdy, Willis ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 98",
     "partyDescr": "Democrat",
-    "periods": 1,
+    "periods": 2,
     "receipts": 1540.0,
     "expenditures": 1028.7,
     "balance": 511.3,
@@ -26,6 +26,40 @@
         }
     },
     "reports": [
+        {
+            "report": "04/21/2020 to 05/15/2020",
+            "id": 48145,
+            "type": "C5",
+            "start_date": "04/21/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 511.3,
+                    "total": 511.3
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 511.3,
+                    "total": 511.3
+                },
+                "report_start_date": "04/21/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "01/01/2020 to 04/20/2020",
             "id": 47039,

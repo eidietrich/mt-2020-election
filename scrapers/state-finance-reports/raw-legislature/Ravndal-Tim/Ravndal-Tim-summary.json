@@ -1,13 +1,13 @@
 {
     "slug": "Ravndal-Tim",
     "candidateName": "Ravndal, Tim ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 70",
     "partyDescr": "Republican",
-    "periods": 2,
+    "periods": 3,
     "receipts": 530.0,
-    "expenditures": 52.23,
-    "balance": 477.77,
+    "expenditures": 103.22999999999999,
+    "balance": 426.77,
     "summary": {
         "contributions": {
             "primary": 530.0,
@@ -15,17 +15,51 @@
             "total": 530.0
         },
         "expenditures": {
-            "primary": 52.23,
+            "primary": 103.22999999999999,
             "general": 0.0,
-            "total": 52.23
+            "total": 103.22999999999999
         },
         "cash_on_hand": {
-            "primary": 477.77,
+            "primary": 426.77,
             "general": 0.0,
-            "total": 477.77
+            "total": 426.77
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 48393,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 0,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 477.77,
+                    "general": 0.0,
+                    "total": 477.77
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Expenditures": {
+                    "primary": 51.0,
+                    "general": 0.0,
+                    "total": 51.0
+                },
+                "Ending Balance": {
+                    "primary": 426.77,
+                    "general": 0.0,
+                    "total": 426.77
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47617,

@@ -1,31 +1,65 @@
 {
     "slug": "Coleman-Ed",
     "candidateName": "Coleman, Ed ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 79",
     "partyDescr": "Democrat",
-    "periods": 2,
-    "receipts": 13310.0,
-    "expenditures": 7989.92,
-    "balance": 5320.08,
+    "periods": 3,
+    "receipts": 15945.75,
+    "expenditures": 11398.07,
+    "balance": 1057.68,
     "summary": {
         "contributions": {
-            "primary": 13310.0,
+            "primary": 15945.75,
             "general": 0.0,
-            "total": 13310.0
+            "total": 15945.75
         },
         "expenditures": {
-            "primary": 7989.92,
+            "primary": 11398.07,
             "general": 0.0,
-            "total": 7989.92
+            "total": 11398.07
         },
         "cash_on_hand": {
-            "primary": 5320.08,
+            "primary": 1057.68,
             "general": 0.0,
-            "total": 5320.08
+            "total": 1057.68
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48163,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 375.75,
+            "num_contributions": 26,
+            "num_expenditures": 14,
+            "summary": {
+                "previous report": {
+                    "primary": 1830.08,
+                    "general": 0.0,
+                    "total": 1830.08
+                },
+                "Receipts": {
+                    "primary": 2635.75,
+                    "general": 0.0,
+                    "total": 2635.75
+                },
+                "Expenditures": {
+                    "primary": 3408.15,
+                    "general": 0.0,
+                    "total": 3408.15
+                },
+                "Ending Balance": {
+                    "primary": 1057.68,
+                    "general": 0.0,
+                    "total": 1057.68
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47346,

@@ -1,31 +1,65 @@
 {
     "slug": "Sheldon-Galloway-LOLA",
     "candidateName": "Sheldon-Galloway, LOLA ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 22",
     "partyDescr": "Republican",
-    "periods": 4,
-    "receipts": 3420.9,
-    "expenditures": 903.93,
-    "balance": 2516.97,
+    "periods": 5,
+    "receipts": 4110.9,
+    "expenditures": 1013.93,
+    "balance": 3096.97,
     "summary": {
         "contributions": {
-            "primary": 3420.9,
+            "primary": 4110.9,
             "general": 0.0,
-            "total": 3420.9
+            "total": 4110.9
         },
         "expenditures": {
-            "primary": 903.93,
+            "primary": 1013.93,
             "general": 0.0,
-            "total": 903.93
+            "total": 1013.93
         },
         "cash_on_hand": {
-            "primary": 2516.97,
+            "primary": 3096.97,
             "general": 0.0,
-            "total": 2516.97
+            "total": 3096.97
         }
     },
     "reports": [
+        {
+            "report": "04/19/2020 to 05/15/2020",
+            "id": 48301,
+            "type": "C5",
+            "start_date": "04/19/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 7,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 2516.97,
+                    "general": 0.0,
+                    "total": 2516.97
+                },
+                "Receipts": {
+                    "primary": 690.0,
+                    "general": 0.0,
+                    "total": 690.0
+                },
+                "Expenditures": {
+                    "primary": 110.0,
+                    "general": 0.0,
+                    "total": 110.0
+                },
+                "Ending Balance": {
+                    "primary": 3096.97,
+                    "general": 0.0,
+                    "total": 3096.97
+                },
+                "report_start_date": "04/19/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/19/2020 to 04/18/2020",
             "id": 47504,

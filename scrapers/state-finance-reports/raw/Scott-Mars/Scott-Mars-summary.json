@@ -1,31 +1,65 @@
 {
     "slug": "Scott-Mars",
     "candidateName": "Scott, Mars ",
-    "scrape_date": "2020-05-03",
+    "scrape_date": "2020-05-26",
     "officeTitle": "Supreme Court Justice No. 05",
     "partyDescr": "Non-Partisan",
-    "periods": 3,
-    "receipts": 39218.33,
-    "expenditures": 31982.95,
-    "balance": 7235.38,
+    "periods": 4,
+    "receipts": 53478.83,
+    "expenditures": 50099.42,
+    "balance": 3379.41,
     "summary": {
         "contributions": {
-            "primary": 39218.33,
+            "primary": 53478.83,
             "general": 0.0,
-            "total": 39218.33
+            "total": 53478.83
         },
         "expenditures": {
-            "primary": 31982.95,
+            "primary": 50099.42,
             "general": 0.0,
-            "total": 31982.95
+            "total": 50099.42
         },
         "cash_on_hand": {
-            "primary": 7235.38,
+            "primary": 3379.41,
             "general": 0.0,
-            "total": 7235.38
+            "total": 3379.41
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 47664,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 230.0,
+            "num_contributions": 38,
+            "num_expenditures": 31,
+            "summary": {
+                "previous report": {
+                    "primary": 7235.38,
+                    "general": 0.0,
+                    "total": 7235.38
+                },
+                "Receipts": {
+                    "primary": 14260.5,
+                    "general": 0.0,
+                    "total": 14260.5
+                },
+                "Expenditures": {
+                    "primary": 18116.47,
+                    "general": 0.0,
+                    "total": 18116.47
+                },
+                "Ending Balance": {
+                    "primary": 3379.41,
+                    "general": 0.0,
+                    "total": 3379.41
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 46986,

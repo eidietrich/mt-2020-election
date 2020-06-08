@@ -1,31 +1,65 @@
 {
     "slug": "Browder-Thomas--M",
     "candidateName": "Browder, Thomas  M",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 92",
     "partyDescr": "Democrat",
-    "periods": 3,
-    "receipts": 4755.0,
-    "expenditures": 4557.63,
-    "balance": 197.37,
+    "periods": 4,
+    "receipts": 6880.0,
+    "expenditures": 5947.87,
+    "balance": 932.13,
     "summary": {
         "contributions": {
-            "primary": 4755.0,
+            "primary": 6880.0,
             "general": 0.0,
-            "total": 4755.0
+            "total": 6880.0
         },
         "expenditures": {
-            "primary": 4557.63,
+            "primary": 5947.87,
             "general": 0.0,
-            "total": 4557.63
+            "total": 5947.87
         },
         "cash_on_hand": {
-            "primary": 197.37,
+            "primary": 932.13,
             "general": 0.0,
-            "total": 197.37
+            "total": 932.13
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 48019,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 4,
+            "num_expenditures": 3,
+            "summary": {
+                "previous report": {
+                    "primary": 197.37,
+                    "general": 0.0,
+                    "total": 197.37
+                },
+                "Receipts": {
+                    "primary": 2125.0,
+                    "general": 0.0,
+                    "total": 2125.0
+                },
+                "Expenditures": {
+                    "primary": 1390.24,
+                    "general": 0.0,
+                    "total": 1390.24
+                },
+                "Ending Balance": {
+                    "primary": 932.13,
+                    "general": 0.0,
+                    "total": 932.13
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47373,

@@ -1,18 +1,18 @@
 {
     "slug": "Lenz-Dennis--R.",
     "candidateName": "Lenz, Dennis  R.",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 53",
     "partyDescr": "Republican",
-    "periods": 2,
-    "receipts": 8043.46,
+    "periods": 3,
+    "receipts": 9798.48,
     "expenditures": 5165.0,
-    "balance": 2878.46,
+    "balance": 4633.48,
     "summary": {
         "contributions": {
             "primary": 0.0,
-            "general": 8043.46,
-            "total": 8043.46
+            "general": 9798.48,
+            "total": 9798.48
         },
         "expenditures": {
             "primary": 0.0,
@@ -21,11 +21,45 @@
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 2878.46,
-            "total": 2878.46
+            "general": 4633.48,
+            "total": 4633.48
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48282,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 25.019999999999982,
+            "num_contributions": 13,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 2878.46,
+                    "total": 2878.46
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 1755.02,
+                    "total": 1755.02
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 4633.48,
+                    "total": 4633.48
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47454,

@@ -1,31 +1,65 @@
 {
     "slug": "Moore-Frederick",
     "candidateName": "Moore, Frederick  ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 37",
     "partyDescr": "Republican",
-    "periods": 2,
-    "receipts": 9790.0,
-    "expenditures": 7866.45,
-    "balance": 1923.55,
+    "periods": 3,
+    "receipts": 14665.0,
+    "expenditures": 14221.11,
+    "balance": 443.89,
     "summary": {
         "contributions": {
-            "primary": 9790.0,
+            "primary": 14665.0,
             "general": 0.0,
-            "total": 9790.0
+            "total": 14665.0
         },
         "expenditures": {
-            "primary": 7866.45,
+            "primary": 14221.11,
             "general": 0.0,
-            "total": 7866.45
+            "total": 14221.11
         },
         "cash_on_hand": {
-            "primary": 1923.55,
+            "primary": 443.89,
             "general": 0.0,
-            "total": 1923.55
+            "total": 443.89
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 47669,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 17,
+            "num_expenditures": 11,
+            "summary": {
+                "previous report": {
+                    "primary": 1923.55,
+                    "general": 0.0,
+                    "total": 1923.55
+                },
+                "Receipts": {
+                    "primary": 4875.0,
+                    "general": 0.0,
+                    "total": 4875.0
+                },
+                "Expenditures": {
+                    "primary": 6354.66,
+                    "general": 0.0,
+                    "total": 6354.66
+                },
+                "Ending Balance": {
+                    "primary": 443.89,
+                    "general": 0.0,
+                    "total": 443.89
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 46832,

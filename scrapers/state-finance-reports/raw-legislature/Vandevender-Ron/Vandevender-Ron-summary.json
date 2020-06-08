@@ -1,7 +1,7 @@
 {
     "slug": "Vandevender-Ron",
     "candidateName": "Vandevender, Ron ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 80",
     "partyDescr": "Libertarian",
     "periods": 1,
@@ -27,11 +27,11 @@
     },
     "reports": [
         {
-            "report": "04/07/2020 to 04/19/2020",
+            "report": "04/20/2020 to 05/16/2020",
             "id": 47276,
             "type": "C5",
-            "start_date": "04/07/2020",
-            "end_date": "04/19/2020",
+            "start_date": "04/20/2020",
+            "end_date": "05/16/2020",
             "unitemized_contributions": 0.0,
             "num_contributions": 1,
             "num_expenditures": 1,

@@ -23,7 +23,7 @@
         "report_start_date": "01/01/2020",
         "report_end_date": "03/18/2020"
     },
-    "contributions": "[{\"Date Paid\":\"03\\/10\\/2020\",\"Entity Name\":null,\"First Name\":\"Mary\",\"Middle Initial\":\"E\",\"Last Name\":\"Palmer\",\"Addr Line1\":\"2217 N. Main\",\"City\":\"Walkerville\",\"State\":\"MT\",\"Zip\":59701,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Retired\",\"Employer\":\"Retired\",\"Contribution Type\":9,\"Amount\":96.05,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":96.05,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "contributions": "[{\"Date Paid\":\"03\\/10\\/2020\",\"Entity Name\":null,\"First Name\":\"Mary\",\"Middle Initial\":\"E\",\"Last Name\":\"Palmer\",\"Addr Line1\":\"2217 N. Main\",\"City\":\"Walkerville\",\"State\":\"MT\",\"Zip\":59701,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Retired\",\"Employer\":\"Retired\",\"Contribution Type\":9,\"Amount\":96.05,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":96.05,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
     "expenditures": "[]",
     "unitemized_contributions": 0.0
 }

@@ -150,6 +150,8 @@ class VoterFAQPage extends Component {
         <h3 id="how-do-i-vote-">How do I vote?</h3>
         <p>This year’s primary election is a little different from the last one because of the coronavirus pandemic (more on that later). In short, there will be no in-person primary voting, since polling places will be closed. It’s unclear for now how the pandemic may impact the general election.</p>
         <p>If you’re already registered to vote, absentee or otherwise, your primary ballot will be mailed to you on May 8. Simply fill it out and mail it back in (return postage will be included), or drop it off at your county’s drop-off location. We’ll list those addresses a little farther down.</p>
+        <p><em>UPDATE 5/26/20:</em> As a result of ongoing litigation, ballots will be counted after Election Day provided they are postmarked on or before June 2 and received by county election officials by June 8.</p>
+        <p><em>UPDATE 5/27/20:</em> On May 27, the state Supreme Court reinstated the 8 p.m. June 2 deadline for receipt of ballots by county election officials. Ballots received after 8 p.m. on June 2 will not be counted.</p>
 
         <h3 id="do-i-need-to-be-registered-to-vote-">Do I need to be registered to vote?</h3>
         <p>Yes.</p>
@@ -190,6 +192,7 @@ class VoterFAQPage extends Component {
         <h3 id="i-have-a-friend-or-family-member-who-isn-t-able-to-drop-off-his-or-her-ballot-can-i-do-it-for-them-">I have a friend or family member who isn&#39;t able to drop off his or her ballot. Can I do it for them?</h3>
         <p>Montana voters approved a ballot measure in 2018 addressing this very question. It’s called the Ballot Interference Prevention Act, and there’s a ton of information about it on <a href="http://politicalpractices.mt.gov/BIPA">the Montana Commissioner of Political Practices website</a>. Basically, you’ll need to download and fill out a <a href="https://sosmt.gov/Portals/142/Elections/Documents/2019-BallotCollectionRegistry1.pdf">BIPA ballot collection registry form</a> <em>before</em> you collect any ballots you plan to deliver, and you can only collect and deliver six ballots max per election.</p>
         <p>Election officials will need to collect your information as well as the information of the voters you’re delivering ballots for, and your relationship to those voters has to fall into one (or more) of these categories: acquaintance, caregiver, family member or household member. There are some pretty stiff penalties for violating BIPA, so make sure you’ve got all the paperwork squared away before you even touch another person’s ballot. And be sure to practice safe social distancing if you do.</p>
+        <p><em>UPDATE 5/26/20:</em> Due to ongoing litigation, regulations set out in the Ballot Interference Prevention Act have been temporarily suspended.</p>
 
         <h3 id="how-do-i-get-in-touch-with-my-county-election-official-">How do I get in touch with my county election official?</h3>
         <p>Easy. Just give them a call. Select your county in the dropdown menu below for their number.</p>

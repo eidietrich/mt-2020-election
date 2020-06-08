@@ -1,18 +1,18 @@
 {
     "slug": "Anderson-Fred--I",
     "candidateName": "Anderson, Fred  I",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 20",
     "partyDescr": "Republican",
-    "periods": 5,
-    "receipts": 5090.0,
+    "periods": 6,
+    "receipts": 5500.0,
     "expenditures": 1975.95,
-    "balance": 3114.05,
+    "balance": 3524.05,
     "summary": {
         "contributions": {
-            "primary": 5090.0,
+            "primary": 5500.0,
             "general": 0.0,
-            "total": 5090.0
+            "total": 5500.0
         },
         "expenditures": {
             "primary": 1975.95,
@@ -20,12 +20,46 @@
             "total": 1975.95
         },
         "cash_on_hand": {
-            "primary": 3114.05,
+            "primary": 3524.05,
             "general": 0.0,
-            "total": 3114.05
+            "total": 3524.05
         }
     },
     "reports": [
+        {
+            "report": "04/21/2020 to 05/20/2020",
+            "id": 48247,
+            "type": "C5",
+            "start_date": "04/21/2020",
+            "end_date": "05/20/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 3,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 3114.05,
+                    "general": 0.0,
+                    "total": 3114.05
+                },
+                "Receipts": {
+                    "primary": 410.0,
+                    "general": 0.0,
+                    "total": 410.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 3524.05,
+                    "general": 0.0,
+                    "total": 3524.05
+                },
+                "report_start_date": "04/21/2020",
+                "report_end_date": "05/20/2020"
+            }
+        },
         {
             "report": "03/21/2020 to 04/20/2020",
             "id": 47511,

@@ -1,31 +1,65 @@
 {
     "slug": "Reksten-Linda--E",
     "candidateName": "Reksten, Linda  E",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 12",
     "partyDescr": "Republican",
-    "periods": 3,
-    "receipts": 2349.0,
-    "expenditures": 1332.54,
-    "balance": 1016.46,
+    "periods": 4,
+    "receipts": 2709.0,
+    "expenditures": 1679.72,
+    "balance": 1029.28,
     "summary": {
         "contributions": {
-            "primary": 2349.0,
+            "primary": 2709.0,
             "general": 0.0,
-            "total": 2349.0
+            "total": 2709.0
         },
         "expenditures": {
-            "primary": 1332.54,
+            "primary": 1679.72,
             "general": 0.0,
-            "total": 1332.54
+            "total": 1679.72
         },
         "cash_on_hand": {
-            "primary": 1016.46,
+            "primary": 1029.28,
             "general": 0.0,
-            "total": 1016.46
+            "total": 1029.28
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48015,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 2,
+            "num_expenditures": 6,
+            "summary": {
+                "previous report": {
+                    "primary": 1016.46,
+                    "general": 0.0,
+                    "total": 1016.46
+                },
+                "Receipts": {
+                    "primary": 360.0,
+                    "general": 0.0,
+                    "total": 360.0
+                },
+                "Expenditures": {
+                    "primary": 347.18,
+                    "general": 0.0,
+                    "total": 347.18
+                },
+                "Ending Balance": {
+                    "primary": 1029.28,
+                    "general": 0.0,
+                    "total": 1029.28
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/17/2020 to 04/15/2020",
             "id": 47327,

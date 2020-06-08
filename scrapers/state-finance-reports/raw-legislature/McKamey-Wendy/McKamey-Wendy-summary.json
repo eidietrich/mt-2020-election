@@ -1,18 +1,18 @@
 {
     "slug": "McKamey-Wendy",
     "candidateName": "McKamey, Wendy ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 19",
     "partyDescr": "Republican",
-    "periods": 4,
-    "receipts": 5190.0,
+    "periods": 5,
+    "receipts": 5820.0,
     "expenditures": 0.0,
-    "balance": 5190.0,
+    "balance": 5820.0,
     "summary": {
         "contributions": {
-            "primary": 5190.0,
+            "primary": 5820.0,
             "general": 0.0,
-            "total": 5190.0
+            "total": 5820.0
         },
         "expenditures": {
             "primary": 0.0,
@@ -20,12 +20,46 @@
             "total": 0.0
         },
         "cash_on_hand": {
-            "primary": 5190.0,
+            "primary": 5820.0,
             "general": 0.0,
-            "total": 5190.0
+            "total": 5820.0
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 47421,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 5,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 5190.0,
+                    "general": 0.0,
+                    "total": 5190.0
+                },
+                "Receipts": {
+                    "primary": 630.0,
+                    "general": 0.0,
+                    "total": 630.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 5820.0,
+                    "general": 0.0,
+                    "total": 5820.0
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47274,

@@ -23,7 +23,7 @@
         "report_start_date": "01/18/2019",
         "report_end_date": "04/01/2019"
     },
-    "contributions": "[{\"Date Paid\":\"03\\/29\\/2019\",\"Entity Name\":null,\"First Name\":\"Coleen\",\"Middle Initial\":null,\"Last Name\":\"O'Brien\",\"Addr Line1\":\"PO Box 7\",\"City\":\"Olga\",\"State\":\"WA\",\"Zip\":98279,\"Zip4\":null,\"Country\":null,\"Occupation\":\"RETIRED \",\"Employer\":\"Retired\",\"Contribution Type\":9,\"Amount\":180.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":180.0,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "contributions": "[{\"Date Paid\":\"03\\/29\\/2019\",\"Entity Name\":null,\"First Name\":\"Coleen\",\"Middle Initial\":null,\"Last Name\":\"O'Brien\",\"Addr Line1\":\"PO Box 7\",\"City\":\"Olga\",\"State\":\"WA\",\"Zip\":98279,\"Zip4\":null,\"Country\":null,\"Occupation\":\"RETIRED \",\"Employer\":\"Retired\",\"Contribution Type\":9,\"Amount\":180,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":180,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":null,\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
     "expenditures": "[]",
     "unitemized_contributions": 0.0
 }

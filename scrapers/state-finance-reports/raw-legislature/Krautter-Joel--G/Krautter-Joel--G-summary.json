@@ -1,31 +1,65 @@
 {
     "slug": "Krautter-Joel--G",
     "candidateName": "Krautter, Joel  G",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 35",
     "partyDescr": "Republican",
-    "periods": 5,
-    "receipts": 17964.0,
-    "expenditures": 12393.24,
-    "balance": 5570.76,
+    "periods": 6,
+    "receipts": 20794.0,
+    "expenditures": 18912.48,
+    "balance": 1881.52,
     "summary": {
         "contributions": {
-            "primary": 17964.0,
+            "primary": 20794.0,
             "general": 0.0,
-            "total": 17964.0
+            "total": 20794.0
         },
         "expenditures": {
-            "primary": 12393.24,
+            "primary": 18912.48,
             "general": 0.0,
-            "total": 12393.24
+            "total": 18912.48
         },
         "cash_on_hand": {
-            "primary": 5570.76,
+            "primary": 1881.52,
             "general": 0.0,
-            "total": 5570.76
+            "total": 1881.52
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 47671,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 50.0,
+            "num_contributions": 26,
+            "num_expenditures": 26,
+            "summary": {
+                "previous report": {
+                    "primary": 5570.76,
+                    "general": 0.0,
+                    "total": 5570.76
+                },
+                "Receipts": {
+                    "primary": 2830.0,
+                    "general": 0.0,
+                    "total": 2830.0
+                },
+                "Expenditures": {
+                    "primary": 6519.24,
+                    "general": 0.0,
+                    "total": 6519.24
+                },
+                "Ending Balance": {
+                    "primary": 1881.52,
+                    "general": 0.0,
+                    "total": 1881.52
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/17/2020 to 04/15/2020",
             "id": 47025,

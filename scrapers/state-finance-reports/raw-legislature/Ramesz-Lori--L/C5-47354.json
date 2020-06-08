@@ -23,7 +23,7 @@
         "report_start_date": "03/16/2020",
         "report_end_date": "04/15/2020"
     },
-    "contributions": "[{\"Date Paid\":\"04\\/09\\/2020\",\"Entity Name\":null,\"First Name\":\"Eileen\",\"Middle Initial\":null,\"Last Name\":\"Carney\",\"Addr Line1\":\"PO Box 1193\",\"City\":\"Libby\",\"State\":\"MT\",\"Zip\":59923,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Educator\",\"Employer\":\"Retired\",\"Contribution Type\":9,\"Amount\":100.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":100.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "contributions": "[{\"Date Paid\":\"04\\/09\\/2020\",\"Entity Name\":null,\"First Name\":\"Eileen\",\"Middle Initial\":null,\"Last Name\":\"Carney\",\"Addr Line1\":\"PO Box 1193\",\"City\":\"Libby\",\"State\":\"MT\",\"Zip\":59923,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Educator\",\"Employer\":\"Retired\",\"Contribution Type\":9,\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":100,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
     "expenditures": "[]",
     "unitemized_contributions": 0.0
 }

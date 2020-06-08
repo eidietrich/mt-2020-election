@@ -1,31 +1,65 @@
 {
     "slug": "Gauthier-Terry--J",
     "candidateName": "Gauthier, Terry  J",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "Senate District No. 40",
     "partyDescr": "Republican",
-    "periods": 5,
-    "receipts": 1910.0,
-    "expenditures": 0.0,
-    "balance": 1910.0,
+    "periods": 6,
+    "receipts": 2825.0,
+    "expenditures": 127.08,
+    "balance": 2693.92,
     "summary": {
         "contributions": {
             "primary": 0.0,
-            "general": 1910.0,
-            "total": 1910.0
+            "general": 2825.0,
+            "total": 2825.0
         },
         "expenditures": {
             "primary": 0.0,
-            "general": 0.0,
-            "total": 0.0
+            "general": 127.08,
+            "total": 127.08
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 1910.0,
-            "total": 1910.0
+            "general": 2693.92,
+            "total": 2693.92
         }
     },
     "reports": [
+        {
+            "report": "04/21/2020 to 05/14/2020",
+            "id": 48139,
+            "type": "C5",
+            "start_date": "04/21/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 7,
+            "num_expenditures": 2,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 1906.0,
+                    "total": 1906.0
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 915.0,
+                    "total": 915.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 127.08,
+                    "total": 127.08
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 2693.92,
+                    "total": 2693.92
+                },
+                "report_start_date": "04/21/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/18/2020 to 04/20/2020",
             "id": 47571,

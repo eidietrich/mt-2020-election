@@ -23,7 +23,7 @@
         "report_start_date": "03/21/2020",
         "report_end_date": "04/13/2020"
     },
-    "contributions": "[{\"Date Paid\":\"03\\/26\\/2020\",\"Entity Name\":null,\"First Name\":\"Jacob\",\"Middle Initial\":\"A\",\"Last Name\":\"Kitson\",\"Addr Line1\":\"P.o 42\",\"City\":\"Terry\",\"State\":\"MT\",\"Zip\":59349,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Canidate\",\"Employer\":\"self\",\"Contribution Type\":3,\"Amount\":100.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":200.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "contributions": "[{\"Date Paid\":\"03\\/26\\/2020\",\"Entity Name\":null,\"First Name\":\"Jacob\",\"Middle Initial\":\"A\",\"Last Name\":\"Kitson\",\"Addr Line1\":\"P.o 42\",\"City\":\"Terry\",\"State\":\"MT\",\"Zip\":59349,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Canidate\",\"Employer\":\"self\",\"Contribution Type\":3,\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":200,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
     "expenditures": "[]",
     "unitemized_contributions": 0.0
 }

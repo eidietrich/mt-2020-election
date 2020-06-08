@@ -1,18 +1,18 @@
 {
     "slug": "Salomon-Daniel",
     "candidateName": "Salomon, Daniel ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "Senate District No. 47",
     "partyDescr": "Republican",
-    "periods": 5,
-    "receipts": 4035.0,
+    "periods": 6,
+    "receipts": 5265.0,
     "expenditures": 176.2,
-    "balance": 3858.8,
+    "balance": 5088.8,
     "summary": {
         "contributions": {
             "primary": 3050.0,
-            "general": 985.0,
-            "total": 4035.0
+            "general": 2215.0,
+            "total": 5265.0
         },
         "expenditures": {
             "primary": 110.11999999999999,
@@ -21,11 +21,45 @@
         },
         "cash_on_hand": {
             "primary": 2939.88,
-            "general": 918.92,
-            "total": 3858.8
+            "general": 2148.92,
+            "total": 5088.8
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48172,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 8,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 2939.88,
+                    "general": 918.92,
+                    "total": 3858.8
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 1230.0,
+                    "total": 1230.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 2939.88,
+                    "general": 2148.92,
+                    "total": 5088.8
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47457,

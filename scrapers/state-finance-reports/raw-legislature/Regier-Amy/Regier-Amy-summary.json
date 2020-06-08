@@ -1,31 +1,65 @@
 {
     "slug": "Regier-Amy",
     "candidateName": "Regier, Amy ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 06",
     "partyDescr": "Republican",
-    "periods": 4,
-    "receipts": 2955.0,
-    "expenditures": 487.49,
-    "balance": 2467.51,
+    "periods": 5,
+    "receipts": 5705.0,
+    "expenditures": 3876.5600000000004,
+    "balance": 1828.44,
     "summary": {
         "contributions": {
-            "primary": 2955.0,
+            "primary": 5705.0,
             "general": 0.0,
-            "total": 2955.0
+            "total": 5705.0
         },
         "expenditures": {
-            "primary": 487.49,
+            "primary": 3876.5600000000004,
             "general": 0.0,
-            "total": 487.49
+            "total": 3876.5600000000004
         },
         "cash_on_hand": {
-            "primary": 2467.51,
+            "primary": 1828.44,
             "general": 0.0,
-            "total": 2467.51
+            "total": 1828.44
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 47466,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 19,
+            "num_expenditures": 12,
+            "summary": {
+                "previous report": {
+                    "primary": 2467.51,
+                    "general": 0.0,
+                    "total": 2467.51
+                },
+                "Receipts": {
+                    "primary": 2750.0,
+                    "general": 0.0,
+                    "total": 2750.0
+                },
+                "Expenditures": {
+                    "primary": 3389.07,
+                    "general": 0.0,
+                    "total": 3389.07
+                },
+                "Ending Balance": {
+                    "primary": 1828.44,
+                    "general": 0.0,
+                    "total": 1828.44
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 46997,

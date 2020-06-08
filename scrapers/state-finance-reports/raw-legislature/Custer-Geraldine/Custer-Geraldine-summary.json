@@ -1,31 +1,65 @@
 {
     "slug": "Custer-Geraldine",
     "candidateName": "Custer, Geraldine ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 39",
     "partyDescr": "Republican",
-    "periods": 5,
-    "receipts": 2960.0,
-    "expenditures": 2439.66,
-    "balance": 520.34,
+    "periods": 6,
+    "receipts": 5534.55,
+    "expenditures": 4615.35,
+    "balance": 919.2,
     "summary": {
         "contributions": {
-            "primary": 2940.0,
+            "primary": 5514.55,
             "general": 20.0,
-            "total": 2960.0
+            "total": 5534.55
         },
         "expenditures": {
-            "primary": 2439.66,
+            "primary": 4615.35,
             "general": 0.0,
-            "total": 2439.66
+            "total": 4615.35
         },
         "cash_on_hand": {
-            "primary": 500.34,
+            "primary": 899.2,
             "general": 20.0,
-            "total": 520.34
+            "total": 919.2
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 47408,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 4.550000000000182,
+            "num_contributions": 9,
+            "num_expenditures": 5,
+            "summary": {
+                "previous report": {
+                    "primary": 500.34,
+                    "general": 20.0,
+                    "total": 520.34
+                },
+                "Receipts": {
+                    "primary": 2574.55,
+                    "general": 0.0,
+                    "total": 2574.55
+                },
+                "Expenditures": {
+                    "primary": 2175.69,
+                    "general": 0.0,
+                    "total": 2175.69
+                },
+                "Ending Balance": {
+                    "primary": 899.2,
+                    "general": 20.0,
+                    "total": 919.2
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47015,

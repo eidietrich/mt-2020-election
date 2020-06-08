@@ -1,31 +1,65 @@
 {
     "slug": "Fielder-Paul--C",
     "candidateName": "Fielder, Paul  C",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 13",
     "partyDescr": "Republican",
-    "periods": 4,
-    "receipts": 935.0,
-    "expenditures": 332.38,
-    "balance": 602.62,
+    "periods": 5,
+    "receipts": 1932.62,
+    "expenditures": 1254.0,
+    "balance": 678.62,
     "summary": {
         "contributions": {
             "primary": 935.0,
-            "general": 0.0,
-            "total": 935.0
+            "general": 997.62,
+            "total": 1932.62
         },
         "expenditures": {
-            "primary": 332.38,
-            "general": 0.0,
-            "total": 332.38
+            "primary": 935.0,
+            "general": 319.0,
+            "total": 1254.0
         },
         "cash_on_hand": {
-            "primary": 602.62,
-            "general": 0.0,
-            "total": 602.62
+            "primary": 0.0,
+            "general": 678.62,
+            "total": 678.62
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 47949,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 30.0,
+            "num_contributions": 6,
+            "num_expenditures": 2,
+            "summary": {
+                "previous report": {
+                    "primary": 602.62,
+                    "general": 0.0,
+                    "total": 602.62
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 997.62,
+                    "total": 997.62
+                },
+                "Expenditures": {
+                    "primary": 602.62,
+                    "general": 319.0,
+                    "total": 921.62
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 678.62,
+                    "total": 678.62
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47500,

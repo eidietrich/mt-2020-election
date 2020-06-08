@@ -1,23 +1,23 @@
 {
     "slug": "Buck-Sheridan",
     "candidateName": "Buck, Sheridan ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 26",
     "partyDescr": "Republican",
-    "periods": 2,
-    "receipts": 132.4,
-    "expenditures": 13.7,
+    "periods": 3,
+    "receipts": 2363.58,
+    "expenditures": 2244.8799999999997,
     "balance": 118.7,
     "summary": {
         "contributions": {
-            "primary": 132.4,
+            "primary": 2363.58,
             "general": 0.0,
-            "total": 132.4
+            "total": 2363.58
         },
         "expenditures": {
-            "primary": 13.7,
+            "primary": 2244.8799999999997,
             "general": 0.0,
-            "total": 13.7
+            "total": 2244.8799999999997
         },
         "cash_on_hand": {
             "primary": 118.7,
@@ -26,6 +26,40 @@
         }
     },
     "reports": [
+        {
+            "report": "04/21/2020 to 05/20/2020",
+            "id": 48323,
+            "type": "C5",
+            "start_date": "04/21/2020",
+            "end_date": "05/20/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 8,
+            "num_expenditures": 7,
+            "summary": {
+                "previous report": {
+                    "primary": 118.7,
+                    "general": 0.0,
+                    "total": 118.7
+                },
+                "Receipts": {
+                    "primary": 2231.18,
+                    "general": 0.0,
+                    "total": 2231.18
+                },
+                "Expenditures": {
+                    "primary": 2231.18,
+                    "general": 0.0,
+                    "total": 2231.18
+                },
+                "Ending Balance": {
+                    "primary": 118.7,
+                    "general": 0.0,
+                    "total": 118.7
+                },
+                "report_start_date": "04/21/2020",
+                "report_end_date": "05/20/2020"
+            }
+        },
         {
             "report": "03/17/2020 to 04/20/2020",
             "id": 47593,

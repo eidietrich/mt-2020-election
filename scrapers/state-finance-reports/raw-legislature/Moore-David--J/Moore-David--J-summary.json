@@ -1,10 +1,10 @@
 {
     "slug": "Moore-David--J",
     "candidateName": "Moore, David  J",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 99",
     "partyDescr": "Republican",
-    "periods": 2,
+    "periods": 3,
     "receipts": 3350.0,
     "expenditures": 1091.58,
     "balance": 2258.42,
@@ -26,6 +26,20 @@
         }
     },
     "reports": [
+        {
+            "report": "04/26/2020 to 05/15/2020",
+            "id": 47880,
+            "type": "C7",
+            "start_date": "04/26/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "04/26/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47551,

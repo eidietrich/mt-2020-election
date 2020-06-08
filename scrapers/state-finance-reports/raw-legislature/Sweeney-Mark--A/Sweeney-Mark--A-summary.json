@@ -1,7 +1,7 @@
 {
     "slug": "Sweeney-Mark--A",
     "candidateName": "Sweeney, Mark  A",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "Senate District No. 39",
     "partyDescr": "Democrat",
     "periods": 1,
@@ -27,11 +27,11 @@
     },
     "reports": [
         {
-            "report": "07/15/2019 to 03/19/2020",
+            "report": "07/15/2019 to 05/21/2020",
             "id": 45857,
             "type": "C5",
             "start_date": "07/15/2019",
-            "end_date": "03/19/2020",
+            "end_date": "05/21/2020",
             "unitemized_contributions": 300.0,
             "num_contributions": 66,
             "num_expenditures": 13,

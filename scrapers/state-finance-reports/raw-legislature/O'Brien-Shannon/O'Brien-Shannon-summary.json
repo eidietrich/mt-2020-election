@@ -1,31 +1,65 @@
 {
     "slug": "O'Brien-Shannon",
     "candidateName": "O'Brien, Shannon ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "Senate District No. 46",
     "partyDescr": "Democrat",
-    "periods": 6,
-    "receipts": 20165.0,
-    "expenditures": 13598.22,
-    "balance": 6566.78,
+    "periods": 7,
+    "receipts": 22385.0,
+    "expenditures": 16615.41,
+    "balance": 5769.59,
     "summary": {
         "contributions": {
-            "primary": 19186.22,
-            "general": 978.78,
-            "total": 20165.0
+            "primary": 21386.22,
+            "general": 998.78,
+            "total": 22385.0
         },
         "expenditures": {
-            "primary": 13598.22,
+            "primary": 16615.41,
             "general": 0.0,
-            "total": 13598.22
+            "total": 16615.41
         },
         "cash_on_hand": {
-            "primary": 5588.0,
-            "general": 978.78,
-            "total": 6566.78
+            "primary": 4770.81,
+            "general": 998.78,
+            "total": 5769.59
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 48075,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 75.0,
+            "num_contributions": 30,
+            "num_expenditures": 8,
+            "summary": {
+                "previous report": {
+                    "primary": 5588.0,
+                    "general": 978.78,
+                    "total": 6566.78
+                },
+                "Receipts": {
+                    "primary": 2200.0,
+                    "general": 20.0,
+                    "total": 2220.0
+                },
+                "Expenditures": {
+                    "primary": 3017.19,
+                    "general": 0.0,
+                    "total": 3017.19
+                },
+                "Ending Balance": {
+                    "primary": 4770.81,
+                    "general": 998.78,
+                    "total": 5769.59
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47312,

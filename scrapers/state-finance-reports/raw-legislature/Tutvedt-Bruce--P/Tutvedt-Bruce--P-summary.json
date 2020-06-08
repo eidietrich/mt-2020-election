@@ -1,31 +1,65 @@
 {
     "slug": "Tutvedt-Bruce--P",
     "candidateName": "Tutvedt, Bruce  P",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 06",
     "partyDescr": "Republican",
-    "periods": 2,
-    "receipts": 9585.0,
-    "expenditures": 4367.29,
-    "balance": 5217.71,
+    "periods": 3,
+    "receipts": 12035.0,
+    "expenditures": 11115.18,
+    "balance": 919.82,
     "summary": {
         "contributions": {
-            "primary": 9405.0,
+            "primary": 11855.0,
             "general": 180.0,
-            "total": 9585.0
+            "total": 12035.0
         },
         "expenditures": {
-            "primary": 4367.29,
+            "primary": 11115.18,
             "general": 0.0,
-            "total": 4367.29
+            "total": 11115.18
         },
         "cash_on_hand": {
-            "primary": 5037.71,
+            "primary": 739.82,
             "general": 180.0,
-            "total": 5217.71
+            "total": 919.82
         }
     },
     "reports": [
+        {
+            "report": "04/18/2020 to 05/14/2020",
+            "id": 47515,
+            "type": "C5",
+            "start_date": "04/18/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 17,
+            "num_expenditures": 13,
+            "summary": {
+                "previous report": {
+                    "primary": 5037.71,
+                    "general": 180.0,
+                    "total": 5217.71
+                },
+                "Receipts": {
+                    "primary": 2450.0,
+                    "general": 0.0,
+                    "total": 2450.0
+                },
+                "Expenditures": {
+                    "primary": 6747.89,
+                    "general": 0.0,
+                    "total": 6747.89
+                },
+                "Ending Balance": {
+                    "primary": 739.82,
+                    "general": 180.0,
+                    "total": 919.82
+                },
+                "report_start_date": "04/18/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/18/2020 to 04/17/2020",
             "id": 47027,

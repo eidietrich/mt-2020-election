@@ -35,9 +35,7 @@
     "deploy:prod": "(cd app && gatsby build --prefix-paths && aws s3 sync public s3://apps.montanafreepress.org/montana-2020 --delete)",
     "deploy:clear-cache": "aws cloudfront create-invalidation --distribution-id E3LVPS3XLJHLL5 --paths \"/montana-2020/*\"",
     "sync": "aws s3 sync app/public s3://apps.montanafreepress.org/montana-2020 --delete",
-    "check:state-candidates": "python3 scrapers/state-finance-reports/check-candidate-updates.py",
-    "check:state-filings": "python3 scrapers/state-finance-reports/check-report-updates.py",
-    "fetch:state-filings": "python3 scrapers/state-finance-reports/fetch-finance-reports.py && python3 scrapers/state-finance-reports/clean.py",
+    "fetch:state-filings": "python3 scrapers/state-finance-reports/fetch-statewide.py && python3 scrapers/state-finance-reports/clean.py",
     "check:federal-candidates": "python3 scrapers/fed-finance-reports/check-candidate-updates.py",
     "fetch:federal-filings": "python3 scrapers/fed-finance-reports/fetch-finance-totals.py && python3  scrapers/fed-finance-reports/fetch-itemized-receipts.py && python3  scrapers/fed-finance-reports/clean-itemized.py"
   },

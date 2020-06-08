@@ -1,31 +1,65 @@
 {
     "slug": "Black-Michael--G",
     "candidateName": "Black, Michael  G",
-    "scrape_date": "2020-05-03",
+    "scrape_date": "2020-05-26",
     "officeTitle": "Supreme Court Justice No. 05",
     "partyDescr": "Non-Partisan",
-    "periods": 5,
-    "receipts": 98968.81,
-    "expenditures": 68889.62,
-    "balance": 30079.19,
+    "periods": 6,
+    "receipts": 111538.81,
+    "expenditures": 69157.84999999999,
+    "balance": 42380.96,
     "summary": {
         "contributions": {
-            "primary": 96348.81,
-            "general": 2620.0,
-            "total": 98968.81
+            "primary": 100698.81,
+            "general": 10840.0,
+            "total": 111538.81
         },
         "expenditures": {
-            "primary": 68889.62,
+            "primary": 69157.84999999999,
             "general": 0.0,
-            "total": 68889.62
+            "total": 69157.84999999999
         },
         "cash_on_hand": {
-            "primary": 27459.19,
-            "general": 2620.0,
-            "total": 30079.19
+            "primary": 31540.96,
+            "general": 10840.0,
+            "total": 42380.96
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 48233,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 20.0,
+            "num_contributions": 34,
+            "num_expenditures": 3,
+            "summary": {
+                "previous report": {
+                    "primary": 27459.19,
+                    "general": 2620.0,
+                    "total": 30079.19
+                },
+                "Receipts": {
+                    "primary": 4350.0,
+                    "general": 8220.0,
+                    "total": 12570.0
+                },
+                "Expenditures": {
+                    "primary": 268.23,
+                    "general": 0.0,
+                    "total": 268.23
+                },
+                "Ending Balance": {
+                    "primary": 31540.96,
+                    "general": 10840.0,
+                    "total": 42380.96
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47602,

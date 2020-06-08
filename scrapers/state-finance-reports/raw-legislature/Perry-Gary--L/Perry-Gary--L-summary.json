@@ -1,31 +1,65 @@
 {
     "slug": "Perry-Gary--L",
     "candidateName": "Perry, Gary  L",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "Senate District No. 35",
     "partyDescr": "Republican",
-    "periods": 3,
-    "receipts": 420.0,
-    "expenditures": 2216.49,
-    "balance": -1796.49,
+    "periods": 4,
+    "receipts": 2450.0,
+    "expenditures": 3936.49,
+    "balance": -1486.49,
     "summary": {
         "contributions": {
-            "primary": 420.0,
+            "primary": 2450.0,
             "general": 0.0,
-            "total": 420.0
+            "total": 2450.0
         },
         "expenditures": {
-            "primary": 2216.49,
+            "primary": 3936.49,
             "general": 0.0,
-            "total": 2216.49
+            "total": 3936.49
         },
         "cash_on_hand": {
-            "primary": -1796.49,
+            "primary": -1486.49,
             "general": 0.0,
-            "total": -1796.49
+            "total": -1486.49
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48394,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 15,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": -1796.49,
+                    "general": 0.0,
+                    "total": -1796.49
+                },
+                "Receipts": {
+                    "primary": 2030.0,
+                    "general": 0.0,
+                    "total": 2030.0
+                },
+                "Expenditures": {
+                    "primary": 1720.0,
+                    "general": 0.0,
+                    "total": 1720.0
+                },
+                "Ending Balance": {
+                    "primary": -1486.49,
+                    "general": 0.0,
+                    "total": -1486.49
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/20/2020 to 04/15/2020",
             "id": 47584,

@@ -1,31 +1,65 @@
 {
     "slug": "Scanlin-Elizabeth-(Betsy)",
     "candidateName": "Scanlin, Elizabeth (Betsy) ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 58",
     "partyDescr": "Democrat",
-    "periods": 2,
-    "receipts": 1930.0,
-    "expenditures": 289.47,
-    "balance": 1640.53,
+    "periods": 3,
+    "receipts": 5556.8,
+    "expenditures": 2076.8500000000004,
+    "balance": 3479.95,
     "summary": {
         "contributions": {
             "primary": 0.0,
-            "general": 1930.0,
-            "total": 1930.0
+            "general": 5556.8,
+            "total": 5556.8
         },
         "expenditures": {
             "primary": 0.0,
-            "general": 289.47,
-            "total": 289.47
+            "general": 2076.8500000000004,
+            "total": 2076.8500000000004
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 1640.53,
-            "total": 1640.53
+            "general": 3479.95,
+            "total": 3479.95
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 47474,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 110.0,
+            "num_contributions": 28,
+            "num_expenditures": 10,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 1640.53,
+                    "total": 1640.53
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 3626.8,
+                    "total": 3626.8
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 1787.38,
+                    "total": 1787.38
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 3479.95,
+                    "total": 3479.95
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47223,

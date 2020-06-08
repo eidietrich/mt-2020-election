@@ -1,31 +1,65 @@
 {
     "slug": "Siate-Erica--C",
     "candidateName": "Siate, Erica  C",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "Senate District No. 45",
     "partyDescr": "Democrat",
-    "periods": 2,
-    "receipts": 487.4,
-    "expenditures": 12.15,
-    "balance": 475.25,
+    "periods": 3,
+    "receipts": 2130.96,
+    "expenditures": 1179.21,
+    "balance": 951.75,
     "summary": {
         "contributions": {
-            "primary": 487.4,
+            "primary": 2130.96,
             "general": 0.0,
-            "total": 487.4
+            "total": 2130.96
         },
         "expenditures": {
-            "primary": 12.15,
+            "primary": 1179.21,
             "general": 0.0,
-            "total": 12.15
+            "total": 1179.21
         },
         "cash_on_hand": {
-            "primary": 475.25,
+            "primary": 951.75,
             "general": 0.0,
-            "total": 475.25
+            "total": 951.75
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 47876,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 291.55999999999995,
+            "num_contributions": 14,
+            "num_expenditures": 8,
+            "summary": {
+                "previous report": {
+                    "primary": 475.25,
+                    "general": 0.0,
+                    "total": 475.25
+                },
+                "Receipts": {
+                    "primary": 1643.56,
+                    "general": 0.0,
+                    "total": 1643.56
+                },
+                "Expenditures": {
+                    "primary": 1167.06,
+                    "general": 0.0,
+                    "total": 1167.06
+                },
+                "Ending Balance": {
+                    "primary": 951.75,
+                    "general": 0.0,
+                    "total": 951.75
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47628,

@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Receipts": {
+            "primary": 280.0,
+            "general": 0.0,
+            "total": 280.0
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Ending Balance": {
+            "primary": 280.0,
+            "general": 0.0,
+            "total": 280.0
+        },
+        "report_start_date": "04/16/2020",
+        "report_end_date": "05/15/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"05\\/05\\/2020\",\"Entity Name\":null,\"First Name\":\"Ken & Sherry\",\"Middle Initial\":null,\"Last Name\":\"Morrison\",\"Addr Line1\":\"717 3RD St\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59601,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Morrison Consulting LLC\",\"Employer\":\"SELF EMPLOYED\",\"Contribution Type\":9,\"Amount\":100.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":100.0,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"05\\/11\\/2020\",\"Entity Name\":null,\"First Name\":\"Bridget\",\"Middle Initial\":null,\"Last Name\":\"Smith\",\"Addr Line1\":\"516 Hill St\",\"City\":\"Wolf Point\",\"State\":\"MT\",\"Zip\":59201,\"Zip4\":null,\"Country\":null,\"Occupation\":\"POLITICIAN\",\"Employer\":\"RETIRED\",\"Contribution Type\":3,\"Amount\":673.1,\"Amount Type\":\"IK\",\"Purpose\":\"100 signs &2 banners\",\"Election Type\":\"PM\",\"Total Primary\":673.1,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"05\\/12\\/2020\",\"Entity Name\":null,\"First Name\":\"Jones\",\"Middle Initial\":null,\"Last Name\":\"Matthew\",\"Addr Line1\":\"800 N. Last Chance Gulch, Ste. 101\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59601,\"Zip4\":null,\"Country\":null,\"Occupation\":\"EXECUTIVE DIRECTOR\",\"Employer\":\"BNSF Railway\",\"Contribution Type\":9,\"Amount\":180.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":180.0,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0.0
+}

@@ -1,31 +1,65 @@
 {
     "slug": "Pierson-Gordon",
     "candidateName": "Pierson, Gordon ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "Senate District No. 39",
     "partyDescr": "Democrat",
-    "periods": 5,
-    "receipts": 6920.0,
-    "expenditures": 2057.0,
-    "balance": 4863.0,
+    "periods": 6,
+    "receipts": 8270.0,
+    "expenditures": 6756.12,
+    "balance": 1513.88,
     "summary": {
         "contributions": {
-            "primary": 6920.0,
+            "primary": 8270.0,
             "general": 0.0,
-            "total": 6920.0
+            "total": 8270.0
         },
         "expenditures": {
-            "primary": 2057.0,
+            "primary": 6756.12,
             "general": 0.0,
-            "total": 2057.0
+            "total": 6756.12
         },
         "cash_on_hand": {
-            "primary": 4863.0,
+            "primary": 1513.88,
             "general": 0.0,
-            "total": 4863.0
+            "total": 1513.88
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/19/2020",
+            "id": 47661,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/19/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 14,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 4863.0,
+                    "general": 0.0,
+                    "total": 4863.0
+                },
+                "Receipts": {
+                    "primary": 1350.0,
+                    "general": 0.0,
+                    "total": 1350.0
+                },
+                "Expenditures": {
+                    "primary": 4699.12,
+                    "general": 0.0,
+                    "total": 4699.12
+                },
+                "Ending Balance": {
+                    "primary": 1513.88,
+                    "general": 0.0,
+                    "total": 1513.88
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/19/2020"
+            }
+        },
         {
             "report": "03/20/2020 to 04/15/2020",
             "id": 47019,

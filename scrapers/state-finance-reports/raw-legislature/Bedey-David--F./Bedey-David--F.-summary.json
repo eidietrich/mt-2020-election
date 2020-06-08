@@ -1,31 +1,65 @@
 {
     "slug": "Bedey-David--F.",
     "candidateName": "Bedey, David  F.",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 86",
     "partyDescr": "Republican",
-    "periods": 5,
-    "receipts": 2440.0299999999997,
-    "expenditures": 551.27,
-    "balance": 1888.76,
+    "periods": 6,
+    "receipts": 6705.05,
+    "expenditures": 5696.959999999999,
+    "balance": 1008.09,
     "summary": {
         "contributions": {
-            "primary": 2440.0299999999997,
+            "primary": 6705.05,
             "general": 0.0,
-            "total": 2440.0299999999997
+            "total": 6705.05
         },
         "expenditures": {
-            "primary": 551.27,
+            "primary": 5696.959999999999,
             "general": 0.0,
-            "total": 551.27
+            "total": 5696.959999999999
         },
         "cash_on_hand": {
-            "primary": 1888.76,
+            "primary": 1008.09,
             "general": 0.0,
-            "total": 1888.76
+            "total": 1008.09
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48055,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 25.020000000000437,
+            "num_contributions": 15,
+            "num_expenditures": 8,
+            "summary": {
+                "previous report": {
+                    "primary": 1888.76,
+                    "general": 0.0,
+                    "total": 1888.76
+                },
+                "Receipts": {
+                    "primary": 4265.02,
+                    "general": 0.0,
+                    "total": 4265.02
+                },
+                "Expenditures": {
+                    "primary": 5145.69,
+                    "general": 0.0,
+                    "total": 5145.69
+                },
+                "Ending Balance": {
+                    "primary": 1008.09,
+                    "general": 0.0,
+                    "total": 1008.09
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47395,

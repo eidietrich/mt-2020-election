@@ -1,18 +1,18 @@
 {
     "slug": "keane-jim",
     "candidateName": "keane, jim ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 73",
     "partyDescr": "Democrat",
-    "periods": 2,
-    "receipts": 560.0,
+    "periods": 3,
+    "receipts": 1220.0,
     "expenditures": 0.0,
-    "balance": 560.0,
+    "balance": 1220.0,
     "summary": {
         "contributions": {
-            "primary": 0.0,
+            "primary": 660.0,
             "general": 560.0,
-            "total": 560.0
+            "total": 1220.0
         },
         "expenditures": {
             "primary": 0.0,
@@ -20,12 +20,46 @@
             "total": 0.0
         },
         "cash_on_hand": {
-            "primary": 0.0,
+            "primary": 660.0,
             "general": 560.0,
-            "total": 560.0
+            "total": 1220.0
         }
     },
     "reports": [
+        {
+            "report": "04/21/2020 to 05/19/2020",
+            "id": 48204,
+            "type": "C5",
+            "start_date": "04/21/2020",
+            "end_date": "05/19/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 5,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 560.0,
+                    "total": 560.0
+                },
+                "Receipts": {
+                    "primary": 660.0,
+                    "general": 0.0,
+                    "total": 660.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 660.0,
+                    "general": 560.0,
+                    "total": 1220.0
+                },
+                "report_start_date": "04/21/2020",
+                "report_end_date": "05/19/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/20/2020",
             "id": 47526,

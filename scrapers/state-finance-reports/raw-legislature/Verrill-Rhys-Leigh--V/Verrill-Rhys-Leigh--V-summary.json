@@ -1,31 +1,65 @@
 {
     "slug": "Verrill-Rhys-Leigh--V",
     "candidateName": "Verrill-Rhys, Leigh  V",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 48",
     "partyDescr": "Republican",
-    "periods": 2,
-    "receipts": 930.0,
-    "expenditures": 282.52,
-    "balance": 647.48,
+    "periods": 3,
+    "receipts": 1310.0,
+    "expenditures": 495.2,
+    "balance": 814.8,
     "summary": {
         "contributions": {
             "primary": 0.0,
-            "general": 930.0,
-            "total": 930.0
+            "general": 1310.0,
+            "total": 1310.0
         },
         "expenditures": {
             "primary": 0.0,
-            "general": 282.52,
-            "total": 282.52
+            "general": 495.2,
+            "total": 495.2
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 647.48,
-            "total": 647.48
+            "general": 814.8,
+            "total": 814.8
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 47392,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 50.0,
+            "num_contributions": 3,
+            "num_expenditures": 4,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 647.48,
+                    "total": 647.48
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 380.0,
+                    "total": 380.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 212.68,
+                    "total": 212.68
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 814.8,
+                    "total": 814.8
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 46894,

@@ -1,31 +1,65 @@
 {
     "slug": "Mandeville-Forrest--J",
     "candidateName": "Mandeville, Forrest  J",
-    "scrape_date": "2020-05-03",
+    "scrape_date": "2020-05-26",
     "officeTitle": "Secretary of State",
     "partyDescr": "Republican",
-    "periods": 4,
-    "receipts": 40018.0,
-    "expenditures": 32092.269999999997,
-    "balance": 7925.73,
+    "periods": 5,
+    "receipts": 43653.0,
+    "expenditures": 43215.53,
+    "balance": 437.47,
     "summary": {
         "contributions": {
-            "primary": 40018.0,
+            "primary": 43653.0,
             "general": 0.0,
-            "total": 40018.0
+            "total": 43653.0
         },
         "expenditures": {
-            "primary": 32092.269999999997,
+            "primary": 43215.53,
             "general": 0.0,
-            "total": 32092.269999999997
+            "total": 43215.53
         },
         "cash_on_hand": {
-            "primary": 7925.73,
+            "primary": 437.47,
             "general": 0.0,
-            "total": 7925.73
+            "total": 437.47
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 47434,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 25.0,
+            "num_contributions": 8,
+            "num_expenditures": 7,
+            "summary": {
+                "previous report": {
+                    "primary": 7925.73,
+                    "general": 0.0,
+                    "total": 7925.73
+                },
+                "Receipts": {
+                    "primary": 3635.0,
+                    "general": 0.0,
+                    "total": 3635.0
+                },
+                "Expenditures": {
+                    "primary": 11123.26,
+                    "general": 0.0,
+                    "total": 11123.26
+                },
+                "Ending Balance": {
+                    "primary": 437.47,
+                    "general": 0.0,
+                    "total": 437.47
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 46861,

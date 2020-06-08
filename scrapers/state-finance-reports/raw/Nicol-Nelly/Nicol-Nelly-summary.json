@@ -1,31 +1,65 @@
 {
     "slug": "Nicol-Nelly",
     "candidateName": "Nicol, Nelly ",
-    "scrape_date": "2020-05-03",
+    "scrape_date": "2020-05-26",
     "officeTitle": "State Auditor",
     "partyDescr": "Republican",
-    "periods": 3,
-    "receipts": 88432.88,
-    "expenditures": 45046.31999999999,
-    "balance": 43386.56,
+    "periods": 4,
+    "receipts": 88832.88,
+    "expenditures": 58153.91999999999,
+    "balance": 30678.96,
     "summary": {
         "contributions": {
-            "primary": 83782.88,
+            "primary": 84182.88,
             "general": 4650.0,
-            "total": 88432.88
+            "total": 88832.88
         },
         "expenditures": {
-            "primary": 45046.31999999999,
+            "primary": 58153.91999999999,
             "general": 0.0,
-            "total": 45046.31999999999
+            "total": 58153.91999999999
         },
         "cash_on_hand": {
-            "primary": 38736.56,
+            "primary": 26028.96,
             "general": 4650.0,
-            "total": 43386.56
+            "total": 30678.96
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 48017,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 4,
+            "num_expenditures": 21,
+            "summary": {
+                "previous report": {
+                    "primary": 38736.56,
+                    "general": 4650.0,
+                    "total": 43386.56
+                },
+                "Receipts": {
+                    "primary": 400.0,
+                    "general": 0.0,
+                    "total": 400.0
+                },
+                "Expenditures": {
+                    "primary": 13107.6,
+                    "general": 0.0,
+                    "total": 13107.6
+                },
+                "Ending Balance": {
+                    "primary": 26028.96,
+                    "general": 4650.0,
+                    "total": 30678.96
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47410,

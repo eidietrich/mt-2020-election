@@ -23,7 +23,7 @@
         "report_start_date": "03/16/2020",
         "report_end_date": "04/15/2020"
     },
-    "contributions": "[{\"Date Paid\":\"03\\/16\\/2020\",\"Entity Name\":null,\"First Name\":\"Garnett\",\"Middle Initial\":null,\"Last Name\":\"Rope\",\"Addr Line1\":\"255 Garden Rd\",\"City\":\"Vaughn\",\"State\":\"MT\",\"Zip\":59487,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Assistant Manager\",\"Employer\":\"Fairway Apts\",\"Contribution Type\":9,\"Amount\":100.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":100.0,\"Total General\":0.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "contributions": "[{\"Date Paid\":\"03\\/16\\/2020\",\"Entity Name\":null,\"First Name\":\"Garnett\",\"Middle Initial\":null,\"Last Name\":\"Rope\",\"Addr Line1\":\"255 Garden Rd\",\"City\":\"Vaughn\",\"State\":\"MT\",\"Zip\":59487,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Assistant Manager\",\"Employer\":\"Fairway Apts\",\"Contribution Type\":9,\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":100,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
     "expenditures": "[]",
     "unitemized_contributions": 0.0
 }

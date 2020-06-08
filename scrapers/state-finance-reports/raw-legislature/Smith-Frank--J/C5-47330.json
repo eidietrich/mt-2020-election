@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 515.0,
+            "total": 515.0
+        },
+        "Receipts": {
+            "primary": 280.0,
+            "general": 0.0,
+            "total": 280.0
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 15.0,
+            "total": 15.0
+        },
+        "Ending Balance": {
+            "primary": 280.0,
+            "general": 500.0,
+            "total": 780.0
+        },
+        "report_start_date": "04/17/2020",
+        "report_end_date": "05/20/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"02\\/26\\/2020\",\"Entity Name\":null,\"First Name\":\"John\",\"Middle Initial\":null,\"Last Name\":\"Iverson \",\"Addr Line1\":\"Po box 851\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59624,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":\"M.T.A. Hospitality PAC\",\"Contribution Type\":9,\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":100,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"02\\/25\\/2020\",\"Entity Name\":null,\"First Name\":\"Matthew \",\"Middle Initial\":null,\"Last Name\":\"Jones \",\"Addr Line1\":\"Po box 961039\",\"City\":\"Fort Worth \",\"State\":\"TX\",\"Zip\":7616100,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":\"BNSF RAILPAC\",\"Contribution Type\":9,\"Amount\":180,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":180,\"Total General\":0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0.0
+}

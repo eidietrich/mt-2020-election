@@ -1,31 +1,65 @@
 {
     "slug": "Ler-Brandon--E",
     "candidateName": "Ler, Brandon  E",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 35",
     "partyDescr": "Republican",
-    "periods": 2,
-    "receipts": 4769.87,
-    "expenditures": 1792.31,
-    "balance": 2977.56,
+    "periods": 3,
+    "receipts": 7229.87,
+    "expenditures": 5474.29,
+    "balance": 1755.58,
     "summary": {
         "contributions": {
-            "primary": 4769.87,
+            "primary": 7229.87,
             "general": 0.0,
-            "total": 4769.87
+            "total": 7229.87
         },
         "expenditures": {
-            "primary": 1792.31,
+            "primary": 5474.29,
             "general": 0.0,
-            "total": 1792.31
+            "total": 5474.29
         },
         "cash_on_hand": {
-            "primary": 2977.56,
+            "primary": 1755.58,
             "general": 0.0,
-            "total": 2977.56
+            "total": 1755.58
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48058,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 17,
+            "num_expenditures": 9,
+            "summary": {
+                "previous report": {
+                    "primary": 2977.56,
+                    "general": 0.0,
+                    "total": 2977.56
+                },
+                "Receipts": {
+                    "primary": 2460.0,
+                    "general": 0.0,
+                    "total": 2460.0
+                },
+                "Expenditures": {
+                    "primary": 3681.98,
+                    "general": 0.0,
+                    "total": 3681.98
+                },
+                "Ending Balance": {
+                    "primary": 1755.58,
+                    "general": 0.0,
+                    "total": 1755.58
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47409,

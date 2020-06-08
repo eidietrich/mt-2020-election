@@ -1,31 +1,65 @@
 {
     "slug": "Glimm-Carl--C",
     "candidateName": "Glimm, Carl  C",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "Senate District No. 02",
     "partyDescr": "Republican",
-    "periods": 2,
-    "receipts": 5200.0,
-    "expenditures": 2797.26,
-    "balance": 2402.74,
+    "periods": 3,
+    "receipts": 7090.0,
+    "expenditures": 5980.25,
+    "balance": 1109.75,
     "summary": {
         "contributions": {
-            "primary": 5200.0,
+            "primary": 7090.0,
             "general": 0.0,
-            "total": 5200.0
+            "total": 7090.0
         },
         "expenditures": {
-            "primary": 2797.26,
+            "primary": 5980.25,
             "general": 0.0,
-            "total": 2797.26
+            "total": 5980.25
         },
         "cash_on_hand": {
-            "primary": 2402.74,
+            "primary": 1109.75,
             "general": 0.0,
-            "total": 2402.74
+            "total": 1109.75
         }
     },
     "reports": [
+        {
+            "report": "04/21/2020 to 05/19/2020",
+            "id": 48012,
+            "type": "C5",
+            "start_date": "04/21/2020",
+            "end_date": "05/19/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 14,
+            "num_expenditures": 3,
+            "summary": {
+                "previous report": {
+                    "primary": 2402.74,
+                    "general": 0.0,
+                    "total": 2402.74
+                },
+                "Receipts": {
+                    "primary": 1890.0,
+                    "general": 0.0,
+                    "total": 1890.0
+                },
+                "Expenditures": {
+                    "primary": 3182.99,
+                    "general": 0.0,
+                    "total": 3182.99
+                },
+                "Ending Balance": {
+                    "primary": 1109.75,
+                    "general": 0.0,
+                    "total": 1109.75
+                },
+                "report_start_date": "04/21/2020",
+                "report_end_date": "05/19/2020"
+            }
+        },
         {
             "report": "03/21/2020 to 04/20/2020",
             "id": 47544,

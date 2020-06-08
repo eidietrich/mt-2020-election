@@ -1,287 +1,290 @@
 candidateName,chamber,district,partyDescr,gen_receipts,pri_receipts,tot_receipts,tot_expenditures,tot_cash_on_hand,reports_filed,last_report_end_date,scrape_date
-"Scheidler, Amanda",House,39,Republican,0.0,210.0,210.0,154.95000000000002,55.05,2,03/15/2020,2020-05-11
-"Scott, Catherine  M",Senate,40,Democrat,0.0,2270.0,2270.0,712.64,1557.36,4,10/02/2019,2020-05-11
-"Olsen, Andrea",House,100,Democrat,0.0,855.0,855.0,48.75,806.25,2,03/15/2020,2020-05-11
-"Warner, Michael  L",Senate,45,Republican,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-11
-"Browning, Gerry",House,12,Democrat,3041.0,0.0,3041.0,374.04,2666.96,2,03/15/2020,2020-05-11
-"Walsh, Kenneth  M",House,71,Republican,0.0,5765.0,5765.0,3676.97,2088.03,4,09/30/2019,2020-05-11
-"Torgerson, Jacob  B",Senate,40,Democrat,0.0,3011.2,3011.2,456.30999999999995,2554.89,4,09/30/2019,2020-05-11
-"Patelis, James  G",House,52,Republican,7138.88,5020.0,12158.880000000001,4369.22,7789.66,2,03/15/2020,2020-05-11
-"FourStar, Kristofer  J",Senate,16,Democrat,0.0,0.0,0.0,0.0,0.0,2,03/15/2020,2020-05-11
-"Lovick, Helena",House,26,Democrat,4481.0599999999995,0.0,4481.0599999999995,1141.4199999999998,3339.64,2,03/15/2020,2020-05-11
-"Ladson, Zachary",House,46,Democrat,0.0,0.0,0.0,0.0,0.0,2,03/15/2020,2020-05-11
-"Dooling, Julie  A",House,70,Republican,0.0,3000.0,3000.0,771.15,2228.85,5,06/30/2019,2020-05-11
-"Powers, Debo  D",House,03,Democrat,0.0,8571.96,8571.96,2565.18,6006.78,3,12/31/2019,2020-05-11
-"Lamb, John",Senate,36,Libertarian,0.0,15.0,15.0,0.0,15.0,2,03/20/2020,2020-05-11
-"Duram, Neil  A",House,02,Republican,0.0,380.0,380.0,0.0,380.0,1,04/24/2020,2020-05-11
-"Blom, Heather  M",House,77,Republican,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-11
-"Ramlow, Nicholas  R",House,07,Libertarian,0.0,0.0,0.0,0.0,0.0,2,03/20/2020,2020-05-11
-"Jackson, Laura  M",House,85,Democrat,40.0,0.0,40.0,0.0,40.0,2,03/15/2020,2020-05-11
-"Gist, Steve  C",House,25,Republican,880.0,0.0,880.0,119.55,760.45,2,03/15/2020,2020-05-11
-"Tutvedt, Bruce  P",House,06,Republican,180.0,9405.0,9585.0,4367.29,5217.71,2,03/17/2020,2020-05-11
-"Magone, Diane  L",Senate,07,Democrat,0.0,605.0,605.0,235.35,369.65,2,03/19/2020,2020-05-11
-"Allen, Kenneth  E",House,86,Republican,0.0,0.0,0.0,0.0,0.0,2,03/20/2020,2020-05-11
-"Rains, Matt",House,22,Democrat,0.0,1385.0,1385.0,0.0,1385.0,2,03/17/2020,2020-05-11
-"Westlake, Debbie  R",House,82,Republican,150.0,0.0,150.0,78.06,71.94,2,03/20/2020,2020-05-11
-"Fuller, John  D.",House,08,Republican,280.0,2334.84,2614.84,554.0699999999999,2060.77,4,09/30/2019,2020-05-11
-"Fleming, Frank",House,51,Republican,2445.0,0.0,2445.0,838.48,1606.52,2,03/15/2020,2020-05-11
-"Curdy, Willis",House,98,Democrat,1540.0,0.0,1540.0,1028.7,511.3,1,04/20/2020,2020-05-11
-"Fielder, Paul  C",House,13,Republican,0.0,935.0,935.0,332.38,602.62,4,10/04/2019,2020-05-11
-"Bishop, Laurie",House,60,Democrat,4840.4,0.0,4840.4,266.66,4573.74,2,03/15/2020,2020-05-11
-"gibney, timothy  a",Senate,44,Democrat,0.0,15.0,15.0,0.0,15.0,1,03/16/2020,2020-05-11
-"Putnam, Brian",House,09,Republican,0.0,3689.33,3689.33,3439.67,249.66,2,03/15/2020,2020-05-11
-"Haysom, Bryan  D",House,63,Republican,0.0,230.0,230.0,0.0,230.0,2,03/15/2020,2020-05-11
-"Bartel, Dan",House,29,Republican,0.0,0.0,0.0,0.0,0.0,2,03/18/2020,2020-05-11
-"Giuliano, Anne",House,51,Democrat,11500.0,180.0,11680.0,1795.18,9884.82,6,04/01/2019,2020-05-11
-"Sherman, Karen",House,95,Republican,0.0,0.0,0.0,0.0,0.0,1,03/15/2020,2020-05-11
-"Waterman, Kyle  D",Senate,02,Democrat,6115.0,0.0,6115.0,1857.34,4257.66,2,03/15/2020,2020-05-11
-"Roe, Tanner  M",House,36,Republican,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-11
-"Hinebauch, Steven  W",Senate,18,Republican,180.0,1240.0,1420.0,118.87,1301.13,3,01/03/2020,2020-05-11
-"Popiel, Brian  G",House,64,Democrat,0.0,2230.0,2230.0,482.02,1747.98,2,03/15/2020,2020-05-11
-"Funk, Moffie  G.",House,82,Democrat,7520.0,0.0,7520.0,520.22,6999.78,3,12/31/2019,2020-05-11
-"Schillinger, Jerry  L",House,37,Unknown,0.0,4445.0,4445.0,544.95,3900.05,2,03/15/2020,2020-05-11
-"Gauthier, Terry  J",Senate,40,Republican,1910.0,0.0,1910.0,0.0,1910.0,5,06/30/2019,2020-05-11
-"Kitson, Jacob  A",House,37,Libertarian,200.0,0.0,200.0,50.0,150.0,2,03/20/2020,2020-05-11
-"Nave, Fiona  B",House,57,Republican,0.0,1850.0,1850.0,1115.36,734.64,4,09/30/2019,2020-05-11
-"Bahr, Brenna (Jade)",House,50,Democrat,1117.0,1155.0,2272.0,259.84000000000003,2012.16,6,07/05/2019,2020-05-11
-"MacDonald, Margaret  E.",Senate,26,Democrat,0.0,24303.0,24303.0,5379.94,18923.06,5,06/30/2019,2020-05-11
-"Frazier, Ross",House,07,Democrat,877.0,0.0,877.0,440.33,436.67,2,03/15/2020,2020-05-11
-"Krautter, Joel  G",House,35,Republican,0.0,17964.0,17964.0,12393.24,5570.76,5,06/30/2019,2020-05-11
-"Ballance, Nancy  L",Senate,44,Republican,0.0,35800.0,35800.0,25720.73,10079.27,5,07/04/2019,2020-05-11
-"Kelker, Katharin  A",House,47,Democrat,13015.91,0.0,13015.91,2843.54,10172.37,3,12/31/2019,2020-05-11
-"Whitman, Kathy  J",House,96,Republican,2160.0,2160.0,4320.0,2160.0,2160.0,3,01/05/2020,2020-05-11
-"Bedey, David  F.",House,86,Republican,0.0,2440.0299999999997,2440.0299999999997,551.27,1888.76,5,06/30/2019,2020-05-11
-"Sullivan, Katie",House,89,Democrat,1096.2,1140.0,2236.2,1140.0,1096.2,4,10/05/2019,2020-05-11
-"Keogh, Connie",House,91,Democrat,120.0,5850.0,5970.0,2905.42,3064.58,4,09/30/2019,2020-05-11
-"Hamlett, Bradley  M",House,23,Democrat,0.0,170.0,170.0,170.0,0.0,2,03/15/2020,2020-05-11
-"Root, Ian",House,71,Democrat,100.0,0.0,100.0,0.0,100.0,2,03/15/2020,2020-05-11
-"Price, Scott  D",Senate,25,Republican,4000.0,0.0,4000.0,1081.8600000000001,2918.14,2,03/15/2020,2020-05-11
-"Bessette, Barbara",House,24,Democrat,1965.0,0.0,1965.0,460.11,1504.89,2,03/15/2020,2020-05-11
-"Mahlum, Doug",House,10,Republican,280.0,6520.2,6800.2,2036.8600000000001,4763.34,2,03/15/2020,2020-05-11
-"Hileman, Dakota  L",House,96,Democrat,0.0,355.0,355.0,339.08,15.92,2,03/15/2020,2020-05-11
-"Horn, Jaime  A",House,21,Democrat,0.0,0.0,0.0,0.0,0.0,1,03/28/2020,2020-05-11
-"Brown, Robert  J",Senate,07,Republican,930.0,0.0,930.0,100.0,830.0,2,03/20/2020,2020-05-11
-"Ellsworth, Kyle",House,85,Republican,0.0,1520.0,1520.0,1235.0,285.0,2,03/20/2020,2020-05-11
-"Leach, Robert  L.",House,81,Republican,0.0,0.0,0.0,0.0,0.0,1,03/15/2020,2020-05-11
-"Crum, Jolene",House,65,Republican,0.0,0.0,0.0,0.0,0.0,2,03/16/2020,2020-05-11
-"France, Tom",House,94,Democrat,0.0,9917.0,9917.0,5317.8099999999995,4599.19,2,03/16/2020,2020-05-11
-"Mercer, Bill",House,46,Republican,725.0,0.0,725.0,325.25,399.75,2,03/15/2020,2020-05-11
-"Knudsen, Rhonda",House,34,Republican,0.0,3550.0,3550.0,1015.08,2534.92,4,10/05/2019,2020-05-11
-"Tschida, Bradley  E",House,97,Republican,1460.0,0.0,1460.0,0.0,1460.0,2,03/20/2020,2020-05-11
-"Marshall, Ron  L",House,87,Republican,0.0,3000.0,3000.0,1731.9,1268.1,5,06/30/2019,2020-05-11
-"Noland, Mark  R.",House,10,Republican,0.0,3960.0,3960.0,3211.84,748.16,2,03/15/2020,2020-05-11
-"Binkley, Michele  R.",House,85,Republican,0.0,6154.6900000000005,6154.6900000000005,5599.5599999999995,555.13,4,09/30/2019,2020-05-11
-"Wanberg, Bethanie  C",House,91,Republican,0.0,0.0,0.0,0.0,0.0,2,03/15/2020,2020-05-11
-"Owens, Catherine  L",House,05,Republican,0.0,1495.0,1495.0,2329.03,-834.03,2,03/31/2020,2020-05-11
-"Minjares, Carol  J",House,100,Republican,0.0,0.0,0.0,0.0,0.0,2,03/15/2020,2020-05-11
-"Allen, Jennifer",House,10,Democrat,3267.98,0.0,3267.98,1318.23,1949.75,2,03/15/2020,2020-05-11
-"Hinds, Colleen  M",House,13,Democrat,320.0,0.0,320.0,15.0,305.0,2,03/16/2020,2020-05-11
-"Kerns, Scot",House,23,Republican,0.0,505.0,505.0,37.5,467.5,2,03/19/2020,2020-05-11
-"Gorski, Margaret  J",Senate,44,Democrat,0.0,1144.6,1144.6,45.4,1099.2,2,03/15/2020,2020-05-11
-"Fern, David  B",House,05,Democrat,3450.0,0.0,3450.0,1137.64,2312.36,3,01/06/2020,2020-05-11
-"Schuster, Tracy  J",House,34,Republican,0.0,225.0,225.0,107.74,117.26,2,03/15/2020,2020-05-11
-"Small, Jason",Senate,21,Republican,0.0,1816.0,1816.0,657.88,1158.12,2,03/15/2020,2020-05-11
-"Hume, Sashin  A",House,87,Republican,0.0,798.0,798.0,1137.72,-339.72,4,09/30/2019,2020-05-11
-"Read, Joseph  l",House,93,Republican,0.0,265.0,265.0,43.28,221.72,2,03/25/2020,2020-05-11
-"Beard, Becky",House,80,Republican,0.0,740.0,740.0,23.5,716.5,4,09/30/2019,2020-05-11
-"Herak, Bryher",House,75,Democrat,0.0,2420.0,2420.0,244.26,2175.74,2,03/20/2020,2020-05-11
-"Garner, Frank",House,07,Republican,0.0,10205.0,10205.0,5785.37,4419.63,4,09/30/2019,2020-05-11
-"Regier, Matt",House,04,Republican,0.0,1070.0,1070.0,521.52,548.48,2,03/16/2020,2020-05-11
-"Dodd, Jeni",Senate,10,Republican,0.0,705.0,705.0,358.11,346.89,2,03/15/2020,2020-05-11
-"Poe, Hollis",House,85,Republican,0.0,2845.0,2845.0,2757.27,87.73,5,06/30/2019,2020-05-11
-"Vinton, Susanne  E.",House,56,Republican,900.0,0.0,900.0,0.0,900.0,3,01/06/2020,2020-05-11
-"Olson, Hannah  G",House,52,Democrat,4565.0,0.0,4565.0,2962.0499999999997,1602.95,4,09/30/2019,2020-05-11
-"Jones, Llew",House,18,Republican,560.0,7375.0,7935.0,1120.6100000000001,6814.39,5,06/30/2019,2020-05-11
-"Hill, Edward  E.",House,28,Republican,1530.0,0.0,1530.0,414.0,1116.0,1,03/31/2020,2020-05-11
-"Gay, Chase  P",Senate,47,Democrat,2250.0,0.0,2250.0,77.89999999999999,2172.1,2,03/15/2020,2020-05-11
-"Quist, Guthrie  W",Senate,03,Democrat,1190.0,0.0,1190.0,567.23,622.77,2,03/15/2020,2020-05-11
-"Abbott, Kim",House,83,Democrat,2020.0,0.0,2020.0,336.94,1683.06,2,03/15/2020,2020-05-11
-"Scanlin, Elizabeth (Betsy)",House,58,Democrat,1930.0,0.0,1930.0,289.47,1640.53,2,03/15/2020,2020-05-11
-"Jackson, Jon  R",House,84,Democrat,0.0,15.0,15.0,0.0,15.0,2,03/15/2020,2020-05-11
-"Armerding, Richard  L",House,98,Libertarian,0.0,600.0,600.0,333.34000000000003,266.66,2,03/15/2020,2020-05-11
-"Cuvillier, Gerald  J.",Senate,07,Democrat,0.0,15.0,15.0,0.0,15.0,2,03/15/2020,2020-05-11
-"Bugli, Jolena",House,87,Republican,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-11
-"Younkin, Cindy  E",House,71,Republican,0.0,500.0,500.0,0.0,500.0,2,03/18/2020,2020-05-11
-"Richmond, Tom",Senate,28,Republican,0.0,5419.99,5419.99,907.47,4512.52,3,12/31/2019,2020-05-11
-"Brewster, Larry  D",House,44,Republican,5811.1,560.0,6371.1,2526.92,3844.18,4,10/30/2019,2020-05-11
-"Buterbaugh, James  O",Senate,38,Republican,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-11
-"O'Neil, Jerry",House,07,Republican,0.0,15.0,15.0,15.0,0.0,1,03/20/2020,2020-05-11
-"Schultz, George  Antho",House,19,Libertarian,0.0,0.0,0.0,0.0,0.0,2,03/20/2020,2020-05-11
-"Malone, Marty  C",House,59,Republican,3765.0,0.0,3765.0,770.86,2994.14,2,03/15/2020,2020-05-11
-"Hill Smith, Ellie",Senate,45,Democrat,0.0,5525.67,5525.67,5525.67,0.0,5,06/30/2019,2020-05-11
-"Longfield, Paul  J",Senate,02,Republican,0.0,0.0,0.0,0.0,0.0,2,03/15/2020,2020-05-11
-"Hamman, Jane   L",Senate,38,Republican,0.0,2092.35,2092.35,366.62,1725.73,1,03/15/2020,2020-05-11
-"Verrill-Rhys, Leigh  V",House,48,Republican,930.0,0.0,930.0,282.52,647.48,2,03/15/2020,2020-05-11
-"Tenenbaum, Danny",House,95,Democrat,0.0,5368.0,5368.0,2791.21,2576.79,4,09/30/2019,2020-05-11
-"Lucke, Terry",Senate,45,Libertarian,0.0,0.0,0.0,0.0,0.0,1,03/15/2020,2020-05-11
-"Salomon, Daniel",Senate,47,Republican,985.0,3050.0,4035.0,176.2,3858.8,5,06/30/2019,2020-05-11
-"Conley, Loni  R",House,96,Democrat,665.0,780.0,1445.0,771.4100000000001,673.59,5,06/30/2019,2020-05-11
-"Bertoglio, Marta  L",House,75,Republican,1080.0,11195.0,12275.0,7637.68,4637.32,2,03/15/2020,2020-05-11
-"Stafman, Ed",House,62,Democrat,30505.72,34837.46,65343.18,39548.189999999995,25794.99,6,06/30/2019,2020-05-11
-"Loge, Denley  M",House,14,Republican,0.0,3890.0,3890.0,1905.12,1984.88,5,06/30/2019,2020-05-11
-"Seifert, Donald  F.",House,69,Republican,0.0,4345.15,4345.15,2615.47,1729.68,1,04/15/2020,2020-05-11
-"O'Brien, Shannon",Senate,46,Democrat,978.78,19186.22,20165.0,13598.22,6566.78,6,04/01/2019,2020-05-11
-"GAUB, DARIN  L.",House,83,Republican,300.22,0.0,300.22,300.22,0.0,2,03/20/2020,2020-05-11
-"Wanberg, Gary",House,89,Republican,0.0,0.0,0.0,0.0,0.0,2,03/15/2020,2020-05-11
-"Sheldon-Galloway, LOLA",House,22,Republican,0.0,3420.9,3420.9,903.93,2516.97,4,10/30/2019,2020-05-11
-"Harvey, Derek  J",House,74,Democrat,1375.0,0.0,1375.0,97.99,1277.01,3,12/31/2019,2020-05-11
-"Braaten, Devin  J",Senate,47,Libertarian,360.0,0.0,360.0,180.0,180.0,2,03/15/2020,2020-05-11
-"Hinkle, Jedediah",House,67,Republican,10696.45,10601.01,21297.46,12139.64,9157.82,4,09/30/2019,2020-05-11
-"Skime, Nolen  W",Senate,45,Libertarian,0.0,0.0,0.0,0.0,0.0,2,03/16/2020,2020-05-11
-"Ler, Brandon  E",House,35,Republican,0.0,4769.87,4769.87,1792.31,2977.56,2,03/15/2020,2020-05-11
-"Hamilton, Lana",House,90,Republican,0.0,0.0,0.0,0.0,0.0,2,03/15/2020,2020-05-11
-"Hopkins, Mike",House,92,Republican,2970.0,0.0,2970.0,0.0,2970.0,5,06/30/2019,2020-05-11
-"Zolnikov, Katie",House,45,Republican,0.0,1860.01,1860.01,803.54,1056.47,4,09/30/2019,2020-05-11
-"Dear-Ruel, Jerramy  K",House,06,Democrat,480.0,0.0,480.0,7.9,472.1,2,03/15/2020,2020-05-11
-"Berglee, Seth  M",House,58,Republican,460.0,0.0,460.0,0.0,460.0,2,03/15/2020,2020-05-11
-"Hiner, Cindy  J",House,78,Democrat,0.0,115.0,115.0,8.0,107.0,2,03/15/2020,2020-05-11
-"Scalcpane, August  G",House,41,Democrat,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-11
-"Brown, Debra  A",Senate,35,Republican,0.0,0.0,0.0,0.0,0.0,2,03/15/2020,2020-05-11
-"Fitzpatrick, Steven  J",Senate,10,Republican,0.0,21673.99,21673.99,9969.529999999999,11704.46,5,06/30/2019,2020-05-11
-"Meyers, Gilbert  B",House,32,Republican,160.0,0.0,160.0,0.0,160.0,2,03/15/2020,2020-05-11
-"Palmer, Cindy  L",House,30,Democrat,0.0,0.0,0.0,0.0,0.0,2,03/15/2020,2020-05-11
-"Hinkle, Caleb",House,68,Republican,0.0,4381.76,4381.76,863.52,3518.24,3,12/31/2019,2020-05-11
-"Burgoyne, Nancy  B",House,98,Republican,200.0,0.0,200.0,0.0,200.0,2,03/20/2020,2020-05-11
-"DeVries, Greg",House,75,Republican,0.0,15.0,15.0,15.0,0.0,2,03/15/2020,2020-05-11
-"Walksnice, Kaden",House,41,Democrat,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-11
-"Pierson, Gordon",Senate,39,Democrat,0.0,6920.0,6920.0,2057.0,4863.0,5,10/01/2019,2020-05-11
-"Sales, Walt",Senate,35,Republican,0.0,14559.0,14559.0,5035.13,9523.87,5,07/05/2019,2020-05-11
-"McGillvray, Tom  V",Senate,23,Republican,28254.0,0.0,28254.0,6998.51,21255.49,6,04/01/2019,2020-05-11
-"Novak, Sara  K",House,77,Democrat,0.0,376.05,376.05,2.0,374.05,4,09/30/2019,2020-05-11
-"Karjala, Jessica  L",House,48,Democrat,0.0,194.06,194.06,0.0,194.06,2,03/15/2020,2020-05-11
-"kephart, james  w",House,74,Republican,250.0,0.0,250.0,197.0,53.0,2,03/15/2020,2020-05-11
-"Manzella, Theresa  M",Senate,44,Republican,0.0,16501.93,16501.93,12013.61,4488.32,4,09/30/2019,2020-05-11
-"Skees, Derek",House,11,Republican,0.0,1765.0,1765.0,159.0,1606.0,2,03/20/2020,2020-05-11
-"Kassmier, Joshua  J",House,27,Republican,740.0,0.0,740.0,25.28,714.72,4,10/01/2019,2020-05-11
-"Duprey, Rick",Senate,36,Republican,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-11
-"Lamm, Joe  D",House,60,Republican,200.0,0.0,200.0,0.0,200.0,2,03/16/2020,2020-05-11
-"Moore, Terrill  R",House,54,Republican,6120.0,0.0,6120.0,46.0,6074.0,2,03/15/2020,2020-05-11
-"Sporkin-Morrison, Barnett  G",House,17,Democrat,0.0,1000.0,1000.0,0.0,1000.0,2,03/15/2020,2020-05-11
-"Regier, Amy",House,06,Republican,0.0,2955.0,2955.0,487.49,2467.51,4,10/07/2019,2020-05-11
-"KerrCarpenter, Emma",House,49,Democrat,1780.0,570.0,2350.0,365.2,1984.8,2,03/15/2020,2020-05-11
-"Crews, James  V",House,88,Republican,0.0,290.0,290.0,275.0,15.0,2,03/15/2020,2020-05-11
-"WINDY BOY, JONATHAN",House,32,Democrat,0.0,0.0,0.0,0.0,0.0,2,03/15/2020,2020-05-11
-"Smith, Frank  J",House,31,Democrat,515.0,0.0,515.0,0.0,515.0,1,03/20/2020,2020-05-11
-"Locati, Matthew",House,85,Republican,0.0,50.0,50.0,0.0,50.0,1,03/16/2020,2020-05-11
-"Hull, Charlie",House,84,Republican,0.0,0.0,0.0,0.0,0.0,1,03/25/2020,2020-05-11
-"Peppers, Patricia  Rae",Senate,21,Democrat,50.0,300.0,350.0,350.0,0.0,4,09/30/2019,2020-05-11
-"Perry, Gary  L",Senate,35,Republican,0.0,420.0,420.0,2216.49,-1796.49,3,12/31/2019,2020-05-11
-"Moore, David  J",House,99,Republican,3350.0,0.0,3350.0,1091.58,2258.42,2,03/15/2020,2020-05-11
-"Vandevender, Dorothy",House,80,Libertarian,0.0,25.0,25.0,0.0,25.0,1,01/21/2020,2020-05-11
-"Mitchell, Braxton  M",House,03,Republican,0.0,2205.0,2205.0,1051.43,1153.57,2,03/15/2020,2020-05-11
-"Broling, Claire",House,68,Democrat,0.0,0.0,0.0,0.0,0.0,1,03/15/2020,2020-05-11
-"Greef, Sharon",House,88,Republican,0.0,4970.0,4970.0,862.79,4107.21,5,07/05/2019,2020-05-11
-"Galloway, Steven  E",House,24,Republican,625.0,0.0,625.0,64.28,560.72,2,03/20/2020,2020-05-11
-"Grubbs, Bruce",House,68,Republican,360.0,11200.0,11560.0,5436.75,6123.25,5,06/30/2019,2020-05-11
-"Garcia, Rodney",Senate,26,Republican,0.0,0.0,0.0,0.0,0.0,2,04/15/2020,2020-05-11
-"Galt, Errol  Wylie",House,30,Republican,1610.0,0.0,1610.0,13.8,1596.2,2,03/15/2020,2020-05-11
-"weatherwax , Marvin  R",House,15,Democrat,0.0,0.0,0.0,0.0,0.0,3,12/31/2019,2020-05-11
-"Buckley, Alice  A",House,63,Democrat,9270.0,0.0,9270.0,4377.739999999999,4892.26,3,12/31/2019,2020-05-11
-"McKenty, Nate",House,45,Libertarian,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-11
-"Lenz, Dennis  R.",House,53,Republican,8043.46,0.0,8043.46,5165.0,2878.46,2,03/15/2020,2020-05-11
-"Schaefer, Andrew  T",House,67,Libertarian,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-11
-"Bennett, Daniel   A",House,61,Libertarian,0.0,0.0,0.0,0.0,0.0,2,03/20/2020,2020-05-11
-"Welborn, Jeffrey",Senate,36,Republican,2738.11,1790.0,4528.110000000001,2100.0,2428.11,4,09/30/2019,2020-05-11
-"Welch, Tom",House,72,Republican,460.0,2645.0,3105.0,757.91,2347.09,4,09/30/2019,2020-05-11
-"Borstad, Sylvia  R",House,03,Democrat,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-11
-"Fitzgerald, Ross  H",House,17,Republican,0.0,840.0,840.0,0.0,840.0,1,04/15/2020,2020-05-11
-"Ravndal, Tim",House,70,Republican,0.0,530.0,530.0,52.23,477.77,2,03/15/2020,2020-05-11
-"mischel, pat  a",Senate,18,Democrat,980.0,0.0,980.0,374.11,605.89,2,03/15/2020,2020-05-11
-"Larsh (Test account), Molly",House,79,Independent,0.0,1610.0,1610.0,580.0,1030.0,2,12/31/2019,2020-05-11
-"Smith, Melissa  L",House,20,Democrat,870.0,0.0,870.0,739.54,130.46,2,03/15/2020,2020-05-11
-"Phalen, Bob",House,36,Republican,0.0,7890.5,7890.5,3113.0299999999997,4777.47,2,03/18/2020,2020-05-11
-"Carlson, Jennifer  K",House,69,Republican,0.0,5245.0,5245.0,1877.2700000000002,3367.73,4,10/05/2019,2020-05-11
-"Hansen, LouAnn",House,97,Democrat,0.0,4218.6,4218.6,1085.1,3133.5,4,09/30/2019,2020-05-11
-"Molnar, Bradley  A",Senate,28,Republican,0.0,7247.26,7247.26,5680.34,1566.92,2,03/20/2020,2020-05-11
-"French, Mark  T.",House,14,Republican,0.0,15.0,15.0,0.0,15.0,2,03/15/2020,2020-05-11
-"Smith, Bridget",Senate,16,Democrat,0.0,0.0,0.0,0.0,0.0,2,03/15/2020,2020-05-11
-"Nygaard, Colin  Micha",House,49,Republican,0.0,0.0,0.0,0.0,0.0,2,03/15/2020,2020-05-11
-"Thane, Mark  A",House,99,Democrat,0.0,6335.0,6335.0,2666.18,3668.82,4,09/30/2019,2020-05-11
-"Marler, Marilyn",House,90,Democrat,915.0,0.0,915.0,36.0,879.0,4,10/05/2019,2020-05-11
-"Dupree, Jestin  L",Senate,16,Democrat,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-11
-"bridges, curtis  r",House,95,Republican,0.0,0.0,0.0,0.0,0.0,1,03/23/2020,2020-05-11
-"Johnson, James  A",House,36,Republican,0.0,3150.95,3150.95,1415.52,1735.43,2,03/15/2020,2020-05-11
-"Stuart, Jason",House,36,Republican,0.0,1619.81,1619.81,1412.38,207.43,2,03/15/2020,2020-05-11
-"Buttrey, Ed",House,21,Republican,2680.0,5410.0,8090.0,3214.86,4875.14,4,09/30/2019,2020-05-11
-"Merrill, Laura  M.",House,87,Democrat,0.0,4285.0,4285.0,550.97,3734.03,2,03/15/2020,2020-05-11
-"Meaders, Aaron  M",Senate,37,Republican,164.88,0.0,164.88,123.60999999999999,41.27,2,03/15/2020,2020-05-11
-"NORDWICK, SUZZANN",Senate,39,Republican,0.0,0.0,0.0,0.0,0.0,2,03/20/2020,2020-05-11
-"Buck, Sheridan",House,26,Republican,0.0,132.4,132.4,13.7,118.7,2,03/16/2020,2020-05-11
-"Seckinger, Josh",House,64,Democrat,0.0,1457.0,1457.0,577.81,879.19,2,03/20/2020,2020-05-11
-"Caferro, Mary  M.",House,81,Democrat,690.0,0.0,690.0,0.0,690.0,2,03/15/2020,2020-05-11
-"Gillette, Jane",House,64,Republican,0.0,37383.24,37383.24,25885.55,11497.69,5,06/30/2019,2020-05-11
-"johnson , andy",House,76,Republican,0.0,0.0,0.0,0.0,0.0,2,03/20/2020,2020-05-11
-"Pope, Christopher  S",Senate,31,Democrat,15278.76,11340.0,26618.760000000002,11405.77,15212.99,4,01/06/2020,2020-05-11
-"Coleman, Ed",House,79,Democrat,0.0,13310.0,13310.0,7989.92,5320.08,2,03/15/2020,2020-05-11
-"LANG, MIKE  L",Senate,17,Republican,540.0,0.0,540.0,102.0,438.0,2,03/15/2020,2020-05-11
-"Tucker, Sally",House,21,Republican,0.0,445.0,445.0,155.0,290.0,2,03/15/2020,2020-05-11
-"Smith, Tench  J",House,47,Republican,15880.0,0.0,15880.0,917.01,14962.99,2,03/20/2020,2020-05-11
-"McKamey, Wendy",House,19,Republican,0.0,5190.0,5190.0,0.0,5190.0,4,10/05/2019,2020-05-11
-"Foster, Ralph  C",House,93,Republican,0.0,0.0,0.0,0.0,0.0,2,03/20/2020,2020-05-11
-"Rivera, Dennison  J",House,79,Republican,0.0,0.0,0.0,0.0,0.0,1,03/20/2020,2020-05-11
-"Dunn, David  W",House,09,Republican,0.0,1840.01,1840.01,1030.0,810.01,4,10/07/2019,2020-05-11
-"Vermillion, Dan  D",House,59,Democrat,115.0,0.0,115.0,15.0,100.0,2,03/15/2020,2020-05-11
-"Dennis, Terry  D",House,44,Democrat,2850.0,0.0,2850.0,869.89,1980.11,2,03/15/2020,2020-05-11
-"Vaught, Rick  L",Senate,31,Republican,0.0,0.0,0.0,0.0,0.0,1,03/15/2020,2020-05-11
-"Peterson, Charles   J",House,36,Republican,0.0,458.25,458.25,380.5,77.75,2,03/19/2020,2020-05-11
-"Reksten, Linda  E",House,12,Republican,0.0,2349.0,2349.0,1332.54,1016.46,3,01/03/2020,2020-05-11
-"Hayman, Denise",House,66,Democrat,0.0,0.0,0.0,0.0,0.0,2,03/19/2020,2020-05-11
-"Kirk-Boon, Dee",House,11,Republican,200.10000000000002,5130.0,5330.1,2464.25,2865.85,5,06/30/2019,2020-05-11
-"Chamberlin, Randall",House,64,Republican,140.0,12575.0,12715.0,5186.53,7528.47,2,03/15/2020,2020-05-11
-"Stromswold, Mallerie",House,50,Republican,180.0,7950.0,8130.0,4457.650000000001,3672.35,4,09/30/2019,2020-05-11
-"Holmlund, Kenneth  L",House,38,Republican,6180.0,0.0,6180.0,3130.64,3049.36,1,03/20/2020,2020-05-11
-"McLean, Jim",House,94,Democrat,0.0,7005.0,7005.0,2381.02,4623.98,2,03/15/2020,2020-05-11
-"Sweeney, Mark  A",Senate,39,Democrat,360.0,8365.0,8725.0,6109.57,2615.43,1,03/19/2020,2020-05-11
-"DAWSON, REBECCA  L",House,95,Republican,0.0,970.0,970.0,423.81,546.19,2,03/15/2020,2020-05-11
-"Gross, Jen",Senate,25,Democrat,3820.0,159.0,3979.0,398.28000000000003,3580.72,5,06/30/2019,2020-05-11
-"Running Wolf, Tyson  T",House,16,Democrat,0.0,0.0,0.0,0.0,0.0,2,03/20/2020,2020-05-11
-"Wendt, Francis  V",House,62,Libertarian,0.0,0.0,0.0,0.0,0.0,2,03/15/2020,2020-05-11
-"Tankink, Rudolf  L",House,26,Republican,0.0,500.0,500.0,0.0,500.0,2,03/15/2020,2020-05-11
-"Siate, Erica  C",Senate,45,Democrat,0.0,487.4,487.4,12.15,475.25,2,03/15/2020,2020-05-11
-"Krotkov, Jasmine  A",House,25,Democrat,0.0,6168.88,6168.88,684.75,5484.13,3,12/31/2019,2020-05-11
-"Knudsen, Casey  J",House,33,Republican,40.0,4215.0,4255.0,2015.0,2240.0,4,09/30/2019,2020-05-11
-"Pavlock, Lisa",House,93,Democrat,1580.0,0.0,1580.0,0.0,1580.0,2,03/15/2020,2020-05-11
-"Lynch, Ryan",Senate,37,Democrat,1455.0,0.0,1455.0,0.0,1455.0,3,01/04/2020,2020-05-11
-"Regier, Keith",Senate,03,Republican,1425.0,3220.0,4645.0,3171.94,1473.06,4,10/15/2019,2020-05-11
-"Close, Brian  F",House,61,Democrat,0.0,6801.0,6801.0,3861.77,2939.23,2,03/15/2020,2020-05-11
-"Vandevender, Ron",House,80,Libertarian,0.0,60.0,60.0,25.95,34.05,1,04/19/2020,2020-05-11
-"Trebas, Jeremy",House,26,Republican,180.0,920.0,1100.0,284.54,815.46,3,12/31/2019,2020-05-11
-"Stone, Joyce  A",House,33,Republican,0.0,5705.0,5705.0,1989.77,3715.23,4,10/01/2019,2020-05-11
-"Benes, Melody  A",House,43,Libertarian,0.0,0.0,0.0,0.0,0.0,2,03/15/2020,2020-05-11
-"Custer, Geraldine",House,39,Republican,20.0,2940.0,2960.0,2439.66,520.34,5,07/05/2019,2020-05-11
-"Farris-Olsen, Robert",House,79,Democrat,0.0,8455.0,8455.0,1793.3600000000001,6661.64,4,10/01/2019,2020-05-11
-"Campbell, Colette  K",House,67,Democrat,2907.0,0.0,2907.0,222.65,2684.35,2,03/16/2020,2020-05-11
-"Dunwell, Mary Ann",House,84,Democrat,0.0,5390.0,5390.0,678.99,4711.01,4,09/30/2019,2020-05-11
-"Whiteman-Pena, Rynalea",House,41,Democrat,0.0,0.0,0.0,0.0,0.0,2,03/15/2020,2020-05-11
-"keane, jim",House,73,Democrat,560.0,0.0,560.0,0.0,560.0,2,03/15/2020,2020-05-11
-"Fox, Michael  D",Senate,16,Democrat,0.0,0.0,0.0,0.0,0.0,1,03/15/2020,2020-05-11
-"Frazer, Gregory  L",House,78,Republican,50.0,0.0,50.0,0.0,50.0,2,03/15/2020,2020-05-11
-"O'Connor, Joshua-Luke",Senate,31,Libertarian,0.0,0.0,0.0,0.0,0.0,2,03/15/2020,2020-05-11
-"McClafferty, Edith  L",Senate,38,Democrat,4285.0,0.0,4285.0,366.99,3918.01,2,03/20/2020,2020-05-11
-"Spanjian, Kristin  A",House,40,Democrat,9325.0,180.0,9505.0,2182.71,7322.29,2,03/15/2020,2020-05-11
-"Browder, Thomas  M",House,92,Democrat,0.0,4755.0,4755.0,4557.63,197.37,3,12/31/2019,2020-05-11
-"hawk, donavon  d",House,76,Democrat,0.0,8675.0,8675.0,5192.14,3482.86,3,12/31/2019,2020-05-11
-"Gunderson, Steve",House,01,Republican,840.0,0.0,840.0,0.0,840.0,2,03/15/2020,2020-05-11
-"Osmundson, Ryan",Senate,15,Republican,0.0,2580.1,2580.1,225.0,2355.1,6,04/01/2019,2020-05-11
-"McCaffery, Marjory",House,73,Republican,0.0,0.0,0.0,0.0,0.0,2,03/15/2020,2020-05-11
-"Gray, Alexander  D",Senate,46,Democrat,0.0,3443.0,3443.0,2041.32,1401.68,5,07/05/2019,2020-05-11
-"Kortum, Kelly",House,65,Democrat,0.0,10704.8,10704.8,2125.4,8579.4,3,12/31/2019,2020-05-11
-"Vandevender, Mikaila",House,80,Libertarian,0.0,0.0,0.0,0.0,0.0,1,07/05/2019,2020-05-11
-"Hertz, Greg",Senate,06,Republican,8150.0,180.0,8330.0,1733.8899999999999,6596.11,4,09/30/2019,2020-05-11
-"Anderson, Fred  I",House,20,Republican,0.0,5090.0,5090.0,1975.95,3114.05,5,06/30/2019,2020-05-11
-"Nunnally, norman  a",Senate,02,Republican,0.0,1401.28,1401.28,1270.77,130.51,4,10/05/2019,2020-05-11
-"Sather, Marvin  C",House,01,Democrat,4535.0,0.0,4535.0,515.3199999999999,4019.68,3,03/15/2020,2020-05-11
-"Ricci, Vince  J",House,55,Republican,0.0,1980.0,1980.0,1038.26,941.74,3,12/31/2019,2020-05-11
-"Steinmetz, Krystal",House,28,Democrat,4120.0,0.0,4120.0,858.4399999999999,3261.56,2,03/15/2020,2020-05-11
-"Guymon, Shawn",House,05,Republican,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-11
-"Glimm, Carl  C",Senate,02,Republican,0.0,5200.0,5200.0,2797.26,2402.74,2,03/20/2020,2020-05-11
-"McLean, Scott Roy",House,88,Republican,1090.0,3015.2,4105.2,2577.6,1527.6,4,09/30/2019,2020-05-11
-"Friedel, Christopher  P",Senate,26,Republican,180.0,890.0,1070.0,186.79000000000002,883.21,2,03/20/2020,2020-05-11
-"Seekins-Crowe, Kerri",House,43,Republican,2875.0,0.0,2875.0,1322.6599999999999,1552.34,4,09/30/2019,2020-05-11
-"Usher, Barry",House,40,Republican,0.0,720.0,720.0,179.95,540.05,2,03/15/2020,2020-05-11
-"Ramesz, Lori  L",House,02,Democrat,100.0,100.0,200.0,0.0,200.0,2,03/15/2020,2020-05-11
-"Moore, Frederick",House,37,Republican,0.0,9790.0,9790.0,7866.45,1923.55,2,03/15/2020,2020-05-11
-"Burda, Benjamin  J",Senate,45,Democrat,0.0,100.0,100.0,53.0,47.0,2,04/14/2020,2020-05-11
-"Stiles, Cade  B",House,13,Libertarian,0.0,870.79,870.79,870.79,0.0,2,03/15/2020,2020-05-11
-"Hamilton, James  A",House,61,Democrat,170.0,3130.0,3300.0,871.98,2428.02,3,12/31/2019,2020-05-11
-"Peregoy, Sharon  S",House,42,Democrat,280.0,0.0,280.0,0.0,280.0,2,03/15/2020,2020-05-11
+"Scheidler, Amanda",House,39,Republican,0.0,810.0,810.0,537.45,272.55,3,05/15/2020,2020-05-21
+"Scott, Catherine  M",Senate,40,Democrat,0.0,3350.0,3350.0,2778.2,571.8,5,05/17/2020,2020-05-21
+"Olsen, Andrea",House,100,Democrat,0.0,855.0,855.0,48.75,806.25,3,05/14/2020,2020-05-21
+"Warner, Michael  L",Senate,45,Republican,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-21
+"Browning, Gerry",House,12,Democrat,6811.0,0.0,6811.0,833.06,5977.94,3,05/15/2020,2020-05-21
+"Walsh, Kenneth  M",House,71,Republican,0.0,7775.0,7775.0,5495.41,2279.59,5,05/15/2020,2020-05-21
+"Torgerson, Jacob  B",Senate,40,Democrat,0.0,3186.2,3186.2,2201.09,985.11,5,05/17/2020,2020-05-21
+"Patelis, James  G",House,52,Republican,9893.880000000001,5020.0,14913.880000000001,4466.68,10447.2,3,05/20/2020,2020-05-21
+"FourStar, Kristofer  J",Senate,16,Democrat,0.0,0.0,0.0,0.0,0.0,3,05/15/2020,2020-05-21
+"Lovick, Helena",House,26,Democrat,7314.5599999999995,0.0,7314.5599999999995,1550.1399999999999,5764.42,5,05/21/2020,2020-05-21
+"Ladson, Zachary",House,46,Democrat,0.0,0.0,0.0,0.0,0.0,2,04/15/2020,2020-05-21
+"Dooling, Julie  A",House,70,Republican,0.0,3905.0,3905.0,943.17,2961.83,6,05/18/2020,2020-05-21
+"Powers, Debo  D",House,03,Democrat,0.0,10661.96,10661.96,3519.24,7142.72,4,05/14/2020,2020-05-21
+"Lamb, John",Senate,36,Libertarian,410.0,15.0,425.0,0.0,425.0,3,05/20/2020,2020-05-21
+"Duram, Neil  A",House,02,Republican,0.0,380.0,380.0,0.0,380.0,1,04/24/2020,2020-05-21
+"Blom, Heather  M",House,77,Republican,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-21
+"Ramlow, Nicholas  R",House,07,Libertarian,0.0,0.0,0.0,0.0,0.0,2,04/27/2020,2020-05-21
+"Jackson, Laura  M",House,85,Democrat,40.0,0.0,40.0,0.0,40.0,3,05/15/2020,2020-05-21
+"Gist, Steve  C",House,25,Republican,880.0,0.0,880.0,119.55,760.45,3,05/15/2020,2020-05-21
+"Tutvedt, Bruce  P",House,06,Republican,180.0,11855.0,12035.0,11115.18,919.82,3,05/14/2020,2020-05-21
+"Magone, Diane  L",Senate,07,Democrat,0.0,2545.0,2545.0,358.98,2186.02,3,05/20/2020,2020-05-21
+"Allen, Kenneth  E",House,86,Republican,0.0,0.0,0.0,0.0,0.0,2,04/20/2020,2020-05-21
+"Rains, Matt",House,22,Democrat,0.0,1855.0,1855.0,546.0,1309.0,3,05/14/2020,2020-05-21
+"Westlake, Debbie  R",House,82,Republican,150.0,0.0,150.0,78.06,71.94,2,04/20/2020,2020-05-21
+"Fuller, John  D.",House,08,Republican,460.0,2334.84,2794.84,554.0699999999999,2240.77,5,05/15/2020,2020-05-21
+"Fleming, Frank",House,51,Republican,4054.12,0.0,4054.12,1006.99,3047.13,3,05/14/2020,2020-05-21
+"Curdy, Willis",House,98,Democrat,1540.0,0.0,1540.0,1028.7,511.3,2,05/15/2020,2020-05-21
+"Fielder, Paul  C",House,13,Republican,997.62,935.0,1932.62,1254.0,678.62,5,05/15/2020,2020-05-21
+"Bishop, Laurie",House,60,Democrat,5600.4,0.0,5600.4,276.54,5323.86,3,05/15/2020,2020-05-21
+"gibney, timothy  a",Senate,44,Democrat,0.0,15.0,15.0,0.0,15.0,3,05/20/2020,2020-05-21
+"Putnam, Brian",House,09,Republican,0.0,6704.75,6704.75,5353.4,1351.35,3,05/15/2020,2020-05-21
+"Haysom, Bryan  D",House,63,Republican,0.0,410.0,410.0,0.0,410.0,3,05/20/2020,2020-05-21
+"Bartel, Dan",House,29,Republican,0.0,690.0,690.0,180.0,510.0,3,05/20/2020,2020-05-21
+"Giuliano, Anne",House,51,Democrat,12415.0,180.0,12595.0,1919.0,10676.0,8,05/18/2020,2020-05-21
+"Sherman, Karen",House,95,Republican,0.0,1869.0,1869.0,86.39,1782.61,3,05/15/2020,2020-05-21
+"Waterman, Kyle  D",Senate,02,Democrat,11330.0,0.0,11330.0,5189.7699999999995,6140.23,3,05/15/2020,2020-05-21
+"Roe, Tanner  M",House,36,Republican,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-21
+"Hinebauch, Steven  W",Senate,18,Republican,820.0,1240.0,2060.0,118.87,1941.13,4,05/15/2020,2020-05-21
+"Popiel, Brian  G",House,64,Democrat,0.0,3565.0,3565.0,2575.85,989.15,4,05/19/2020,2020-05-21
+"Funk, Moffie  G.",House,82,Democrat,8035.0,0.0,8035.0,522.4,7512.6,4,05/15/2020,2020-05-21
+"Schillinger, Jerry  L",House,37,Unknown,0.0,5455.0,5455.0,3333.13,2121.87,3,05/14/2020,2020-05-21
+"Gauthier, Terry  J",Senate,40,Republican,2825.0,0.0,2825.0,127.08,2693.92,6,05/14/2020,2020-05-21
+"Kitson, Jacob  A",House,37,Libertarian,275.0,0.0,275.0,50.0,225.0,3,05/18/2020,2020-05-21
+"Nave, Fiona  B",House,57,Republican,0.0,1850.0,1850.0,1115.36,734.64,4,04/16/2020,2020-05-21
+"Bahr, Brenna (Jade)",House,50,Democrat,1887.0,1155.0,3042.0,279.22,2762.78,7,05/20/2020,2020-05-21
+"MacDonald, Margaret  E.",Senate,26,Democrat,0.0,26014.0,26014.0,7496.74,18517.26,7,06/14/2020,2020-05-21
+"Frazier, Ross",House,07,Democrat,877.0,0.0,877.0,440.33,436.67,2,04/17/2020,2020-05-21
+"Krautter, Joel  G",House,35,Republican,0.0,20794.0,20794.0,18912.48,1881.52,6,05/14/2020,2020-05-21
+"Ballance, Nancy  L",Senate,44,Republican,180.0,45705.0,45885.0,43433.11,2451.89,6,05/14/2020,2020-05-21
+"Kelker, Katharin  A",House,47,Democrat,13695.91,0.0,13695.91,2843.54,10852.37,4,05/15/2020,2020-05-21
+"Whitman, Kathy  J",House,96,Republican,2160.0,2160.0,4320.0,2160.0,2160.0,4,05/14/2020,2020-05-21
+"Bedey, David  F.",House,86,Republican,0.0,6705.05,6705.05,5696.959999999999,1008.09,6,05/15/2020,2020-05-21
+"Sullivan, Katie",House,89,Democrat,1096.2,1140.0,2236.2,1140.0,1096.2,5,05/14/2020,2020-05-21
+"Keogh, Connie",House,91,Democrat,120.0,5925.0,6045.0,3078.39,2966.61,5,05/14/2020,2020-05-21
+"Hamlett, Bradley  M",House,23,Democrat,0.0,890.0,890.0,170.0,720.0,3,05/15/2020,2020-05-21
+"Root, Ian",House,71,Democrat,1100.0,0.0,1100.0,2.0,1098.0,3,05/14/2020,2020-05-21
+"Price, Scott  D",Senate,25,Republican,4000.0,0.0,4000.0,1081.8600000000001,2918.14,2,04/15/2020,2020-05-21
+"Bessette, Barbara",House,24,Democrat,2680.0,0.0,2680.0,488.36,2191.64,3,05/17/2020,2020-05-21
+"Mahlum, Doug",House,10,Republican,606.0,11885.2,12491.2,8368.04,4123.16,6,05/17/2020,2020-05-21
+"Hileman, Dakota  L",House,96,Democrat,0.0,355.0,355.0,339.08,15.92,2,04/15/2020,2020-05-21
+"Horn, Jaime  A",House,21,Democrat,0.0,0.0,0.0,0.0,0.0,1,03/28/2020,2020-05-21
+"Brown, Robert  J",Senate,07,Republican,1895.0,0.0,1895.0,275.0,1620.0,3,05/20/2020,2020-05-21
+"Ellsworth, Kyle",House,85,Republican,0.0,1520.0,1520.0,1235.0,285.0,2,04/20/2020,2020-05-21
+"Leach, Robert  L.",House,81,Republican,0.0,0.0,0.0,0.0,0.0,3,05/15/2020,2020-05-21
+"Crum, Jolene",House,65,Republican,0.0,0.0,0.0,0.0,0.0,3,05/19/2020,2020-05-21
+"France, Tom",House,94,Democrat,0.0,13142.0,13142.0,12142.419999999998,999.58,3,05/18/2020,2020-05-21
+"Mercer, Bill",House,46,Republican,1265.0,0.0,1265.0,492.25,772.75,3,05/14/2020,2020-05-21
+"Knudsen, Rhonda",House,34,Republican,0.0,4210.0,4210.0,3818.6,391.4,5,05/15/2020,2020-05-21
+"Tschida, Bradley  E",House,97,Republican,1460.0,0.0,1460.0,0.0,1460.0,2,04/20/2020,2020-05-21
+"Marshall, Ron  L",House,87,Republican,0.0,3000.0,3000.0,1943.9,1056.1,6,05/14/2020,2020-05-21
+"Noland, Mark  R.",House,10,Republican,0.0,10410.0,10410.0,10070.57,339.43,3,05/15/2020,2020-05-21
+"Binkley, Michele  R.",House,85,Republican,0.0,6154.6900000000005,6154.6900000000005,5599.5599999999995,555.13,4,04/19/2020,2020-05-21
+"Wanberg, Bethanie  C",House,91,Republican,0.0,0.0,0.0,0.0,0.0,3,05/19/2020,2020-05-21
+"Owens, Catherine  L",House,05,Republican,0.0,1495.0,1495.0,2329.03,-834.03,2,04/30/2020,2020-05-21
+"Minjares, Carol  J",House,100,Republican,0.0,0.0,0.0,0.0,0.0,3,05/15/2020,2020-05-21
+"Allen, Jennifer",House,10,Democrat,4557.98,0.0,4557.98,2212.65,2345.33,3,05/15/2020,2020-05-21
+"Hinds, Colleen  M",House,13,Democrat,440.0,0.0,440.0,165.0,275.0,3,05/14/2020,2020-05-21
+"Kerns, Scot",House,23,Republican,0.0,1713.31,1713.31,1077.33,635.98,3,05/21/2020,2020-05-21
+"Gorski, Margaret  J",Senate,44,Democrat,0.0,3504.6,3504.6,1464.15,2040.45,3,05/14/2020,2020-05-21
+"Fern, David  B",House,05,Democrat,4755.0,0.0,4755.0,2310.91,2444.09,4,05/15/2020,2020-05-21
+"Schuster, Tracy  J",House,34,Republican,0.0,225.0,225.0,107.74,117.26,2,04/15/2020,2020-05-21
+"Small, Jason",Senate,21,Republican,0.0,1941.0,1941.0,757.88,1092.12,3,05/14/2020,2020-05-21
+"Hume, Sashin  A",House,87,Republican,0.0,798.0,798.0,1137.72,-339.72,4,05/15/2020,2020-05-21
+"Read, Joseph  l",House,93,Republican,0.0,265.0,265.0,43.28,221.72,2,04/20/2020,2020-05-21
+"Beard, Becky",House,80,Republican,0.0,1100.0,1100.0,313.5,786.5,5,05/15/2020,2020-05-21
+"Herak, Bryher",House,75,Democrat,0.0,2891.0,2891.0,402.19,2488.81,4,05/19/2020,2020-05-21
+"Garner, Frank",House,07,Republican,0.0,11325.0,11325.0,9681.19,1643.81,5,05/14/2020,2020-05-21
+"Regier, Matt",House,04,Republican,460.0,1070.0,1530.0,521.52,1008.48,3,05/14/2020,2020-05-21
+"Dodd, Jeni",Senate,10,Republican,0.0,1165.0,1165.0,442.28000000000003,722.72,3,05/14/2020,2020-05-21
+"Poe, Hollis",House,85,Republican,0.0,3519.0,3519.0,3338.19,180.81,6,05/14/2020,2020-05-21
+"Vinton, Susanne  E.",House,56,Republican,1180.0,0.0,1180.0,0.0,1180.0,4,05/14/2020,2020-05-21
+"Olson, Hannah  G",House,52,Democrat,5495.0,0.0,5495.0,3708.1899999999996,1786.81,5,05/15/2020,2020-05-21
+"Jones, Llew",House,18,Republican,660.0,7375.0,8035.0,5520.610000000001,2514.39,6,05/15/2020,2020-05-21
+"Hill, Edward  E.",House,28,Republican,1555.0,0.0,1555.0,414.0,1141.0,3,05/15/2020,2020-05-21
+"Gay, Chase  P",Senate,47,Democrat,2590.0,0.0,2590.0,91.35,2498.65,3,05/15/2020,2020-05-21
+"Quist, Guthrie  W",Senate,03,Democrat,1685.0,0.0,1685.0,567.23,1117.77,3,05/15/2020,2020-05-21
+"Abbott, Kim",House,83,Democrat,2295.0,0.0,2295.0,339.91,1955.09,3,05/15/2020,2020-05-21
+"Scanlin, Elizabeth (Betsy)",House,58,Democrat,5556.8,0.0,5556.8,2076.8500000000004,3479.95,3,05/14/2020,2020-05-21
+"Jackson, Jon  R",House,84,Democrat,0.0,15.0,15.0,0.0,15.0,3,05/14/2020,2020-05-21
+"Armerding, Richard  L",House,98,Libertarian,0.0,600.0,600.0,333.34000000000003,266.66,3,05/15/2020,2020-05-21
+"Cuvillier, Gerald  J.",Senate,07,Democrat,0.0,15.0,15.0,0.0,15.0,3,05/14/2020,2020-05-21
+"Bugli, Jolena",House,87,Republican,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-21
+"Younkin, Cindy  E",House,71,Republican,0.0,980.0,980.0,499.5,480.5,3,05/14/2020,2020-05-21
+"Richmond, Tom",Senate,28,Republican,0.0,7919.99,7919.99,7888.72,31.27,4,05/14/2020,2020-05-21
+"Brewster, Larry  D",House,44,Republican,5811.1,560.0,6371.1,2526.92,3844.18,4,05/15/2020,2020-05-21
+"Buterbaugh, James  O",Senate,38,Republican,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-21
+"O'Neil, Jerry",House,07,Republican,0.0,15.0,15.0,15.0,0.0,1,03/20/2020,2020-05-21
+"Schultz, George  Antho",House,19,Libertarian,0.0,0.0,0.0,0.0,0.0,3,05/14/2020,2020-05-21
+"Malone, Marty  C",House,59,Republican,5410.0,0.0,5410.0,2315.54,3094.46,3,05/14/2020,2020-05-21
+"Hill Smith, Ellie",Senate,45,Democrat,180.0,7431.56,7611.5599999999995,7431.56,180.0,6,05/14/2020,2020-05-21
+"Longfield, Paul  J",Senate,02,Republican,0.0,0.0,0.0,0.0,0.0,2,04/20/2020,2020-05-21
+"Hamman, Jane   L",Senate,38,Republican,0.0,4047.35,4047.35,2572.94,1474.41,3,05/14/2020,2020-05-21
+"Verrill-Rhys, Leigh  V",House,48,Republican,1310.0,0.0,1310.0,495.2,814.8,3,05/15/2020,2020-05-21
+"Tenenbaum, Danny",House,95,Democrat,0.0,5708.0,5708.0,2804.64,2903.36,5,05/14/2020,2020-05-21
+"Lucke, Terry",Senate,45,Libertarian,0.0,0.0,0.0,0.0,0.0,1,03/15/2020,2020-05-21
+"Salomon, Daniel",Senate,47,Republican,2215.0,3050.0,5265.0,176.2,5088.8,6,05/15/2020,2020-05-21
+"Conley, Loni  R",House,96,Democrat,665.0,1833.0,2498.0,1873.42,624.58,6,05/14/2020,2020-05-21
+"Bertoglio, Marta  L",House,75,Republican,1440.0,15850.0,17290.0,14227.83,3062.17,4,06/02/2020,2020-05-21
+"Stafman, Ed",House,62,Democrat,30589.72,34837.46,65427.18,40313.899999999994,25113.28,8,05/20/2020,2020-05-21
+"Loge, Denley  M",House,14,Republican,0.0,5450.0,5450.0,5295.719999999999,154.28,7,05/20/2020,2020-05-21
+"Seifert, Donald  F.",House,69,Republican,0.0,8210.15,8210.15,5244.54,2965.61,2,05/15/2020,2020-05-21
+"O'Brien, Shannon",Senate,46,Democrat,998.78,21386.22,22385.0,16615.41,5769.59,7,05/14/2020,2020-05-21
+"GAUB, DARIN  L.",House,83,Republican,1975.22,0.0,1975.22,996.9100000000001,978.31,3,05/20/2020,2020-05-21
+"Wanberg, Gary",House,89,Republican,0.0,0.0,0.0,0.0,0.0,3,05/14/2020,2020-05-21
+"Sheldon-Galloway, LOLA",House,22,Republican,0.0,4110.9,4110.9,1013.93,3096.97,5,05/15/2020,2020-05-21
+"Harvey, Derek  J",House,74,Democrat,1655.0,0.0,1655.0,431.49,1223.51,4,05/15/2020,2020-05-21
+"Braaten, Devin  J",Senate,47,Libertarian,460.0,0.0,460.0,205.28,254.72,3,05/15/2020,2020-05-21
+"Hinkle, Jedediah",House,67,Republican,11421.45,10601.01,22022.46,12219.529999999999,9802.93,6,05/17/2020,2020-05-21
+"Skime, Nolen  W",Senate,45,Libertarian,0.0,0.0,0.0,0.0,0.0,2,04/20/2020,2020-05-21
+"Ler, Brandon  E",House,35,Republican,0.0,7229.87,7229.87,5474.29,1755.58,3,05/15/2020,2020-05-21
+"Hamilton, Lana",House,90,Republican,0.0,0.0,0.0,0.0,0.0,3,05/15/2020,2020-05-21
+"Hopkins, Mike",House,92,Republican,2970.0,0.0,2970.0,0.0,2970.0,5,04/15/2020,2020-05-21
+"Zolnikov, Katie",House,45,Republican,0.0,2895.01,2895.01,879.92,2015.09,5,05/15/2020,2020-05-21
+"Dear-Ruel, Jerramy  K",House,06,Democrat,1035.0,0.0,1035.0,54.91,980.09,4,05/15/2020,2020-05-21
+"Berglee, Seth  M",House,58,Republican,820.0,0.0,820.0,0.0,820.0,3,05/14/2020,2020-05-21
+"Hiner, Cindy  J",House,78,Democrat,0.0,265.0,265.0,151.0,114.0,3,05/14/2020,2020-05-21
+"Scalcpane, August  G",House,41,Democrat,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-21
+"Brown, Debra  A",Senate,35,Republican,0.0,410.0,410.0,247.89,162.11,3,05/14/2020,2020-05-21
+"Fitzpatrick, Steven  J",Senate,10,Republican,0.0,23598.99,23598.99,16539.949999999997,7059.04,8,05/19/2020,2020-05-21
+"Meyers, Gilbert  B",House,32,Republican,160.0,0.0,160.0,0.0,160.0,3,05/14/2020,2020-05-21
+"Palmer, Cindy  L",House,30,Democrat,0.0,0.0,0.0,0.0,0.0,2,04/15/2020,2020-05-21
+"Hinkle, Caleb",House,68,Republican,0.0,6221.76,6221.76,3635.85,2585.91,5,05/18/2020,2020-05-21
+"Burgoyne, Nancy  B",House,98,Republican,200.0,0.0,200.0,0.0,200.0,2,05/20/2020,2020-05-21
+"DeVries, Greg",House,75,Republican,0.0,15.0,15.0,15.0,0.0,2,04/25/2020,2020-05-21
+"Walksnice, Kaden",House,41,Democrat,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-21
+"Pierson, Gordon",Senate,39,Democrat,0.0,8270.0,8270.0,6756.12,1513.88,6,05/19/2020,2020-05-21
+"Sales, Walt",Senate,35,Republican,0.0,16199.0,16199.0,7358.49,8840.51,6,05/14/2020,2020-05-21
+"McGillvray, Tom  V",Senate,23,Republican,29274.0,0.0,29274.0,7233.51,22040.49,8,06/02/2020,2020-05-21
+"Novak, Sara  K",House,77,Democrat,0.0,476.05,476.05,402.0,74.05,5,05/15/2020,2020-05-21
+"Karjala, Jessica  L",House,48,Democrat,0.0,194.06,194.06,0.0,194.06,2,04/15/2020,2020-05-21
+"kephart, james  w",House,74,Republican,250.0,0.0,250.0,197.0,53.0,3,05/14/2020,2020-05-21
+"Manzella, Theresa  M",Senate,44,Republican,0.0,20103.93,20103.93,19015.46,1088.47,5,05/20/2020,2020-05-21
+"Skees, Derek",House,11,Republican,0.0,4890.0,4890.0,2016.22,2873.78,3,05/20/2020,2020-05-21
+"Kassmier, Joshua  J",House,27,Republican,1100.0,0.0,1100.0,25.28,1074.72,5,05/15/2020,2020-05-21
+"Duprey, Rick",Senate,36,Republican,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-21
+"Lamm, Joe  D",House,60,Republican,200.0,0.0,200.0,0.0,200.0,2,04/20/2020,2020-05-21
+"Moore, Terrill  R",House,54,Republican,11305.0,0.0,11305.0,46.0,11259.0,3,05/14/2020,2020-05-21
+"Sporkin-Morrison, Barnett  G",House,17,Democrat,0.0,1000.0,1000.0,0.0,1000.0,3,05/20/2020,2020-05-21
+"Regier, Amy",House,06,Republican,0.0,5705.0,5705.0,3876.5600000000004,1828.44,5,05/15/2020,2020-05-21
+"KerrCarpenter, Emma",House,49,Democrat,1780.0,1175.0,2955.0,541.14,1984.8,3,05/15/2020,2020-05-21
+"Crews, James  V",House,88,Republican,0.0,731.25,731.25,691.25,40.0,3,05/14/2020,2020-05-21
+"WINDY BOY, JONATHAN",House,32,Democrat,0.0,0.0,0.0,0.0,0.0,3,05/14/2020,2020-05-21
+"Smith, Frank  J",House,31,Democrat,515.0,280.0,795.0,15.0,780.0,2,05/20/2020,2020-05-21
+"Locati, Matthew",House,85,Republican,0.0,50.0,50.0,0.0,50.0,1,03/16/2020,2020-05-21
+"Hull, Charlie",House,84,Republican,0.0,0.0,0.0,0.0,0.0,3,05/16/2020,2020-05-21
+"Peppers, Patricia  Rae",Senate,21,Democrat,50.0,680.0,730.0,541.85,188.15,5,05/14/2020,2020-05-21
+"Perry, Gary  L",Senate,35,Republican,0.0,2450.0,2450.0,3936.49,-1486.49,4,05/15/2020,2020-05-21
+"Moore, David  J",House,99,Republican,3350.0,0.0,3350.0,1091.58,2258.42,3,05/15/2020,2020-05-21
+"Vandevender, Dorothy",House,80,Libertarian,0.0,25.0,25.0,0.0,25.0,1,01/21/2020,2020-05-21
+"Mitchell, Braxton  M",House,03,Republican,0.0,2935.0,2935.0,1181.53,1753.47,3,05/14/2020,2020-05-21
+"Broling, Claire",House,68,Democrat,0.0,0.0,0.0,0.0,0.0,1,03/15/2020,2020-05-21
+"Greef, Sharon",House,88,Republican,0.0,4970.0,4970.0,862.79,4107.21,5,04/15/2020,2020-05-19
+"Galloway, Steven  E",House,24,Republican,5925.0,0.0,5925.0,1204.56,4720.44,3,05/15/2020,2020-05-21
+"Grubbs, Bruce",House,68,Republican,360.0,14680.64,15040.64,8620.76,6419.88,7,05/18/2020,2020-05-21
+"Garcia, Rodney",Senate,26,Republican,0.0,0.0,0.0,0.0,0.0,2,04/20/2020,2020-05-21
+"Galt, Errol  Wylie",House,30,Republican,2070.0,0.0,2070.0,13.8,2056.2,3,05/14/2020,2020-05-21
+"weatherwax , Marvin  R",House,15,Democrat,0.0,0.0,0.0,0.0,0.0,4,05/20/2020,2020-05-21
+"Buckley, Alice  A",House,63,Democrat,10490.0,0.0,10490.0,4407.809999999999,6082.19,4,05/15/2020,2020-05-21
+"McKenty, Nate",House,45,Libertarian,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-21
+"Lenz, Dennis  R.",House,53,Republican,9798.48,0.0,9798.48,5165.0,4633.48,3,05/15/2020,2020-05-21
+"Schaefer, Andrew  T",House,67,Libertarian,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-21
+"Bennett, Daniel   A",House,61,Libertarian,0.0,0.0,0.0,0.0,0.0,2,04/15/2020,2020-05-21
+"Welborn, Jeffrey",Senate,36,Republican,3018.11,1790.0,4808.110000000001,2300.0,2148.11,5,05/15/2020,2020-05-21
+"Welch, Tom",House,72,Republican,460.0,2825.0,3285.0,2357.91,927.09,5,05/14/2020,2020-05-21
+"Borstad, Sylvia  R",House,03,Democrat,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-21
+"Fitzgerald, Ross  H",House,17,Republican,0.0,840.0,840.0,0.0,840.0,1,05/15/2020,2020-05-21
+"Ravndal, Tim",House,70,Republican,0.0,530.0,530.0,103.22999999999999,426.77,3,05/14/2020,2020-05-21
+"mischel, pat  a",Senate,18,Democrat,3165.0,0.0,3165.0,1764.6599999999999,1400.34,3,05/14/2020,2020-05-21
+"Larsh (Test account), Molly",House,79,Independent,0.0,1610.0,1610.0,580.0,1030.0,2,01/02/2020,2020-05-21
+"Smith, Melissa  L",House,20,Democrat,2870.0,0.0,2870.0,1521.83,1348.17,3,05/15/2020,2020-05-21
+"Phalen, Bob",House,36,Republican,0.0,9560.5,9560.5,7268.0599999999995,2292.44,3,05/15/2020,2020-05-21
+"Carlson, Jennifer  K",House,69,Republican,0.0,6825.0,6825.0,5279.400000000001,1545.6,5,05/15/2020,2020-05-21
+"Hansen, LouAnn",House,97,Democrat,0.0,5148.72,5148.72,2788.66,2360.06,6,06/02/2020,2020-05-21
+"Molnar, Bradley  A",Senate,28,Republican,0.0,19217.260000000002,19217.260000000002,13359.44,5857.82,3,05/18/2020,2020-05-21
+"French, Mark  T.",House,14,Republican,0.0,15.0,15.0,0.0,15.0,3,05/15/2020,2020-05-21
+"Smith, Bridget",Senate,16,Democrat,0.0,280.0,280.0,0.0,280.0,3,05/15/2020,2020-05-21
+"Nygaard, Colin  Micha",House,49,Republican,0.0,0.0,0.0,0.0,0.0,2,04/15/2020,2020-05-21
+"Thane, Mark  A",House,99,Democrat,0.0,6670.0,6670.0,2680.1299999999997,3989.87,5,05/15/2020,2020-05-21
+"Marler, Marilyn",House,90,Democrat,915.0,0.0,915.0,36.0,879.0,5,05/15/2020,2020-05-21
+"Dupree, Jestin  L",Senate,16,Democrat,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-21
+"bridges, curtis  r",House,95,Republican,0.0,0.0,0.0,0.0,0.0,1,03/23/2020,2020-05-21
+"Johnson, James  A",House,36,Republican,0.0,3910.95,3910.95,1440.52,2470.43,3,05/14/2020,2020-05-21
+"Stuart, Jason",House,36,Republican,0.0,1789.81,1789.81,1612.38,177.43,3,05/14/2020,2020-05-21
+"Buttrey, Ed",House,21,Republican,2680.0,5890.0,8570.0,4253.860000000001,4316.14,5,05/19/2020,2020-05-21
+"Thomsen, Ryan  J",House,54,Democrat,1910.0,0.0,1910.0,218.48,1691.52,4,05/20/2020,2020-05-21
+"Merrill, Laura  M.",House,87,Democrat,0.0,5615.0,5615.0,656.8100000000001,4958.19,3,05/15/2020,2020-05-21
+"Meaders, Aaron  M",Senate,37,Republican,344.88,0.0,344.88,185.32,159.56,3,05/15/2020,2020-05-21
+"NORDWICK, SUZZANN",Senate,39,Republican,0.0,0.0,0.0,0.0,0.0,2,04/20/2020,2020-05-21
+"Buck, Sheridan",House,26,Republican,0.0,2363.58,2363.58,2244.8799999999997,118.7,3,05/20/2020,2020-05-21
+"Seckinger, Josh",House,64,Democrat,0.0,3030.0,3030.0,1314.33,1715.67,3,05/15/2020,2020-05-21
+"Caferro, Mary  M.",House,81,Democrat,690.0,0.0,690.0,0.0,690.0,2,04/15/2020,2020-05-21
+"Gillette, Jane",House,64,Republican,0.0,61584.259999999995,61584.259999999995,53084.399999999994,8499.86,6,05/14/2020,2020-05-21
+"johnson , andy",House,76,Republican,0.0,0.0,0.0,0.0,0.0,3,05/20/2020,2020-05-21
+"Pope, Christopher  S",Senate,31,Democrat,15758.76,11340.0,27098.760000000002,11425.77,15672.99,5,05/15/2020,2020-05-21
+"Coleman, Ed",House,79,Democrat,0.0,15945.75,15945.75,11398.07,1057.68,3,05/15/2020,2020-05-21
+"LANG, MIKE  L",Senate,17,Republican,1560.0,0.0,1560.0,250.5,1309.5,3,05/15/2020,2020-05-21
+"Tucker, Sally",House,21,Republican,0.0,805.0,805.0,155.0,650.0,3,05/15/2020,2020-05-21
+"Smith, Tench  J",House,47,Republican,16200.0,0.0,16200.0,919.64,15280.36,3,05/15/2020,2020-05-21
+"McKamey, Wendy",House,19,Republican,0.0,5820.0,5820.0,0.0,5820.0,5,05/15/2020,2020-05-21
+"Foster, Ralph  C",House,93,Republican,0.0,0.0,0.0,0.0,0.0,3,05/14/2020,2020-05-21
+"Rivera, Dennison  J",House,79,Republican,0.0,0.0,0.0,0.0,0.0,3,05/14/2020,2020-05-21
+"Dunn, David  W",House,09,Republican,0.0,2420.01,2420.01,2323.69,96.32,5,05/15/2020,2020-05-21
+"Vermillion, Dan  D",House,59,Democrat,505.0,0.0,505.0,17.0,488.0,3,05/15/2020,2020-05-21
+"Dennis, Terry  D",House,44,Democrat,4190.0,0.0,4190.0,1281.75,2908.25,3,05/14/2020,2020-05-21
+"Vaught, Rick  L",Senate,31,Republican,0.0,0.0,0.0,0.0,0.0,1,03/15/2020,2020-05-21
+"Peterson, Charles   J",House,36,Republican,0.0,458.25,458.25,380.5,77.75,3,05/15/2020,2020-05-21
+"Reksten, Linda  E",House,12,Republican,0.0,2709.0,2709.0,1679.72,1029.28,4,05/15/2020,2020-05-21
+"Hayman, Denise",House,66,Democrat,0.0,0.0,0.0,0.0,0.0,3,05/20/2020,2020-05-21
+"Kirk-Boon, Dee",House,11,Republican,200.10000000000002,8300.0,8500.1,6812.6,1687.5,6,05/14/2020,2020-05-21
+"Chamberlin, Randall",House,64,Republican,140.0,14100.0,14240.0,12332.25,1907.75,4,05/20/2020,2020-05-21
+"Stromswold, Mallerie",House,50,Republican,180.0,8150.0,8330.0,5099.35,3230.65,5,05/14/2020,2020-05-21
+"Holmlund, Kenneth  L",House,38,Republican,6460.0,0.0,6460.0,3511.64,2948.36,3,05/14/2020,2020-05-21
+"McLean, Jim",House,94,Democrat,0.0,7865.0,7865.0,3960.56,3904.44,3,05/14/2020,2020-05-21
+"Sweeney, Mark  A",Senate,39,Democrat,360.0,8365.0,8725.0,6109.57,2615.43,1,05/21/2020,2020-05-21
+"DAWSON, REBECCA  L",House,95,Republican,0.0,1015.0,1015.0,1010.0,5.0,3,05/14/2020,2020-05-21
+"Gross, Jen",Senate,25,Democrat,3820.0,159.0,3979.0,398.28000000000003,3580.72,5,04/15/2020,2020-05-21
+"Running Wolf, Tyson  T",House,16,Democrat,0.0,0.0,0.0,0.0,0.0,3,05/20/2020,2020-05-21
+"Wendt, Francis  V",House,62,Libertarian,0.0,0.0,0.0,0.0,0.0,2,04/15/2020,2020-05-21
+"Tankink, Rudolf  L",House,26,Republican,0.0,500.0,500.0,0.0,500.0,3,05/15/2020,2020-05-21
+"Siate, Erica  C",Senate,45,Democrat,0.0,2130.96,2130.96,1179.21,951.75,3,05/15/2020,2020-05-21
+"Krotkov, Jasmine  A",House,25,Democrat,0.0,6368.88,6368.88,973.2,5395.68,4,05/15/2020,2020-05-21
+"Knudsen, Casey  J",House,33,Republican,220.0,4825.0,5045.0,2015.0,3030.0,7,05/20/2020,2020-05-21
+"Pavlock, Lisa",House,93,Democrat,3770.0,0.0,3770.0,50.0,3705.65,4,06/02/2020,2020-05-21
+"Taylor, Jasmine",House,22,Democrat,0.0,2585.0,2585.0,36.0,2549.0,2,04/20/2020,2020-05-21
+"Lynch, Ryan",Senate,37,Democrat,1915.0,0.0,1915.0,0.0,1915.0,4,05/20/2020,2020-05-21
+"Regier, Keith",Senate,03,Republican,1885.0,3220.0,5105.0,3171.94,1933.06,5,05/15/2020,2020-05-21
+"Close, Brian  F",House,61,Democrat,0.0,8901.0,8901.0,8761.06,139.94,3,05/15/2020,2020-05-21
+"Vandevender, Ron",House,80,Libertarian,0.0,60.0,60.0,25.95,34.05,1,05/16/2020,2020-05-21
+"Trebas, Jeremy",House,26,Republican,180.0,920.0,1100.0,284.54,815.46,3,04/20/2020,2020-05-21
+"Stone, Joyce  A",House,33,Republican,0.0,8077.41,8077.41,4989.77,3087.64,5,05/14/2020,2020-05-21
+"Benes, Melody  A",House,43,Libertarian,180.0,0.0,180.0,0.0,180.0,3,05/20/2020,2020-05-21
+"Custer, Geraldine",House,39,Republican,20.0,5514.55,5534.55,4615.35,919.2,6,05/15/2020,2020-05-21
+"Farris-Olsen, Robert",House,79,Democrat,0.0,9035.0,9035.0,7964.48,1070.52,6,05/21/2020,2020-05-21
+"Campbell, Colette  K",House,67,Democrat,4426.0,0.0,4426.0,260.55,4165.45,3,05/15/2020,2020-05-21
+"Dunwell, Mary Ann",House,84,Democrat,0.0,5615.0,5615.0,681.96,4933.04,5,05/14/2020,2020-05-21
+"Whiteman-Pena, Rynalea",House,41,Democrat,0.0,0.0,0.0,0.0,0.0,3,05/14/2020,2020-05-21
+"keane, jim",House,73,Democrat,560.0,660.0,1220.0,0.0,1220.0,3,05/19/2020,2020-05-21
+"Fox, Michael  D",Senate,16,Democrat,0.0,0.0,0.0,0.0,0.0,1,03/15/2020,2020-05-21
+"Frazer, Gregory  L",House,78,Republican,50.0,0.0,50.0,0.0,50.0,2,04/20/2020,2020-05-21
+"O'Connor, Joshua-Luke",Senate,31,Libertarian,0.0,0.0,0.0,0.0,0.0,3,05/16/2020,2020-05-21
+"McClafferty, Edith  L",Senate,38,Democrat,4975.0,0.0,4975.0,1134.35,3840.65,3,05/20/2020,2020-05-21
+"Spanjian, Kristin  A",House,40,Democrat,10215.0,180.0,10395.0,2357.06,8037.94,3,05/15/2020,2020-05-21
+"Browder, Thomas  M",House,92,Democrat,0.0,6880.0,6880.0,5947.87,932.13,4,05/14/2020,2020-05-21
+"Sardot, Niki",Senate,46,Republican,73.0,0.0,73.0,0.0,73.0,1,05/15/2020,2020-05-21
+"hawk, donavon  d",House,76,Democrat,0.0,9575.15,9575.15,6384.280000000001,3187.89,4,05/15/2020,2020-05-21
+"Gunderson, Steve",House,01,Republican,1200.0,0.0,1200.0,0.0,1200.0,3,05/15/2020,2020-05-21
+"Osmundson, Ryan",Senate,15,Republican,0.0,2760.1,2760.1,585.0,2175.1,7,05/20/2020,2020-05-21
+"McCaffery, Marjory",House,73,Republican,0.0,0.0,0.0,0.0,0.0,3,05/15/2020,2020-05-21
+"Gray, Alexander  D",Senate,46,Democrat,0.0,4590.0,4590.0,3490.51,979.49,6,05/15/2020,2020-05-21
+"Kortum, Kelly",House,65,Democrat,0.0,11246.8,11246.8,4688.65,6558.15,4,05/14/2020,2020-05-21
+"Vandevender, Mikaila",House,80,Libertarian,0.0,0.0,0.0,0.0,0.0,1,07/05/2019,2020-05-21
+"Hertz, Greg",Senate,06,Republican,8150.0,180.0,8330.0,2633.89,5696.11,5,05/15/2020,2020-05-21
+"Anderson, Fred  I",House,20,Republican,0.0,5500.0,5500.0,1975.95,3524.05,6,05/20/2020,2020-05-21
+"Nunnally, norman  a",Senate,02,Republican,0.0,1726.28,1726.28,1275.77,284.51,5,05/18/2020,2020-05-21
+"Sather, Marvin  C",House,01,Democrat,4535.0,0.0,4535.0,515.3199999999999,4019.68,3,05/15/2020,2020-05-21
+"Ricci, Vince  J",House,55,Republican,0.0,2900.0,2900.0,1138.26,1761.74,4,05/14/2020,2020-05-21
+"Steinmetz, Krystal",House,28,Democrat,6399.0,0.0,6399.0,894.4599999999999,5504.54,3,05/15/2020,2020-05-21
+"Guymon, Shawn",House,05,Republican,0.0,0.0,0.0,0.0,0.0,0,none,2020-05-21
+"Glimm, Carl  C",Senate,02,Republican,0.0,7090.0,7090.0,5980.25,1109.75,3,05/19/2020,2020-05-21
+"McLean, Scott Roy",House,88,Republican,1090.0,3375.2,4465.2,2577.6,1887.6,5,05/20/2020,2020-05-21
+"Friedel, Christopher  P",Senate,26,Republican,280.0,3075.0,3355.0,852.7,2502.3,3,05/20/2020,2020-05-21
+"Seekins-Crowe, Kerri",House,43,Republican,4655.0,0.0,4655.0,2313.54,2341.46,5,05/15/2020,2020-05-21
+"Usher, Barry",House,40,Republican,360.0,720.0,1080.0,179.95,900.05,3,05/15/2020,2020-05-21
+"Ramesz, Lori  L",House,02,Democrat,1170.0,100.0,1270.0,1073.0,197.0,3,05/14/2020,2020-05-21
+"Moore, Frederick",House,37,Republican,0.0,14665.0,14665.0,14221.11,443.89,3,05/14/2020,2020-05-21
+"Burda, Benjamin  J",Senate,45,Democrat,0.0,100.0,100.0,53.0,47.0,2,04/28/2020,2020-05-11
+"Stiles, Cade  B",House,13,Libertarian,0.0,870.79,870.79,870.79,0.0,3,05/14/2020,2020-05-21
+"Hamilton, James  A",House,61,Democrat,170.0,13645.0,13815.0,9678.82,4136.18,4,05/15/2020,2020-05-21
+"Peregoy, Sharon  S",House,42,Democrat,280.0,0.0,280.0,0.0,280.0,3,05/20/2020,2020-05-21

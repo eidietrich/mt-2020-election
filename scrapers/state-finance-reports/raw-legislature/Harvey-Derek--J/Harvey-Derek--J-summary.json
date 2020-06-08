@@ -1,31 +1,65 @@
 {
     "slug": "Harvey-Derek--J",
     "candidateName": "Harvey, Derek  J",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 74",
     "partyDescr": "Democrat",
-    "periods": 3,
-    "receipts": 1375.0,
-    "expenditures": 97.99,
-    "balance": 1277.01,
+    "periods": 4,
+    "receipts": 1655.0,
+    "expenditures": 431.49,
+    "balance": 1223.51,
     "summary": {
         "contributions": {
             "primary": 0.0,
-            "general": 1375.0,
-            "total": 1375.0
+            "general": 1655.0,
+            "total": 1655.0
         },
         "expenditures": {
             "primary": 0.0,
-            "general": 97.99,
-            "total": 97.99
+            "general": 431.49,
+            "total": 431.49
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 1277.01,
-            "total": 1277.01
+            "general": 1223.51,
+            "total": 1223.51
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48211,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 2,
+            "num_expenditures": 4,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 1277.01,
+                    "total": 1277.01
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 280.0,
+                    "total": 280.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 333.5,
+                    "total": 333.5
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 1223.51,
+                    "total": 1223.51
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47430,

@@ -1,31 +1,65 @@
 {
     "slug": "Osmundson-Ryan",
     "candidateName": "Osmundson, Ryan ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "Senate District No. 15",
     "partyDescr": "Republican",
-    "periods": 6,
-    "receipts": 2580.1,
-    "expenditures": 225.0,
-    "balance": 2355.1,
+    "periods": 7,
+    "receipts": 2760.1,
+    "expenditures": 585.0,
+    "balance": 2175.1,
     "summary": {
         "contributions": {
-            "primary": 2580.1,
+            "primary": 2760.1,
             "general": 0.0,
-            "total": 2580.1
+            "total": 2760.1
         },
         "expenditures": {
-            "primary": 225.0,
+            "primary": 585.0,
             "general": 0.0,
-            "total": 225.0
+            "total": 585.0
         },
         "cash_on_hand": {
-            "primary": 2355.1,
+            "primary": 2175.1,
             "general": 0.0,
-            "total": 2355.1
+            "total": 2175.1
         }
     },
     "reports": [
+        {
+            "report": "04/20/2020 to 05/20/2020",
+            "id": 48284,
+            "type": "C5",
+            "start_date": "04/20/2020",
+            "end_date": "05/20/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 1,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 2355.1,
+                    "general": 0.0,
+                    "total": 2355.1
+                },
+                "Receipts": {
+                    "primary": 180.0,
+                    "general": 0.0,
+                    "total": 180.0
+                },
+                "Expenditures": {
+                    "primary": 360.0,
+                    "general": 0.0,
+                    "total": 360.0
+                },
+                "Ending Balance": {
+                    "primary": 2175.1,
+                    "general": 0.0,
+                    "total": 2175.1
+                },
+                "report_start_date": "04/20/2020",
+                "report_end_date": "05/20/2020"
+            }
+        },
         {
             "report": "03/18/2020 to 04/19/2020",
             "id": 47535,

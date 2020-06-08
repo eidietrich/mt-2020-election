@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 806.25,
+            "general": 0.0,
+            "total": 806.25
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Ending Balance": {
+            "primary": 806.25,
+            "general": 0.0,
+            "total": 806.25
+        },
+        "report_start_date": "04/16/2020",
+        "report_end_date": "05/14/2020"
+    },
+    "contributions": "[]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0.0
+}

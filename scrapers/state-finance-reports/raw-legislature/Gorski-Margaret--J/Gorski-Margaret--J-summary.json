@@ -1,31 +1,65 @@
 {
     "slug": "Gorski-Margaret--J",
     "candidateName": "Gorski, Margaret  J",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "Senate District No. 44",
     "partyDescr": "Democrat",
-    "periods": 2,
-    "receipts": 1144.6,
-    "expenditures": 45.4,
-    "balance": 1099.2,
+    "periods": 3,
+    "receipts": 3504.6,
+    "expenditures": 1464.15,
+    "balance": 2040.45,
     "summary": {
         "contributions": {
-            "primary": 1144.6,
+            "primary": 3504.6,
             "general": 0.0,
-            "total": 1144.6
+            "total": 3504.6
         },
         "expenditures": {
-            "primary": 45.4,
+            "primary": 1464.15,
             "general": 0.0,
-            "total": 45.4
+            "total": 1464.15
         },
         "cash_on_hand": {
-            "primary": 1099.2,
+            "primary": 2040.45,
             "general": 0.0,
-            "total": 1099.2
+            "total": 2040.45
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 47913,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 105.0,
+            "num_contributions": 24,
+            "num_expenditures": 8,
+            "summary": {
+                "previous report": {
+                    "primary": 1099.2,
+                    "general": 0.0,
+                    "total": 1099.2
+                },
+                "Receipts": {
+                    "primary": 2360.0,
+                    "general": 0.0,
+                    "total": 2360.0
+                },
+                "Expenditures": {
+                    "primary": 1418.75,
+                    "general": 0.0,
+                    "total": 1418.75
+                },
+                "Ending Balance": {
+                    "primary": 2040.45,
+                    "general": 0.0,
+                    "total": 2040.45
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47145,

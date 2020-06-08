@@ -1,31 +1,65 @@
 {
     "slug": "Hill-Smith-Ellie",
     "candidateName": "Hill Smith, Ellie  ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "Senate District No. 45",
     "partyDescr": "Democrat",
-    "periods": 5,
-    "receipts": 5525.67,
-    "expenditures": 5525.67,
-    "balance": 0.0,
+    "periods": 6,
+    "receipts": 7611.5599999999995,
+    "expenditures": 7431.56,
+    "balance": 180.0,
     "summary": {
         "contributions": {
-            "primary": 5525.67,
-            "general": 0.0,
-            "total": 5525.67
+            "primary": 7431.56,
+            "general": 180.0,
+            "total": 7611.5599999999995
         },
         "expenditures": {
-            "primary": 5525.67,
+            "primary": 7431.56,
             "general": 0.0,
-            "total": 5525.67
+            "total": 7431.56
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 0.0,
-            "total": 0.0
+            "general": 180.0,
+            "total": 180.0
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 48044,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": -4.547473508864641e-13,
+            "num_contributions": 8,
+            "num_expenditures": 6,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Receipts": {
+                    "primary": 1905.89,
+                    "general": 180.0,
+                    "total": 2085.89
+                },
+                "Expenditures": {
+                    "primary": 1905.89,
+                    "general": 0.0,
+                    "total": 1905.89
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 180.0,
+                    "total": 180.0
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47529,

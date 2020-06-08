@@ -1,31 +1,65 @@
 {
     "slug": "Seekins-Crowe-Kerri",
     "candidateName": "Seekins-Crowe, Kerri ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 43",
     "partyDescr": "Republican",
-    "periods": 4,
-    "receipts": 2875.0,
-    "expenditures": 1322.6599999999999,
-    "balance": 1552.34,
+    "periods": 5,
+    "receipts": 4655.0,
+    "expenditures": 2313.54,
+    "balance": 2341.46,
     "summary": {
         "contributions": {
             "primary": 0.0,
-            "general": 2875.0,
-            "total": 2875.0
+            "general": 4655.0,
+            "total": 4655.0
         },
         "expenditures": {
             "primary": 0.0,
-            "general": 1322.6599999999999,
-            "total": 1322.6599999999999
+            "general": 2313.54,
+            "total": 2313.54
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 1552.34,
-            "total": 1552.34
+            "general": 2341.46,
+            "total": 2341.46
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48101,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 14,
+            "num_expenditures": 4,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 1552.34,
+                    "total": 1552.34
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 1780.0,
+                    "total": 1780.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 990.88,
+                    "total": 990.88
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 2341.46,
+                    "total": 2341.46
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47499,

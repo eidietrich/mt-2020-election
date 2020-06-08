@@ -1,31 +1,79 @@
 {
     "slug": "Tuxbury-Scott--Lee",
     "candidateName": "Tuxbury, Scott  Lee",
-    "scrape_date": "2020-05-03",
+    "scrape_date": "2020-05-26",
     "officeTitle": "State Auditor",
     "partyDescr": "Republican",
-    "periods": 2,
-    "receipts": 52545.0,
-    "expenditures": 23028.46,
-    "balance": 29516.54,
+    "periods": 4,
+    "receipts": 63645.0,
+    "expenditures": 59270.22,
+    "balance": 4374.78,
     "summary": {
         "contributions": {
-            "primary": 51685.0,
-            "general": 860.0,
-            "total": 52545.0
+            "primary": 62645.0,
+            "general": 1000.0,
+            "total": 63645.0
         },
         "expenditures": {
-            "primary": 23028.46,
+            "primary": 59270.22,
             "general": 0.0,
-            "total": 23028.46
+            "total": 59270.22
         },
         "cash_on_hand": {
-            "primary": 28656.54,
-            "general": 860.0,
-            "total": 29516.54
+            "primary": 3374.78,
+            "general": 1000.0,
+            "total": 4374.78
         }
     },
     "reports": [
+        {
+            "report": "05/20/2020 to 05/22/2020",
+            "id": 48537,
+            "type": "C7",
+            "start_date": "05/20/2020",
+            "end_date": "05/22/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/20/2020",
+                "report_end_date": "05/22/2020"
+            }
+        },
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 48265,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 75.0,
+            "num_contributions": 76,
+            "num_expenditures": 15,
+            "summary": {
+                "previous report": {
+                    "primary": 28656.54,
+                    "general": 860.0,
+                    "total": 29516.54
+                },
+                "Receipts": {
+                    "primary": 10960.0,
+                    "general": 140.0,
+                    "total": 11100.0
+                },
+                "Expenditures": {
+                    "primary": 36241.76,
+                    "general": 0.0,
+                    "total": 36241.76
+                },
+                "Ending Balance": {
+                    "primary": 3374.78,
+                    "general": 1000.0,
+                    "total": 4374.78
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47487,

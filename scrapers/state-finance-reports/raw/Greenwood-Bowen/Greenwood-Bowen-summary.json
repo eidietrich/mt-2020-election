@@ -1,31 +1,65 @@
 {
     "slug": "Greenwood-Bowen",
     "candidateName": "Greenwood, Bowen ",
-    "scrape_date": "2020-05-03",
+    "scrape_date": "2020-05-26",
     "officeTitle": "Secretary of State",
     "partyDescr": "Republican",
-    "periods": 3,
-    "receipts": 19310.87,
-    "expenditures": 7922.9400000000005,
-    "balance": 11387.93,
+    "periods": 4,
+    "receipts": 21494.87,
+    "expenditures": 14575.92,
+    "balance": 6918.95,
     "summary": {
         "contributions": {
-            "primary": 15245.87,
+            "primary": 17429.870000000003,
             "general": 4065.0,
-            "total": 19310.87
+            "total": 21494.87
         },
         "expenditures": {
-            "primary": 7492.6,
+            "primary": 14145.58,
             "general": 430.34,
-            "total": 7922.9400000000005
+            "total": 14575.92
         },
         "cash_on_hand": {
-            "primary": 7753.27,
+            "primary": 3284.29,
             "general": 3634.66,
-            "total": 11387.93
+            "total": 6918.95
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 48257,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 45.0,
+            "num_contributions": 27,
+            "num_expenditures": 5,
+            "summary": {
+                "previous report": {
+                    "primary": 7753.27,
+                    "general": 3634.66,
+                    "total": 11387.93
+                },
+                "Receipts": {
+                    "primary": 2184.0,
+                    "general": 0.0,
+                    "total": 2184.0
+                },
+                "Expenditures": {
+                    "primary": 6652.98,
+                    "general": 0.0,
+                    "total": 6652.98
+                },
+                "Ending Balance": {
+                    "primary": 3284.29,
+                    "general": 3634.66,
+                    "total": 6918.95
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47488,

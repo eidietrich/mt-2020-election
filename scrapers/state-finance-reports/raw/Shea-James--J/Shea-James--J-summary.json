@@ -1,31 +1,65 @@
 {
     "slug": "Shea-James--J",
     "candidateName": "Shea, James  J",
-    "scrape_date": "2020-05-03",
+    "scrape_date": "2020-05-26",
     "officeTitle": "Supreme Court Justice No. 06",
     "partyDescr": "Non-Partisan",
-    "periods": 2,
-    "receipts": 10941.0,
-    "expenditures": 3969.17,
-    "balance": 6971.83,
+    "periods": 3,
+    "receipts": 12261.0,
+    "expenditures": 4104.62,
+    "balance": 8156.38,
     "summary": {
         "contributions": {
-            "primary": 10941.0,
+            "primary": 12261.0,
             "general": 0.0,
-            "total": 10941.0
+            "total": 12261.0
         },
         "expenditures": {
-            "primary": 3969.17,
+            "primary": 4104.62,
             "general": 0.0,
-            "total": 3969.17
+            "total": 4104.62
         },
         "cash_on_hand": {
-            "primary": 6971.83,
+            "primary": 8156.38,
             "general": 0.0,
-            "total": 6971.83
+            "total": 8156.38
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 47721,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 9,
+            "num_expenditures": 3,
+            "summary": {
+                "previous report": {
+                    "primary": 6971.83,
+                    "general": 0.0,
+                    "total": 6971.83
+                },
+                "Receipts": {
+                    "primary": 1320.0,
+                    "general": 0.0,
+                    "total": 1320.0
+                },
+                "Expenditures": {
+                    "primary": 135.45,
+                    "general": 0.0,
+                    "total": 135.45
+                },
+                "Ending Balance": {
+                    "primary": 8156.38,
+                    "general": 0.0,
+                    "total": 8156.38
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 46726,

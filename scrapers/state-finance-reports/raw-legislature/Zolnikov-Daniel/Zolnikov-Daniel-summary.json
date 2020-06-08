@@ -1,31 +1,65 @@
 {
     "slug": "Zolnikov-Daniel",
     "candidateName": "Zolnikov, Daniel ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "Public Service Commission District No. 02",
     "partyDescr": "Republican",
-    "periods": 4,
-    "receipts": 31062.1,
-    "expenditures": 15295.51,
-    "balance": 15766.59,
+    "periods": 5,
+    "receipts": 46002.1,
+    "expenditures": 40454.79,
+    "balance": 5547.31,
     "summary": {
         "contributions": {
-            "primary": 27582.1,
-            "general": 3480.0,
-            "total": 31062.1
+            "primary": 40949.1,
+            "general": 5053.0,
+            "total": 46002.1
         },
         "expenditures": {
-            "primary": 13491.41,
-            "general": 1804.1,
-            "total": 15295.51
+            "primary": 38619.36,
+            "general": 1835.4299999999998,
+            "total": 40454.79
         },
         "cash_on_hand": {
-            "primary": 14090.69,
-            "general": 1675.9,
-            "total": 15766.59
+            "primary": 2329.74,
+            "general": 3217.57,
+            "total": 5547.31
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 47530,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 85.0,
+            "num_contributions": 74,
+            "num_expenditures": 61,
+            "summary": {
+                "previous report": {
+                    "primary": 14090.69,
+                    "general": 1675.9,
+                    "total": 15766.59
+                },
+                "Receipts": {
+                    "primary": 13367.0,
+                    "general": 1573.0,
+                    "total": 14940.0
+                },
+                "Expenditures": {
+                    "primary": 25127.95,
+                    "general": 31.33,
+                    "total": 25159.28
+                },
+                "Ending Balance": {
+                    "primary": 2329.74,
+                    "general": 3217.57,
+                    "total": 5547.31
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 46706,

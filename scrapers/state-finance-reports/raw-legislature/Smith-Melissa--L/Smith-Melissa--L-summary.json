@@ -1,31 +1,65 @@
 {
     "slug": "Smith-Melissa--L",
     "candidateName": "Smith, Melissa  L",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 20",
     "partyDescr": "Democrat",
-    "periods": 2,
-    "receipts": 870.0,
-    "expenditures": 739.54,
-    "balance": 130.46,
+    "periods": 3,
+    "receipts": 2870.0,
+    "expenditures": 1521.83,
+    "balance": 1348.17,
     "summary": {
         "contributions": {
             "primary": 0.0,
-            "general": 870.0,
-            "total": 870.0
+            "general": 2870.0,
+            "total": 2870.0
         },
         "expenditures": {
             "primary": 0.0,
-            "general": 739.54,
-            "total": 739.54
+            "general": 1521.83,
+            "total": 1521.83
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 130.46,
-            "total": 130.46
+            "general": 1348.17,
+            "total": 1348.17
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48088,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 75.0,
+            "num_contributions": 15,
+            "num_expenditures": 7,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 130.46,
+                    "total": 130.46
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 2000.0,
+                    "total": 2000.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 782.29,
+                    "total": 782.29
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 1348.17,
+                    "total": 1348.17
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47435,

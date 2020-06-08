@@ -1,31 +1,135 @@
 {
     "slug": "Dudik-Kimberly",
     "candidateName": "Dudik, Kimberly ",
-    "scrape_date": "2020-05-03",
+    "scrape_date": "2020-05-26",
     "officeTitle": "Attorney General",
     "partyDescr": "Democrat",
-    "periods": 6,
-    "receipts": 218587.24999999997,
-    "expenditures": 180935.45,
-    "balance": 37651.8,
+    "periods": 12,
+    "receipts": 234867.05999999997,
+    "expenditures": 206537.33000000002,
+    "balance": 28329.73,
     "summary": {
         "contributions": {
-            "primary": 200104.66999999998,
-            "general": 18482.58,
-            "total": 218587.24999999997
+            "primary": 215799.47999999998,
+            "general": 19067.58,
+            "total": 234867.05999999997
         },
         "expenditures": {
-            "primary": 177249.30000000002,
+            "primary": 202851.18000000002,
             "general": 3686.15,
-            "total": 180935.45
+            "total": 206537.33000000002
         },
         "cash_on_hand": {
-            "primary": 22855.37,
-            "general": 14796.43,
-            "total": 37651.8
+            "primary": 12948.3,
+            "general": 15381.43,
+            "total": 28329.73
         }
     },
     "reports": [
+        {
+            "report": "05/23/2020 to 05/25/2020",
+            "id": 48574,
+            "type": "C7E",
+            "start_date": "05/23/2020",
+            "end_date": "05/25/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/23/2020",
+                "report_end_date": "05/25/2020"
+            }
+        },
+        {
+            "report": "05/23/2020 to 05/25/2020",
+            "id": 48573,
+            "type": "C7",
+            "start_date": "05/23/2020",
+            "end_date": "05/25/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/23/2020",
+                "report_end_date": "05/25/2020"
+            }
+        },
+        {
+            "report": "05/20/2020 to 05/21/2020",
+            "id": 48422,
+            "type": "C7E",
+            "start_date": "05/20/2020",
+            "end_date": "05/21/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/20/2020",
+                "report_end_date": "05/21/2020"
+            }
+        },
+        {
+            "report": "05/19/2020 to 05/21/2020",
+            "id": 48421,
+            "type": "C7",
+            "start_date": "05/19/2020",
+            "end_date": "05/21/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/19/2020",
+                "report_end_date": "05/21/2020"
+            }
+        },
+        {
+            "report": "05/15/2020 to 05/17/2020",
+            "id": 48122,
+            "type": "C7E",
+            "start_date": "05/15/2020",
+            "end_date": "05/17/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/15/2020",
+                "report_end_date": "05/17/2020"
+            }
+        },
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 48021,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 1539.9599999999991,
+            "num_contributions": 113,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 22855.37,
+                    "general": 14796.43,
+                    "total": 37651.8
+                },
+                "Receipts": {
+                    "primary": 15694.81,
+                    "general": 585.0,
+                    "total": 16279.81
+                },
+                "Expenditures": {
+                    "primary": 25601.88,
+                    "general": 0.0,
+                    "total": 25601.88
+                },
+                "Ending Balance": {
+                    "primary": 12948.3,
+                    "general": 15381.43,
+                    "total": 28329.73
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47431,

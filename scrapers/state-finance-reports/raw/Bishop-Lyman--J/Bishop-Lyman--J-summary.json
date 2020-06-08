@@ -1,31 +1,65 @@
 {
     "slug": "Bishop-Lyman--J",
     "candidateName": "Bishop, Lyman  J",
-    "scrape_date": "2020-05-03",
+    "scrape_date": "2020-05-26",
     "officeTitle": "Governor",
     "partyDescr": "Libertarian",
-    "periods": 2,
-    "receipts": 12053.1,
-    "expenditures": 6209.05,
-    "balance": 5844.05,
+    "periods": 3,
+    "receipts": 12335.52,
+    "expenditures": 7209.05,
+    "balance": 5126.47,
     "summary": {
         "contributions": {
             "primary": 0.0,
-            "general": 12053.1,
-            "total": 12053.1
+            "general": 12335.52,
+            "total": 12335.52
         },
         "expenditures": {
             "primary": 0.0,
-            "general": 6209.05,
-            "total": 6209.05
+            "general": 7209.05,
+            "total": 7209.05
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 5844.05,
-            "total": 5844.05
+            "general": 5126.47,
+            "total": 5126.47
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 48106,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 72.42000000000002,
+            "num_contributions": 2,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 5844.05,
+                    "total": 5844.05
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 282.42,
+                    "total": 282.42
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 1000.0,
+                    "total": 1000.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 5126.47,
+                    "total": 5126.47
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47250,

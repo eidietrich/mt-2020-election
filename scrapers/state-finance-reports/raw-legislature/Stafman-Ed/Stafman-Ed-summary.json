@@ -1,31 +1,79 @@
 {
     "slug": "Stafman-Ed",
     "candidateName": "Stafman, Ed ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 62",
     "partyDescr": "Democrat",
-    "periods": 6,
-    "receipts": 65343.18,
-    "expenditures": 39548.189999999995,
-    "balance": 25794.99,
+    "periods": 8,
+    "receipts": 65427.18,
+    "expenditures": 40313.899999999994,
+    "balance": 25113.28,
     "summary": {
         "contributions": {
             "primary": 34837.46,
-            "general": 30505.72,
-            "total": 65343.18
+            "general": 30589.72,
+            "total": 65427.18
         },
         "expenditures": {
             "primary": 34837.46,
-            "general": 4710.73,
-            "total": 39548.189999999995
+            "general": 5476.44,
+            "total": 40313.899999999994
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 25794.99,
-            "total": 25794.99
+            "general": 25113.28,
+            "total": 25113.28
         }
     },
     "reports": [
+        {
+            "report": "05/20/2020 to 05/20/2020",
+            "id": 48425,
+            "type": "C7",
+            "start_date": "05/20/2020",
+            "end_date": "05/20/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/20/2020",
+                "report_end_date": "05/20/2020"
+            }
+        },
+        {
+            "report": "04/16/2020 to 05/14/2020",
+            "id": 47986,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/14/2020",
+            "unitemized_contributions": 30.0,
+            "num_contributions": 1,
+            "num_expenditures": 4,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 25794.99,
+                    "total": 25794.99
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 84.0,
+                    "total": 84.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 765.71,
+                    "total": 765.71
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 25113.28,
+                    "total": 25113.28
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/14/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47315,

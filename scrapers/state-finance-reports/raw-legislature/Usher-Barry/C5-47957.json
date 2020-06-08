@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "previous report": {
+            "primary": 540.05,
+            "general": 0.0,
+            "total": 540.05
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 360.0,
+            "total": 360.0
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Ending Balance": {
+            "primary": 540.05,
+            "general": 360.0,
+            "total": 900.05
+        },
+        "report_start_date": "04/16/2020",
+        "report_end_date": "05/15/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"05\\/08\\/2020\",\"Entity Name\":\"BNSF RAILPAC\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 961039\",\"City\":\"Fort Worth\",\"State\":\"TX\",\"Zip\":76161,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":5,\"Amount\":180.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":180.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"05\\/08\\/2020\",\"Entity Name\":\"Northwest Energy Mt Employees PAC\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 4467\",\"City\":\"Missoula\",\"State\":\"MT\",\"Zip\":59806,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":5,\"Amount\":180.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":180.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0.0
+}

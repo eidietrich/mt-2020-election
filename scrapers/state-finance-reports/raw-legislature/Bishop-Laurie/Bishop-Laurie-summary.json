@@ -1,31 +1,65 @@
 {
     "slug": "Bishop-Laurie",
     "candidateName": "Bishop, Laurie ",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 60",
     "partyDescr": "Democrat",
-    "periods": 2,
-    "receipts": 4840.4,
-    "expenditures": 266.66,
-    "balance": 4573.74,
+    "periods": 3,
+    "receipts": 5600.4,
+    "expenditures": 276.54,
+    "balance": 5323.86,
     "summary": {
         "contributions": {
             "primary": 0.0,
-            "general": 4840.4,
-            "total": 4840.4
+            "general": 5600.4,
+            "total": 5600.4
         },
         "expenditures": {
             "primary": 0.0,
-            "general": 266.66,
-            "total": 266.66
+            "general": 276.54,
+            "total": 276.54
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 4573.74,
-            "total": 4573.74
+            "general": 5323.86,
+            "total": 5323.86
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48095,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 7,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 4573.74,
+                    "total": 4573.74
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 760.0,
+                    "total": 760.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 9.88,
+                    "total": 9.88
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 5323.86,
+                    "total": 5323.86
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/16/2020 to 04/15/2020",
             "id": 47244,

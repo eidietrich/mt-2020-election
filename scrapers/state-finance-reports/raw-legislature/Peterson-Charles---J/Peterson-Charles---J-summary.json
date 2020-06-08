@@ -1,10 +1,10 @@
 {
     "slug": "Peterson-Charles---J",
     "candidateName": "Peterson, Charles   J",
-    "scrape_date": "2020-05-11",
+    "scrape_date": "2020-05-21",
     "officeTitle": "House District No. 36",
     "partyDescr": "Republican",
-    "periods": 2,
+    "periods": 3,
     "receipts": 458.25,
     "expenditures": 380.5,
     "balance": 77.75,
@@ -26,6 +26,40 @@
         }
     },
     "reports": [
+        {
+            "report": "04/16/2020 to 05/15/2020",
+            "id": 48053,
+            "type": "C5",
+            "start_date": "04/16/2020",
+            "end_date": "05/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 0,
+            "num_expenditures": 0,
+            "summary": {
+                "previous report": {
+                    "primary": 77.75,
+                    "general": 0.0,
+                    "total": 77.75
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Ending Balance": {
+                    "primary": 77.75,
+                    "general": 0.0,
+                    "total": 77.75
+                },
+                "report_start_date": "04/16/2020",
+                "report_end_date": "05/15/2020"
+            }
+        },
         {
             "report": "03/20/2020 to 04/15/2020",
             "id": 47637,
