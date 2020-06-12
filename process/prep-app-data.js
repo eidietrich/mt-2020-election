@@ -67,7 +67,8 @@ const federalExpenditures = [] // TODO
 
 const primaryResults = getJson(PRIMARY_RESULTS)
 
-const activeCandidates = filterToActive(candidates)
+// const activeCandidates = filterToActive(candidates)
+const activeCandidates = candidates
 
 
 // sort candidates into state/federal races

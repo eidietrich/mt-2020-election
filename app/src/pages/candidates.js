@@ -71,7 +71,7 @@ const Primary = (props) => {
   // const plural = (candidates.length > 1) ? 's' : ''
   return <div className={styles.Primary}>
     <div className={styles.primaryHeader} style={{backgroundColor: party.color}}>
-  <h2 className={styles.officeName}>{raceName} - {party.name}</h2>
+  <h2 className={styles.officeName}>{raceName} &mdash; {party.name}</h2>
     </div>
 
     {/* <h4 className={styles.primaryName} style={{color: party.color}}>{props.name}</h4> */}
