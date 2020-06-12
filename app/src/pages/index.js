@@ -29,20 +29,21 @@ const offices = Array.from(new Set(candidates.map(d => d.position)))
 
 class IndexPage extends Component {
   render(){
+    const activeCandidates = filterToActive(candidates)
     const racesRendered = offices.map(office => {
       const race = races.find(d => d.position === office)
       if (race.type === 'state-district') {
         return <RaceWithDistricts
           key={office}
           name={office}
-          candidates={candidates.filter(d => d.position === office )}
+          candidates={activeCandidates.filter(d => d.position === office )}
           race={race}
         />
       } else {
         return <Race
           key={office}
           name={office}
-          candidates={candidates.filter(d => d.position === office )}
+          candidates={activeCandidates.filter(d => d.position === office )}
           race={race}
         />
       }
@@ -68,7 +69,7 @@ const Race = (props) => {
   const primaryFields = parties
     .filter(party => candidates.find(d => d.party === party.key)) // exclude parties w/out candidates
     .map(party => {
-      const partyCandidates = filterToActive(candidates)
+      const partyCandidates = candidates
         .filter(d => d.party === party.key)
         .sort((a,b) => a.withdrawal_date ? 1 : -1)
       return <Primary key={party.key}
@@ -111,7 +112,7 @@ const District = (props) => {
   const primariesRendered = parties
     .filter(party => candidates.find(d => d.party === party.key)) // exclude parties w/out candidates
     .map(party => {
-      const partyCandidates = filterToActive(candidates)
+      const partyCandidates = candidates
         .filter(d => d.party === party.key)
         .sort((a,b) => a.withdrawal_date ? 1 : -1)
       return <Primary key={party.key}

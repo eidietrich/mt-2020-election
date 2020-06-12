@@ -12,9 +12,12 @@ const coverageLinks = require('./src/data/outside-links.json')
 const issueStatements = require('./src/data/q-and-a.json')
 
 const financeSummaries = preppedData.finance
+const primaryResults = preppedData.primaryResults
 
-const filterToActive = candidates => candidates.filter(d => d.status == 'Announced')
-const activeCandidates = filterToActive(candidates)
+// const filterToActive = candidates => candidates.filter(d => d.status === 'Announced')
+// const filterToActive = candidates => candidates.filter(d => d.status === 'Announced')
+// const activeCandidates = filterToActive(candidates)
+const activeCandidates = candidates
 
 // redundant w/ src/logic/functions.js bc node doesn't like modern import calls
 const makeCandidateKey = candidate => (candidate.first_name + '-' + candidate.last_name).replace(/\s/g, '-')
@@ -29,25 +32,31 @@ activeCandidates.forEach(candidate => {
 })
 
 races.forEach(race => {
+    const raceKey = makeRaceKey(race)
     // collect media coverage links and deduplicate
     // Will pull in first entry
-    const withDuplicates = coverageLinks.filter(link => link.race === makeRaceKey(race))
+    const withDuplicates = coverageLinks.filter(link => link.race === raceKey)
     const uniqueUrls = Array.from(new Set(withDuplicates.map(d => d.link)))
     const deduped = uniqueUrls.map(url => withDuplicates.find(d => d.link === url))
     race.coverageLinks = deduped
+
+    // primary results
+    const primaryResultsByDistrict = primaryResults.filter(d => d.raceKey === raceKey) // plural b/c of races w/ districts
+    if (primaryResultsByDistrict.length === 0) console.log('Missing primary result', raceKey)
+    race.primaryResultsByDistrict = primaryResultsByDistrict
 })
 
 exports.createPages = async({ actions: { createPage } }) => {
-    
     // race pages
     races.forEach(race => {
+        const raceKey = makeRaceKey(race)
         const raceCandidates = activeCandidates.filter(candidate => candidate.position === race.position)
         createPage({
-            path: `/races/${makeRaceKey(race)}`,
+            path: `/races/${raceKey}`,
             component: require.resolve('./src/templates/race.js'),
             context: {
                 race,
-                raceCandidates,
+                raceCandidates
             },
         })
 

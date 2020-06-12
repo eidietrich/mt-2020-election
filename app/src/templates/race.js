@@ -3,19 +3,24 @@ import Layout from "../components/layout"
 import SEO from '../components/seo'
 
 import RaceFinance from '../components/RaceFinance'
-import RaceIssues from '../components/RaceIssues' 
+// import RaceIssues from '../components/RaceIssues' 
+import RacePrimaryResults from '../components/RacePrimaryResults'
 import RaceCandidateSummary from '../components/RaceCandidateSummary' 
 import LinksList from '../library/LinksList'
 import EmailFormElex from '../library/EmailFormElex.jsx'
 
 import MoreToComeMessage from '../components/MoreToComeMessage'
 
+import { filterToActive } from '../logic/functions.js'
+
 class RacePage extends Component {
     render(){
         const {
             race,
-            raceCandidates
+            raceCandidates,
         } = this.props.pageContext
+
+        const candidates = filterToActive(raceCandidates)
 
         return (<Layout>
             <SEO
@@ -30,26 +35,34 @@ class RacePage extends Component {
             <h2>Candidates</h2>
             <RaceCandidateSummary
                 race={race}
-                candidates={raceCandidates}
+                candidates={candidates}
             />
 
-            < EmailFormElex />
+            <EmailFormElex />
 
-            <RaceIssues
+            {/* <RaceIssues
                 race={race}
-                candidates={raceCandidates}
-            />
+                candidates={candidates}
+            /> */}
             <hr />
+
             <RaceFinance
                 race={race}
-                candidates={raceCandidates}
+                candidates={candidates}
             />
+
+            <hr />
+            <RacePrimaryResults 
+                race={race}
+                candidates={candidates}
+            />
+
             <hr />
             <LinksList
                 links={race.coverageLinks}
                 featuredFilter={(link) => link.race_page_featured === 'yes'}
             />
-            <hr />
+            
             <MoreToComeMessage />
         </Layout>);
     }

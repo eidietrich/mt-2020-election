@@ -2,7 +2,10 @@
 
 import { parties } from './config.js'
  
-export const filterToActive = candidates => candidates.filter(d => d.status === 'Announced')
+const activeStatuses = ['Won primary', 'Uncontested primary','Passed primary','Gathering signatures']
+export const passedPrimary = candidate => activeStatuses.includes(candidate.status)
+export const failedPrimary = candidate => candidate.status === 'Lost primary'
+export const filterToActive = candidates => candidates.filter(passedPrimary)
 
 export const makeCandidateKey = candidate => (candidate.first_name + '-' + candidate.last_name).replace(/\s/g, '-')
 export const makeCandidateUrl = candidate => `/candidates/${makeCandidateKey(candidate)}`
@@ -12,6 +15,8 @@ export const makeRaceUrl = candidate => `/races/${makeRaceKey(candidate)}`
 
 export const getCandidateParty = candidate => parties.find(d => d.key === candidate.party)
 export const getPartyFromLetter = letter => parties.find(d => d.key === letter)
+export const getPartyColor = letter => getPartyFromLetter(letter).color
+
 
 export const candidateNameParty = candidate => {
   const incumbency = c => (candidate.incumbent === 'TRUE') ? "-INCUMBENT" : ""

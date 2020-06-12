@@ -19,7 +19,7 @@ const CandidateSummary = (props) => {
           <div className={styles.portraitNameTitleGroup}>
               <CandidateMug candidate={candidate}/>
             <div className={styles.nameTitleGroup}>
-              {/* <div className={styles.title}>{candidate.current_title}</div> */}
+              <div className={styles.district}>{candidate.district ? candidate.district : null}</div>
               <div className={styles.name}>
                 <Link to={makeCandidateUrl(candidate)}>{candidate.first_name} {candidate.last_name}</Link>
               </div>

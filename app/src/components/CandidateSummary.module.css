@@ -5,11 +5,14 @@
     background-color: #EAE3DA;
     box-shadow: 1px 1px 3px #888;
 }
-
-.summaryHeaderTitle {
+.district {
+    font-size: 1.2em;
+    /* font-weight: bold; */
+}
+/* .summaryHeaderTitle {
     
 
-}
+} */
 /* .summaryHeaderTitle::before {
     content: '✕';
     color: #fff;

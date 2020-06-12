@@ -41,6 +41,8 @@ const STATE_FINANCE_SOURCE = './scrapers/state-finance-reports/data/state-financ
 const FED_FINANCE_SUMMARY = './scrapers/fed-finance-reports/data/raw-summaries.json'
 const FED_ITEMIZED_RECEIPTS = './scrapers/fed-finance-reports/data/itemized-receipts.json'
 
+const PRIMARY_RESULTS = './scrapers/primary-results/summary.json'
+
 // Memo to past self: Why is this input COMING from the app folder?
 const APP_COPY_PATH = './app/src/data/app-copy.json' // TODO: Standardize this
 
@@ -63,8 +65,9 @@ const federalFinanceTotals = getJson(FED_FINANCE_SUMMARY)
 const federalContributions = getJson(FED_ITEMIZED_RECEIPTS)
 const federalExpenditures = [] // TODO
 
-const activeCandidates = filterToActive(candidates)
+const primaryResults = getJson(PRIMARY_RESULTS)
 
+const activeCandidates = filterToActive(candidates)
 
 
 // sort candidates into state/federal races
@@ -140,7 +143,8 @@ const financeSummaries = stateFinanceSummaries.concat(federalFinanceSummaries)
 // checkStateCandidateFundraising(stateFinanceSummaries)
 
 const preppedData = {
-    finance: financeSummaries
+    finance: financeSummaries,
+    primaryResults: primaryResults,
 }
 
 writeJson(APP_DATA, preppedData)

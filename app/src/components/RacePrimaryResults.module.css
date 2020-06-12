@@ -1,0 +1,110 @@
+.section {
+    max-width: 1200px;
+    width: 100%;
+    padding: 0.5rem;
+}
+
+.primary {
+    overflow: scroll;
+    /* max-width: 700px; */
+    margin: auto;
+}
+
+.note {
+    font-size: 0.8em;
+    line-height: 1.2em;
+    font-style: italic;
+    margin-bottom: 1em;
+}
+table.resultTable {
+    width: 100%;
+    border-spacing: 0;
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    white-space: nowrap;
+    table-layout: fixed;
+
+    
+}
+
+@media screen and (max-width: 400px) {
+    table.resultTable {
+        font-size: 12px;
+    }
+}
+
+.resultTable td,
+.resultTable th {
+    padding: 0.5em;
+    font-weight: normal;
+    text-align: left;
+}
+.resultTable tr {
+    display: flex;
+
+}
+.resultTable tr.winner {
+    font-weight: bold;
+}
+
+.resultTable th,
+.resultTable td,
+.resultTable tr {
+    border: none;
+    line-height: 1em;
+}
+.resultTable th {
+    text-align: left;
+}
+.resultTable thead th {
+    border: none;
+    border-bottom: solid 1px #ccc;
+}
+.resultTable tbody tr td {
+    border: none;
+}
+.resultTable tbody tr:not(:last-child) td {
+    border-bottom: solid 1px #eee;
+}
+
+.resultTable th.label, 
+.resultTable td.label {
+    flex: 1 1 200px;
+    max-width: 500px;
+    overflow: hidden;
+}
+.resultTable th.num,
+.resultTable td.num {
+    text-align: right;
+    flex: 1 0 50px;
+}
+.container {
+    font-family: Arial, sans-serif;
+    margin-bottom: 1em;
+    overflow: scroll;
+    
+}
+.fig-title {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 0.3em;
+}
+.sub-title {
+    font-style: italic;
+    margin-bottom: 0.5em;
+}
+.note {
+    font-size: 0.9em;
+    line-height: 1em;
+    font-style: italic;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+}
+
+.icon {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-right: 4px;
+    background-color: #666;
+}

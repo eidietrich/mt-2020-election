@@ -8,6 +8,12 @@
     padding: 0.5rem;
 }
 
+.primary-loss {
+    font-size: 1.2em;
+    margin: 0.5em 0;
+    font-style: italic;
+}
+
 .header {
     background-color: #ddd;
     position: relative;
