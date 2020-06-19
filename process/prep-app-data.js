@@ -38,7 +38,7 @@ const {
 // TODO: Add STATE_FINANCE_SUMMARY
 // const STATE_FINANCE_SUMMARY = './scrapers/state-finance-reports/data/state-candidate-summaries.json'
 const STATE_FINANCE_SOURCE = './scrapers/state-finance-reports/data/state-finance-cleaned.json'
-const FED_FINANCE_SUMMARY = './scrapers/fed-finance-reports/data/raw-summaries.json'
+const FED_FINANCE_SUMMARY = './scrapers/fed-finance-reports/data/candidate-summaries.json'
 const FED_ITEMIZED_RECEIPTS = './scrapers/fed-finance-reports/data/itemized-receipts.json'
 
 const PRIMARY_RESULTS = './scrapers/primary-results/summary.json'
