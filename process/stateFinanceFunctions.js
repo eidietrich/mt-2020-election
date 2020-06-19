@@ -16,8 +16,8 @@ const {
 
 const contributionTypes = {
     selfFinance: ['Personal contributions','Loans'],
-    committee: ['PAC contributions','Political party contributions','Incidental committee contributions','Other political committee contributions'],
-    individual: ['Individual contributions'],
+    committee: ['PAC contributions','Political party contributions','Incidental committee contributions','Other political committee contributions',10],
+    individual: ['Individual contributions','Individual Contributions'],
     other: ['Unitemized contributions','Fundraisers & misc']
 }
 
@@ -29,7 +29,7 @@ module.exports.cleanStateContributions = function (contributions) {
         else if (contributionTypes.committee.includes(d.type)) d.type2 = 'Committee support'
         else if (contributionTypes.individual.includes(d.type)) d.type2 = 'Individual donations'
         else if (contributionTypes.other.includes(d.type)) d.type2 = 'Other support'
-        else console.log('No match', d.type)
+        else console.log('No match', d.type,)
         // TODO - add code to check for self-contributions listed under "individual"
         // Start by code flagging donations from same last name
 

@@ -1,4 +1,17 @@
 {
+    "data": {
+        "reportId": 46854,
+        "fromDateStr": "01/01/2020",
+        "toDateStr": "03/15/2020",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 16071,
+        "candidateName": "Graybill, Raph ",
+        "officeTitle": "Attorney General",
+        "electionYear": "2020",
+        "statusDescr": "Amended",
+        "amendedDate": 1591295114000
+    },
     "summary": {
         "previous report": {
             "primary": 108093.12,

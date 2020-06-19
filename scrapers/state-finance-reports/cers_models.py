@@ -179,7 +179,6 @@ class Candidate:
         session.post(post_url, post_payload)
         r = session.get(get_url)
         full = r.json()['aaData']
-
         if raw:
             return full
         
@@ -193,6 +192,8 @@ class Candidate:
             'candidateName': d['candidateDTO']['candidateName'],
             'officeTitle': d['candidateDTO']['officeTitle'],
             'electionYear': d['candidateDTO']['electionYear'],
+            'statusDescr': d['statusDescr'],
+            "amendedDate": d['amendedDate']
         }, full))
         return cleaned
         
@@ -235,30 +236,43 @@ class Candidate:
 
     def _get_summary(self):
         c5_summaries = [r.summary for r in self.finance_reports if r.type == 'C5']
-        c5_summaries = sorted(c5_summaries, key=lambda i: parse(i['report_end_date']))
+        # c5_summaries = sorted(c5_summaries, key=lambda i: parse(i['report_end_date']))
 
         c7_summaries = [r.summary for r in self.finance_reports if r.type == 'C7']
-        if len(c7_summaries) > 0:
-            print('## WARNING - skipping C-7 filings in summary')
+        c7e_summaries = [r.summary for r in self.finance_reports if r.type == 'C7E']
 
-        default_cash_on_hand = {
-            'total': 0,
-            'general': 0,
-            'primary': 0,
-        }
+        summaries = c5_summaries + c7_summaries + c7e_summaries
+        summaries = sorted(summaries, key=lambda i: parse(i['report_end_date']))
+
+        pri_contributions = sum(s['Receipts']['primary'] for s in summaries)
+        gen_contributions = sum(s['Receipts']['general'] for s in summaries)
+        tot_contributions = sum(s['Receipts']['total'] for s in summaries)
+
+        pri_expenditures = sum(s['Expenditures']['primary'] for s in summaries)
+        gen_expenditures = sum(s['Expenditures']['general'] for s in summaries)
+        tot_expenditures = sum(s['Expenditures']['total'] for s in summaries)
+
         return {
             'contributions': {
-                'primary': sum(s['Receipts']['primary'] for s in c5_summaries),
-                'general': sum(s['Receipts']['general'] for s in c5_summaries),
-                'total': sum(s['Receipts']['total'] for s in c5_summaries)
+                'primary': pri_contributions,
+                'general': gen_contributions,
+                'total': tot_contributions,
             },
             'expenditures': {
-                'primary': sum(s['Expenditures']['primary'] for s in c5_summaries),
-                'general': sum(s['Expenditures']['general'] for s in c5_summaries),
-                'total': sum(s['Expenditures']['total'] for s in c5_summaries)
+                'primary': pri_expenditures,
+                'general': gen_expenditures,
+                'total': tot_expenditures,
             },
-            'cash_on_hand': c5_summaries[-1]['Ending Balance'] if (len(c5_summaries) > 0) else default_cash_on_hand,
-
+            'cash_on_hand': {
+                'primary': pri_contributions - pri_expenditures,
+                'general': gen_contributions - gen_expenditures,
+                'total': tot_contributions - tot_expenditures,
+            },
+            'report_counts': {
+                'C5': len(c5_summaries),
+                'C7': len(c7_summaries),
+                'C7E': len(c7e_summaries),
+            }
         }
 
     def _get_contributions(self):
@@ -273,6 +287,7 @@ class Candidate:
             dfi = report.contributions.copy()
             dfi.insert(0, 'Candidate', self.name)
             dfi.insert(1, 'Reporting Period', f'{report.start_date} to {report.end_date}' )
+            dfi.insert(2, 'Report Type', report.type)
             df = df.append(dfi)
         return df
         
@@ -289,6 +304,7 @@ class Candidate:
             dfi = report.expenditures.copy()
             dfi.insert(0, 'Candidate', self.name)
             dfi.insert(1, 'Reporting Period', f'{report.start_date} to {report.end_date}' )
+            dfi.insert(2, 'Report Type', report.type)
             df = df.append(dfi)
         return df
 
@@ -318,43 +334,28 @@ class Report:
         self.end_date = data['toDateStr']
         self.label = f'{self.start_date} to {self.end_date}'
 
-        self.fetchFullReports=fetchFullReports
+        self.fetchFullReports = fetchFullReports
 
         self.contributions = pd.DataFrame()
         self.expenditures = pd.DataFrame()
     
         filePath = os.path.join(cachePath, f'{self.type}-{self.id}.json')
 
-        if (self.type == 'C5'):
-            if checkCache:
-                if os.path.isfile(filePath):
-                    self._get_c5_data_from_cache(filePath)
-                elif self.id in MANUAL_CACHES.keys():
-                    # Files that I'm having a hard time downloading from CERS
-                    self._get_c5_data_from_manual_cache()
-                else:
-                    self._get_c5_data_from_scrape()
-            elif self.id in MANUAL_CACHES.keys():
+        if checkCache and os.path.isfile(filePath):
+            self._get_cached_data(filePath)
+            # This checks for updates and reroutes for newly amended forms
+
+        elif (self.type == 'C5'):      
+            if self.id in MANUAL_CACHES.keys():
+                # Files that I'm having a hard time downloading from CERS
                 self._get_c5_data_from_manual_cache()
             else:
-                self._get_c5_data_from_scrape()
-            
-            if writeCache:
-                if not os.path.exists(cachePath): os.makedirs(cachePath)
-                self.export(filePath)     
+                self._get_c5_data_from_scrape()   
         elif (self.type == 'C7'):
-            print('C7 - TODO: Finish implementing parsing code')
-            # Temporary
-            self.expenditures = pd.DataFrame()
-            self.contributions = pd.DataFrame()
-            self.unitemized_contributions = 0
-            self.summary = {
-                'report_start_date': self.start_date,
-                'report_end_date': self.end_date,
-            }
-            # self._get_c7_data_from_scrape()   
+            self._get_c7_data_from_scrape() 
+        elif (self.type == 'C7E'):
+            self._get_c7e_data_from_scrape()
         else:
-            # TODO - figure out how to handle non C-5 reports
             print('Warning - unhandled report type', self.type, self.id)
             self.expenditures = pd.DataFrame()
             self.contributions = pd.DataFrame()
@@ -363,19 +364,54 @@ class Report:
                 'report_start_date': self.start_date,
                 'report_end_date': self.end_date,
             }
-            
+
+        # Add cache
+        if writeCache:
+                if not os.path.exists(cachePath): os.makedirs(cachePath)
+                self.export(filePath)  
     
-    def _get_c5_data_from_cache(self, filePath):
-        print(f'--- From cache, loading C5 {self.start_date}-{self.end_date} ({self.id})')
-        with open(filePath) as f:
+    def _get_cached_data(self, file_path):
+        print(f'--- From cache, loading {self.type} {self.start_date}-{self.end_date} ({self.id})')
+        with open(file_path) as f:
             cache = json.load(f)
-        self.summary = cache['summary']
-        self.contributions = pd.read_json(cache['contributions'])
-        self.expenditures = pd.read_json(cache['expenditures'])
-         # TODO - move this to cleaning step?
-        self.unitemized_contributions = self._calc_unitemized_contributions()
-        # self.unitemized_contributions = cache['unitemized_contributions']
-        # TODO: Write unit test to unsure caching/uncaching doesn't change data
+
+        if (cache['data'] and (cache['data']['amendedDate'] == self.data['amendedDate'])):
+            self.summary = cache['summary']
+            self.contributions = pd.read_json(cache['contributions'])
+            self.expenditures = pd.read_json(cache['expenditures'])
+            self.unitemized_contributions = self._calc_unitemized_contributions()
+        else:
+            print(f'----- Actually, amendment found on {self.id}')
+            if self.id in MANUAL_CACHES.keys():
+                if (self.type != 'C5'): print('Wrong report type')
+                self._get_c5_data_from_manual_cache()
+            elif self.type == 'C5':
+                self._get_c5_data_from_scrape()
+            elif self.type == 'C7':
+                self._get_c7_data_from_scrape
+            elif self.type == 'C7E':
+                self._get_c7e_data_from_scrape
+            else:
+                print('Bad cache on unhandled report type', self.type)
+
+    # def _get_c5_data_from_cache(self, filePath):
+    #     print(f'--- From cache, loading C5 {self.start_date}-{self.end_date} ({self.id})')
+    #     with open(filePath) as f:
+    #         cache = json.load(f)
+
+    #     # Check for amended report, redirect if so
+    #     if (cache['data'] and (cache['data']['amendedDate'] == self.data['amendedDate'])):
+    #         self.summary = cache['summary']
+    #         self.contributions = pd.read_json(cache['contributions'])
+    #         self.expenditures = pd.read_json(cache['expenditures'])
+    #         # TODO - move this to cleaning step?
+    #         self.unitemized_contributions = self._calc_unitemized_contributions()
+    #         # self.unitemized_contributions = cache['unitemized_contributions']
+    #         # TODO: Write unit test to unsure caching/uncaching doesn't change data
+    #     elif self.id in MANUAL_CACHES.keys():
+    #         # Files that I'm having a hard time downloading from CERS
+    #         self._get_c5_data_from_manual_cache()
+
 
     def _get_c5_data_from_manual_cache(self):
         file = MANUAL_CACHES[self.id]
@@ -406,82 +442,106 @@ class Report:
             'searchPage': 'public'
         }
         session = requests.Session()
-        p = session.post(post_url, post_payload)
+        session.post(post_url, post_payload)
 
-        detail = session.post(
-            'https://cers-ext.mt.gov/CampaignTracker/public/viewFinanceReport/financeRepDetailList',
-            {
-                'listName': "individual",
-            }
-        )
+        # C7 reports contain a bunch of different tables - need to parse each individually
+        detail_url = 'https://cers-ext.mt.gov/CampaignTracker/public/viewFinanceReport/financeRepDetailList'
+        candidate_name = self.data['candidateName']
+
+        individual_raw = session.post(detail_url, {'listName': "individual"})
+        individual = self._parse_c7_table(individual_raw, candidate_name)
         
-        print('TODO: Add address parsing to C7 code')
-        print('TODO: Set up C7 code so it parses more than just individual C7 reports')
-        # Reshape data to match form of C5 itemized records
-        cleaned = []
-        for row in detail.json():
-            address = row['entityAddress'].split(',')
-            city = address[1].strip()
-            # print('address', address)
-            # Magic date conversion!
-            date  = datetime.fromtimestamp(row['datePaid'] / 1000).strftime('%m/%d/%y')
-            if (row['cashAmt'] > 0 and row['inKindAmt'] > 0):
-                amount_type = 'Mixed'
-            elif (row['cashAmt'] > 0):
-                amount_type = 'CA'
-            elif (row['inKindAmt'] > 0):
-                amount_type = 'IK'
-            cleaned.append({
-                'Candidate': 'TK',
-                'Reporting Period': self.label,
-                'Date Paid': date,
-                'Entity Name': row['entityName'],
-                'First Name' : '',
-                'Middle Initial': '',
-                'Last Name': '',
-                'Addr Line1': address[0],
-                'City': 'TK',
-                'State': 'TK',
-                'Zip': 'TK',
-                'Zip4': 'TK',
-                'Country': 'TK',
-                'Occupation': row['occupationDescr'],
-                'Employer': row['employerDescr'],
-                'Contribution Type': row['lineItemCompositeDescr'],
-                'Amount': row['totalAmt'],
-                'Amount Type': amount_type,
-                'Purpose': row['purposeDescr'],
-                'Election Type': row['amountTypeDescr'],
-                'Total Primary': row['totalToDatePrimary'],
-                'Total General': row['totalToDateGeneral'],
-                'Refund Transaction Type': '',
-                'Refund Original Transaction Date': row['refundOrigTransDate'],
-                'Refund Original Transaction Total': row['refundOrigTransTotalVal'],
-                'Refund Original Transaction Descr': row['refundOrigTransDesc'],
-                'Previous Transaction (Y/N)': row['previousTransactionInd'],
-                'Fundraiser Name': row['fundraiserName'],
-                'Fundraiser Location': row['fundraiserLocation'],
-                'Fundraiser Attendees': row['fundraiserAttendees'],
-                'Fundraiser Tickets Sold': row['fundraiserTicketsSold'],
-            })
+        committees_raw = session.post(detail_url, {'listName': "committee"})
+        committees = self._parse_c7_table(committees_raw, candidate_name)
 
+        # For time being, just check other categories are null
+        candidate_raw = session.post(detail_url, {'listName': "candidate"})
+        if (candidate_raw.json() != []): print('## Need to handle C7 candidate self contributions')
 
-        print('C',pd.DataFrame(individual).iloc[3])
+        loan_raw = session.post(detail_url, {'listName': "loan"})
+        if (loan_raw.json() != []): print('## Need to handle C7 loans')
 
-        print('B',pd.DataFrame(cleaned).iloc[3])
+        fundraisers_raw = session.post(detail_url, {'listName': "fundraisers"})
+        if (fundraisers_raw.json() != []): print('## Need to handle C7 fundraiers')
 
-        # Null contents
-        self.expenditures = pd.DataFrame()
+        refunds_raw = session.post(detail_url, {'listName': "fundraisers"})
+        if (refunds_raw.json() != []): print('## Need to handle C7 refunds')
+
+        payments_raw = session.post(detail_url, {'listName': "payment"})
+        if (payments_raw.json() != []): print('## Need to handle C7 payments')
+
+        # print('B',pd.DataFrame(individual).iloc[3])
+        contributions = pd.DataFrame(individual + committees)
+        expenditures = pd.DataFrame() # Reported w/ C7E
+
+        self.expenditures = expenditures
+        self.contributions = contributions
+        self.unitemized_contributions = 0
+        self.summary = {
+            'report_start_date': self.start_date,
+            'report_end_date': self.end_date,
+            "Receipts": {
+                "primary": contributions[contributions['Election Type'] == 'Primary']['Amount'].sum(),
+                "general": contributions[contributions['Election Type'] == 'General']['Amount'].sum(),
+                "total": contributions['Amount'].sum()
+            },
+            "Expenditures": {
+                "primary": 0,
+                "general": 0,
+                "total": 0
+            },
+        }
+
+    def _get_c7e_data_from_scrape(self):
+        print(f'Fetching C7E {self.start_date}-{self.end_date} ({self.id})')
+        # print(self.data)
+
+        post_url = 'https://cers-ext.mt.gov/CampaignTracker/public/viewFinanceReport/retrieveReport'
+        post_payload = {
+            'candidateId': self.data['candidateId'],
+            'reportId': self.id,
+            'searchPage': 'public'
+        }
+        session = requests.Session()
+        session.post(post_url, post_payload)
+
+        detail_url = 'https://cers-ext.mt.gov/CampaignTracker/public/viewFinanceReport/financeRepDetailList'
+
+        expenditures_raw = session.post(detail_url, {'listName': "expendOther"})
+        expenditures = self._parse_c7e_table(expenditures_raw)
+
+        # Unhandled for now
+        candidate_raw = session.post(detail_url, {'listName': "candidate"})
+        if (candidate_raw.json() != []): print('## Need to handle C7E candidate expenditures')
+
+        pettycash_raw = session.post(detail_url, {'listName': "pettyCash"})
+        if (pettycash_raw.json() != []): print('## Need to handle C7E petty cash')
+
+        debt_raw = session.post(detail_url, {'listName': "debtLoan"})
+        if (debt_raw.json() != []): print('## Need to handle debts --')
+
+        expenditures = pd.DataFrame(expenditures)
+        self.expenditures = expenditures
         self.contributions = pd.DataFrame()
         self.unitemized_contributions = 0
         self.summary = {
             'report_start_date': self.start_date,
             'report_end_date': self.end_date,
+            'Receipts': {
+                "primary": 0,
+                "general": 0,
+                "total": 0
+            },
+            'Expenditures': {
+                "primary": expenditures[expenditures['Election Type'] == 'Primary']['Amount'].sum(),
+                "general": expenditures[expenditures['Election Type'] == 'General']['Amount'].sum(),
+                "total": expenditures['Amount'].sum()
+            }
         }
-        print('---FINISH THIS---\n\n')
 
     def export(self, filePath):
         output = {
+            'data': self.data,
             'summary': self.summary,
             'contributions': self.contributions.to_json(orient='records'),
             'expenditures': self.expenditures.to_json(orient='records'),
@@ -566,6 +626,103 @@ class Report:
             'total': round(pri + gen, 2),
         }
     
+    def _parse_c7_table(self, raw, candidate):
+        cleaned = []
+        for row in raw.json():
+            addressLn1, city, state, zip_code = self._parse_address(row['entityAddress'])
+            # Magic date conversion!
+            # date  = datetime.fromtimestamp(row['datePaid'] / 1000).strftime('%m/%d/%y')
+            date = self._parse_date(row['datePaid'])
+            if (row['cashAmt'] > 0 and row['inKindAmt'] > 0):
+                amount_type = 'Mixed'
+            elif (row['cashAmt'] > 0):
+                amount_type = 'CA'
+            elif (row['inKindAmt'] > 0):
+                amount_type = 'IK'
+            cleaned.append({
+                # 'Candidate': candidate, # added at Candidate object level
+                # 'Reporting Period': self.label, # added at Candidate object level
+                'Date Paid': date,
+                'Entity Name': row['entityName'],
+                'First Name' : '',
+                'Middle Initial': '',
+                'Last Name': '',
+                'Addr Line1': addressLn1,
+                'City': city,
+                'State': state,
+                'Zip': zip_code,
+                'Zip4': '',
+                'Country': '',
+                'Occupation': row['occupationDescr'],
+                'Employer': row['employerDescr'],
+                'Contribution Type': row['lineItemCompositeDescr'],
+                'Amount': row['totalAmt'],
+                'Amount Type': amount_type,
+                'Purpose': row['purposeDescr'],
+                'Election Type': row['amountTypeDescr'],
+                'Total Primary': row['totalToDatePrimary'],
+                'Total General': row['totalToDateGeneral'],
+                'Refund Transaction Type': '',
+                'Refund Original Transaction Date': row['refundOrigTransDate'],
+                'Refund Original Transaction Total': row['refundOrigTransTotalVal'],
+                'Refund Original Transaction Descr': row['refundOrigTransDesc'],
+                'Previous Transaction (Y/N)': row['previousTransactionInd'],
+                'Fundraiser Name': row['fundraiserName'],
+                'Fundraiser Location': row['fundraiserLocation'],
+                'Fundraiser Attendees': row['fundraiserAttendees'],
+                'Fundraiser Tickets Sold': row['fundraiserTicketsSold'],
+            })
+        return cleaned
+
+    def _parse_c7e_table(self, raw):
+        cleaned = []
+        for row in raw.json():
+            addressLn1, city, state, zip_code = self._parse_address(row['entityAddress'])
+            date = self._parse_date(row['datePaid'])
+            cleaned.append({
+                'Date Paid': date,
+                'Entity Name': row['entityName'],
+                'First Name': '',
+                'Middle Initial': '',
+                'Last Name': '',
+                'Addr Line1': addressLn1,
+                'City': city,
+                'State': state,
+                'Zip': zip_code,
+                'Zip4': '',
+                'Expenditure Type': row['lineItemCompositeDescr'],
+                'Amount': row['totalAmt'],
+                'Purpose': row['purposeDescr'],
+                'Election Type': row['amountTypeDescr'],
+                'Expenditure Paid Communications Platform': row['expenditurePaidCommPlatform'],
+                'Expenditure Paid Communications Quantity': row['expenditurePaidCommQuantity'],
+                'Expenditure Paid Communications Subject Matter': row['expenditurePaidCommSubMatter']
+            })
+        return cleaned
+    
+    def _parse_address(self, raw):
+        # Assumes address format '1008 Prospect Ave, Helena, MT 59601'
+        # Edge cases will be a pain in the ass here
+        address = raw.replace('Washington, DC', 'Washington DC, DC').split(', ')
+        addressLn1 = (', ').join(address[0:len(address)-2])
+        city = address[-2].strip()
+        state_zip = address[-1].split(' ')
+        state = state_zip[0]
+        zip_code = state_zip[1]
+
+        # hacky Testing
+        # if (len(address) != 3):
+        #     # print(f'Raw address string: "{raw}"')
+        #     print('Address parse warning, not len 3', address)
+        #     print([addressLn1,city,state,zip_code])
+        if (len(state_zip) != 2): print('Address parse error, not len 2', state_zip)
+        if (len(state) != 2): print("State parse error, not len 2", state)
+
+        return addressLn1, city, state, zip_code
+
+    def _parse_date(self, raw):
+        return datetime.fromtimestamp(raw / 1000).strftime('%m/%d/%y')
+
     def _clean_value(self, val):
         if re.compile(r'\(*\)').search(val):
             # check for negative numbers indicated by parenthesis
