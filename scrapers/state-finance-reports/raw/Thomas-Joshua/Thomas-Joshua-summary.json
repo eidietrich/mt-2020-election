@@ -1,7 +1,7 @@
 {
     "slug": "Thomas-Joshua",
     "candidateName": "Thomas, Joshua ",
-    "scrape_date": "2020-05-26",
+    "scrape_date": "2020-06-19",
     "officeTitle": "Lieutenant Governor",
     "partyDescr": "Green",
     "periods": 0,
@@ -20,9 +20,14 @@
             "total": 0
         },
         "cash_on_hand": {
-            "total": 0,
+            "primary": 0,
             "general": 0,
-            "primary": 0
+            "total": 0
+        },
+        "report_counts": {
+            "C5": 0,
+            "C7": 0,
+            "C7E": 0
         }
     },
     "reports": []

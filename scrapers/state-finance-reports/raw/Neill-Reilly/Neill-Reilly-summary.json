@@ -1,13 +1,13 @@
 {
     "slug": "Neill-Reilly",
     "candidateName": "Neill, Reilly ",
-    "scrape_date": "2020-05-26",
+    "scrape_date": "2020-06-19",
     "officeTitle": "Governor",
     "partyDescr": "Democrat",
     "periods": 2,
     "receipts": 1027.03,
     "expenditures": 547.9100000000001,
-    "balance": 479.12,
+    "balance": 479.1199999999999,
     "summary": {
         "contributions": {
             "primary": 1027.03,
@@ -20,9 +20,14 @@
             "total": 547.9100000000001
         },
         "cash_on_hand": {
-            "primary": 479.12,
+            "primary": 479.1199999999999,
             "general": 0.0,
-            "total": 479.12
+            "total": 479.1199999999999
+        },
+        "report_counts": {
+            "C5": 2,
+            "C7": 0,
+            "C7E": 0
         }
     },
     "reports": [

@@ -1,31 +1,84 @@
 {
     "slug": "Olszewski-Albert",
     "candidateName": "Olszewski, Albert ",
-    "scrape_date": "2020-05-26",
+    "scrape_date": "2020-06-19",
     "officeTitle": "Governor",
     "partyDescr": "Republican",
-    "periods": 7,
-    "receipts": 349630.09,
-    "expenditures": 258294.72,
-    "balance": 91335.37,
+    "periods": 9,
+    "receipts": 353100.09,
+    "expenditures": 278712.97,
+    "balance": 74387.12000000005,
     "summary": {
         "contributions": {
-            "primary": 318598.89999999997,
+            "primary": 322068.89999999997,
             "general": 31031.19,
-            "total": 349630.09
+            "total": 353100.09
         },
         "expenditures": {
-            "primary": 258294.72,
+            "primary": 278712.97,
             "general": 0.0,
-            "total": 258294.72
+            "total": 278712.97
         },
         "cash_on_hand": {
-            "primary": 60304.18,
+            "primary": 43355.92999999999,
             "general": 31031.19,
-            "total": 91335.37
+            "total": 74387.12000000005
+        },
+        "report_counts": {
+            "C5": 6,
+            "C7": 1,
+            "C7E": 2
         }
     },
     "reports": [
+        {
+            "report": "05/29/2020 to 05/29/2020",
+            "id": 48876,
+            "type": "C7E",
+            "start_date": "05/29/2020",
+            "end_date": "05/29/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 5,
+            "summary": {
+                "report_start_date": "05/29/2020",
+                "report_end_date": "05/29/2020",
+                "Receipts": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                },
+                "Expenditures": {
+                    "primary": 17418.25,
+                    "general": 0.0,
+                    "total": 17418.25
+                }
+            }
+        },
+        {
+            "report": "05/29/2020 to 05/29/2020",
+            "id": 48875,
+            "type": "C7",
+            "start_date": "05/29/2020",
+            "end_date": "05/29/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 13,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/29/2020",
+                "report_end_date": "05/29/2020",
+                "Receipts": {
+                    "primary": 3470.0,
+                    "general": 0.0,
+                    "total": 3470.0
+                },
+                "Expenditures": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                }
+            }
+        },
         {
             "report": "05/20/2020 to 05/22/2020",
             "id": 48538,
@@ -34,10 +87,20 @@
             "end_date": "05/22/2020",
             "unitemized_contributions": 0,
             "num_contributions": 0,
-            "num_expenditures": 0,
+            "num_expenditures": 1,
             "summary": {
                 "report_start_date": "05/20/2020",
-                "report_end_date": "05/22/2020"
+                "report_end_date": "05/22/2020",
+                "Receipts": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                },
+                "Expenditures": {
+                    "primary": 3000.0,
+                    "general": 0.0,
+                    "total": 3000.0
+                }
             }
         },
         {

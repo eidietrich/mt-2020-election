@@ -1,4 +1,17 @@
 {
+    "data": {
+        "reportId": 46224,
+        "fromDateStr": "10/01/2019",
+        "toDateStr": "12/31/2019",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 16167,
+        "candidateName": "Jacobsen, Christi  K",
+        "officeTitle": "Secretary of State",
+        "electionYear": "2020",
+        "statusDescr": "Amended",
+        "amendedDate": 1590550754000
+    },
     "summary": {
         "previous report": {
             "primary": 0.0,

@@ -1,4 +1,17 @@
 {
+    "data": {
+        "reportId": 47481,
+        "fromDateStr": "03/16/2020",
+        "toDateStr": "04/15/2020",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 16062,
+        "candidateName": "Downing, Troy  B",
+        "officeTitle": "State Auditor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
     "summary": {
         "previous report": {
             "primary": 62481.82,

@@ -1,0 +1,32 @@
+{
+    "data": {
+        "reportId": 48953,
+        "fromDateStr": "05/30/2020",
+        "toDateStr": "06/01/2020",
+        "formTypeCode": "C7",
+        "formTypeDescr": "Notice of Pre-Election Contributions",
+        "candidateId": 16009,
+        "candidateName": "Gianforte, Greg ",
+        "officeTitle": "Governor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "report_start_date": "05/30/2020",
+        "report_end_date": "06/01/2020",
+        "Receipts": {
+            "primary": 1410.0,
+            "general": 320.0,
+            "total": 1730.0
+        },
+        "Expenditures": {
+            "primary": 0,
+            "general": 0,
+            "total": 0
+        }
+    },
+    "contributions": "[{\"Date Paid\":\"05\\/30\\/20\",\"Entity Name\":\"Anderson, Patricia\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"PO Box 8902\",\"City\":\"Missoula\",\"State\":\"MT\",\"Zip\":\"59807\",\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Retired\",\"Employer\":\"None\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":100.0,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"Primary\",\"Total Primary\":100.0,\"Total General\":0.0,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0.0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"05\\/30\\/20\",\"Entity Name\":\"Brandt, Edward\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"4435 Annette PArk Drive\",\"City\":\"Bozeman\",\"State\":\"MT\",\"Zip\":\"59715\",\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Retired\",\"Employer\":\"None\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":500.0,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"Primary\",\"Total Primary\":500.0,\"Total General\":0.0,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0.0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"05\\/30\\/20\",\"Entity Name\":\"Poindexter, Paul\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"585 Bridger Woods Rd\",\"City\":\"Bozeman\",\"State\":\"MT\",\"Zip\":\"59715\",\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Retired\",\"Employer\":\"None\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":100.0,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"Primary\",\"Total Primary\":100.0,\"Total General\":0.0,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0.0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"05\\/30\\/20\",\"Entity Name\":\"Walthall, Eldon\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"PO Box 33610\",\"City\":\"Las Vegas\",\"State\":\"NV\",\"Zip\":\"89133\",\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Retired\",\"Employer\":\"None\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":320.0,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0.0,\"Total General\":320.0,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0.0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"05\\/30\\/20\",\"Entity Name\":\"Walthall, Eldon\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"PO Box 33610\",\"City\":\"Las Vegas\",\"State\":\"NV\",\"Zip\":\"89133\",\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Retired\",\"Employer\":\"None\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":710.0,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"Primary\",\"Total Primary\":710.0,\"Total General\":0.0,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0.0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0
+}

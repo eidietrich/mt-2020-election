@@ -1,0 +1,32 @@
+{
+    "data": {
+        "reportId": 48533,
+        "fromDateStr": "05/20/2020",
+        "toDateStr": "05/21/2020",
+        "formTypeCode": "C7",
+        "formTypeDescr": "Notice of Pre-Election Contributions",
+        "candidateId": 16062,
+        "candidateName": "Downing, Troy  B",
+        "officeTitle": "State Auditor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "report_start_date": "05/20/2020",
+        "report_end_date": "05/21/2020",
+        "Receipts": {
+            "primary": 63396.0,
+            "general": 0.0,
+            "total": 63396.0
+        },
+        "Expenditures": {
+            "primary": 0,
+            "general": 0,
+            "total": 0
+        }
+    },
+    "contributions": "[{\"Date Paid\":\"05\\/21\\/20\",\"Entity Name\":\"Downing, Troy B\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"PO Box 6668\",\"City\":\"Bozeman\",\"State\":\"MT\",\"Zip\":59771,\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Political Candidate\",\"Employer\":\"Self Employed\",\"Contribution Type\":\"Loans\",\"Amount\":38396,\"Amount Type\":\"IK\",\"Purpose\":\"30 Second TV Ad Buy \\\"Tux for Montana\\\" (05\\/27 - 06\\/02) for Ax Media Productions\",\"Election Type\":\"Primary\",\"Total Primary\":71396,\"Total General\":0,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"05\\/20\\/20\",\"Entity Name\":\"Downing, Troy B\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"PO Box 6668\",\"City\":\"Bozeman\",\"State\":\"MT\",\"Zip\":59771,\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Political Candidate\",\"Employer\":\"Self Employed\",\"Contribution Type\":\"Loans\",\"Amount\":25000,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"Primary\",\"Total Primary\":71396,\"Total General\":0,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 38396.0
+}

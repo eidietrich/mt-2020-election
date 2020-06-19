@@ -1,4 +1,17 @@
 {
+    "data": {
+        "reportId": 45513,
+        "fromDateStr": "04/02/2019",
+        "toDateStr": "06/30/2019",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 15938,
+        "candidateName": "Fox, Tim ",
+        "officeTitle": "Governor",
+        "electionYear": "2020",
+        "statusDescr": "Amended",
+        "amendedDate": 1590790848000
+    },
     "summary": {
         "previous report": {
             "primary": 129350.5,

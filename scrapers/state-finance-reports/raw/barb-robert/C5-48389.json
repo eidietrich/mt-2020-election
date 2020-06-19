@@ -1,4 +1,17 @@
 {
+    "data": {
+        "reportId": 48389,
+        "fromDateStr": "04/16/2020",
+        "toDateStr": "05/14/2020",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 16679,
+        "candidateName": "barb, robert ",
+        "officeTitle": "Governor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
     "summary": {
         "previous report": {
             "primary": 0.0,

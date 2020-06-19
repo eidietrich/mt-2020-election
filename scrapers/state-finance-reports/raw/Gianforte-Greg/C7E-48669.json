@@ -1,0 +1,32 @@
+{
+    "data": {
+        "reportId": 48669,
+        "fromDateStr": "05/26/2020",
+        "toDateStr": "05/26/2020",
+        "formTypeCode": "C7E",
+        "formTypeDescr": "Notice of Pre-Election Expenditures",
+        "candidateId": 16009,
+        "candidateName": "Gianforte, Greg ",
+        "officeTitle": "Governor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "report_start_date": "05/26/2020",
+        "report_end_date": "05/26/2020",
+        "Receipts": {
+            "primary": 0,
+            "general": 0,
+            "total": 0
+        },
+        "Expenditures": {
+            "primary": 4684.03,
+            "general": 0.0,
+            "total": 4684.03
+        }
+    },
+    "contributions": "[]",
+    "expenditures": "[{\"Date Paid\":\"05\\/26\\/20\",\"Entity Name\":\"Special Projects\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"400 North California\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":\"59601\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":4149.5,\"Purpose\":\"bookeeping and compliance reporting\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/26\\/20\",\"Entity Name\":\"Stripe\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"185 Berry St Ste 550\",\"City\":\"San Francisco\",\"State\":\"CA\",\"Zip\":\"94107\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":534.53,\"Purpose\":\"Credit Card Fees (05\\/26\\/20 - 113 Contributions)\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"}]",
+    "unitemized_contributions": 0
+}

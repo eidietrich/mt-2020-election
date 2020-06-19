@@ -1,4 +1,17 @@
 {
+    "data": {
+        "reportId": 46903,
+        "fromDateStr": "01/01/2020",
+        "toDateStr": "03/15/2020",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 16686,
+        "candidateName": "Winsor, Michael  S",
+        "officeTitle": "State Auditor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
     "summary": {
         "previous report": {
             "primary": 0.0,

@@ -1,0 +1,32 @@
+{
+    "data": {
+        "reportId": 48876,
+        "fromDateStr": "05/29/2020",
+        "toDateStr": "05/29/2020",
+        "formTypeCode": "C7E",
+        "formTypeDescr": "Notice of Pre-Election Expenditures",
+        "candidateId": 16076,
+        "candidateName": "Olszewski, Albert ",
+        "officeTitle": "Governor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "report_start_date": "05/29/2020",
+        "report_end_date": "05/29/2020",
+        "Receipts": {
+            "primary": 0,
+            "general": 0,
+            "total": 0
+        },
+        "Expenditures": {
+            "primary": 17418.25,
+            "general": 0.0,
+            "total": 17418.25
+        }
+    },
+    "contributions": "[]",
+    "expenditures": "[{\"Date Paid\":\"05\\/29\\/20\",\"Entity Name\":\"Bogner, Ken\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"1017 Pleasant St\",\"City\":\"Miles City\",\"State\":\"MT\",\"Zip\":\"59301\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":900.69,\"Purpose\":\"See Addendum :\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/29\\/20\",\"Entity Name\":\"MacLaren, Nathan\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"PO Box 1366\",\"City\":\"Three Forks\",\"State\":\"MT\",\"Zip\":\"59752\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":710.0,\"Purpose\":\"Refund of contribution\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/29\\/20\",\"Entity Name\":\"Olszewski, Al\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"377 Orchard Lane\",\"City\":\"Kalispell\",\"State\":\"MT\",\"Zip\":\"59904\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":346.0,\"Purpose\":\"See Addendum:\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/29\\/20\",\"Entity Name\":\"Olszewski, Al\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"377 Orchard Lane\",\"City\":\"Kalispell\",\"State\":\"MT\",\"Zip\":\"59904\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":14356.9,\"Purpose\":\"See Addendum :\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/29\\/20\",\"Entity Name\":\"Special Projects\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"400 North California\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":\"59601\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":1104.66,\"Purpose\":\"bookeeping and compliance reporting\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"}]",
+    "unitemized_contributions": 0
+}

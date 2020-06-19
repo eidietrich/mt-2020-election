@@ -1,4 +1,17 @@
 {
+    "data": {
+        "reportId": 45511,
+        "fromDateStr": "06/01/2019",
+        "toDateStr": "06/30/2019",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 16074,
+        "candidateName": "Arntzen, Elsie ",
+        "officeTitle": "Superintendent of Public Instruction",
+        "electionYear": "2020",
+        "statusDescr": "Amended",
+        "amendedDate": 1591047964000
+    },
     "summary": {
         "previous report": {
             "primary": 0.0,

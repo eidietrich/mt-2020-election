@@ -1,13 +1,13 @@
 {
     "slug": "Scott-Mars",
     "candidateName": "Scott, Mars ",
-    "scrape_date": "2020-05-26",
+    "scrape_date": "2020-06-19",
     "officeTitle": "Supreme Court Justice No. 05",
     "partyDescr": "Non-Partisan",
     "periods": 4,
     "receipts": 53478.83,
     "expenditures": 50099.42,
-    "balance": 3379.41,
+    "balance": 3379.4100000000035,
     "summary": {
         "contributions": {
             "primary": 53478.83,
@@ -20,9 +20,14 @@
             "total": 50099.42
         },
         "cash_on_hand": {
-            "primary": 3379.41,
+            "primary": 3379.4100000000035,
             "general": 0.0,
-            "total": 3379.41
+            "total": 3379.4100000000035
+        },
+        "report_counts": {
+            "C5": 4,
+            "C7": 0,
+            "C7E": 0
         }
     },
     "reports": [

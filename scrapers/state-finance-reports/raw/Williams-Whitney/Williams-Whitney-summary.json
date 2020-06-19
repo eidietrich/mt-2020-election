@@ -1,13 +1,13 @@
 {
     "slug": "Williams-Whitney",
     "candidateName": "Williams, Whitney ",
-    "scrape_date": "2020-05-26",
+    "scrape_date": "2020-06-19",
     "officeTitle": "Governor",
     "partyDescr": "Democrat",
-    "periods": 11,
+    "periods": 4,
     "receipts": 996057.0799999998,
     "expenditures": 695174.28,
-    "balance": 300882.8,
+    "balance": 300882.7999999998,
     "summary": {
         "contributions": {
             "primary": 757937.48,
@@ -20,117 +20,24 @@
             "total": 695174.28
         },
         "cash_on_hand": {
-            "primary": 67208.2,
+            "primary": 67208.19999999995,
             "general": 233674.6,
-            "total": 300882.8
+            "total": 300882.7999999998
+        },
+        "report_counts": {
+            "C5": 4,
+            "C7": 0,
+            "C7E": 0
         }
     },
     "reports": [
-        {
-            "report": "05/20/2020 to 05/21/2020",
-            "id": 48475,
-            "type": "C7E",
-            "start_date": "05/20/2020",
-            "end_date": "05/21/2020",
-            "unitemized_contributions": 0,
-            "num_contributions": 0,
-            "num_expenditures": 0,
-            "summary": {
-                "report_start_date": "05/20/2020",
-                "report_end_date": "05/21/2020"
-            }
-        },
-        {
-            "report": "05/20/2020 to 05/20/2020",
-            "id": 48477,
-            "type": "C7",
-            "start_date": "05/20/2020",
-            "end_date": "05/20/2020",
-            "unitemized_contributions": 0,
-            "num_contributions": 0,
-            "num_expenditures": 0,
-            "summary": {
-                "report_start_date": "05/20/2020",
-                "report_end_date": "05/20/2020"
-            }
-        },
-        {
-            "report": "05/19/2020 to 05/19/2020",
-            "id": 48424,
-            "type": "C7",
-            "start_date": "05/19/2020",
-            "end_date": "05/19/2020",
-            "unitemized_contributions": 0,
-            "num_contributions": 0,
-            "num_expenditures": 0,
-            "summary": {
-                "report_start_date": "05/19/2020",
-                "report_end_date": "05/19/2020"
-            }
-        },
-        {
-            "report": "05/18/2020 to 05/19/2020",
-            "id": 48324,
-            "type": "C7E",
-            "start_date": "05/18/2020",
-            "end_date": "05/19/2020",
-            "unitemized_contributions": 0,
-            "num_contributions": 0,
-            "num_expenditures": 0,
-            "summary": {
-                "report_start_date": "05/18/2020",
-                "report_end_date": "05/19/2020"
-            }
-        },
-        {
-            "report": "05/18/2020 to 05/18/2020",
-            "id": 48306,
-            "type": "C7",
-            "start_date": "05/18/2020",
-            "end_date": "05/18/2020",
-            "unitemized_contributions": 0,
-            "num_contributions": 0,
-            "num_expenditures": 0,
-            "summary": {
-                "report_start_date": "05/18/2020",
-                "report_end_date": "05/18/2020"
-            }
-        },
-        {
-            "report": "05/15/2020 to 05/17/2020",
-            "id": 48452,
-            "type": "C7",
-            "start_date": "05/15/2020",
-            "end_date": "05/17/2020",
-            "unitemized_contributions": 0,
-            "num_contributions": 0,
-            "num_expenditures": 0,
-            "summary": {
-                "report_start_date": "05/15/2020",
-                "report_end_date": "05/17/2020"
-            }
-        },
-        {
-            "report": "05/15/2020 to 05/17/2020",
-            "id": 48439,
-            "type": "C7E",
-            "start_date": "05/15/2020",
-            "end_date": "05/17/2020",
-            "unitemized_contributions": 0,
-            "num_contributions": 0,
-            "num_expenditures": 0,
-            "summary": {
-                "report_start_date": "05/15/2020",
-                "report_end_date": "05/17/2020"
-            }
-        },
         {
             "report": "04/16/2020 to 05/14/2020",
             "id": 48141,
             "type": "C5",
             "start_date": "04/16/2020",
             "end_date": "05/14/2020",
-            "unitemized_contributions": 8419.51000000001,
+            "unitemized_contributions": 8419.50999999998,
             "num_contributions": 993,
             "num_expenditures": 74,
             "summary": {

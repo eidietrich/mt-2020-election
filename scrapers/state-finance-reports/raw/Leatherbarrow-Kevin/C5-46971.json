@@ -1,4 +1,17 @@
 {
+    "data": {
+        "reportId": 46971,
+        "fromDateStr": "03/06/2020",
+        "toDateStr": "03/20/2020",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 16734,
+        "candidateName": "Leatherbarrow, Kevin ",
+        "officeTitle": "Superintendent of Public Instruction",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
     "summary": {
         "previous report": {
             "primary": 0.0,
@@ -23,7 +36,7 @@
         "report_start_date": "03/06/2020",
         "report_end_date": "03/20/2020"
     },
-    "contributions": "[{\"Date Paid\":\"03\\/20\\/2020\",\"Entity Name\":\"Montana Libertarian Party\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"P.O. Box 414 \",\"City\":\"Lewistown\",\"State\":\"MT\",\"Zip\":59457,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":6,\"Amount\":1163.79,\"Amount Type\":\"IK\",\"Purpose\":\"Candidate Filing Fee\",\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":1163.79,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "contributions": "[{\"Date Paid\":\"03\\/20\\/2020\",\"Entity Name\":\"Montana Libertarian Party\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"P.O. Box 414 \",\"City\":\"Lewistown\",\"State\":\"MT\",\"Zip\":59457,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":6,\"Amount\":1163.79,\"Amount Type\":\"IK\",\"Purpose\":\"Candidate Filing Fee\",\"Election Type\":\"GN\",\"Total Primary\":0.0,\"Total General\":1163.79,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
     "expenditures": "[]",
     "unitemized_contributions": 0.0
 }

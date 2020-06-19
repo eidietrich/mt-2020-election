@@ -1,7 +1,7 @@
 {
     "slug": "barb-robert",
     "candidateName": "barb, robert ",
-    "scrape_date": "2020-05-26",
+    "scrape_date": "2020-06-19",
     "officeTitle": "Governor",
     "partyDescr": "Green",
     "periods": 3,
@@ -23,6 +23,11 @@
             "primary": 0.0,
             "general": 0.0,
             "total": 0.0
+        },
+        "report_counts": {
+            "C5": 3,
+            "C7": 0,
+            "C7E": 0
         }
     },
     "reports": [

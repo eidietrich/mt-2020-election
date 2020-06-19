@@ -1,4 +1,17 @@
 {
+    "data": {
+        "reportId": 46349,
+        "fromDateStr": "10/01/2019",
+        "toDateStr": "12/31/2019",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 16009,
+        "candidateName": "Gianforte, Greg ",
+        "officeTitle": "Governor",
+        "electionYear": "2020",
+        "statusDescr": "Amended",
+        "amendedDate": 1591050032000
+    },
     "summary": {
         "previous report": {
             "primary": 304524.33,

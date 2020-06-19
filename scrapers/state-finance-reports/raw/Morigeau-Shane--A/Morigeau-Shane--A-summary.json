@@ -1,10 +1,10 @@
 {
     "slug": "Morigeau-Shane--A",
     "candidateName": "Morigeau, Shane  A",
-    "scrape_date": "2020-05-26",
+    "scrape_date": "2020-06-19",
     "officeTitle": "State Auditor",
     "partyDescr": "Democrat",
-    "periods": 7,
+    "periods": 6,
     "receipts": 115474.61,
     "expenditures": 88223.14,
     "balance": 27251.47,
@@ -23,23 +23,14 @@
             "primary": 20211.47,
             "general": 7040.0,
             "total": 27251.47
+        },
+        "report_counts": {
+            "C5": 6,
+            "C7": 0,
+            "C7E": 0
         }
     },
     "reports": [
-        {
-            "report": "05/19/2020 to 05/21/2020",
-            "id": 48428,
-            "type": "C7E",
-            "start_date": "05/19/2020",
-            "end_date": "05/21/2020",
-            "unitemized_contributions": 0,
-            "num_contributions": 0,
-            "num_expenditures": 0,
-            "summary": {
-                "report_start_date": "05/19/2020",
-                "report_end_date": "05/21/2020"
-            }
-        },
         {
             "report": "04/16/2020 to 05/17/2020",
             "id": 47914,
@@ -47,7 +38,7 @@
             "start_date": "04/16/2020",
             "end_date": "05/17/2020",
             "unitemized_contributions": 833.1999999999998,
-            "num_contributions": 80,
+            "num_contributions": 81,
             "num_expenditures": 21,
             "summary": {
                 "previous report": {
@@ -81,7 +72,7 @@
             "start_date": "03/16/2020",
             "end_date": "04/15/2020",
             "unitemized_contributions": 826.7099999999991,
-            "num_contributions": 105,
+            "num_contributions": 106,
             "num_expenditures": 11,
             "summary": {
                 "previous report": {

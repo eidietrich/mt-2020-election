@@ -1,0 +1,32 @@
+{
+    "data": {
+        "reportId": 48526,
+        "fromDateStr": "05/20/2020",
+        "toDateStr": "05/22/2020",
+        "formTypeCode": "C7E",
+        "formTypeDescr": "Notice of Pre-Election Expenditures",
+        "candidateId": 16009,
+        "candidateName": "Gianforte, Greg ",
+        "officeTitle": "Governor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "report_start_date": "05/20/2020",
+        "report_end_date": "05/22/2020",
+        "Receipts": {
+            "primary": 0,
+            "general": 0,
+            "total": 0
+        },
+        "Expenditures": {
+            "primary": 137806.31999999998,
+            "general": 0.0,
+            "total": 137806.31999999998
+        }
+    },
+    "contributions": "[]",
+    "expenditures": "[{\"Date Paid\":\"05\\/20\\/20\",\"Entity Name\":\"Delaurier, Meggin\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"1507 Ingomar Blvd\",\"City\":\"Belgrade\",\"State\":\"MT\",\"Zip\":\"59714\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":1335.83,\"Purpose\":\"Semi Monthly Salaried Wages\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/20\\/20\",\"Entity Name\":\"Duffey, Dan\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"135 Droulliard Ave\",\"City\":\"Bozeman\",\"State\":\"MT\",\"Zip\":\"59718\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":2246.5,\"Purpose\":\"Semi Monthly Salaried Wages\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/20\\/20\",\"Entity Name\":\"Ernest, Patricia\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"401 N 10th St, Hamilton MT 59840\",\"City\":\"Hamilton\",\"State\":\"MT\",\"Zip\":\"59840\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":115.75,\"Purpose\":\"Semi Monthly Salaried Wages\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/20\\/20\",\"Entity Name\":\"Hill, Karli\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"231 Cottonwood St\",\"City\":\"Lewiston\",\"State\":\"MT\",\"Zip\":\"59457\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":2844.0,\"Purpose\":\"Semi Monthly Salaried Wages\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/20\\/20\",\"Entity Name\":\"Knight, Alissa\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"1222 Longworth House Office Building\",\"City\":\"Washington DC\",\"State\":\"DC\",\"Zip\":\"20515\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":210.87,\"Purpose\":\"Semi Monthly Salaried Wages\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/21\\/20\",\"Entity Name\":\"Medium\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"815 Grandview Avenue\",\"City\":\"Columbus\",\"State\":\"OH\",\"Zip\":\"43215\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":79000.0,\"Purpose\":\"TV Ad \\\"Gianforte for Montana\\\"\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"DMA Broadcast TV\",\"Expenditure Paid Communications Quantity\":\"30 Sec TV Ad 05\\/22\\/20 - 06\\/01\\/20\",\"Expenditure Paid Communications Subject Matter\":\"Reasons to vote for Candidate\"},{\"Date Paid\":\"05\\/20\\/20\",\"Entity Name\":\"Medium\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"815 Grandview Avenue, Suite 600\",\"City\":\"Columbus\",\"State\":\"OH\",\"Zip\":\"43215\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":48033.0,\"Purpose\":\"30 Sec TV Ad: \\\"Gianforte for Montana\\\"\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"Tv\\/Cable broadcast\",\"Expenditure Paid Communications Quantity\":\"05\\/20\\/20 - 05\\/21\\/20 (2 Days - 255 GRP's)  \",\"Expenditure Paid Communications Subject Matter\":\"Reasons to vote for candidate\"},{\"Date Paid\":\"05\\/20\\/20\",\"Entity Name\":\"Morrison, Devin\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"8522 Lookfar Way Bozeman\",\"City\":\"Bozeman\",\"State\":\"MT\",\"Zip\":\"59715\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":1130.37,\"Purpose\":\"Semi Monthly Salaried Wages\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/20\\/20\",\"Entity Name\":\"Thiel, Sherry\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"577 23rd Ave NW\",\"City\":\"Sidney\",\"State\":\"MT\",\"Zip\":\"59270\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":1390.0,\"Purpose\":\"Refund of Excess Contribution\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/20\\/20\",\"Entity Name\":\"Thomas, Victoria\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"3736 Ellis View Loop\",\"City\":\"Bozeman\",\"State\":\"MT\",\"Zip\":\"59715\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":1500.0,\"Purpose\":\"Semi Monthly Salaried Wages\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"}]",
+    "unitemized_contributions": 0
+}

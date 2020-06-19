@@ -1,0 +1,32 @@
+{
+    "data": {
+        "reportId": 48665,
+        "fromDateStr": "05/25/2020",
+        "toDateStr": "05/26/2020",
+        "formTypeCode": "C7E",
+        "formTypeDescr": "Notice of Pre-Election Expenditures",
+        "candidateId": 15938,
+        "candidateName": "Fox, Tim ",
+        "officeTitle": "Governor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "report_start_date": "05/25/2020",
+        "report_end_date": "05/26/2020",
+        "Receipts": {
+            "primary": 0,
+            "general": 0,
+            "total": 0
+        },
+        "Expenditures": {
+            "primary": 15496.93,
+            "general": 0.0,
+            "total": 15496.93
+        }
+    },
+    "contributions": "[]",
+    "expenditures": "[{\"Date Paid\":\"05\\/25\\/20\",\"Entity Name\":\"Cutter Consulting\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"1020 5th Ave\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":\"59601\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":5380.99,\"Purpose\":\"Campaign Management Fee and Website Maintainance\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/25\\/20\",\"Entity Name\":\"Gulledge Consulting LLC\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"PO Box 1557\",\"City\":\"Polson\",\"State\":\"MT\",\"Zip\":\"59860\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":2600.0,\"Purpose\":\"Campaign Strategy Consultation Fee\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/25\\/20\",\"Entity Name\":\"I360\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"29374 Network Place\",\"City\":\"Chicago\",\"State\":\"IL\",\"Zip\":\"60673\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":3247.0,\"Purpose\":\"25,848 Call Minutes, 9,798 texts, Subscription fee 4-1-2020 to 4-30-2020\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/25\\/20\",\"Entity Name\":\"McMacken, Michael\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"412 N Rodney St\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":\"59601\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":2000.0,\"Purpose\":\"Finance Coordinator Monthly Retainer Fee\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/25\\/20\",\"Entity Name\":\"Pitzer, Matthew\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"1307 3rd West Hill Dr\",\"City\":\"Great Falls\",\"State\":\"MT\",\"Zip\":\"59404\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":1666.67,\"Purpose\":\"Volunteer Recruitment Training Fee\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/26\\/20\",\"Entity Name\":\"Stripe\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"185 Berry St Ste 550\",\"City\":\"San Francisco\",\"State\":\"CA\",\"Zip\":\"94107\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":259.42,\"Purpose\":\"Credit Card Fees (05\\/26\\/20) 31 Contributions\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/26\\/20\",\"Entity Name\":\"Stripe\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"185 Berry St Ste 550\",\"City\":\"San Francisco\",\"State\":\"CA\",\"Zip\":\"94107\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":342.85,\"Purpose\":\"Credit Card Fees (05\\/26\\/20) 50 Contributions\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"}]",
+    "unitemized_contributions": 0
+}

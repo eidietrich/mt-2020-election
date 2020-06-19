@@ -1,9 +1,22 @@
 {
+    "data": {
+        "reportId": 47635,
+        "fromDateStr": "03/16/2020",
+        "toDateStr": "04/15/2020",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 16070,
+        "candidateName": "Cooney, Mike  R",
+        "officeTitle": "Governor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
     "summary": {
         "previous report": {
-            "primary": 204260.32,
+            "primary": 203869.74,
             "general": 60475.0,
-            "total": 264735.32
+            "total": 264344.74
         },
         "Receipts": {
             "primary": 49240.68,
@@ -16,9 +29,9 @@
             "total": 82919.37
         },
         "Ending Balance": {
-            "primary": 173250.63,
+            "primary": 172860.05,
             "general": 70377.0,
-            "total": 243627.63
+            "total": 243237.05
         },
         "report_start_date": "03/16/2020",
         "report_end_date": "04/15/2020"

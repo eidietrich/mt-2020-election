@@ -27,6 +27,6 @@
         }
     },
     "contributions": "[]",
-    "expenditures": "[{\"Date Paid\":\"06\\/01\\/20\",\"Entity Name\":\"Moore Information\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"921 SW Washington ST Suite 810\",\"City\":\"Portland\",\"State\":\"OR\",\"Zip\":\"97205\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":500.0,\"Purpose\":\"Item #3,010 Montana Voter Survey Questionnaire \\\"Downing for Auditor\\\".\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"}]",
+    "expenditures": "[{\"Date Paid\":\"06\\/01\\/20\",\"Entity Name\":\"Moore Information\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"921 SW Washington ST Suite 810\",\"City\":\"Portland\",\"State\":\"OR\",\"Zip\":97205,\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":500,\"Purpose\":\"Item #3,010 Montana Voter Survey Questionnaire \\\"Downing for Auditor\\\".\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"}]",
     "unitemized_contributions": 0
 }

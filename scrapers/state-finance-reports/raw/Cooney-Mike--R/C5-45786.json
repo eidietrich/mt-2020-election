@@ -1,4 +1,17 @@
 {
+    "data": {
+        "reportId": 45786,
+        "fromDateStr": "07/01/2019",
+        "toDateStr": "09/30/2019",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 16070,
+        "candidateName": "Cooney, Mike  R",
+        "officeTitle": "Governor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
     "summary": {
         "previous report": {
             "primary": 0.0,

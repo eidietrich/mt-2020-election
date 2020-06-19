@@ -1,31 +1,70 @@
 {
     "slug": "Johnson-Brad",
     "candidateName": "Johnson, Brad ",
-    "scrape_date": "2020-05-26",
+    "scrape_date": "2020-06-19",
     "officeTitle": "Secretary of State",
     "partyDescr": "Republican",
-    "periods": 3,
-    "receipts": 865.0,
-    "expenditures": 33.66,
-    "balance": 831.34,
+    "periods": 4,
+    "receipts": 1915.0,
+    "expenditures": 1473.6100000000001,
+    "balance": 441.3899999999999,
     "summary": {
         "contributions": {
-            "primary": 505.0,
+            "primary": 1555.0,
             "general": 360.0,
-            "total": 865.0
+            "total": 1915.0
         },
         "expenditures": {
-            "primary": 33.66,
+            "primary": 1473.6100000000001,
             "general": 0.0,
-            "total": 33.66
+            "total": 1473.6100000000001
         },
         "cash_on_hand": {
-            "primary": 471.34,
+            "primary": 81.38999999999987,
             "general": 360.0,
-            "total": 831.34
+            "total": 441.3899999999999
+        },
+        "report_counts": {
+            "C5": 4,
+            "C7": 0,
+            "C7E": 0
         }
     },
     "reports": [
+        {
+            "report": "05/15/2020 to 06/15/2020",
+            "id": 49257,
+            "type": "C5",
+            "start_date": "05/15/2020",
+            "end_date": "06/15/2020",
+            "unitemized_contributions": 20.0,
+            "num_contributions": 7,
+            "num_expenditures": 2,
+            "summary": {
+                "previous report": {
+                    "primary": 471.34,
+                    "general": 360.0,
+                    "total": 831.34
+                },
+                "Receipts": {
+                    "primary": 1050.0,
+                    "general": 0.0,
+                    "total": 1050.0
+                },
+                "Expenditures": {
+                    "primary": 1439.95,
+                    "general": 0.0,
+                    "total": 1439.95
+                },
+                "Ending Balance": {
+                    "primary": 81.39,
+                    "general": 360.0,
+                    "total": 441.39
+                },
+                "report_start_date": "05/15/2020",
+                "report_end_date": "06/15/2020"
+            }
+        },
         {
             "report": "04/16/2020 to 05/14/2020",
             "id": 48260,

@@ -1,31 +1,132 @@
 {
     "slug": "Bennion-Jon",
     "candidateName": "Bennion, Jon ",
-    "scrape_date": "2020-05-26",
+    "scrape_date": "2020-06-19",
     "officeTitle": "Attorney General",
     "partyDescr": "Republican",
-    "periods": 9,
-    "receipts": 223803.76,
-    "expenditures": 152939.66,
-    "balance": 70864.1,
+    "periods": 13,
+    "receipts": 226233.76,
+    "expenditures": 173711.98,
+    "balance": 52521.78,
     "summary": {
         "contributions": {
-            "primary": 176663.76,
-            "general": 47140.0,
-            "total": 223803.76
+            "primary": 178233.76,
+            "general": 48000.0,
+            "total": 226233.76
         },
         "expenditures": {
-            "primary": 152806.76,
+            "primary": 173579.08000000002,
             "general": 132.9,
-            "total": 152939.66
+            "total": 173711.98
         },
         "cash_on_hand": {
-            "primary": 23857.0,
-            "general": 47007.1,
-            "total": 70864.1
+            "primary": 4654.679999999993,
+            "general": 47867.1,
+            "total": 52521.78
+        },
+        "report_counts": {
+            "C5": 7,
+            "C7": 4,
+            "C7E": 2
         }
     },
     "reports": [
+        {
+            "report": "05/30/2020 to 06/01/2020",
+            "id": 48946,
+            "type": "C7",
+            "start_date": "05/30/2020",
+            "end_date": "06/01/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 1,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/30/2020",
+                "report_end_date": "06/01/2020",
+                "Receipts": {
+                    "primary": 160.0,
+                    "general": 0.0,
+                    "total": 160.0
+                },
+                "Expenditures": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                }
+            }
+        },
+        {
+            "report": "05/29/2020 to 05/29/2020",
+            "id": 48856,
+            "type": "C7",
+            "start_date": "05/29/2020",
+            "end_date": "05/29/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 3,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/29/2020",
+                "report_end_date": "05/29/2020",
+                "Receipts": {
+                    "primary": 250.0,
+                    "general": 500.0,
+                    "total": 750.0
+                },
+                "Expenditures": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                }
+            }
+        },
+        {
+            "report": "05/28/2020 to 05/28/2020",
+            "id": 48787,
+            "type": "C7E",
+            "start_date": "05/28/2020",
+            "end_date": "05/28/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 1,
+            "summary": {
+                "report_start_date": "05/28/2020",
+                "report_end_date": "05/28/2020",
+                "Receipts": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                },
+                "Expenditures": {
+                    "primary": 571.87,
+                    "general": 0.0,
+                    "total": 571.87
+                }
+            }
+        },
+        {
+            "report": "05/28/2020 to 05/28/2020",
+            "id": 48785,
+            "type": "C7",
+            "start_date": "05/28/2020",
+            "end_date": "05/28/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 2,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/28/2020",
+                "report_end_date": "05/28/2020",
+                "Receipts": {
+                    "primary": 360.0,
+                    "general": 360.0,
+                    "total": 720.0
+                },
+                "Expenditures": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                }
+            }
+        },
         {
             "report": "05/20/2020 to 05/22/2020",
             "id": 48530,
@@ -34,10 +135,20 @@
             "end_date": "05/22/2020",
             "unitemized_contributions": 0,
             "num_contributions": 0,
-            "num_expenditures": 0,
+            "num_expenditures": 3,
             "summary": {
                 "report_start_date": "05/20/2020",
-                "report_end_date": "05/22/2020"
+                "report_end_date": "05/22/2020",
+                "Receipts": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                },
+                "Expenditures": {
+                    "primary": 20200.45,
+                    "general": 0.0,
+                    "total": 20200.45
+                }
             }
         },
         {
@@ -47,11 +158,21 @@
             "start_date": "05/20/2020",
             "end_date": "05/22/2020",
             "unitemized_contributions": 0,
-            "num_contributions": 0,
+            "num_contributions": 6,
             "num_expenditures": 0,
             "summary": {
                 "report_start_date": "05/20/2020",
-                "report_end_date": "05/22/2020"
+                "report_end_date": "05/22/2020",
+                "Receipts": {
+                    "primary": 800.0,
+                    "general": 0.0,
+                    "total": 800.0
+                },
+                "Expenditures": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                }
             }
         },
         {

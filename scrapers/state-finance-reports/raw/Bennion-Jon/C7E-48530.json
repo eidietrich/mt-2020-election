@@ -1,0 +1,32 @@
+{
+    "data": {
+        "reportId": 48530,
+        "fromDateStr": "05/20/2020",
+        "toDateStr": "05/22/2020",
+        "formTypeCode": "C7E",
+        "formTypeDescr": "Notice of Pre-Election Expenditures",
+        "candidateId": 15937,
+        "candidateName": "Bennion, Jon ",
+        "officeTitle": "Attorney General",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "report_start_date": "05/20/2020",
+        "report_end_date": "05/22/2020",
+        "Receipts": {
+            "primary": 0,
+            "general": 0,
+            "total": 0
+        },
+        "Expenditures": {
+            "primary": 20200.45,
+            "general": 0.0,
+            "total": 20200.45
+        }
+    },
+    "contributions": "[]",
+    "expenditures": "[{\"Date Paid\":\"05\\/22\\/20\",\"Entity Name\":\"Flex Point Media\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"PO Box 1051\",\"City\":\"New Albany\",\"State\":\"OH\",\"Zip\":\"43054\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":4978.0,\"Purpose\":\"TV Ad Placement, Production\\/Design, Distribution \\\"Bennion for Montana\\\" 30 Sec 05\\/15 - 06\\/01\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/20\\/20\",\"Entity Name\":\"PRT Strategies\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"220 Quinn Dr\",\"City\":\"Dripping Spring\",\"State\":\"TX\",\"Zip\":\"78620\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":9732.45,\"Purpose\":\"Printing and Shipping of #19,500; 8 1\\/2 x 11 inch mailers \\\"Who Do you Stand With\\\"\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"05\\/21\\/20\",\"Entity Name\":\"PRT Strategies\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"220 Quinn Dr\",\"City\":\"Dripping Springs\",\"State\":\"TX\",\"Zip\":\"78620\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":5490.0,\"Purpose\":\"Printing and Shipping of #10,000 8 1\\/2 x 11 inch mailers \\\"Who Do you Stand With\\\"\",\"Election Type\":\"Primary\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"}]",
+    "unitemized_contributions": 0
+}

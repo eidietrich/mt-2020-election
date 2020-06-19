@@ -1,31 +1,108 @@
 {
     "slug": "Arntzen-Elsie",
     "candidateName": "Arntzen, Elsie ",
-    "scrape_date": "2020-05-26",
+    "scrape_date": "2020-06-19",
     "officeTitle": "Superintendent of Public Instruction",
     "partyDescr": "Republican",
-    "periods": 6,
-    "receipts": 53342.51,
-    "expenditures": 43248.39,
-    "balance": 10094.12,
+    "periods": 9,
+    "receipts": 58262.51,
+    "expenditures": 43820.26,
+    "balance": 14442.25,
     "summary": {
         "contributions": {
-            "primary": 51632.51,
-            "general": 1710.0,
-            "total": 53342.51
+            "primary": 54392.51,
+            "general": 3870.0,
+            "total": 58262.51
         },
         "expenditures": {
-            "primary": 43248.39,
+            "primary": 43820.26,
             "general": 0.0,
-            "total": 43248.39
+            "total": 43820.26
         },
         "cash_on_hand": {
-            "primary": 8384.12,
-            "general": 1710.0,
-            "total": 10094.12
+            "primary": 10572.25,
+            "general": 3870.0,
+            "total": 14442.25
+        },
+        "report_counts": {
+            "C5": 6,
+            "C7": 2,
+            "C7E": 1
         }
     },
     "reports": [
+        {
+            "report": "05/30/2020 to 06/01/2020",
+            "id": 48948,
+            "type": "C7",
+            "start_date": "05/30/2020",
+            "end_date": "06/01/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 13,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/30/2020",
+                "report_end_date": "06/01/2020",
+                "Receipts": {
+                    "primary": 2260.0,
+                    "general": 2160.0,
+                    "total": 4420.0
+                },
+                "Expenditures": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                }
+            }
+        },
+        {
+            "report": "05/29/2020 to 05/29/2020",
+            "id": 48837,
+            "type": "C7E",
+            "start_date": "05/29/2020",
+            "end_date": "05/29/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 1,
+            "summary": {
+                "report_start_date": "05/29/2020",
+                "report_end_date": "05/29/2020",
+                "Receipts": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                },
+                "Expenditures": {
+                    "primary": 571.87,
+                    "general": 0.0,
+                    "total": 571.87
+                }
+            }
+        },
+        {
+            "report": "05/28/2020 to 05/28/2020",
+            "id": 48835,
+            "type": "C7",
+            "start_date": "05/28/2020",
+            "end_date": "05/28/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 3,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/28/2020",
+                "report_end_date": "05/28/2020",
+                "Receipts": {
+                    "primary": 500.0,
+                    "general": 0.0,
+                    "total": 500.0
+                },
+                "Expenditures": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                }
+            }
+        },
         {
             "report": "04/16/2020 to 05/14/2020",
             "id": 48267,

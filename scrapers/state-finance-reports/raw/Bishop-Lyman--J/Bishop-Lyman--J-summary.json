@@ -1,13 +1,13 @@
 {
     "slug": "Bishop-Lyman--J",
     "candidateName": "Bishop, Lyman  J",
-    "scrape_date": "2020-05-26",
+    "scrape_date": "2020-06-19",
     "officeTitle": "Governor",
     "partyDescr": "Libertarian",
     "periods": 3,
     "receipts": 12335.52,
-    "expenditures": 7209.05,
-    "balance": 5126.47,
+    "expenditures": 10574.69,
+    "balance": 1760.83,
     "summary": {
         "contributions": {
             "primary": 0.0,
@@ -16,13 +16,18 @@
         },
         "expenditures": {
             "primary": 0.0,
-            "general": 7209.05,
-            "total": 7209.05
+            "general": 10574.69,
+            "total": 10574.69
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 5126.47,
-            "total": 5126.47
+            "general": 1760.83,
+            "total": 1760.83
+        },
+        "report_counts": {
+            "C5": 3,
+            "C7": 0,
+            "C7E": 0
         }
     },
     "reports": [
@@ -34,7 +39,7 @@
             "end_date": "05/14/2020",
             "unitemized_contributions": 72.42000000000002,
             "num_contributions": 2,
-            "num_expenditures": 1,
+            "num_expenditures": 7,
             "summary": {
                 "previous report": {
                     "primary": 0.0,
@@ -48,13 +53,13 @@
                 },
                 "Expenditures": {
                     "primary": 0.0,
-                    "general": 1000.0,
-                    "total": 1000.0
+                    "general": 4365.64,
+                    "total": 4365.64
                 },
                 "Ending Balance": {
                     "primary": 0.0,
-                    "general": 5126.47,
-                    "total": 5126.47
+                    "general": 1760.83,
+                    "total": 1760.83
                 },
                 "report_start_date": "04/16/2020",
                 "report_end_date": "05/14/2020"

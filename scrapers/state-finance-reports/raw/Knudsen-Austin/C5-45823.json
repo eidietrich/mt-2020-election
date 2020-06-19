@@ -1,4 +1,17 @@
 {
+    "data": {
+        "reportId": 45823,
+        "fromDateStr": "07/01/2019",
+        "toDateStr": "09/30/2019",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 15982,
+        "candidateName": "Knudsen, Austin ",
+        "officeTitle": "Attorney General",
+        "electionYear": "2020",
+        "statusDescr": "Pending-Amended",
+        "amendedDate": 1592518414000
+    },
     "summary": {
         "previous report": {
             "primary": 40187.18,

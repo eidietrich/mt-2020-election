@@ -1,7 +1,7 @@
 {
     "slug": "McKinnon-Laurie",
     "candidateName": "McKinnon, Laurie ",
-    "scrape_date": "2020-05-26",
+    "scrape_date": "2020-06-19",
     "officeTitle": "Supreme Court Justice No. 05",
     "partyDescr": "Non-Partisan",
     "periods": 4,
@@ -23,6 +23,11 @@
             "primary": 694.0,
             "general": 1720.0,
             "total": 2414.0
+        },
+        "report_counts": {
+            "C5": 4,
+            "C7": 0,
+            "C7E": 0
         }
     },
     "reports": [

@@ -375,11 +375,14 @@ class Report:
         with open(file_path) as f:
             cache = json.load(f)
 
-        if (cache['data'] and (cache['data']['amendedDate'] == self.data['amendedDate'])):
+        if (('data' in cache) and (cache['data']['amendedDate'] == self.data['amendedDate'])):
             self.summary = cache['summary']
             self.contributions = pd.read_json(cache['contributions'])
             self.expenditures = pd.read_json(cache['expenditures'])
             self.unitemized_contributions = self._calc_unitemized_contributions()
+
+            print(self.contributions[['Entity Name','Amount']])
+            print(self.contributions['Amount'].sum())
         else:
             print(f'----- Actually, amendment found on {self.id}')
             if self.id in MANUAL_CACHES.keys():
@@ -388,30 +391,11 @@ class Report:
             elif self.type == 'C5':
                 self._get_c5_data_from_scrape()
             elif self.type == 'C7':
-                self._get_c7_data_from_scrape
+                self._get_c7_data_from_scrape()
             elif self.type == 'C7E':
-                self._get_c7e_data_from_scrape
+                self._get_c7e_data_from_scrape()
             else:
                 print('Bad cache on unhandled report type', self.type)
-
-    # def _get_c5_data_from_cache(self, filePath):
-    #     print(f'--- From cache, loading C5 {self.start_date}-{self.end_date} ({self.id})')
-    #     with open(filePath) as f:
-    #         cache = json.load(f)
-
-    #     # Check for amended report, redirect if so
-    #     if (cache['data'] and (cache['data']['amendedDate'] == self.data['amendedDate'])):
-    #         self.summary = cache['summary']
-    #         self.contributions = pd.read_json(cache['contributions'])
-    #         self.expenditures = pd.read_json(cache['expenditures'])
-    #         # TODO - move this to cleaning step?
-    #         self.unitemized_contributions = self._calc_unitemized_contributions()
-    #         # self.unitemized_contributions = cache['unitemized_contributions']
-    #         # TODO: Write unit test to unsure caching/uncaching doesn't change data
-    #     elif self.id in MANUAL_CACHES.keys():
-    #         # Files that I'm having a hard time downloading from CERS
-    #         self._get_c5_data_from_manual_cache()
-
 
     def _get_c5_data_from_manual_cache(self):
         file = MANUAL_CACHES[self.id]
@@ -454,24 +438,24 @@ class Report:
         committees_raw = session.post(detail_url, {'listName': "committee"})
         committees = self._parse_c7_table(committees_raw, candidate_name)
 
+        loans_raw = session.post(detail_url, {'listName': "loan"})
+        loans = self._parse_c7_table(loans_raw, candidate_name)
+
         # For time being, just check other categories are null
         candidate_raw = session.post(detail_url, {'listName': "candidate"})
         if (candidate_raw.json() != []): print('## Need to handle C7 candidate self contributions')
 
-        loan_raw = session.post(detail_url, {'listName': "loan"})
-        if (loan_raw.json() != []): print('## Need to handle C7 loans')
-
         fundraisers_raw = session.post(detail_url, {'listName': "fundraisers"})
         if (fundraisers_raw.json() != []): print('## Need to handle C7 fundraiers')
 
-        refunds_raw = session.post(detail_url, {'listName': "fundraisers"})
+        refunds_raw = session.post(detail_url, {'listName': "refunds"})
         if (refunds_raw.json() != []): print('## Need to handle C7 refunds')
 
         payments_raw = session.post(detail_url, {'listName': "payment"})
         if (payments_raw.json() != []): print('## Need to handle C7 payments')
 
         # print('B',pd.DataFrame(individual).iloc[3])
-        contributions = pd.DataFrame(individual + committees)
+        contributions = pd.DataFrame(individual + committees + loans)
         expenditures = pd.DataFrame() # Reported w/ C7E
 
         self.expenditures = expenditures

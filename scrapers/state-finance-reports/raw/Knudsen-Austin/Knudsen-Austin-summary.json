@@ -1,13 +1,13 @@
 {
     "slug": "Knudsen-Austin",
     "candidateName": "Knudsen, Austin ",
-    "scrape_date": "2020-05-26",
+    "scrape_date": "2020-06-19",
     "officeTitle": "Attorney General",
     "partyDescr": "Republican",
     "periods": 6,
     "receipts": 165394.51,
     "expenditures": 127030.05,
-    "balance": 38364.46,
+    "balance": 38364.46000000001,
     "summary": {
         "contributions": {
             "primary": 137053.01,
@@ -20,9 +20,14 @@
             "total": 127030.05
         },
         "cash_on_hand": {
-            "primary": 10022.96,
+            "primary": 10022.960000000006,
             "general": 28341.5,
-            "total": 38364.46
+            "total": 38364.46000000001
+        },
+        "report_counts": {
+            "C5": 6,
+            "C7": 0,
+            "C7E": 0
         }
     },
     "reports": [
@@ -34,7 +39,7 @@
             "end_date": "05/14/2020",
             "unitemized_contributions": 340.0,
             "num_contributions": 93,
-            "num_expenditures": 22,
+            "num_expenditures": 21,
             "summary": {
                 "previous report": {
                     "primary": 92883.49,

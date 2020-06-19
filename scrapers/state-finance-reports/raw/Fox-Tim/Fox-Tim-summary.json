@@ -1,31 +1,132 @@
 {
     "slug": "Fox-Tim",
     "candidateName": "Fox, Tim ",
-    "scrape_date": "2020-05-26",
+    "scrape_date": "2020-06-19",
     "officeTitle": "Governor",
     "partyDescr": "Republican",
-    "periods": 9,
-    "receipts": 758926.0199999999,
-    "expenditures": 579349.42,
-    "balance": 179576.6,
+    "periods": 13,
+    "receipts": 784881.0199999999,
+    "expenditures": 602361.7700000001,
+    "balance": 182519.24999999977,
     "summary": {
         "contributions": {
-            "primary": 587940.09,
-            "general": 170985.93,
-            "total": 758926.0199999999
+            "primary": 613605.09,
+            "general": 171275.93,
+            "total": 784881.0199999999
         },
         "expenditures": {
-            "primary": 572532.4400000001,
+            "primary": 595544.7900000002,
             "general": 6816.98,
-            "total": 579349.42
+            "total": 602361.7700000001
         },
         "cash_on_hand": {
-            "primary": 15407.65,
-            "general": 164168.95,
-            "total": 179576.6
+            "primary": 18060.299999999814,
+            "general": 164458.94999999998,
+            "total": 182519.24999999977
+        },
+        "report_counts": {
+            "C5": 7,
+            "C7": 3,
+            "C7E": 3
         }
     },
     "reports": [
+        {
+            "report": "05/29/2020 to 05/29/2020",
+            "id": 48847,
+            "type": "C7E",
+            "start_date": "05/29/2020",
+            "end_date": "05/29/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 2,
+            "summary": {
+                "report_start_date": "05/29/2020",
+                "report_end_date": "05/29/2020",
+                "Receipts": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                },
+                "Expenditures": {
+                    "primary": 6515.42,
+                    "general": 0.0,
+                    "total": 6515.42
+                }
+            }
+        },
+        {
+            "report": "05/29/2020 to 05/29/2020",
+            "id": 48840,
+            "type": "C7",
+            "start_date": "05/29/2020",
+            "end_date": "05/29/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 38,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/29/2020",
+                "report_end_date": "05/29/2020",
+                "Receipts": {
+                    "primary": 9680.0,
+                    "general": 0.0,
+                    "total": 9680.0
+                },
+                "Expenditures": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                }
+            }
+        },
+        {
+            "report": "05/26/2020 to 05/26/2020",
+            "id": 48658,
+            "type": "C7",
+            "start_date": "05/26/2020",
+            "end_date": "05/26/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 25,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "05/26/2020",
+                "report_end_date": "05/26/2020",
+                "Receipts": {
+                    "primary": 5639.0,
+                    "general": 290.0,
+                    "total": 5929.0
+                },
+                "Expenditures": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                }
+            }
+        },
+        {
+            "report": "05/25/2020 to 05/26/2020",
+            "id": 48665,
+            "type": "C7E",
+            "start_date": "05/25/2020",
+            "end_date": "05/26/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 7,
+            "summary": {
+                "report_start_date": "05/25/2020",
+                "report_end_date": "05/26/2020",
+                "Receipts": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                },
+                "Expenditures": {
+                    "primary": 15496.93,
+                    "general": 0.0,
+                    "total": 15496.93
+                }
+            }
+        },
         {
             "report": "05/22/2020 to 05/22/2020",
             "id": 48507,
@@ -33,11 +134,21 @@
             "start_date": "05/22/2020",
             "end_date": "05/22/2020",
             "unitemized_contributions": 0,
-            "num_contributions": 0,
+            "num_contributions": 47,
             "num_expenditures": 0,
             "summary": {
                 "report_start_date": "05/22/2020",
-                "report_end_date": "05/22/2020"
+                "report_end_date": "05/22/2020",
+                "Receipts": {
+                    "primary": 10346.0,
+                    "general": 0.0,
+                    "total": 10346.0
+                },
+                "Expenditures": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                }
             }
         },
         {
@@ -48,10 +159,20 @@
             "end_date": "05/22/2020",
             "unitemized_contributions": 0,
             "num_contributions": 0,
-            "num_expenditures": 0,
+            "num_expenditures": 1,
             "summary": {
                 "report_start_date": "05/21/2020",
-                "report_end_date": "05/22/2020"
+                "report_end_date": "05/22/2020",
+                "Receipts": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                },
+                "Expenditures": {
+                    "primary": 1000.0,
+                    "general": 0.0,
+                    "total": 1000.0
+                }
             }
         },
         {
