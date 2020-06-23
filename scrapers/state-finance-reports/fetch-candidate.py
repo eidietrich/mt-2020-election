@@ -14,10 +14,10 @@ def open_json(path):
     with open(path) as f:
         return json.load(f)
 
-candidate_id = 16074 # "Arntzen, Elsie "
-# candidate_id = 16070 # cooney
+# candidate_id = 16074 # "Arntzen, Elsie "
+candidate_id = 16070 # cooney
 # candidate_id = 16062 # Downing
-# candidate_id = 16071
+# candidate_id = 16071 # Graybill
 candidates = open_json('scrapers/state-finance-reports/raw/candidates.json')
 candidate = [c for c in candidates if c['candidateId'] == candidate_id][0]
 # data = {

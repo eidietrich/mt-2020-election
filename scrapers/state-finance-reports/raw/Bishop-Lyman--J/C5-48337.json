@@ -1,0 +1,42 @@
+{
+    "data": {
+        "reportId": 48337,
+        "fromDateStr": "05/15/2020",
+        "toDateStr": "06/15/2020",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 16496,
+        "candidateName": "Bishop, Lyman  J",
+        "officeTitle": "Governor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 6912.26,
+            "total": 6912.26
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 394.8,
+            "total": 394.8
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 3029.61,
+            "total": 3029.61
+        },
+        "Ending Balance": {
+            "primary": 0.0,
+            "general": 4277.45,
+            "total": 4277.45
+        },
+        "report_start_date": "05/15/2020",
+        "report_end_date": "06/15/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"05\\/21\\/2020\",\"Entity Name\":null,\"First Name\":\"Kelly\",\"Middle Initial\":null,\"Last Name\":\"Semenza\",\"Addr Line1\":\"PO Box 783\",\"City\":\"Kalispell\",\"State\":\"MT\",\"Zip\":59901,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Unknown at this time attempting to contact\",\"Employer\":\"Unknown at this time attempting to contact\",\"Contribution Type\":9,\"Amount\":110,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":110,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"06\\/17\\/2020\",\"Entity Name\":null,\"First Name\":\"Alfredo\",\"Middle Initial\":null,\"Last Name\":\"Aguilar\",\"Addr Line1\":\"130 Saturday Drive\",\"City\":\"Lascassas\",\"State\":\"TN\",\"Zip\":37085,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Unknown at this time attempting to contact\",\"Employer\":\"Unknown at this time attempting to contact\",\"Contribution Type\":9,\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":100,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"05\\/16\\/2020\",\"Entity Name\":null,\"First Name\":\"Chachi\",\"Middle Initial\":null,\"Last Name\":\"Prasad\",\"Addr Line1\":\"2121 E 7th Pl\",\"City\":\"Los Angeles\",\"State\":\"CA\",\"Zip\":90021,\"Zip4\":null,\"Country\":null,\"Occupation\":\"BUSINESS OWNER\",\"Employer\":\"Syncatech\",\"Contribution Type\":9,\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":100,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[{\"Date Paid\":\"06\\/02\\/2020\",\"Entity Name\":null,\"First Name\":\"Long\",\"Middle Initial\":null,\"Last Name\":\"Tran\",\"Addr Line1\":\"9810 Debiois Ave \",\"City\":\"Fountain Valley \",\"State\":\"CA\",\"Zip\":92708,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":50.0,\"Purpose\":\"Graphic design\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"05\\/18\\/2020\",\"Entity Name\":null,\"First Name\":\"Holly\",\"Middle Initial\":null,\"Last Name\":\"Baird\",\"Addr Line1\":\"3507 40th Ave SE\",\"City\":\"Havre\",\"State\":\"MT\",\"Zip\":59501,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":1029.56,\"Purpose\":\"Housing for Campaign intern.\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":\"Cozy\",\"Expenditure Paid Communications Quantity\":\"One month\",\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"05\\/21\\/2020\",\"Entity Name\":\"Shopify\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"627 Broadway 9th Floor\",\"City\":\"New York\",\"State\":\"NY\",\"Zip\":10012,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":50.99,\"Purpose\":\"Hosting Services\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"05\\/29\\/2020\",\"Entity Name\":null,\"First Name\":\"Jessie\",\"Middle Initial\":null,\"Last Name\":\"Prindiville\",\"Addr Line1\":\"738 3rd ave\",\"City\":\"Havre\",\"State\":\"MT\",\"Zip\":59501,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":1000.0,\"Purpose\":\"Payment for campaign work, event organization, finance record work\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"06\\/03\\/2020\",\"Entity Name\":\"Hoplite Armor\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 224\",\"City\":\"Somers\",\"State\":\"MT\",\"Zip\":59932,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":871.44,\"Purpose\":\"Reimbursement for Facebook charges to Hoplite account.\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 84.80000000000001
+}

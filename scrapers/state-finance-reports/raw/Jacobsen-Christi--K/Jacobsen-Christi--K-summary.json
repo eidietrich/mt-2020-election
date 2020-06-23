@@ -1,58 +1,68 @@
 {
     "slug": "Jacobsen-Christi--K",
     "candidateName": "Jacobsen, Christi  K",
-    "scrape_date": "2020-06-19",
+    "scrape_date": "2020-06-23",
     "officeTitle": "Secretary of State",
     "partyDescr": "Republican",
     "periods": 5,
-    "receipts": 157951.02000000002,
-    "expenditures": 128539.8,
-    "balance": 29411.220000000016,
+    "receipts": 163111.02000000002,
+    "expenditures": 140119.8,
+    "balance": 22991.22000000003,
     "summary": {
         "contributions": {
-            "primary": 138539.8,
-            "general": 19411.22,
-            "total": 157951.02000000002
+            "primary": 140119.8,
+            "general": 22991.22,
+            "total": 163111.02000000002
         },
         "expenditures": {
-            "primary": 128539.8,
+            "primary": 140119.8,
             "general": 0.0,
-            "total": 128539.8
+            "total": 140119.8
         },
         "cash_on_hand": {
-            "primary": 9999.999999999985,
-            "general": 19411.22,
-            "total": 29411.220000000016
+            "primary": 0.0,
+            "general": 22991.22,
+            "total": 22991.22000000003
         },
         "report_counts": {
-            "C5": 4,
-            "C7": 1,
+            "C5": 5,
+            "C7": 0,
             "C7E": 0
         }
     },
     "reports": [
         {
-            "report": "05/20/2020 to 05/26/2020",
-            "id": 48596,
-            "type": "C7",
-            "start_date": "05/20/2020",
-            "end_date": "05/26/2020",
-            "unitemized_contributions": 0,
-            "num_contributions": 1,
-            "num_expenditures": 0,
+            "report": "05/15/2020 to 06/15/2020",
+            "id": 49336,
+            "type": "C5",
+            "start_date": "05/15/2020",
+            "end_date": "06/15/2020",
+            "unitemized_contributions": 110.0,
+            "num_contributions": 18,
+            "num_expenditures": 4,
             "summary": {
-                "report_start_date": "05/20/2020",
-                "report_end_date": "05/26/2020",
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 19411.22,
+                    "total": 19411.22
+                },
                 "Receipts": {
-                    "primary": 10000.0,
-                    "general": 0.0,
-                    "total": 10000.0
+                    "primary": 11580.0,
+                    "general": 3580.0,
+                    "total": 15160.0
                 },
                 "Expenditures": {
-                    "primary": 0,
-                    "general": 0,
-                    "total": 0
-                }
+                    "primary": 11580.0,
+                    "general": 0.0,
+                    "total": 11580.0
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 22991.22,
+                    "total": 22991.22
+                },
+                "report_start_date": "05/15/2020",
+                "report_end_date": "06/15/2020"
             }
         },
         {
@@ -163,7 +173,7 @@
             "type": "C5",
             "start_date": "10/01/2019",
             "end_date": "12/31/2019",
-            "unitemized_contributions": 320.0,
+            "unitemized_contributions": 320.00000000001455,
             "num_contributions": 216,
             "num_expenditures": 15,
             "summary": {

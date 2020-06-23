@@ -1,36 +1,70 @@
 {
     "slug": "Morigeau-Shane--A",
     "candidateName": "Morigeau, Shane  A",
-    "scrape_date": "2020-06-19",
+    "scrape_date": "2020-06-23",
     "officeTitle": "State Auditor",
     "partyDescr": "Democrat",
-    "periods": 6,
-    "receipts": 115474.61,
-    "expenditures": 88223.14,
-    "balance": 27251.47,
+    "periods": 7,
+    "receipts": 150623.99,
+    "expenditures": 129131.42,
+    "balance": 21492.569999999992,
     "summary": {
         "contributions": {
-            "primary": 108434.61,
-            "general": 7040.0,
-            "total": 115474.61
+            "primary": 127719.1,
+            "general": 22904.89,
+            "total": 150623.99
         },
         "expenditures": {
-            "primary": 88223.14,
-            "general": 0.0,
-            "total": 88223.14
+            "primary": 127719.1,
+            "general": 1412.32,
+            "total": 129131.42
         },
         "cash_on_hand": {
-            "primary": 20211.47,
-            "general": 7040.0,
-            "total": 27251.47
+            "primary": 0.0,
+            "general": 21492.57,
+            "total": 21492.569999999992
         },
         "report_counts": {
-            "C5": 6,
+            "C5": 7,
             "C7": 0,
             "C7E": 0
         }
     },
     "reports": [
+        {
+            "report": "05/18/2020 to 06/15/2020",
+            "id": 48894,
+            "type": "C5",
+            "start_date": "05/18/2020",
+            "end_date": "06/15/2020",
+            "unitemized_contributions": 1699.0499999999956,
+            "num_contributions": 216,
+            "num_expenditures": 25,
+            "summary": {
+                "previous report": {
+                    "primary": 20211.47,
+                    "general": 7040.0,
+                    "total": 27251.47
+                },
+                "Receipts": {
+                    "primary": 19284.49,
+                    "general": 15864.89,
+                    "total": 35149.38
+                },
+                "Expenditures": {
+                    "primary": 39495.96,
+                    "general": 1412.32,
+                    "total": 40908.28
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 21492.57,
+                    "total": 21492.57
+                },
+                "report_start_date": "05/18/2020",
+                "report_end_date": "06/15/2020"
+            }
+        },
         {
             "report": "04/16/2020 to 05/17/2020",
             "id": 47914,

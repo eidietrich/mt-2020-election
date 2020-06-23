@@ -1,43 +1,77 @@
 {
     "slug": "Williams-Whitney",
     "candidateName": "Williams, Whitney ",
-    "scrape_date": "2020-06-19",
+    "scrape_date": "2020-06-23",
     "officeTitle": "Governor",
     "partyDescr": "Democrat",
-    "periods": 4,
-    "receipts": 996057.0799999998,
-    "expenditures": 695174.28,
-    "balance": 300882.7999999998,
+    "periods": 5,
+    "receipts": 1121188.7599999998,
+    "expenditures": 892380.04,
+    "balance": 228808.71999999974,
     "summary": {
         "contributions": {
-            "primary": 757937.48,
-            "general": 238119.6,
-            "total": 996057.0799999998
+            "primary": 859038.96,
+            "general": 262149.8,
+            "total": 1121188.7599999998
         },
         "expenditures": {
-            "primary": 690729.28,
-            "general": 4445.0,
-            "total": 695174.28
+            "primary": 855769.8400000001,
+            "general": 36610.2,
+            "total": 892380.04
         },
         "cash_on_hand": {
-            "primary": 67208.19999999995,
-            "general": 233674.6,
-            "total": 300882.7999999998
+            "primary": 3269.119999999879,
+            "general": 225539.59999999998,
+            "total": 228808.71999999974
         },
         "report_counts": {
-            "C5": 4,
+            "C5": 5,
             "C7": 0,
             "C7E": 0
         }
     },
     "reports": [
         {
+            "report": "05/15/2020 to 06/15/2020",
+            "id": 49151,
+            "type": "C5",
+            "start_date": "05/15/2020",
+            "end_date": "06/15/2020",
+            "unitemized_contributions": 5369.9499999999825,
+            "num_contributions": 756,
+            "num_expenditures": 148,
+            "summary": {
+                "previous report": {
+                    "primary": 67208.2,
+                    "general": 233674.6,
+                    "total": 300882.8
+                },
+                "Receipts": {
+                    "primary": 101101.48,
+                    "general": 24030.2,
+                    "total": 125131.68
+                },
+                "Expenditures": {
+                    "primary": 165040.56,
+                    "general": 32165.2,
+                    "total": 197205.76
+                },
+                "Ending Balance": {
+                    "primary": 3269.12,
+                    "general": 225539.6,
+                    "total": 228808.72
+                },
+                "report_start_date": "05/15/2020",
+                "report_end_date": "06/15/2020"
+            }
+        },
+        {
             "report": "04/16/2020 to 05/14/2020",
             "id": 48141,
             "type": "C5",
             "start_date": "04/16/2020",
             "end_date": "05/14/2020",
-            "unitemized_contributions": 8419.50999999998,
+            "unitemized_contributions": 8419.51000000001,
             "num_contributions": 993,
             "num_expenditures": 74,
             "summary": {
@@ -105,7 +139,7 @@
             "type": "C5",
             "start_date": "01/01/2020",
             "end_date": "03/15/2020",
-            "unitemized_contributions": 6644.049999999988,
+            "unitemized_contributions": 6644.0500000000175,
             "num_contributions": 1291,
             "num_expenditures": 250,
             "summary": {

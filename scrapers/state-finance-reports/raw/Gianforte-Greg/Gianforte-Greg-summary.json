@@ -1,202 +1,68 @@
 {
     "slug": "Gianforte-Greg",
     "candidateName": "Gianforte, Greg ",
-    "scrape_date": "2020-06-19",
+    "scrape_date": "2020-06-23",
     "officeTitle": "Governor",
     "partyDescr": "Republican",
-    "periods": 13,
-    "receipts": 3624829.29,
-    "expenditures": 2750138.65,
-    "balance": 874690.6400000001,
+    "periods": 7,
+    "receipts": 4008526.14,
+    "expenditures": 3414745.3800000004,
+    "balance": 593780.7599999998,
     "summary": {
         "contributions": {
-            "primary": 3031330.35,
-            "general": 593498.94,
-            "total": 3624829.29
+            "primary": 3061769.69,
+            "general": 946756.45,
+            "total": 4008526.14
         },
         "expenditures": {
-            "primary": 2748241.9,
-            "general": 1896.75,
-            "total": 2750138.65
+            "primary": 3061769.6900000004,
+            "general": 352975.69,
+            "total": 3414745.3800000004
         },
         "cash_on_hand": {
-            "primary": 283088.4500000002,
-            "general": 591602.19,
-            "total": 874690.6400000001
+            "primary": -4.656612873077393e-10,
+            "general": 593780.76,
+            "total": 593780.7599999998
         },
         "report_counts": {
-            "C5": 6,
-            "C7": 5,
-            "C7E": 2
+            "C5": 7,
+            "C7": 0,
+            "C7E": 0
         }
     },
     "reports": [
         {
-            "report": "05/30/2020 to 06/01/2020",
-            "id": 48953,
-            "type": "C7",
-            "start_date": "05/30/2020",
-            "end_date": "06/01/2020",
-            "unitemized_contributions": 0,
-            "num_contributions": 5,
-            "num_expenditures": 0,
+            "report": "05/15/2020 to 06/15/2020",
+            "id": 49402,
+            "type": "C5",
+            "start_date": "05/15/2020",
+            "end_date": "06/15/2020",
+            "unitemized_contributions": 1554.0,
+            "num_contributions": 800,
+            "num_expenditures": 46,
             "summary": {
-                "report_start_date": "05/30/2020",
-                "report_end_date": "06/01/2020",
+                "previous report": {
+                    "primary": 381199.05,
+                    "general": 590572.19,
+                    "total": 971771.24
+                },
                 "Receipts": {
-                    "primary": 1410.0,
-                    "general": 320.0,
-                    "total": 1730.0
+                    "primary": 74819.09,
+                    "general": 354287.51,
+                    "total": 429106.6
                 },
                 "Expenditures": {
-                    "primary": 0,
-                    "general": 0,
-                    "total": 0
-                }
-            }
-        },
-        {
-            "report": "05/28/2020 to 05/29/2020",
-            "id": 48857,
-            "type": "C7",
-            "start_date": "05/28/2020",
-            "end_date": "05/29/2020",
-            "unitemized_contributions": 0,
-            "num_contributions": 18,
-            "num_expenditures": 0,
-            "summary": {
-                "report_start_date": "05/28/2020",
-                "report_end_date": "05/29/2020",
-                "Receipts": {
-                    "primary": 15205.649999999998,
-                    "general": 0.0,
-                    "total": 15205.649999999998
+                    "primary": 456018.14,
+                    "general": 351078.94,
+                    "total": 807097.08
                 },
-                "Expenditures": {
-                    "primary": 0,
-                    "general": 0,
-                    "total": 0
-                }
-            }
-        },
-        {
-            "report": "05/27/2020 to 05/27/2020",
-            "id": 48779,
-            "type": "C7",
-            "start_date": "05/27/2020",
-            "end_date": "05/27/2020",
-            "unitemized_contributions": 0,
-            "num_contributions": 2,
-            "num_expenditures": 0,
-            "summary": {
-                "report_start_date": "05/27/2020",
-                "report_end_date": "05/27/2020",
-                "Receipts": {
-                    "primary": 710.0,
-                    "general": 710.0,
-                    "total": 1420.0
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 593780.76,
+                    "total": 593780.76
                 },
-                "Expenditures": {
-                    "primary": 0,
-                    "general": 0,
-                    "total": 0
-                }
-            }
-        },
-        {
-            "report": "05/26/2020 to 05/26/2020",
-            "id": 48669,
-            "type": "C7E",
-            "start_date": "05/26/2020",
-            "end_date": "05/26/2020",
-            "unitemized_contributions": 0,
-            "num_contributions": 0,
-            "num_expenditures": 2,
-            "summary": {
-                "report_start_date": "05/26/2020",
-                "report_end_date": "05/26/2020",
-                "Receipts": {
-                    "primary": 0,
-                    "general": 0,
-                    "total": 0
-                },
-                "Expenditures": {
-                    "primary": 4684.03,
-                    "general": 0.0,
-                    "total": 4684.03
-                }
-            }
-        },
-        {
-            "report": "05/26/2020 to 05/26/2020",
-            "id": 48651,
-            "type": "C7",
-            "start_date": "05/26/2020",
-            "end_date": "05/26/2020",
-            "unitemized_contributions": 0,
-            "num_contributions": 88,
-            "num_expenditures": 0,
-            "summary": {
-                "report_start_date": "05/26/2020",
-                "report_end_date": "05/26/2020",
-                "Receipts": {
-                    "primary": 21884.1,
-                    "general": 0.0,
-                    "total": 21884.1
-                },
-                "Expenditures": {
-                    "primary": 0,
-                    "general": 0,
-                    "total": 0
-                }
-            }
-        },
-        {
-            "report": "05/22/2020 to 05/22/2020",
-            "id": 48519,
-            "type": "C7",
-            "start_date": "05/22/2020",
-            "end_date": "05/22/2020",
-            "unitemized_contributions": 0,
-            "num_contributions": 10,
-            "num_expenditures": 0,
-            "summary": {
-                "report_start_date": "05/22/2020",
-                "report_end_date": "05/22/2020",
-                "Receipts": {
-                    "primary": 5170.0,
-                    "general": 0.0,
-                    "total": 5170.0
-                },
-                "Expenditures": {
-                    "primary": 0,
-                    "general": 0,
-                    "total": 0
-                }
-            }
-        },
-        {
-            "report": "05/20/2020 to 05/22/2020",
-            "id": 48526,
-            "type": "C7E",
-            "start_date": "05/20/2020",
-            "end_date": "05/22/2020",
-            "unitemized_contributions": 0,
-            "num_contributions": 0,
-            "num_expenditures": 10,
-            "summary": {
-                "report_start_date": "05/20/2020",
-                "report_end_date": "05/22/2020",
-                "Receipts": {
-                    "primary": 0,
-                    "general": 0,
-                    "total": 0
-                },
-                "Expenditures": {
-                    "primary": 137806.31999999998,
-                    "general": 0.0,
-                    "total": 137806.31999999998
-                }
+                "report_start_date": "05/15/2020",
+                "report_end_date": "06/15/2020"
             }
         },
         {
@@ -341,7 +207,7 @@
             "type": "C5",
             "start_date": "07/01/2019",
             "end_date": "09/30/2019",
-            "unitemized_contributions": 3412.5299999999697,
+            "unitemized_contributions": 3412.530000000028,
             "num_contributions": 1418,
             "num_expenditures": 180,
             "summary": {

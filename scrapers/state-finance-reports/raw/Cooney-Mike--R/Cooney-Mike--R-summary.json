@@ -1,44 +1,78 @@
 {
     "slug": "Cooney-Mike--R",
     "candidateName": "Cooney, Mike  R",
-    "scrape_date": "2020-06-19",
+    "scrape_date": "2020-06-23",
     "officeTitle": "Governor",
     "partyDescr": "Democrat",
-    "periods": 5,
-    "receipts": 886043.9400000001,
-    "expenditures": 684134.02,
-    "balance": 201909.92000000004,
+    "periods": 6,
+    "receipts": 1109917.5,
+    "expenditures": 939732.36,
+    "balance": 170185.14,
     "summary": {
         "contributions": {
-            "primary": 800417.9400000001,
-            "general": 85626.0,
-            "total": 886043.9400000001
+            "primary": 889029.02,
+            "general": 220888.48,
+            "total": 1109917.5
         },
         "expenditures": {
-            "primary": 681215.02,
-            "general": 2919.0,
-            "total": 684134.02
+            "primary": 889029.02,
+            "general": 50703.34,
+            "total": 939732.36
         },
         "cash_on_hand": {
-            "primary": 119202.92000000004,
-            "general": 82707.0,
-            "total": 201909.92000000004
+            "primary": 0.0,
+            "general": 170185.14,
+            "total": 170185.14
         },
         "report_counts": {
-            "C5": 5,
+            "C5": 6,
             "C7": 0,
             "C7E": 0
         }
     },
     "reports": [
         {
+            "report": "05/15/2020 to 06/15/2020",
+            "id": 48513,
+            "type": "C5",
+            "start_date": "05/15/2020",
+            "end_date": "06/15/2020",
+            "unitemized_contributions": 26579.20000000001,
+            "num_contributions": 3306,
+            "num_expenditures": 106,
+            "summary": {
+                "previous report": {
+                    "primary": 118492.92,
+                    "general": 83417.0,
+                    "total": 201909.92
+                },
+                "Receipts": {
+                    "primary": 89321.08,
+                    "general": 134552.48,
+                    "total": 223873.56
+                },
+                "Expenditures": {
+                    "primary": 207814.0,
+                    "general": 47784.34,
+                    "total": 255598.34
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 170185.14,
+                    "total": 170185.14
+                },
+                "report_start_date": "05/15/2020",
+                "report_end_date": "06/15/2020"
+            }
+        },
+        {
             "report": "04/16/2020 to 05/14/2020",
             "id": 48320,
             "type": "C5",
             "start_date": "04/16/2020",
             "end_date": "05/14/2020",
-            "unitemized_contributions": 5260.210000000006,
-            "num_contributions": 2463,
+            "unitemized_contributions": 11240.210000000006,
+            "num_contributions": 2431,
             "num_expenditures": 83,
             "summary": {
                 "previous report": {
@@ -47,8 +81,8 @@
                     "total": 243237.05
                 },
                 "Receipts": {
-                    "primary": 115427.52,
-                    "general": 12390.0,
+                    "primary": 114717.52,
+                    "general": 13100.0,
                     "total": 127817.52
                 },
                 "Expenditures": {
@@ -57,8 +91,8 @@
                     "total": 169144.65
                 },
                 "Ending Balance": {
-                    "primary": 119202.92,
-                    "general": 82707.0,
+                    "primary": 118492.92,
+                    "general": 83417.0,
                     "total": 201909.92
                 },
                 "report_start_date": "04/16/2020",
@@ -105,7 +139,7 @@
             "type": "C5",
             "start_date": "01/01/2020",
             "end_date": "03/15/2020",
-            "unitemized_contributions": 18705.409999999974,
+            "unitemized_contributions": 18705.410000000003,
             "num_contributions": 4369,
             "num_expenditures": 190,
             "summary": {

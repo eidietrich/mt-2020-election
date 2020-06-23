@@ -39,6 +39,10 @@ MANUAL_CACHES = {
     46959: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-46959-cooney-q12020-contributions.csv',
     47635: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-47635-cooney-apr2020-contributions.csv',
     48320: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-48320-cooney-may2020-contributions.csv',
+    48513: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-48513-cooney-june2020-contribututions.csv'
+}
+MANUAL_SUMMARY_CACHES = {
+    48513: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-48513-cooney-june2020-summary.html'
 }
 
 class CandidateList:
@@ -380,9 +384,6 @@ class Report:
             self.contributions = pd.read_json(cache['contributions'])
             self.expenditures = pd.read_json(cache['expenditures'])
             self.unitemized_contributions = self._calc_unitemized_contributions()
-
-            print(self.contributions[['Entity Name','Amount']])
-            print(self.contributions['Amount'].sum())
         else:
             print(f'----- Actually, amendment found on {self.id}')
             if self.id in MANUAL_CACHES.keys():
@@ -536,17 +537,24 @@ class Report:
         # print(f'Cached to {filePath}')
 
     def _fetch_report_summary(self):
-        post_url = 'https://cers-ext.mt.gov/CampaignTracker/public/viewFinanceReport/retrieveReport'
-        post_payload = {
-            'candidateId': self.data['candidateId'],
-            'reportId': self.id,
-            'searchPage': 'public'
-        }
-        session = requests.Session()
-        p = session.post(post_url, post_payload)
+        if self.id in MANUAL_SUMMARY_CACHES.keys():
+            print(f'--- Report summary from cache ({self.id})')
+            path = MANUAL_SUMMARY_CACHES[self.id]
+            with open(path, 'r') as f:
+                text = f.read()
+        else: 
+            post_url = 'https://cers-ext.mt.gov/CampaignTracker/public/viewFinanceReport/retrieveReport'
+            post_payload = {
+                'candidateId': self.data['candidateId'],
+                'reportId': self.id,
+                'searchPage': 'public'
+            }
+            session = requests.Session()
+            p = session.post(post_url, post_payload)
+            text = p.text
         
         # Parse report
-        soup = BeautifulSoup(p.text, 'html.parser')
+        soup = BeautifulSoup(text, 'html.parser')
         labels = [
             'previous report',
             'Receipts',
