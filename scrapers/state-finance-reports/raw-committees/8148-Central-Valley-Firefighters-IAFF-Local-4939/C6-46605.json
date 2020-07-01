@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 46605,
+        "fromDateStr": "02/16/2020",
+        "toDateStr": "03/04/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 8148,
+        "candidateName": "Central Valley Firefighters IAFF Local 4939",
+        "statusDescr": "Amended",
+        "amendedDate": 1583355625000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "02/16/2020",
+        "end_date": "03/04/2020",
+        "receipts": 0.0,
+        "expenditures": 2906.69,
+        "cash_in_bank": 0.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "03/04/20",
+            "Entity Name": "Central Valley FIrefighters IAFF Local 4939",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "215 Wings Way",
+            "City": "Belgrade",
+            "State": "MT",
+            "Zip": "59714",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2906.69,
+            "Purpose": "Return of Funds to IAFF Local 4939, funds will no longer be used for political purposes.",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

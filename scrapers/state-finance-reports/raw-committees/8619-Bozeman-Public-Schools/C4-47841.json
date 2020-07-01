@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 47841,
+        "fromDateStr": "04/01/2020",
+        "toDateStr": "04/29/2020",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 8619,
+        "candidateName": "Bozeman Public Schools",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/01/2020",
+        "end_date": "04/29/2020",
+        "receipts": 0.0,
+        "expenditures": 10134.0,
+        "cash_in_bank": -10134.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "04/28/20",
+            "Entity Name": "ALLEGRA PRINTINT",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "39 SOUTH TRACY AVE",
+            "City": "BOZEMAN",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 10134.0,
+            "Purpose": "Printing of Informational Brochures",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "PAPER MAILING",
+            "Expenditure Paid Communications Quantity": "26,852",
+            "Expenditure Paid Communications Subject Matter": "INFORMATIONAL BROCHURE REGARDING SCHOOL ELECTION"
+        }
+    ]
+}

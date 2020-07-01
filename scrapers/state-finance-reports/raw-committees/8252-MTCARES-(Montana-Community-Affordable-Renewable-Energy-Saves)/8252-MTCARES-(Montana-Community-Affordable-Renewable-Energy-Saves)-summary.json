@@ -1,0 +1,30 @@
+{
+    "slug": "8252-MTCARES-(Montana-Community-Affordable-Renewable-Energy-Saves)",
+    "committeeName": "MTCARES (Montana Community Affordable Renewable Energy Saves)",
+    "scrape_date": "2020-07-01",
+    "periods": 5,
+    "data": {
+        "committeeId": 8252,
+        "committeeName": "MTCARES (Montana Community Affordable Renewable Energy Saves)",
+        "committeeAddress": "720 Kentucky Av, Dillon, MT 59725",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1578034800000,
+        "entityFullName": "MTCARES (Montana Community Affordable Renewable Energy Saves)",
+        "entityCity": "Dillon",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 5,
+        "contributions": 26367.01,
+        "num_contributions": 96,
+        "contributions_19_20": 26367.01,
+        "num_contributions_19_20": 96,
+        "expenditures": 5229.79,
+        "num_expenditures": 4,
+        "expenditures_19_20": 5229.79,
+        "num_expenditures_19_20": 4,
+        "cash_on_hand": 1497.29
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "slug": "8498-Great-Schools-Billings",
+    "committeeName": "Great Schools Billings",
+    "scrape_date": "2020-07-01",
+    "periods": 4,
+    "data": {
+        "committeeId": 8498,
+        "committeeName": "Great Schools Billings",
+        "committeeAddress": "P O Box 80712, Billings, MT 59108",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1586152800000,
+        "entityFullName": "Great Schools Billings",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 4,
+        "contributions": 5800.0,
+        "num_contributions": 23,
+        "contributions_19_20": 5800.0,
+        "num_contributions_19_20": 23,
+        "expenditures": 3673.0,
+        "num_expenditures": 3,
+        "expenditures_19_20": 3673.0,
+        "num_expenditures_19_20": 3,
+        "cash_on_hand": 13713.88
+    }
+}

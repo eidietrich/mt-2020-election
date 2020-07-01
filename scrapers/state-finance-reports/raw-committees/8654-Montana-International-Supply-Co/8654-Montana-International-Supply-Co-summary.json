@@ -1,0 +1,30 @@
+{
+    "slug": "8654-Montana-International-Supply-Co",
+    "committeeName": "Montana International Supply Co",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 8654,
+        "committeeName": "Montana International Supply Co",
+        "committeeAddress": "PO Box 1463, Billings, MT 59103",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1586844000000,
+        "entityFullName": "Montana International Supply Co",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1000.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 1000.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": -1000.0
+    }
+}

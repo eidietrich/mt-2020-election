@@ -1,0 +1,30 @@
+{
+    "slug": "8351-Bitterroot-Public-Library-Levy-Campaign",
+    "committeeName": "Bitterroot Public Library Levy Campaign",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 8351,
+        "committeeName": "Bitterroot Public Library Levy Campaign",
+        "committeeAddress": "500 Jorgy Way, HAMILTON, MT 59840",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1590645600000,
+        "entityFullName": "Bitterroot Public Library Levy Campaign",
+        "entityCity": "HAMILTON",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 2,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 7802.87,
+        "num_expenditures": 4,
+        "expenditures_19_20": 7802.87,
+        "num_expenditures_19_20": 4,
+        "cash_on_hand": 4197.13
+    }
+}

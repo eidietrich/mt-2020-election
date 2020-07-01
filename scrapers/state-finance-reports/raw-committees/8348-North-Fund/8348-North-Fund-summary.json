@@ -1,0 +1,30 @@
+{
+    "slug": "8348-North-Fund",
+    "committeeName": "North Fund",
+    "scrape_date": "2020-07-01",
+    "periods": 4,
+    "data": {
+        "committeeId": 8348,
+        "committeeName": "North Fund",
+        "committeeAddress": "1101 Connecticut Ave NW Suite 450, Washington, DC 20036",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1583132400000,
+        "entityFullName": "North Fund",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "reports": 4,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1249095.0,
+        "num_expenditures": 10,
+        "expenditures_19_20": 1249095.0,
+        "num_expenditures_19_20": 10,
+        "cash_on_hand": -1249095.0
+    }
+}

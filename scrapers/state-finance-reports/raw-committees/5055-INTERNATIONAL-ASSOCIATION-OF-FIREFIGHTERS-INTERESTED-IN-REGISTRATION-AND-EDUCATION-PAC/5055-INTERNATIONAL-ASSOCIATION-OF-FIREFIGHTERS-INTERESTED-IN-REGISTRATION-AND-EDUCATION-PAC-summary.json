@@ -1,0 +1,30 @@
+{
+    "slug": "5055-INTERNATIONAL-ASSOCIATION-OF-FIREFIGHTERS-INTERESTED-IN-REGISTRATION-AND-EDUCATION-PAC",
+    "committeeName": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+    "scrape_date": "2020-07-01",
+    "periods": 15,
+    "data": {
+        "committeeId": 5055,
+        "committeeName": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+        "committeeAddress": "1750 New York Ave NW, Washington, DC 20006",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1585548000000,
+        "entityFullName": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "reports": 15,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 49146.32,
+        "num_expenditures": 80,
+        "expenditures_19_20": 27429.84,
+        "num_expenditures_19_20": 50,
+        "cash_on_hand": -49146.32
+    }
+}

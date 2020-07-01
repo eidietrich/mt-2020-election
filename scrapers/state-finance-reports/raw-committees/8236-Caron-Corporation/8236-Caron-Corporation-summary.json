@@ -1,0 +1,30 @@
+{
+    "slug": "8236-Caron-Corporation",
+    "committeeName": "Caron Corporation",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 8236,
+        "committeeName": "Caron Corporation",
+        "committeeAddress": "500 W. Broadway, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1577948400000,
+        "entityFullName": "Caron Corporation",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 4300.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 4300.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": -4300.0
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "slug": "8167-Lazy-C-LLC-Fritzies-Casino",
+    "committeeName": "Lazy C LLC Fritzies Casino",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 8167,
+        "committeeName": "Lazy C LLC Fritzies Casino",
+        "committeeAddress": "1151 Partridge Place, Helena, MT 59602",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1577602800000,
+        "entityFullName": "Lazy C LLC Fritzies Casino",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 500.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 500.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": -500.0
+    }
+}

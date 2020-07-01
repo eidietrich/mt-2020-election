@@ -1,0 +1,30 @@
+{
+    "slug": "8933-Consulting-Engineers-Council-of-Montana---American-Council-of-Engineering-Companies-of-MT",
+    "committeeName": "Consulting Engineers Council of Montana / American Council of Engineering Companies of MT",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 8933,
+        "committeeName": "Consulting Engineers Council of Montana / American Council of Engineering Companies of MT",
+        "committeeAddress": "36 S Last Chance Gulch,, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1591164000000,
+        "entityFullName": "Consulting Engineers Council of Montana / American Council of Engineering Companies of MT",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 5000.0,
+        "num_expenditures": 2,
+        "expenditures_19_20": 5000.0,
+        "num_expenditures_19_20": 2,
+        "cash_on_hand": -5000.0
+    }
+}

@@ -371,8 +371,8 @@ class Report:
 
         # Add cache
         if writeCache:
-                if not os.path.exists(cachePath): os.makedirs(cachePath)
-                self.export(filePath)  
+            if not os.path.exists(cachePath): os.makedirs(cachePath)
+            self.export(filePath)  
     
     def _get_cached_data(self, file_path):
         print(f'--- From cache, loading {self.type} {self.start_date}-{self.end_date} ({self.id})')
@@ -692,6 +692,7 @@ class Report:
             })
         return cleaned
     
+    # TODO: Dedupe with cers_committees
     def _parse_address(self, raw):
         # Assumes address format '1008 Prospect Ave, Helena, MT 59601'
         # Edge cases will be a pain in the ass here

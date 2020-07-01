@@ -1,0 +1,30 @@
+{
+    "slug": "8557-Blackford-Carls-P.C.",
+    "committeeName": "Blackford Carls P.C.",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 8557,
+        "committeeName": "Blackford Carls P.C.",
+        "committeeAddress": "602 W. Lamme St., Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1585288800000,
+        "entityFullName": "Blackford Carls P.C.",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 2,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 612.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 612.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": -612.0
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 46286,
+        "fromDateStr": "12/05/2019",
+        "toDateStr": "12/31/2019",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 8170,
+        "candidateName": "Heenan & Cook",
+        "statusDescr": "Amended",
+        "amendedDate": 1593544901000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "12/05/2019",
+        "end_date": "12/31/2019",
+        "receipts": 0.0,
+        "expenditures": 10800.0,
+        "cash_in_bank": -10800.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "12/05/19",
+            "Entity Name": "Montana Trial Lawyers Association",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 838",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 7200.0,
+            "Purpose": "Contribution earmarked for Montana Law PAC",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "12/18/19",
+            "Entity Name": "Montana Trial Lawyers Association",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 838",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 3600.0,
+            "Purpose": "Contribution earmarked for Montana Law PAC",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

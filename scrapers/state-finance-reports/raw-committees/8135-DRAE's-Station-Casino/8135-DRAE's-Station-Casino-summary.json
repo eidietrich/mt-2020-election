@@ -1,0 +1,30 @@
+{
+    "slug": "8135-DRAE's-Station-Casino",
+    "committeeName": "DRAE's Station Casino",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 8135,
+        "committeeName": "DRAE's Station Casino",
+        "committeeAddress": "PO Box 5554, Helena, MT 59604",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1577602800000,
+        "entityFullName": "DRAE's Station Casino",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 500.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 500.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": -500.0
+    }
+}

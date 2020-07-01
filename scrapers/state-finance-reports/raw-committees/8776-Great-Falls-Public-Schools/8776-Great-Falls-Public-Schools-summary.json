@@ -1,0 +1,30 @@
+{
+    "slug": "8776-Great-Falls-Public-Schools",
+    "committeeName": "Great Falls Public Schools",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 8776,
+        "committeeName": "Great Falls Public Schools",
+        "committeeAddress": "1100 4th street south, Great Falls, MT 59403",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "L",
+        "electionYear": "2020",
+        "amendedDate": 1588658400000,
+        "entityFullName": "Great Falls Public Schools",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 142.68,
+        "num_expenditures": 3,
+        "expenditures_19_20": 142.68,
+        "num_expenditures_19_20": 3,
+        "cash_on_hand": -142.68
+    }
+}

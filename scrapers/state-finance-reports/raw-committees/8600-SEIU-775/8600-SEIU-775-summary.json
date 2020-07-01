@@ -1,0 +1,30 @@
+{
+    "slug": "8600-SEIU-775",
+    "committeeName": "SEIU 775",
+    "scrape_date": "2020-07-01",
+    "periods": 4,
+    "data": {
+        "committeeId": 8600,
+        "committeeName": "SEIU 775",
+        "committeeAddress": "215 Columbia Street, Seattle, WA 98104",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1593496800000,
+        "entityFullName": "SEIU 775",
+        "entityCity": "Seattle",
+        "entityState": "WA"
+    },
+    "summary": {
+        "reports": 4,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 496083.6,
+        "num_expenditures": 11,
+        "expenditures_19_20": 496083.6,
+        "num_expenditures_19_20": 11,
+        "cash_on_hand": -496083.6
+    }
+}

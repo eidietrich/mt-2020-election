@@ -1,0 +1,30 @@
+{
+    "slug": "8156-City-of-Bozeman",
+    "committeeName": "City of Bozeman",
+    "scrape_date": "2020-07-01",
+    "periods": 4,
+    "data": {
+        "committeeId": 8156,
+        "committeeName": "City of Bozeman",
+        "committeeAddress": "P.O. Box 1230, Bozeman, MT 59771",
+        "committeeTypeDescr": "Incidental - Local Government",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1590127200000,
+        "entityFullName": "City of Bozeman",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 4,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 9055.11,
+        "num_expenditures": 5,
+        "expenditures_19_20": 9055.11,
+        "num_expenditures_19_20": 5,
+        "cash_on_hand": -9055.11
+    }
+}

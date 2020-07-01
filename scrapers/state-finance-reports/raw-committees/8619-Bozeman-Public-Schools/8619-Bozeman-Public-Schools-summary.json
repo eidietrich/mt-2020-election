@@ -1,0 +1,30 @@
+{
+    "slug": "8619-Bozeman-Public-Schools",
+    "committeeName": "Bozeman Public Schools",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 8619,
+        "committeeName": "Bozeman Public Schools",
+        "committeeAddress": "404 West Main, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "L",
+        "electionYear": "2020",
+        "amendedDate": 1588140000000,
+        "entityFullName": "Bozeman Public Schools",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 10134.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 10134.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": -10134.0
+    }
+}

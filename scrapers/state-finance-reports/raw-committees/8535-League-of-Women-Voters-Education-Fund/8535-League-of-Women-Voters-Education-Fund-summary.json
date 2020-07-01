@@ -1,0 +1,30 @@
+{
+    "slug": "8535-League-of-Women-Voters-Education-Fund",
+    "committeeName": "League of Women Voters Education Fund",
+    "scrape_date": "2020-07-01",
+    "periods": 4,
+    "data": {
+        "committeeId": 8535,
+        "committeeName": "League of Women Voters Education Fund",
+        "committeeAddress": "1730 M St. NW, Ste. 1000, Washington, DC 20036",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1585202400000,
+        "entityFullName": "League of Women Voters Education Fund",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "reports": 4,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 586.64,
+        "num_expenditures": 4,
+        "expenditures_19_20": 586.64,
+        "num_expenditures_19_20": 4,
+        "cash_on_hand": -586.64
+    }
+}

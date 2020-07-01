@@ -1,0 +1,30 @@
+{
+    "slug": "8169-SM-Advisory-Group-Inc",
+    "committeeName": "SM Advisory Group Inc",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 8169,
+        "committeeName": "SM Advisory Group Inc",
+        "committeeAddress": "3661 Jagar Lane, Bozeman, MT 59718",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1577602800000,
+        "entityFullName": "SM Advisory Group Inc",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1000.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 1000.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": -1000.0
+    }
+}

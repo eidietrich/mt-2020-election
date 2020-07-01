@@ -1,0 +1,30 @@
+{
+    "slug": "8170-Heenan-&-Cook",
+    "committeeName": "Heenan & Cook",
+    "scrape_date": "2020-07-01",
+    "periods": 5,
+    "data": {
+        "committeeId": 8170,
+        "committeeName": "Heenan & Cook",
+        "committeeAddress": "1631 Zimmerman Trail, Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1577689200000,
+        "entityFullName": "Heenan & Cook",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 5,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 10800.0,
+        "num_expenditures": 2,
+        "expenditures_19_20": 10800.0,
+        "num_expenditures_19_20": 2,
+        "cash_on_hand": -10800.0
+    }
+}

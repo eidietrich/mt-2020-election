@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 47131,
+        "fromDateStr": "03/02/2020",
+        "toDateStr": "03/25/2020",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 8348,
+        "candidateName": "North Fund",
+        "statusDescr": "Amended",
+        "amendedDate": 1593553481000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/02/2020",
+        "end_date": "03/25/2020",
+        "receipts": 0.0,
+        "expenditures": 82000.0,
+        "cash_in_bank": -82000.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "02/19/20",
+            "Entity Name": "New Approach Montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "500 N. Last Chance Gulch #1108",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 62000.0,
+            "Purpose": "Contribution to committee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "01/24/20",
+            "Entity Name": "New Approach Montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "500 N. Last Chance Gulch #1108",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 20000.0,
+            "Purpose": "Contribution to committee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

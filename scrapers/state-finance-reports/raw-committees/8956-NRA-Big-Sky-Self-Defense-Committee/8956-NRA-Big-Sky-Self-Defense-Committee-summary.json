@@ -1,0 +1,30 @@
+{
+    "slug": "8956-NRA-Big-Sky-Self-Defense-Committee",
+    "committeeName": "NRA Big Sky Self-Defense Committee",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 8956,
+        "committeeName": "NRA Big Sky Self-Defense Committee",
+        "committeeAddress": "11250 Waples Mill Road, Fairfax, VA 22030",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1592373600000,
+        "entityFullName": "NRA Big Sky Self-Defense Committee",
+        "entityCity": "Fairfax",
+        "entityState": "VA"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 0,
+        "num_expenditures": 0,
+        "expenditures_19_20": 0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
+    }
+}

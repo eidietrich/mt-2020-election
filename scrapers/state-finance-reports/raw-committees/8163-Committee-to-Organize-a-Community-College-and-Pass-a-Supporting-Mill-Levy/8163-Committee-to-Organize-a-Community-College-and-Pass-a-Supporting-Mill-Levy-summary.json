@@ -1,0 +1,30 @@
+{
+    "slug": "8163-Committee-to-Organize-a-Community-College-and-Pass-a-Supporting-Mill-Levy",
+    "committeeName": "Committee to Organize a Community College and Pass a Supporting Mill Levy",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 8163,
+        "committeeName": "Committee to Organize a Community College and Pass a Supporting Mill Levy",
+        "committeeAddress": "PO Box 632, Hamilton, MT 59840",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1591596000000,
+        "entityFullName": "Committee to Organize a Community College and Pass a Supporting Mill Levy",
+        "entityCity": "Hamilton",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 2,
+        "contributions": 14996.56,
+        "num_contributions": 18,
+        "contributions_19_20": 14996.56,
+        "num_contributions_19_20": 18,
+        "expenditures": 13324.0,
+        "num_expenditures": 19,
+        "expenditures_19_20": 13324.0,
+        "num_expenditures_19_20": 19,
+        "cash_on_hand": 0.0
+    }
+}

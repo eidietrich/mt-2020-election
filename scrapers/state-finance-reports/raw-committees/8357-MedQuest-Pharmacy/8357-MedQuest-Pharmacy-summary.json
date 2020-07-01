@@ -1,0 +1,30 @@
+{
+    "slug": "8357-MedQuest-Pharmacy",
+    "committeeName": "MedQuest Pharmacy",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 8357,
+        "committeeName": "MedQuest Pharmacy",
+        "committeeAddress": "669 West 900 North, North  Salt Lake, UT 84054",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1582873200000,
+        "entityFullName": "MedQuest Pharmacy",
+        "entityCity": "North  Salt Lake",
+        "entityState": "UT"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 12000.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 12000.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": -12000.0
+    }
+}

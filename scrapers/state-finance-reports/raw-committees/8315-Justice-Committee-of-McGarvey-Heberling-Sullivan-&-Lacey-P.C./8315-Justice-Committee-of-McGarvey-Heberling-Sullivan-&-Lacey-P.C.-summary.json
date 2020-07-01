@@ -1,0 +1,30 @@
+{
+    "slug": "8315-Justice-Committee-of-McGarvey-Heberling-Sullivan-&-Lacey-P.C.",
+    "committeeName": "Justice Committee of McGarvey, Heberling, Sullivan & Lacey P.C.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 8315,
+        "committeeName": "Justice Committee of McGarvey, Heberling, Sullivan & Lacey P.C.",
+        "committeeAddress": "345 1st Ave E, Kalispell, MT 59901",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1580886000000,
+        "entityFullName": "Justice Committee of McGarvey, Heberling, Sullivan & Lacey P.C.",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 4824.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 4824.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": -4824.0
+    }
+}

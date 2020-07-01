@@ -1,0 +1,30 @@
+{
+    "slug": "8437-For-Our-Roads",
+    "committeeName": "For Our Roads",
+    "scrape_date": "2020-07-01",
+    "periods": 4,
+    "data": {
+        "committeeId": 8437,
+        "committeeName": "For Our Roads",
+        "committeeAddress": "P.O. Box 8307, Missoula, MT 59807",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1593496800000,
+        "entityFullName": "For Our Roads",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 4,
+        "contributions": 500.0,
+        "num_contributions": 2,
+        "contributions_19_20": 500.0,
+        "num_contributions_19_20": 2,
+        "expenditures": 30000.0,
+        "num_expenditures": 23,
+        "expenditures_19_20": 30000.0,
+        "num_expenditures_19_20": 23,
+        "cash_on_hand": 0.0
+    }
+}

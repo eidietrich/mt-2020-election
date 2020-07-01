@@ -1,0 +1,30 @@
+{
+    "slug": "8232-Rocket-Vision-2020",
+    "committeeName": "Rocket Vision 2020",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 8232,
+        "committeeName": "Rocket Vision 2020",
+        "committeeAddress": "1153 Hanlan Ln, Stevensville, MT 59870",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1578207600000,
+        "entityFullName": "Rocket Vision 2020",
+        "entityCity": "Stevensville",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 2,
+        "contributions": 1646.17,
+        "num_contributions": 13,
+        "contributions_19_20": 1646.17,
+        "num_contributions_19_20": 13,
+        "expenditures": 816.0,
+        "num_expenditures": 4,
+        "expenditures_19_20": 816.0,
+        "num_expenditures_19_20": 4,
+        "cash_on_hand": 98.89
+    }
+}

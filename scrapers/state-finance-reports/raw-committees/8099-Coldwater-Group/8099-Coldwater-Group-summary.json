@@ -1,0 +1,30 @@
+{
+    "slug": "8099-Coldwater-Group",
+    "committeeName": "Coldwater Group",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 8099,
+        "committeeName": "Coldwater Group",
+        "committeeAddress": "PO Box 106, Helena, MT 59624",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1571119200000,
+        "entityFullName": "Coldwater Group",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 0,
+        "num_expenditures": 0,
+        "expenditures_19_20": 0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
+    }
+}

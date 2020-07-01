@@ -1,0 +1,30 @@
+{
+    "slug": "8125-Doctors-for-a-Healthy-Montana-(disband)",
+    "committeeName": "Doctors for a Healthy Montana (disband)",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 8125,
+        "committeeName": "Doctors for a Healthy Montana (disband)",
+        "committeeAddress": "PO Box 9763, Kalispell, MT 59904",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1582786800000,
+        "entityFullName": "Doctors for a Healthy Montana (disband)",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 100.0,
+        "num_contributions": 1,
+        "contributions_19_20": 100.0,
+        "num_contributions_19_20": 1,
+        "expenditures": 0,
+        "num_expenditures": 0,
+        "expenditures_19_20": 0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 100.0
+    }
+}

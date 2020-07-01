@@ -1,0 +1,30 @@
+{
+    "slug": "8002-Red-Cliff-Meadows-North-LLC",
+    "committeeName": "Red Cliff Meadows North, LLC",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 8002,
+        "committeeName": "Red Cliff Meadows North, LLC",
+        "committeeAddress": "PO Box 160909, Big Sky, MT 59716",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1563256800000,
+        "entityFullName": "Red Cliff Meadows North, LLC",
+        "entityCity": "Big Sky",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 10000.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 10000.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": -10000.0
+    }
+}

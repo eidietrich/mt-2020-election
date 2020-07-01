@@ -1,0 +1,30 @@
+{
+    "slug": "8056-New-Approach-Montana",
+    "committeeName": "New Approach Montana",
+    "scrape_date": "2020-07-01",
+    "periods": 4,
+    "data": {
+        "committeeId": 8056,
+        "committeeName": "New Approach Montana",
+        "committeeAddress": "PO Box 1108, Helena, MT 59624",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1578898800000,
+        "entityFullName": "New Approach Montana",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 4,
+        "contributions": 1550.0,
+        "num_contributions": 10,
+        "contributions_19_20": 1550.0,
+        "num_contributions_19_20": 10,
+        "expenditures": 1973447.72,
+        "num_expenditures": 124,
+        "expenditures_19_20": 1973447.72,
+        "num_expenditures_19_20": 124,
+        "cash_on_hand": 231258.36
+    }
+}

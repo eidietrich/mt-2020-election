@@ -1,0 +1,30 @@
+{
+    "slug": "9011-Placer-Motors-Inc",
+    "committeeName": "Placer Motors Inc",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 9011,
+        "committeeName": "Placer Motors Inc",
+        "committeeAddress": "1515 Euclid Ave, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1593496800000,
+        "entityFullName": "Placer Motors Inc",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1000.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 1000.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": -1000.0
+    }
+}

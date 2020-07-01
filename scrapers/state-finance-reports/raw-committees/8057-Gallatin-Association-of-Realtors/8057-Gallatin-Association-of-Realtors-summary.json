@@ -1,0 +1,30 @@
+{
+    "slug": "8057-Gallatin-Association-of-Realtors",
+    "committeeName": "Gallatin Association of Realtors",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 8057,
+        "committeeName": "Gallatin Association of Realtors",
+        "committeeAddress": "2880 Technology Blvd., #159, Bozeman, MT 59718",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1571378400000,
+        "entityFullName": "Gallatin Association of Realtors",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 10999.52,
+        "num_expenditures": 1,
+        "expenditures_19_20": 10999.52,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": 0.48
+    }
+}

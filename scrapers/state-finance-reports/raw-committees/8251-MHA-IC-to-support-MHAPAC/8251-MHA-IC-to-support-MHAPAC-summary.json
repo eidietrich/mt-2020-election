@@ -1,0 +1,30 @@
+{
+    "slug": "8251-MHA-IC-to-support-MHAPAC",
+    "committeeName": "MHA IC to support MHAPAC",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 8251,
+        "committeeName": "MHA IC to support MHAPAC",
+        "committeeAddress": "2625 Winne Ave, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1578294000000,
+        "entityFullName": "MHA IC to support MHAPAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 2500.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 2500.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": -2500.0
+    }
+}

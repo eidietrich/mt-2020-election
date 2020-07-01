@@ -1,0 +1,30 @@
+{
+    "slug": "8989-Billings-Clinic",
+    "committeeName": "Billings Clinic",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 8989,
+        "committeeName": "Billings Clinic",
+        "committeeAddress": "2800 10th Avenue North, Billings, MT 59107",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1593064800000,
+        "entityFullName": "Billings Clinic",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1000.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 1000.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": 0.0
+    }
+}

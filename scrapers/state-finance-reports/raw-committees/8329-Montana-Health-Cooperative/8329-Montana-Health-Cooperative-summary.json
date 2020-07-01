@@ -1,0 +1,30 @@
+{
+    "slug": "8329-Montana-Health-Cooperative",
+    "committeeName": "Montana Health Cooperative",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 8329,
+        "committeeName": "Montana Health Cooperative",
+        "committeeAddress": "PO Box 5358, Helena, MT 59604",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1585116000000,
+        "entityFullName": "Montana Health Cooperative",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 1,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 0,
+        "num_expenditures": 0,
+        "expenditures_19_20": 0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 500.0
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "slug": "7951-Coalition-406",
+    "committeeName": "Coalition 406",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 7951,
+        "committeeName": "Coalition 406",
+        "committeeAddress": "PO Box 1218, Helena, MT 59624",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1570428000000,
+        "entityFullName": "Coalition 406",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 2,
+        "contributions": 69465.16,
+        "num_contributions": 41,
+        "contributions_19_20": 69465.16,
+        "num_contributions_19_20": 41,
+        "expenditures": 3295.28,
+        "num_expenditures": 31,
+        "expenditures_19_20": 3295.28,
+        "num_expenditures_19_20": 31,
+        "cash_on_hand": 170.4
+    }
+}

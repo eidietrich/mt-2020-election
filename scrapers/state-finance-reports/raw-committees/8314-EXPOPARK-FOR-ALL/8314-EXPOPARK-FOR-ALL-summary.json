@@ -1,0 +1,30 @@
+{
+    "slug": "8314-EXPOPARK-FOR-ALL",
+    "committeeName": "EXPOPARK FOR ALL",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 8314,
+        "committeeName": "EXPOPARK FOR ALL",
+        "committeeAddress": "P O BOX 2761, GREAT FALLS, MT 59403",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1587967200000,
+        "entityFullName": "EXPOPARK FOR ALL",
+        "entityCity": "GREAT FALLS",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 2,
+        "contributions": 1000.0,
+        "num_contributions": 1,
+        "contributions_19_20": 1000.0,
+        "num_contributions_19_20": 1,
+        "expenditures": 826.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 826.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": 0.0
+    }
+}

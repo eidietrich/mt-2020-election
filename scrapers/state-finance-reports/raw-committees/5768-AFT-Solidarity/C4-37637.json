@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 37637,
+        "fromDateStr": "09/27/2016",
+        "toDateStr": "10/19/2016",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 5768,
+        "candidateName": "AFT Solidarity",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/27/2016",
+        "end_date": "10/19/2016",
+        "receipts": 0.0,
+        "expenditures": 50000.0,
+        "cash_in_bank": -450000.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/14/16",
+            "Entity Name": "Build Montana PAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "810 Hialeah",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 50000.0,
+            "Purpose": "Contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

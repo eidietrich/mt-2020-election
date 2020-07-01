@@ -1,0 +1,30 @@
+{
+    "slug": "8019-Montana-Interactive-LLC",
+    "committeeName": "Montana Interactive, LLC",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 8019,
+        "committeeName": "Montana Interactive, LLC",
+        "committeeAddress": "100 Neil Ave, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1568181600000,
+        "entityFullName": "Montana Interactive, LLC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 2,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 5000.0,
+        "num_expenditures": 2,
+        "expenditures_19_20": 5000.0,
+        "num_expenditures_19_20": 2,
+        "cash_on_hand": -5000.0
+    }
+}

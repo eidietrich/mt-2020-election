@@ -1,0 +1,30 @@
+{
+    "slug": "8419-Families-For-Public-Safety",
+    "committeeName": "Families For Public Safety",
+    "scrape_date": "2020-07-01",
+    "periods": 4,
+    "data": {
+        "committeeId": 8419,
+        "committeeName": "Families For Public Safety",
+        "committeeAddress": "106 Rauser Lane, Toston, MT 59643",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1585548000000,
+        "entityFullName": "Families For Public Safety",
+        "entityCity": "Toston",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 4,
+        "contributions": 1630.0,
+        "num_contributions": 5,
+        "contributions_19_20": 1630.0,
+        "num_contributions_19_20": 5,
+        "expenditures": 1585.4,
+        "num_expenditures": 2,
+        "expenditures_19_20": 1585.4,
+        "num_expenditures_19_20": 2,
+        "cash_on_hand": 44.6
+    }
+}

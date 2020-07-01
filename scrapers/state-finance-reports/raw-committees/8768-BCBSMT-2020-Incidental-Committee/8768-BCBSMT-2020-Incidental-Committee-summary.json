@@ -1,0 +1,30 @@
+{
+    "slug": "8768-BCBSMT-2020-Incidental-Committee",
+    "committeeName": "BCBSMT 2020 Incidental Committee ",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 8768,
+        "committeeName": "BCBSMT 2020 Incidental Committee ",
+        "committeeAddress": "3645 Alice Street, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1590472800000,
+        "entityFullName": "BCBSMT 2020 Incidental Committee ",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 2,
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 35000.0,
+        "num_expenditures": 2,
+        "expenditures_19_20": 35000.0,
+        "num_expenditures_19_20": 2,
+        "cash_on_hand": -35000.0
+    }
+}

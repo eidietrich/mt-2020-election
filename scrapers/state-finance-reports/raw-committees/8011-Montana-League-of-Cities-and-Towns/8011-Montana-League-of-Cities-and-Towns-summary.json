@@ -1,0 +1,30 @@
+{
+    "slug": "8011-Montana-League-of-Cities-and-Towns",
+    "committeeName": "Montana League of Cities and Towns",
+    "scrape_date": "2020-07-01",
+    "periods": 4,
+    "data": {
+        "committeeId": 8011,
+        "committeeName": "Montana League of Cities and Towns",
+        "committeeAddress": "P.O. Box 7388, Helena, MT 59604",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1585548000000,
+        "entityFullName": "Montana League of Cities and Towns",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "reports": 4,
+        "contributions": 705.67,
+        "num_contributions": 2,
+        "contributions_19_20": 705.67,
+        "num_contributions_19_20": 2,
+        "expenditures": 5407.43,
+        "num_expenditures": 4,
+        "expenditures_19_20": 5407.43,
+        "num_expenditures_19_20": 4,
+        "cash_on_hand": -6911.59
+    }
+}
