@@ -1,0 +1,37 @@
+{
+    "slug": "2797-Montana-State-Afl-cio",
+    "committeeName": "Montana State Afl-cio",
+    "scrape_date": "2020-07-01",
+    "periods": 9,
+    "data": {
+        "committeeId": 2797,
+        "committeeName": "Montana State Afl-cio",
+        "committeeAddress": "810 Hialeah Ct., Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1343227642000,
+        "entityFullName": "Montana State Afl-cio",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

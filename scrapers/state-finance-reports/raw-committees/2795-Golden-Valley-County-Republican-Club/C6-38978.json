@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 38978,
+        "fromDateStr": "11/01/2016",
+        "toDateStr": "02/01/2017",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 2795,
+        "candidateName": "Golden Valley County Republican Club",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/01/2016",
+        "end_date": "02/01/2017",
+        "receipts": 257.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 861.64
+    },
+    "contributions": [
+        {
+            "Date Paid": "01/31/17",
+            "Entity Name": "Bake Sale",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "",
+            "City": "",
+            "State": "",
+            "Zip": "",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -257.0,
+            "Amount Type": "CA",
+            "Purpose": "bake sale at craft shows",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 257.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

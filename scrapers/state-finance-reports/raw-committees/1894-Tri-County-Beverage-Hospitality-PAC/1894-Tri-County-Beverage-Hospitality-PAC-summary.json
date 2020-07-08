@@ -1,0 +1,37 @@
+{
+    "slug": "1894-Tri-County-Beverage-Hospitality-PAC",
+    "committeeName": "Tri-County Beverage Hospitality PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 1894,
+        "committeeName": "Tri-County Beverage Hospitality PAC",
+        "committeeAddress": "PO Box 1361, Helena, MT 59624",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1593151200000,
+        "entityFullName": "Tri-County Beverage Hospitality PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Morris, Ron J",
+                "address": "650 N. Davis Helena, MT  59601",
+                "phone": "(406) 410-1250",
+                "email": "ronzo102@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Morris, Steve",
+                "address": "507 Geddis Helena, MT  59601",
+                "phone": "(406) 449-3931",
+                "email": "jorgies@mcn.net"
+            }
+        ],
+        "issues": []
+    }
+}

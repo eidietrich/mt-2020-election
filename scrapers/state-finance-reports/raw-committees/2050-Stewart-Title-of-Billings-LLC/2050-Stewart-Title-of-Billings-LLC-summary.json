@@ -1,0 +1,37 @@
+{
+    "slug": "2050-Stewart-Title-of-Billings-LLC",
+    "committeeName": "Stewart Title of Billings LLC",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2050,
+        "committeeName": "Stewart Title of Billings LLC",
+        "committeeAddress": "2044 Broadwater Avenue, Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2007",
+        "amendedDate": 1175011412000,
+        "entityFullName": "Stewart Title of Billings LLC",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Warrenbrg, Lona",
+                "address": "2044 Broadwater Bilings, MT  59102",
+                "phone": "",
+                "email": "lwarrenburg@stewart.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

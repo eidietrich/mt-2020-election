@@ -1,0 +1,43 @@
+{
+    "slug": "2819-Montanans-for-Parental-Rights---Laurel",
+    "committeeName": "Montanans for Parental Rights - Laurel",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2819,
+        "committeeName": "Montanans for Parental Rights - Laurel",
+        "committeeAddress": "PO Box 485 112 1st Ave. S, Laurel, MT 59044",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1348077761000,
+        "entityFullName": "Montanans for Parental Rights - Laurel",
+        "entityCity": "Laurel",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bradley, Jan",
+                "address": "PO Box 485 1121st Ave. South, #2 Laurel, MT  59044",
+                "phone": "",
+                "email": "jan@montanafamily.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

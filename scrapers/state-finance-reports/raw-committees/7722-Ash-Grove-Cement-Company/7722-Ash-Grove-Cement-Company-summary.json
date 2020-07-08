@@ -1,0 +1,43 @@
+{
+    "slug": "7722-Ash-Grove-Cement-Company",
+    "committeeName": "Ash Grove Cement Company",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7722,
+        "committeeName": "Ash Grove Cement Company",
+        "committeeAddress": "11011 Cody Street, Overland Park, KS 66210",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1540188000000,
+        "entityFullName": "Ash Grove Cement Company",
+        "entityCity": "Overland Park",
+        "entityState": "KS"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Clark, Jacqueline",
+                "address": "11011 Cody Street Overland Park, KS  66210",
+                "phone": "(913) 319-6131",
+                "email": "nwerren@stateandfed.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To give funds to the Montana Business PAC to support pro-business candidates",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

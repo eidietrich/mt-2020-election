@@ -1,0 +1,53 @@
+{
+    "slug": "2833-Montana-Conservation-Voters",
+    "committeeName": "Montana Conservation Voters",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2833,
+        "committeeName": "Montana Conservation Voters",
+        "committeeAddress": "Box 63 3318 3rd Ave., Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1350320007000,
+        "entityFullName": "Montana Conservation Voters",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "PAGE, JULIA",
+                "address": "BOX 608 GARDINER, MT  59030",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Keaveny, Theresa M.",
+                "address": "PO Box 63 Billings, MT  59103-0063",
+                "phone": "",
+                "email": "tkeaveny@mtvoters.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-166",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Steve Bullock",
+                "position": "Support",
+                "status": "On ballot, approved"
+            },
+            {
+                "interest": "Bozeman Parks and Trails Bond",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "7054-Montana-Primary-Care-Association",
+    "committeeName": "Montana Primary Care Association",
+    "scrape_date": "2020-07-02",
+    "periods": 11,
+    "data": {
+        "committeeId": 7054,
+        "committeeName": "Montana Primary Care Association",
+        "committeeAddress": "1805 Euclid Ave, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1542783600000,
+        "entityFullName": "Montana Primary Care Association",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Stergar, Cindy",
+                "address": "1805 Euclid Ave Helena, MT  59601",
+                "phone": "(406) 442-2750",
+                "email": "cstergar@mtpca.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-185",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

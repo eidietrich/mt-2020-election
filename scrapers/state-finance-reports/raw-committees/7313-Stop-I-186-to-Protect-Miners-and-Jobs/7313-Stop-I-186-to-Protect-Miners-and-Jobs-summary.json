@@ -1,0 +1,43 @@
+{
+    "slug": "7313-Stop-I-186-to-Protect-Miners-and-Jobs",
+    "committeeName": "Stop I-186 to Protect Miners and Jobs",
+    "scrape_date": "2020-07-02",
+    "periods": 17,
+    "data": {
+        "committeeId": 7313,
+        "committeeName": "Stop I-186 to Protect Miners and Jobs",
+        "committeeAddress": "P.O. Box 1585, Helena, MT 59624",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1526882400000,
+        "entityFullName": "Stop I-186 to Protect Miners and Jobs",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bruce, Vincent A",
+                "address": "34 Paul Bunyan Lane Libby, MT  59923",
+                "phone": "(406) 293-6137",
+                "email": "brucevincent1976@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-186",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

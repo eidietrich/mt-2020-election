@@ -1,0 +1,43 @@
+{
+    "slug": "2086-Rocky-Mountain-Bank",
+    "committeeName": "Rocky Mountain Bank",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2086,
+        "committeeName": "Rocky Mountain Bank",
+        "committeeAddress": "PO Box 80450 2615 King Ave. West, Billings, MT 59108",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2007",
+        "amendedDate": 1181596163000,
+        "entityFullName": "Rocky Mountain Bank",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Skarda, Danny",
+                "address": "PO Box 80450 Billings, MT  59108",
+                "phone": "",
+                "email": "dskarda@rmbank.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School District 2 Mill Levy",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

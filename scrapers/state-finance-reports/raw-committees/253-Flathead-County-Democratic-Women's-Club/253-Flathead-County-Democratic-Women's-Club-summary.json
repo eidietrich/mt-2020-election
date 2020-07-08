@@ -1,0 +1,98 @@
+{
+    "slug": "253-Flathead-County-Democratic-Women's-Club",
+    "committeeName": "Flathead County Democratic Women's Club",
+    "scrape_date": "2020-07-02",
+    "periods": 15,
+    "data": {
+        "committeeId": 253,
+        "committeeName": "Flathead County Democratic Women's Club",
+        "committeeAddress": "PO Box 2376, Kalispell, MT 59901",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1537164000000,
+        "entityFullName": "Flathead County Democratic Women's Club",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Mollica, Elisabeth",
+                "address": "14682 Shore Acres Drive BIGFORK, MT  59911",
+                "phone": "(406) 837-0939",
+                "email": "organika3@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Souder, Jamie",
+                "address": "22684 Montana Hwy. 35 Bigfork, MT  59911",
+                "phone": "(425) 495-1088",
+                "email": "bigskyjamie@hotmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Mary Custer for House District 6",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Tom Clark for Flathead County Commissioner",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kathleen Williams for US Congress",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Zac Perry for House District 3",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Robert Petersen for House District 9",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kwen L. Shirley for House District 4",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "James Cossitt for House District 7",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Andy Shirtliff for PSC # 5",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Rex Renk for Clerk of the Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dave Fern for House District 5",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Diane Taylor-Mahnke for Senate District 4",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "JoBeth Blair for House District 11",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

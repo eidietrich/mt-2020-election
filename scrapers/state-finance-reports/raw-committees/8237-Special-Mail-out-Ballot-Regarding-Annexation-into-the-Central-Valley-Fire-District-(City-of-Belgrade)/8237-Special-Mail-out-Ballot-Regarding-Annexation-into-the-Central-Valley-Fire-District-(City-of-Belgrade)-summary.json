@@ -1,0 +1,37 @@
+{
+    "slug": "8237-Special-Mail-out-Ballot-Regarding-Annexation-into-the-Central-Valley-Fire-District-(City-of-Belgrade)",
+    "committeeName": "Special Mail-out Ballot Regarding Annexation into the Central Valley Fire District (City of Belgrade)",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 8237,
+        "committeeName": "Special Mail-out Ballot Regarding Annexation into the Central Valley Fire District (City of Belgrade)",
+        "committeeAddress": "91 E Central Ave, Belgrade, MT 59714",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1584597600000,
+        "entityFullName": "Special Mail-out Ballot Regarding Annexation into the Central Valley Fire District (City of Belgrade)",
+        "entityCity": "Belgrade",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Eagleson, Diane",
+                "address": "91 E Central Ave Belgrade, MT  59714",
+                "phone": "(406) 388-3760",
+                "email": "deagleson@cityofbelgrade.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

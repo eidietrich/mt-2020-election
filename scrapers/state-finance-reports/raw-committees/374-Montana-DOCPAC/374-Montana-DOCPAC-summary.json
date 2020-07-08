@@ -1,0 +1,43 @@
+{
+    "slug": "374-Montana-DOCPAC",
+    "committeeName": "Montana DOCPAC",
+    "scrape_date": "2020-07-02",
+    "periods": 29,
+    "data": {
+        "committeeId": 374,
+        "committeeName": "Montana DOCPAC",
+        "committeeAddress": "PO Box 2900, Napa, CA 94558",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1461218400000,
+        "entityFullName": "Montana DOCPAC",
+        "entityCity": "Napa",
+        "entityState": "CA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Healy, Elizabeth",
+                "address": "PO Box 2900 Napa, CA  9458",
+                "phone": "(707) 226-0214",
+                "email": "outsourcing@aristotle.com "
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Willett, James",
+                "address": "PO Box 2900 Napa, CA  94558-0900",
+                "phone": "",
+                "email": "jwillett@thedoctors.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To support or oppose candidates for state and local political office, political committees, and political parties.",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

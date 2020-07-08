@@ -1,0 +1,37 @@
+{
+    "slug": "232-Cascade-County-Democratic-Central-Cmte",
+    "committeeName": "Cascade County Democratic Central Cmte",
+    "scrape_date": "2020-07-02",
+    "periods": 20,
+    "data": {
+        "committeeId": 232,
+        "committeeName": "Cascade County Democratic Central Cmte",
+        "committeeAddress": "PO Box 1828, Great Falls, MT 59403",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1581318000000,
+        "entityFullName": "Cascade County Democratic Central Cmte",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Swenson, Mary K",
+                "address": "708 Kennedy Street Great Falls, MT  59404",
+                "phone": "(406) 231-1673",
+                "email": "mswenson101@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Strizich, William",
+                "address": "1510 Colorado Ave Black Eagle, MT  59414",
+                "phone": "(406) 870-3333",
+                "email": "wstrizich@aol.com"
+            }
+        ],
+        "issues": []
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2871-Montana-Milling",
+    "committeeName": "Montana Milling",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2871,
+        "committeeName": "Montana Milling",
+        "committeeAddress": "2123 Vaughan Rd, Great Falls, MT 59404",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1357846107000,
+        "entityFullName": "Montana Milling",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Thayer, Greg",
+                "address": "2123 Vaughan Rd. Great Falls, MT  59404",
+                "phone": "",
+                "email": "greg@montanamilling.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "MT Prosperity PAC",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

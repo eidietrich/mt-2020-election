@@ -1,0 +1,53 @@
+{
+    "slug": "7474-St-Luke-Community-Healthcare-Incidental-Committee",
+    "committeeName": "St Luke Community Healthcare Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 7474,
+        "committeeName": "St Luke Community Healthcare Incidental Committee",
+        "committeeAddress": "107 6th Ave SW, Ronan, MT 59864",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1532930400000,
+        "entityFullName": "St Luke Community Healthcare Incidental Committee",
+        "entityCity": "Ronan",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Soukup, Paul",
+                "address": "107 6th Ave SW Ronan, MT  59864",
+                "phone": "",
+                "email": "psoukup@stlukehealthcare.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Purpose: To support or oppose issues and candidates for legislative, statewide, or other public office on which the PAC agrees.  Candidates and issues may change from time to time.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Contribution made to support ballot initiative to increase tobacco taxes to support health care programs",
+                "position": "Support",
+                "status": "Not on ballot"
+            },
+            {
+                "interest": "Ballot Initiative to increase tobacco taxes to suport health care programs",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

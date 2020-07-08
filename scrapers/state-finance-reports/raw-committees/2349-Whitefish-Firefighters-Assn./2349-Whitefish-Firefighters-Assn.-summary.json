@@ -1,0 +1,37 @@
+{
+    "slug": "2349-Whitefish-Firefighters-Assn.",
+    "committeeName": "Whitefish Firefighters Assn.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2349,
+        "committeeName": "Whitefish Firefighters Assn.",
+        "committeeAddress": "PO Box 1154, Whitefish, MT 59937",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1230572820000,
+        "entityFullName": "Whitefish Firefighters Assn.",
+        "entityCity": "Whitefish",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Phillips, Aaron",
+                "address": "PO Box 1154 Whitefish, MT  59937",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

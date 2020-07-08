@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 26236,
+        "fromDateStr": "01/01/2011",
+        "toDateStr": "01/12/2011",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 2645,
+        "candidateName": "Test Incidental Committee - MI",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/01/2011",
+        "end_date": "01/12/2011",
+        "receipts": 120.0,
+        "expenditures": 1170.0,
+        "cash_in_bank": -1050.0
+    },
+    "contributions": [
+        {
+            "Date Paid": "01/01/11",
+            "Entity Name": "Drew, Nancy",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "200 Drew Avenue",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "Private Investigator",
+            "Employer": "Public Libraries across america",
+            "Contribution Type": "Individual Contributions",
+            "Amount": 100.0,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "Primary",
+            "Total Primary": 100.0,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "01/08/11",
+            "Entity Name": "Safeway",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "3632 Brooks Street",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 150.0,
+            "Purpose": "FOOD FOR FUNDRAISER",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

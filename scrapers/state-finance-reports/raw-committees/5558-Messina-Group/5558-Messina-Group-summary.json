@@ -1,0 +1,43 @@
+{
+    "slug": "5558-Messina-Group",
+    "committeeName": "Messina Group",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5558,
+        "committeeName": "Messina Group",
+        "committeeAddress": " 1501 M St., NW Suite 910, Washington DC 2005, DC 20005",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1465192800000,
+        "entityFullName": "Messina Group",
+        "entityCity": "Washington DC 2005",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Darcy , Waldman",
+                "address": " 1501 M St., NW Suite 910 Washington DC, DC  20005",
+                "phone": "",
+                "email": "darcy@themessinagroup.com "
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-181",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

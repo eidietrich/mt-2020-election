@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 45750,
+        "fromDateStr": "09/17/2019",
+        "toDateStr": "09/25/2019",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 8048,
+        "candidateName": "Columbia Falls SD 6",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/17/2019",
+        "end_date": "09/25/2019",
+        "receipts": 0.0,
+        "expenditures": 3172.91,
+        "cash_in_bank": -3172.91
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "09/25/19",
+            "Entity Name": "Surefly Studio",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 5243",
+            "City": "Whitefish",
+            "State": "MT",
+            "Zip": "59937",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 660.0,
+            "Purpose": "Graphic Design of Informational Flier",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/25/19",
+            "Entity Name": "Towne Printer",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "734 9th St.",
+            "City": "Columbia Falls",
+            "State": "MT",
+            "Zip": "59912",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2512.91,
+            "Purpose": "Informational Flier and postage",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

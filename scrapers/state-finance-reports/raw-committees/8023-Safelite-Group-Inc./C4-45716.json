@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 45716,
+        "fromDateStr": "03/06/2019",
+        "toDateStr": "09/05/2019",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 8023,
+        "candidateName": "Safelite Group, Inc.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/06/2019",
+        "end_date": "09/05/2019",
+        "receipts": 0.0,
+        "expenditures": 2500.0,
+        "cash_in_bank": -2500.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "09/05/19",
+            "Entity Name": "Montana Republican Legislative Campaign Committee",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 6656",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59604",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2500.0,
+            "Purpose": "Support Republican Legislative Campaign Efforts",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

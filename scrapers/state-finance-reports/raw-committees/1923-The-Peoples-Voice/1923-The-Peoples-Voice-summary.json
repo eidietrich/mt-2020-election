@@ -1,0 +1,37 @@
+{
+    "slug": "1923-The-Peoples-Voice",
+    "committeeName": "The Peoples Voice",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 1923,
+        "committeeName": "The Peoples Voice",
+        "committeeAddress": "516 South California St, Helena, MT 59601",
+        "committeeTypeDescr": "Disbanded Montana PAC",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1462860000000,
+        "entityFullName": "The Peoples Voice",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Fenderson, Gene",
+                "address": "516 S. California Helena, MT  59601",
+                "phone": "(406) 431-6657",
+                "email": "gfenderson@msn.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

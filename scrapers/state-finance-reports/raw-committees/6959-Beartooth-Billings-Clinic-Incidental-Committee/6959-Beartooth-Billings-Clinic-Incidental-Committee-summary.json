@@ -1,0 +1,48 @@
+{
+    "slug": "6959-Beartooth-Billings-Clinic-Incidental-Committee",
+    "committeeName": "Beartooth Billings Clinic Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 6959,
+        "committeeName": "Beartooth Billings Clinic Incidental Committee",
+        "committeeAddress": "PO Box 590, Red Lodge, MT 59068",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1544598000000,
+        "entityFullName": "Beartooth Billings Clinic Incidental Committee",
+        "entityCity": "Red Lodge",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Evans, Kelley",
+                "address": "PO Box 590 Red Lodge, MT  59068",
+                "phone": "(406) 446-2345",
+                "email": "kevans@beartoothbillingsclinic.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Karas, Maggie C",
+                "address": "PO Box 590 Red Lodge, MT  59068",
+                "phone": "(406) 446-0616",
+                "email": "mkaras@beartoothbillingsclinic.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "6 Mill Levy",
+                "position": "Support",
+                "status": "On ballot, approved"
+            },
+            {
+                "interest": "Ballot Initiative to increase tobacco taxes to suport health care programs",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "334-Stillwater-County-Republican-Central-Cmte.",
+    "committeeName": "Stillwater County Republican Central Cmte.",
+    "scrape_date": "2020-07-02",
+    "periods": 22,
+    "data": {
+        "committeeId": 334,
+        "committeeName": "Stillwater County Republican Central Cmte.",
+        "committeeAddress": "PO Box 205, Columbus, MT 59019",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1580367600000,
+        "entityFullName": "Stillwater County Republican Central Cmte.",
+        "entityCity": "Columbus",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Strizki, Don",
+                "address": "PO Box 1118 Columbus, MT  59019",
+                "phone": "(406) 322-6234",
+                "email": "strizki@earthlink.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Nave, Brent",
+                "address": "38 Quinn Coulee  Rd Columbus, MT  59019",
+                "phone": "(406) 321-4601",
+                "email": "quinncoulee@hotmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Recruit, support and elect Republican Conservative candidates etc",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

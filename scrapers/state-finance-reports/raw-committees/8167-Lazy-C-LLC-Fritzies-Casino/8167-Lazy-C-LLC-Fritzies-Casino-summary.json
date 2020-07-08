@@ -1,7 +1,7 @@
 {
     "slug": "8167-Lazy-C-LLC-Fritzies-Casino",
     "committeeName": "Lazy C LLC Fritzies Casino",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 1,
     "data": {
         "committeeId": 8167,
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 1,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 500.0,
-        "num_expenditures": 1,
-        "expenditures_19_20": 500.0,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": -500.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wenetta, Katie",
+                "address": "PO Box 5315 Helena, MT  59604",
+                "phone": "",
+                "email": "katie.montana.campaigns@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To Support Conservative Candidates and Causes",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
     }
 }

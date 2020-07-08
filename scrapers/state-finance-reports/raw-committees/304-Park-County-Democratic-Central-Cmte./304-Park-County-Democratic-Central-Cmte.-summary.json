@@ -1,0 +1,37 @@
+{
+    "slug": "304-Park-County-Democratic-Central-Cmte.",
+    "committeeName": "Park County Democratic Central Cmte.",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 304,
+        "committeeName": "Park County Democratic Central Cmte.",
+        "committeeAddress": "P.O. Box 795, Livingston, MT 59047",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1454223600000,
+        "entityFullName": "Park County Democratic Central Cmte.",
+        "entityCity": "Livingston",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Sweaney, Jim N",
+                "address": "PO Box 613 Gardiner, MT  59030",
+                "phone": "(406) 848-7602",
+                "email": "jns@wispwest.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

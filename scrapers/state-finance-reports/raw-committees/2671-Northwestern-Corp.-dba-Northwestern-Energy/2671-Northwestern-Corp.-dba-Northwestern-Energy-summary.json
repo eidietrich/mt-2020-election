@@ -1,0 +1,37 @@
+{
+    "slug": "2671-Northwestern-Corp.-dba-Northwestern-Energy",
+    "committeeName": "Northwestern Corp. dba Northwestern Energy",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2671,
+        "committeeName": "Northwestern Corp. dba Northwestern Energy",
+        "committeeAddress": "208 No Montana #205, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1307631510000,
+        "entityFullName": "Northwestern Corp. dba Northwestern Energy",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Pichette, J Michael",
+                "address": "208 No Montana #205 Helena, MT  59601",
+                "phone": "(406) 443-8963",
+                "email": "michael.pichette@northwestern.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Hansen, Neal",
+                "address": "40 E Broadway Butte, MT  59701",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

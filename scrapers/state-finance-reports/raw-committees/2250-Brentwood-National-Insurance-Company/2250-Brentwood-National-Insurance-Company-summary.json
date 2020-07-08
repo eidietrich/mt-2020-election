@@ -1,0 +1,43 @@
+{
+    "slug": "2250-Brentwood-National-Insurance-Company",
+    "committeeName": "Brentwood National Insurance Company",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2250,
+        "committeeName": "Brentwood National Insurance Company",
+        "committeeAddress": "104 Continental Place, Suite 200, Brentwood, TN 37027",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1219261178000,
+        "entityFullName": "Brentwood National Insurance Company",
+        "entityCity": "Brentwood",
+        "entityState": "TN"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Pettus, Jeffrey P",
+                "address": "104 Continental Place, Suite 200 Brentwood, TN  37027",
+                "phone": "",
+                "email": "jeff.pettus@bwood.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Healthy Montana Kids I-155",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

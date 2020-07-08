@@ -1,0 +1,48 @@
+{
+    "slug": "2367-Lincolns-for-Levies",
+    "committeeName": "Lincolns for Levies",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2367,
+        "committeeName": "Lincolns for Levies",
+        "committeeAddress": "8325 Goldenstein Lane, Bozeman, MT 59715",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2009",
+        "amendedDate": 1242158448000,
+        "entityFullName": "Lincolns for Levies",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Johnson, Krista",
+                "address": "411 W. Alderson Bozeman, MT  59715",
+                "phone": "(406) 586-9565",
+                "email": "krista.johnson@bsd7.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Elementary Building Reserve Transition levy",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Elementary General Fund levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "slug": "2787-Montana-Business-Advocates-for-Sensible-Elections",
+    "committeeName": "Montana Business Advocates for Sensible Elections",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 2787,
+        "committeeName": "Montana Business Advocates for Sensible Elections",
+        "committeeAddress": "#151 300 Smelter Ave NE Ste 1, Great Falls, MT 59404",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1453359600000,
+        "entityFullName": "Montana Business Advocates for Sensible Elections",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Johnson, Cynthia",
+                "address": "7 N. Maryland Street Conrad, MT  59425",
+                "phone": "(406) 271-3725",
+                "email": "cyndij@3rivers.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

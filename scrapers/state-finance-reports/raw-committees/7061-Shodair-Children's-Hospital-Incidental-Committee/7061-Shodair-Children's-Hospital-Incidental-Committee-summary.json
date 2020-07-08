@@ -1,0 +1,43 @@
+{
+    "slug": "7061-Shodair-Children's-Hospital-Incidental-Committee",
+    "committeeName": "Shodair Children's Hospital Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 7,
+    "data": {
+        "committeeId": 7061,
+        "committeeName": "Shodair Children's Hospital Incidental Committee",
+        "committeeAddress": "PO Box 5539, Helena, MT 59604",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1542610800000,
+        "entityFullName": "Shodair Children's Hospital Incidental Committee",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Isaacson, Emily",
+                "address": "PO Box 5539 Helena, MT  59604",
+                "phone": "(406) 444-7585",
+                "email": "eisaacson@shodair.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Ron , Wiens",
+                "address": "PO Box 5539 Helena, MT  59604",
+                "phone": "(406) 444-7502",
+                "email": "rwiens@shodair.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-185",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

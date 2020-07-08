@@ -1,0 +1,198 @@
+{
+    "slug": "362-Billings-Education-Assn.-PAC",
+    "committeeName": "Billings Education Assn. PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 19,
+    "data": {
+        "committeeId": 362,
+        "committeeName": "Billings Education Assn. PAC",
+        "committeeAddress": "510 North 29th St., Billings, MT 59101",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1548054000000,
+        "entityFullName": "Billings Education Assn. PAC",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Mountains, Teresa",
+                "address": "510 North 29th St Billings, MT  59101",
+                "phone": "(406) 248-9812",
+                "email": "bonnies@beabillings.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Schillreff, Rachel",
+                "address": "510 Noth 29th St Billings, MT  59101",
+                "phone": "(406) 248-9812",
+                "email": "bonnies@beabillings.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Ming Cabrera - HD 44",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dusty Deering - HD 52",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ken Crouch for HD45",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Elizabeth Pincolini for HD43",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Anne Giuliano - HD 46",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Melissa Romano State Superintendent",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kathy Kelker HD 47",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Carolyn Pease-Lopez for SD21",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kari Boiter - HD 44",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Janna Lind - HD 56",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "David Graves  - SD 22",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Yellowstone County Democratic Central Committee",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kelly McCarthy for HD 49",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Angie Buckley for HD 46",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jessica Karjala - HD 48",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ben McKee",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "MDLCC",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Karen Beiser/c/o Renee Coppock, Billings Women's March",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Blair Koch - HD 43",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Virginia Court - HD 50",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Yellowstone County Democratic Central Committee",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Margie MacDonald for SD 26",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Yellowstone County Democratic Central Committee",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Robyn Driscoll for Senate District 25",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Terry Bouck - HD 49",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ryan Arnold for HD 55",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Darryl Wilson",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mary McNally - SD 24",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jen Gross for SD 25",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kathy Kelker HD 47",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jessica Karjala for HD 48",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Shoots Veis for HD 51",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

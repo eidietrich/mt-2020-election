@@ -1,0 +1,273 @@
+{
+    "slug": "1914-Montana-Trooper-PAC",
+    "committeeName": "Montana Trooper PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 27,
+    "data": {
+        "committeeId": 1914,
+        "committeeName": "Montana Trooper PAC",
+        "committeeAddress": "P.O. Box 1697, Helena, MT 59624",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1587967200000,
+        "entityFullName": "Montana Trooper PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Edgell, Keith",
+                "address": "1820 S 56th Street West Billings, MT  59106",
+                "phone": "(406) 652-0074",
+                "email": "edgellfun@msn.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Butler, Tom",
+                "address": "269 Tin Cup Joe Ln Deer Lodge, MT  59722",
+                "phone": "(406) 225-3894",
+                "email": "tbutler3777@Gmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Ed Coleman",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Llew Jones",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Ross Fitzgerald",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Steve Fitzpatrick",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jason Small",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Wendy McKamey",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Kathy Kelker",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jim Keane",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Eric Moore",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "David Bedey",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Edie McClafferty",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Bruce Grubbs",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jacob Bachmeier",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Ryan Osmundson",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Mike Hopkins",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Neil Duram",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jen Gross",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Joel Krautter",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Ryan Lynch",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Marta Bertoglio",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Frederick Anderson",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Margie MacDonald",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Geraldine Custer",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Derek Harvey",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Nancy Ballance",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Sharon Greef",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Ed Buttrey",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Vince Ricci",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Keith Regier",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jeff Wellborn",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Barbara Bassett",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Barry Usher",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Ken Holmlund",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Dan Solomon",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Denley Loge",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Mary Caferro",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Wylie Galt",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Kim Abbott",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Laurie Bishop",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jon Knokey",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Shannon O'Brien",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Josh Kassmier",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bill Mercer",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Tom Richmond",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Brad Hamlett",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Walt Sales",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Katie Sullivan",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

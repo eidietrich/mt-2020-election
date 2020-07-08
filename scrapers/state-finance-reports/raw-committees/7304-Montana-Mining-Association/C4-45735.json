@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 45735,
+        "fromDateStr": "03/06/2019",
+        "toDateStr": "09/05/2019",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7304,
+        "candidateName": "Montana Mining Association",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/06/2019",
+        "end_date": "09/05/2019",
+        "receipts": 0.0,
+        "expenditures": 115.0,
+        "cash_in_bank": 314868.69
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "08/29/19",
+            "Entity Name": "Holland & Hart, LLP",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 639",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59013",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 115.0,
+            "Purpose": "Legal Expenses incurred for ongoing campaign reporting compliance",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

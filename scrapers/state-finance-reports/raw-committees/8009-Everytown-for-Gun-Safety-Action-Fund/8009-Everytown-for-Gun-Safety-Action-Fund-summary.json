@@ -1,7 +1,7 @@
 {
     "slug": "8009-Everytown-for-Gun-Safety-Action-Fund",
     "committeeName": "Everytown for Gun Safety Action Fund",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 6,
     "data": {
         "committeeId": 8009,
@@ -16,15 +16,28 @@
         "entityState": "NY"
     },
     "summary": {
-        "reports": 6,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 74963.89,
-        "num_expenditures": 24,
-        "expenditures_19_20": 74963.89,
-        "num_expenditures_19_20": 24,
-        "cash_on_hand": -112328.57
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Paone, Tara",
+                "address": "PO Box 4184 New York, NY  10163",
+                "phone": "",
+                "email": "lobbyreg@everytown.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Oppose LR 130",
+                "position": "Other",
+                "status": "On ballot"
+            }
+        ]
     }
 }

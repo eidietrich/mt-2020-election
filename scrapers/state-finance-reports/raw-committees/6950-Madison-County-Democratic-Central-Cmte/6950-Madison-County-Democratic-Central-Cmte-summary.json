@@ -1,0 +1,37 @@
+{
+    "slug": "6950-Madison-County-Democratic-Central-Cmte",
+    "committeeName": "Madison County Democratic Central Cmte",
+    "scrape_date": "2020-07-02",
+    "periods": 12,
+    "data": {
+        "committeeId": 6950,
+        "committeeName": "Madison County Democratic Central Cmte",
+        "committeeAddress": "10 Fox Trail, Ennis, MT 59729",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1566799200000,
+        "entityFullName": "Madison County Democratic Central Cmte",
+        "entityCity": "Ennis",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Frey, James C",
+                "address": "111 Shining Mountains Loop Rd. Ennis, MT  59729",
+                "phone": "(406) 682-5448",
+                "email": "jjfrey@3rivers.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

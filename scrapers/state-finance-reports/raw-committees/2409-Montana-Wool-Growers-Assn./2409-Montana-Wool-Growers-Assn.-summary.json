@@ -1,0 +1,43 @@
+{
+    "slug": "2409-Montana-Wool-Growers-Assn.",
+    "committeeName": "Montana Wool Growers Assn.",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2409,
+        "committeeName": "Montana Wool Growers Assn.",
+        "committeeAddress": "PO Box 1693 7 Edwards Street, Helena, MT 59624",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1265055169000,
+        "entityFullName": "Montana Wool Growers Assn.",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Helle, John",
+                "address": "1200 Airport Rd Dillon, MT  59725",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-160",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

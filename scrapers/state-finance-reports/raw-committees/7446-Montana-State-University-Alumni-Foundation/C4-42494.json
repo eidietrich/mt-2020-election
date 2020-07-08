@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 42494,
+        "fromDateStr": "04/01/2018",
+        "toDateStr": "06/30/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7446,
+        "candidateName": "Montana State University Alumni Foundation ",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/01/2018",
+        "end_date": "06/30/2018",
+        "receipts": 0.0,
+        "expenditures": 5280.0,
+        "cash_in_bank": -6993.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "06/30/18",
+            "Entity Name": "MSU Alumni Foundation",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 172750",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59717",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 5280.0,
+            "Purpose": "In-Kind Contribution of Staff Time, Benefits and Overhead 4/1-6/30/2018",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

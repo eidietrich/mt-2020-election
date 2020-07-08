@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 39041,
+        "fromDateStr": "10/25/2016",
+        "toDateStr": "03/16/2017",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 231,
+        "candidateName": "Carbon County Republican Central Cmte",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/25/2016",
+        "end_date": "03/16/2017",
+        "receipts": 800.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 3563.3
+    },
+    "contributions": [
+        {
+            "Date Paid": "11/27/16",
+            "Entity Name": "Friends of Seth Berglee for HD58, Seth",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 340",
+            "City": "Joliet",
+            "State": "MT",
+            "Zip": "59041",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -800.0,
+            "Amount Type": "CA",
+            "Purpose": "Contribution Refund - Candidate Contribution",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 850.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

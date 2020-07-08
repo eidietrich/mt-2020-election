@@ -1,0 +1,43 @@
+{
+    "slug": "2499-Northwest-Title-Loan",
+    "committeeName": "Northwest Title Loan",
+    "scrape_date": "2020-07-01",
+    "periods": 8,
+    "data": {
+        "committeeId": 2499,
+        "committeeName": "Northwest Title Loan",
+        "committeeAddress": "1717 Central Ave., Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1275949660000,
+        "entityFullName": "Northwest Title Loan",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Elliott, Ted",
+                "address": "1717 Central Ave. Billings, MT  59102",
+                "phone": "",
+                "email": "tede@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Kuney, Lorna",
+                "address": "400 N California Helena, MT  59601",
+                "phone": "",
+                "email": "lorna@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-164, Cap the Rate",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

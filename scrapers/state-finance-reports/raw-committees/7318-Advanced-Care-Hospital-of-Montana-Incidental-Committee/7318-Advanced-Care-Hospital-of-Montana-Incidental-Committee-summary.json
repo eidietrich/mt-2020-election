@@ -1,0 +1,43 @@
+{
+    "slug": "7318-Advanced-Care-Hospital-of-Montana-Incidental-Committee",
+    "committeeName": "Advanced Care Hospital of Montana Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7318,
+        "committeeName": "Advanced Care Hospital of Montana Incidental Committee",
+        "committeeAddress": "3528 Gabel Rd, Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1526882400000,
+        "entityFullName": "Advanced Care Hospital of Montana Incidental Committee",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Judith, Powers",
+                "address": "3528 Gabel Rd Billings, MT  59102",
+                "phone": "",
+                "email": "judipowers@ernesthealth.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-185",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

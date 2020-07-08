@@ -1,0 +1,43 @@
+{
+    "slug": "2355-Marcus-Daly-Memorial-Hospital",
+    "committeeName": "Marcus Daly Memorial Hospital",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2355,
+        "committeeName": "Marcus Daly Memorial Hospital",
+        "committeeAddress": "1200 Westwood Dr., Hamilton, MT 59840",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": null,
+        "electionYear": "2008",
+        "amendedDate": 1234209212000,
+        "entityFullName": "Marcus Daly Memorial Hospital",
+        "entityCity": "Hamilton",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bartos, John",
+                "address": "1200 Westwood Rd Hamilton, MT  59840",
+                "phone": "",
+                "email": "jbartos@mdmh.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-155",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

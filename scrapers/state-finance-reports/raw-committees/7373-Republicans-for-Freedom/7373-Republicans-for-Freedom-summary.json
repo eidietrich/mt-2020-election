@@ -1,0 +1,58 @@
+{
+    "slug": "7373-Republicans-for-Freedom",
+    "committeeName": "Republicans for Freedom",
+    "scrape_date": "2020-07-02",
+    "periods": 11,
+    "data": {
+        "committeeId": 7373,
+        "committeeName": "Republicans for Freedom",
+        "committeeAddress": "1303 2nd Ave. W. , Columbia Falls, MT 59912",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1541138400000,
+        "entityFullName": "Republicans for Freedom",
+        "entityCity": "Columbia Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Regier, Matt",
+                "address": "1303 2nd Ave. W.  Columbia Falls, MT  59912",
+                "phone": "",
+                "email": "mattregierhd4@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "DAN SKATTUM",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Lola Sheldon-Galloway - HD22",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steven Galloway for Senate District 12",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Greg DeVries",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

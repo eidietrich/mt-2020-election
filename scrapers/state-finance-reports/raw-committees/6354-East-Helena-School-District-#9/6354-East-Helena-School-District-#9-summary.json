@@ -1,0 +1,43 @@
+{
+    "slug": "6354-East-Helena-School-District-#9",
+    "committeeName": "East Helena School District #9",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 6354,
+        "committeeName": "East Helena School District #9",
+        "committeeAddress": "PO Box 1280, East Helena, MT 59635",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2017",
+        "amendedDate": 1499234400000,
+        "entityFullName": "East Helena School District #9",
+        "entityCity": "East Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Whitmoyer, Ron",
+                "address": "PO Box 1280 East Helena, MT  59635",
+                "phone": "(406) 475-3753",
+                "email": "rwhitmoyer@ehps.k12.mt.us"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "All activities were purely informational. No support or oppostion was given",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

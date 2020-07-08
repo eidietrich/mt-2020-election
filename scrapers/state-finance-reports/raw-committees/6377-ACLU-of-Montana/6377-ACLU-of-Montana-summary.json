@@ -1,0 +1,43 @@
+{
+    "slug": "6377-ACLU-of-Montana",
+    "committeeName": "ACLU of Montana",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 6377,
+        "committeeName": "ACLU of Montana",
+        "committeeAddress": "PO Box 1317, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1532930400000,
+        "entityFullName": "ACLU of Montana",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Rossi, SK",
+                "address": "PO Box 1317 Helena, MT  59624",
+                "phone": "(309) 838-6770",
+                "email": "rossis@aclumontana.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-183",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

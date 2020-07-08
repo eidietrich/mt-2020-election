@@ -1,0 +1,68 @@
+{
+    "slug": "8047-Central-Montana-Progressive-Political-Action-Committee",
+    "committeeName": "Central Montana Progressive Political Action Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 8047,
+        "committeeName": "Central Montana Progressive Political Action Committee",
+        "committeeAddress": "P.O. Box 2, Great Falls, MT 59403",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1587708000000,
+        "entityFullName": "Central Montana Progressive Political Action Committee",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Schoyen, Elaine",
+                "address": "340 Beth Drive Great Falls, MT  59405",
+                "phone": "(406) 788-9974",
+                "email": "lewschoyen@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Carroll, Pamela S",
+                "address": "3109 Wells Fargo Drive Great Falls, MT  59404",
+                "phone": "(406) 788-9045",
+                "email": "pamscarroll@gmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Raph Graybill",
+                "position": "Support",
+                "status": "On ballot, approved"
+            },
+            {
+                "interest": "Mike Cooney",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Raph Graybill",
+                "position": "Support",
+                "status": "On ballot, approved"
+            },
+            {
+                "interest": "Advocate in local and state elections for public officials, as well as for ballot measures, including local mill levies and bond issues",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Steve Bullock",
+                "position": "Support",
+                "status": "On ballot, approved"
+            },
+            {
+                "interest": "Kathleen Williams for House of Representatives",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

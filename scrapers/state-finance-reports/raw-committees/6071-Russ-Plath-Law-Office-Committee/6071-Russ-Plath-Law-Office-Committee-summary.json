@@ -1,0 +1,43 @@
+{
+    "slug": "6071-Russ-Plath-Law-Office-Committee",
+    "committeeName": "Russ Plath Law Office Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 6071,
+        "committeeName": "Russ Plath Law Office Committee",
+        "committeeAddress": "P.O. Box 1377, Billings, MT 59103",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1480316400000,
+        "entityFullName": "Russ Plath Law Office Committee",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Plath, Russ",
+                "address": "P.O. Box 1337 Billings, MT  59103",
+                "phone": "(406) 534-4177",
+                "email": "russ@russplathlaw.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Taylor, Mary C",
+                "address": "P.O. Box 838 Helena, MT  59624",
+                "phone": "(406) 443-3124",
+                "email": "mtla.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Judge Dirk Sandefur for MT Supreme Court",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

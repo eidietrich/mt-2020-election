@@ -1,0 +1,37 @@
+{
+    "slug": "354-Montana-Federation-Of-Republican-Women",
+    "committeeName": "Montana Federation Of Republican Women",
+    "scrape_date": "2020-07-02",
+    "periods": 29,
+    "data": {
+        "committeeId": 354,
+        "committeeName": "Montana Federation Of Republican Women",
+        "committeeAddress": "PO Box 1496, Columbus, MT 59019",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "Y",
+        "electionYear": "2000",
+        "amendedDate": 1585375200000,
+        "entityFullName": "Montana Federation Of Republican Women",
+        "entityCity": "Columbus",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hickman, Deborah S",
+                "address": "PO Box 1567 Columbus, MT  59019",
+                "phone": "(406) 322-5044",
+                "email": "hickmandeborah3@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Keffer, Shirlee",
+                "address": "PO Box 1496 Columbus, MT  59019",
+                "phone": "(406) 780-0482",
+                "email": "kefferpost@earthlink.net"
+            }
+        ],
+        "issues": []
+    }
+}

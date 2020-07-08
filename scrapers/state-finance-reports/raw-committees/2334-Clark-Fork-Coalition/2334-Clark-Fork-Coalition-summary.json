@@ -1,0 +1,43 @@
+{
+    "slug": "2334-Clark-Fork-Coalition",
+    "committeeName": "Clark Fork Coalition",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2334,
+        "committeeName": "Clark Fork Coalition",
+        "committeeAddress": "PO Box 7593 140 S. 4th St. West Suite 1, Missoula, MT 59801",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1227561491000,
+        "entityFullName": "Clark Fork Coalition",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Budds, Garrett J",
+                "address": "PO Box 7593 Missoula, MT  59801",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Ravalli County Growth Policy",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

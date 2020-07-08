@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 34246,
+        "fromDateStr": "02/25/2016",
+        "toDateStr": "02/25/2016",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 5081,
+        "candidateName": "Dorsey & Whitney LLP",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "02/25/2016",
+        "end_date": "02/25/2016",
+        "receipts": 0.0,
+        "expenditures": 10638.0,
+        "cash_in_bank": -10638.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "02/25/16",
+            "Entity Name": "Montanans for Research and Cures",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "c/o Reg. Agent, Davis, Hatley, Heffernan & Tighe, 3rd Fl, 101 River Dr N",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59401",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 10638.0,
+            "Purpose": "In-kind legal fees",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

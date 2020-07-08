@@ -1,0 +1,37 @@
+{
+    "slug": "2752-Third-Sector-New-England-Free-Speech-for-People",
+    "committeeName": "Third Sector New England/Free Speech for People",
+    "scrape_date": "2020-07-01",
+    "periods": 12,
+    "data": {
+        "committeeId": 2752,
+        "committeeName": "Third Sector New England/Free Speech for People",
+        "committeeAddress": "89 South Street, Suite 700, Boston, MA 02111",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1333989493000,
+        "entityFullName": "Third Sector New England/Free Speech for People",
+        "entityCity": "Boston",
+        "entityState": "MA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wheeler, Karen",
+                "address": "25 Beacon Street Boston, MA  02108",
+                "phone": "",
+                "email": "kwheeler@uua.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Barrera, Joel",
+                "address": "PO Box 120064 Boston, MA  02112",
+                "phone": "",
+                "email": "joel@masscs.org"
+            }
+        ],
+        "issues": []
+    }
+}

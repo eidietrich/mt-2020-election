@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 45033,
+        "fromDateStr": "10/21/2018",
+        "toDateStr": "11/21/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 374,
+        "candidateName": "Montana DOCPAC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/21/2018",
+        "end_date": "11/21/2018",
+        "receipts": 0.0,
+        "expenditures": 166.8,
+        "cash_in_bank": 12309.52
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/13/18",
+            "Entity Name": "wells fargo",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "200 B St",
+            "City": "Santa Rosa",
+            "State": "CA",
+            "Zip": "95401",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 166.8,
+            "Purpose": "Bank fees",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

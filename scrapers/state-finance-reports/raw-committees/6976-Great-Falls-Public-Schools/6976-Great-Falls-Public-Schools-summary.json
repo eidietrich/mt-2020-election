@@ -1,0 +1,37 @@
+{
+    "slug": "6976-Great-Falls-Public-Schools",
+    "committeeName": "Great Falls Public Schools",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 6976,
+        "committeeName": "Great Falls Public Schools",
+        "committeeAddress": "P.O. Box 2429, Great Falls, MT 59403",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1525068000000,
+        "entityFullName": "Great Falls Public Schools",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Lacey, Tammy",
+                "address": "P.O. Box 2429 Great Falls, MT  59403",
+                "phone": "(406) 268-6001",
+                "email": "tammy_lacey@gfps.k12.mt.us"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "3001-EEA-Chapter-102",
+    "committeeName": "EEA Chapter 102",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3001,
+        "committeeName": "EEA Chapter 102",
+        "committeeAddress": "12 S. Meridian, Kalispell, MT 59901",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": null,
+        "electionYear": "2013",
+        "amendedDate": 1386623208000,
+        "entityFullName": "EEA Chapter 102",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McCrorie, John",
+                "address": "12 S. Meridian Rd. Kalispell, MT  59901",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Save Your Airport",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "slug": "1526-Excellence-in-Voting-(EIV)",
+    "committeeName": "Excellence in Voting (EIV)",
+    "scrape_date": "2020-07-02",
+    "periods": 18,
+    "data": {
+        "committeeId": 1526,
+        "committeeName": "Excellence in Voting (EIV)",
+        "committeeAddress": "PO Box 2294, Kalispell, MT 59903",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1535608800000,
+        "entityFullName": "Excellence in Voting (EIV)",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Konopatzke, Dennis",
+                "address": "P.O.Box 2609 Columbia Falls, MT  59912",
+                "phone": "(406) 261-1174",
+                "email": "nkeller@tgtech.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Chair  Thompson, Ray",
+                "address": "286 Buffalo Hill Dr Kalispell, MT  59901",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Dr. Olszweski for US Senator",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "to support conservative candidates for State and Local Candidates and conservative political issues.",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

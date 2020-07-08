@@ -1,0 +1,37 @@
+{
+    "slug": "2036-Kalispell-Area-Chamber-of-Commerce",
+    "committeeName": "Kalispell Area Chamber of Commerce",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2036,
+        "committeeName": "Kalispell Area Chamber of Commerce",
+        "committeeAddress": "15 Debot Park, Kalispell, MT 59901",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2007",
+        "amendedDate": 1173295099000,
+        "entityFullName": "Kalispell Area Chamber of Commerce",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ness, Jim",
+                "address": "15 Depot Park Kalispell, MT  59901",
+                "phone": "",
+                "email": "joe@kalispellchamber.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "N/A",
+                "address": "15 Depot Park Kalispell, MT  59901",
+                "phone": "",
+                "email": "joe@kalispellchamber.com"
+            }
+        ],
+        "issues": []
+    }
+}

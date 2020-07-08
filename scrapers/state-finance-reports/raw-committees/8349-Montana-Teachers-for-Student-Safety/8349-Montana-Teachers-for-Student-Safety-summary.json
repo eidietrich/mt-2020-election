@@ -1,0 +1,63 @@
+{
+    "slug": "8349-Montana-Teachers-for-Student-Safety",
+    "committeeName": "Montana Teachers for Student Safety ",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 8349,
+        "committeeName": "Montana Teachers for Student Safety ",
+        "committeeAddress": "PO Box 9763, Kalispell, MT 59904",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1588744800000,
+        "entityFullName": "Montana Teachers for Student Safety ",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Regier, Matt",
+                "address": "PO Box 9763 Kalispell, MT  59904",
+                "phone": "(406) 253-3293",
+                "email": "mattregierhd4@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Schillinger for HD 37 ",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Noland for HD10",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support DeVries for HD 75",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Carlson HD69",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Binkley for HD85",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

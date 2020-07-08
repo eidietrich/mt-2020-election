@@ -1,0 +1,43 @@
+{
+    "slug": "5222-Montana-Hospital-Association",
+    "committeeName": "Montana Hospital Association",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 5222,
+        "committeeName": "Montana Hospital Association",
+        "committeeAddress": "2625 Winne Ave, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1465365600000,
+        "entityFullName": "Montana Hospital Association",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Olsen, Robert",
+                "address": "2625 Winne Ave. Helena, MT  59601",
+                "phone": "(406) 457-8004",
+                "email": "bob.olsen@mtha.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Montana Hospitals. MHA became an incidental committee to report in-kind contributions to share design costs for IEs with other Association PACs.",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

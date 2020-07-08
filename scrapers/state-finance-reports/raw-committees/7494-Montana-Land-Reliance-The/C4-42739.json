@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 42739,
+        "fromDateStr": "07/01/2018",
+        "toDateStr": "08/01/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7494,
+        "candidateName": "Montana Land Reliance, The",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "07/01/2018",
+        "end_date": "08/01/2018",
+        "receipts": 0.0,
+        "expenditures": 15000.0,
+        "cash_in_bank": -15000.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "07/31/18",
+            "Entity Name": "Yes for Open Space, Rivers and Farmland",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "3011 American Way",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59808",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 15000.0,
+            "Purpose": "Support  ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

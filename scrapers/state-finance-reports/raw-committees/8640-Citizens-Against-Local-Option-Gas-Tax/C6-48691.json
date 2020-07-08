@@ -22,7 +22,39 @@
         "expenditures": 5500.0,
         "cash_in_bank": 78.89
     },
-    "contributions": [],
+    "contributions": [
+        {
+            "Date Paid": "05/27/20",
+            "Entity Name": "Montana Petroleum Marketers PAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Po Box 306 ",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Independent Committee Contributions",
+            "Amount": 5500.0,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "Primary",
+            "Total Primary": 5500.0,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
     "expenditures": [
         {
             "Date Paid": "05/27/20",

@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 44607,
+        "fromDateStr": "10/30/2018",
+        "toDateStr": "11/09/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7386,
+        "candidateName": "Billings Clinic",
+        "statusDescr": "Amended",
+        "amendedDate": 1542321944000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/30/2018",
+        "end_date": "11/09/2018",
+        "receipts": 0.0,
+        "expenditures": 3345.0,
+        "cash_in_bank": -816831.7
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/09/18",
+            "Entity Name": "Billings Clinic",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO 37000",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59107",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2145.0,
+            "Purpose": "Employee in kind hours in support of ballot initiative to increase tobacco taxes to support health care programs",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "11/02/18",
+            "Entity Name": "Billings Gazette",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "401 N Broadway",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 1200.0,
+            "Purpose": "Digital ad in support of ballot initiative to increase tobacco taxes to support health care programs.",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

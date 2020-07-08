@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 44970,
+        "fromDateStr": "08/04/2018",
+        "toDateStr": "09/27/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 3057,
+        "candidateName": "Montana Police Protective Assn PAC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "08/04/2018",
+        "end_date": "09/27/2018",
+        "receipts": 0.0,
+        "expenditures": 180.0,
+        "cash_in_bank": 220.2
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "09/04/18",
+            "Entity Name": "McNally, Mary K",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "24 Tabor Crossing #315",
+            "City": "Longmeadow",
+            "State": "MA",
+            "Zip": "01763",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 180.0,
+            "Purpose": "CANDIDATE CONTRIBUTION",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

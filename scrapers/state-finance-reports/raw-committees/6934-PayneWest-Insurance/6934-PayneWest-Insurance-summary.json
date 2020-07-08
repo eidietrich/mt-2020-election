@@ -1,0 +1,43 @@
+{
+    "slug": "6934-PayneWest-Insurance",
+    "committeeName": "PayneWest Insurance",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6934,
+        "committeeName": "PayneWest Insurance",
+        "committeeAddress": "2925 Palmer Street, Suite B, Missoula, MT 59808",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2017",
+        "amendedDate": 1519196400000,
+        "entityFullName": "PayneWest Insurance",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Carver, Mindy L",
+                "address": "PO Box 4386 Missoula, MT  59806",
+                "phone": "(406) 327-6432",
+                "email": "mcarver@paynewest.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Donation in support of the 6-mill levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

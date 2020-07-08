@@ -1,0 +1,37 @@
+{
+    "slug": "7528-Moulton-Bellingham-PC",
+    "committeeName": "Moulton Bellingham PC",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7528,
+        "committeeName": "Moulton Bellingham PC",
+        "committeeAddress": "P. O. Box 2559, Billings, MT 59103",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1535608800000,
+        "entityFullName": "Moulton Bellingham PC",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "James, Doug",
+                "address": "P. O. Box 2559 Billings, MT  59103",
+                "phone": "(406) 238-1565",
+                "email": "Doug.James@MoultonBellingham.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

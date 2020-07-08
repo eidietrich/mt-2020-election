@@ -1,0 +1,43 @@
+{
+    "slug": "2989-SEIU-775-MT-Quality-Care-Committee",
+    "committeeName": "SEIU 775 MT Quality Care Committee",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2989,
+        "committeeName": "SEIU 775 MT Quality Care Committee",
+        "committeeAddress": "302 N Last Chance Gulch, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2014",
+        "amendedDate": 1462514400000,
+        "entityFullName": "SEIU 775 MT Quality Care Committee",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "NA, NA",
+                "address": "NA NA, MT  NA",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Healthy Montana Initiative",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

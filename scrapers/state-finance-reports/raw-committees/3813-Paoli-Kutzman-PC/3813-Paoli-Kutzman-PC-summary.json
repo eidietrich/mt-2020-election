@@ -1,0 +1,43 @@
+{
+    "slug": "3813-Paoli-Kutzman-PC",
+    "committeeName": "Paoli Kutzman, PC",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3813,
+        "committeeName": "Paoli Kutzman, PC",
+        "committeeAddress": "PO Box 8131, Missoula, MT 59807",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1417417200000,
+        "entityFullName": "Paoli Kutzman, PC",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Paoli, David R",
+                "address": "PO Box 8131 Missoula, MT  59807",
+                "phone": "(406) 542-3330",
+                "email": "davidrp@aol.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Justice Mike Wheat",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 39990,
+        "fromDateStr": "01/27/2018",
+        "toDateStr": "03/02/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 4971,
+        "candidateName": "Big Sky Democrats",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/27/2018",
+        "end_date": "03/02/2018",
+        "receipts": 0.0,
+        "expenditures": 100.0,
+        "cash_in_bank": 1560.04
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "02/07/18",
+            "Entity Name": "Butte Democratic Central Committee",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 4744",
+            "City": "Butte",
+            "State": "MT",
+            "Zip": "59702",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 100.0,
+            "Purpose": "Sponsorship of St. Patricks Sheleighleigh Shindig",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

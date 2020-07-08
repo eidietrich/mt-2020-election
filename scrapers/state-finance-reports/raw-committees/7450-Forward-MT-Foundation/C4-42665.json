@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 42665,
+        "fromDateStr": "06/27/2018",
+        "toDateStr": "07/27/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7450,
+        "candidateName": "Forward MT Foundation",
+        "statusDescr": "Amended",
+        "amendedDate": 1540913613000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/27/2018",
+        "end_date": "07/27/2018",
+        "receipts": 0.0,
+        "expenditures": 2955.7,
+        "cash_in_bank": -2955.7
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "07/25/18",
+            "Entity Name": "Forward Montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1535 Wyoming St",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 992.51,
+            "Purpose": "Overhead - payroll taxes and services, benefits, insurance, accounting, copy and print, tech and communications, occupancy - 6Mill Levy",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "07/25/18",
+            "Entity Name": "Forward Montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1535 Wyoming St",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 1963.19,
+            "Purpose": "Staff Salary - signature collection for 6-Mill (contract work for Forward Montana)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

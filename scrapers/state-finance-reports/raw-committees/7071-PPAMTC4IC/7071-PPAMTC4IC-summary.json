@@ -1,0 +1,43 @@
+{
+    "slug": "7071-PPAMTC4IC",
+    "committeeName": "PPAMTC4IC",
+    "scrape_date": "2020-07-02",
+    "periods": 7,
+    "data": {
+        "committeeId": 7071,
+        "committeeName": "PPAMTC4IC",
+        "committeeAddress": "1116 Grand Avenue, Suite 201, Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2019",
+        "amendedDate": 1524463200000,
+        "entityFullName": "PPAMTC4IC",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ranta, Katie",
+                "address": "1116 Grand Avenue, Suite 201 Billings, MT  59102",
+                "phone": "(406) 360-9708",
+                "email": "katie_ranta@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Terrill, Laura",
+                "address": "87 East Fieldview Cir. Bozeman, MT  59715",
+                "phone": "(971) 322-8640",
+                "email": "laura.terrill@ppmontana.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "General Election",
+                "position": "Monitor",
+                "status": "Support"
+            }
+        ]
+    }
+}

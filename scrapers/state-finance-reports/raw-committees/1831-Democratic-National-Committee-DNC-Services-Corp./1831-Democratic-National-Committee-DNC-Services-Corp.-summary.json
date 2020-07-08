@@ -1,0 +1,37 @@
+{
+    "slug": "1831-Democratic-National-Committee-DNC-Services-Corp.",
+    "committeeName": "Democratic National Committee/DNC Services Corp.",
+    "scrape_date": "2020-07-01",
+    "periods": 8,
+    "data": {
+        "committeeId": 1831,
+        "committeeName": "Democratic National Committee/DNC Services Corp.",
+        "committeeAddress": "430 S Capitol Street SE, Washington, DC 20003",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1157577419000,
+        "entityFullName": "Democratic National Committee/DNC Services Corp.",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Tobias, Andrew",
+                "address": "430 S Capitol Street SE Washington, DC  20003",
+                "phone": "(305) 751-7085",
+                "email": "atobias@aol.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

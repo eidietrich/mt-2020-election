@@ -1,0 +1,43 @@
+{
+    "slug": "6860-Gallatin-Valley-Land-Trust",
+    "committeeName": "Gallatin Valley Land Trust",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 6860,
+        "committeeName": "Gallatin Valley Land Trust",
+        "committeeAddress": "PO Box 7021, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1529992800000,
+        "entityFullName": "Gallatin Valley Land Trust",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Price, Will",
+                "address": "PO Box 7021 Bozeman, MT  59715",
+                "phone": "",
+                "email": "price.will@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Gallatin County Open Space Bond",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

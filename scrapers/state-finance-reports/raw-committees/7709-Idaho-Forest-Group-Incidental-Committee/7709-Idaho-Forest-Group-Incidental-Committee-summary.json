@@ -1,0 +1,43 @@
+{
+    "slug": "7709-Idaho-Forest-Group-Incidental-Committee",
+    "committeeName": "Idaho Forest Group Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7709,
+        "committeeName": "Idaho Forest Group Incidental Committee",
+        "committeeAddress": "687 W Canfield Ave., Coeur d'Alene, ID 83815",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1539324000000,
+        "entityFullName": "Idaho Forest Group Incidental Committee",
+        "entityCity": "Coeur d'Alene",
+        "entityState": "ID"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Luther, Jessie",
+                "address": "1 S. Montana Ave., Ste. M-2 Helena, MT  59601",
+                "phone": "(406) 441-4871",
+                "email": "jessie@taylorluthergroup.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "made contribution to MT Business PAC",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

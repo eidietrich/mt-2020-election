@@ -1,0 +1,43 @@
+{
+    "slug": "2872-Tri-County-Implement-Inc.",
+    "committeeName": "Tri-County Implement, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2872,
+        "committeeName": "Tri-County Implement, Inc.",
+        "committeeAddress": "2429 W. Holly Street, Sidney, MT 59270",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1357846759000,
+        "entityFullName": "Tri-County Implement, Inc.",
+        "entityCity": "Sidney",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Christensen, Tami",
+                "address": "2429 W Holly Street Sidney, MT  59270",
+                "phone": "",
+                "email": "tricntyadm@midrivers.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "MT Prosperity PAC",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

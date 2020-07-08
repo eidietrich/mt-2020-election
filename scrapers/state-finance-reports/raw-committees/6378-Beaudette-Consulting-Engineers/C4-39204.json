@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 39204,
+        "fromDateStr": "03/10/2017",
+        "toDateStr": "06/10/2017",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 6378,
+        "candidateName": "Beaudette Consulting Engineers",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/10/2017",
+        "end_date": "06/10/2017",
+        "receipts": 0.0,
+        "expenditures": 2500.0,
+        "cash_in_bank": -2500.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "03/22/17",
+            "Entity Name": "Lincolns for Levies",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "294 Triple Tree Road",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2500.0,
+            "Purpose": "school levy informational expenditure",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

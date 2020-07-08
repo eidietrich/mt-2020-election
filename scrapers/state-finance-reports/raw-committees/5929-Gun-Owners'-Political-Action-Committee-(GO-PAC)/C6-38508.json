@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 38508,
+        "fromDateStr": "10/23/2016",
+        "toDateStr": "11/23/2016",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 5929,
+        "candidateName": "Gun Owners' Political Action Committee (GO-PAC)",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/23/2016",
+        "end_date": "11/23/2016",
+        "receipts": 0.0,
+        "expenditures": 217.6,
+        "cash_in_bank": 1526.31
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/27/16",
+            "Entity Name": "Budget Instant Print Center",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "800 Kensington",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 217.6,
+            "Purpose": "Print 5K postcards HD 3 & HD 5 supporting Taylor Rose and Chet Billi",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

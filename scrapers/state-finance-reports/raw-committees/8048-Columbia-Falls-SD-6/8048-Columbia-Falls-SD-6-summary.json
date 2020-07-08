@@ -1,0 +1,43 @@
+{
+    "slug": "8048-Columbia-Falls-SD-6",
+    "committeeName": "Columbia Falls SD 6",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 8048,
+        "committeeName": "Columbia Falls SD 6",
+        "committeeAddress": "501 6th Ave, Columbia Falls, MT 59912",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2019",
+        "amendedDate": 1574060400000,
+        "entityFullName": "Columbia Falls SD 6",
+        "entityCity": "Columbia Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bradshaw, Steve",
+                "address": "501 6th Ave Columbia Falls, MT  59912",
+                "phone": "",
+                "email": "sbradshaw@cfmtschools.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Local bond issue- informational only",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

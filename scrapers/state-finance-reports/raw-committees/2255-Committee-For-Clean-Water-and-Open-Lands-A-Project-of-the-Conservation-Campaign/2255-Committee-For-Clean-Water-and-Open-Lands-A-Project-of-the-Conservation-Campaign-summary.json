@@ -1,0 +1,43 @@
+{
+    "slug": "2255-Committee-For-Clean-Water-and-Open-Lands-A-Project-of-the-Conservation-Campaign",
+    "committeeName": "Committee For Clean Water and Open Lands, A Project of the Conservation Campaign",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2255,
+        "committeeName": "Committee For Clean Water and Open Lands, A Project of the Conservation Campaign",
+        "committeeAddress": "PO Box 3368, Kalispell, MT 59903",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1219431964000,
+        "entityFullName": "Committee For Clean Water and Open Lands, A Project of the Conservation Campaign",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Sliter, Everit",
+                "address": "604 5th Ave E Kalispell, MT  59901",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Open Space Lands, Working Lands Bond Election",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

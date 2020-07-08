@@ -1,0 +1,43 @@
+{
+    "slug": "2505-Quik-Check-Financial-Inc.",
+    "committeeName": "Quik Check Financial, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 7,
+    "data": {
+        "committeeId": 2505,
+        "committeeName": "Quik Check Financial, Inc.",
+        "committeeAddress": "PO Box 488, Logan, UT 84321",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1276725997000,
+        "entityFullName": "Quik Check Financial, Inc.",
+        "entityCity": "Logan",
+        "entityState": "UT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Peterson, Nathan",
+                "address": "PO Box 488 Logan, UT  84321",
+                "phone": "",
+                "email": "nathanp@quikcheck.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Kuney, Lorna",
+                "address": "400 N California Helena, MT  59601",
+                "phone": "",
+                "email": "lorna@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-164, Cap the Rate",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

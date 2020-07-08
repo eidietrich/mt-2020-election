@@ -1,0 +1,48 @@
+{
+    "slug": "3004-Montana-Human-Rights-Action-Network",
+    "committeeName": "Montana Human Rights Action Network",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 3004,
+        "committeeName": "Montana Human Rights Action Network",
+        "committeeAddress": "PO Box 1497, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1416207600000,
+        "entityFullName": "Montana Human Rights Action Network",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Rivas, Rachel",
+                "address": "PO Box 1497 Helena, MT  59624",
+                "phone": "",
+                "email": "rachelc@mhrn.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Deitchman, Carl",
+                "address": "1121 Hollins Ave Helena, MT  59601-1814",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Medicaid Expansion to 138% of federal poverty level",
+                "position": "Support",
+                "status": "Not on ballot"
+            },
+            {
+                "interest": "Mike Wheat and Carlie Boland",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

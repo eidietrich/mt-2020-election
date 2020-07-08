@@ -1,0 +1,43 @@
+{
+    "slug": "2348-Wells-Fargo",
+    "committeeName": "Wells Fargo",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2348,
+        "committeeName": "Wells Fargo",
+        "committeeAddress": "175 N. 27th St., Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1230311332000,
+        "entityFullName": "Wells Fargo",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ott, Joy",
+                "address": "3344 Racquet Dr Billings, MT  59102",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Committee to Keep the Six Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "7453-Northern-Montana-Hospital-Incidental-Committee",
+    "committeeName": "Northern Montana Hospital Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 7453,
+        "committeeName": "Northern Montana Hospital Incidental Committee",
+        "committeeAddress": "PO Box 1231, Havre, MT 59501",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1542697200000,
+        "entityFullName": "Northern Montana Hospital Incidental Committee",
+        "entityCity": "Havre",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Lucke, Kim M",
+                "address": "PO Box 1231 Havre, MT  59501",
+                "phone": "(406) 262-1140",
+                "email": "luckkimm@nmhcare.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Ballot Initiative to increase tobacco taxes to support health care programs",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

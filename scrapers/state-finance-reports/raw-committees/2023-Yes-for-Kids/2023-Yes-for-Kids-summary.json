@@ -1,0 +1,37 @@
+{
+    "slug": "2023-Yes-for-Kids",
+    "committeeName": "Yes for Kids",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 2023,
+        "committeeName": "Yes for Kids",
+        "committeeAddress": "PO Box 31177, Billings, MT 59107",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2007",
+        "amendedDate": 1168544705000,
+        "entityFullName": "Yes for Kids",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Cook, Keith",
+                "address": "2491 Aspen Way Billings, MT  59106",
+                "phone": "(406) 252-6771",
+                "email": "kcook@fib.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 20335,
+        "fromDateStr": "05/13/2008",
+        "toDateStr": "06/10/2008",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 2144,
+        "candidateName": "Healthy Montana Ballot Committee For I-155",
+        "statusDescr": "Amended",
+        "amendedDate": 1399655626000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/13/2008",
+        "end_date": "06/10/2008",
+        "receipts": 0.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 0.0
+    },
+    "contributions": [],
+    "expenditures": []
+}

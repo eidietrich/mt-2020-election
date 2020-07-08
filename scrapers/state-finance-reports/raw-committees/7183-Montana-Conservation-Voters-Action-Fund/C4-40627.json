@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 40627,
+        "fromDateStr": "05/04/2018",
+        "toDateStr": "05/04/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7183,
+        "candidateName": "Montana Conservation Voters Action Fund",
+        "statusDescr": "Amended",
+        "amendedDate": 1530316342000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/04/2018",
+        "end_date": "05/04/2018",
+        "receipts": 0.0,
+        "expenditures": 2823.53,
+        "cash_in_bank": -2823.53
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "04/20/18",
+            "Entity Name": "Montana Conservation Voters",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 63",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59103",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2823.53,
+            "Purpose": "33,218 records; fair market value at $85 per thousand records",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

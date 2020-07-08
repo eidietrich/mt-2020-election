@@ -1,0 +1,63 @@
+{
+    "slug": "7048-Lewis-and-Clark-County-Young-Republicans",
+    "committeeName": "Lewis and Clark County Young Republicans",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 7048,
+        "committeeName": "Lewis and Clark County Young Republicans",
+        "committeeAddress": "627 South California St. Apt 3, Helena, MT 59601",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1543302000000,
+        "entityFullName": "Lewis and Clark County Young Republicans",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Phillips, David",
+                "address": "627 South California St. Apt 3 Helena, MT  59601",
+                "phone": "",
+                "email": "daphillipsmt@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Giacomini, Nicole",
+                "address": "2531 Ferndale Ln Apt 101 Helena, MT  59601",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To provide members with oppotunities to become involved in and contribute to the development and advancement of the Republican Party within Lewis and Clark County, Montana, and the United States.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To develop and maintain and Young Republican organization in Lewis & Clark County.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To provide members with opportunities to learn about the politicval process and political issues.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To bring young people into the Republican Party.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To provide members with opportunities for political expression and recognition.",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

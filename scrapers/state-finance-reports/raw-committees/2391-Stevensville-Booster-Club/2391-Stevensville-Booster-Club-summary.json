@@ -1,0 +1,43 @@
+{
+    "slug": "2391-Stevensville-Booster-Club",
+    "committeeName": "Stevensville Booster Club",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2391,
+        "committeeName": "Stevensville Booster Club",
+        "committeeAddress": "PO Box 626, Stevensville, MT 59870",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2009",
+        "amendedDate": 1261001007000,
+        "entityFullName": "Stevensville Booster Club",
+        "entityCity": "Stevensville",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Baney, Karla",
+                "address": "503 Central Ave. Stevensvill, MT  59870",
+                "phone": "(406) 777-0059",
+                "email": "kdbaney@aol.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School Building Mill",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

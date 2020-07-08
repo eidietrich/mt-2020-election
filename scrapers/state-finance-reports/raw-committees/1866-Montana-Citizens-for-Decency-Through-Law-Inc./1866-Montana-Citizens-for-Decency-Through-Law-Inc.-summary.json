@@ -1,0 +1,37 @@
+{
+    "slug": "1866-Montana-Citizens-for-Decency-Through-Law-Inc.",
+    "committeeName": "Montana Citizens for Decency Through Law, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 1866,
+        "committeeName": "Montana Citizens for Decency Through Law, Inc.",
+        "committeeAddress": "PO Box 4071, Missoula, MT 59806",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1157651177000,
+        "entityFullName": "Montana Citizens for Decency Through Law, Inc.",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Smith, Jacquelyn",
+                "address": "1828 Alderson Billings, MT  59102",
+                "phone": "(406) 642-7288",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

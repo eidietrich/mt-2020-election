@@ -1,0 +1,43 @@
+{
+    "slug": "2286-Underriner-Motors",
+    "committeeName": "Underriner Motors",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2286,
+        "committeeName": "Underriner Motors",
+        "committeeAddress": "523 N. 29th Street, Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1222876097000,
+        "entityFullName": "Underriner Motors",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Underriner, William",
+                "address": "523 North 29th Billings, MT  59101",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

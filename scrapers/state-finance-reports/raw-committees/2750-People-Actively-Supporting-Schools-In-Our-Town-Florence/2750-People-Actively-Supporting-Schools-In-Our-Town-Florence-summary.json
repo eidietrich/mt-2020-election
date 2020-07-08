@@ -1,0 +1,43 @@
+{
+    "slug": "2750-People-Actively-Supporting-Schools-In-Our-Town-Florence",
+    "committeeName": "People Actively Supporting Schools In Our Town-Florence",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 2750,
+        "committeeName": "People Actively Supporting Schools In Our Town-Florence",
+        "committeeAddress": "P O Box 1392, Florence, MT 59833",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1333644485000,
+        "entityFullName": "People Actively Supporting Schools In Our Town-Florence",
+        "entityCity": "Florence",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Halko, Martin M",
+                "address": "170 Edens Lane Florence, MT  59833",
+                "phone": "(406) 273-2169",
+                "email": "mhalko@msn.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Page-Nei, Kristin L",
+                "address": "183 Ordway Drive Florence, MT  59833",
+                "phone": "(406) 360-8752",
+                "email": "pagenei2721@gmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Education and policy advocacy. Working to pass the 2012 Florence Carlton School mill Levy for the 05/18/2012 election",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

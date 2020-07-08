@@ -1,0 +1,43 @@
+{
+    "slug": "2838-Americans-for-Prosperity",
+    "committeeName": "Americans for Prosperity",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 2838,
+        "committeeName": "Americans for Prosperity",
+        "committeeAddress": "2111 Wilson Blvd., Suite 350, Arlington, VA 22201",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1350674852000,
+        "entityFullName": "Americans for Prosperity",
+        "entityCity": "Arlington",
+        "entityState": "VA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kriegel, Henry",
+                "address": "Box 787 Bozeman, MT  59771",
+                "phone": "(406) 581-8306",
+                "email": "hkriegel@afphq.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-122",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

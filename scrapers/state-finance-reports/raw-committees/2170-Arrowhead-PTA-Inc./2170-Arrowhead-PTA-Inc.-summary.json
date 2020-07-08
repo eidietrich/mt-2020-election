@@ -1,0 +1,43 @@
+{
+    "slug": "2170-Arrowhead-PTA-Inc.",
+    "committeeName": "Arrowhead PTA, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2170,
+        "committeeName": "Arrowhead PTA, Inc.",
+        "committeeAddress": "2510 38th St. W., Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1211215359000,
+        "entityFullName": "Arrowhead PTA, Inc.",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Koch, Mandy",
+                "address": "2344 Larchwood Lane Billings, MT  59106",
+                "phone": "",
+                "email": "mandykoch@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

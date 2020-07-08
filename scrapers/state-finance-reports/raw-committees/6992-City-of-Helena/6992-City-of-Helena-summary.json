@@ -1,0 +1,43 @@
+{
+    "slug": "6992-City-of-Helena",
+    "committeeName": "City of Helena",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 6992,
+        "committeeName": "City of Helena",
+        "committeeAddress": "316 N. Park Avenue, Helena, MT 59623",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1529560800000,
+        "entityFullName": "City of Helena",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Glenn, Jorgenson",
+                "address": "316 N. Park Avenue Helena, MT  59623",
+                "phone": "(406) 447-8415",
+                "email": "gjorgenson@helenamt.gov"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Supplemental Funding for the Fire Department for the City of Helena, Montana",
+                "position": "Other",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 39101,
+        "fromDateStr": "11/24/2016",
+        "toDateStr": "12/31/2017",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 1308,
+        "candidateName": "Carbon County Republican Women",
+        "statusDescr": "Amended",
+        "amendedDate": 1593550659000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/24/2016",
+        "end_date": "12/31/2017",
+        "receipts": 529.67,
+        "expenditures": 0.0,
+        "cash_in_bank": 708.15
+    },
+    "contributions": [
+        {
+            "Date Paid": "12/30/17",
+            "Entity Name": "hard copy balance to CER's",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "na",
+            "City": "na",
+            "State": "MT",
+            "Zip": "na",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -529.67,
+            "Amount Type": "CA",
+            "Purpose": "Hard copy balance to Cer's",
+            "Election Type": "Primary",
+            "Total Primary": 529.67,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

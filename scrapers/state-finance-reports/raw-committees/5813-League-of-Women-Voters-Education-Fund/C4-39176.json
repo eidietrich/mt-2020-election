@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 39176,
+        "fromDateStr": "10/24/2016",
+        "toDateStr": "11/28/2016",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 5813,
+        "candidateName": "League of Women Voters Education Fund",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/24/2016",
+        "end_date": "11/28/2016",
+        "receipts": 0.0,
+        "expenditures": 562.0,
+        "cash_in_bank": -2862.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/28/16",
+            "Entity Name": "League of Women Voters Education Fund",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1730 M St. NW, Suite 1000",
+            "City": "Washington DC",
+            "State": "DC",
+            "Zip": "20036",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 562.0,
+            "Purpose": "Informational/Nonpartisan Online Resources for Voters",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

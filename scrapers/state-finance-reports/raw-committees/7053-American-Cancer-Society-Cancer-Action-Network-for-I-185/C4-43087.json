@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 43087,
+        "fromDateStr": "08/28/2018",
+        "toDateStr": "09/26/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7053,
+        "candidateName": "American Cancer Society Cancer Action Network for I-185",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "08/28/2018",
+        "end_date": "09/26/2018",
+        "receipts": 0.0,
+        "expenditures": 23507.3,
+        "cash_in_bank": -188541.29
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "09/26/18",
+            "Entity Name": "Healthy Montana for I-185",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1614",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 6110.99,
+            "Purpose": "In-kind contribution of office supplies, travel, communications, legal. (08.28.18 - 09.26.18) Providing an attachment with more detail.",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/26/18",
+            "Entity Name": "Healthy Montana for I-185",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1614",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 17396.31,
+            "Purpose": "In-kind expenditure for Salaries, Benefits, Taxes (SBT) & Overhead including copies for supporting I-185 (08.28.18-09.26.18)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

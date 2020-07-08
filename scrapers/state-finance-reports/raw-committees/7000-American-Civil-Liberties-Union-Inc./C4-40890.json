@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 40890,
+        "fromDateStr": "04/27/2018",
+        "toDateStr": "05/16/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7000,
+        "candidateName": "American Civil Liberties Union, Inc.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/27/2018",
+        "end_date": "05/16/2018",
+        "receipts": 0.0,
+        "expenditures": 285.53,
+        "cash_in_bank": -101402.8
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "05/16/18",
+            "Entity Name": "Free & Fair Montana No on I-183",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 453 ",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 285.53,
+            "Purpose": "In-kind contribution - 8 hrs, strategic advice, for Liz Welch (employee of American Civil Liberties Union, Inc., 125 Broad Street, NY, NY 10004)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

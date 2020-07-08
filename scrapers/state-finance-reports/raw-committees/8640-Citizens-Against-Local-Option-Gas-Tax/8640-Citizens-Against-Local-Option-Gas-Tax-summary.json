@@ -1,7 +1,7 @@
 {
     "slug": "8640-Citizens-Against-Local-Option-Gas-Tax",
     "committeeName": "Citizens Against Local Option Gas Tax",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 2,
     "data": {
         "committeeId": 8640,
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 2,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 8621.11,
-        "num_expenditures": 2,
-        "expenditures_19_20": 8621.11,
-        "num_expenditures_19_20": 2,
-        "cash_on_hand": 78.89
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Longcake, Brad",
+                "address": "PO Box 306 Helena, MT  59624",
+                "phone": "(406) 438-1276",
+                "email": "longcakeconsulting@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Missoula Local Option Gas tax",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
     }
 }

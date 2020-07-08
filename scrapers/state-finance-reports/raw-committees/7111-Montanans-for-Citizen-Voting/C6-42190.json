@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 42190,
+        "fromDateStr": "05/28/2018",
+        "toDateStr": "06/20/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 7111,
+        "candidateName": "Montanans for Citizen Voting",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/28/2018",
+        "end_date": "06/20/2018",
+        "receipts": 0.0,
+        "expenditures": 4395.72,
+        "cash_in_bank": 0.0
+    },
+    "contributions": [
+        {
+            "Date Paid": "06/24/18",
+            "Entity Name": "Gallus, Chris J",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1423 E. Otter Rd",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59602",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "Attorney",
+            "Employer": "self",
+            "Contribution Type": "Individual Contributions",
+            "Amount": 104.28,
+            "Amount Type": "IK",
+            "Purpose": "$4,500 Listed as Debt owed for legal services, accepted payment of $4,395.72",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 278.56,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "06/11/18",
+            "Entity Name": "Gallus, Chris J",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1423 E. Otter Rd",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59602",
+            "Zip4": "",
+            "Expenditure Type": "Debt and Loan Payment",
+            "Amount": 4395.72,
+            "Purpose": "",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

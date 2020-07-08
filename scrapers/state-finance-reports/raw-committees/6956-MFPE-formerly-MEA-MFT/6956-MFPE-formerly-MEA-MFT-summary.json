@@ -1,0 +1,108 @@
+{
+    "slug": "6956-MFPE-formerly-MEA-MFT",
+    "committeeName": "MFPE formerly MEA-MFT",
+    "scrape_date": "2020-07-02",
+    "periods": 13,
+    "data": {
+        "committeeId": 6956,
+        "committeeName": "MFPE formerly MEA-MFT",
+        "committeeAddress": "1232 E 6th Ave, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1547103600000,
+        "entityFullName": "MFPE formerly MEA-MFT",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Burke, Erik",
+                "address": "1232 E. 6th Ave Helena, MT  59601",
+                "phone": "(406) 442-4250",
+                "email": "eburke@mfpe.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Leesha Ford, House District 21",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Robert Farris-Olsen, House District 81",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support I-185",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support KEY (Kids Education Yes) ",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Elections of pro-public education, pro-public service candidates",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support local school mill levies & bond elections TBD",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Jasmine Krotov, House District 25",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Laura Dever, House District 22",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Montana Tobacco Tax Exploratory Committee",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Tom Jacobsen, Senate District 11",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Mary McNally, Senate District 24",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "State 6 Mill Levy- Legislative Referendum 128",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Helena Fire Levy",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Thomas Winter, House District 96",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

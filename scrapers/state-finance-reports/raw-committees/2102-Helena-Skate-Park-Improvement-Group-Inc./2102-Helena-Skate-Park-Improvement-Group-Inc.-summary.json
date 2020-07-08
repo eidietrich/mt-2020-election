@@ -1,0 +1,43 @@
+{
+    "slug": "2102-Helena-Skate-Park-Improvement-Group-Inc.",
+    "committeeName": "Helena Skate Park Improvement Group, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2102,
+        "committeeName": "Helena Skate Park Improvement Group, Inc.",
+        "committeeAddress": "423 Fifth Ave., Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2007",
+        "amendedDate": 1190054271000,
+        "entityFullName": "Helena Skate Park Improvement Group, Inc.",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "N/A",
+                "address": "1012 Wilder Ave. Helena, MT  59601",
+                "phone": "(406) 443-8831",
+                "email": "loganlito@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Skate Park Expansion & Maintenance",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

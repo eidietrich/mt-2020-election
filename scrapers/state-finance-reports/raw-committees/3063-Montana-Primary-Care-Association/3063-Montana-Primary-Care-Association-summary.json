@@ -1,0 +1,43 @@
+{
+    "slug": "3063-Montana-Primary-Care-Association",
+    "committeeName": "Montana Primary Care Association",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3063,
+        "committeeName": "Montana Primary Care Association",
+        "committeeAddress": "1805 Euclid Ave, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1398405600000,
+        "entityFullName": "Montana Primary Care Association",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Marsalli, Bob",
+                "address": "1805 Euclid Ave Helena, MT  59601",
+                "phone": "(406) 442-2750",
+                "email": "bmarsalli@mtpca.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Riutta, Olivia",
+                "address": "1805 Euclid Ave Helena, MT  59601",
+                "phone": "(406) 442-2750",
+                "email": "oriutta@mtpca.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-170",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2992-Excalibur-Inc.",
+    "committeeName": "Excalibur, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2992,
+        "committeeName": "Excalibur, Inc.",
+        "committeeAddress": "251 Edelweiss Drive Suite 1A, Bozeman, MT 59718",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2013",
+        "amendedDate": 1385415729000,
+        "entityFullName": "Excalibur, Inc.",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Swanson, Jackie",
+                "address": "83 Ricky Drive Bozeman, MT  59718",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Gallatin College Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

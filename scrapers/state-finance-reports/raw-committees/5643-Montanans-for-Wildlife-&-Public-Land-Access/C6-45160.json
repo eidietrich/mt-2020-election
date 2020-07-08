@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 45160,
+        "fromDateStr": "09/06/2017",
+        "toDateStr": "12/31/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 5643,
+        "candidateName": "Montanans for Wildlife & Public Land Access",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/06/2017",
+        "end_date": "12/31/2018",
+        "receipts": 0.0,
+        "expenditures": 4461.91,
+        "cash_in_bank": 0.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "12/28/18",
+            "Entity Name": "Montana Trappers Association",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 129",
+            "City": "Ovando",
+            "State": "MT",
+            "Zip": "59854",
+            "Zip4": "",
+            "Expenditure Type": "Debts and Loans Not Yet Paid",
+            "Amount": 4461.91,
+            "Purpose": "Return Donation",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "12/28/18",
+            "Entity Name": "Montana Trappers Association",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 129",
+            "City": "Ovando",
+            "State": "MT",
+            "Zip": "59854",
+            "Zip4": "",
+            "Expenditure Type": "Debt and Loan Payment",
+            "Amount": 4461.91,
+            "Purpose": "",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

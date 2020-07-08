@@ -1,0 +1,48 @@
+{
+    "slug": "3057-Montana-Police-Protective-Assn-PAC",
+    "committeeName": "Montana Police Protective Assn PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 3057,
+        "committeeName": "Montana Police Protective Assn PAC",
+        "committeeAddress": "P.O. Box 51447, Billings, MT 59105",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1590904800000,
+        "entityFullName": "Montana Police Protective Assn PAC",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Conrad, Scott",
+                "address": "Po Box 1554 Billings, MT  59701",
+                "phone": "(406) 657-8460",
+                "email": "conrads@billingsmt.gov"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Candidates and Issues in 2014 Election cycle.",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Mary McNally - SD 24",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "5647-PacificSource-Health-Plans",
+    "committeeName": "PacificSource Health Plans",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5647,
+        "committeeName": "PacificSource Health Plans",
+        "committeeAddress": "828 Great Northern Boulevard #101, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1502344800000,
+        "entityFullName": "PacificSource Health Plans",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Lovshin, Todd",
+                "address": "828 Great Northern Boulevard Suite 101 Helena, MT  59601",
+                "phone": "(406) 441-3490",
+                "email": "todd.lovshin@pacificsource.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Hensley, Jennifer",
+                "address": "828 Great Northern Boulevard #101 Helena, MT  59601",
+                "phone": "(406) 441-3375",
+                "email": "jen.hensley@pacificsource.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-181",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

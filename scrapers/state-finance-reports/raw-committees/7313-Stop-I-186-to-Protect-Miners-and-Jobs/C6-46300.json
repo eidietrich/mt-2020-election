@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 46300,
+        "fromDateStr": "09/06/2019",
+        "toDateStr": "01/04/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 7313,
+        "candidateName": "Stop I-186 to Protect Miners and Jobs",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/06/2019",
+        "end_date": "01/04/2020",
+        "receipts": 0.0,
+        "expenditures": 115.0,
+        "cash_in_bank": 145154.96
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/11/19",
+            "Entity Name": "Holland & Hart, LLP",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 639",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59013",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 115.0,
+            "Purpose": "Fees for legal advice",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

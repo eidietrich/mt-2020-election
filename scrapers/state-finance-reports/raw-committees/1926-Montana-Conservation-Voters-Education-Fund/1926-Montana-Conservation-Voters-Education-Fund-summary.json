@@ -1,0 +1,37 @@
+{
+    "slug": "1926-Montana-Conservation-Voters-Education-Fund",
+    "committeeName": "Montana Conservation Voters Education Fund",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 1926,
+        "committeeName": "Montana Conservation Voters Education Fund",
+        "committeeAddress": "PO Box 853, Billings, MT 59103",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1159888408000,
+        "entityFullName": "Montana Conservation Voters Education Fund",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hadley, Kathleen",
+                "address": "",
+                "phone": "(406) 693-2342",
+                "email": "hadley@imine.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

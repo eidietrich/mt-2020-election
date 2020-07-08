@@ -1,0 +1,43 @@
+{
+    "slug": "2939-Bay-Materials",
+    "committeeName": "Bay Materials",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2939,
+        "committeeName": "Bay Materials",
+        "committeeAddress": "PO Box 1077 206 Main Street, Shelby, MT 59474",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1370976386000,
+        "entityFullName": "Bay Materials",
+        "entityCity": "Shelby",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Midbur, Brian",
+                "address": "PO Box 1077 206 Main Street Shelby, MT  59474",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Cont to MT Base",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

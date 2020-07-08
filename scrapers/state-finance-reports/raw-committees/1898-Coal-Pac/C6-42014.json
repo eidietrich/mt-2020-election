@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 42014,
+        "fromDateStr": "05/25/2018",
+        "toDateStr": "06/21/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 1898,
+        "candidateName": "Coal Pac",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/25/2018",
+        "end_date": "06/21/2018",
+        "receipts": 0.0,
+        "expenditures": 454.94,
+        "cash_in_bank": 3029.25
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "06/13/18",
+            "Entity Name": "Esp, John L",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Box 1024",
+            "City": "Big Timber",
+            "State": "MT",
+            "Zip": "59011",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 180.0,
+            "Purpose": "Esp for SD 30",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "06/18/18",
+            "Entity Name": "Murdocks",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "3050 N. Montana",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 274.94,
+            "Purpose": "Auction Items",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

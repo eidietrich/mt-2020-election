@@ -1,7 +1,7 @@
 {
     "slug": "8717-BNSF-Railway-Company",
     "committeeName": "BNSF Railway Company",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 2,
     "data": {
         "committeeId": 8717,
@@ -16,15 +16,22 @@
         "entityState": "TX"
     },
     "summary": {
-        "reports": 2,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 5000.0,
-        "num_expenditures": 1,
-        "expenditures_19_20": 5000.0,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": -5000.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Lund, Roberta",
+                "address": "2500 Lou Menk Drive Fort Worth, TX  76131",
+                "phone": "(817) 352-2326",
+                "email": "roberta.lund2@bnsf.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Murphy, Patricia",
+                "address": "500 New Jersey Ave., NW, Suite 550 Washington, DC  20001",
+                "phone": "(202) 661-0445",
+                "email": "Patricia.Murphy@bnsf.com"
+            }
+        ],
+        "issues": []
     }
 }

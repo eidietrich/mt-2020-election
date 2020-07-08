@@ -1,0 +1,37 @@
+{
+    "slug": "440-William-B-Ellis-Republican-Trust",
+    "committeeName": "William B Ellis Republican Trust",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 440,
+        "committeeName": "William B Ellis Republican Trust",
+        "committeeAddress": "5900 Western Drive, Great Falls, MT 59404",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1593496800000,
+        "entityFullName": "William B Ellis Republican Trust",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Briggs, Joseph",
+                "address": "5900 western Drive Great Falls, MT  59404",
+                "phone": "(406) 868-8397",
+                "email": "jbriggs@briggscom.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

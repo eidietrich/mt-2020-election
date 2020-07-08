@@ -1,0 +1,68 @@
+{
+    "slug": "349-Yellowstone-County-Democratic-Central-Cmte.",
+    "committeeName": "Yellowstone County Democratic Central Cmte.",
+    "scrape_date": "2020-07-02",
+    "periods": 26,
+    "data": {
+        "committeeId": 349,
+        "committeeName": "Yellowstone County Democratic Central Cmte.",
+        "committeeAddress": "P O Box 21131, Billings, MT 59104",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1569391200000,
+        "entityFullName": "Yellowstone County Democratic Central Cmte.",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Dowling, Kevin",
+                "address": "P.O. Box 22995 Billings, MT  59104",
+                "phone": "(406) 671-1467",
+                "email": "kpdowling@yahoo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Jennifer Merecki",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jim Ronquillo",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Carmelita Dominguez",
+                "position": "Other",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Kendra Shaw",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Danny Choriki",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Randy Heinz",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

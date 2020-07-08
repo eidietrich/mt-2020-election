@@ -1,0 +1,43 @@
+{
+    "slug": "7049-McKenna-Starin-Law",
+    "committeeName": "McKenna Starin Law",
+    "scrape_date": "2020-07-02",
+    "periods": 12,
+    "data": {
+        "committeeId": 7049,
+        "committeeName": "McKenna Starin Law",
+        "committeeAddress": "PO Box 7009, Missoula, MT 59807",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1539237600000,
+        "entityFullName": "McKenna Starin Law",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McKenna, Sydney",
+                "address": "P.O. Box 7009 Missoula, MT  59807",
+                "phone": "",
+                "email": "syd@mslawmt.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Taylor, Mary",
+                "address": "P.O. Box 838 Helena, MT  59624",
+                "phone": "(406) 443-3124",
+                "email": "mtla@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

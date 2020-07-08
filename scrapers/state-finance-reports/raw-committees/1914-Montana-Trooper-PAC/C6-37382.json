@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 37382,
+        "fromDateStr": "08/05/2016",
+        "toDateStr": "09/30/2016",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 1914,
+        "candidateName": "Montana Trooper PAC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "08/05/2016",
+        "end_date": "09/30/2016",
+        "receipts": 6790.0,
+        "expenditures": 500.0,
+        "cash_in_bank": 58319.37
+    },
+    "contributions": [
+        {
+            "Date Paid": "09/30/16",
+            "Entity Name": "McKamey, Wendy",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 333",
+            "City": "Ulm",
+            "State": "MT",
+            "Zip": "49485",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -100.0,
+            "Amount Type": "CA",
+            "Purpose": "REFUND PAC'd Out",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 100.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "08/25/16",
+            "Entity Name": "Montana Democratic Legislative Campaign",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 802",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 500.0,
+            "Purpose": "Support Democratic Candidates",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

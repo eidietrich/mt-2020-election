@@ -1,0 +1,43 @@
+{
+    "slug": "5021-McLaughlin-Research-Institute-for-Biomedical-Sciences-Inc.",
+    "committeeName": "McLaughlin Research Institute for Biomedical Sciences, Inc.",
+    "scrape_date": "2020-07-02",
+    "periods": 14,
+    "data": {
+        "committeeId": 5021,
+        "committeeName": "McLaughlin Research Institute for Biomedical Sciences, Inc.",
+        "committeeAddress": "1520 23rd St S, Great Falls, MT 59405",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1489042800000,
+        "entityFullName": "McLaughlin Research Institute for Biomedical Sciences, Inc.",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Reiquam, Chris",
+                "address": "2751 Fern Dr Great Falls, MT  59404",
+                "phone": "(406) 788-4713",
+                "email": "reiq@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Zimmerman, Andrew",
+                "address": "215 60th St S Great Falls, MT  59405",
+                "phone": "(406) 727-0979",
+                "email": "azimmerman@mri.montana.edu"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support of Montanans for Research and Cures for initial polling and studies, legal, and consulting for potential biomedical research ballot initiative--filed, not yet approved for signature collection",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

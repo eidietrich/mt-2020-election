@@ -1,0 +1,43 @@
+{
+    "slug": "2278-Goodrich-Law-Firm-P.C.",
+    "committeeName": "Goodrich Law Firm P.C.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2278,
+        "committeeName": "Goodrich Law Firm P.C.",
+        "committeeAddress": "2619 St. Johns Ave. Ste. F, Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1222364082000,
+        "entityFullName": "Goodrich Law Firm P.C.",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Goodrich, Malcolm",
+                "address": "2813 Lewis Ave Billings, MT  59102",
+                "phone": "(406) 656-6156",
+                "email": "mgoodrich@goodrichlaw.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

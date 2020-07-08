@@ -1,0 +1,43 @@
+{
+    "slug": "3822-Hoyt-&-Blewett-PLLC",
+    "committeeName": "Hoyt & Blewett PLLC",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3822,
+        "committeeName": "Hoyt & Blewett PLLC",
+        "committeeAddress": "PO Box 2807, Great Falls, MT 59403",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2014",
+        "amendedDate": 1417158000000,
+        "entityFullName": "Hoyt & Blewett PLLC",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Blewett, Alexander",
+                "address": "PO Box 2807  Great Falls, MT  59403",
+                "phone": "(406) 452-9284",
+                "email": "zblewett@hoytandblewett.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Justice Mike Wheat",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

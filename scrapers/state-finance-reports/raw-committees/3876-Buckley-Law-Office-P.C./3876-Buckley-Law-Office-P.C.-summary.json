@@ -1,0 +1,43 @@
+{
+    "slug": "3876-Buckley-Law-Office-P.C.",
+    "committeeName": "Buckley Law Office, P.C.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3876,
+        "committeeName": "Buckley Law Office, P.C.",
+        "committeeAddress": "125 West Mendenhall, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1418886000000,
+        "entityFullName": "Buckley Law Office, P.C.",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Buckley, Daniel",
+                "address": "125 West Mendenhall Bozeman, MT  59715",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Justice Mike Wheat",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

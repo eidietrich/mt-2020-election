@@ -1,7 +1,7 @@
 {
     "slug": "8148-Central-Valley-Firefighters-IAFF-Local-4939",
     "committeeName": "Central Valley Firefighters IAFF Local 4939",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 4,
     "data": {
         "committeeId": 8148,
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 4,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 3000.0,
-        "num_expenditures": 2,
-        "expenditures_19_20": 3000.0,
-        "num_expenditures_19_20": 2,
-        "cash_on_hand": 0.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Davis, Mitch R",
+                "address": "215 Wings Way Belgrade, MT  59714",
+                "phone": "(406) 577-6768",
+                "email": "iafflocal4939@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "City of Belgrade annexation into Central Valley Fire District",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
     }
 }

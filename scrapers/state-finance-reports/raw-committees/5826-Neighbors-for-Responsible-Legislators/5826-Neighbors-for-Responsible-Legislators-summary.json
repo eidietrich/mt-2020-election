@@ -1,0 +1,48 @@
+{
+    "slug": "5826-Neighbors-for-Responsible-Legislators",
+    "committeeName": "Neighbors for Responsible Legislators",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 5826,
+        "committeeName": "Neighbors for Responsible Legislators",
+        "committeeAddress": "1131 N. 32nd St. , Billings, MT 59101",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1482994800000,
+        "entityFullName": "Neighbors for Responsible Legislators",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Jarussi, Karen C",
+                "address": "1131 N. 32nd St. Billings, MT  59101",
+                "phone": "(406) 245-0160",
+                "email": "kcjarussi@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Robert Saunders -HD 48",
+                "position": "Oppose",
+                "status": "On ballot, approved"
+            },
+            {
+                "interest": "Jessica Karjala",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

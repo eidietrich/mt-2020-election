@@ -1,0 +1,48 @@
+{
+    "slug": "5835-StopSetEmFreeSandefur.com-Committee",
+    "committeeName": "StopSetEmFreeSandefur.com Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 6,
+    "data": {
+        "committeeId": 5835,
+        "committeeName": "StopSetEmFreeSandefur.com Committee",
+        "committeeAddress": "PO Box 81515, Billings, MT 59108",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1502776800000,
+        "entityFullName": "StopSetEmFreeSandefur.com Committee",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Eaton, Jake",
+                "address": "PO Box 81274 Billings, MT  59108",
+                "phone": "(406) 233-9121",
+                "email": "eaton.jacob@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Smith, Wendy",
+                "address": "PO Box 81274 Billings, MT  59108",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Kristen Juras - Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dirk Sandefur- Supreme Court",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

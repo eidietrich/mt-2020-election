@@ -1,0 +1,37 @@
+{
+    "slug": "8141-Greater-Polson-Community-Foundation",
+    "committeeName": "Greater Polson Community Foundation",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 8141,
+        "committeeName": "Greater Polson Community Foundation",
+        "committeeAddress": "PO Box 314, Polson, MT 59860",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2019",
+        "amendedDate": 1576134000000,
+        "entityFullName": "Greater Polson Community Foundation",
+        "entityCity": "Polson",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kuberka, Kathy",
+                "address": "PO Box 314 Polson, MT  59860",
+                "phone": "",
+                "email": "gpcf4723@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

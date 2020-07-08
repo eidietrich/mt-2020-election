@@ -1,0 +1,37 @@
+{
+    "slug": "2044-Dakri-Inc.-dba-Winners-Circle-Sports-Bar",
+    "committeeName": "Dakri, Inc. dba Winners Circle Sports Bar",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2044,
+        "committeeName": "Dakri, Inc. dba Winners Circle Sports Bar",
+        "committeeAddress": "2501 Grand Avenue, Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1174429737000,
+        "entityFullName": "Dakri, Inc. dba Winners Circle Sports Bar",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Horgan, Daniel A.",
+                "address": "3103 Morledge Billings, MT  59102",
+                "phone": "(406) 896-1690",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

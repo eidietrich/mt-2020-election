@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 40413,
+        "fromDateStr": "01/01/2018",
+        "toDateStr": "05/01/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 280,
+        "candidateName": "Lake County Republican Central Cmte.",
+        "statusDescr": "Amended",
+        "amendedDate": 1593577886000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/01/2018",
+        "end_date": "05/01/2018",
+        "receipts": 0.0,
+        "expenditures": 187.0,
+        "cash_in_bank": 5216.7
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "01/26/18",
+            "Entity Name": "Central ChemDry",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "35489 Dublin Gulch Rd",
+            "City": "St Ignatius",
+            "State": "MT",
+            "Zip": "59865",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 68.0,
+            "Purpose": "Reimbursement for pay 6 months of POBox rental and re key charge (Box was Closed)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "01/01/18",
+            "Entity Name": "Dawson, Faith ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 954",
+            "City": "Polson",
+            "State": "MT",
+            "Zip": "59860",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 119.0,
+            "Purpose": "Ticket Reimbursement GOP Winter Kick Off  Helen, MT",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

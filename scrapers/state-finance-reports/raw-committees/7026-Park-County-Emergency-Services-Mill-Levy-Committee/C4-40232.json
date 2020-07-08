@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 40232,
+        "fromDateStr": "03/03/2018",
+        "toDateStr": "05/01/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7026,
+        "candidateName": "Park County Emergency Services Mill Levy Committee",
+        "statusDescr": "Amended",
+        "amendedDate": 1527216321000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/03/2018",
+        "end_date": "05/01/2018",
+        "receipts": 0.0,
+        "expenditures": 4972.5,
+        "cash_in_bank": -7530.36
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "03/16/18",
+            "Entity Name": "Poco Technologies",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 11848",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59719",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 522.5,
+            "Purpose": "Website development for mill levy information",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "03/08/18",
+            "Entity Name": "Reel Action Media, LLC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1944",
+            "City": "Livingston",
+            "State": "MT",
+            "Zip": "59047",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 4450.0,
+            "Purpose": "Video Production for Emergency Services provided in Park County-linked to Parkcounty.org from posting on Youtube.com paid 1/2 the cost",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

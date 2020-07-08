@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 41004,
+        "fromDateStr": "04/27/2018",
+        "toDateStr": "05/19/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 3460,
+        "candidateName": "Montanans for Liberty and Justice",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/27/2018",
+        "end_date": "05/19/2018",
+        "receipts": 0.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 602.49
+    },
+    "contributions": [
+        {
+            "Date Paid": "05/19/18",
+            "Entity Name": "Montana Trial Lawyers Association",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 838",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Incidental Committee Contributions",
+            "Amount": 20.18,
+            "Amount Type": "IK",
+            "Purpose": "In kind donation of general office services of Mary Taylor:  .5 hours @ $40.36 /hr",
+            "Election Type": "Primary",
+            "Total Primary": 90.81,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

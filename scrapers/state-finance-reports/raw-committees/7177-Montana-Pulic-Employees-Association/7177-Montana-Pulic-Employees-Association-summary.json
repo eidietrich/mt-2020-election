@@ -1,0 +1,37 @@
+{
+    "slug": "7177-Montana-Pulic-Employees-Association",
+    "committeeName": "Montana Pulic Employees Association",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 7177,
+        "committeeName": "Montana Pulic Employees Association",
+        "committeeAddress": "P.O. Box 5600, Helena, MT 59604",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1570082400000,
+        "entityFullName": "Montana Pulic Employees Association",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Nyman, Quinton",
+                "address": "P.O. Box 5600 Helena, MT  59604",
+                "phone": "(406) 461-1952",
+                "email": "lorri@mtaflcio.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

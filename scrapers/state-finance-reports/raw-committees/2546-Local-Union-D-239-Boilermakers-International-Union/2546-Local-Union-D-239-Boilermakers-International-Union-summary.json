@@ -1,0 +1,37 @@
+{
+    "slug": "2546-Local-Union-D-239-Boilermakers-International-Union",
+    "committeeName": "Local Union D-239 Boilermakers International Union",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2546,
+        "committeeName": "Local Union D-239 Boilermakers International Union",
+        "committeeAddress": "PO Box 1028, Three Forks, MT 59752",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1282681203000,
+        "entityFullName": "Local Union D-239 Boilermakers International Union",
+        "entityCity": "Three Forks",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Townsend, Gene",
+                "address": "PO Box 143 Bozeman, MT  59771",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

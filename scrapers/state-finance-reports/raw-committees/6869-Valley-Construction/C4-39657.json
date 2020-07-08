@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 39657,
+        "fromDateStr": "03/13/2017",
+        "toDateStr": "04/01/2017",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 6869,
+        "candidateName": "Valley Construction",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/13/2017",
+        "end_date": "04/01/2017",
+        "receipts": 0.0,
+        "expenditures": 1000.0,
+        "cash_in_bank": -1000.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "03/13/17",
+            "Entity Name": "Yes for Helena's Future",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1932",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 1000.0,
+            "Purpose": "Support yes for Helena's Future",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

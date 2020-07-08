@@ -1,0 +1,43 @@
+{
+    "slug": "6962-Yes-for-fire-safety",
+    "committeeName": "Yes for fire safety",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 6962,
+        "committeeName": "Yes for fire safety",
+        "committeeAddress": "PO Box 463, Helena , MT 59624",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1536127200000,
+        "entityFullName": "Yes for fire safety",
+        "entityCity": "Helena ",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Koeppen , Owen ",
+                "address": "8337 Whisperwood Trl  Helena , MT  59602",
+                "phone": "(406) 465-8108",
+                "email": "okoeppen@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Fire Mill Levy",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

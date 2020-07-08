@@ -1,0 +1,43 @@
+{
+    "slug": "7081-Friends-of-Lolo-School",
+    "committeeName": "Friends of Lolo School",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 7081,
+        "committeeName": "Friends of Lolo School",
+        "committeeAddress": "P.O. Box 982, Lolo, MT 59847",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1524981600000,
+        "entityFullName": "Friends of Lolo School",
+        "entityCity": "Lolo",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Barbara , Brown",
+                "address": "5135 Cattle Drive Missoula, MT  59808",
+                "phone": "(406) 251-6045",
+                "email": "blb1267@msn.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "support committee for the Lolo School District #7 mill levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 42871,
+        "fromDateStr": "04/01/2018",
+        "toDateStr": "06/30/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7529,
+        "candidateName": "Montana State University Northern Alumni Foundation",
+        "statusDescr": "Amended",
+        "amendedDate": 1535660105000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/01/2018",
+        "end_date": "06/30/2018",
+        "receipts": 0.0,
+        "expenditures": 100.0,
+        "cash_in_bank": -1100.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "05/23/18",
+            "Entity Name": "Montana State University Northern Alumni Foundation",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1691",
+            "City": "Havre",
+            "State": "MT",
+            "Zip": "59501",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 100.0,
+            "Purpose": "In kind contribution of Jim Bennett spending 3 hours writing letters to the editors of newspapers in support of the 6 mill levy",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

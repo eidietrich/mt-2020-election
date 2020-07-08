@@ -1,0 +1,43 @@
+{
+    "slug": "5207-SEIU-775-Montana-PAC",
+    "committeeName": "SEIU 775 Montana PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 31,
+    "data": {
+        "committeeId": 5207,
+        "committeeName": "SEIU 775 Montana PAC",
+        "committeeAddress": "PO Box 172, Helena, MT 59624",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1525327200000,
+        "entityFullName": "SEIU 775 Montana PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Helt, Jacquie",
+                "address": "PO Box 172 Helena, MT  59624",
+                "phone": "",
+                "email": "jacquie.helt@seiu775.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Statewide and State District candidates",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

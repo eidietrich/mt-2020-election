@@ -1,0 +1,43 @@
+{
+    "slug": "7149-Providence-St.-Patrick-Hospital-Incidental-Committee",
+    "committeeName": "Providence St. Patrick Hospital Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 7149,
+        "committeeName": "Providence St. Patrick Hospital Incidental Committee",
+        "committeeAddress": "500 W Broadway St, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1542610800000,
+        "entityFullName": "Providence St. Patrick Hospital Incidental Committee",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Federici, Kristen",
+                "address": "500 W Broadway St Missoula, MT  59802",
+                "phone": "",
+                "email": "kristen.federici@providence.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-185",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

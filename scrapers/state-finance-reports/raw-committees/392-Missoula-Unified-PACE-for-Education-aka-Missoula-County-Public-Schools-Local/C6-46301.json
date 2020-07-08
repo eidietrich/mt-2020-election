@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 46301,
+        "fromDateStr": "11/27/2018",
+        "toDateStr": "01/06/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 392,
+        "candidateName": "Missoula Unified PACE for Education aka Missoula County Public Schools Local",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/27/2018",
+        "end_date": "01/06/2020",
+        "receipts": 1650.5,
+        "expenditures": 0.0,
+        "cash_in_bank": 7639.44
+    },
+    "contributions": [
+        {
+            "Date Paid": "01/06/20",
+            "Entity Name": "Missoula Unified PACE for Education aka Missoula County Public Schools Local",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "427 E Beckwith Ave.",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Independent Committee Contributions",
+            "Amount": 1650.5,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "Primary",
+            "Total Primary": 1650.5,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

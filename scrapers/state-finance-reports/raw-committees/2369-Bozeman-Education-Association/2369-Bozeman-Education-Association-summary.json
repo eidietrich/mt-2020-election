@@ -1,0 +1,48 @@
+{
+    "slug": "2369-Bozeman-Education-Association",
+    "committeeName": "Bozeman Education Association",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2369,
+        "committeeName": "Bozeman Education Association",
+        "committeeAddress": "411 W. Alderson, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2009",
+        "amendedDate": 1242927198000,
+        "entityFullName": "Bozeman Education Association",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Johnson, Krista",
+                "address": "411 W. Alderson Bozeman, MT  59715",
+                "phone": "(406) 586-9565",
+                "email": "krista.johnson@bsd7.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Elementary General Fund Levy",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Elementary Building Reserve Transition levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

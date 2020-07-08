@@ -1,0 +1,43 @@
+{
+    "slug": "3021-Montana-Equality-Project",
+    "committeeName": "Montana Equality Project",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 3021,
+        "committeeName": "Montana Equality Project",
+        "committeeAddress": "1820 N Last Chance Gulch, Helena, MT 59601",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2014",
+        "amendedDate": 1393225200000,
+        "entityFullName": "Montana Equality Project",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Demars, Shelby",
+                "address": "1820 N Last Chance Gulch Helena, MT  59601",
+                "phone": "",
+                "email": "shelby@westernadvocacy.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Late Voter Registration SB 305",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

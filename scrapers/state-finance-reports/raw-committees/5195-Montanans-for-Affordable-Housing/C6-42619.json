@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 42619,
+        "fromDateStr": "06/26/2018",
+        "toDateStr": "07/20/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 5195,
+        "candidateName": "Montanans for Affordable Housing",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/26/2018",
+        "end_date": "07/20/2018",
+        "receipts": 1.34,
+        "expenditures": 11760.79,
+        "cash_in_bank": 5249.73
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "07/02/18",
+            "Entity Name": "HBA of Great Falls",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "327 2nd Street S",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59404",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 233.83,
+            "Purpose": "Reimburse for Wine for Fundraiser",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "07/02/18",
+            "Entity Name": "Home Builders Assn. Of Billings",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 586.96,
+            "Purpose": "Reimburse for Fundraising Event Alcohol ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

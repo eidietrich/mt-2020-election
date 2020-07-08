@@ -1,0 +1,43 @@
+{
+    "slug": "2908-Citizens-for-Quality-Education",
+    "committeeName": "Citizens for Quality Education",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2908,
+        "committeeName": "Citizens for Quality Education",
+        "committeeAddress": "401 S. Taylor, Glendive, MT 59330",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2013",
+        "amendedDate": 1366142355000,
+        "entityFullName": "Citizens for Quality Education",
+        "entityCity": "Glendive",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Atwell, Patricia J.",
+                "address": "401 S. Taylor Glendive, MT  59330",
+                "phone": "(406) 365-7071",
+                "email": "rsvp@midrivers.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Glendive School Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

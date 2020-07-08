@@ -1,0 +1,48 @@
+{
+    "slug": "2629-Let-Whitefish-Vote",
+    "committeeName": "Let Whitefish Vote",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2629,
+        "committeeName": "Let Whitefish Vote",
+        "committeeAddress": "545 Ramsey Ave., Whitefish, MT 59937",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2011",
+        "amendedDate": 1300480109000,
+        "entityFullName": "Let Whitefish Vote",
+        "entityCity": "Whitefish",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Moll, Sue",
+                "address": "15 Marina Crest Whitefish, MT  59937",
+                "phone": "(406) 862-6635",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Inform voters about the Whitefish Referendum No. 1",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Encorage a vote for the repeal of Res 10-46",
+                "position": "Other",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

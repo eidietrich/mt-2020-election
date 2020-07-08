@@ -1,0 +1,43 @@
+{
+    "slug": "5458-First-Interstate-Bank",
+    "committeeName": "First Interstate Bank",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5458,
+        "committeeName": "First Interstate Bank",
+        "committeeAddress": "PO Box 30918, Billings, MT 59116",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1463637600000,
+        "entityFullName": "First Interstate Bank",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Cook, Keith D",
+                "address": "PO Box 30918 Billings, MT  59116",
+                "phone": "(406) 534-3358",
+                "email": "keith.cook@fib.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School Dist 2 Mill Levy and Yellowstone Elder Services",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

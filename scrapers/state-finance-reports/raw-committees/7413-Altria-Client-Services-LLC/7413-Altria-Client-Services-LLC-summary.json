@@ -1,0 +1,43 @@
+{
+    "slug": "7413-Altria-Client-Services-LLC",
+    "committeeName": "Altria Client Services LLC",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 7413,
+        "committeeName": "Altria Client Services LLC",
+        "committeeAddress": "101 Constitution Avenue, N.W., Suite 400W, Washington, DC 20001",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1561010400000,
+        "entityFullName": "Altria Client Services LLC",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Klump, Amanda",
+                "address": "101 Constitution Avenue, N.W., Suite 400W Washington, DC  20001",
+                "phone": "(202) 354-1500",
+                "email": "AltriaMontana@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-185",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

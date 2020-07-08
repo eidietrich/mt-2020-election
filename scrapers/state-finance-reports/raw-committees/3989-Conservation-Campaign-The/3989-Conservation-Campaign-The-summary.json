@@ -1,0 +1,43 @@
+{
+    "slug": "3989-Conservation-Campaign-The",
+    "committeeName": "Conservation Campaign, The",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 3989,
+        "committeeName": "Conservation Campaign, The",
+        "committeeAddress": "10 Milk Street Suite 810, Boston, MA 02108",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2015",
+        "amendedDate": 1429509600000,
+        "entityFullName": "Conservation Campaign, The",
+        "entityCity": "Boston",
+        "entityState": "MA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Chiu, Peggy",
+                "address": "1410 Grant Street Suite D210 Denver, CO  80203",
+                "phone": "(406) 303-8672",
+                "email": "peggy.chiu@tpl.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "City of Whitefish Resort Tax ",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

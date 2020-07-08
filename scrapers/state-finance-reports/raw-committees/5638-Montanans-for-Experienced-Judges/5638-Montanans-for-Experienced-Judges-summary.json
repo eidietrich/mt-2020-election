@@ -1,0 +1,48 @@
+{
+    "slug": "5638-Montanans-for-Experienced-Judges",
+    "committeeName": "Montanans for Experienced Judges",
+    "scrape_date": "2020-07-02",
+    "periods": 8,
+    "data": {
+        "committeeId": 5638,
+        "committeeName": "Montanans for Experienced Judges",
+        "committeeAddress": "1631 Zimmerman Trail, Billings, MT 59102",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1517295600000,
+        "entityFullName": "Montanans for Experienced Judges",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "John, Heenan",
+                "address": "1631 Zimmerman Trail Billings, MT  59102",
+                "phone": "(406) 839-9091",
+                "email": "john@bishopandheenan.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Mary, Taylor",
+                "address": "32 S. Ewing St., #306 Helena, MT  59601",
+                "phone": "(406) 443-3124",
+                "email": "mtla@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Elect Experienced Judges",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Dirk Sandefur - Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

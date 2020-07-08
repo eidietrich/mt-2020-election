@@ -1,0 +1,43 @@
+{
+    "slug": "3491-Missoula-Softball-Association",
+    "committeeName": "Missoula Softball Association",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3491,
+        "committeeName": "Missoula Softball Association",
+        "committeeAddress": "PO Box 4041, Missoula, MT 59806",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1416207600000,
+        "entityFullName": "Missoula Softball Association",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hurley, Jennifer",
+                "address": "PO Box 3836 Missoula, MT  59806",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Citizens for Parks and Trails",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

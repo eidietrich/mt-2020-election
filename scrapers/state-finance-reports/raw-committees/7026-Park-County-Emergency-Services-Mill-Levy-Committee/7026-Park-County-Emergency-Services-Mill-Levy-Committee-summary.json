@@ -1,0 +1,43 @@
+{
+    "slug": "7026-Park-County-Emergency-Services-Mill-Levy-Committee",
+    "committeeName": "Park County Emergency Services Mill Levy Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 7026,
+        "committeeName": "Park County Emergency Services Mill Levy Committee",
+        "committeeAddress": "414 E. Callender St., Livingston, MT 59047",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1527141600000,
+        "entityFullName": "Park County Emergency Services Mill Levy Committee",
+        "entityCity": "Livingston",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Strickland, Erica W",
+                "address": "414 E. Callender St. Livingston, MT  59047",
+                "phone": "(406) 222-4135",
+                "email": "estrickland@parkcounty.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Provide public awareness and public education regarding ballot issue",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

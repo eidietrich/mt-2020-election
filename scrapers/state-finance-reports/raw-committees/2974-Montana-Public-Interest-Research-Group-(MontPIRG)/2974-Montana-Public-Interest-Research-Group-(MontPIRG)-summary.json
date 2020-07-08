@@ -1,0 +1,37 @@
+{
+    "slug": "2974-Montana-Public-Interest-Research-Group-(MontPIRG)",
+    "committeeName": "Montana Public Interest Research Group (MontPIRG)",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2974,
+        "committeeName": "Montana Public Interest Research Group (MontPIRG)",
+        "committeeAddress": "348 Corbin Hall, Missoula, MT 59812",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2013",
+        "amendedDate": 1383251191000,
+        "entityFullName": "Montana Public Interest Research Group (MontPIRG)",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bruner, Emily",
+                "address": "348 Corbin Hall Missoula, MT  59812",
+                "phone": "",
+                "email": "info@mtpirg.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Bennett, Bryce I",
+                "address": "348 Corbin Hall Missoula, MT  59812",
+                "phone": "",
+                "email": "bryce@mtpirg.org"
+            }
+        ],
+        "issues": []
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 47248,
+        "fromDateStr": "11/27/2018",
+        "toDateStr": "12/31/2019",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 331,
+        "candidateName": "Butte Silver Bow County Republican Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/27/2018",
+        "end_date": "12/31/2019",
+        "receipts": 0.0,
+        "expenditures": 107.0,
+        "cash_in_bank": 2104.42
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "04/11/19",
+            "Entity Name": "BUTTE WEEKLY",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO BOX 4898 Butte",
+            "City": "BUTTE",
+            "State": "MT",
+            "Zip": "59702",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 15.0,
+            "Purpose": "Legal notice for election of officers meeting.",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "1",
+            "Expenditure Paid Communications Subject Matter": "Legal notice for election of officers meeting."
+        },
+        {
+            "Date Paid": "03/29/19",
+            "Entity Name": "Postmaster",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "59702",
+            "City": "Butte",
+            "State": "MT",
+            "Zip": "59702",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 92.0,
+            "Purpose": "Annual PO Box Fee ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "255-Flathead-County-Republican-Women",
+    "committeeName": "Flathead County Republican Women",
+    "scrape_date": "2020-07-02",
+    "periods": 22,
+    "data": {
+        "committeeId": 255,
+        "committeeName": "Flathead County Republican Women",
+        "committeeAddress": "PO Box 3145, Kalispell, MT 59901",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1585548000000,
+        "entityFullName": "Flathead County Republican Women",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Blum, Barbara O",
+                "address": "PO Box 393 Laeside, MT  59922",
+                "phone": "(406) 209-0230",
+                "email": "boblum@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Roedel, Heidi",
+                "address": "PO Box 9726 Kalispell, MT  59904",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To introduce and educate women to the Republican philosphy and to support Republican national, state and local Candidates.",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

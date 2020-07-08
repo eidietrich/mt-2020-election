@@ -1,0 +1,393 @@
+{
+    "slug": "360-Montana-Beer-&-Wine-Distributors-PAC",
+    "committeeName": "Montana Beer & Wine Distributors PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 29,
+    "data": {
+        "committeeId": 360,
+        "committeeName": "Montana Beer & Wine Distributors PAC",
+        "committeeAddress": "P.O. Box 124, Helena, MT 59624",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1588831200000,
+        "entityFullName": "Montana Beer & Wine Distributors PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McGuire, Sherri",
+                "address": "P.O. Box 124 Helena, MT  59624",
+                "phone": "(406) 431-5385",
+                "email": "smcguire@mbwda.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Vince Ricci for HD 55",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "David Fern for HD 5",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Derek Skees - HD11",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kim Abbott for HD 83",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Susanne Vinton - HD56",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Randall Chamberlin for HD64",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Seth Berglee for HD58",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "David Moore for HD 99",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Montana United",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Willis Curdy for HD 98",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Barbara Bassette for HD 24",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Rebecca Beard for HD80",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Barry Usher for HD40",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Keith Regier for SD 3",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bob Brown for SD 7",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Donavon Hawk for HD76",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Marty Malone for HD59",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "MDLCC",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Frank Smith for HD31",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "MRLCC",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kenneth Walsh for HD71",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Edith McClafferty for SD 38",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Emma Kerr-Carpenter",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "John Fuller for HD8",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kelsey Cooley for HD 94",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Katie Zolnikov for HD45",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Issues related to Beet & Wine Regulation",
+                "position": "Monitor",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Neil Duram",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "James Patelis for HD52",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Gordon Pierson for SD39",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Katharin Kelker for HD47",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Amy Regier for HD6",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Cindy Younkin for HD71",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Greg Gianforte for Governor",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Linda Reksten for HD12",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Katie Sullivan for HD 89",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Austin Knudsen for Attorney General",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Derek Harvey for HD 74",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Terrill Moore for HD54",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Wendy McKamey for HD19",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Austin Knudsen for Attorney General",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Laurie Bishop for HD 60",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Sara Novak for HD77",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Gary Perry for SD 35",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Rhonda Knudsen for HD34",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Sharon Stewart-Peregoy HD 42",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mary Caferro HD 81",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Alice Buckley for HD63",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Greg Hertz for Senate District 6",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jim Keane \u2013 HD 73",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Carl Glimm for SD 2",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steve Gunderson for HD 1",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "David Dunn for HD9",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jade Bahr for HD 50",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jen Gross for SD 25",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steven Fitzpatrick - SD10",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mark Noland for HD10",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Josh Kassmier",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Matt Regier for HD4",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Andrea Olsen for HD100",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ryan Lynch for SD37",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Brandon Ler for HD35",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mike Lang for SD 17",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steven Hinebauch for SD 18",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Brad Hamlett for HD 23",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bradley Tschida for HD 97",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Moffie Funk for HD 82",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dan Bartel for HD 29",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dan Salomon for SD 47",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Wylie Galt for HD 30",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Denley Loge for HD 14",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

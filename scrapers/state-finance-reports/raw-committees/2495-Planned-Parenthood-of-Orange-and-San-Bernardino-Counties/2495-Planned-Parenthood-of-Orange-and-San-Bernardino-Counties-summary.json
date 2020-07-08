@@ -1,0 +1,43 @@
+{
+    "slug": "2495-Planned-Parenthood-of-Orange-and-San-Bernardino-Counties",
+    "committeeName": "Planned Parenthood of Orange and San Bernardino Counties",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2495,
+        "committeeName": "Planned Parenthood of Orange and San Bernardino Counties",
+        "committeeAddress": "700 S Tustin Street, Orange, CA 92866",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1275940608000,
+        "entityFullName": "Planned Parenthood of Orange and San Bernardino Counties",
+        "entityCity": "Orange",
+        "entityState": "CA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Balfour, Tara",
+                "address": "700 S Tustin Orange, MT  92866",
+                "phone": "",
+                "email": "tarabalfour@sbcglobal.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI-102 Constitutionaly define a person",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

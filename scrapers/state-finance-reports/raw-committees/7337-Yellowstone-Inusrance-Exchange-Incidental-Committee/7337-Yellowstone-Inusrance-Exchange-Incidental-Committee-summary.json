@@ -1,0 +1,43 @@
+{
+    "slug": "7337-Yellowstone-Inusrance-Exchange-Incidental-Committee",
+    "committeeName": "Yellowstone Inusrance Exchange Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7337,
+        "committeeName": "Yellowstone Inusrance Exchange Incidental Committee",
+        "committeeAddress": "4301 Hillsboro Pike, Suite 310, Nashville, TN 37215",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1527055200000,
+        "entityFullName": "Yellowstone Inusrance Exchange Incidental Committee",
+        "entityCity": "Nashville",
+        "entityState": "TN"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Luther, Jessie",
+                "address": "1 S. Montana Ave., Ste. M-2 Helena, MT  59601",
+                "phone": "",
+                "email": "jessie@taylorluthergroup.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "contributed item to MHA PAC for fundraiser",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

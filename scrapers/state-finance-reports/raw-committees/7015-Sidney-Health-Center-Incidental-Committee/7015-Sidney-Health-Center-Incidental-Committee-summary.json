@@ -1,0 +1,43 @@
+{
+    "slug": "7015-Sidney-Health-Center-Incidental-Committee",
+    "committeeName": "Sidney Health Center Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7015,
+        "committeeName": "Sidney Health Center Incidental Committee",
+        "committeeAddress": "216 14th Ave SW, Sidney, MT 59270",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1522821600000,
+        "entityFullName": "Sidney Health Center Incidental Committee",
+        "entityCity": "Sidney",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Montgomery, Tina",
+                "address": "216 14th Ave SW Sidney, MT  59270",
+                "phone": "(406) 488-2117",
+                "email": "tinam@sidneyhealth.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Contribution made to support ballot initiative to increase tobacco taxes to support health care programs",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "241-Custer-County-Republican-Women",
+    "committeeName": "Custer County Republican Women",
+    "scrape_date": "2020-07-02",
+    "periods": 13,
+    "data": {
+        "committeeId": 241,
+        "committeeName": "Custer County Republican Women",
+        "committeeAddress": "PO Box 1554, Miles City, MT 59301",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1558072800000,
+        "entityFullName": "Custer County Republican Women",
+        "entityCity": "Miles City",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Deesten, Janice",
+                "address": "2220 Pearl St Miles City, MT  59301",
+                "phone": "(406) 234-1617",
+                "email": "jdeesten@midrivers.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Promote political education & activity, promote the principles of freedom, equality and justice. Foster loyalty to the party and increase the effectiveness of women in government. ",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

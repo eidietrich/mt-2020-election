@@ -1,0 +1,43 @@
+{
+    "slug": "8957-Committee-to-Recall-the-Mayor",
+    "committeeName": "Committee to Recall the Mayor",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 8957,
+        "committeeName": "Committee to Recall the Mayor",
+        "committeeAddress": "509 Mission Street, Stevensville, MT 59870",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "Y",
+        "electionYear": "2000",
+        "amendedDate": 1592373600000,
+        "entityFullName": "Committee to Recall the Mayor",
+        "entityCity": "Stevensville",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Tadvick, Leslie A",
+                "address": "509 Mission Street Stevensville, MT  59870",
+                "phone": "(406) 375-5312",
+                "email": "thetads@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Recall Mayor Brandon Dewey",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

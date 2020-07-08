@@ -1,0 +1,43 @@
+{
+    "slug": "5297-First-Interstate-Bank",
+    "committeeName": "First Interstate Bank",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5297,
+        "committeeName": "First Interstate Bank",
+        "committeeAddress": " PO BOX 7113 , Billings, MT 59103",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1462255200000,
+        "entityFullName": "First Interstate Bank",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Grimm, Staci",
+                "address": " PO BOX 7113  Billings, MT  59103",
+                "phone": "",
+                "email": "staci.grimm@fib.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-181",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

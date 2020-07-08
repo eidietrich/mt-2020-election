@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 47034,
+        "fromDateStr": "11/22/2018",
+        "toDateStr": "12/31/2019",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 1591,
+        "candidateName": "Lake County Republican Womens Club",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/22/2018",
+        "end_date": "12/31/2019",
+        "receipts": 1134.5,
+        "expenditures": 955.0,
+        "cash_in_bank": 2093.84
+    },
+    "contributions": [
+        {
+            "Date Paid": "12/31/19",
+            "Entity Name": "Glacier Bank",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "50510 US Hwy 93",
+            "City": "Polson",
+            "State": "MT",
+            "Zip": "59860",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -1134.5,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "Primary",
+            "Total Primary": 1134.5,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "To get CERS to the correct balance",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "12/31/19",
+            "Entity Name": "Glacier Bank",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "50510 US Hwy 93",
+            "City": "Polson",
+            "State": "MT",
+            "Zip": "59860",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 955.0,
+            "Purpose": "TO get CERS totals correct",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

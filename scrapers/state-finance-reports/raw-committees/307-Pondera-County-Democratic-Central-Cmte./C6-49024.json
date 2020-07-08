@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 49024,
+        "fromDateStr": "04/26/2020",
+        "toDateStr": "05/24/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 307,
+        "candidateName": "Pondera County Democratic Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/26/2020",
+        "end_date": "05/24/2020",
+        "receipts": 0.0,
+        "expenditures": 42.0,
+        "cash_in_bank": 2571.52
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "05/24/20",
+            "Entity Name": "Independent Observer Newspaper",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P. O. Box 966",
+            "City": "Conrad",
+            "State": "MT",
+            "Zip": "59425",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 42.0,
+            "Purpose": "Newspaper ad",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "May 13th",
+            "Expenditure Paid Communications Subject Matter": "Pondera County conventionAd"
+        }
+    ]
+}

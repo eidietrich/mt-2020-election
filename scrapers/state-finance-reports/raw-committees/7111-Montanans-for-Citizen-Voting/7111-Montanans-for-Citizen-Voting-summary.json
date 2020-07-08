@@ -1,0 +1,43 @@
+{
+    "slug": "7111-Montanans-for-Citizen-Voting",
+    "committeeName": "Montanans for Citizen Voting",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 7111,
+        "committeeName": "Montanans for Citizen Voting",
+        "committeeAddress": "P.O. Box 6489, Helena, MT 59604",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1529820000000,
+        "entityFullName": "Montanans for Citizen Voting",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Gallus, Chris J",
+                "address": "P.O. Box 6489 Helena, MT  50604",
+                "phone": "(406) 459-8676",
+                "email": "chrisjgalluslaw@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Wenetta, Katelynn",
+                "address": "805 Maynard Rd Helena, MT  59602",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI-117",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

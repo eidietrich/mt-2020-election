@@ -1,0 +1,37 @@
+{
+    "slug": "5717-FRIENDS-OF-HELLGATE-ELEMENTARY",
+    "committeeName": "FRIENDS OF HELLGATE ELEMENTARY",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 5717,
+        "committeeName": "FRIENDS OF HELLGATE ELEMENTARY",
+        "committeeAddress": "8825 Grouse, Missoula, MT 59808",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1483945200000,
+        "entityFullName": "FRIENDS OF HELLGATE ELEMENTARY",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Duffy, Shawna L",
+                "address": "8825 Grouse Missoula, MT  59808",
+                "phone": "(406) 550-2868",
+                "email": "eakaleva@msn.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Maloney, Anne C",
+                "address": "4246 Hermione Ln Missoula, MT  59808",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

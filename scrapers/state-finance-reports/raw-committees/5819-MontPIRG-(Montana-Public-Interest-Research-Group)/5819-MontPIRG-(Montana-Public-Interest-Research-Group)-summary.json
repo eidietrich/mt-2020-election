@@ -1,0 +1,48 @@
+{
+    "slug": "5819-MontPIRG-(Montana-Public-Interest-Research-Group)",
+    "committeeName": "MontPIRG (Montana Public Interest Research Group)",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 5819,
+        "committeeName": "MontPIRG (Montana Public Interest Research Group)",
+        "committeeAddress": "MontPIRG 141 Corbin Hall, Missoula, MT 59812",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1480402800000,
+        "entityFullName": "MontPIRG (Montana Public Interest Research Group)",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Morsette, Antonio",
+                "address": "MontPIRG 141 Corbin Hall Missoula, MT  59812",
+                "phone": "",
+                "email": "info@mtpirg.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Not in support or opposition of any candidate or ballot issue. Electioneering Communication only",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To educate & empower the next generation of civic leaders through hands on work to get students out to vote & protect our outdoors",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

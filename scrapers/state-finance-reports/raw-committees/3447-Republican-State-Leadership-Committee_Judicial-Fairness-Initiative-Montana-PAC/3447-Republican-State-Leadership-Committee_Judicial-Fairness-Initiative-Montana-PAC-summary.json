@@ -1,0 +1,53 @@
+{
+    "slug": "3447-Republican-State-Leadership-Committee_Judicial-Fairness-Initiative-Montana-PAC",
+    "committeeName": "Republican State Leadership Committee_Judicial Fairness Initiative Montana PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 24,
+    "data": {
+        "committeeId": 3447,
+        "committeeName": "Republican State Leadership Committee_Judicial Fairness Initiative Montana PAC",
+        "committeeAddress": "1201 F Street NW Suite 675, Washington, DC 20004",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1580281200000,
+        "entityFullName": "Republican State Leadership Committee_Judicial Fairness Initiative Montana PAC",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Usher, Barry",
+                "address": "PO Box 80812 Billings, MT  59102",
+                "phone": "(406) 252-2888",
+                "email": "busher@beartoothharley.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Goede, Staci",
+                "address": "1201 F Street NW Suite 675 Washington, DC  20004",
+                "phone": "(703) 371-5852",
+                "email": "sgoede@rsic.gop"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Dirk Sandefur - Supreme Court Justice",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "To make independent expenditures in the State of Montana",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kristen Juras - Supreme  Court Justice",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

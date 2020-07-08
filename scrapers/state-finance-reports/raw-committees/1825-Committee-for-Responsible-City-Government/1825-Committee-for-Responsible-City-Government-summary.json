@@ -1,0 +1,37 @@
+{
+    "slug": "1825-Committee-for-Responsible-City-Government",
+    "committeeName": "Committee for Responsible City Government",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 1825,
+        "committeeName": "Committee for Responsible City Government",
+        "committeeAddress": "1238 Yale, Billings, MT 59102",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2006",
+        "amendedDate": 1157575772000,
+        "entityFullName": "Committee for Responsible City Government",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Curry, Thomas",
+                "address": "1238 Yale Avenue Billings, MT  59102",
+                "phone": "(406) 861-4526",
+                "email": "tomcurry@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

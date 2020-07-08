@@ -1,0 +1,43 @@
+{
+    "slug": "3884-Conner-&-Marr-PLLP",
+    "committeeName": "Conner & Marr PLLP",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3884,
+        "committeeName": "Conner & Marr PLLP",
+        "committeeAddress": "PO Box 3028, Great Falls, MT 59403",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1418886000000,
+        "entityFullName": "Conner & Marr PLLP",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Conner, Dennis",
+                "address": "PO Box 3028 Great Falls, MT  59403",
+                "phone": "(406) 453-8494",
+                "email": "dennis@connermarr.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Marr, Keith",
+                "address": "PO Box 3028 Great Falls, MT  59403",
+                "phone": "(406) 454-9926",
+                "email": "keith@connermarr.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Justice Mike Wheat",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

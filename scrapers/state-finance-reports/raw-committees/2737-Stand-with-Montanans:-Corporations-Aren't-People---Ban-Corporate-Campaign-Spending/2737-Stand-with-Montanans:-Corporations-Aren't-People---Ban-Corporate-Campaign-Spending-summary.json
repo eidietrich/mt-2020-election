@@ -1,0 +1,43 @@
+{
+    "slug": "2737-Stand-with-Montanans:-Corporations-Aren't-People---Ban-Corporate-Campaign-Spending",
+    "committeeName": "Stand with Montanans: Corporations Aren't People - Ban Corporate Campaign Spending",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2737,
+        "committeeName": "Stand with Montanans: Corporations Aren't People - Ban Corporate Campaign Spending",
+        "committeeAddress": "PO Box 153, Helena, MT 59624",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1330703386000,
+        "entityFullName": "Stand with Montanans: Corporations Aren't People - Ban Corporate Campaign Spending",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Pearson, C.B.",
+                "address": "2810 Woodland Ave. Missoula, MT  59802",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Act setting policy on prohibiting corporate contributions and expenditures",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

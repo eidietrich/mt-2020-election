@@ -1,0 +1,37 @@
+{
+    "slug": "5115-Montana-Native-Vote",
+    "committeeName": "Montana Native Vote",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 5115,
+        "committeeName": "Montana Native Vote",
+        "committeeAddress": "PO BOX 2433 , BILLINGS, MT 59103",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1462255200000,
+        "entityFullName": "Montana Native Vote",
+        "entityCity": "BILLINGS",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "LUCAS, ANNA",
+                "address": "PO BOX 2433 BILLINGS, MT  59103",
+                "phone": "",
+                "email": "ALUCAS@WORC.ORG"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

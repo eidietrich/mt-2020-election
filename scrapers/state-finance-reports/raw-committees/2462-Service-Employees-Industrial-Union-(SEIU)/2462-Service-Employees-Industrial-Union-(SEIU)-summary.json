@@ -1,0 +1,43 @@
+{
+    "slug": "2462-Service-Employees-Industrial-Union-(SEIU)",
+    "committeeName": "Service Employees Industrial Union (SEIU)",
+    "scrape_date": "2020-07-01",
+    "periods": 8,
+    "data": {
+        "committeeId": 2462,
+        "committeeName": "Service Employees Industrial Union (SEIU)",
+        "committeeAddress": "33615 First Way South, Suite A, Federal Way, WA 98003",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1272559109000,
+        "entityFullName": "Service Employees Industrial Union (SEIU)",
+        "entityCity": "Federal Way",
+        "entityState": "WA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Dick, Ted",
+                "address": "302 N. Last Chance Gulch Helena, MT  59601",
+                "phone": "",
+                "email": "ted.dick@seiu775.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Cap the Rate I-164",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2515-Local-30-Pac-Fund",
+    "committeeName": "Local 30 Pac Fund",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 2515,
+        "committeeName": "Local 30 Pac Fund",
+        "committeeAddress": "P O Box 30616, Billings, MT 59107",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1474956000000,
+        "entityFullName": "Local 30 Pac Fund",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Schultz, Christopher J",
+                "address": "Po Box 30616 Billings, MT  59101",
+                "phone": "(406) 698-4905",
+                "email": "ua30@wtp.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Cellmer, Maynard H",
+                "address": "Po Box 30616 Billings, MT  59107",
+                "phone": "(406) 252-9371",
+                "email": "ua30@wtp.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support issues favorable to plumbers and pipefitters Local Union #30",
+                "position": "Other",
+                "status": "Support"
+            }
+        ]
+    }
+}

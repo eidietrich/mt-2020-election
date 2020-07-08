@@ -22,6 +22,38 @@
         "expenditures": 0.0,
         "cash_in_bank": 500.0
     },
-    "contributions": [],
+    "contributions": [
+        {
+            "Date Paid": "03/29/19",
+            "Entity Name": "Montana Democratic Party",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "303 North Ewing",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Political Party Committee Contributions",
+            "Amount": 500.0,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 500.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
     "expenditures": []
 }

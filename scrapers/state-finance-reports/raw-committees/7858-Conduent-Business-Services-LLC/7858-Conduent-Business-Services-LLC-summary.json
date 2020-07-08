@@ -1,0 +1,43 @@
+{
+    "slug": "7858-Conduent-Business-Services-LLC",
+    "committeeName": "Conduent Business Services LLC",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 7858,
+        "committeeName": "Conduent Business Services LLC",
+        "committeeAddress": "750 1st Street, N.E, Suite 1020, Washington, DC 20002",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1542697200000,
+        "entityFullName": "Conduent Business Services LLC",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Adami, Ken",
+                "address": "750 1st Street, N.E, Suite 1020 WASHINGTON, DC  20002",
+                "phone": "(202) 840-7067",
+                "email": "ken.adami@conduent.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Donalty, Tanya",
+                "address": "750 First Street, NE  Suite 1020 Washington, DC  20002",
+                "phone": "(703) 328-4994",
+                "email": "tanya@polcs.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Montana I-185",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

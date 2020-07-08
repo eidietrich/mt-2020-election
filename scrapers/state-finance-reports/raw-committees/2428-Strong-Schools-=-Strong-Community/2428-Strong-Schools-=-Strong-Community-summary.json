@@ -1,0 +1,43 @@
+{
+    "slug": "2428-Strong-Schools-=-Strong-Community",
+    "committeeName": "Strong Schools = Strong Community",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2428,
+        "committeeName": "Strong Schools = Strong Community",
+        "committeeAddress": "PO Box 273, Hamilton, MT 59840",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1269367170000,
+        "entityFullName": "Strong Schools = Strong Community",
+        "entityCity": "Hamilton",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Gantt, Corrine",
+                "address": "",
+                "phone": "(406) 544-8586",
+                "email": "cgantt1@aim.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Wickham, Bonnie",
+                "address": "P O box 273 Hamilton, MT  59840",
+                "phone": "(406) 360-4373",
+                "email": "msbwickham@hotmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Hamilton School Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

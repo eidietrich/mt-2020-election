@@ -1,0 +1,43 @@
+{
+    "slug": "7060-BCBSMT-For-a-Healthy-Montana",
+    "committeeName": "BCBSMT For a Healthy Montana ",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7060,
+        "committeeName": "BCBSMT For a Healthy Montana ",
+        "committeeAddress": "PO Box 4309, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1524204000000,
+        "entityFullName": "BCBSMT For a Healthy Montana ",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Doran, John ",
+                "address": "PO Box 4309 Helena, MT  59601",
+                "phone": "",
+                "email": "John_Doran@bcbsmt.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Wicks, Kali",
+                "address": "1040 Sonoma Drive Helena, MT  59601",
+                "phone": "",
+                "email": "kali_wicks@bcbsmt.com "
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Contribution or expenditures made to support I-185 on the 2018 Ballot",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

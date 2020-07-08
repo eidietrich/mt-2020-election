@@ -1,0 +1,37 @@
+{
+    "slug": "7430-American-Federation-of-Teachers-AFL-CIO-Committee-on-Political-Education-(COPE)",
+    "committeeName": "American Federation of Teachers, AFL-CIO Committee on Political Education (COPE)",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 7430,
+        "committeeName": "American Federation of Teachers, AFL-CIO Committee on Political Education (COPE)",
+        "committeeAddress": "555 New Jersey Ave NW, Washington, DC 20001",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1530165600000,
+        "entityFullName": "American Federation of Teachers, AFL-CIO Committee on Political Education (COPE)",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Stephanie, Hamilton",
+                "address": "555 New Jersay Ave NW Washington, DC  20001",
+                "phone": "(202) 585-5810",
+                "email": "shamilto@aft.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

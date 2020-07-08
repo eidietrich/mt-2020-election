@@ -1,0 +1,43 @@
+{
+    "slug": "2486-LOI-Incorporated-dba-EZ-Money-Check-Cashing",
+    "committeeName": "LOI Incorporated dba EZ Money Check Cashing",
+    "scrape_date": "2020-07-01",
+    "periods": 8,
+    "data": {
+        "committeeId": 2486,
+        "committeeName": "LOI Incorporated dba EZ Money Check Cashing",
+        "committeeAddress": "2499 King Avenue West, Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1275496226000,
+        "entityFullName": "LOI Incorporated dba EZ Money Check Cashing",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "N/A",
+                "address": "2499 King Avenue W Suite A Billings, MT  59102",
+                "phone": "(406) 652-9199",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Kuney, Lorna",
+                "address": "400 N California Helena, MT  59601",
+                "phone": "",
+                "email": "lorna@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-164, Cap the Rate",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

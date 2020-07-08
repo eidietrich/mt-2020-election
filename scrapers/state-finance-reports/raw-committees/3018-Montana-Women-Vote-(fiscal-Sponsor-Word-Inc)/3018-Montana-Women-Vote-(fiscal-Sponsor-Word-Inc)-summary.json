@@ -1,0 +1,48 @@
+{
+    "slug": "3018-Montana-Women-Vote-(fiscal-Sponsor-Word-Inc)",
+    "committeeName": "Montana Women Vote (fiscal Sponsor Word, Inc)",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3018,
+        "committeeName": "Montana Women Vote (fiscal Sponsor Word, Inc)",
+        "committeeAddress": "725 W. Alder St. Suite 19, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1391065200000,
+        "entityFullName": "Montana Women Vote (fiscal Sponsor Word, Inc)",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Howell, Sarah",
+                "address": "725 W. Alder St. Ste.  21 Missoula, MT  59802",
+                "phone": "(406) 531-4445",
+                "email": "sarah@montanawomenvote.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Healthy Montana Initiative",
+                "position": "Support",
+                "status": "On ballot, approved"
+            },
+            {
+                "interest": "LR 126 & LR 127",
+                "position": "Oppose",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

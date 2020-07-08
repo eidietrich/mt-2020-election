@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 46001,
+        "fromDateStr": "09/26/2019",
+        "toDateStr": "10/25/2019",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 8108,
+        "candidateName": "Montana Family Foundation",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/26/2019",
+        "end_date": "10/25/2019",
+        "receipts": 0.0,
+        "expenditures": 16550.0,
+        "cash_in_bank": -16550.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/24/19",
+            "Entity Name": "Design4 Marketing Communications",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "106 North Collins St.",
+            "City": "Plant City",
+            "State": "FL",
+            "Zip": "33563",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 16550.0,
+            "Purpose": "Digital advertisement endorsing Armstrong Ward 1, Neese Ward 2, Rowe Ward 3, Purinton Ward 4, and Boyett Ward 5. Approx 584,000 impressions",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

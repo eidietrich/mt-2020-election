@@ -1,0 +1,43 @@
+{
+    "slug": "3003-TGC-Limited-Partnership",
+    "committeeName": "TGC Limited Partnership",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3003,
+        "committeeName": "TGC Limited Partnership",
+        "committeeAddress": "PO Box 80743 3529 Gabel Road, Billings, MT 59108",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2013",
+        "amendedDate": 1386623709000,
+        "entityFullName": "TGC Limited Partnership",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bennett, James R",
+                "address": "PO Box 80743 Billings, MT  59102",
+                "phone": "",
+                "email": "jimb@diamondbco.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Yes for Kids Contribution",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

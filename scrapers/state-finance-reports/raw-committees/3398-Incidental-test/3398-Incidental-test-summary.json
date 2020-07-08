@@ -1,0 +1,37 @@
+{
+    "slug": "3398-Incidental-test",
+    "committeeName": "Incidental test",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 3398,
+        "committeeName": "Incidental test",
+        "committeeAddress": "PO Box 8889, Butte, MT 56958",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1411538400000,
+        "entityFullName": "Incidental test",
+        "entityCity": "Butte",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Trujillo, Kym",
+                "address": "PO Box 565898 Helena, MT  89895",
+                "phone": "(666) 666-6666",
+                "email": "ktrujillo@mt.gov"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

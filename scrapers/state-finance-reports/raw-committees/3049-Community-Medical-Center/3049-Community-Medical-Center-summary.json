@@ -1,0 +1,43 @@
+{
+    "slug": "3049-Community-Medical-Center",
+    "committeeName": "Community Medical Center",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3049,
+        "committeeName": "Community Medical Center",
+        "committeeAddress": "2827 Fort Missoula, Missoula, MT 59804",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1398060000000,
+        "entityFullName": "Community Medical Center",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Carlson, Stephen",
+                "address": "2827 Fort Missoula Road Missoula, MT  59804",
+                "phone": "(406) 327-4002",
+                "email": "scarlson@communitymed.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-170",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

@@ -1,7 +1,7 @@
 {
     "slug": "5055-INTERNATIONAL-ASSOCIATION-OF-FIREFIGHTERS-INTERESTED-IN-REGISTRATION-AND-EDUCATION-PAC",
     "committeeName": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 15,
     "data": {
         "committeeId": 5055,
@@ -16,15 +16,28 @@
         "entityState": "DC"
     },
     "summary": {
-        "reports": 15,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 49146.32,
-        "num_expenditures": 80,
-        "expenditures_19_20": 27429.84,
-        "num_expenditures_19_20": 50,
-        "cash_on_hand": -49146.32
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kelly, Edward",
+                "address": "1750 New York Avenue Washington, DC  20006",
+                "phone": "",
+                "email": "firepac@iaff.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Political Fund of the International Association of Fire Fighters (IAFF) used to support candidates around the country that are endorsed by the IAFF.",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
     }
 }

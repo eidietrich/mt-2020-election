@@ -1,0 +1,43 @@
+{
+    "slug": "7917-Barrett-Hospital-&-HealthCare-for-6-Mill-Levy",
+    "committeeName": "Barrett Hospital & HealthCare for 6 Mill Levy",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7917,
+        "committeeName": "Barrett Hospital & HealthCare for 6 Mill Levy",
+        "committeeAddress": "600 MT Hwy 91 S, Dillon, MT 59725",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1543993200000,
+        "entityFullName": "Barrett Hospital & HealthCare for 6 Mill Levy",
+        "entityCity": "Dillon",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Achter, Richard",
+                "address": "600 MT Hwy 91 S Dillon, MT  59725",
+                "phone": "(406) 683-3003",
+                "email": "dachter@barretthospital.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "6 Mill Levy",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

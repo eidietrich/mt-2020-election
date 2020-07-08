@@ -1,8 +1,8 @@
 {
     "slug": "8315-Justice-Committee-of-McGarvey-Heberling-Sullivan-&-Lacey-P.C.",
     "committeeName": "Justice Committee of McGarvey, Heberling, Sullivan & Lacey P.C.",
-    "scrape_date": "2020-07-01",
-    "periods": 1,
+    "scrape_date": "2020-07-02",
+    "periods": 2,
     "data": {
         "committeeId": 8315,
         "committeeName": "Justice Committee of McGarvey, Heberling, Sullivan & Lacey P.C.",
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 1,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 4824.0,
-        "num_expenditures": 1,
-        "expenditures_19_20": 4824.0,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": -4824.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Leftridge, Dustin",
+                "address": "345 1st AVE E KALISPELL, MT  59901",
+                "phone": "(406) 752-5566",
+                "email": "dleftridge@mcgarveylaw.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
     }
 }

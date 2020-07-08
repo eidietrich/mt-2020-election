@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 48861,
+        "fromDateStr": "04/21/2020",
+        "toDateStr": "05/24/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 6381,
+        "candidateName": "Montana Young Republicans",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/21/2020",
+        "end_date": "05/24/2020",
+        "receipts": 25.0,
+        "expenditures": 1.3,
+        "cash_in_bank": 4540.89
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "05/15/20",
+            "Entity Name": "Anedot",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1920 McKinney Ave 7th floor",
+            "City": "Dallas",
+            "State": "TX",
+            "Zip": "75201",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 1.3,
+            "Purpose": "Merchant processing fee",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "1",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

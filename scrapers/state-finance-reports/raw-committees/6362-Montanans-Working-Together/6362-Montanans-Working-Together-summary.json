@@ -1,0 +1,43 @@
+{
+    "slug": "6362-Montanans-Working-Together",
+    "committeeName": "Montanans Working Together",
+    "scrape_date": "2020-07-02",
+    "periods": 16,
+    "data": {
+        "committeeId": 6362,
+        "committeeName": "Montanans Working Together",
+        "committeeAddress": "3242 Cummins Way, Missoula, MT 59802",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1593496800000,
+        "entityFullName": "Montanans Working Together",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Molloy, Jim",
+                "address": "PO Box 644 Helena, MT  59624",
+                "phone": "(202) 498-7123",
+                "email": "holly@campaigncompliance.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Giarraputo, Holly",
+                "address": "3242 Cummins Way Missoula, MT  59802",
+                "phone": "(202) 498-7123",
+                "email": "holly@campaigncompliance.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To support candidates for public office in Montana through direct and/or independent expenditures.",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

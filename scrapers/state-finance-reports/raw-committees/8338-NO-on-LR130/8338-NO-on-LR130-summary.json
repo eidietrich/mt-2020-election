@@ -1,7 +1,7 @@
 {
     "slug": "8338-NO-on-LR130",
     "committeeName": "NO on LR130",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 4,
     "data": {
         "committeeId": 8338,
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 4,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 28.25,
-        "num_expenditures": 1,
-        "expenditures_19_20": 28.25,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": 971.75
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Burke, Erik",
+                "address": "PO Box 1622 Helena, MT  59624",
+                "phone": "(406) 442-4250",
+                "email": "eburke@mfpe.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR130",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
     }
 }

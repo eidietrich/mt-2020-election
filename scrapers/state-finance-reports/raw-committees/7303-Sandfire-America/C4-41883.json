@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 41883,
+        "fromDateStr": "06/01/2018",
+        "toDateStr": "06/20/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7303,
+        "candidateName": "Sandfire America",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/01/2018",
+        "end_date": "06/20/2018",
+        "receipts": 0.0,
+        "expenditures": 250030.2,
+        "cash_in_bank": -288929.21
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "06/04/18",
+            "Entity Name": "Montana Mining Association",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1026, Whitehall",
+            "City": "Whitehall",
+            "State": "MT",
+            "Zip": "59759",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 250000.0,
+            "Purpose": "Support payment to fund campaign to defeat I-186",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "06/01/18",
+            "Entity Name": "Stop I-186 to Protect Miners and Jobs",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1585",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 30.2,
+            "Purpose": "Provide tours of Black Butte Copper mine and external communications regarding opposition to I-186; one employee total of 10 minutes",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

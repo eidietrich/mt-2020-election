@@ -1,0 +1,37 @@
+{
+    "slug": "4420-Butte---Silver-bow-Democrats",
+    "committeeName": "Butte - Silver bow Democrats",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 4420,
+        "committeeName": "Butte - Silver bow Democrats",
+        "committeeAddress": "P.O. Box 4744, Butte, MT 59701",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1434002400000,
+        "entityFullName": "Butte - Silver bow Democrats",
+        "entityCity": "Butte",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Harvey, Derek J",
+                "address": "P.O. Box 4744 Butte, MT  59701",
+                "phone": "(406) 490-5472",
+                "email": "dharvey@mscopff.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

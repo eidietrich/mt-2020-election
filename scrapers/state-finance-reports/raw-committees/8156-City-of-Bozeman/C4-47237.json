@@ -22,7 +22,39 @@
         "expenditures": 4146.36,
         "cash_in_bank": -7355.11
     },
-    "contributions": [],
+    "contributions": [
+        {
+            "Date Paid": "03/26/20",
+            "Entity Name": "City of Bozeman",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1230",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59771",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Incidental Committee Contributions",
+            "Amount": 878.02,
+            "Amount Type": "IK",
+            "Purpose": "City of Bozeman staff time spent on Parks and Trails District education effort",
+            "Election Type": "Primary",
+            "Total Primary": 878.02,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
     "expenditures": [
         {
             "Date Paid": "03/05/20",

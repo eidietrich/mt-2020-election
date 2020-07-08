@@ -1,0 +1,43 @@
+{
+    "slug": "6850-Golden-Eagle-Construction-Inc.",
+    "committeeName": "Golden Eagle Construction, Inc.",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6850,
+        "committeeName": "Golden Eagle Construction, Inc.",
+        "committeeAddress": "3020 E. Lyndale, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2017",
+        "amendedDate": 1512025200000,
+        "entityFullName": "Golden Eagle Construction, Inc.",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Nottingham, Dan",
+                "address": "3020 E. Lyndale Helena, MT  59601",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "YES for Helena's Future",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

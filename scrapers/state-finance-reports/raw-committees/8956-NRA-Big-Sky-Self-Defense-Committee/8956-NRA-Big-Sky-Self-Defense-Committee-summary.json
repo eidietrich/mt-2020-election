@@ -1,7 +1,7 @@
 {
     "slug": "8956-NRA-Big-Sky-Self-Defense-Committee",
     "committeeName": "NRA Big Sky Self-Defense Committee",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 1,
     "data": {
         "committeeId": 8956,
@@ -16,15 +16,28 @@
         "entityState": "VA"
     },
     "summary": {
-        "reports": 1,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 0,
-        "num_expenditures": 0,
-        "expenditures_19_20": 0,
-        "num_expenditures_19_20": 0,
-        "cash_on_hand": 0.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Owens, Robert",
+                "address": "11250 Waples Mill Road Fairfax, VA  22030",
+                "phone": "(703) 267-1147",
+                "email": "rowens@nrahq.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-130",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
     }
 }

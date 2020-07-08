@@ -1,0 +1,43 @@
+{
+    "slug": "252-Flathead-County-Democratic-Central-Committee",
+    "committeeName": "Flathead County Democratic Central Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 20,
+    "data": {
+        "committeeId": 252,
+        "committeeName": "Flathead County Democratic Central Committee",
+        "committeeAddress": "PO Box 2622, Kalispell, MT 59903",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1587621600000,
+        "entityFullName": "Flathead County Democratic Central Committee",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Smith, Terri V",
+                "address": "2010 Mountain Park Loop Whitefish, MT  59937",
+                "phone": "(703) 362-3252",
+                "email": "terrivsmith@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Recruit, support and elect Democratic Candidates, support Democratic Issues",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

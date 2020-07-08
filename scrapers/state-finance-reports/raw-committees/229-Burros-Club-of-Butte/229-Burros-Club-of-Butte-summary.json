@@ -1,0 +1,43 @@
+{
+    "slug": "229-Burros-Club-of-Butte",
+    "committeeName": "Burros Club of Butte",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 229,
+        "committeeName": "Burros Club of Butte",
+        "committeeAddress": "PO Box 887, Butte, MT 59703",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1464674400000,
+        "entityFullName": "Burros Club of Butte",
+        "entityCity": "Butte",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Shaffer, Tyler",
+                "address": "1929 Banks Butte, MT  59701",
+                "phone": "(406) 491-4015",
+                "email": "tyler@trademarkelectricinc.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Prigge, Leo",
+                "address": "3035 Moulton St. Butte, MT  59701",
+                "phone": "(406) 491-6773",
+                "email": "leo@priggeotten.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Democratic Party",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

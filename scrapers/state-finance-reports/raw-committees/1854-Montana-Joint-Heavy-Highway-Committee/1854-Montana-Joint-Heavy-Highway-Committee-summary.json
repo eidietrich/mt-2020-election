@@ -1,0 +1,37 @@
+{
+    "slug": "1854-Montana-Joint-Heavy-Highway-Committee",
+    "committeeName": "Montana Joint Heavy/Highway Committee",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 1854,
+        "committeeName": "Montana Joint Heavy/Highway Committee",
+        "committeeAddress": "PO Box 8144, Missoula, MT 59807",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2006",
+        "amendedDate": 1157640502000,
+        "entityFullName": "Montana Joint Heavy/Highway Committee",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Doogan, Daniel J.",
+                "address": "PO Box 8144 Missoula, MT  59807",
+                "phone": "(406) 251-5353",
+                "email": "teamsters2msla@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

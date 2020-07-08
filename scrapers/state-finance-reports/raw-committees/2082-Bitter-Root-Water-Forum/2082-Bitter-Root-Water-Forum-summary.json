@@ -1,0 +1,43 @@
+{
+    "slug": "2082-Bitter-Root-Water-Forum",
+    "committeeName": "Bitter Root Water Forum",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2082,
+        "committeeName": "Bitter Root Water Forum",
+        "committeeAddress": "PO Box 1247, Hamilton, MT 59840",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2007",
+        "amendedDate": 1179956468000,
+        "entityFullName": "Bitter Root Water Forum",
+        "entityCity": "Hamilton",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Riley, Laurienne",
+                "address": "PO Box 1247 Hamilton, MT  59840",
+                "phone": "",
+                "email": "brwaterforum@bitterroot.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Water Quality District",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2117-Helena-Peace-Seekers",
+    "committeeName": "Helena Peace Seekers",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2117,
+        "committeeName": "Helena Peace Seekers",
+        "committeeAddress": "PO Box 1840, Helena, MT 59624",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2007",
+        "amendedDate": 1194991731000,
+        "entityFullName": "Helena Peace Seekers",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Knight, Walter Rea",
+                "address": "",
+                "phone": "(406) 442-1286",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Referendum 2007-1, Helena City",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

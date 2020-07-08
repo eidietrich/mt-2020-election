@@ -1,0 +1,43 @@
+{
+    "slug": "2306-Citizens-for-Justice",
+    "committeeName": "Citizens for Justice",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2306,
+        "committeeName": "Citizens for Justice",
+        "committeeAddress": "1611 Willow Way, Bozeman, MT 59715",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1224528620000,
+        "entityFullName": "Citizens for Justice",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Klingensmith, Roxanne",
+                "address": "1717 S. Black #53 Bozeman, MT  59715",
+                "phone": "",
+                "email": "julianofnorwich@msn.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Jail bond",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

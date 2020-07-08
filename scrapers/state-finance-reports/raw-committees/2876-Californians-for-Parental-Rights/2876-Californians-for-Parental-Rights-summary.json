@@ -1,0 +1,43 @@
+{
+    "slug": "2876-Californians-for-Parental-Rights",
+    "committeeName": "Californians for Parental Rights",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2876,
+        "committeeName": "Californians for Parental Rights",
+        "committeeAddress": "7918 El Cajon Blvd. Suite N-162, La Mesa, CA 91942",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1357848360000,
+        "entityFullName": "Californians for Parental Rights",
+        "entityCity": "La Mesa",
+        "entityState": "CA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Baber, Bill",
+                "address": "7918 El Cajon Blvd. Suite N-162 La Mesa, CA  91942",
+                "phone": "",
+                "email": "wrblaw@flash.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

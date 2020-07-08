@@ -1,0 +1,37 @@
+{
+    "slug": "5096-Yellowstone-Co-Republican-Central-Committee",
+    "committeeName": "Yellowstone Co Republican Central Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 23,
+    "data": {
+        "committeeId": 5096,
+        "committeeName": "Yellowstone Co Republican Central Committee",
+        "committeeAddress": "PO Box 724, Billings, MT 59103",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1580713200000,
+        "entityFullName": "Yellowstone Co Republican Central Committee",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Black, JoeAnn",
+                "address": "PO Box 724 Billings, MT  59103",
+                "phone": "(406) 272-8432",
+                "email": "treasurer@yellowstonegop.org "
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

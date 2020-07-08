@@ -1,0 +1,43 @@
+{
+    "slug": "6387-National-Education-Association",
+    "committeeName": "National Education Association",
+    "scrape_date": "2020-07-02",
+    "periods": 11,
+    "data": {
+        "committeeId": 6387,
+        "committeeName": "National Education Association",
+        "committeeAddress": "1201 Sixteenth Street NW, Washington, DC 20036",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1503900000000,
+        "entityFullName": "National Education Association",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McPherson, Michael",
+                "address": "1201 Sixteenth Street NW Washington, DC  20036",
+                "phone": "(202) 822-7041",
+                "email": "jwalta@nea.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-128",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

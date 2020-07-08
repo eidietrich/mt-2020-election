@@ -1,0 +1,37 @@
+{
+    "slug": "2019-Montana-Pizza-Inc.",
+    "committeeName": "Montana Pizza, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2019,
+        "committeeName": "Montana Pizza, Inc.",
+        "committeeAddress": "223 E Main Street, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1165530770000,
+        "entityFullName": "Montana Pizza, Inc.",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Vap, Linda",
+                "address": "223 E Main Street Missoula, MT  59802",
+                "phone": "(406) 251-2437",
+                "email": "lvap@huhot.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

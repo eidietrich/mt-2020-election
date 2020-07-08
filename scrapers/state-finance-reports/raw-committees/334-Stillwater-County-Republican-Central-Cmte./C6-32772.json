@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 32772,
+        "fromDateStr": "10/22/2014",
+        "toDateStr": "01/31/2015",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 334,
+        "candidateName": "Stillwater County Republican Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/22/2014",
+        "end_date": "01/31/2015",
+        "receipts": 1587.46,
+        "expenditures": 83.5,
+        "cash_in_bank": 1503.96
+    },
+    "contributions": [],
+    "expenditures": []
+}

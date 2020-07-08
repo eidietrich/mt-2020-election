@@ -1,0 +1,43 @@
+{
+    "slug": "3794-McKenna-&-Starin-Trial-Attorneys-PLLC",
+    "committeeName": "McKenna & Starin Trial Attorneys, PLLC",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3794,
+        "committeeName": "McKenna & Starin Trial Attorneys, PLLC",
+        "committeeAddress": "PO Box 7009, Missoula, MT 59807",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1415862000000,
+        "entityFullName": "McKenna & Starin Trial Attorneys, PLLC",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McKenna, Sydney E",
+                "address": "PO Box 7009 Missoula, MT  59807",
+                "phone": "(406) 544-6678",
+                "email": "syd@mslawmt.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Justice Mike Wheat",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

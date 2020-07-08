@@ -22,7 +22,39 @@
         "expenditures": 2420.15,
         "cash_in_bank": 0.0
     },
-    "contributions": [],
+    "contributions": [
+        {
+            "Date Paid": "06/05/20",
+            "Entity Name": "Montana Association of Realtors ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "724 Burlington Ave",
+            "City": "Missoua",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Incidental Committee Contributions",
+            "Amount": 110.24,
+            "Amount Type": "IK",
+            "Purpose": "",
+            "Election Type": "Primary",
+            "Total Primary": 110.24,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
     "expenditures": [
         {
             "Date Paid": "06/02/20",

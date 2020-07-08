@@ -1,0 +1,43 @@
+{
+    "slug": "7984-Montana-First-Action",
+    "committeeName": "Montana First Action",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 7984,
+        "committeeName": "Montana First Action",
+        "committeeAddress": "PO Box 6404, Helena, MT 59604",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1580713200000,
+        "entityFullName": "Montana First Action",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wenetta, Katie",
+                "address": "PO Box 6404 Helena, MT  59604",
+                "phone": "",
+                "email": "katie.montana.campaigns@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To Support Conservative Candidates and Causes",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

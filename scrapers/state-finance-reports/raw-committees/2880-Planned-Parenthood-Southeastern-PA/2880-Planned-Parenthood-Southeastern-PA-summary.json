@@ -1,0 +1,43 @@
+{
+    "slug": "2880-Planned-Parenthood-Southeastern-PA",
+    "committeeName": "Planned Parenthood Southeastern PA",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2880,
+        "committeeName": "Planned Parenthood Southeastern PA",
+        "committeeAddress": "1144 Locust St., Philadelphia, PA 19107",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1357850009000,
+        "entityFullName": "Planned Parenthood Southeastern PA",
+        "entityCity": "Philadelphia",
+        "entityState": "PA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Otwell, David",
+                "address": "1144 Locust St. Philadelphia, PA  19107",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

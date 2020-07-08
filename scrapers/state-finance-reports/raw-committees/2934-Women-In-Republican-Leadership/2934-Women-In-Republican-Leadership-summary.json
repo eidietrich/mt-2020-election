@@ -1,0 +1,43 @@
+{
+    "slug": "2934-Women-In-Republican-Leadership",
+    "committeeName": "Women In Republican Leadership",
+    "scrape_date": "2020-07-02",
+    "periods": 20,
+    "data": {
+        "committeeId": 2934,
+        "committeeName": "Women In Republican Leadership",
+        "committeeAddress": "PO Box 2558, Thompson Falls, MT 59873",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1577948400000,
+        "entityFullName": "Women In Republican Leadership",
+        "entityCity": "Thompson Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Fielder, Jennifer",
+                "address": "PO Box 2558 Thompson Falls, MT  59873",
+                "phone": "(406) 210-5944",
+                "email": "getitrightmontana@montana.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Objectives of Women in Republican Leadership shall be to promote the MT Republican platform and to be a voice for Republican Women in leadership.",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

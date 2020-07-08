@@ -1,0 +1,43 @@
+{
+    "slug": "2598-AAVW-Montana",
+    "committeeName": "AAVW Montana",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 2598,
+        "committeeName": "AAVW Montana",
+        "committeeAddress": "1008 Flanders Creek Ave, Bozeman, MT 59718",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1287084025000,
+        "entityFullName": "AAVW Montana",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Dapples, Birdeena",
+                "address": "P O box 20652 Billings, MT  59104",
+                "phone": "(406) 698-3227",
+                "email": "birdeena@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-164, Cap the Rate",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

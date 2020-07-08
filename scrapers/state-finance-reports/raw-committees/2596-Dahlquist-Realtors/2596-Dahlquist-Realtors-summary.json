@@ -1,0 +1,43 @@
+{
+    "slug": "2596-Dahlquist-Realtors",
+    "committeeName": "Dahlquist Realtors",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 2596,
+        "committeeName": "Dahlquist Realtors",
+        "committeeAddress": "500 Country Club Blvd, Great Falls, MT 59404",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1286918038000,
+        "entityFullName": "Dahlquist Realtors",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Haverlandt, Brett",
+                "address": "500 Country Club Blvd Great Falls, MT  59404",
+                "phone": "(406) 788-8709",
+                "email": "brett@dahlquistrealtors.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Tompers, Ronda",
+                "address": "500 Country Club Blvd Great Falls, MT  59404",
+                "phone": "(406) 799-5312",
+                "email": "ronda@dahlquistrealtors.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI-105",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

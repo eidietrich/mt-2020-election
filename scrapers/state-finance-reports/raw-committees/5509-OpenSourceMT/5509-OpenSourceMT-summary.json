@@ -1,0 +1,37 @@
+{
+    "slug": "5509-OpenSourceMT",
+    "committeeName": "OpenSourceMT",
+    "scrape_date": "2020-07-02",
+    "periods": 18,
+    "data": {
+        "committeeId": 5509,
+        "committeeName": "OpenSourceMT",
+        "committeeAddress": "463 Summer Ridge Rd, Bozeman, MT 59715",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "Y",
+        "electionYear": "2000",
+        "amendedDate": 1549954800000,
+        "entityFullName": "OpenSourceMT",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Rosenzweig, Scott",
+                "address": "463 Summer Ridge Rd Bozeman, MT  59715",
+                "phone": "(406) 599-0719",
+                "email": "rosenzweigscott@yahoo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Davis, Swep",
+                "address": "2953 Star Ridge Rd Bozeman, MT  59715",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

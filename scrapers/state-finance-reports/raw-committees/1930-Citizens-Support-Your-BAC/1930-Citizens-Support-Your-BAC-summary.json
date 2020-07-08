@@ -1,0 +1,37 @@
+{
+    "slug": "1930-Citizens-Support-Your-BAC",
+    "committeeName": "Citizens Support Your BAC",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 1930,
+        "committeeName": "Citizens Support Your BAC",
+        "committeeAddress": "427 Dutch Hill Road, Hamilton, MT 59840",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2006",
+        "amendedDate": 1159894425000,
+        "entityFullName": "Citizens Support Your BAC",
+        "entityCity": "Hamilton",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Williams, Bethanne B.",
+                "address": "427 Dutch Hill Road Hamilton, MT  59840",
+                "phone": "(406) 363-7239",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

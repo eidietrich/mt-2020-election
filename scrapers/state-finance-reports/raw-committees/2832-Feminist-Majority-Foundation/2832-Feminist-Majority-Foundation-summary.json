@@ -1,0 +1,43 @@
+{
+    "slug": "2832-Feminist-Majority-Foundation",
+    "committeeName": "Feminist Majority Foundation",
+    "scrape_date": "2020-07-01",
+    "periods": 4,
+    "data": {
+        "committeeId": 2832,
+        "committeeName": "Feminist Majority Foundation",
+        "committeeAddress": "1600 Wilson Blvd. Suite 801, Arlington, VA 22209",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1350318857000,
+        "entityFullName": "Feminist Majority Foundation",
+        "entityCity": "Arlington",
+        "entityState": "VA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wilder, Cara",
+                "address": "PO Box 11918 1710 Driftwood Drive Bozeman, MT  59715",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Cutri, Diane",
+                "address": "1600 Wilson Blvd, Suite 801 Arlington, VA  22209",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

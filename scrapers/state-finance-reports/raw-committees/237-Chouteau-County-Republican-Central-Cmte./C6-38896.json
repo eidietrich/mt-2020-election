@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 38896,
+        "fromDateStr": "11/29/2016",
+        "toDateStr": "01/26/2017",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 237,
+        "candidateName": "Chouteau County Republican Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/29/2016",
+        "end_date": "01/26/2017",
+        "receipts": 0.0,
+        "expenditures": 127.66,
+        "cash_in_bank": 3715.3
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "12/23/16",
+            "Entity Name": "Witt, Paula",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2222 Russell Road",
+            "City": "Carter",
+            "State": "MT",
+            "Zip": "59420",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 127.66,
+            "Purpose": "Food for meeting with campaign team",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

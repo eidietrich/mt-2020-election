@@ -1,0 +1,43 @@
+{
+    "slug": "5148-Yes-For-Kids",
+    "committeeName": "Yes For Kids",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 5148,
+        "committeeName": "Yes For Kids",
+        "committeeAddress": "304 Eastlake Circle, Billings, MT 59105",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1490767200000,
+        "entityFullName": "Yes For Kids",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Huebner, Darla",
+                "address": "304 Eastlake Circle Billings, MT  59105",
+                "phone": "(406) 248-7209",
+                "email": "rdhuebner@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To support Billings Public School Levy for the May Ballot",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

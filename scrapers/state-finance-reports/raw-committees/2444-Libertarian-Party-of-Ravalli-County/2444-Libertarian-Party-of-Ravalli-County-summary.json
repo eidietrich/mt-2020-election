@@ -1,0 +1,43 @@
+{
+    "slug": "2444-Libertarian-Party-of-Ravalli-County",
+    "committeeName": "Libertarian Party of Ravalli County",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 2444,
+        "committeeName": "Libertarian Party of Ravalli County",
+        "committeeAddress": "815 Mint View Rd, Corvalis, MT 59828",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1517209200000,
+        "entityFullName": "Libertarian Party of Ravalli County",
+        "entityCity": "Corvalis",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Merrick, David A.",
+                "address": "815 Mint View Rd Corvallis, MT  59828",
+                "phone": "(406) 961-5215",
+                "email": "francis.wendt@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support all Libertarian Candidates",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

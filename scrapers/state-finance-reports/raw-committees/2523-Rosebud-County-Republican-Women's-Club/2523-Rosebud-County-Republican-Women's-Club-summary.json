@@ -1,0 +1,63 @@
+{
+    "slug": "2523-Rosebud-County-Republican-Women's-Club",
+    "committeeName": "Rosebud County Republican Women's Club",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 2523,
+        "committeeName": "Rosebud County Republican Women's Club",
+        "committeeAddress": "1584 Old Highway 10, Forsyth, MT 59327",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1585288800000,
+        "entityFullName": "Rosebud County Republican Women's Club",
+        "entityCity": "Forsyth",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Rohrich, C.",
+                "address": "1584 Old Highway 10 Forsyth, MT  59327",
+                "phone": "",
+                "email": "rcrepublicans@rangeweb.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Elsie Arntzen",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Zinke for Congress",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Tim Fox for AG",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Corey Stapleton for Secretary of State",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jason Small for SD 21",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

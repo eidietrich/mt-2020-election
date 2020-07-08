@@ -1,0 +1,37 @@
+{
+    "slug": "6340-Mineral-County-Democratic-Central-Committee",
+    "committeeName": "Mineral County Democratic Central Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6340,
+        "committeeName": "Mineral County Democratic Central Committee",
+        "committeeAddress": "156 Trout Creek Rd., Superior, MT 59872",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1525413600000,
+        "entityFullName": "Mineral County Democratic Central Committee",
+        "entityCity": "Superior",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ankenman Forest, Linda",
+                "address": "86 Packer Creek Rd Saltese, MT  59867",
+                "phone": "(406) 678-4255",
+                "email": "rnlforest@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

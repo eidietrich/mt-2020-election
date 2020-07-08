@@ -1,0 +1,43 @@
+{
+    "slug": "4820-Morrison-Sherwood-Wilson-&-Deola-PLLP",
+    "committeeName": "Morrison, Sherwood, Wilson & Deola PLLP",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 4820,
+        "committeeName": "Morrison, Sherwood, Wilson & Deola PLLP",
+        "committeeAddress": "PO Box 557, Helena, MT 59624",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2015",
+        "amendedDate": 1450076400000,
+        "entityFullName": "Morrison, Sherwood, Wilson & Deola PLLP",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Morrison, John",
+                "address": "PO Box 557 Helena, MT  59624",
+                "phone": "(406) 442-4793",
+                "email": "john@mswdlaw.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Carol's List PAC ",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

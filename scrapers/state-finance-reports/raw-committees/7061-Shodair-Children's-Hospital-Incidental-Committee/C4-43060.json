@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 43060,
+        "fromDateStr": "09/13/2018",
+        "toDateStr": "09/28/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7061,
+        "candidateName": "Shodair Children's Hospital Incidental Committee",
+        "statusDescr": "Amended",
+        "amendedDate": 1542652485000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/13/2018",
+        "end_date": "09/28/2018",
+        "receipts": 0.0,
+        "expenditures": 9193.28,
+        "cash_in_bank": -423374.91
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "09/28/18",
+            "Entity Name": "Healthy Montana for I-185",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1614",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 8983.28,
+            "Purpose": "In-Kind Contribution of Staff Time and Expenses in support of I-185",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/27/18",
+            "Entity Name": "Healthy Montana for I-185",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1614",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 210.0,
+            "Purpose": "I-185 Space and Table for employee voter registration on three occasions ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "slug": "6117-Rocky-Mountain-Elk-Foundation-Inc",
+    "committeeName": "Rocky Mountain Elk Foundation Inc",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 6117,
+        "committeeName": "Rocky Mountain Elk Foundation Inc",
+        "committeeAddress": "P.O. Box 8249, Missoula, MT 59808",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1502863200000,
+        "entityFullName": "Rocky Mountain Elk Foundation Inc",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Parker, Lori",
+                "address": "P.O. Box 8249 Missoula, MT  59807",
+                "phone": "(406) 523-4509",
+                "email": "lparker@rmef.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Allen, M. D",
+                "address": "P.O. Box 8249 Missoula, MT  59808",
+                "phone": "(406) 523-0294",
+                "email": "rod@mef.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Ballot I-177",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "To Ensure the Future of Elk, Other Wildlife, Their Habitat and our Hunting Heritage",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "7541-Clark-Fork-Valley-Hospital-Incidental-Committee",
+    "committeeName": "Clark Fork Valley Hospital Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7541,
+        "committeeName": "Clark Fork Valley Hospital Incidental Committee",
+        "committeeAddress": "PO Box 768, Plains, MT 59859",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1536818400000,
+        "entityFullName": "Clark Fork Valley Hospital Incidental Committee",
+        "entityCity": "Plains",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Neiman, Carla A",
+                "address": "PO Box 768 Plains, MT  59859",
+                "phone": "(406) 826-4851",
+                "email": "cneiman@cfvh.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I 185",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

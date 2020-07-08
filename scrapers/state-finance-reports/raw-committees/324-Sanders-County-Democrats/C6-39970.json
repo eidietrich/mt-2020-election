@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 39970,
+        "fromDateStr": "01/01/2018",
+        "toDateStr": "03/06/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 324,
+        "candidateName": "Sanders County Democrats",
+        "statusDescr": "Amended",
+        "amendedDate": 1593178123000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/01/2018",
+        "end_date": "03/06/2018",
+        "receipts": 80.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 5251.0
+    },
+    "contributions": [
+        {
+            "Date Paid": "03/06/18",
+            "Entity Name": "membership dues, none none",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "none",
+            "City": "none",
+            "State": "OR",
+            "Zip": "59874",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -80.0,
+            "Amount Type": "CA",
+            "Purpose": "5 memberships @ $15.00 a piece and one $5.00 donation",
+            "Election Type": "Primary",
+            "Total Primary": 80.0,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

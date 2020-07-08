@@ -1,0 +1,53 @@
+{
+    "slug": "5546-Bidegarary-Law-Firm",
+    "committeeName": "Bidegarary Law Firm",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 5546,
+        "committeeName": "Bidegarary Law Firm",
+        "committeeAddress": "2042 Stadium Drive, Suite 1, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1480316400000,
+        "entityFullName": "Bidegarary Law Firm",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bidegaray, Daniel",
+                "address": "2042 Stadium Drive, Suite 1 Bozeman, MT  59715",
+                "phone": "(406) 522-7744",
+                "email": "daniel@bidegaraylawfirm.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Taylor, Mary",
+                "address": "PO Box 838 Helena, MT  59624",
+                "phone": "",
+                "email": "mtla@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dirk Sandefur - Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

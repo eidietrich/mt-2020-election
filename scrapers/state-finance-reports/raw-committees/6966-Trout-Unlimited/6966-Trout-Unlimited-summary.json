@@ -1,0 +1,37 @@
+{
+    "slug": "6966-Trout-Unlimited",
+    "committeeName": "Trout Unlimited",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 6966,
+        "committeeName": "Trout Unlimited",
+        "committeeAddress": "321 E. Main St STE 411, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1542697200000,
+        "entityFullName": "Trout Unlimited",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Cooney, Colin T",
+                "address": "321 E. Main St. STE 411 Bozeman, MT  59715",
+                "phone": "(406) 465-1023",
+                "email": "ccooney@tu.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Reed, Tom E",
+                "address": "P.O. Box 174  Harrison, MT  59735",
+                "phone": "(406) 599-1022",
+                "email": "treed@tu.org"
+            }
+        ],
+        "issues": []
+    }
+}

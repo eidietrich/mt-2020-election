@@ -1,0 +1,37 @@
+{
+    "slug": "297-Meagher-County-Republican-Central-Cmte.",
+    "committeeName": "Meagher County Republican Central Cmte.",
+    "scrape_date": "2020-07-02",
+    "periods": 14,
+    "data": {
+        "committeeId": 297,
+        "committeeName": "Meagher County Republican Central Cmte.",
+        "committeeAddress": "40 71 Ranch Lane, Martinsdale, MT 59053",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1458626400000,
+        "entityFullName": "Meagher County Republican Central Cmte.",
+        "entityCity": "Martinsdale",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Galt, Sharrie K.",
+                "address": "40 71 Ranch Lane Martinsdale, MT  59053",
+                "phone": "(406) 572-3312",
+                "email": "71ranch@mtintouch.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

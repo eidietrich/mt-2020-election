@@ -1,0 +1,43 @@
+{
+    "slug": "2935-CTA-Architects-Engineers",
+    "committeeName": "CTA Architects Engineers",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2935,
+        "committeeName": "CTA Architects Engineers",
+        "committeeAddress": "13 N. 23rd St., Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2013",
+        "amendedDate": 1370622290000,
+        "entityFullName": "CTA Architects Engineers",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Beal, James",
+                "address": "13 N. 23rd St. Billings, MT  59101",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Yes for Kids Contribution",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

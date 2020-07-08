@@ -1,0 +1,43 @@
+{
+    "slug": "379-Helena-Education-Assn-PAC-for-Education",
+    "committeeName": "Helena Education Assn PAC for Education",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 379,
+        "committeeName": "Helena Education Assn PAC for Education",
+        "committeeAddress": "1232 E. 6th Ave., Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1534744800000,
+        "entityFullName": "Helena Education Assn PAC for Education",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Shawn, Jane",
+                "address": "1260 Lucchese Road Helena, MT  59602",
+                "phone": "(434) 962-8098",
+                "email": "jshawn@helenaschools.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Melissa Romano State Superintendent",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

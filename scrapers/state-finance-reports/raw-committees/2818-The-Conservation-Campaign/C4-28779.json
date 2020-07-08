@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 28779,
+        "fromDateStr": "09/14/2012",
+        "toDateStr": "10/19/2012",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 2818,
+        "candidateName": "The Conservation Campaign",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/14/2012",
+        "end_date": "10/19/2012",
+        "receipts": 0.0,
+        "expenditures": 33000.0,
+        "cash_in_bank": -33000.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "09/14/12",
+            "Entity Name": "Bozeman Parks & Trails, a project of The Conservation Campaign",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 7021",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59771",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 33000.0,
+            "Purpose": "Contribution to Bozeman Parks & Trails, a project of The Conservation Campaign, political committee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

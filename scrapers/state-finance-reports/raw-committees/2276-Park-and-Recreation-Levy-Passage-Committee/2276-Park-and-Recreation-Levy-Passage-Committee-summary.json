@@ -1,0 +1,43 @@
+{
+    "slug": "2276-Park-and-Recreation-Levy-Passage-Committee",
+    "committeeName": "Park and Recreation Levy Passage Committee",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2276,
+        "committeeName": "Park and Recreation Levy Passage Committee",
+        "committeeAddress": "326 Seventh Ave., Cut Bank, MT 59427",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1221843273000,
+        "entityFullName": "Park and Recreation Levy Passage Committee",
+        "entityCity": "Cut Bank",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Berkram, Treasure",
+                "address": "326 Seventh Ave. Cut Bank, MT  59427",
+                "phone": "(406) 873-9111",
+                "email": "treasureb@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Park Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

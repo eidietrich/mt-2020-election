@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 39197,
+        "fromDateStr": "06/29/2016",
+        "toDateStr": "11/06/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 6375,
+        "candidateName": "St. Vincent Healthcare",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/29/2016",
+        "end_date": "11/06/2018",
+        "receipts": 0.0,
+        "expenditures": 10000.0,
+        "cash_in_bank": -10000.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "06/29/17",
+            "Entity Name": "Montanans for Higher Education",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 377",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59103",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 10000.0,
+            "Purpose": "Donation to Montanans for Higher Education",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

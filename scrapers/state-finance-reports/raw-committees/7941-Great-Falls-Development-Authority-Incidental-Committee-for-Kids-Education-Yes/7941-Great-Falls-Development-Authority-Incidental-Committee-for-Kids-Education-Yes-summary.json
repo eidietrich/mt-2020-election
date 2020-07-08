@@ -1,0 +1,43 @@
+{
+    "slug": "7941-Great-Falls-Development-Authority-Incidental-Committee-for-Kids-Education-Yes",
+    "committeeName": "Great Falls Development Authority Incidental Committee for Kids Education Yes",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7941,
+        "committeeName": "Great Falls Development Authority Incidental Committee for Kids Education Yes",
+        "committeeAddress": "PO Box 949, Great Falls, MT 59403",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2019",
+        "amendedDate": 1551250800000,
+        "entityFullName": "Great Falls Development Authority Incidental Committee for Kids Education Yes",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Doney, Brett",
+                "address": "PO Box 949 Great Falls, MT  59403",
+                "phone": "(406) 750-2119",
+                "email": "bdoney@gfdevelopment.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Kids Education Yes",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

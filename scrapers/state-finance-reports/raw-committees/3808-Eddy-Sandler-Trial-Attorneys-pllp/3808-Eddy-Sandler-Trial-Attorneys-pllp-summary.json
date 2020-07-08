@@ -1,0 +1,43 @@
+{
+    "slug": "3808-Eddy-Sandler-Trial-Attorneys-pllp",
+    "committeeName": "Eddy Sandler Trial Attorneys, pllp",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3808,
+        "committeeName": "Eddy Sandler Trial Attorneys, pllp",
+        "committeeAddress": "33 Second Street East, Suite 1, Kalispell, MT 59901",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1416380400000,
+        "entityFullName": "Eddy Sandler Trial Attorneys, pllp",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Eddy, Amy",
+                "address": "33 Second Street East, Suite 1 Kalispell, MT  59901",
+                "phone": "(406) 752-3303",
+                "email": "amyeddy@eddysandler.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Justice Mike Wheat",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

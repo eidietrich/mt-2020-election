@@ -1,0 +1,48 @@
+{
+    "slug": "3460-Montanans-for-Liberty-and-Justice",
+    "committeeName": "Montanans for Liberty and Justice",
+    "scrape_date": "2020-07-02",
+    "periods": 30,
+    "data": {
+        "committeeId": 3460,
+        "committeeName": "Montanans for Liberty and Justice",
+        "committeeAddress": "32 S. Ewing, #304, Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1590991200000,
+        "entityFullName": "Montanans for Liberty and Justice",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Smith Jr., Allen",
+                "address": "P.O. Box 838 Helena, MT  59624",
+                "phone": "(406) 443-3124",
+                "email": "mtla@mt.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Taylor, Mary",
+                "address": "P.O. Box 838 Helena, MT  59624",
+                "phone": "(406) 443-3124",
+                "email": "mtla@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system. ",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Laurie McKinnon",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

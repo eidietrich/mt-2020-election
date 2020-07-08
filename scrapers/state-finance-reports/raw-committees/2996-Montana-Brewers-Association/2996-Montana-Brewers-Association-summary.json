@@ -1,0 +1,43 @@
+{
+    "slug": "2996-Montana-Brewers-Association",
+    "committeeName": "Montana Brewers Association ",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 2996,
+        "committeeName": "Montana Brewers Association ",
+        "committeeAddress": "Po Box 763, Helena, MT 59624",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "Y",
+        "electionYear": "2000",
+        "amendedDate": 1454050800000,
+        "entityFullName": "Montana Brewers Association ",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Goeltz, Jason",
+                "address": "101 Marcus Street Hamilton, MT  59840",
+                "phone": "(406) 529-4288",
+                "email": "jason@bitterrootbrewing.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Leow, Matt",
+                "address": "PO Box 763 Helena, MT  59624",
+                "phone": "(406) 498-2739",
+                "email": "matt@montanabrewers.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To support the growth and well being of the craft brewing industry in Montana",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

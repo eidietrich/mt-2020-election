@@ -1,0 +1,43 @@
+{
+    "slug": "2098-Helenans-for-Troops-Home",
+    "committeeName": "Helenans for Troops Home",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2098,
+        "committeeName": "Helenans for Troops Home",
+        "committeeAddress": "PO Box 86 406 N. Ewing, Helena, MT 59601",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2007",
+        "amendedDate": 1187132688000,
+        "entityFullName": "Helenans for Troops Home",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "N/A",
+                "address": "1414 Hauser Blvd. Helena, MT  59601",
+                "phone": "(406) 449-8996",
+                "email": "jmundinger@montana.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Passage of 2007-1",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

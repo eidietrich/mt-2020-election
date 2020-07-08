@@ -1,0 +1,43 @@
+{
+    "slug": "6373-Montanans-for-Locker-Room-Privacy",
+    "committeeName": "Montanans for Locker Room Privacy",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 6373,
+        "committeeName": "Montanans for Locker Room Privacy",
+        "committeeAddress": "PO Box 485, Laurel, MT 59044",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1530770400000,
+        "entityFullName": "Montanans for Locker Room Privacy",
+        "entityCity": "Laurel",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Barber, Shainne",
+                "address": "PO Box 485 Laurel, MT  59044",
+                "phone": "(406) 628-1141",
+                "email": "shainne@montanafamily.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Laszloffy, Jeff",
+                "address": "PO Box 485 Laurel, MT  59044",
+                "phone": "(406) 628-1141",
+                "email": "jeff@montanafamily.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Montana Locker Room Privacy Act Ballot Initiative",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

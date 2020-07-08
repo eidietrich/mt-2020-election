@@ -1,0 +1,43 @@
+{
+    "slug": "6417-Montanans-Against-Higher-Taxes",
+    "committeeName": "Montanans Against Higher Taxes",
+    "scrape_date": "2020-07-02",
+    "periods": 13,
+    "data": {
+        "committeeId": 6417,
+        "committeeName": "Montanans Against Higher Taxes",
+        "committeeAddress": "PO BOX 1111, Three Forks, MT 59752",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1541487600000,
+        "entityFullName": "Montanans Against Higher Taxes",
+        "entityCity": "Three Forks",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Adams, Timothy",
+                "address": "PO BOX 1111 Three Forks, MT  59752",
+                "phone": "(406) 579-9880",
+                "email": "nohightaxesmt@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-128 SB85",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

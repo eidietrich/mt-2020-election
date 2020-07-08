@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 34475,
+        "fromDateStr": "02/25/2016",
+        "toDateStr": "03/27/2016",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 5021,
+        "candidateName": "McLaughlin Research Institute for Biomedical Sciences, Inc.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "02/25/2016",
+        "end_date": "03/27/2016",
+        "receipts": 0.0,
+        "expenditures": 416.75,
+        "cash_in_bank": -45227.05
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "02/29/16",
+            "Entity Name": "Carlson, George",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "224 Sun Loop Lane",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59404",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 416.75,
+            "Purpose": "Montanans for Research and Cures; in-kind payroll costs (2%) for advising on research initiative",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

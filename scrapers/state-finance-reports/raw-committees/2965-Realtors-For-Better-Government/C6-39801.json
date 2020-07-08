@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 39801,
+        "fromDateStr": "11/28/2017",
+        "toDateStr": "12/31/2017",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 2965,
+        "candidateName": "Realtors For Better Government",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/28/2017",
+        "end_date": "12/31/2017",
+        "receipts": 1500.0,
+        "expenditures": 1200.0,
+        "cash_in_bank": 1281.77
+    },
+    "contributions": [
+        {
+            "Date Paid": "12/28/17",
+            "Entity Name": "Montana RPAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1 A Montana Ave, STE M 1",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Political Party Committee Contributions",
+            "Amount": 1500.0,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "Primary",
+            "Total Primary": 1500.0,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "12/28/17",
+            "Entity Name": "Gallus, Chris J",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1423 E. Otter Rd",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59602",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 1200.0,
+            "Purpose": "Legal Fees",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

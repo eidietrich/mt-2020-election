@@ -1,0 +1,43 @@
+{
+    "slug": "2402-Montana-Silver-Haired-Legislature",
+    "committeeName": "Montana Silver Haired Legislature",
+    "scrape_date": "2020-07-01",
+    "periods": 6,
+    "data": {
+        "committeeId": 2402,
+        "committeeName": "Montana Silver Haired Legislature",
+        "committeeAddress": "2214 6th Ave. North, Great Falls, MT 59401",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1263495486000,
+        "entityFullName": "Montana Silver Haired Legislature",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI-103",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

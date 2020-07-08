@@ -1,0 +1,68 @@
+{
+    "slug": "2649-Helena-Firefighters-Local-448-PAC",
+    "committeeName": "Helena Firefighters Local 448 PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 2649,
+        "committeeName": "Helena Firefighters Local 448 PAC",
+        "committeeAddress": "300 Neill Ave, Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1475128800000,
+        "entityFullName": "Helena Firefighters Local 448 PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Maslowski, David J",
+                "address": "104 Fairway Dr. Helena, MT  59601",
+                "phone": "(701) 471-2627",
+                "email": "dave_maslowski@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Melissa Romano State Superintendent",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Labor and Employment issues",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Denise Juneau for U.S. House of Representatives",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steve Bullock",
+                "position": "Support",
+                "status": "On ballot, approved"
+            },
+            {
+                "interest": "Larry Jent",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jesse Laslovich \u2013 Auditor race",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

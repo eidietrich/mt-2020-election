@@ -1,0 +1,88 @@
+{
+    "slug": "402-Montana-Conservation-Voters-Action-Fund",
+    "committeeName": "Montana Conservation Voters Action Fund",
+    "scrape_date": "2020-07-02",
+    "periods": 37,
+    "data": {
+        "committeeId": 402,
+        "committeeName": "Montana Conservation Voters Action Fund",
+        "committeeAddress": "PO Box 63, Billings, MT 59103",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "Y",
+        "electionYear": "2000",
+        "amendedDate": 1590991200000,
+        "entityFullName": "Montana Conservation Voters Action Fund",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ericsson, Sally",
+                "address": "PO Box 63 Billings, MT  59103",
+                "phone": "(406) 254-1593",
+                "email": "accountant@mtvoters.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Murphy, Aaron",
+                "address": "PO Box 63 Billings, ME  59103",
+                "phone": "(406) 254-1593",
+                "email": "aaron@mtvoters.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Raph Graybill MT Attorney General",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Melissa Romano MT Superintendent of Public Instruction",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Monica Tranel MT Public Service Commission District 4",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "HD Dave Fern 4, Jamie Horn 21, Barbara Bessette 24, Helena Lovick 26, Jessica Karjala 48, Anne Guiliano 51",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "HD Hannah Olsen 52, Ed Staffman 62, Alice Buckley 63, Kelly Kortum 65, Collette Campell 67, Kim Abott 83, Lisa Pavlock 93, Danny Tenebaum 95, Willis Curdy 98, Mark Thane 99",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Tom Woods, MT Public Service Commission District 3",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Supports candidates for local legislative and statewide office who support conservation values. ",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "SD Chris Pope 31",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Shane Morigeau MT Auditor",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bryce Bennett MT Secretary of State",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

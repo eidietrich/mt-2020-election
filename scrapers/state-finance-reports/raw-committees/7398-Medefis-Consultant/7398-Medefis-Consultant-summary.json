@@ -1,0 +1,43 @@
+{
+    "slug": "7398-Medefis-Consultant",
+    "committeeName": "Medefis Consultant",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7398,
+        "committeeName": "Medefis Consultant",
+        "committeeAddress": "2121 N. 117th Avenue, Suite 200, Omaha, NE 68164",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1528178400000,
+        "entityFullName": "Medefis Consultant",
+        "entityCity": "Omaha",
+        "entityState": "NE"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Luther, Jessie",
+                "address": "1 S. Montana Ave, Suite M-2 Helena, MT  59601",
+                "phone": "",
+                "email": "jessie@taylorluthergroup.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "contribution to MHA PAC",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "7099-Kalispell-Chamber-of-Commerce-(Flathead-County-Initiative-17-01)",
+    "committeeName": "Kalispell Chamber of Commerce (Flathead County Initiative 17-01)",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7099,
+        "committeeName": "Kalispell Chamber of Commerce (Flathead County Initiative 17-01)",
+        "committeeAddress": "15 Depot Park, Kalispell, MT 59901",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1528437600000,
+        "entityFullName": "Kalispell Chamber of Commerce (Flathead County Initiative 17-01)",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Unterreiner, Joe",
+                "address": "15 Depot Park Kalispell, MT  59901",
+                "phone": "(406) 758-2804",
+                "email": "joe@kalispellchamber.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Flathead County Initiative No. 17-01",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

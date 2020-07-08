@@ -1,0 +1,37 @@
+{
+    "slug": "8123-Cascade-County-Republican-Women-PAC",
+    "committeeName": "Cascade County Republican Women PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 8123,
+        "committeeName": "Cascade County Republican Women PAC",
+        "committeeAddress": "P.O. Box 6465, Great Falls, MT 59406",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1584597600000,
+        "entityFullName": "Cascade County Republican Women PAC",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Lennick, Marcia",
+                "address": "P.O. Box 6465 Gt. Falls, MT  59406",
+                "phone": "(406) 231-9092",
+                "email": "marciaalennick@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

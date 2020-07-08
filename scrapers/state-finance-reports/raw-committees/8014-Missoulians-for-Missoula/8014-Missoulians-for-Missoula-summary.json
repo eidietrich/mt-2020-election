@@ -1,0 +1,78 @@
+{
+    "slug": "8014-Missoulians-for-Missoula",
+    "committeeName": "Missoulians for Missoula",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 8014,
+        "committeeName": "Missoulians for Missoula",
+        "committeeAddress": "PO Box 16682, Missoula, MT 59808",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1574751600000,
+        "entityFullName": "Missoulians for Missoula",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wenetta, Katie",
+                "address": "PO Box 5315 Helena, MT  59604",
+                "phone": "",
+                "email": "katie.montana.campaigns@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "John P. Contos for Missoula City Council",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Alex Michael Fregerio for Missoula City Council",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Brent Sperry for Missoula City Council ",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mirtha Becerra for Missoula City Council",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Amber Sherrill for Missoula City Council",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Sandra Vasecka for Missoula City Council",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Alan C. Ault for Missoula City Council",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Nick Shontz for Missoula City Council",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

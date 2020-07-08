@@ -1,0 +1,37 @@
+{
+    "slug": "5199-MEA-MFT-4476--Friends-of-Three-Forks",
+    "committeeName": "MEA MFT 4476/ Friends of Three Forks",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5199,
+        "committeeName": "MEA MFT 4476/ Friends of Three Forks",
+        "committeeAddress": "PO Box 1372, Three Forks, MT 59752",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1464242400000,
+        "entityFullName": "MEA MFT 4476/ Friends of Three Forks",
+        "entityCity": "Three Forks",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Corie, Perrin",
+                "address": "123 Green Pasture Dr. Manhattan, MT  59741",
+                "phone": "",
+                "email": "corieperrin@yahoo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

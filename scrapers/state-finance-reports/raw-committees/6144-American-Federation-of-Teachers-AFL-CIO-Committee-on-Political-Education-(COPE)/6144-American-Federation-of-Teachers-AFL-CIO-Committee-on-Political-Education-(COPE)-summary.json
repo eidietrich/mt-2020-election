@@ -1,0 +1,43 @@
+{
+    "slug": "6144-American-Federation-of-Teachers-AFL-CIO-Committee-on-Political-Education-(COPE)",
+    "committeeName": "American Federation of Teachers, AFL-CIO Committee on Political Education (COPE)",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6144,
+        "committeeName": "American Federation of Teachers, AFL-CIO Committee on Political Education (COPE)",
+        "committeeAddress": "555 New Jersey Ave NW, Washington, DC 20001",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2017",
+        "amendedDate": 1514271600000,
+        "entityFullName": "American Federation of Teachers, AFL-CIO Committee on Political Education (COPE)",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Johnson, Lorretta",
+                "address": "555 New Jersay Ave NW Washington, DC  20001",
+                "phone": "(202) 253-5453",
+                "email": "kbullock@afl.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "YES for East Helena Kids",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

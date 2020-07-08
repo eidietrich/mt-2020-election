@@ -1,0 +1,113 @@
+{
+    "slug": "5897-Missoula-County-Republican-Central-Committee",
+    "committeeName": "Missoula County Republican Central Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 8,
+    "data": {
+        "committeeId": 5897,
+        "committeeName": "Missoula County Republican Central Committee",
+        "committeeAddress": "PO Box 2082, Missoula, MT 59806",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1589868000000,
+        "entityFullName": "Missoula County Republican Central Committee",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Minjares, Carol J",
+                "address": "6460 Mullan Rd Missoula, MT  59808",
+                "phone": "(406) 728-7994",
+                "email": "caroljm36@msn.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "David Doc Moore",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Carol Minjares HD 100",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Kathy Whitman HD 96",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Brad Tschida HD 97",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Will Deschamps PSC Region 4",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Bethanie Calvert Wanberg",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Mike Warner SD 45",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Kelsey Cooley HD 94",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Alan Ault Missoula County Commissioner",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Gary D. Wanberg HD 89",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Mike Hopkins HD 92",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Lana Hamilton HD 90",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Rebecca Dawson HD 95",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Nancy Burgoyne HD 98",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Niki Sardot SD 46",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

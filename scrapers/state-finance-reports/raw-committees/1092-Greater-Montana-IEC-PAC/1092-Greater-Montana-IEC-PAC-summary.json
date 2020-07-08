@@ -1,0 +1,68 @@
+{
+    "slug": "1092-Greater-Montana-IEC-PAC",
+    "committeeName": "Greater Montana IEC PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 20,
+    "data": {
+        "committeeId": 1092,
+        "committeeName": "Greater Montana IEC PAC",
+        "committeeAddress": "PO Box 6955, Helena, MT 59604",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1588140000000,
+        "entityFullName": "Greater Montana IEC PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Morgan, Margaret",
+                "address": "PO Box 6955 Helena, MT  59604",
+                "phone": "(406) 431-9836",
+                "email": "mgtmorgan@morganconsults.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Derek Skees for HD11",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Randy Chamberlain for HD64",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Rhonda Knudsen for HD34",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Carl Glimm for SD2",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "David Dunn HD 09",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mark Noland for HD 10",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

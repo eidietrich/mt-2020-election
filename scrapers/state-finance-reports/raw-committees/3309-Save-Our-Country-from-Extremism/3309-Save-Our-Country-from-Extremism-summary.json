@@ -1,0 +1,43 @@
+{
+    "slug": "3309-Save-Our-Country-from-Extremism",
+    "committeeName": "Save Our Country from Extremism",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 3309,
+        "committeeName": "Save Our Country from Extremism",
+        "committeeAddress": "PO Box 1353, Townsend, MT 59644",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1471240800000,
+        "entityFullName": "Save Our Country from Extremism",
+        "entityCity": "Townsend",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Turcotte, Helen",
+                "address": "60 Carson Lane Townsend, MT  59644",
+                "phone": "(406) 266-3482",
+                "email": "paulputz@mt.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Putz, Paul M",
+                "address": "101 S. Maple Townsend, MT  59644",
+                "phone": "(406) 266-3287",
+                "email": "paulputz@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To maintain the moderate political climate in Broadwater county and counter attempts by political extremists of any persuasion to expand their foothold here.",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

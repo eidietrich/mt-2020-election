@@ -1,0 +1,43 @@
+{
+    "slug": "3135-Montanans-for-Death-with-Dignity",
+    "committeeName": "Montanans for Death with Dignity",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 3135,
+        "committeeName": "Montanans for Death with Dignity",
+        "committeeAddress": "1433 South First Street West , Missoula, MT 59801",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1463378400000,
+        "entityFullName": "Montanans for Death with Dignity",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bentley, Emily B",
+                "address": "1433 South First Street West  Missoula, MT  59801",
+                "phone": "(406) 546-6552",
+                "email": "bentleyforcouncil@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Grennan, Jessica",
+                "address": "2101 Dearborn #16 Missoula, MT  59801",
+                "phone": "",
+                "email": "jkgrennan@gmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To elect candidates to the Montana State Legislature who support the right of Montanans to have aid in dying",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

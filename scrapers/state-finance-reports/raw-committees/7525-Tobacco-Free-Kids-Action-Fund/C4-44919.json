@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 44919,
+        "fromDateStr": "10/28/2018",
+        "toDateStr": "11/21/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7525,
+        "candidateName": "Tobacco-Free Kids Action Fund ",
+        "statusDescr": "Amended",
+        "amendedDate": 1555527189000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/28/2018",
+        "end_date": "11/21/2018",
+        "receipts": 0.0,
+        "expenditures": 608.72,
+        "cash_in_bank": -6245.51
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/21/18",
+            "Entity Name": "Tobacco Free Kids Action Fund ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1400 I Street NW Suite # 1200",
+            "City": "Washington",
+            "State": "DC",
+            "Zip": "20005",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 608.72,
+            "Purpose": "11 hours of staff time to support I-85 Ballot (See Addendum)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

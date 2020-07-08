@@ -1,0 +1,43 @@
+{
+    "slug": "6990-North-Valley-Hospital-Incidental-Committee",
+    "committeeName": "North Valley Hospital Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6990,
+        "committeeName": "North Valley Hospital Incidental Committee",
+        "committeeAddress": "1600 Hospital Way, Whitefish, MT 59901",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1525154400000,
+        "entityFullName": "North Valley Hospital Incidental Committee",
+        "entityCity": "Whitefish",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Pearce, Charles T",
+                "address": "310 Sunnyview Lane Kalispell, MT  59901",
+                "phone": "(406) 752-1724",
+                "email": "cpearce@krmc.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "contribution made to support ballot initiative to increase tobacco taxes to support health care programs",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

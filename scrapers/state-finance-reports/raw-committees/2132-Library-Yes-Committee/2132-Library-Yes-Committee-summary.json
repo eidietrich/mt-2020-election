@@ -1,0 +1,43 @@
+{
+    "slug": "2132-Library-Yes-Committee",
+    "committeeName": "Library Yes Committee",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 2132,
+        "committeeName": "Library Yes Committee",
+        "committeeAddress": "PO Box 461 2 N Last Chance Gulch Suite 2, Helena, MT 59601",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1201643440000,
+        "entityFullName": "Library Yes Committee",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "N/A",
+                "address": "P.O Box 1699 Helena, MT  59624",
+                "phone": "(406) 449-7516",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Beckstrom, Kimberly",
+                "address": "",
+                "phone": "(406) 443-5965",
+                "email": "kbeckstrom@valleybankhelena.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Resolution 2008-11",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

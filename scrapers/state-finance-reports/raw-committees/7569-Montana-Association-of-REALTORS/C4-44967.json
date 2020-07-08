@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 44967,
+        "fromDateStr": "10/21/2018",
+        "toDateStr": "11/21/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7569,
+        "candidateName": "Montana Association of REALTORS",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/21/2018",
+        "end_date": "11/21/2018",
+        "receipts": 0.0,
+        "expenditures": 51.59,
+        "cash_in_bank": -15794.45
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/21/18",
+            "Entity Name": "Montana Association REALTORS",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1 S Montana ave, Ste M1",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 51.59,
+            "Purpose": "Paid staff time IE activity in support T. Jacobson, SD11,E Buttrey HD 21, B Hamlett HD 23, J Trebas HD 25, M Sweeney HD 77, A Hertz HD 96",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

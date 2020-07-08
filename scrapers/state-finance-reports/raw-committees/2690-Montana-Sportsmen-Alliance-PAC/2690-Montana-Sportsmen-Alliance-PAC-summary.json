@@ -1,0 +1,43 @@
+{
+    "slug": "2690-Montana-Sportsmen-Alliance-PAC",
+    "committeeName": "Montana Sportsmen Alliance PAC ",
+    "scrape_date": "2020-07-02",
+    "periods": 22,
+    "data": {
+        "committeeId": 2690,
+        "committeeName": "Montana Sportsmen Alliance PAC ",
+        "committeeAddress": " 243 Blue Lane, Hamilton, MT 59840",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "Y",
+        "electionYear": "2000",
+        "amendedDate": 1477980000000,
+        "entityFullName": "Montana Sportsmen Alliance PAC ",
+        "entityCity": "Hamilton",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wood, Robert S",
+                "address": "243 Blue Lane Hamilton, MT  59840",
+                "phone": "(406) 531-5043",
+                "email": "rswood.msa.treasurer@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Find and support stte candidates that are supportive of Cconservationists sportsman in Montana",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

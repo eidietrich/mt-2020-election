@@ -1,0 +1,37 @@
+{
+    "slug": "8316-MONCAR",
+    "committeeName": "MONCAR ",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 8316,
+        "committeeName": "MONCAR ",
+        "committeeAddress": "501 N Sanders St, Helena, MT 59601",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "Y",
+        "electionYear": "2000",
+        "amendedDate": 1579762800000,
+        "entityFullName": "MONCAR ",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Knudsen, Bruce",
+                "address": "501 N Sanders St Helena, MT  59601",
+                "phone": "(406) 442-1233",
+                "email": "bknudsen@mtada.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Jean, Debbie",
+                "address": "501 N Sanders St Helena, MT  59601",
+                "phone": "(406) 442-1233",
+                "email": "bkkpr@mtada.com"
+            }
+        ],
+        "issues": []
+    }
+}

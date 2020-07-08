@@ -1,0 +1,43 @@
+{
+    "slug": "7911-Billings-Clinic-Incidental-Committee",
+    "committeeName": "Billings Clinic Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7911,
+        "committeeName": "Billings Clinic Incidental Committee",
+        "committeeAddress": "P.O. Box 37000, Billings, MT 59107",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1543561200000,
+        "entityFullName": "Billings Clinic Incidental Committee",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Connie, Prewitt",
+                "address": "2800 10th Avenue North Billings, MT  59101",
+                "phone": "(406) 672-6596",
+                "email": "cprewitt@billingsclinic.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "6 Mill Levy",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

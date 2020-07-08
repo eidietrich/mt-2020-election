@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 40128,
+        "fromDateStr": "01/01/2018",
+        "toDateStr": "02/28/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 392,
+        "candidateName": "Missoula Unified PACE for Education aka Missoula County Public Schools Local",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/01/2018",
+        "end_date": "02/28/2018",
+        "receipts": 335.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 4976.94
+    },
+    "contributions": [
+        {
+            "Date Paid": "02/28/18",
+            "Entity Name": "Missoula Ed Assoc-Unified Pac, Missoula Ed Assoc",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "",
+            "City": "",
+            "State": "",
+            "Zip": "",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -137.0,
+            "Amount Type": "CA",
+            "Purpose": "Member Collections from 96 members",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 137.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

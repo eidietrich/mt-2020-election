@@ -1,0 +1,43 @@
+{
+    "slug": "249-Fergus-County-Democratic-Central-Committee",
+    "committeeName": "Fergus County Democratic Central Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 16,
+    "data": {
+        "committeeId": 249,
+        "committeeName": "Fergus County Democratic Central Committee",
+        "committeeAddress": "PO Box 525, Lewistown, MT 59457",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1579158000000,
+        "entityFullName": "Fergus County Democratic Central Committee",
+        "entityCity": "Lewistown",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Canfield, Arthur",
+                "address": "PO Box 758 Lewistown, MT  59457",
+                "phone": "(406) 366-1999",
+                "email": "artcanfield@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Lodman, Barbara J",
+                "address": "139 Mt Pleasant St Lewistown, MT  59457",
+                "phone": "(510) 673-8033",
+                "email": "lodman@sbcglobal.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Democratic activities",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

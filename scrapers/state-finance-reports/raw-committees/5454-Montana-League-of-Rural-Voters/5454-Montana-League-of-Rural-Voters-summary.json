@@ -1,0 +1,43 @@
+{
+    "slug": "5454-Montana-League-of-Rural-Voters",
+    "committeeName": "Montana League of Rural Voters",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 5454,
+        "committeeName": "Montana League of Rural Voters",
+        "committeeAddress": "PO Box 522, Billings, MT 59103",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1480316400000,
+        "entityFullName": "Montana League of Rural Voters",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McMillan, Janet",
+                "address": "PO Box 522 Billings, MT  59103",
+                "phone": "",
+                "email": "paula@ruralvoters.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Haight, Adam",
+                "address": "PO Box 522 Billings, MT  59103",
+                "phone": "",
+                "email": "adam@ruralvoters.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To promote the interests of rural voters through the civic process",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

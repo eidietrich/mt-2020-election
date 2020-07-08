@@ -1,0 +1,43 @@
+{
+    "slug": "7989-Medefis-Incidental-Committee",
+    "committeeName": "Medefis Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7989,
+        "committeeName": "Medefis Incidental Committee",
+        "committeeAddress": "2121 N 117th Ave, Ste. 200, Omaha, NE 68164",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2019",
+        "amendedDate": 1560751200000,
+        "entityFullName": "Medefis Incidental Committee",
+        "entityCity": "Omaha",
+        "entityState": "NE"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Luther, Jessie",
+                "address": "1 S. Montana Ave., Ste. M-2 Helena, MT  59601",
+                "phone": "(406) 441-4871",
+                "email": "Jessie@taylorluthergroup.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Contribution to MHA PAC",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

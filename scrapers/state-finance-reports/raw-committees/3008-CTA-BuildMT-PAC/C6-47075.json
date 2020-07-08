@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 47075,
+        "fromDateStr": "03/01/2020",
+        "toDateStr": "03/25/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 3008,
+        "candidateName": "CTA BuildMT PAC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/01/2020",
+        "end_date": "03/25/2020",
+        "receipts": 0.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 1396.08
+    },
+    "contributions": [],
+    "expenditures": []
+}

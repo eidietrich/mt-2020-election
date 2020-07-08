@@ -1,0 +1,37 @@
+{
+    "slug": "2545-RBS-Computer-Inc-dba-Royal-Management",
+    "committeeName": "RBS Computer Inc dba Royal Management",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2545,
+        "committeeName": "RBS Computer Inc dba Royal Management",
+        "committeeAddress": "P O Box 690627, San Antonio, TX 78257",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1282312348000,
+        "entityFullName": "RBS Computer Inc dba Royal Management",
+        "entityCity": "San Antonio",
+        "entityState": "TX"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hudson, Rebecca I",
+                "address": "PO Box 690627 San Antonio, TX  78269",
+                "phone": "(210) 289-4650",
+                "email": "royalmang@aol.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

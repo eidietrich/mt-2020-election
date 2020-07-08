@@ -1,0 +1,43 @@
+{
+    "slug": "5375-Safe-Montana",
+    "committeeName": "Safe Montana",
+    "scrape_date": "2020-07-02",
+    "periods": 12,
+    "data": {
+        "committeeId": 5375,
+        "committeeName": "Safe Montana",
+        "committeeAddress": "Po Box 20515, Billings, MT 59104",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1477029600000,
+        "entityFullName": "Safe Montana",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Zabawa, Stephen",
+                "address": "PO Box 20515 Billings, MT  59106",
+                "phone": "",
+                "email": "z@safemontana.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support I-176",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

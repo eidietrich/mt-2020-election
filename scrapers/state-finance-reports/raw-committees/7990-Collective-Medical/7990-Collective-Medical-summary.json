@@ -1,0 +1,43 @@
+{
+    "slug": "7990-Collective-Medical",
+    "committeeName": "Collective Medical",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7990,
+        "committeeName": "Collective Medical",
+        "committeeAddress": "2855 Cottonwood Pkwy Ste 200, Salt Lake City, UT 84109",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2019",
+        "amendedDate": 1560751200000,
+        "entityFullName": "Collective Medical",
+        "entityCity": "Salt Lake City",
+        "entityState": "UT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Luther, Jessie",
+                "address": "1 S. Montana Ave., Ste. M-2 Helena, MT  59601",
+                "phone": "(406) 441-4871",
+                "email": "jessie@taylorluthergroup.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Contribution to MHA PAC",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "7404-Families-USA-Action",
+    "committeeName": "Families USA Action",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7404,
+        "committeeName": "Families USA Action",
+        "committeeAddress": "1225 New York Avenue, NW, Suite 800, Washington, DC 20005",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1531116000000,
+        "entityFullName": "Families USA Action",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Luther, Jessie",
+                "address": "One South Montana Avenue, Suite M-2 Helena, MT  59601",
+                "phone": "(406) 441-4871",
+                "email": "taylorluthergroup.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Shapiro, Lisa",
+                "address": "1225 New York Avenue, NW, Suite 800 Washington, DC  20005",
+                "phone": "(202) 774-5576",
+                "email": "lshapiro@familiesusa.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Montana Medicaid Expansion",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

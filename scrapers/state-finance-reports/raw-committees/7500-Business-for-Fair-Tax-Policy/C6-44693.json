@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 44693,
+        "fromDateStr": "10/18/2018",
+        "toDateStr": "11/21/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 7500,
+        "candidateName": "Business for Fair Tax Policy",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/18/2018",
+        "end_date": "11/21/2018",
+        "receipts": 0.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 0.0
+    },
+    "contributions": [
+        {
+            "Date Paid": "11/02/18",
+            "Entity Name": "Montana Chamber of Commerce",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1730",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Incidental Committee Contributions",
+            "Amount": 37.36,
+            "Amount Type": "IK",
+            "Purpose": "1 hour staff time to interview with Montana Free Press about opposition to passage of I-185",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 354.1,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

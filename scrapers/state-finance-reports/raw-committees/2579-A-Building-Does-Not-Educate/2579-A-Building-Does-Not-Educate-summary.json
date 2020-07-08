@@ -1,0 +1,43 @@
+{
+    "slug": "2579-A-Building-Does-Not-Educate",
+    "committeeName": "A Building Does Not Educate",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2579,
+        "committeeName": "A Building Does Not Educate",
+        "committeeAddress": "PO Box 235, Lewistown, MT 59457",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1285604600000,
+        "entityFullName": "A Building Does Not Educate",
+        "entityCity": "Lewistown",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Keller, Gloria A",
+                "address": "P O Box 235 Lewistown, MT  59457-0235",
+                "phone": "(406) 538-8678",
+                "email": "bobglo@lewistown.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School Levy",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

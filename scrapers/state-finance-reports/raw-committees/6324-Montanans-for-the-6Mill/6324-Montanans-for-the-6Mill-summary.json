@@ -1,0 +1,43 @@
+{
+    "slug": "6324-Montanans-for-the-6Mill",
+    "committeeName": "Montanans for the 6Mill ",
+    "scrape_date": "2020-07-02",
+    "periods": 15,
+    "data": {
+        "committeeId": 6324,
+        "committeeName": "Montanans for the 6Mill ",
+        "committeeAddress": "PO Box 1461, Helena, MT 59624",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1551423600000,
+        "entityFullName": "Montanans for the 6Mill ",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Brown, Bob",
+                "address": "PO Box 1461 Helena, MT  59624",
+                "phone": "",
+                "email": "bobbrownmt@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Caldwell, Lauren",
+                "address": "PO Box 1461 Helena, MT  59624",
+                "phone": "(406) 442-4250",
+                "email": "lcaldwell@mea-mft.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "6 Mill Levy",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "6975-Pondera-Medical-Center-Incidental-Committee",
+    "committeeName": "Pondera Medical Center Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6975,
+        "committeeName": "Pondera Medical Center Incidental Committee",
+        "committeeAddress": "PO Box 668, Conrad, MT 59425",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1522735200000,
+        "entityFullName": "Pondera Medical Center Incidental Committee",
+        "entityCity": "Conrad",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "O'Leary, William",
+                "address": "PO Box 668 Conrad, MT  59425",
+                "phone": "(406) 271-3211",
+                "email": "boleary@ponderamedical.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Contribution made to support ballot initiative to increase tobacco taxes to support health care programs",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

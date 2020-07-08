@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 40939,
+        "fromDateStr": "04/27/2018",
+        "toDateStr": "05/16/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7071,
+        "candidateName": "PPAMTC4IC",
+        "statusDescr": "Amended",
+        "amendedDate": 1593546936000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/27/2018",
+        "end_date": "05/16/2018",
+        "receipts": 0.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 0.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "05/16/18",
+            "Entity Name": "planned parenthood advocates of montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1116 Grand Ave., Ste. 201",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59102",
+            "Zip4": "",
+            "Expenditure Type": "Debts and Loans Not Yet Paid",
+            "Amount": 1153.36,
+            "Purpose": "Salary",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

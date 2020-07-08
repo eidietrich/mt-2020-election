@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 40325,
+        "fromDateStr": "10/01/2017",
+        "toDateStr": "12/31/2017",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 6373,
+        "candidateName": "Montanans for Locker Room Privacy",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/01/2017",
+        "end_date": "12/31/2017",
+        "receipts": 0.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 175.0
+    },
+    "contributions": [],
+    "expenditures": []
+}

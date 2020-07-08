@@ -1,0 +1,43 @@
+{
+    "slug": "2292-Flathead-Valley-Trout-Unlimited",
+    "committeeName": "Flathead Valley Trout Unlimited",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2292,
+        "committeeName": "Flathead Valley Trout Unlimited",
+        "committeeAddress": "PO Box 638, Kalispell, MT 59903",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1223403361000,
+        "entityFullName": "Flathead Valley Trout Unlimited",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Anacker, Glen D.",
+                "address": "PO Box 638 Kalispell, MT  59903",
+                "phone": "",
+                "email": "bulltrout@montanasky.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Flathead County Land and Water Bond",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

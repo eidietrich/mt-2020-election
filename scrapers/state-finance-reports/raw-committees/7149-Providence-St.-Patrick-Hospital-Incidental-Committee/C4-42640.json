@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 42640,
+        "fromDateStr": "06/29/2018",
+        "toDateStr": "07/27/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7149,
+        "candidateName": "Providence St. Patrick Hospital Incidental Committee",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/29/2018",
+        "end_date": "07/27/2018",
+        "receipts": 0.0,
+        "expenditures": 869.43,
+        "cash_in_bank": -4945.93
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "07/27/18",
+            "Entity Name": "Healthy Montana for I-185",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1614",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 869.43,
+            "Purpose": "in-kind contribution of staff time and expenses",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

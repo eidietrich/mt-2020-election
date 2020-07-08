@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 39051,
+        "fromDateStr": "07/09/2016",
+        "toDateStr": "03/29/2017",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 5148,
+        "candidateName": "Yes For Kids",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "07/09/2016",
+        "end_date": "03/29/2017",
+        "receipts": 0.0,
+        "expenditures": 5983.77,
+        "cash_in_bank": 0.56
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "03/29/17",
+            "Entity Name": "Great Schools Billings",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "404 Houle Dr.",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59102",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 5983.77,
+            "Purpose": "Contribution to committee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

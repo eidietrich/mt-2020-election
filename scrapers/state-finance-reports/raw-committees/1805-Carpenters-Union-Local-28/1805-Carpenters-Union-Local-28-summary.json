@@ -1,0 +1,37 @@
+{
+    "slug": "1805-Carpenters-Union-Local-28",
+    "committeeName": "Carpenters Union Local 28",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 1805,
+        "committeeName": "Carpenters Union Local 28",
+        "committeeAddress": "208 E Main, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2006",
+        "amendedDate": 1142617960000,
+        "entityFullName": "Carpenters Union Local 28",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Lathrop, Eric",
+                "address": "",
+                "phone": "(406) 777-1114",
+                "email": "ubc0028@qwest.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

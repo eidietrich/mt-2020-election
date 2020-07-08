@@ -1,0 +1,43 @@
+{
+    "slug": "2975-Montana-Milling",
+    "committeeName": "Montana Milling",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2975,
+        "committeeName": "Montana Milling",
+        "committeeAddress": "2123 Vaughan Rd, Great Falls, MT 59404",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1383251387000,
+        "entityFullName": "Montana Milling",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Montana Propserity PAC",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "slug": "2997-Montana-Business-PAC",
+    "committeeName": "Montana Business PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 24,
+    "data": {
+        "committeeId": 2997,
+        "committeeName": "Montana Business PAC",
+        "committeeAddress": "Po Box 1730, Helena, MT 59624",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1576047600000,
+        "entityFullName": "Montana Business PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "O'Hair, Todd",
+                "address": "PO Box 1730 Helena, MT  59624",
+                "phone": "(406) 431-3248",
+                "email": "todd@montanachamber.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Mahlum, Bridger L",
+                "address": "PO 1730 Helena, MT  59624",
+                "phone": "(406) 270-2652",
+                "email": "bridger@montanachamber.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Connell-SD43, Garner-HD7, Buttrey-HD21, Loge-HD14, Grubbs-HD68, Fitzgerald-HD17, and McKamey-HD19 for state legislature",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Contribute to the Montana Chamber of Commerce's Montana Business PAC to support pro-business candidates",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

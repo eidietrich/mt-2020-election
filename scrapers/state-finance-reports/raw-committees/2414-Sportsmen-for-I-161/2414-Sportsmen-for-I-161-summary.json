@@ -1,0 +1,43 @@
+{
+    "slug": "2414-Sportsmen-for-I-161",
+    "committeeName": "Sportsmen for I-161",
+    "scrape_date": "2020-07-01",
+    "periods": 13,
+    "data": {
+        "committeeId": 2414,
+        "committeeName": "Sportsmen for I-161",
+        "committeeAddress": "480 El Paso, Billings, MT 59101",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1265995202000,
+        "entityFullName": "Sportsmen for I-161",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Stewart, Brad",
+                "address": "480 El Pasc Billings, MT  59101",
+                "phone": "(406) 248-7953",
+                "email": "stewartgang@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-161",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

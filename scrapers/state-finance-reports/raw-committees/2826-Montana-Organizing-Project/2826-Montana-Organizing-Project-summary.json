@@ -1,0 +1,48 @@
+{
+    "slug": "2826-Montana-Organizing-Project",
+    "committeeName": "Montana Organizing Project",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2826,
+        "committeeName": "Montana Organizing Project",
+        "committeeAddress": "PO Box 438, Billings, MT 59103",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1349888556000,
+        "entityFullName": "Montana Organizing Project",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Helt, Jaqueline",
+                "address": "1042 E. Breadway Helena, MT  59601",
+                "phone": "",
+                "email": "jacquie.helt@seiu775.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR 121, Lr 122",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "I-166",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

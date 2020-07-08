@@ -1,0 +1,43 @@
+{
+    "slug": "7264-Gallatin-River-Task-Force",
+    "committeeName": "Gallatin River Task Force",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 7264,
+        "committeeName": "Gallatin River Task Force",
+        "committeeAddress": "PO Box 160513, Big Sky, MT 59716",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1525932000000,
+        "entityFullName": "Gallatin River Task Force",
+        "entityCity": "Big Sky",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Gardner, Kristin K",
+                "address": "PO Box 160513 Big Sky, MT  59716",
+                "phone": "(406) 993-2519",
+                "email": "kristin@gallatinrivertaskforce.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-186",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "slug": "7987-Montana-United",
+    "committeeName": "Montana United",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 7987,
+        "committeeName": "Montana United",
+        "committeeAddress": "PO Box 5212, Helena, MT 59604",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1590904800000,
+        "entityFullName": "Montana United",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Redding, Edward J",
+                "address": "PO Box 5212 Helena, MT  59604",
+                "phone": "",
+                "email": "redding@47-north.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Wenetta, Katie",
+                "address": "PO Box 5212 Helena, MT  59604",
+                "phone": "",
+                "email": "katie.montana.campaigns@gmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To Support Conservative Candidates and Causes",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Austin Knudsen for Attorney General",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jon Bennion for Attorney General",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

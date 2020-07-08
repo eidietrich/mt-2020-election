@@ -1,0 +1,43 @@
+{
+    "slug": "7328-LCV-Political-Engagement-Fund",
+    "committeeName": "LCV Political Engagement Fund",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 7328,
+        "committeeName": "LCV Political Engagement Fund",
+        "committeeAddress": "740 15th St NW, 7th Floor, Washington, DC 20005",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1526968800000,
+        "entityFullName": "LCV Political Engagement Fund",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Collins, Patrick",
+                "address": "740 15th St NW, 7th Floor Washington, DC  20005",
+                "phone": "(202) 785-8683",
+                "email": "patrick_collins@lcv.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To engage in exempt function activities related to environmental issues.",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

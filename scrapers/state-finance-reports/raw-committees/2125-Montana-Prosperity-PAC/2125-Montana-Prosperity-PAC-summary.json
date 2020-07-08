@@ -1,0 +1,58 @@
+{
+    "slug": "2125-Montana-Prosperity-PAC",
+    "committeeName": "Montana Prosperity PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 26,
+    "data": {
+        "committeeId": 2125,
+        "committeeName": "Montana Prosperity PAC",
+        "committeeAddress": "PO Box 1730, Helena, MT 59624",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1546412400000,
+        "entityFullName": "Montana Prosperity PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "O'Hair, Todd",
+                "address": "PO Box 1730 Helena, MT  59624",
+                "phone": "(406) 431-3248",
+                "email": "todd@montanachamber.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "N/A",
+                "address": "PO Box 1730 Helena, MT  59624",
+                "phone": "(406) 431-9508",
+                "email": "webb@montanachamber.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "White-HD64, A. Hertz-HD96, Anderson-HD20, Buttrey-HD21, Hoven-SD13, Esp-SD30, Kary-SD23, Dooling-HD70, Hopkins-HD92, Bogner-SD19 for state legislature",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bishop-HD60, Schreiner-HD26, Fern-HD5, Hamlett-HD23, Morigeau-HD95 for state legislature",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support pro-business candidates for office",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Connell-SD43, Garner-HD7, Buttrey-HD21, Loge-HD14, Grubbs-HD68, Fitzgerald-HD17, and McKamey-HD19 for state legislature",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "slug": "2906-Ronan-Library-District",
+    "committeeName": "Ronan Library District",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2906,
+        "committeeName": "Ronan Library District"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Rolfsness, Jennifer",
+                "address": "43786 Three Bear Lane Ronan, MT  59864",
+                "phone": "(406) 675-4744",
+                "email": "jbkranch@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Burke, Margaret",
+                "address": "PO Box 638 528 4th Ave. SE Ronan, MT  59864",
+                "phone": "(406) 676-2592",
+                "email": "mlbocity@yahoo.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Library Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

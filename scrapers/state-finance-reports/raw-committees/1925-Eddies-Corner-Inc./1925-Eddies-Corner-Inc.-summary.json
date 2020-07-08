@@ -1,0 +1,37 @@
+{
+    "slug": "1925-Eddies-Corner-Inc.",
+    "committeeName": "Eddies Corner, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 1925,
+        "committeeName": "Eddies Corner, Inc.",
+        "committeeAddress": "65000 US Highway 87, Moore, MT 59464",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1159888226000,
+        "entityFullName": "Eddies Corner, Inc.",
+        "entityCity": "Moore",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bauman, Joe M.",
+                "address": "64960 US Highway 87 Moore, MT  59464",
+                "phone": "(406) 374-2375",
+                "email": "baumans@ttc-cmc.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

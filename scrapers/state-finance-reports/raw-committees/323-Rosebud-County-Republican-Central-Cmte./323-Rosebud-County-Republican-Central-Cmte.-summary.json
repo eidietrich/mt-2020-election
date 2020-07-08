@@ -1,0 +1,37 @@
+{
+    "slug": "323-Rosebud-County-Republican-Central-Cmte.",
+    "committeeName": "Rosebud County Republican Central Cmte.",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 323,
+        "committeeName": "Rosebud County Republican Central Cmte.",
+        "committeeAddress": "PO Box 1076, Forsyth, MT 59327",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1494828000000,
+        "entityFullName": "Rosebud County Republican Central Cmte.",
+        "entityCity": "Forsyth",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Rohrich, C.",
+                "address": "1584 Old Highway 10 Forsyth, MT  59327",
+                "phone": "",
+                "email": "rcrepublicans@rangeweb.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

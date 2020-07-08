@@ -1,0 +1,43 @@
+{
+    "slug": "4811-Allegiance-Benefit-Plan-Management-Inc.",
+    "committeeName": "Allegiance Benefit Plan Management, Inc.",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 4811,
+        "committeeName": "Allegiance Benefit Plan Management, Inc.",
+        "committeeAddress": "PO Box 3018, Missoula, MT 59801",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2015",
+        "amendedDate": 1447052400000,
+        "entityFullName": "Allegiance Benefit Plan Management, Inc.",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Visser, Dirk",
+                "address": "PO Box 3018 Missoula, MT  59801",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Missoula Public School Bonds",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

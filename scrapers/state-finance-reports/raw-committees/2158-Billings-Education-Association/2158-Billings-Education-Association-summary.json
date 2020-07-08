@@ -1,0 +1,43 @@
+{
+    "slug": "2158-Billings-Education-Association",
+    "committeeName": "Billings Education Association",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2158,
+        "committeeName": "Billings Education Association",
+        "committeeAddress": "510 N. 29th Street, Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1210361145000,
+        "entityFullName": "Billings Education Association",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Fettig, Barbara",
+                "address": "1021 Picador Way Billings, MT  59105",
+                "phone": "(406) 248-9812",
+                "email": "shauna@beabillings.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Greenfield, Jeff",
+                "address": "510 N. 29th Street Billings, MT  59101",
+                "phone": "",
+                "email": "jgreenfield@beabillings.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

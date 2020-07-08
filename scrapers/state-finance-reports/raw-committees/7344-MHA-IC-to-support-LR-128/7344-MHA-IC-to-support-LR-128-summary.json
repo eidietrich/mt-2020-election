@@ -1,0 +1,43 @@
+{
+    "slug": "7344-MHA-IC-to-support-LR-128",
+    "committeeName": "MHA IC to support LR-128",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7344,
+        "committeeName": "MHA IC to support LR-128",
+        "committeeAddress": "2625 Winne Ave., Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1527228000000,
+        "entityFullName": "MHA IC to support LR-128",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Brown, Dick",
+                "address": "2625 Winne Ave. Helena, MT  59601",
+                "phone": "(406) 442-1911",
+                "email": "dick@mtha.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Luther, Jessie",
+                "address": "1 S. Montana Ave., Ste. M-2 Helena, MT  59601",
+                "phone": "",
+                "email": "jessie@taylorluthergroup.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-128",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

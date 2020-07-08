@@ -1,0 +1,37 @@
+{
+    "slug": "2602-Montana-Public-Interest-Research-Group-(MontPIRG)",
+    "committeeName": "Montana Public Interest Research Group (MontPIRG)",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2602,
+        "committeeName": "Montana Public Interest Research Group (MontPIRG)",
+        "committeeAddress": "32 Campus Drive, Missoula, MT 59806",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1287417169000,
+        "entityFullName": "Montana Public Interest Research Group (MontPIRG)",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Dusenberg, Brad",
+                "address": "1601 S 3rd St  Apt D Missoula, MT  59801",
+                "phone": "(816) 914-3099",
+                "email": "dusey630@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

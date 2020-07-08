@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 42878,
+        "fromDateStr": "07/31/2018",
+        "toDateStr": "08/28/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7062,
+        "candidateName": "AHA for Healthy Montana",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "07/31/2018",
+        "end_date": "08/28/2018",
+        "receipts": 0.0,
+        "expenditures": 2674.55,
+        "cash_in_bank": -12684.97
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "08/27/18",
+            "Entity Name": "Healthy Montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO BoX 1614",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2674.55,
+            "Purpose": "In Kind - Planning, Document Development, Compliance. see attachment",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

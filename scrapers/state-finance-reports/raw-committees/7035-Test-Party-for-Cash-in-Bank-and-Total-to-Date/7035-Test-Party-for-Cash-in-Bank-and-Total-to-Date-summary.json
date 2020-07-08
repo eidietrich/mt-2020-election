@@ -1,0 +1,37 @@
+{
+    "slug": "7035-Test-Party-for-Cash-in-Bank-and-Total-to-Date",
+    "committeeName": "Test Party for Cash in Bank and Total to Date",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 7035,
+        "committeeName": "Test Party for Cash in Bank and Total to Date",
+        "committeeAddress": "Test, Test, MT 59601",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1523340000000,
+        "entityFullName": "Test Party for Cash in Bank and Total to Date",
+        "entityCity": "Test",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Test, Test",
+                "address": "Test Test, MT  59601",
+                "phone": "",
+                "email": "nhoran2@mt.gov"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

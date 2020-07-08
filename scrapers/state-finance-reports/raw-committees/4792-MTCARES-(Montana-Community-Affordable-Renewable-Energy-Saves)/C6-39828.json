@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 39828,
+        "fromDateStr": "04/01/2017",
+        "toDateStr": "06/30/2017",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 4792,
+        "candidateName": "MTCARES (Montana Community Affordable Renewable Energy Saves)",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/01/2017",
+        "end_date": "06/30/2017",
+        "receipts": 93.17,
+        "expenditures": 93.17,
+        "cash_in_bank": 70.0
+    },
+    "contributions": [
+        {
+            "Date Paid": "06/30/17",
+            "Entity Name": "Doty, Russell L",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "4957 W 6th St",
+            "City": "Greeley",
+            "State": "CO",
+            "Zip": "80634",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "Retired",
+            "Employer": "self",
+            "Contribution Type": "Loans",
+            "Amount": 93.17,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 8520.36,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "06/30/17",
+            "Entity Name": "Doty, Russell L",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "4957 W 6th St",
+            "City": "Greeley",
+            "State": "CO",
+            "Zip": "80634",
+            "Zip4": "",
+            "Expenditure Type": "Debts and Loans Not Yet Paid",
+            "Amount": 93.17,
+            "Purpose": "",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

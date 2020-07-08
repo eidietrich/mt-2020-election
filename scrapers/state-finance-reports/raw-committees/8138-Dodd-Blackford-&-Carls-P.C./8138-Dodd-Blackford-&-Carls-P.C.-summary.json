@@ -1,0 +1,43 @@
+{
+    "slug": "8138-Dodd-Blackford-&-Carls-P.C.",
+    "committeeName": "Dodd, Blackford & Carls P.C.",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 8138,
+        "committeeName": "Dodd, Blackford & Carls P.C.",
+        "committeeAddress": "602 West Lamme Street, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2019",
+        "amendedDate": 1585288800000,
+        "entityFullName": "Dodd, Blackford & Carls P.C.",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Carls, Hillary P",
+                "address": "602 West Lamme Street Bozeman, MT  59715",
+                "phone": "(406) 577-2145",
+                "email": "carls@blackfordcarls.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "PAC contribution",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

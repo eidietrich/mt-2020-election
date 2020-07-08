@@ -1,0 +1,43 @@
+{
+    "slug": "7551-Gallatin-County-Republican-Women",
+    "committeeName": "Gallatin County Republican Women",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 7551,
+        "committeeName": "Gallatin County Republican Women",
+        "committeeAddress": "PO Box 1036, Bozeman, MT 59771",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1582700400000,
+        "entityFullName": "Gallatin County Republican Women",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Vance, Shelley",
+                "address": "PO Box 1036 Bozeman, MT  59771",
+                "phone": "(406) 587-8608",
+                "email": "sngvance@outlook.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To promote an informed public through political education & activity; promote Republican Party principles & ideals; work for the election of Republican Party nominees",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

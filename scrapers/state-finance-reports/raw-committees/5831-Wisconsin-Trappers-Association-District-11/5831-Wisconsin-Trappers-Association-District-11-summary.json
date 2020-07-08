@@ -1,0 +1,43 @@
+{
+    "slug": "5831-Wisconsin-Trappers-Association-District-11",
+    "committeeName": "Wisconsin Trappers Association District 11",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5831,
+        "committeeName": "Wisconsin Trappers Association District 11",
+        "committeeAddress": "S81W17511 Brennan Dr, Muskego, WI 53150",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1474437600000,
+        "entityFullName": "Wisconsin Trappers Association District 11",
+        "entityCity": "Muskego",
+        "entityState": "WI"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Zainer , Jeff  J",
+                "address": "S81W17511 Brennan Dr Muskego, WI  53150",
+                "phone": "(262) 679-9232",
+                "email": "zainer@sbcglobal.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Oppose I-177",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

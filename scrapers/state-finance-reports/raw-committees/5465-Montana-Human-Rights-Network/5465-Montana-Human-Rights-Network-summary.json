@@ -1,0 +1,43 @@
+{
+    "slug": "5465-Montana-Human-Rights-Network",
+    "committeeName": "Montana Human Rights Network",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 5465,
+        "committeeName": "Montana Human Rights Network",
+        "committeeAddress": "PO Box 1509, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1467007200000,
+        "entityFullName": "Montana Human Rights Network",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Abbott, Kim",
+                "address": "PO Box 1509 Helena, MT  59624",
+                "phone": "",
+                "email": "network@mhrn.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Issue education supporting Yes fo YES Campaign",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

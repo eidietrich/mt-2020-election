@@ -1,0 +1,43 @@
+{
+    "slug": "7244-Park-County-Environmental-Council",
+    "committeeName": "Park County Environmental Council",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 7244,
+        "committeeName": "Park County Environmental Council",
+        "committeeAddress": "PO Box 164, Livingston, MT 59047",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1543215600000,
+        "entityFullName": "Park County Environmental Council",
+        "entityCity": "Livingston",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "King, Nelson",
+                "address": "PO Box 164 Livingston, MT  59047",
+                "phone": "(406) 222-0723",
+                "email": "michelle@envirocouncil.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-186",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

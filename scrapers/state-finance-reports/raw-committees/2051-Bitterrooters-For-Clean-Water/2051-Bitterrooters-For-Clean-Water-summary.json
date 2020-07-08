@@ -1,0 +1,43 @@
+{
+    "slug": "2051-Bitterrooters-For-Clean-Water",
+    "committeeName": "Bitterrooters For Clean Water",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2051,
+        "committeeName": "Bitterrooters For Clean Water",
+        "committeeAddress": "PO Box 1247 1801 N. 21st Street, Hamilton, MT 59840",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2007",
+        "amendedDate": 1175529821000,
+        "entityFullName": "Bitterrooters For Clean Water",
+        "entityCity": "Hamilton",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Connelly, Philip",
+                "address": "627 IDA Lane Corvallis, MT",
+                "phone": "",
+                "email": "fillwest@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Ballot Measure to enact a water quality district in Ravalli County",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

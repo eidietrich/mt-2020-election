@@ -1,0 +1,43 @@
+{
+    "slug": "3803-Elizabeth-A.-Halverson-PC",
+    "committeeName": "Elizabeth A. Halverson PC",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3803,
+        "committeeName": "Elizabeth A. Halverson PC",
+        "committeeAddress": "1631 Zimmerman Trail, Suite 2, Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1416380400000,
+        "entityFullName": "Elizabeth A. Halverson PC",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Halverson, Elizabeth",
+                "address": "1631 Zimmerman Trail, Suite 2 Billings, MT  59102",
+                "phone": "(406) 698-9929",
+                "email": "ehalverson@halversonlaw.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Justice Mike Wheat",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

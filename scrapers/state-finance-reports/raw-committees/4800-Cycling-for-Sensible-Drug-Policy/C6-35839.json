@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 35839,
+        "fromDateStr": "05/24/2016",
+        "toDateStr": "06/01/2016",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 4800,
+        "candidateName": "Cycling for Sensible Drug Policy",
+        "statusDescr": "Amended",
+        "amendedDate": 1469822988000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/24/2016",
+        "end_date": "06/01/2016",
+        "receipts": 0.0,
+        "expenditures": 193.5,
+        "cash_in_bank": 522.86
+    },
+    "contributions": [],
+    "expenditures": []
+}

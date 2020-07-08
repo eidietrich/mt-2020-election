@@ -1,0 +1,48 @@
+{
+    "slug": "931-IUOE-Local-400-_-International-Union-of-Operating-Engineers",
+    "committeeName": "IUOE Local 400 _ International Union of Operating Engineers",
+    "scrape_date": "2020-07-02",
+    "periods": 19,
+    "data": {
+        "committeeId": 931,
+        "committeeName": "IUOE Local 400 _ International Union of Operating Engineers",
+        "committeeAddress": "PO Box 5929, Helena, MT 59604",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1590472800000,
+        "entityFullName": "IUOE Local 400 _ International Union of Operating Engineers",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Cartwright, Colleen",
+                "address": "7 Valley Drive Townsend, MT  59644",
+                "phone": "(406) 980-0935",
+                "email": "colleen400@mt.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Various Legislative / Political Candidates",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Monica Lindeen Secretary Of State",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2182-Friends-of-the-Anaconda-Deer-Lodge-County-Cemeteries",
+    "committeeName": "Friends of the Anaconda Deer Lodge County Cemeteries",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2182,
+        "committeeName": "Friends of the Anaconda Deer Lodge County Cemeteries",
+        "committeeAddress": "516 Elm, Anaconda, MT 59711",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1212432172000,
+        "entityFullName": "Friends of the Anaconda Deer Lodge County Cemeteries",
+        "entityCity": "Anaconda",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Williams, Thomas M",
+                "address": "516 Elm Anaconda, MT  59711",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Cemetary Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

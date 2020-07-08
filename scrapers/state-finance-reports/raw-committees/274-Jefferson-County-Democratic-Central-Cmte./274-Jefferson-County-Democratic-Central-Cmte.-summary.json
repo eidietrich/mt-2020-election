@@ -1,0 +1,37 @@
+{
+    "slug": "274-Jefferson-County-Democratic-Central-Cmte.",
+    "committeeName": "Jefferson County Democratic Central Cmte.",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 274,
+        "committeeName": "Jefferson County Democratic Central Cmte.",
+        "committeeAddress": "PO Box 226, Whitehall, MT 59759",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1587708000000,
+        "entityFullName": "Jefferson County Democratic Central Cmte.",
+        "entityCity": "Whitehall",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Evans, Melody S",
+                "address": "PO Box 152 Whitehall, MT  59759",
+                "phone": "(406) 451-4261",
+                "email": "odie9969@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

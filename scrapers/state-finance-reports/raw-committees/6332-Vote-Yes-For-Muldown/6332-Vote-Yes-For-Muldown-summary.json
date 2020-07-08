@@ -1,0 +1,43 @@
+{
+    "slug": "6332-Vote-Yes-For-Muldown",
+    "committeeName": "Vote Yes For Muldown",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 6332,
+        "committeeName": "Vote Yes For Muldown",
+        "committeeAddress": "PO Box 5403, Whitefish, MT 59937",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2017",
+        "amendedDate": 1500530400000,
+        "entityFullName": "Vote Yes For Muldown",
+        "entityCity": "Whitefish",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Joos, Mariah",
+                "address": "PO Box 1433 Whitefish, MT  59937",
+                "phone": "(406) 260-6647",
+                "email": "voteyesformuldown.mike@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To pass a bond funding a new elementary school in Whitefish",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

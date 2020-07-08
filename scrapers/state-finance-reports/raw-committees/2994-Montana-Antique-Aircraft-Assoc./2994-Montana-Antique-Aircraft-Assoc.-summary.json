@@ -1,0 +1,43 @@
+{
+    "slug": "2994-Montana-Antique-Aircraft-Assoc.",
+    "committeeName": "Montana Antique Aircraft Assoc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2994,
+        "committeeName": "Montana Antique Aircraft Assoc.",
+        "committeeAddress": "PO Box 502, Bigfork, MT 59714",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2013",
+        "amendedDate": 1385418083000,
+        "entityFullName": "Montana Antique Aircraft Assoc.",
+        "entityCity": "Bigfork",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Green, Pat",
+                "address": "PO Box 502 Belgrade, MT  59714",
+                "phone": "(406) 285-6949",
+                "email": "greenrrg@aol.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Save Your Airport",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

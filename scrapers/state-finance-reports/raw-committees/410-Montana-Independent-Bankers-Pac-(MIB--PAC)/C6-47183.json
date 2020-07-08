@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 47183,
+        "fromDateStr": "03/26/2020",
+        "toDateStr": "04/25/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 410,
+        "candidateName": "Montana Independent Bankers Pac (MIB- PAC)",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/26/2020",
+        "end_date": "04/25/2020",
+        "receipts": 0.0,
+        "expenditures": 360.0,
+        "cash_in_bank": 9314.05
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "03/30/20",
+            "Entity Name": "Bushman, Kirk",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "4520 Morgan Ave",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 180.0,
+            "Purpose": "campaign contribution to bushman for psc",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "campaign contribution",
+            "Expenditure Paid Communications Quantity": "1",
+            "Expenditure Paid Communications Subject Matter": "campaign contribution to bushman for psc "
+        },
+        {
+            "Date Paid": "04/20/20",
+            "Entity Name": "moore, eric",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "487 signal butte road",
+            "City": "miles city",
+            "State": "MT",
+            "Zip": "59301",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 180.0,
+            "Purpose": "campaign contribution to eric moore for HD 37",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "campaign contribution",
+            "Expenditure Paid Communications Quantity": "1 ",
+            "Expenditure Paid Communications Subject Matter": "campaign contribution for hd 37"
+        }
+    ]
+}

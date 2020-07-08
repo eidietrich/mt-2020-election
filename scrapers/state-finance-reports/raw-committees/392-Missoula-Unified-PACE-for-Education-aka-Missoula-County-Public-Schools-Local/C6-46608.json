@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 46608,
+        "fromDateStr": "01/07/2020",
+        "toDateStr": "03/27/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 392,
+        "candidateName": "Missoula Unified PACE for Education aka Missoula County Public Schools Local",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/07/2020",
+        "end_date": "03/27/2020",
+        "receipts": 298.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 7937.44
+    },
+    "contributions": [
+        {
+            "Date Paid": "03/26/20",
+            "Entity Name": "Missoula Ed Assoc - Unified PACE",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1001 SW Higgins Ste 101",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Independent Committee Contributions",
+            "Amount": 298.0,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "Primary",
+            "Total Primary": 298.0,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

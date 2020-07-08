@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 44190,
+        "fromDateStr": "10/18/2018",
+        "toDateStr": "10/27/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7496,
+        "candidateName": "SPHealth Incidental Committee for I-185",
+        "statusDescr": "Amended",
+        "amendedDate": 1542817017000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/18/2018",
+        "end_date": "10/27/2018",
+        "receipts": 0.0,
+        "expenditures": 2622.43,
+        "cash_in_bank": -646917.68
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/27/18",
+            "Entity Name": "Healthy Montana for I-185",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1614",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2622.43,
+            "Purpose": "In Kind contribution of staff time for supporting I-185, see addendum.",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

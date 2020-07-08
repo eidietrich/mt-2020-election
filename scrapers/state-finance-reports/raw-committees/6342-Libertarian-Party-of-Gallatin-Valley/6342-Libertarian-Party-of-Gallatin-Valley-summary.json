@@ -1,0 +1,48 @@
+{
+    "slug": "6342-Libertarian-Party-of-Gallatin-Valley",
+    "committeeName": "Libertarian Party of Gallatin Valley",
+    "scrape_date": "2020-07-02",
+    "periods": 16,
+    "data": {
+        "committeeId": 6342,
+        "committeeName": "Libertarian Party of Gallatin Valley",
+        "committeeAddress": "4313 Linney Rd., Bozeman, MT 59718",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1526364000000,
+        "entityFullName": "Libertarian Party of Gallatin Valley",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Albini, Marty",
+                "address": "4313 Linney Rd Bozeman, MT  59718",
+                "phone": "(406) 209-0593",
+                "email": "marty.albini@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Mark Wicks - US House of Representatives",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Political",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2313-Building-Alliances-for-Strategic-Enhancement",
+    "committeeName": "Building Alliances for Strategic Enhancement",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2313,
+        "committeeName": "Building Alliances for Strategic Enhancement",
+        "committeeAddress": "12 1st Ave. S, Great Falls, MT 59401",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1224783407000,
+        "entityFullName": "Building Alliances for Strategic Enhancement",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Patton, Cheryl L.",
+                "address": "408 4th St. N. Great Falls, MT  59401",
+                "phone": "(406) 455-8417",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Citizens Protecting Our Runways",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

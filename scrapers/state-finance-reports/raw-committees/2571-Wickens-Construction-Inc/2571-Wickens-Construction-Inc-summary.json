@@ -1,0 +1,43 @@
+{
+    "slug": "2571-Wickens-Construction-Inc",
+    "committeeName": "Wickens Construction Inc",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2571,
+        "committeeName": "Wickens Construction Inc",
+        "committeeAddress": "P O Box 746, Lewistown, MT 59457",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1284662787000,
+        "entityFullName": "Wickens Construction Inc",
+        "entityCity": "Lewistown",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Durbin, Maria",
+                "address": "P O Box 746 Lewistown, MT  59457",
+                "phone": "(406) 538-7273",
+                "email": "wickens@midrivers.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School Building Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

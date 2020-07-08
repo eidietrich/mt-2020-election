@@ -1,0 +1,43 @@
+{
+    "slug": "262-Garfield-County-Republican-Central-Cmte.",
+    "committeeName": "Garfield County Republican Central Cmte.",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 262,
+        "committeeName": "Garfield County Republican Central Cmte.",
+        "committeeAddress": "PO Box 5234, Mosby, MT 59058",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1588744800000,
+        "entityFullName": "Garfield County Republican Central Cmte.",
+        "entityCity": "Mosby",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hill, Delores L",
+                "address": "PO Box 5234 Mosby, MT  59058",
+                "phone": "(406) 429-6801",
+                "email": "hilangus@midrivers.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support State Republicans through the state party",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

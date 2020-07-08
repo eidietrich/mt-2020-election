@@ -1,0 +1,43 @@
+{
+    "slug": "1245-Stillwater-Republican-Women",
+    "committeeName": "Stillwater Republican Women ",
+    "scrape_date": "2020-07-02",
+    "periods": 18,
+    "data": {
+        "committeeId": 1245,
+        "committeeName": "Stillwater Republican Women ",
+        "committeeAddress": "Po Box 1496, Columbus, MT 59019",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1593410400000,
+        "entityFullName": "Stillwater Republican Women ",
+        "entityCity": "Columbus",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Keffer, Shirlee",
+                "address": "PO Box 1496 Columbus, MT  59019",
+                "phone": "(406) 780-0482",
+                "email": "kefferpost@earthlink.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Promote Political edc. & activity, increase the effectiveness of women through active political participation, support Republican Candidates & to promote Principles of Freedom, Equality and Justice.",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

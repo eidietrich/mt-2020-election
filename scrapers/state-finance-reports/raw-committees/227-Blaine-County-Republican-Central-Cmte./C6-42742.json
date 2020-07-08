@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 42742,
+        "fromDateStr": "06/21/2018",
+        "toDateStr": "08/03/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 227,
+        "candidateName": "Blaine County Republican Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/21/2018",
+        "end_date": "08/03/2018",
+        "receipts": 500.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 6495.78
+    },
+    "contributions": [
+        {
+            "Date Paid": "07/12/18",
+            "Entity Name": "Gun Raffle",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Box 488",
+            "City": "Chinook",
+            "State": "MT",
+            "Zip": "59523",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -500.0,
+            "Amount Type": "CA",
+            "Purpose": "RAFFLE TICKET $5.00 EACH OR 6 TICKETS FOR $20.00",
+            "Election Type": "General",
+            "Total Primary": 755.0,
+            "Total General": 865.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

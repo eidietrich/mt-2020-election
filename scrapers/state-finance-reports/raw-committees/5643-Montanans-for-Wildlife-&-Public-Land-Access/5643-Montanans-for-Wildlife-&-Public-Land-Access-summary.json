@@ -1,0 +1,43 @@
+{
+    "slug": "5643-Montanans-for-Wildlife-&-Public-Land-Access",
+    "committeeName": "Montanans for Wildlife & Public Land Access",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 5643,
+        "committeeName": "Montanans for Wildlife & Public Land Access",
+        "committeeAddress": "PO BOX 133, Gildford, MT 59525",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1546239600000,
+        "entityFullName": "Montanans for Wildlife & Public Land Access",
+        "entityCity": "Gildford",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Buell, James M",
+                "address": "PO BOX 133 Gildford, MT  59525",
+                "phone": "(406) 376-3178",
+                "email": "7mbuell@itstriangle.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "MWPLA will work legislatively to procur a CI which will elevate the status of hunting, fishing & trapping within the Montana Constitution",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

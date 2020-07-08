@@ -1,0 +1,43 @@
+{
+    "slug": "2738-Planned-Parenthood-of-Montana",
+    "committeeName": "Planned Parenthood of Montana",
+    "scrape_date": "2020-07-01",
+    "periods": 12,
+    "data": {
+        "committeeId": 2738,
+        "committeeName": "Planned Parenthood of Montana",
+        "committeeAddress": "2525 4th Ave N, Suite 201, Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1330968737000,
+        "entityFullName": "Planned Parenthood of Montana",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Sax, Kelly",
+                "address": "221 North Ave W Missoula, MT  59801",
+                "phone": "(406) 550-1051",
+                "email": "diane.pederson@ppmontana.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Rae, Lana",
+                "address": "2525 4th Ave N, Suite 201 Billings, MT  59101",
+                "phone": "(406) 248-3636",
+                "email": "stacey.anderson@ppmontana.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Oppose CI-108\r\nOppose LR 120\r\nOppose LR 119",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

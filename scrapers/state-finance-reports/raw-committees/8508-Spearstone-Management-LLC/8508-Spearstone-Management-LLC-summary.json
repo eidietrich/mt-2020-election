@@ -1,0 +1,43 @@
+{
+    "slug": "8508-Spearstone-Management-LLC",
+    "committeeName": "Spearstone Management, LLC",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 8508,
+        "committeeName": "Spearstone Management, LLC",
+        "committeeAddress": "333 South 520 West Suite 180, Lindon, UT 84042",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1585375200000,
+        "entityFullName": "Spearstone Management, LLC",
+        "entityCity": "Lindon",
+        "entityState": "UT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hartland, Hayden",
+                "address": "333 South 520 West Suite 180 Lindon, UT  84042",
+                "phone": "",
+                "email": "hayden.hartland@spearstone.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To Support Montana First Action",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

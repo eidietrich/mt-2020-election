@@ -1,0 +1,43 @@
+{
+    "slug": "2354-Watkins-and-Shepard-Trucking-Inc.",
+    "committeeName": "Watkins and Shepard Trucking, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2354,
+        "committeeName": "Watkins and Shepard Trucking, Inc.",
+        "committeeAddress": "PO Box 5328 N 6400 Highway 10 W, Missoula, MT 59806",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1233602047000,
+        "entityFullName": "Watkins and Shepard Trucking, Inc.",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-155",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

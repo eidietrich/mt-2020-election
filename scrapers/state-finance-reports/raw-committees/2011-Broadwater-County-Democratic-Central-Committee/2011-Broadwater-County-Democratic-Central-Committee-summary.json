@@ -1,0 +1,37 @@
+{
+    "slug": "2011-Broadwater-County-Democratic-Central-Committee",
+    "committeeName": "Broadwater County Democratic Central Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 17,
+    "data": {
+        "committeeId": 2011,
+        "committeeName": "Broadwater County Democratic Central Committee",
+        "committeeAddress": "Po Box 782, Townsend, MT 59644",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1558072800000,
+        "entityFullName": "Broadwater County Democratic Central Committee",
+        "entityCity": "Townsend",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hubber, Jan",
+                "address": "20 Rodger Ct Townsend, MT  59644",
+                "phone": "(406) 266-5937",
+                "email": "jhubber@mt.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

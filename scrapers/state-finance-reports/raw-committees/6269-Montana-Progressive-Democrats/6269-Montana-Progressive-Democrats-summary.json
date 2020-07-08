@@ -1,0 +1,93 @@
+{
+    "slug": "6269-Montana-Progressive-Democrats",
+    "committeeName": "Montana Progressive Democrats",
+    "scrape_date": "2020-07-02",
+    "periods": 15,
+    "data": {
+        "committeeId": 6269,
+        "committeeName": "Montana Progressive Democrats",
+        "committeeAddress": "P.O. Box 7672, Missoula, MT 59807",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1580886000000,
+        "entityFullName": "Montana Progressive Democrats",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Berens, Barbara",
+                "address": "3010 S. Thomas Drive Missoula, MT  59803",
+                "phone": "(406) 273-1243",
+                "email": "barbara.berens@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To recruit, support and endorse progressive candidates, and raise and spend money for progressive candidates and issues. Endorse, support candidacy of Jennifer Merecki for SD 22",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Lynelle Melton for HD 19",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Eldena Bear Don't Walk for HD 93",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "John Heenan",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Catherine Scott for HD 80",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bert Pezzarossi for HD 38",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jade Bahr for HD 50",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mary Stange for SD 19",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jessica Karjala for HD 48",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jennifer Merecki for SD 22",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Tom Woods for HD 62",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

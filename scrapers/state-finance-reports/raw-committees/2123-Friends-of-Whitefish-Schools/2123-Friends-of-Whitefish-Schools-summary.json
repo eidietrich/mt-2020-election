@@ -1,0 +1,43 @@
+{
+    "slug": "2123-Friends-of-Whitefish-Schools",
+    "committeeName": "Friends of Whitefish Schools",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2123,
+        "committeeName": "Friends of Whitefish Schools",
+        "committeeAddress": "PO Box 4656, Whitefish, MT 59937",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1198878104000,
+        "entityFullName": "Friends of Whitefish Schools",
+        "entityCity": "Whitefish",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kuntz, Michelle L.",
+                "address": "150 Stageline Dr Whitefish, MT  59937",
+                "phone": "(406) 862-3533",
+                "email": "shelleykuntz@yahoo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Whitefish Bond Election",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

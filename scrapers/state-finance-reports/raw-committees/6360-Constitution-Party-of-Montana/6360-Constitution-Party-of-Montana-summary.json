@@ -1,0 +1,43 @@
+{
+    "slug": "6360-Constitution-Party-of-Montana",
+    "committeeName": "Constitution Party of Montana",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 6360,
+        "committeeName": "Constitution Party of Montana",
+        "committeeAddress": "PO Box 505, Bozeman, MT 59771",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1585548000000,
+        "entityFullName": "Constitution Party of Montana",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Orback, Travis L",
+                "address": "PO Box 505 Bozeman , MT  59771",
+                "phone": "",
+                "email": "tlorback@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Please see COPP Hard Copy C-2 for full Purpose of Committee entry",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

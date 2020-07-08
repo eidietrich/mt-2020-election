@@ -1,0 +1,43 @@
+{
+    "slug": "3080-American-Civil-Liberties-Union-Foundation-Inc.",
+    "committeeName": "American Civil Liberties Union Foundation, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 3080,
+        "committeeName": "American Civil Liberties Union Foundation, Inc.",
+        "committeeAddress": "125 Broad Street, 18th Floor, New York, NY 10004",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1399442400000,
+        "entityFullName": "American Civil Liberties Union Foundation, Inc.",
+        "entityCity": "New York",
+        "entityState": "NY"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Dougherty, Terence",
+                "address": "125 Broad Street, 18th Floor New York, NY  10004",
+                "phone": "(212) 549-2500",
+                "email": "tdoughtery@aclu.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR 126 & LR 127",
+                "position": "Oppose",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

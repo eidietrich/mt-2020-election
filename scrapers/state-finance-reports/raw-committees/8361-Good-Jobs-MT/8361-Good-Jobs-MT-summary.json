@@ -1,0 +1,53 @@
+{
+    "slug": "8361-Good-Jobs-MT",
+    "committeeName": "Good Jobs MT",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 8361,
+        "committeeName": "Good Jobs MT",
+        "committeeAddress": "1633 Main Street, Suite A-370, Billings, MT 59105",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1583132400000,
+        "entityFullName": "Good Jobs MT",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hill, Stephen",
+                "address": "1633 Main Street, Suite A-370 Billings, MT  59105",
+                "phone": "(406) 318-9752",
+                "email": "goodjobsmontana2020@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Purpose: making Independent Expenditures in Montana elections",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Democratic candidates for Governor",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Republican candidates for Governor",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

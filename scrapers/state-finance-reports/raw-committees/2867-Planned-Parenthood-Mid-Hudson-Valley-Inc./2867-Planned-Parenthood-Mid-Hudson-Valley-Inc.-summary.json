@@ -1,0 +1,43 @@
+{
+    "slug": "2867-Planned-Parenthood-Mid-Hudson-Valley-Inc.",
+    "committeeName": "Planned Parenthood Mid Hudson Valley, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2867,
+        "committeeName": "Planned Parenthood Mid Hudson Valley, Inc.",
+        "committeeAddress": "178 Church Street, Poughkeepsie, NY 12601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1357843546000,
+        "entityFullName": "Planned Parenthood Mid Hudson Valley, Inc.",
+        "entityCity": "Poughkeepsie",
+        "entityState": "NY"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Radford, Mary",
+                "address": "178 Church Street Poughkeepsi, NY  12601",
+                "phone": "",
+                "email": "mary.radford@ppmhv.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

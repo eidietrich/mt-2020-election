@@ -1,7 +1,7 @@
 {
     "slug": "8557-Blackford-Carls-P.C.",
     "committeeName": "Blackford Carls P.C.",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 2,
     "data": {
         "committeeId": 8557,
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 2,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 612.0,
-        "num_expenditures": 1,
-        "expenditures_19_20": 612.0,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": -612.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Carls, Hillary P.",
+                "address": "602 W. Lamme St. Bozeman, MT  59715",
+                "phone": "(406) 577-2145",
+                "email": "carls@blackfordcarls.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "PAC contribution",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
     }
 }

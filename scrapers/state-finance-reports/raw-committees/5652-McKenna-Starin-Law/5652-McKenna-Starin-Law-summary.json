@@ -1,0 +1,53 @@
+{
+    "slug": "5652-McKenna-Starin-Law",
+    "committeeName": "McKenna Starin Law",
+    "scrape_date": "2020-07-02",
+    "periods": 6,
+    "data": {
+        "committeeId": 5652,
+        "committeeName": "McKenna Starin Law",
+        "committeeAddress": "PO Box 7009, Missoula, MT 59807",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1523944800000,
+        "entityFullName": "McKenna Starin Law",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McKenna, Sydney",
+                "address": "P.O. Box 7009 Missoula, MT  59807",
+                "phone": "",
+                "email": "syd@mslawmt.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Taylor, Mary",
+                "address": "P.O. Box 838 Helena, MT  59624",
+                "phone": "",
+                "email": "mtla@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dirk Sandefur - Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

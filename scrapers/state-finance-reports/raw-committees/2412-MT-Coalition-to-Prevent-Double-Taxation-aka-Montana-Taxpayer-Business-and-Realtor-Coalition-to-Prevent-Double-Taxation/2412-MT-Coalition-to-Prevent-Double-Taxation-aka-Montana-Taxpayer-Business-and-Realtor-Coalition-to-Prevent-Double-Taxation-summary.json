@@ -1,0 +1,43 @@
+{
+    "slug": "2412-MT-Coalition-to-Prevent-Double-Taxation-aka-Montana-Taxpayer-Business-and-Realtor-Coalition-to-Prevent-Double-Taxation",
+    "committeeName": "MT Coalition to Prevent Double Taxation aka Montana Taxpayer, Business, and Realtor Coalition to Prevent Double Taxation",
+    "scrape_date": "2020-07-01",
+    "periods": 6,
+    "data": {
+        "committeeId": 2412,
+        "committeeName": "MT Coalition to Prevent Double Taxation aka Montana Taxpayer, Business, and Realtor Coalition to Prevent Double Taxation",
+        "committeeAddress": " P O Box 1598, Helena, MT 59601",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1265648173000,
+        "entityFullName": "MT Coalition to Prevent Double Taxation aka Montana Taxpayer, Business, and Realtor Coalition to Prevent Double Taxation",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Leach, Robert",
+                "address": "1901 Broadwater Ave. Ste 2 Helena, MT  59601",
+                "phone": "",
+                "email": "bob@dualagentxs.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Kuney, Lorna",
+                "address": "400 N California Helena, MT  59601",
+                "phone": "",
+                "email": "lorna@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Prohibition of real estate transfer tax",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

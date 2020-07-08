@@ -1,0 +1,43 @@
+{
+    "slug": "2719-Gaeletric-LLC-Against-IR-125",
+    "committeeName": "Gaeletric LLC, Against IR 125",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2719,
+        "committeeName": "Gaeletric LLC, Against IR 125",
+        "committeeAddress": "21 3rd Street North, Suite 500, Great Falls, MT 59401",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1320871591000,
+        "entityFullName": "Gaeletric LLC, Against IR 125",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Jamison, Mona",
+                "address": "610 Touchstone Ct. Helena, MT  59624",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "IR-125",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

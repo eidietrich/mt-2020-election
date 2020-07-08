@@ -1,0 +1,48 @@
+{
+    "slug": "3785-Proteus-Action-League",
+    "committeeName": "Proteus Action League",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3785,
+        "committeeName": "Proteus Action League",
+        "committeeAddress": "15 Research Drive, Suite B, Amherst, MA 01002",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1415948400000,
+        "entityFullName": "Proteus Action League",
+        "entityCity": "Amherst",
+        "entityState": "MA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Blain, Ludovic",
+                "address": "436 14th Street, Suite 700 Oakland, CA  94612",
+                "phone": "(510) 663-3859",
+                "email": "ludovic@progressiveeraproject.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Ballot Initiative Name: LR-126",
+                "position": "Oppose",
+                "status": "On ballot, approved"
+            },
+            {
+                "interest": "To support Montanans for Free and Fair Elections' effort to oppose a ballott initiative that would eliminate same day voter registration.",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

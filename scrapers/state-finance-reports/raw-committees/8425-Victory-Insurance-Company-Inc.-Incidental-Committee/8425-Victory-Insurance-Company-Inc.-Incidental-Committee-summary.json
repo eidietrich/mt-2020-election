@@ -1,0 +1,43 @@
+{
+    "slug": "8425-Victory-Insurance-Company-Inc.-Incidental-Committee",
+    "committeeName": "Victory Insurance Company, Inc. Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 8425,
+        "committeeName": "Victory Insurance Company, Inc. Incidental Committee",
+        "committeeAddress": "210 S. Winchester, Ste. 425, Miles City, MT 59301",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1593496800000,
+        "entityFullName": "Victory Insurance Company, Inc. Incidental Committee",
+        "entityCity": "Miles City",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Carlson, Abigail",
+                "address": "210 S. Winchester, Ste. 425 Miles City, MT  59301",
+                "phone": "(406) 234-2585",
+                "email": "acarlson@victorymt.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Make a contribution to a PAC",
+                "position": "Other",
+                "status": "Support"
+            }
+        ]
+    }
+}

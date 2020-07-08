@@ -1,0 +1,43 @@
+{
+    "slug": "7262-[Company-Name]-Incidental-Committee",
+    "committeeName": "[Company Name] Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7262,
+        "committeeName": "[Company Name] Incidental Committee",
+        "committeeAddress": "PO Box 987, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2002",
+        "amendedDate": 1525932000000,
+        "entityFullName": "[Company Name] Incidental Committee",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Smith, Jane",
+                "address": "456 1st Street South Helena, MT  59601",
+                "phone": "(406) 098-7654",
+                "email": "jane.smith@companyname.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "contribution to MHA PAC",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "slug": "284-Lewis-&-Clark-County-Democratic-Action-Club",
+    "committeeName": "Lewis & Clark County Democratic Action Club",
+    "scrape_date": "2020-07-02",
+    "periods": 8,
+    "data": {
+        "committeeId": 284,
+        "committeeName": "Lewis & Clark County Democratic Action Club",
+        "committeeAddress": "P.O. Box 95, Helena, MT 59624",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1517209200000,
+        "entityFullName": "Lewis & Clark County Democratic Action Club",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Zieler, Dennis A",
+                "address": "PO Box 95 Helena, MT  59624",
+                "phone": "(406) 443-0241",
+                "email": "j.clinard@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Clinard, Jan L",
+                "address": "520 Gary Cooper St Helena, MT  59601",
+                "phone": "(406) 457-8339",
+                "email": "j.clinard@bresnan.net"
+            }
+        ],
+        "issues": []
+    }
+}

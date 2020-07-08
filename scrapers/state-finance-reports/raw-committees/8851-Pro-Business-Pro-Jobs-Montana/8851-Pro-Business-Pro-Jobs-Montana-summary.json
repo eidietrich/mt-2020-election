@@ -1,0 +1,37 @@
+{
+    "slug": "8851-Pro-Business-Pro-Jobs-Montana",
+    "committeeName": "Pro Business Pro Jobs Montana",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 8851,
+        "committeeName": "Pro Business Pro Jobs Montana",
+        "committeeAddress": "10414 Royal Coachman Dr., Missoula , MT 59808",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1589954400000,
+        "entityFullName": "Pro Business Pro Jobs Montana",
+        "entityCity": "Missoula ",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hertz, Adam",
+                "address": "10414 Royal Coachman Dr.  Missoula , MT  59808",
+                "phone": "",
+                "email": "adammt77@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

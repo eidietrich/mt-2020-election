@@ -1,0 +1,43 @@
+{
+    "slug": "2326-American-Bank",
+    "committeeName": "American Bank",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2326,
+        "committeeName": "American Bank",
+        "committeeAddress": "PO Box 2290, Livingston, MT 59047",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1225921737000,
+        "entityFullName": "American Bank",
+        "entityCity": "Livingston",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Johnson, Gordon",
+                "address": "PO Box 2290 Livingston, MT  59047",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-155",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

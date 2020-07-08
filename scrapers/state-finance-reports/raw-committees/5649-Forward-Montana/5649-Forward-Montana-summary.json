@@ -1,0 +1,48 @@
+{
+    "slug": "5649-Forward-Montana",
+    "committeeName": "Forward Montana",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 5649,
+        "committeeName": "Forward Montana",
+        "committeeAddress": "136 E. Broadway St., Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1502949600000,
+        "entityFullName": "Forward Montana",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Huff-Doria, Rachel",
+                "address": "136 E. Broadway St. Missoula, MT  59802",
+                "phone": "",
+                "email": "Rachel@forwardmontana.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Kiah, Abbey",
+                "address": "105 W Main Street Suite 2C Bozeman, MT  59715",
+                "phone": "",
+                "email": "kiah@forwardmontana.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Supreme Court Justices",
+                "position": "Monitor",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Annual Voter Guide",
+                "position": "Other",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

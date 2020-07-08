@@ -1,0 +1,37 @@
+{
+    "slug": "7610-Montana-Native-Vote-Action-Fund",
+    "committeeName": "Montana Native Vote Action Fund ",
+    "scrape_date": "2020-07-02",
+    "periods": 7,
+    "data": {
+        "committeeId": 7610,
+        "committeeName": "Montana Native Vote Action Fund ",
+        "committeeAddress": "PO Box 178, Billings, MT 59103",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1585548000000,
+        "entityFullName": "Montana Native Vote Action Fund ",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hill, Krystal F",
+                "address": "PO Box 178 Billings, MT  59103",
+                "phone": "(406) 869-1938",
+                "email": "controller@westernnativevoice.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Lucas, Anna",
+                "address": "PO Box 176 Billings, MT  59103",
+                "phone": "",
+                "email": "alucas@worc.org"
+            }
+        ],
+        "issues": []
+    }
+}

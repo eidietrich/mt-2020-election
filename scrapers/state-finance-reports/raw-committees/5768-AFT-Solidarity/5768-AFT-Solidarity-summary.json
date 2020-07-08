@@ -1,7 +1,7 @@
 {
     "slug": "5768-AFT-Solidarity",
     "committeeName": "AFT Solidarity",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 20,
     "data": {
         "committeeId": 5768,
@@ -16,15 +16,28 @@
         "entityState": "DC"
     },
     "summary": {
-        "reports": 20,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 458000.0,
-        "num_expenditures": 4,
-        "expenditures_19_20": 8000.0,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": -463942.85
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Johnson, Lorretta",
+                "address": "555 New Jersey Ave NW Washington, DC  20001",
+                "phone": "(202) 393-4283",
+                "email": "cmason@aft.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To support Montana Independent Committees that make Independent Expenditures",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
     }
 }

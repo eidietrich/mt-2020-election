@@ -1,0 +1,53 @@
+{
+    "slug": "5641-Tourtlotte-Law-Firm",
+    "committeeName": "Tourtlotte Law Firm",
+    "scrape_date": "2020-07-02",
+    "periods": 6,
+    "data": {
+        "committeeId": 5641,
+        "committeeName": "Tourtlotte Law Firm",
+        "committeeAddress": "1601 Lewis Ave., Suite 105, Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1480316400000,
+        "entityFullName": "Tourtlotte Law Firm",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Tourtlotte, Matthew",
+                "address": "1601 Lewis Ave., Suite 105 Billings, MT  59102",
+                "phone": "(406) 294-3400",
+                "email": "matt@tourtlottefirm.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Taylor, Mary",
+                "address": "P.O. Box 838 Helena, MT  59624",
+                "phone": "(406) 443-3124",
+                "email": "mtla@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system. ",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dirk Sandefur - Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

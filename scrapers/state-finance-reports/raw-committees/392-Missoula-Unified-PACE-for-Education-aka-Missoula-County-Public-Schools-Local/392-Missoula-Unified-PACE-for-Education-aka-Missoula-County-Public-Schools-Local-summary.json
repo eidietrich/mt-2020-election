@@ -1,0 +1,43 @@
+{
+    "slug": "392-Missoula-Unified-PACE-for-Education-aka-Missoula-County-Public-Schools-Local",
+    "committeeName": "Missoula Unified PACE for Education aka Missoula County Public Schools Local",
+    "scrape_date": "2020-07-02",
+    "periods": 13,
+    "data": {
+        "committeeId": 392,
+        "committeeName": "Missoula Unified PACE for Education aka Missoula County Public Schools Local",
+        "committeeAddress": "427 E Beckwith Ave., Missoula, MT 59801",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1570600800000,
+        "entityFullName": "Missoula Unified PACE for Education aka Missoula County Public Schools Local",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hull, Sara E",
+                "address": "1001 SW Higgins Suite 101 Missoula, MT  59803",
+                "phone": "(406) 543-5814",
+                "email": "mtgrizfam@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To provide political support for public education.",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

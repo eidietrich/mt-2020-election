@@ -1,7 +1,7 @@
 {
     "slug": "8348-North-Fund",
     "committeeName": "North Fund",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 4,
     "data": {
         "committeeId": 8348,
@@ -16,15 +16,28 @@
         "entityState": "DC"
     },
     "summary": {
-        "reports": 4,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 1249095.0,
-        "num_expenditures": 10,
-        "expenditures_19_20": 1249095.0,
-        "num_expenditures_19_20": 10,
-        "cash_on_hand": -1249095.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Uribe, Cristina",
+                "address": "1101 Connecticut Ave NW Suite 450 Washington, DC  20036",
+                "phone": "",
+                "email": "info@northfund.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI-118: establish the legal age for purchasing, consuming, or possessing marijuana.",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
     }
 }

@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 39962,
+        "fromDateStr": "01/01/2018",
+        "toDateStr": "02/25/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 362,
+        "candidateName": "Billings Education Assn. PAC",
+        "statusDescr": "Amended",
+        "amendedDate": 1548093981000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/01/2018",
+        "end_date": "02/25/2018",
+        "receipts": 1049.3,
+        "expenditures": 250.0,
+        "cash_in_bank": 6912.94
+    },
+    "contributions": [
+        {
+            "Date Paid": "02/25/18",
+            "Entity Name": "Payroll Deductions",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "510 North 29th St",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -1049.3,
+            "Amount Type": "CA",
+            "Purpose": "216 BEA Members with monthly payroll deductions of less than $35 year to date",
+            "Election Type": "Primary",
+            "Total Primary": 1049.3,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "01/15/18",
+            "Entity Name": "Karen Beiser - c/o Renee Coppock",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Women's March/490 N 31st Street, Suite 500",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59103",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 250.0,
+            "Purpose": "Sponsor Billings Women's March",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

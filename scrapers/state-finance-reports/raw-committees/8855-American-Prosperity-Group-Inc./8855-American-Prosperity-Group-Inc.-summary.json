@@ -1,7 +1,7 @@
 {
     "slug": "8855-American-Prosperity-Group-Inc.",
     "committeeName": "American Prosperity Group, Inc.",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 2,
     "data": {
         "committeeId": 8855,
@@ -16,15 +16,28 @@
         "entityState": "MA"
     },
     "summary": {
-        "reports": 2,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 3149.0,
-        "num_expenditures": 2,
-        "expenditures_19_20": 3149.0,
-        "num_expenditures_19_20": 2,
-        "cash_on_hand": -43149.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Gantt, Charles",
+                "address": "c/o Bulldog Compliance , 138 Conant Street 2nd Floor Beverly, MA  01915",
+                "phone": "",
+                "email": "client@bulldogcompliance.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "American Prosperity Group, Inc. is committed to promoting fiscal conservatism, judicial restraint, the rule of law, and individual liberty throughout the United States.",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
     }
 }

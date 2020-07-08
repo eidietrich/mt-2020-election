@@ -1,0 +1,43 @@
+{
+    "slug": "3008-CTA-BuildMT-PAC",
+    "committeeName": "CTA BuildMT PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 49,
+    "data": {
+        "committeeId": 3008,
+        "committeeName": "CTA BuildMT PAC",
+        "committeeAddress": "481 Doney Way, Bozeman, MT 59718",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1473228000000,
+        "entityFullName": "CTA BuildMT PAC",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Freeman, Wayne",
+                "address": "481 Doney Way Bozeman, MT  59718",
+                "phone": "(406) 585-2234",
+                "email": "waynefreeman4@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Wilson, Scott",
+                "address": "6075 Blackwood Rd Bozeman, MT  59718",
+                "phone": "(406) 697-7627",
+                "email": "lazysvbar@gmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Walt Sales for HD 69",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

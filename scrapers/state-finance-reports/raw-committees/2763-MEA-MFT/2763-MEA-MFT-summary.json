@@ -1,0 +1,53 @@
+{
+    "slug": "2763-MEA-MFT",
+    "committeeName": "MEA-MFT",
+    "scrape_date": "2020-07-01",
+    "periods": 6,
+    "data": {
+        "committeeId": 2763,
+        "committeeName": "MEA-MFT",
+        "committeeAddress": "1232 E 6th Avenue, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1335907290000,
+        "entityFullName": "MEA-MFT",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "N/A",
+                "address": "1232 E. 6th Avenue Helena, MT  59601",
+                "phone": "",
+                "email": "eburke@mea-mft.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "IR 123",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Support pro-public service candidates",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Local and State Ballot Measures",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

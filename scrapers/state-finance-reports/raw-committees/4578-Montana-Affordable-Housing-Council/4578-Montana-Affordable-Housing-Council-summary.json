@@ -1,0 +1,43 @@
+{
+    "slug": "4578-Montana-Affordable-Housing-Council",
+    "committeeName": "Montana Affordable Housing Council",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 4578,
+        "committeeName": "Montana Affordable Housing Council",
+        "committeeAddress": "PO Box 11388, Bozeman, MT 59719",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1464760800000,
+        "entityFullName": "Montana Affordable Housing Council",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Thompson, Mike",
+                "address": "1949 Buckrake Ave Bozeman, MT  59715",
+                "phone": "(406) 599-6164",
+                "email": "mikethompson99@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To support candidates races and matters of interest to the building industry.",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

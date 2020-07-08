@@ -1,0 +1,37 @@
+{
+    "slug": "1836-MHA---An-Association-of-Montana-Health-Care-Providers",
+    "committeeName": "MHA - An Association of Montana Health Care Providers",
+    "scrape_date": "2020-07-01",
+    "periods": 8,
+    "data": {
+        "committeeId": 1836,
+        "committeeName": "MHA - An Association of Montana Health Care Providers",
+        "committeeAddress": "PO Box 5119, Helena, MT 59604",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1157581901000,
+        "entityFullName": "MHA - An Association of Montana Health Care Providers",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "N/A",
+                "address": "PO Box 5119 Helena, MT  59604",
+                "phone": "(406) 449-4713",
+                "email": "jim@mtha.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "slug": "5594-RGA-RIGHT-DIRECTION-PAC",
+    "committeeName": "RGA RIGHT DIRECTION PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 6,
+    "data": {
+        "committeeId": 5594,
+        "committeeName": "RGA RIGHT DIRECTION PAC",
+        "committeeAddress": "1747 Penn. Ave NW  Ste. 250, Washington, DC 20006",
+        "committeeTypeDescr": "Federal Action",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1466748000000,
+        "entityFullName": "RGA RIGHT DIRECTION PAC",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "ADAMS, MICHAEL G",
+                "address": "1300 PENNSYLVANIA AVE. NW #190-612 WASHINGTON, DC  20004",
+                "phone": "(202) 695-8300",
+                "email": "madams@cpblawgroup.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "PARKINSON, CORTLYNN M",
+                "address": "1747 PENN AVE. NW STE. 250 WASHINGTON, DC  20006",
+                "phone": "",
+                "email": "CPARKINSON@RGA.ORG"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Greg Gianforte for Governor",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steve Bullock Governor",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

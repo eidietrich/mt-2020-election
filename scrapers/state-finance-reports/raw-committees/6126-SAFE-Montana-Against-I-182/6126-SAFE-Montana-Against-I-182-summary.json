@@ -1,0 +1,43 @@
+{
+    "slug": "6126-SAFE-Montana-Against-I-182",
+    "committeeName": "SAFE Montana Against I-182",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 6126,
+        "committeeName": "SAFE Montana Against I-182",
+        "committeeAddress": "PO Box 20515, Billings, MT 59104",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1480230000000,
+        "entityFullName": "SAFE Montana Against I-182",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Zabawa, Steve",
+                "address": "po box 20515 Billings, MT  59104",
+                "phone": "(406) 670-8100",
+                "email": "z@safemontana.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-182",
+                "position": "Oppose",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

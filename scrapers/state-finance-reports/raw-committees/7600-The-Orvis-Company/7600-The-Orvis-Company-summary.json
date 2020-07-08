@@ -1,0 +1,43 @@
+{
+    "slug": "7600-The-Orvis-Company",
+    "committeeName": "The Orvis Company",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 7600,
+        "committeeName": "The Orvis Company",
+        "committeeAddress": "178 Conservation Way, Sunderland, VT 05250",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1540188000000,
+        "entityFullName": "The Orvis Company",
+        "entityCity": "Sunderland",
+        "entityState": "VT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Pohlman, Michael James",
+                "address": "1711 Blue Hills Drive Roanoke , VA  24012",
+                "phone": "(540) 494-6276",
+                "email": "pohlman@orvis.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-186",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

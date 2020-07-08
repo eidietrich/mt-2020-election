@@ -1,0 +1,43 @@
+{
+    "slug": "2600-Montana-Organizing-Project",
+    "committeeName": "Montana Organizing Project",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 2600,
+        "committeeName": "Montana Organizing Project",
+        "committeeAddress": "208 E Main St, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": null,
+        "electionYear": "2010",
+        "amendedDate": 1287416411000,
+        "entityFullName": "Montana Organizing Project",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Moody, Molly",
+                "address": "PO Box 9286 Missoula, MT  59807",
+                "phone": "",
+                "email": "molly@nwfcp.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-164, Cap the Rate",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 48866,
+        "fromDateStr": "04/26/2020",
+        "toDateStr": "05/24/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 8350,
+        "candidateName": "Doctors for a Healthy Montana ",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/26/2020",
+        "end_date": "05/24/2020",
+        "receipts": 0.0,
+        "expenditures": 394.0,
+        "cash_in_bank": 841.06
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "05/06/20",
+            "Entity Name": "Dakota Outdoor Advertising LLC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 5548",
+            "City": "Farmington",
+            "State": "NM",
+            "Zip": "87499",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 200.0,
+            "Purpose": "Final payment of Sidney Billboard",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Billboard",
+            "Expenditure Paid Communications Quantity": "1 Billboard for last half of May",
+            "Expenditure Paid Communications Subject Matter": "Oppose Joel Kratter's vote for Medicaid Expansion and the funding of abortions through Medicaid Expansion. "
+        },
+        {
+            "Date Paid": "05/15/20",
+            "Entity Name": "Tradewinds",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 303",
+            "City": "Jordan",
+            "State": "MT",
+            "Zip": "59337",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 194.0,
+            "Purpose": "3 column x 4\" Ad in newspaper",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Tradewind Newspaper ",
+            "Expenditure Paid Communications Quantity": "1 ad to be run May 4",
+            "Expenditure Paid Communications Subject Matter": "Oppose Rep. Eric Moore vote to expand Medicaid and the funding of abortions."
+        }
+    ]
+}

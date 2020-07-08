@@ -1,0 +1,48 @@
+{
+    "slug": "439-Montana-Employees-Of-Centurylink-Pac-Was-Montana-Employees-Of-Qwest-Pac",
+    "committeeName": "Montana Employees Of Centurylink Pac Was Montana Employees Of Qwest Pac",
+    "scrape_date": "2020-07-02",
+    "periods": 7,
+    "data": {
+        "committeeId": 439,
+        "committeeName": "Montana Employees Of Centurylink Pac Was Montana Employees Of Qwest Pac",
+        "committeeAddress": "441 N Park, Helena, MT 59624",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1517295600000,
+        "entityFullName": "Montana Employees Of Centurylink Pac Was Montana Employees Of Qwest Pac",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Glueckert, Rochelle",
+                "address": "441 N PArk Helena, MT  59624",
+                "phone": "(406) 441-7777",
+                "email": "shelley.glueckert@centurylink.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Glueckert, Rochelle",
+                "address": "Po Box 1716 Helena, MT  59624",
+                "phone": "(406) 443-3171",
+                "email": "shelley.glueckert@qwest.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Various",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "For furthering the Election or Defeat of candidates for public office.",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

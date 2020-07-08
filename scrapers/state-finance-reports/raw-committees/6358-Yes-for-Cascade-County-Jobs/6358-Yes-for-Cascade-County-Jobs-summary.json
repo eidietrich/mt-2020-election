@@ -1,0 +1,48 @@
+{
+    "slug": "6358-Yes-for-Cascade-County-Jobs",
+    "committeeName": "Yes for Cascade County Jobs",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 6358,
+        "committeeName": "Yes for Cascade County Jobs",
+        "committeeAddress": "PO Box 3205, Great Falls, MT 59403",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2017",
+        "amendedDate": 1535004000000,
+        "entityFullName": "Yes for Cascade County Jobs",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Watkins, Bruce (Len)",
+                "address": "PO Box 3205 Great Falls, MT  59403",
+                "phone": "",
+                "email": "bdoney@gfdevelopment.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Doney, Brett",
+                "address": "PO Box 3205 Great Falls, MT  59403",
+                "phone": "(406) 750-2119",
+                "email": "bdoney@gfdevelopment.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Cascade County ballot measure to authorize an economic development mill levy",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Cascade County economic development mill levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

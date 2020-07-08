@@ -1,0 +1,43 @@
+{
+    "slug": "2859-Montana-Human-Rights-Network",
+    "committeeName": "Montana Human Rights Network",
+    "scrape_date": "2020-07-01",
+    "periods": 13,
+    "data": {
+        "committeeId": 2859,
+        "committeeName": "Montana Human Rights Network",
+        "committeeAddress": "PO Box 1509, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1355943170000,
+        "entityFullName": "Montana Human Rights Network",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McAdam, Travis",
+                "address": "PO Box 1509 Helena, MT  59601",
+                "phone": "",
+                "email": "travismc@mhrn.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-119, LR-120, LR-121, LR-122, LR-123, CI-107, CI-108",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

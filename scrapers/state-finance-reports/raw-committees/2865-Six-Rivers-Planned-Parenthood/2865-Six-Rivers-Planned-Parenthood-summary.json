@@ -1,0 +1,43 @@
+{
+    "slug": "2865-Six-Rivers-Planned-Parenthood",
+    "committeeName": "Six Rivers Planned Parenthood",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2865,
+        "committeeName": "Six Rivers Planned Parenthood",
+        "committeeAddress": "3225 Timber Fall Court, Eureka, CA 95503",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1357765540000,
+        "entityFullName": "Six Rivers Planned Parenthood",
+        "entityCity": "Eureka",
+        "entityState": "CA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Lemon, Coucette",
+                "address": "3225 Timber Fall Court Eureka, CA  95503",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

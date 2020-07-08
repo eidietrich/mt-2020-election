@@ -1,0 +1,43 @@
+{
+    "slug": "7312-Golden-Sunlight-Mines-Inc.",
+    "committeeName": "Golden Sunlight Mines, Inc.",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 7312,
+        "committeeName": "Golden Sunlight Mines, Inc.",
+        "committeeAddress": "453 MT. Hwy. 2 East, Whitehall, MT 59759",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1551682800000,
+        "entityFullName": "Golden Sunlight Mines, Inc.",
+        "entityCity": "Whitehall",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bain, Nathan",
+                "address": "P.O. Box 639 Billings, MT  59103",
+                "phone": "(406) 490-2243",
+                "email": "bcmcclafferty@hollandhart.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "1-186",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

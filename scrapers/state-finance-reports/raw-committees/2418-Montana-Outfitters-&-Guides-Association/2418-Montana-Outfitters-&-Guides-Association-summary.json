@@ -1,0 +1,43 @@
+{
+    "slug": "2418-Montana-Outfitters-&-Guides-Association",
+    "committeeName": "Montana Outfitters & Guides Association",
+    "scrape_date": "2020-07-01",
+    "periods": 11,
+    "data": {
+        "committeeId": 2418,
+        "committeeName": "Montana Outfitters & Guides Association",
+        "committeeAddress": "5 Microwave Hill Rd. Suite L, Montana City, MT 59634",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1266873569000,
+        "entityFullName": "Montana Outfitters & Guides Association",
+        "entityCity": "Montana City",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Swain, Jim",
+                "address": "PO Box 2532 Billings, MT  59103",
+                "phone": "",
+                "email": "jim@ghg-cpa.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Minard, Mac",
+                "address": "5 Microwave Hill Montana City, MT  59634",
+                "phone": "",
+                "email": "moga@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-161",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "7991-LifeSolutionz",
+    "committeeName": "LifeSolutionz",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7991,
+        "committeeName": "LifeSolutionz",
+        "committeeAddress": "511 Shepherd Street, Suite 203, Winston-Salem, NC 27103",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2019",
+        "amendedDate": 1560751200000,
+        "entityFullName": "LifeSolutionz",
+        "entityCity": "Winston-Salem",
+        "entityState": "NC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Luther, Jessie",
+                "address": "1 S. Montana Ave., Ste. M-2 Helena, MT  59601",
+                "phone": "(406) 441-4871",
+                "email": "jessie@taylorluthergroup.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "contribution to MHA PAC",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

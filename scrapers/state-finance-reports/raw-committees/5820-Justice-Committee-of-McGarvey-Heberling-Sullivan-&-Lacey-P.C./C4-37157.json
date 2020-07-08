@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 37157,
+        "fromDateStr": "08/28/2016",
+        "toDateStr": "09/26/2016",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 5820,
+        "candidateName": "Justice Committee of McGarvey, Heberling, Sullivan & Lacey, P.C.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "08/28/2016",
+        "end_date": "09/26/2016",
+        "receipts": 0.0,
+        "expenditures": 958.4,
+        "cash_in_bank": -958.4
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "09/08/16",
+            "Entity Name": "McGarvey, Heberling, Sullivan & Lacey PC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "345 1st Ave. East",
+            "City": "Kalispell",
+            "State": "MT",
+            "Zip": "59901",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 958.4,
+            "Purpose": "MHSL Staff Time to prepare materials for distribution and schedule meetings",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

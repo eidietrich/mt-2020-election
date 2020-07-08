@@ -1,0 +1,48 @@
+{
+    "slug": "2180-Planned-Parenthood-of-Montana-Inc.--(Billings)",
+    "committeeName": "Planned Parenthood of Montana, Inc.  (Billings)",
+    "scrape_date": "2020-07-01",
+    "periods": 5,
+    "data": {
+        "committeeId": 2180,
+        "committeeName": "Planned Parenthood of Montana, Inc.  (Billings)",
+        "committeeAddress": "2525 4th Ave. North, Suite 201, Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1212425438000,
+        "entityFullName": "Planned Parenthood of Montana, Inc.  (Billings)",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hansen, Rena",
+                "address": "305 South 4th East, Suite 200 Missoula, MT  59802",
+                "phone": "",
+                "email": "rena@bdmcpa.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI-100",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            },
+            {
+                "interest": "I-155",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

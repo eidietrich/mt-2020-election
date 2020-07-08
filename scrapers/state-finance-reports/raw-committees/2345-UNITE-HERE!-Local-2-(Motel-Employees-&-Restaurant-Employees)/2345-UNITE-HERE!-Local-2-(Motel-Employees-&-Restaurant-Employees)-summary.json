@@ -1,0 +1,43 @@
+{
+    "slug": "2345-UNITE-HERE!-Local-2-(Motel-Employees-&-Restaurant-Employees)",
+    "committeeName": "UNITE HERE! Local 2 (Motel Employees & Restaurant Employees)",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2345,
+        "committeeName": "UNITE HERE! Local 2 (Motel Employees & Restaurant Employees)",
+        "committeeAddress": "209 Golden Gate Ave., San Francisco, CA 94102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": null,
+        "electionYear": "2008",
+        "amendedDate": 1230309855000,
+        "entityFullName": "UNITE HERE! Local 2 (Motel Employees & Restaurant Employees)",
+        "entityCity": "San Francisco",
+        "entityState": "CA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-155",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

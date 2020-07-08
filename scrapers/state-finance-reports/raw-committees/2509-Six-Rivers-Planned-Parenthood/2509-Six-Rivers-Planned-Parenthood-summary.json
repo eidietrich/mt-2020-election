@@ -1,0 +1,43 @@
+{
+    "slug": "2509-Six-Rivers-Planned-Parenthood",
+    "committeeName": "Six Rivers Planned Parenthood",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2509,
+        "committeeName": "Six Rivers Planned Parenthood",
+        "committeeAddress": "3225 Timber Fall Ct., Eureka, MT 95503",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1277497764000,
+        "entityFullName": "Six Rivers Planned Parenthood",
+        "entityCity": "Eureka",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Minor, Jane",
+                "address": "3225 Timber Fall Ct. Eureka, CA  95503",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI-102 Constitutionaly define a person",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

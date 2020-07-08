@@ -1,0 +1,37 @@
+{
+    "slug": "1949-Friends-of-Liberty-County-Hospital",
+    "committeeName": "Friends of Liberty County Hospital",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 1949,
+        "committeeName": "Friends of Liberty County Hospital",
+        "committeeAddress": "PO Box 215, Chester, MT 59522",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2006",
+        "amendedDate": 1161210801000,
+        "entityFullName": "Friends of Liberty County Hospital",
+        "entityCity": "Chester",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "N/A",
+                "address": "PO Box 313 Chester, MT  59522",
+                "phone": "(406) 759-5140",
+                "email": "kgagnon@mtintouch.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

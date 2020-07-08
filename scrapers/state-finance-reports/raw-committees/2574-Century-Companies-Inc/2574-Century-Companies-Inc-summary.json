@@ -1,0 +1,43 @@
+{
+    "slug": "2574-Century-Companies-Inc",
+    "committeeName": "Century Companies Inc",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2574,
+        "committeeName": "Century Companies Inc",
+        "committeeAddress": "P O Box 579, Lewistown, MT 59457",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1285007727000,
+        "entityFullName": "Century Companies Inc",
+        "entityCity": "Lewistown",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Golik, Tracy L",
+                "address": "P O Box 579 Lewistown, MT  59457",
+                "phone": "(406) 366-0767",
+                "email": "Tracy.Golik@centuryci.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School Building Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

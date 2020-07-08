@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 40095,
+        "fromDateStr": "03/28/2018",
+        "toDateStr": "03/28/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 6990,
+        "candidateName": "North Valley Hospital Incidental Committee",
+        "statusDescr": "Amended",
+        "amendedDate": 1525788193000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/28/2018",
+        "end_date": "03/28/2018",
+        "receipts": 0.0,
+        "expenditures": 26677.0,
+        "cash_in_bank": -26677.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "03/28/18",
+            "Entity Name": "Kalispell Regional Medical Center, Inc. ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "310 Sunnyview Lane",
+            "City": "Kalispell",
+            "State": "MT",
+            "Zip": "59901",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 26677.0,
+            "Purpose": "Contribution to MHA Incidental Committee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

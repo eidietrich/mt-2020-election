@@ -1,0 +1,43 @@
+{
+    "slug": "2487-U.S.-Sportsmen's-Alliance",
+    "committeeName": "U.S. Sportsmen's Alliance",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 2487,
+        "committeeName": "U.S. Sportsmen's Alliance",
+        "committeeAddress": "801 Kingsmill Parkway, Columbux, OH 43229",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1275498094000,
+        "entityFullName": "U.S. Sportsmen's Alliance",
+        "entityCity": "Columbux",
+        "entityState": "OH"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Piatak, Karen",
+                "address": "801 Kingsmill Parkway Columbus, OH  43229-1137",
+                "phone": "",
+                "email": "6148884868"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Montana Trap Free Public Lands Act",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

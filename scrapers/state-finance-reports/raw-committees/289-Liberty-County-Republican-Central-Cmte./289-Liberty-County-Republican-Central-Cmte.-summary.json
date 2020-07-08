@@ -1,0 +1,37 @@
+{
+    "slug": "289-Liberty-County-Republican-Central-Cmte.",
+    "committeeName": "Liberty County Republican Central Cmte.",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 289,
+        "committeeName": "Liberty County Republican Central Cmte.",
+        "committeeAddress": "P.O. Box 179, Chester, MT 59522",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1505368800000,
+        "entityFullName": "Liberty County Republican Central Cmte.",
+        "entityCity": "Chester",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Good, Lila",
+                "address": "P.O. Box 179 Chester, MT  59522",
+                "phone": "(406) 456-3261",
+                "email": "74good@itstriangle.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

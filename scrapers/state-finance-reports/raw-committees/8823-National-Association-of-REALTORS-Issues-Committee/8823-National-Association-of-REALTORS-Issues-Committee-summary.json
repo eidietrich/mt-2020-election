@@ -1,7 +1,7 @@
 {
     "slug": "8823-National-Association-of-REALTORS-Issues-Committee",
     "committeeName": "National Association of REALTORS Issues Committee",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 1,
     "data": {
         "committeeId": 8823,
@@ -16,15 +16,28 @@
         "entityState": "IL"
     },
     "summary": {
-        "reports": 1,
-        "contributions": 20000.0,
-        "num_contributions": 1,
-        "contributions_19_20": 20000.0,
-        "num_contributions_19_20": 1,
-        "expenditures": 20000.0,
-        "num_expenditures": 1,
-        "expenditures_19_20": 20000.0,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": 0.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "SILL, SAM",
+                "address": "1 S. MONTANA AVE, STE M-1 HELENA, MT  59601",
+                "phone": "(406) 443-4032",
+                "email": "sam@montanarealtors.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "PIERPOINT, JOHN",
+                "address": "430 N. MICHIGAN AVE CHICAGO, IL  60611",
+                "phone": "(312) 329-8200",
+                "email": "jpierpoint@realtors.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To make contributions and expenditures in Montana ballot issues elections. We are not supporting or opposing any particular ballot issue.",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
     }
 }

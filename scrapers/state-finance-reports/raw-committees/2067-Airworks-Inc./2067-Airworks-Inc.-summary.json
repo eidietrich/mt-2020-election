@@ -1,0 +1,43 @@
+{
+    "slug": "2067-Airworks-Inc.",
+    "committeeName": "Airworks, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2067,
+        "committeeName": "Airworks, Inc.",
+        "committeeAddress": "294 2nd Ave. WN, Kalispell, MT 59901",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2007",
+        "amendedDate": 1178210328000,
+        "entityFullName": "Airworks, Inc.",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Yarus, Diane",
+                "address": "",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Elementary and High School Levy",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

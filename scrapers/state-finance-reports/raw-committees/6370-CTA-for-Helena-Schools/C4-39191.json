@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 39191,
+        "fromDateStr": "04/01/2017",
+        "toDateStr": "06/30/2017",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 6370,
+        "candidateName": "CTA for Helena Schools",
+        "statusDescr": "Amended",
+        "amendedDate": 1502212027000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/01/2017",
+        "end_date": "06/30/2017",
+        "receipts": 0.0,
+        "expenditures": 2002.36,
+        "cash_in_bank": -2002.36
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "04/19/17",
+            "Entity Name": "Lincolns for Levies",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "294 Triple Tree Road",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 1002.36,
+            "Purpose": "In-kind contribution to support Bozeman school levy",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/27/17",
+            "Entity Name": "Yes! for Helena's Schools",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1932",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 1000.0,
+            "Purpose": "support for Helena school bond matter",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

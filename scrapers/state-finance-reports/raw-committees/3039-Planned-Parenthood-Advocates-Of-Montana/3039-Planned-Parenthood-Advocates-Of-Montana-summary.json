@@ -1,0 +1,53 @@
+{
+    "slug": "3039-Planned-Parenthood-Advocates-Of-Montana",
+    "committeeName": "Planned Parenthood Advocates Of Montana",
+    "scrape_date": "2020-07-01",
+    "periods": 5,
+    "data": {
+        "committeeId": 3039,
+        "committeeName": "Planned Parenthood Advocates Of Montana",
+        "committeeAddress": "2525 4th Ave. N Suite 201, Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1517382000000,
+        "entityFullName": "Planned Parenthood Advocates Of Montana",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kopec, Suzi",
+                "address": "805 N Last Chance Gulch Helena, MT  59601",
+                "phone": "",
+                "email": "kelley.brano@ppmontana.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Rae, Lana",
+                "address": "2525 4th Ave. N Suite 201 Billings, MT  59101",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-171",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "LR-126",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "I-170",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

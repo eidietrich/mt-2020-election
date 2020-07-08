@@ -1,0 +1,43 @@
+{
+    "slug": "8795-Montanans-for-Effective-Government",
+    "committeeName": "Montanans for Effective Government",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 8795,
+        "committeeName": "Montanans for Effective Government",
+        "committeeAddress": "PO Box 5135, Bozeman, MT 59717",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1589436000000,
+        "entityFullName": "Montanans for Effective Government",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Stonecipher, Tom W",
+                "address": "PO Box 5135 Bozeman, MT  59717",
+                "phone": "",
+                "email": "99stonecipher@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Phillips, Lars",
+                "address": "PO Box 5135 Bozeman, MT  59717",
+                "phone": "",
+                "email": "lars@effectivegovernmentmt.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Democratic candidates for state and county offices. ",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

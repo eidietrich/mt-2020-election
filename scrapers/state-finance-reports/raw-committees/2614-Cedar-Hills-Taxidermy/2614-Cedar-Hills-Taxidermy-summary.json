@@ -1,0 +1,37 @@
+{
+    "slug": "2614-Cedar-Hills-Taxidermy",
+    "committeeName": "Cedar Hills Taxidermy",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2614,
+        "committeeName": "Cedar Hills Taxidermy",
+        "committeeAddress": "40 Cedar Hills Rd, Whitehall, MT 59759",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1291918852000,
+        "entityFullName": "Cedar Hills Taxidermy",
+        "entityCity": "Whitehall",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "N/A",
+                "address": "40 Cedar Hills Rd. Whitehall, MT  59759",
+                "phone": "(406) 494-2960",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

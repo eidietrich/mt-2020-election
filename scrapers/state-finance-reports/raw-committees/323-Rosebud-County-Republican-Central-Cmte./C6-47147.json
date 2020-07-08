@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 47147,
+        "fromDateStr": "11/22/2018",
+        "toDateStr": "03/30/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 323,
+        "candidateName": "Rosebud County Republican Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/22/2018",
+        "end_date": "03/30/2020",
+        "receipts": 0.0,
+        "expenditures": 75.0,
+        "cash_in_bank": 4590.42
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "03/02/20",
+            "Entity Name": "Rosebud-Treasure County Fair",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "513 N 16th Ave",
+            "City": "Forsyth",
+            "State": "MT",
+            "Zip": "59327",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 75.0,
+            "Purpose": "Booth space rental reservation for Rosebud-Treasure County Fair for dates  7/15/20 to 7/18/20",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Rosebud-Treasure County Fair exhibit hall booth space rental",
+            "Expenditure Paid Communications Quantity": "1 each, 10' x 10' indoor booth space in the exhibit hall at Rosebud County Fair, table, chairs and power source provided",
+            "Expenditure Paid Communications Subject Matter": "Space to provide a location for Republican general election candidates to meet the public, display campaign literature, posters, yard signs, banners, buttons, etc."
+        }
+    ]
+}

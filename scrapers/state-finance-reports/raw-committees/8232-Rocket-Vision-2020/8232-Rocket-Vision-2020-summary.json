@@ -1,7 +1,7 @@
 {
     "slug": "8232-Rocket-Vision-2020",
     "committeeName": "Rocket Vision 2020",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 2,
     "data": {
         "committeeId": 8232,
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 2,
-        "contributions": 1646.17,
-        "num_contributions": 13,
-        "contributions_19_20": 1646.17,
-        "num_contributions_19_20": 13,
-        "expenditures": 816.0,
-        "num_expenditures": 4,
-        "expenditures_19_20": 816.0,
-        "num_expenditures_19_20": 4,
-        "cash_on_hand": 98.89
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Gunterman, Jennifer",
+                "address": "1153 Hanlan Ln Stevensville, MT  59870",
+                "phone": "(406) 546-2709",
+                "email": "hapilee@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Lone Rock School Levy",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
     }
 }

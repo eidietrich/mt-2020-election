@@ -1,0 +1,43 @@
+{
+    "slug": "7064-Mountain-Pacific-Quality-Health",
+    "committeeName": "Mountain-Pacific Quality Health",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7064,
+        "committeeName": "Mountain-Pacific Quality Health",
+        "committeeAddress": "3404 Cooney Drive, Helena, MT 59602",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1525068000000,
+        "entityFullName": "Mountain-Pacific Quality Health",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Medley, Sara M",
+                "address": "3404 Cooney Drive Helena, MT  59602",
+                "phone": "(406) 457-5820",
+                "email": "smedley@mpqhf.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "contribution made to support I-185 on the 2018 ballot",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

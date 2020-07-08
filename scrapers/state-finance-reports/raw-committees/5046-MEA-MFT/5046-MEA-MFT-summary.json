@@ -1,0 +1,83 @@
+{
+    "slug": "5046-MEA-MFT",
+    "committeeName": "MEA-MFT",
+    "scrape_date": "2020-07-02",
+    "periods": 14,
+    "data": {
+        "committeeId": 5046,
+        "committeeName": "MEA-MFT",
+        "committeeAddress": "1232 E 6th Ave, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1481698800000,
+        "entityFullName": "MEA-MFT",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Burke, Erik",
+                "address": "1232 E. 6th Ave. Helena, MT  59601",
+                "phone": "(406) 442-4250",
+                "email": "dgraveley@mea-mft.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Tim Fox - Attorney General",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steve Bullock - Governor",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "I-181",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Melissa Romano State Superintendent",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Monica Lindeen Secretary Of State",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dirk Sandefur - Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jim Shea - Supreme Court",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Mike McGrath",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jesse Laslovich \u2013 Auditor race",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

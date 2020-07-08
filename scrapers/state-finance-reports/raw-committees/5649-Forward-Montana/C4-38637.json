@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 38637,
+        "fromDateStr": "11/01/2016",
+        "toDateStr": "11/28/2016",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 5649,
+        "candidateName": "Forward Montana",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/01/2016",
+        "end_date": "11/28/2016",
+        "receipts": 0.0,
+        "expenditures": 165.0,
+        "cash_in_bank": -4451.98
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/15/16",
+            "Entity Name": "Abbey, Kiah",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "821 S. Church Avenue",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Expenditure Type": "Debts and Loans Not Yet Paid",
+            "Amount": 165.0,
+            "Purpose": "Payroll - Voter Guide",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "11/15/16",
+            "Entity Name": "Abbey, Kiah",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "821 S. Church Avenue",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Expenditure Type": "Debt and Loan Payment",
+            "Amount": 165.0,
+            "Purpose": "",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

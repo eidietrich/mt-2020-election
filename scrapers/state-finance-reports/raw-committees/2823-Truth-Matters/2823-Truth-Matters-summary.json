@@ -1,0 +1,48 @@
+{
+    "slug": "2823-Truth-Matters",
+    "committeeName": "Truth Matters",
+    "scrape_date": "2020-07-02",
+    "periods": 8,
+    "data": {
+        "committeeId": 2823,
+        "committeeName": "Truth Matters",
+        "committeeAddress": "28 Fern Hollow Dr, Trout Creek, MT 59874",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1513666800000,
+        "entityFullName": "Truth Matters",
+        "entityCity": "Trout Creek",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Leivestad, Russlyn A.",
+                "address": "28 Fern Hollow Dr Trout Creek, MT  59874",
+                "phone": "(406) 827-3981",
+                "email": "funnyfarm@blackfoot.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Marshall, Carolyn L",
+                "address": "Po Box 1148 Thompson Falls, MT  59873",
+                "phone": "(406) 827-9896",
+                "email": "carolynmarshall@blackfoot.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Jennifer Fielder",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Promote positive community discourse, oppose the promotion of fear and intolerance, and counter political extremism, conspitacy, theories and misinformation.",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

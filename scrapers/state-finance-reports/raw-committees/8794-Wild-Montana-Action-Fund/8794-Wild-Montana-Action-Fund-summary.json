@@ -1,0 +1,43 @@
+{
+    "slug": "8794-Wild-Montana-Action-Fund",
+    "committeeName": "Wild Montana Action Fund",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 8794,
+        "committeeName": "Wild Montana Action Fund",
+        "committeeAddress": "80 S. Warren St., Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1593669600000,
+        "entityFullName": "Wild Montana Action Fund",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Leighton , Kim \"Quinn\" ",
+                "address": "80 S. Warren St. Helena, MT  59601",
+                "phone": "(406) 443-7350",
+                "email": "quinn.leightn@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Parr, Laura ",
+                "address": "80 S. Warren St. Helena, MT  59601",
+                "phone": "(406) 443-7350",
+                "email": "lparr@wildmontanaaction.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Gubernatorial Primary Voter Guide; all Dem and Rep candidates ",
+                "position": "Education",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

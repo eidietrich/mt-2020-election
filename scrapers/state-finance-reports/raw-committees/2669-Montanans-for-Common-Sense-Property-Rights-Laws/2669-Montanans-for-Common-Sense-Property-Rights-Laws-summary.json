@@ -1,0 +1,43 @@
+{
+    "slug": "2669-Montanans-for-Common-Sense-Property-Rights-Laws",
+    "committeeName": "Montanans for Common Sense Property Rights Laws",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 2669,
+        "committeeName": "Montanans for Common Sense Property Rights Laws",
+        "committeeAddress": "PO Box 1219 218 8th Avenue, Helena, MT 59624",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1305817179000,
+        "entityFullName": "Montanans for Common Sense Property Rights Laws",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Pichette, J Michael",
+                "address": "208 No Montana #205 Helena, MT  59601",
+                "phone": "(406) 443-8963",
+                "email": "michael.pichette@northwestern.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Wiggers, Ronda",
+                "address": "3208 2nd Ave S Great Falls, MT  59405",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Oppose Referendum to suspend HB 198/ Eminent Domain",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

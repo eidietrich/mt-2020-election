@@ -1,0 +1,73 @@
+{
+    "slug": "366-Butte-Teachers-Union-COPE",
+    "committeeName": "Butte Teachers Union COPE",
+    "scrape_date": "2020-07-02",
+    "periods": 18,
+    "data": {
+        "committeeId": 366,
+        "committeeName": "Butte Teachers Union COPE",
+        "committeeAddress": "2110 East Drive, Butte, MT 59701",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1527573600000,
+        "entityFullName": "Butte Teachers Union COPE",
+        "entityCity": "Butte",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McLaughlin, Cheryl K",
+                "address": "12110 East Drive Butte, MT  59701",
+                "phone": "",
+                "email": "mclaughlinck@butte.k12.mt.us"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Denise Juneau US Senate",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Melissa Romano State Superintendent",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Eric Mankins City Commissioner",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Edie McLafferty Senate 38",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Monica Lindeen Secretary Of State",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steve Bullock Governor",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Amanda Curtis House District 74",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

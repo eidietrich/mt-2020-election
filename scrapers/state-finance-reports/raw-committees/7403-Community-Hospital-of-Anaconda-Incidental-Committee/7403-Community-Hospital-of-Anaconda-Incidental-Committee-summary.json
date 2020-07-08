@@ -1,0 +1,43 @@
+{
+    "slug": "7403-Community-Hospital-of-Anaconda-Incidental-Committee",
+    "committeeName": "Community Hospital of Anaconda Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7403,
+        "committeeName": "Community Hospital of Anaconda Incidental Committee",
+        "committeeAddress": "401 West Pennsylvania, Anaconda, MT 59711",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1537941600000,
+        "entityFullName": "Community Hospital of Anaconda Incidental Committee",
+        "entityCity": "Anaconda",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hickey-Boynton, Meg",
+                "address": "401 West Pennsylvania Anaconda, MT  59711",
+                "phone": "(406) 563-8512",
+                "email": "mhickey@chofa.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Luther, Jessie",
+                "address": "1 S. Montana Ave., Ste. M-2 Helena, MT  59601",
+                "phone": "",
+                "email": "jessie@taylorluthergroup.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-185",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

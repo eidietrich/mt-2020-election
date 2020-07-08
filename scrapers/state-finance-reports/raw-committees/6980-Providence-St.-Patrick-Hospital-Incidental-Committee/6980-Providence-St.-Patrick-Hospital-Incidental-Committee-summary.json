@@ -1,0 +1,43 @@
+{
+    "slug": "6980-Providence-St.-Patrick-Hospital-Incidental-Committee",
+    "committeeName": "Providence St. Patrick Hospital Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 6980,
+        "committeeName": "Providence St. Patrick Hospital Incidental Committee",
+        "committeeAddress": "500 W Broadway St, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1593496800000,
+        "entityFullName": "Providence St. Patrick Hospital Incidental Committee",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Federici, Kristen",
+                "address": "500 W Broadway St Missoula, MT  59802",
+                "phone": "(253) 341-7733",
+                "email": "kristen.federici@providence.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Bodlovic, Kirk",
+                "address": "500 W Broadway St Missoula, MT  59802",
+                "phone": "(406) 327-1740",
+                "email": "kirk.bodlovic@providence.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Ballot Initiative to increase tobacco taxes to support health care programs",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

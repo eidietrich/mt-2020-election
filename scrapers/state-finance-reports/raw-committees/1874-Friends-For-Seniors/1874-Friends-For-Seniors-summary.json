@@ -1,0 +1,37 @@
+{
+    "slug": "1874-Friends-For-Seniors",
+    "committeeName": "Friends For Seniors",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 1874,
+        "committeeName": "Friends For Seniors",
+        "committeeAddress": "100 24th Street West Suite 1, PMB 163, Billings, MT 59102",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2006",
+        "amendedDate": 1157664322000,
+        "entityFullName": "Friends For Seniors",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Johnson, Jack",
+                "address": "2303 Virginia Lane Billings, MT  59102",
+                "phone": "(406) 656-0321",
+                "email": "johnson@imt.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

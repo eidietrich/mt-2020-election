@@ -1,0 +1,37 @@
+{
+    "slug": "273-Hill-County-Republican-Central-Cmte.",
+    "committeeName": "Hill County Republican Central Cmte.",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 273,
+        "committeeName": "Hill County Republican Central Cmte.",
+        "committeeAddress": "Po Box 1047, Havre, MT 59501",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1467007200000,
+        "entityFullName": "Hill County Republican Central Cmte.",
+        "entityCity": "Havre",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Salemo, Barbara",
+                "address": "1104 - 13th St W Havre, MT  59501",
+                "phone": "(406) 265-3163",
+                "email": "gitgo@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Rader, Gail",
+                "address": "51 Saddle Butte Dr Havre, MT  59501",
+                "phone": "(406) 265-9263",
+                "email": "rader@havremt.net"
+            }
+        ],
+        "issues": []
+    }
+}

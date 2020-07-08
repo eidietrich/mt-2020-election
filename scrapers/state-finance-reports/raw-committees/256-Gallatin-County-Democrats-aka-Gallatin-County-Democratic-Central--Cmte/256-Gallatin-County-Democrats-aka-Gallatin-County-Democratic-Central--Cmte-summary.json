@@ -1,0 +1,108 @@
+{
+    "slug": "256-Gallatin-County-Democrats-aka-Gallatin-County-Democratic-Central--Cmte",
+    "committeeName": "Gallatin County Democrats aka Gallatin County Democratic Central  Cmte",
+    "scrape_date": "2020-07-02",
+    "periods": 21,
+    "data": {
+        "committeeId": 256,
+        "committeeName": "Gallatin County Democrats aka Gallatin County Democratic Central  Cmte",
+        "committeeAddress": "PO Box 344, Bozeman, MT 59771",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1559023200000,
+        "entityFullName": "Gallatin County Democrats aka Gallatin County Democratic Central  Cmte",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McCarthy, Hanah",
+                "address": "PO Box 344 Bozeman, MT  59771",
+                "phone": "(406) 209-2607",
+                "email": "hanah.mccarthy@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Advance values, issues, and candidates representing the Democratic party in all relevant county and local elections. ",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Sam Newville for Senate District 34",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Eric Semerad for Gallatin County Clerk and Recorder",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Pat Flowers for Senate District 32",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kathleen Williams for US Congress",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Chris Pope for HD 65",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Seth Mangini for HD 68",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Rex Renk for Clerk of the Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kris Menicucci for HD 67",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Denise Albrecht for HD 64",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jennifer Blossom for Gallatin County Treasurer",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Scott McFarlane for Gallatin County Commissioner",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "All Democratic candidates: ballot issues which relflect democratic values as decided upon by our Central Cmte.",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Erin Cox for Gallatin County Auditor",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

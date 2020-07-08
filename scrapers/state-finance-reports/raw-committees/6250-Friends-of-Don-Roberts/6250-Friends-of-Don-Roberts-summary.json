@@ -1,0 +1,48 @@
+{
+    "slug": "6250-Friends-of-Don-Roberts",
+    "committeeName": "Friends of Don Roberts",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6250,
+        "committeeName": "Friends of Don Roberts",
+        "committeeAddress": "3247 Flora Av, Billings, MT 59102",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1500357600000,
+        "entityFullName": "Friends of Don Roberts",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Workman, Ed",
+                "address": "3247 Flora Av Billings, MT  59102",
+                "phone": "(406) 656-9890",
+                "email": "workman@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Newspaper Ad (Billings Gazette) Supporting Don Roberts",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Don Roberts",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

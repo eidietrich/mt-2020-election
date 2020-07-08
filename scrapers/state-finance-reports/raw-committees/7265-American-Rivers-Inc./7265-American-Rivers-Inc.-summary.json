@@ -1,0 +1,43 @@
+{
+    "slug": "7265-American-Rivers-Inc.",
+    "committeeName": "American Rivers, Inc.",
+    "scrape_date": "2020-07-02",
+    "periods": 8,
+    "data": {
+        "committeeId": 7265,
+        "committeeName": "American Rivers, Inc.",
+        "committeeAddress": "1101 14TH ST. N.W., SUITE 1400, WASHINGTON, DC 20005",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1526623200000,
+        "entityFullName": "American Rivers, Inc.",
+        "entityCity": "WASHINGTON",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "May, Kristin",
+                "address": "1101 14TH ST. N.W., SUITE 1400 WASHINGTON, DC  20005",
+                "phone": "(202) 243-7032",
+                "email": "kmay@americanrivers.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Bosse, Scott",
+                "address": "321 East Main Street, Suite 408 Bozeman, MT  59715",
+                "phone": "(406) 570-0455",
+                "email": "sbosse@americanrivers.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-186",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

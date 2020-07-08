@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 48378,
+        "fromDateStr": "04/26/2020",
+        "toDateStr": "05/24/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 8021,
+        "candidateName": "Cascade County Republican Central Committee",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/26/2020",
+        "end_date": "05/24/2020",
+        "receipts": 0.0,
+        "expenditures": 174.0,
+        "cash_in_bank": 7492.64
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "04/27/20",
+            "Entity Name": "Star Radio",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1300 Central Avenue West",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59404",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 26.0,
+            "Purpose": "Radio Ads for CCRCC Executive Board Meeting",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "STAR Radio",
+            "Expenditure Paid Communications Quantity": "2 30 second spots",
+            "Expenditure Paid Communications Subject Matter": "Invite to CCRCC Executive Board meeting."
+        },
+        {
+            "Date Paid": "05/14/20",
+            "Entity Name": "USPS",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "3400 9th Ave S",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59405",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 148.0,
+            "Purpose": "1 year Post office box rental fee",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

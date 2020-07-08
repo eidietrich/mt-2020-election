@@ -1,0 +1,43 @@
+{
+    "slug": "2081-Montana-Trout-Unlimited-Inc.",
+    "committeeName": "Montana Trout Unlimited, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2081,
+        "committeeName": "Montana Trout Unlimited, Inc.",
+        "committeeAddress": "PO Box 7186 240 N. Higgins, Ste. 12, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2007",
+        "amendedDate": 1179764292000,
+        "entityFullName": "Montana Trout Unlimited, Inc.",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Short, Daniel",
+                "address": "164 Juniper Bend Drive Kalispell, MT  59901",
+                "phone": "(406) 250-5064",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Ravalli County Water Quality District",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

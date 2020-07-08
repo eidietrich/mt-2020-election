@@ -1,0 +1,78 @@
+{
+    "slug": "2128-Montana-Bankers-PAC",
+    "committeeName": "Montana Bankers PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 20,
+    "data": {
+        "committeeId": 2128,
+        "committeeName": "Montana Bankers PAC",
+        "committeeAddress": "1 North Last Chance Gulch, Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1580367600000,
+        "entityFullName": "Montana Bankers PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hegreberg, Cary",
+                "address": "1 N Last Chance Gulch Helena, MT  59601",
+                "phone": "(406) 441-4701",
+                "email": "cary@montanabankers.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "O'Reilly, Pam",
+                "address": "1 N. Last Chance Gulch Ste 4 Helena, MT  59601",
+                "phone": "(406) 441-4703",
+                "email": "pam@montanabankers.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Tim Fox - Attorney General",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jesse Laslovich \u2013 Auditor race",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jobs for Montana PAC",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Tom Welch for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Kristen Juras - Supreme  Court Justice",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Corey Stapleton for Secretary of State",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Elsie Arntzen",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "MONTANA CHAMBER PAC",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

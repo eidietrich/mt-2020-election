@@ -1,7 +1,7 @@
 {
     "slug": "8351-Bitterroot-Public-Library-Levy-Campaign",
     "committeeName": "Bitterroot Public Library Levy Campaign",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 2,
     "data": {
         "committeeId": 8351,
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 2,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 7802.87,
-        "num_expenditures": 4,
-        "expenditures_19_20": 7802.87,
-        "num_expenditures_19_20": 4,
-        "cash_on_hand": 4197.13
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Darby, Mary Ann",
+                "address": "705 N 8th ST Hamilton, MT  59840",
+                "phone": "(415) 310-1295",
+                "email": "ma.darby@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "library levee",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
     }
 }

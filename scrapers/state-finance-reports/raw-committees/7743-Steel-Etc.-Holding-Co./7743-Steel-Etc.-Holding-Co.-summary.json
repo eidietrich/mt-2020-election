@@ -1,0 +1,43 @@
+{
+    "slug": "7743-Steel-Etc.-Holding-Co.",
+    "committeeName": "Steel Etc. Holding Co.",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7743,
+        "committeeName": "Steel Etc. Holding Co.",
+        "committeeAddress": "1408 52nd St. N. , Great Falls, MT 59405",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1540533600000,
+        "entityFullName": "Steel Etc. Holding Co.",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Huston, Matthew",
+                "address": "1405 52nd St. N. Great Falls, MT  59405",
+                "phone": "(406) 761-4848",
+                "email": "matthew@steeletc.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Thompson, Brian",
+                "address": "PO Box 1697 Helena, MT  59624",
+                "phone": "(406) 443-6820",
+                "email": "brian@bkbh.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-186",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

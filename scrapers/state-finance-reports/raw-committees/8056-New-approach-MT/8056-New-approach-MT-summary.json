@@ -1,0 +1,22 @@
+{
+    "slug": "8056-New-approach-MT",
+    "committeeName": "New approach MT",
+    "scrape_date": "2020-07-01",
+    "periods": 4,
+    "data": {
+        "committeeId": 8056,
+        "committeeName": "New approach MT"
+    },
+    "summary": {
+        "reports": 4,
+        "contributions": 2305895.85,
+        "num_contributions": 63,
+        "contributions_19_20": 2305895.85,
+        "num_contributions_19_20": 63,
+        "expenditures": 1988208.72,
+        "num_expenditures": 130,
+        "expenditures_19_20": 1988208.72,
+        "num_expenditures_19_20": 130,
+        "cash_on_hand": 231258.36
+    }
+}

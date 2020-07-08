@@ -1,0 +1,43 @@
+{
+    "slug": "2626-Strong-Schools-=-Strong-Community-aka-Citizens-for-21st-Century-Learning",
+    "committeeName": "Strong Schools = Strong Community aka Citizens for 21st Century Learning",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2626,
+        "committeeName": "Strong Schools = Strong Community aka Citizens for 21st Century Learning",
+        "committeeAddress": "PO Box 273, Hamilton, MT 59840",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2011",
+        "amendedDate": 1299518937000,
+        "entityFullName": "Strong Schools = Strong Community aka Citizens for 21st Century Learning",
+        "entityCity": "Hamilton",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Gantt, Corrine S.",
+                "address": "228 Oertli Lane Hamilton, MT  59840",
+                "phone": "(406) 544-8586",
+                "email": "cgantt1@aim.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Wickham, Bonnie",
+                "address": "P O box 273 Hamilton, MT  59840",
+                "phone": "(406) 360-4373",
+                "email": "msbwickham@hotmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Hamilton School District Technology Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

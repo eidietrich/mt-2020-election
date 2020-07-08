@@ -1,0 +1,43 @@
+{
+    "slug": "5565-South-Park-Community-Center",
+    "committeeName": "South Park Community Center",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5565,
+        "committeeName": "South Park Community Center",
+        "committeeAddress": "901 S 30th St, Billings, MT 59107",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1465538400000,
+        "entityFullName": "South Park Community Center",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hodges, Jill",
+                "address": "1120 Clark Ave Billings, MT  59102",
+                "phone": "(406) 245-3361",
+                "email": "hodgeshouse@charter.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Yellowstone Co Mill Levy CR16-19",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

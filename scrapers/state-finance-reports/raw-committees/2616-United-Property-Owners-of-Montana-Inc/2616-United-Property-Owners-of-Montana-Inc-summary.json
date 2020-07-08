@@ -1,0 +1,37 @@
+{
+    "slug": "2616-United-Property-Owners-of-Montana-Inc",
+    "committeeName": "United Property Owners of Montana Inc",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2616,
+        "committeeName": "United Property Owners of Montana Inc",
+        "committeeAddress": "P O Box 247, Roy, MT 59471",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1293464260000,
+        "entityFullName": "United Property Owners of Montana Inc",
+        "entityCity": "Roy",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

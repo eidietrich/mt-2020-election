@@ -1,0 +1,43 @@
+{
+    "slug": "7005-Benefis-Health-System-Incidental-Committee-for-I-185",
+    "committeeName": "Benefis Health System Incidental Committee for I-185",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 7005,
+        "committeeName": "Benefis Health System Incidental Committee for I-185",
+        "committeeAddress": "1101 26th Street South, Great Falls, MT 59405",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1542610800000,
+        "entityFullName": "Benefis Health System Incidental Committee for I-185",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ehlinger, Forrest",
+                "address": "1101 26th Street South Great Falls, MT  59405",
+                "phone": "(406) 455-5000",
+                "email": "DianeLarson@benefis.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Luther, Jessie",
+                "address": "1 S. Montana Ave., Ste. #M-2 Helena, MT  59601",
+                "phone": "(406) 441-4871",
+                "email": "jessie@taylorluthergroup.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "contribution made in support of  I-185",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

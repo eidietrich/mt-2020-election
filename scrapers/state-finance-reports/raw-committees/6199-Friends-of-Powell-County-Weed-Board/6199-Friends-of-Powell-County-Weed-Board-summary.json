@@ -1,0 +1,37 @@
+{
+    "slug": "6199-Friends-of-Powell-County-Weed-Board",
+    "committeeName": "Friends of Powell County Weed Board",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6199,
+        "committeeName": "Friends of Powell County Weed Board",
+        "committeeAddress": "385 Spring Gulch Ln, Garrison, MT 59731",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1477548000000,
+        "entityFullName": "Friends of Powell County Weed Board",
+        "entityCity": "Garrison",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Perkins, Scott ",
+                "address": "3145 Perkins Rd Deer Lodge, MT  59722",
+                "phone": "(406) 560-2589",
+                "email": "sperkins.peoples@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

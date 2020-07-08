@@ -1,0 +1,43 @@
+{
+    "slug": "2331-Montana-State-University-Billings-Foundation",
+    "committeeName": "Montana State University Billings Foundation",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2331,
+        "committeeName": "Montana State University Billings Foundation",
+        "committeeAddress": "1500 University Drive, Billins, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1226594577000,
+        "entityFullName": "Montana State University Billings Foundation",
+        "entityCity": "Billins",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Egeland, Jon",
+                "address": "1500 University Drive Billings, MT  59101",
+                "phone": "",
+                "email": "jegeland@msubillings.edu"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Committee to Keep the Six Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

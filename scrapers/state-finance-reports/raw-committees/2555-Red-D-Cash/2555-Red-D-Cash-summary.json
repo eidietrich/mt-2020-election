@@ -1,0 +1,37 @@
+{
+    "slug": "2555-Red-D-Cash",
+    "committeeName": "Red D Cash",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2555,
+        "committeeName": "Red D Cash",
+        "committeeAddress": "2181 US Hwy 2  E #10, Kalispel, MT 59901",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1283283913000,
+        "entityFullName": "Red D Cash",
+        "entityCity": "Kalispel",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Gould, Shelley",
+                "address": "2181 US Hwy 2 E#10 Kalispel, MT  59901",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Kuney, Lorna",
+                "address": "400 N California Helena, MT  59601",
+                "phone": "",
+                "email": "lorna@mt.net"
+            }
+        ],
+        "issues": []
+    }
+}

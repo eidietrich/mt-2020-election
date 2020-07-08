@@ -1,0 +1,43 @@
+{
+    "slug": "2742-Common-Cause",
+    "committeeName": "Common Cause",
+    "scrape_date": "2020-07-01",
+    "periods": 10,
+    "data": {
+        "committeeId": 2742,
+        "committeeName": "Common Cause",
+        "committeeAddress": "1133 19th Street NW 9th Floor, Washington, DC 20036",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1332258025000,
+        "entityFullName": "Common Cause",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Marchant, Elizabeth",
+                "address": "1010 N Tuckahoe Street Falls Church, VA  20046",
+                "phone": "",
+                "email": "bmarchant@commoncause.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Corp. Contr and Exp Prohibition Initiative",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

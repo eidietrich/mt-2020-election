@@ -1,0 +1,43 @@
+{
+    "slug": "2881-Planned-Parenthood-Advocates-of-Indiana",
+    "committeeName": "Planned Parenthood Advocates of Indiana",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2881,
+        "committeeName": "Planned Parenthood Advocates of Indiana",
+        "committeeAddress": "200 S. Meridian St., Suite 400, Indianapolis, IN 46225",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1357850362000,
+        "entityFullName": "Planned Parenthood Advocates of Indiana",
+        "entityCity": "Indianapolis",
+        "entityState": "IN"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Overholt, Suzannah",
+                "address": "200 S. Meridian  Suite 400 Indianapolis, IN  46225",
+                "phone": "",
+                "email": "suzannah.overholt@ppin.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 46483,
+        "fromDateStr": "08/28/2016",
+        "toDateStr": "11/21/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 230,
+        "candidateName": "Carbon County Democratic Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "08/28/2016",
+        "end_date": "11/21/2018",
+        "receipts": 0.0,
+        "expenditures": 1116.76,
+        "cash_in_bank": 1070.49
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/21/18",
+            "Entity Name": "COPP Admin",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "NA",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59620",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 1116.76,
+            "Purpose": "To get balance correcte, from paper filing, so Cmte can begin using CERS system.",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

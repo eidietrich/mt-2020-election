@@ -1,0 +1,128 @@
+{
+    "slug": "8027-Montana-Rural-Voters-Action-Fund",
+    "committeeName": "Montana Rural Voters Action Fund",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 8027,
+        "committeeName": "Montana Rural Voters Action Fund",
+        "committeeAddress": "PO Box 414, Billings, MT 59103",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1593496800000,
+        "entityFullName": "Montana Rural Voters Action Fund",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Gulick, Ed",
+                "address": "PO Box 414 Billings, MT  59103",
+                "phone": "",
+                "email": "egulick@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Berg, Paula",
+                "address": "PO Box 414 Billings, MT  59103",
+                "phone": "",
+                "email": "paula@mtruralaction.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Laurie Bishop for State House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Connie Keogh for State House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Betsy Scanlin for State House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Margaret (Margie) MacDonald for State Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Mary Ann Dunwell for State House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Edie McClafferty for State Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jasmine Krotkov for State House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Kim Abbott for State House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jessica Karjala for State House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Dave Fern for State House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Ellie Hill for State Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jen Gross for State Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Rae Peppers for State Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": " Emma Kerr-Carpenter for State House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Barbara Bessette for State House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Moffie Funk for State House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Bill Berg for Commissioner",
+                "position": "Support",
+                "status": "On ballot, approved"
+            },
+            {
+                "interest": "Marilyn Marler for State House",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

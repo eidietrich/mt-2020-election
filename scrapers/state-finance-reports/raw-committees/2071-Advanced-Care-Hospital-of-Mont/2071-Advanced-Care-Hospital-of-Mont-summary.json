@@ -1,0 +1,43 @@
+{
+    "slug": "2071-Advanced-Care-Hospital-of-Mont",
+    "committeeName": "Advanced Care Hospital of Mont",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2071,
+        "committeeName": "Advanced Care Hospital of Mont",
+        "committeeAddress": "7770 Jefferson Blvd. NE Suite 320, Albuquerque, NM 87109",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2007",
+        "amendedDate": 1178571473000,
+        "entityFullName": "Advanced Care Hospital of Mont",
+        "entityCity": "Albuquerque",
+        "entityState": "NM"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Yarrow, Kristi",
+                "address": "7770 Jefferson St. NE Ste. 320 Albuquerque, NM  87109",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School District 2 Mill Levy",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

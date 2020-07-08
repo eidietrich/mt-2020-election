@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 41013,
+        "fromDateStr": "04/27/2018",
+        "toDateStr": "05/21/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7050,
+        "candidateName": "AARP Montana Supporting I-185",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/27/2018",
+        "end_date": "05/21/2018",
+        "receipts": 0.0,
+        "expenditures": 2050.0,
+        "cash_in_bank": -34138.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "05/21/18",
+            "Entity Name": "Summers, Tim S",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "30 W 14th Street, Suite 301",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2050.0,
+            "Purpose": "Staff time 15.075 hours @$80/hx1.7 overhead/facility = $2,050: Strategize on I-185, discuss reporting/filing, outreach, attend media event.  ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "slug": "2435-Montana-Human-Rights-Network",
+    "committeeName": "Montana Human Rights Network",
+    "scrape_date": "2020-07-01",
+    "periods": 11,
+    "data": {
+        "committeeId": 2435,
+        "committeeName": "Montana Human Rights Network",
+        "committeeAddress": "PO Box 1509, Helena, MT 59624",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1270655254000,
+        "entityFullName": "Montana Human Rights Network",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Durgan, Darlene",
+                "address": "PO Box 1509 Helena, MT  59601",
+                "phone": "",
+                "email": "dldurgan@montana.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI-102 Constitutionaly define a person",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            },
+            {
+                "interest": "CI-105, 106, I-164, Missoula Non Discrimination Ordinance",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Cap in interest rates on certain loans",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

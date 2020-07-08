@@ -1,0 +1,58 @@
+{
+    "slug": "8418-Conservatives-United-for-Richland-County",
+    "committeeName": "Conservatives United for Richland County ",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 8418,
+        "committeeName": "Conservatives United for Richland County ",
+        "committeeAddress": "1399 14th St SW, Sidney, MT 59270",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1593496800000,
+        "entityFullName": "Conservatives United for Richland County ",
+        "entityCity": "Sidney",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "HALL, Mandy J",
+                "address": "1399 14th St SW Sidney, MT  59270",
+                "phone": "(406) 973-4256",
+                "email": "hallmandy321@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Hall, Jordan D",
+                "address": "1399 14th St SW Sidney, MT  59270",
+                "phone": "(406) 973-4255",
+                "email": "Truelight321@gmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Walt McNutt",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Brian Ler",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "conservative candidates for local precinct committeepersons",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Joel Krautter",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

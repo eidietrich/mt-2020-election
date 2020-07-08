@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 40313,
+        "fromDateStr": "10/02/2017",
+        "toDateStr": "05/01/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7057,
+        "candidateName": "MDA 99 Club ",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/02/2017",
+        "end_date": "05/01/2018",
+        "receipts": 0.0,
+        "expenditures": 2000.0,
+        "cash_in_bank": -2000.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/31/17",
+            "Entity Name": "M & R Strategic Services",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 5800",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59806",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2000.0,
+            "Purpose": "M & R Strategies ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

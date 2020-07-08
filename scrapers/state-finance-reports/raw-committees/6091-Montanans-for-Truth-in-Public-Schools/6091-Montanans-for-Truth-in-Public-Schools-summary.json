@@ -1,0 +1,48 @@
+{
+    "slug": "6091-Montanans-for-Truth-in-Public-Schools",
+    "committeeName": "Montanans for Truth in Public Schools",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 6091,
+        "committeeName": "Montanans for Truth in Public Schools",
+        "committeeAddress": "PO Box 340, Bozeman, MT 59715",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1480575600000,
+        "entityFullName": "Montanans for Truth in Public Schools",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Cohea, Adrian",
+                "address": "214 South Rodney Street Helena, MT  59601",
+                "phone": "(406) 417-0466",
+                "email": "adriancohea@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Greg Gianforte",
+                "position": "Oppose",
+                "status": "Support"
+            },
+            {
+                "interest": "Educate Voters Regarding Proper Use of tax Payer Dollars in Public Schools",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

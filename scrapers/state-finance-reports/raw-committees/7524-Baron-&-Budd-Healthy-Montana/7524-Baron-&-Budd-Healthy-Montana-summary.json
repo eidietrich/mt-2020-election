@@ -1,0 +1,43 @@
+{
+    "slug": "7524-Baron-&-Budd-Healthy-Montana",
+    "committeeName": "Baron & Budd Healthy Montana",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7524,
+        "committeeName": "Baron & Budd Healthy Montana",
+        "committeeAddress": "P.O. Box 4182, Helena, MT 59604",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1535522400000,
+        "entityFullName": "Baron & Budd Healthy Montana",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Luther, Jessie L",
+                "address": "P.O. Box 4182 Helena, MT  59604",
+                "phone": "(406) 441-4871",
+                "email": "jessie@taylorluthergroup.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "contribution made to ballot initiative to increase tobacco taxes to help fund certain health care programs",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

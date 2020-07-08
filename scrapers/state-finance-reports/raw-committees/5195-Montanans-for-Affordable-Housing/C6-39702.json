@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 39702,
+        "fromDateStr": "01/01/2017",
+        "toDateStr": "12/31/2017",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 5195,
+        "candidateName": "Montanans for Affordable Housing",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/01/2017",
+        "end_date": "12/31/2017",
+        "receipts": 13.35,
+        "expenditures": 225.86,
+        "cash_in_bank": 13618.12
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "01/24/17",
+            "Entity Name": "Colonial Inn",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2301 Colonial Dr.",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 225.86,
+            "Purpose": "Legislative Reception",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

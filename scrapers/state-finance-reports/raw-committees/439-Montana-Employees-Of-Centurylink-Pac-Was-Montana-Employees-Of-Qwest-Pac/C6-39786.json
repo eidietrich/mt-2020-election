@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 39786,
+        "fromDateStr": "01/01/2017",
+        "toDateStr": "12/31/2017",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 439,
+        "candidateName": "Montana Employees Of Centurylink Pac Was Montana Employees Of Qwest Pac",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/01/2017",
+        "end_date": "12/31/2017",
+        "receipts": 0.0,
+        "expenditures": 285.0,
+        "cash_in_bank": 7775.74
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "03/30/17",
+            "Entity Name": "MT Dept of Revenue",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 5835",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59604",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 50.0,
+            "Purpose": "Taxes for pac account",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "12/14/17",
+            "Entity Name": "US Bank",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "302 North Last Chance Gulch",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 235.0,
+            "Purpose": "Bank Charges",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

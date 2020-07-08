@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 44312,
+        "fromDateStr": "10/18/2018",
+        "toDateStr": "10/27/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7244,
+        "candidateName": "Park County Environmental Council",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/18/2018",
+        "end_date": "10/27/2018",
+        "receipts": 0.0,
+        "expenditures": 177.5,
+        "cash_in_bank": -5635.21
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/27/18",
+            "Entity Name": "Park County Environmental Council",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "215 E. Lewis St., #306",
+            "City": "Livingston",
+            "State": "MT",
+            "Zip": "59047",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 177.5,
+            "Purpose": "In-kind contribution of staff time, benefits and overhead for Michelle Uberuaga for 2hrs of work coordinating with partners and educating members. ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

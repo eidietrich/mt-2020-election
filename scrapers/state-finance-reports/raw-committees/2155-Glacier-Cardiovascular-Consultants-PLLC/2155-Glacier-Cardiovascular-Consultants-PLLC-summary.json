@@ -1,0 +1,43 @@
+{
+    "slug": "2155-Glacier-Cardiovascular-Consultants-PLLC",
+    "committeeName": "Glacier Cardiovascular Consultants, PLLC",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2155,
+        "committeeName": "Glacier Cardiovascular Consultants, PLLC",
+        "committeeAddress": "312 Plantation Drive, Kalispell, MT 59901",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1209399165000,
+        "entityFullName": "Glacier Cardiovascular Consultants, PLLC",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Madigan, N. Patrick",
+                "address": "312 Plantation Drive Kalispell, MT  59901",
+                "phone": "",
+                "email": "pmadigan@centurytel.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Whitefish School Bond Election",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

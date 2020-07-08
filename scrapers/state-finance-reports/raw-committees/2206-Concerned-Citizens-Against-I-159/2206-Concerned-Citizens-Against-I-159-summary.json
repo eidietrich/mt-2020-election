@@ -1,0 +1,43 @@
+{
+    "slug": "2206-Concerned-Citizens-Against-I-159",
+    "committeeName": "Concerned Citizens Against I-159",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2206,
+        "committeeName": "Concerned Citizens Against I-159",
+        "committeeAddress": "1117 S. Main Street, Kalispell, MT 59901",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1213629793000,
+        "entityFullName": "Concerned Citizens Against I-159",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hawley, Janet",
+                "address": "1133 Erb Circle Billings, MT  59105",
+                "phone": "",
+                "email": "jhawley@180com.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-159",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

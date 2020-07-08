@@ -1,0 +1,43 @@
+{
+    "slug": "2083-Kampgrounds-of-America-Inc.",
+    "committeeName": "Kampgrounds of America, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2083,
+        "committeeName": "Kampgrounds of America, Inc.",
+        "committeeAddress": "PO Box 30558 550 N. 31st St. 4th Floor, Billings, MT 59114",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2007",
+        "amendedDate": 1180126566000,
+        "entityFullName": "Kampgrounds of America, Inc.",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bulatowicz, Renee",
+                "address": "PO Box 30558 Billings, MT  59101",
+                "phone": "",
+                "email": "rbulatowicz@koa.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School District 2 Mill Levy",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

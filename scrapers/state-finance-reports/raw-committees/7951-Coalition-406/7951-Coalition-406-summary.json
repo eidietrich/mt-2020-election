@@ -1,7 +1,7 @@
 {
     "slug": "7951-Coalition-406",
     "committeeName": "Coalition 406",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 2,
     "data": {
         "committeeId": 7951,
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 2,
-        "contributions": 69465.16,
-        "num_contributions": 41,
-        "contributions_19_20": 69465.16,
-        "num_contributions_19_20": 41,
-        "expenditures": 3295.28,
-        "num_expenditures": 31,
-        "expenditures_19_20": 3295.28,
-        "num_expenditures_19_20": 31,
-        "cash_on_hand": 170.4
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Caplis, Lori L",
+                "address": "2540 Belt View Dr #111 Helena, MT  59601",
+                "phone": "(406) 438-3333",
+                "email": "info@coalition406.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Miles, Anita  S",
+                "address": "802 S Montana Miles City, MT  59301",
+                "phone": "(406) 853-2329",
+                "email": "a_s_miles@yahoo.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "N/A",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
     }
 }

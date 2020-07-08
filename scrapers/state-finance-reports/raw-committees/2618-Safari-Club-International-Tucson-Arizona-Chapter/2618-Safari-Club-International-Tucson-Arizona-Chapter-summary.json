@@ -1,0 +1,43 @@
+{
+    "slug": "2618-Safari-Club-International-Tucson-Arizona-Chapter",
+    "committeeName": "Safari Club International, Tucson Arizona Chapter",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2618,
+        "committeeName": "Safari Club International, Tucson Arizona Chapter",
+        "committeeAddress": "4800 W gates Pass Road, Tucson, MT 85745",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1295375284000,
+        "entityFullName": "Safari Club International, Tucson Arizona Chapter",
+        "entityCity": "Tucson",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "James, Kenneth",
+                "address": "4800 W Gates Pass Road Tucson, AR  85745-9490",
+                "phone": "(720) 384-7867",
+                "email": "kjames@safariclub.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-161",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

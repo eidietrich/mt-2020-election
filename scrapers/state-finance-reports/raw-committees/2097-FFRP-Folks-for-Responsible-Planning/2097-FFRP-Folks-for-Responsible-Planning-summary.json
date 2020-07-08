@@ -1,0 +1,43 @@
+{
+    "slug": "2097-FFRP-Folks-for-Responsible-Planning",
+    "committeeName": "FFRP Folks for Responsible Planning",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2097,
+        "committeeName": "FFRP Folks for Responsible Planning",
+        "committeeAddress": "Box 1644, Trout Creek, MT 59874",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1186435679000,
+        "entityFullName": "FFRP Folks for Responsible Planning",
+        "entityCity": "Trout Creek",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Leivestad, Russlyn A.",
+                "address": "28 Fern Hollow Dr Trout Creek, MT  59874",
+                "phone": "(406) 827-3981",
+                "email": "funnyfarm@blackfoot.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Passage of planning board",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

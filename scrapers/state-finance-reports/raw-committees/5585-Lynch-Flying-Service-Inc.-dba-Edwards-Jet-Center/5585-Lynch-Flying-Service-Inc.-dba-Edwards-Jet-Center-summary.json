@@ -1,0 +1,43 @@
+{
+    "slug": "5585-Lynch-Flying-Service-Inc.-dba-Edwards-Jet-Center",
+    "committeeName": "Lynch Flying Service, Inc. dba Edwards Jet Center",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5585,
+        "committeeName": "Lynch Flying Service, Inc. dba Edwards Jet Center",
+        "committeeAddress": "1691 Aviation Pl, Billings, MT 59105",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1466488800000,
+        "entityFullName": "Lynch Flying Service, Inc. dba Edwards Jet Center",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Robb, Bergeson",
+                "address": "1691 Aviation Pl Billings, MT  59105",
+                "phone": "(406) 651-5722",
+                "email": "rbergeson@edwardsjetcenter.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Yes for Kids Billings Public Schools Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

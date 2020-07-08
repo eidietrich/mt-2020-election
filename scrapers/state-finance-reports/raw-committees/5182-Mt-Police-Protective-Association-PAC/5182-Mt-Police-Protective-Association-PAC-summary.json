@@ -1,0 +1,63 @@
+{
+    "slug": "5182-Mt-Police-Protective-Association-PAC",
+    "committeeName": "Mt Police Protective Association PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5182,
+        "committeeName": "Mt Police Protective Association PAC",
+        "committeeAddress": "2206 Massachusetts Ave, Butte, MT 59701",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1459749600000,
+        "entityFullName": "Mt Police Protective Association PAC",
+        "entityCity": "Butte",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Conrad, Scott",
+                "address": "164 Erickson Court South Billings, MT  59105",
+                "phone": "",
+                "email": "conrads@ci.billings.mt.us"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Legislative Candidate John Bedford",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Attorney General Tim Fox",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Governor Steve Bullock",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Legislative Candidates Margie MacDonald, Doc Moore, Steve Lavin, Kathy Swanson",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Legislative Candidate Jimmy Patelis",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

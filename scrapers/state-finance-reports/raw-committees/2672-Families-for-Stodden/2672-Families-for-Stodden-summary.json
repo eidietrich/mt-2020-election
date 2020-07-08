@@ -1,0 +1,43 @@
+{
+    "slug": "2672-Families-for-Stodden",
+    "committeeName": "Families for Stodden",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2672,
+        "committeeName": "Families for Stodden",
+        "committeeAddress": "1454 Dewey Blvd, Butte, MT 59701",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2011",
+        "amendedDate": 1307989326000,
+        "entityFullName": "Families for Stodden",
+        "entityCity": "Butte",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Smith, Christal",
+                "address": "1454 Dewey Blvd Butte, MT  59701",
+                "phone": "(406) 494-2979",
+                "email": "cmswbs@yahoo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Stodden Park Renovation Bond",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "slug": "242-Daniels-County-Republican-Central-Cmte",
+    "committeeName": "Daniels County Republican Central Cmte",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 242,
+        "committeeName": "Daniels County Republican Central Cmte",
+        "committeeAddress": "PO Box 747, Scobey, MT 59263",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1117816189000,
+        "entityFullName": "Daniels County Republican Central Cmte",
+        "entityCity": "Scobey",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Marlenee, Patricia",
+                "address": "Box 968 Scobey, MT  59263",
+                "phone": "(406) 783-5591",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

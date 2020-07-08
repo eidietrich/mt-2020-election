@@ -1,0 +1,43 @@
+{
+    "slug": "2266-Montana-League-of-Rural-Voters",
+    "committeeName": "Montana League of Rural Voters",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2266,
+        "committeeName": "Montana League of Rural Voters",
+        "committeeAddress": "PO Box 522, Billings, MT 59103",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1220996711000,
+        "entityFullName": "Montana League of Rural Voters",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hoff, Dena",
+                "address": "987 Road 261 Glendive, MT  59330",
+                "phone": "(406) 687-3645",
+                "email": "info@ruralvoters.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Legislative Candidates",
+                "position": "Other",
+                "status": "Support"
+            }
+        ]
+    }
+}

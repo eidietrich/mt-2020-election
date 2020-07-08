@@ -1,0 +1,43 @@
+{
+    "slug": "3872-Citizens-for-Fiscal-Responsibility",
+    "committeeName": "Citizens for Fiscal Responsibility",
+    "scrape_date": "2020-07-02",
+    "periods": 6,
+    "data": {
+        "committeeId": 3872,
+        "committeeName": "Citizens for Fiscal Responsibility",
+        "committeeAddress": "PO Box 81072, Billings, MT 59108",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1457420400000,
+        "entityFullName": "Citizens for Fiscal Responsibility",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Sizemore, Joshua T",
+                "address": "PO Box 81072 Billings, MT  59108",
+                "phone": "",
+                "email": "CFRMontana@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Fiscally responsible Candidates for Public Office",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

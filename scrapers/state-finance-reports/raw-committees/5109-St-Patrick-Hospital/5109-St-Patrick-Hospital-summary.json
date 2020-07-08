@@ -1,0 +1,43 @@
+{
+    "slug": "5109-St-Patrick-Hospital",
+    "committeeName": "St Patrick Hospital",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5109,
+        "committeeName": "St Patrick Hospital",
+        "committeeAddress": "500 West Broadway, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2015",
+        "amendedDate": 1459404000000,
+        "entityFullName": "St Patrick Hospital",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Fee, Jeffrey",
+                "address": "500 West Broadway Missoula, MT  59802",
+                "phone": "(406) 493-0315",
+                "email": "jeffrey.fee@providence.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support local school bond ballot measure",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

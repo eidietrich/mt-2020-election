@@ -1,0 +1,43 @@
+{
+    "slug": "4417-Save-Helena's-Neighborhood-Schools",
+    "committeeName": "Save Helena's Neighborhood Schools",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 4417,
+        "committeeName": "Save Helena's Neighborhood Schools",
+        "committeeAddress": "401 Fountain Ct, Helena, MT 59601",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2015",
+        "amendedDate": 1434693600000,
+        "entityFullName": "Save Helena's Neighborhood Schools",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Finley, Karin",
+                "address": "401 Fountain Ct Helena, MT  59601",
+                "phone": "(406) 442-9931",
+                "email": "kansaskp@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Official Ballot School District No. 1",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

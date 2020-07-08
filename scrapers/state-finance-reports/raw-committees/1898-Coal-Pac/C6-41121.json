@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 41121,
+        "fromDateStr": "05/02/2018",
+        "toDateStr": "05/24/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 1898,
+        "candidateName": "Coal Pac",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/02/2018",
+        "end_date": "05/24/2018",
+        "receipts": 0.0,
+        "expenditures": 4360.0,
+        "cash_in_bank": 3484.19
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "05/02/18",
+            "Entity Name": "COOK, ROB A",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "223 1ST AVE SW",
+            "City": "CONRAD",
+            "State": "MT",
+            "Zip": "59425",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 360.0,
+            "Purpose": "Rob Cook for PSC",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/02/18",
+            "Entity Name": "Montana Jobs PAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1538",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 4000.0,
+            "Purpose": "PAC donation",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

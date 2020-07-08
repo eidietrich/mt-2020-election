@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 26239,
+        "fromDateStr": "01/11/2011",
+        "toDateStr": "01/12/2011",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 2646,
+        "candidateName": "Test Incidental Upload Committee - MI",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/11/2011",
+        "end_date": "01/12/2011",
+        "receipts": 583.46,
+        "expenditures": 330.28,
+        "cash_in_bank": 308.15
+    },
+    "contributions": [
+        {
+            "Date Paid": "01/11/11",
+            "Entity Name": "Johnston, Jodi",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 56878",
+            "City": "Idaho Falls",
+            "State": "ID",
+            "Zip": "85964",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "Hunter",
+            "Employer": "Self",
+            "Contribution Type": "Individual Contributions",
+            "Amount": 583.46,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "Primary",
+            "Total Primary": 583.46,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "01/11/11",
+            "Entity Name": "Williams, Bill",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 8768",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "69856",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 10.42,
+            "Purpose": "Reimbure for stamps",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

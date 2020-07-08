@@ -1,0 +1,43 @@
+{
+    "slug": "7057-MDA-99-Club",
+    "committeeName": "MDA 99 Club ",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 7057,
+        "committeeName": "MDA 99 Club ",
+        "committeeAddress": "PO Box 1154, Helena, MT 59624",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1528178400000,
+        "entityFullName": "MDA 99 Club ",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hemion, David R",
+                "address": "PO Box 1154 Helena, MT  59624",
+                "phone": "(406) 443-2061",
+                "email": "dave@montanadental.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "to support I-185 on 2018 ballot",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

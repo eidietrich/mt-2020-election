@@ -1,0 +1,37 @@
+{
+    "slug": "1995-Montana-Fire-Fighters-PAC",
+    "committeeName": "Montana Fire Fighters PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 17,
+    "data": {
+        "committeeId": 1995,
+        "committeeName": "Montana Fire Fighters PAC",
+        "committeeAddress": "1112 7th St S Ste 201, Great Falls, MT 59405",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1543302000000,
+        "entityFullName": "Montana Fire Fighters PAC",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Van Son, David",
+                "address": "1112 7th St S Ste 201 Great Falls, MT  59405",
+                "phone": "(406) 771-1623",
+                "email": "dvanson@mscopff.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

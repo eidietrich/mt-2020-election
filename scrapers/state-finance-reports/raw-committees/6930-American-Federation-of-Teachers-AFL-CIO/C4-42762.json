@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 42762,
+        "fromDateStr": "06/21/2018",
+        "toDateStr": "09/27/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 6930,
+        "candidateName": "American Federation of Teachers, AFL-CIO",
+        "statusDescr": "Pending-Amended",
+        "amendedDate": 1539103433000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/21/2018",
+        "end_date": "09/27/2018",
+        "receipts": 0.0,
+        "expenditures": 0.0,
+        "cash_in_bank": -300000.0
+    },
+    "contributions": [],
+    "expenditures": []
+}

@@ -1,0 +1,37 @@
+{
+    "slug": "352-Democratic-Governors-Association-Montana",
+    "committeeName": "Democratic Governors Association-Montana",
+    "scrape_date": "2020-07-02",
+    "periods": 29,
+    "data": {
+        "committeeId": 352,
+        "committeeName": "Democratic Governors Association-Montana",
+        "committeeAddress": "1225 Eye Street NW Suite 1100, Washington, DC 20005",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1550473200000,
+        "entityFullName": "Democratic Governors Association-Montana",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Smith, Sean",
+                "address": "58 Ramsey Lane Anaconda, MT  59711",
+                "phone": "(202) 772-5600",
+                "email": "compliance@dga.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Lee, Noam",
+                "address": "1225 Eye Street NW, Suite 1100 Washington, DC  20005",
+                "phone": "(202) 772-5600",
+                "email": "compliance@dga.net"
+            }
+        ],
+        "issues": []
+    }
+}

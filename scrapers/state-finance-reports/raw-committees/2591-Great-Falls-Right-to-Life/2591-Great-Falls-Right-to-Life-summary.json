@@ -1,0 +1,37 @@
+{
+    "slug": "2591-Great-Falls-Right-to-Life",
+    "committeeName": "Great Falls Right to Life",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2591,
+        "committeeName": "Great Falls Right to Life",
+        "committeeAddress": "P O Box 1194, Great Falls, MT 59403",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1286554026000,
+        "entityFullName": "Great Falls Right to Life",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Brod, Bertha",
+                "address": "1306 20th St So Great Falls, MT  59405",
+                "phone": "(406) 771-7242",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Baker, Cynthia A.",
+                "address": "500 Montana Ave NW Great Falls, MT  59401",
+                "phone": "(406) 453-9605",
+                "email": "cyndiann707@bresnan.net"
+            }
+        ],
+        "issues": []
+    }
+}

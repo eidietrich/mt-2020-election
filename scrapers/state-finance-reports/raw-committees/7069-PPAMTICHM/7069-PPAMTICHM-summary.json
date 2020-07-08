@@ -1,0 +1,43 @@
+{
+    "slug": "7069-PPAMTICHM",
+    "committeeName": "PPAMTICHM",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 7069,
+        "committeeName": "PPAMTICHM",
+        "committeeAddress": "1116 Grand Avenue, Suite 201, Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1524463200000,
+        "entityFullName": "PPAMTICHM",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ranta, Katie",
+                "address": "1116 Grand Avenue, Suite 201 Billings, MT  59102",
+                "phone": "(406) 360-9708",
+                "email": "katie_rant@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Terrill, Laura",
+                "address": "87 East Fieldview Cir. Bozeman, MT  59102",
+                "phone": "(971) 322-8640",
+                "email": "laura.terrill@ppmontana.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-185",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "slug": "2682-Build-Montana-PAC-(Affiliate-of-the-MT-AFL-CIO)",
+    "committeeName": "Build Montana PAC (Affiliate of the MT AFL-CIO)",
+    "scrape_date": "2020-07-02",
+    "periods": 22,
+    "data": {
+        "committeeId": 2682,
+        "committeeName": "Build Montana PAC (Affiliate of the MT AFL-CIO)",
+        "committeeAddress": "2711 Airport Rd., Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1585202400000,
+        "entityFullName": "Build Montana PAC (Affiliate of the MT AFL-CIO)",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ekblad, Alan D",
+                "address": "2711 Airport Rd. Helena, MT  59601",
+                "phone": "(406) 442-1708",
+                "email": "lorri@mtaflcio.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Nisbet, Lorri",
+                "address": "2711 Airport Rd. Helena, MT  59601",
+                "phone": "(406) 461-1952",
+                "email": "lorri@mtaflcio.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Lola Sheldon-Galloway for HD 22",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Oppose Initiative 181",
+                "position": "Other",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 60 - Laurie Bishop",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Re-elect Governor Bullock",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "HD 22 Al Ferderer",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Elect Melissa Romano",
+                "position": "Other",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Elect Jesse Laslovich",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

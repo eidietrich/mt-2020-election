@@ -1,0 +1,37 @@
+{
+    "slug": "1872-Five-Valleys-Land-Trust",
+    "committeeName": "Five Valleys Land Trust",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 1872,
+        "committeeName": "Five Valleys Land Trust",
+        "committeeAddress": "PO Box 8953, Missoula, MT 59807",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1157662543000,
+        "entityFullName": "Five Valleys Land Trust",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Valeo, Jim",
+                "address": "PO Box 8953 Missoula, MT  59807",
+                "phone": "(406) 549-0755",
+                "email": "fvlt@montana.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

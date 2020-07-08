@@ -1,7 +1,7 @@
 {
     "slug": "8600-SEIU-775",
     "committeeName": "SEIU 775",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 4,
     "data": {
         "committeeId": 8600,
@@ -16,15 +16,38 @@
         "entityState": "WA"
     },
     "summary": {
-        "reports": 4,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 496083.6,
-        "num_expenditures": 11,
-        "expenditures_19_20": 496083.6,
-        "num_expenditures_19_20": 11,
-        "cash_on_hand": -496083.6
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Helt, Jacquie",
+                "address": "PO Box 172 Helena, MT  59624",
+                "phone": "",
+                "email": "jacquie.helt@seiu775.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI-118, support, Petition has been approved for signature gathering ",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "I-190, support, Petition has been approved for signature gathering ",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "To support ballot initiatives and candidates that help working people.  ",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
     }
 }

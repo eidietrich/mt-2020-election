@@ -1,0 +1,43 @@
+{
+    "slug": "8319-Montanans-for-Conservation",
+    "committeeName": "Montanans for Conservation",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 8319,
+        "committeeName": "Montanans for Conservation",
+        "committeeAddress": "PO Box 5315, Helena, MT 59604",
+        "committeeTypeDescr": "Minor Party Qualification",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1586930400000,
+        "entityFullName": "Montanans for Conservation",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wenetta, Katie",
+                "address": "PO Box 5315 Helena, MT  59604",
+                "phone": "",
+                "email": "katie.montana.campaigns@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support conservation-minded candidates & serve as the minor party qualification committee to qualify the Green Party to hold primary elections in Montana per MCA 13-10-601(2)",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

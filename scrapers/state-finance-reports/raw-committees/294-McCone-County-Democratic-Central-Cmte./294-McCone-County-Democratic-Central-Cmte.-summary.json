@@ -1,0 +1,37 @@
+{
+    "slug": "294-McCone-County-Democratic-Central-Cmte.",
+    "committeeName": "McCone County Democratic Central Cmte.",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 294,
+        "committeeName": "McCone County Democratic Central Cmte.",
+        "committeeAddress": "% Alice Engen, Circle, MT 99999",
+        "committeeTypeDescr": "Disbanded Montana Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1456124400000,
+        "entityFullName": "McCone County Democratic Central Cmte.",
+        "entityCity": "Circle",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Engen, Alice",
+                "address": "2506 Mt. Hwy 13 Circle, MT  59215",
+                "phone": "",
+                "email": "agengen@midrivers.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

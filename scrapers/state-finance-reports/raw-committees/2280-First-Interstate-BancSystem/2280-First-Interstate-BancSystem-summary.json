@@ -1,0 +1,43 @@
+{
+    "slug": "2280-First-Interstate-BancSystem",
+    "committeeName": "First Interstate BancSystem",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2280,
+        "committeeName": "First Interstate BancSystem",
+        "committeeAddress": "401 N. 31st. Street, Billings, MT 59116",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1222364996000,
+        "entityFullName": "First Interstate BancSystem",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Donaldson, Carol Stephens",
+                "address": "401 N. 31st Street Billings, MT  59116-0918",
+                "phone": "",
+                "email": "carol.donaldson@fib.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Committee to Keep the Six Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

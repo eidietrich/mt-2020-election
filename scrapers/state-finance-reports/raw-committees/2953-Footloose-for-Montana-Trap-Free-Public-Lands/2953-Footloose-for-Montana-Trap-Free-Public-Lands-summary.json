@@ -1,0 +1,37 @@
+{
+    "slug": "2953-Footloose-for-Montana-Trap-Free-Public-Lands",
+    "committeeName": "Footloose for Montana Trap Free Public Lands",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2953,
+        "committeeName": "Footloose for Montana Trap Free Public Lands",
+        "committeeAddress": "PO Box 8384 4175 Rattlesnake Dr, Missoula, MT 59802",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2014",
+        "amendedDate": 1375892348000,
+        "entityFullName": "Footloose for Montana Trap Free Public Lands",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Melcher, John",
+                "address": "2519 Wylie Ave Missoula, MT  59802",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Clarke, William",
+                "address": "1330 Lower Lincoln Hills Dr Missoula, MT  59802-3340",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

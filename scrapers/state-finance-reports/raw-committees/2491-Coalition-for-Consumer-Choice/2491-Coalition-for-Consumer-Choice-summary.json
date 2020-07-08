@@ -1,0 +1,43 @@
+{
+    "slug": "2491-Coalition-for-Consumer-Choice",
+    "committeeName": "Coalition for Consumer Choice",
+    "scrape_date": "2020-07-01",
+    "periods": 10,
+    "data": {
+        "committeeId": 2491,
+        "committeeName": "Coalition for Consumer Choice",
+        "committeeAddress": "PO Box 81137, Billings, MT 59108",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1275928624000,
+        "entityFullName": "Coalition for Consumer Choice",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Harrington, Bernard",
+                "address": "PO Box 81137 Billings, MT  59108",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Kuney, Lorna",
+                "address": "400 N California Helena, MT  59601",
+                "phone": "",
+                "email": "lorna@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-164, Cap the Rate",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

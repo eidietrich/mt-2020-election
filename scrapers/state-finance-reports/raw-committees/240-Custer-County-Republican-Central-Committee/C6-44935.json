@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 44935,
+        "fromDateStr": "10/21/2018",
+        "toDateStr": "11/21/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 240,
+        "candidateName": "Custer County Republican Central Committee",
+        "statusDescr": "Amended",
+        "amendedDate": 1593204405000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/21/2018",
+        "end_date": "11/21/2018",
+        "receipts": 0.0,
+        "expenditures": 65.19,
+        "cash_in_bank": 761.43
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/20/18",
+            "Entity Name": "MILES CITY STAR",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "818 MAIN ST",
+            "City": "Miles City",
+            "State": "MT",
+            "Zip": "59301",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 65.19,
+            "Purpose": "LINCOLN REAGAN DINNER AVERTISMENT - details to be provided",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

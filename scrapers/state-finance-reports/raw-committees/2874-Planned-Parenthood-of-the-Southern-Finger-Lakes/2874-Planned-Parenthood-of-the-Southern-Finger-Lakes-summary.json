@@ -1,0 +1,43 @@
+{
+    "slug": "2874-Planned-Parenthood-of-the-Southern-Finger-Lakes",
+    "committeeName": "Planned Parenthood of the Southern Finger Lakes",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2874,
+        "committeeName": "Planned Parenthood of the Southern Finger Lakes",
+        "committeeAddress": "314 West State St., Ithaca, NY 14850",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1357847731000,
+        "entityFullName": "Planned Parenthood of the Southern Finger Lakes",
+        "entityCity": "Ithaca",
+        "entityState": "NY"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Riddell, Angela",
+                "address": "314 West State St. Ithaca, NY  14850",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

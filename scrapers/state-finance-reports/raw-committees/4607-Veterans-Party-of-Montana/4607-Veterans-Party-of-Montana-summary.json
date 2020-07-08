@@ -1,0 +1,43 @@
+{
+    "slug": "4607-Veterans-Party-of-Montana",
+    "committeeName": "Veterans Party of Montana",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 4607,
+        "committeeName": "Veterans Party of Montana",
+        "committeeAddress": "PO Box 16106 , Missoula, MT 59808",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1500012000000,
+        "entityFullName": "Veterans Party of Montana",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bowman, Jason E",
+                "address": "32 Vine Street Dillion, MT  59725",
+                "phone": "(406) 396-6404",
+                "email": "vpmtchair@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Marbut, Scott C",
+                "address": "7500 Limesprings Trail Missoula, MT  59808",
+                "phone": "(406) 647-0573",
+                "email": "vpmtchair@gmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "to elect political candidates",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

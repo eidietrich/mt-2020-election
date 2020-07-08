@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 38157,
+        "fromDateStr": "10/20/2016",
+        "toDateStr": "10/27/2016",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 5021,
+        "candidateName": "McLaughlin Research Institute for Biomedical Sciences, Inc.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/20/2016",
+        "end_date": "10/27/2016",
+        "receipts": 0.0,
+        "expenditures": 10000.0,
+        "cash_in_bank": -108910.62
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/21/16",
+            "Entity Name": "Montanans for Research and Cures",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "c/o Reg. Agent, Davis, Hatley, Heffernan & Tighe, 3rd Fl, 101 River Dr N",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59401",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 10000.0,
+            "Purpose": "Contribution to support I-181",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

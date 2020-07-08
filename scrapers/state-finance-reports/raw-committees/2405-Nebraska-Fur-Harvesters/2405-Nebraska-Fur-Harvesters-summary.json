@@ -1,0 +1,43 @@
+{
+    "slug": "2405-Nebraska-Fur-Harvesters",
+    "committeeName": "Nebraska Fur Harvesters",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2405,
+        "committeeName": "Nebraska Fur Harvesters",
+        "committeeAddress": "PO Box 15, Loup City, NE 68853",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1264031031000,
+        "entityFullName": "Nebraska Fur Harvesters",
+        "entityCity": "Loup City",
+        "entityState": "NE"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kuhlmann, Dave",
+                "address": "70767 626 Ave. Pawnee, NE  68420",
+                "phone": "(406) 852-6173",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-160 Anti Trapping intiative",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

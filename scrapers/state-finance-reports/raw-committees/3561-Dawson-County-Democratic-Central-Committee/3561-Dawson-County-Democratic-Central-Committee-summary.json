@@ -1,0 +1,37 @@
+{
+    "slug": "3561-Dawson-County-Democratic-Central-Committee",
+    "committeeName": "Dawson County Democratic Central Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 16,
+    "data": {
+        "committeeId": 3561,
+        "committeeName": "Dawson County Democratic Central Committee",
+        "committeeAddress": "PO Box 71, Glendive, MT 59330",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1464328800000,
+        "entityFullName": "Dawson County Democratic Central Committee",
+        "entityCity": "Glendive",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Legato, Janette R",
+                "address": "327 West Ames Wye Glendive, MT  59330",
+                "phone": "(406) 365-4747",
+                "email": "legato@midrivers.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

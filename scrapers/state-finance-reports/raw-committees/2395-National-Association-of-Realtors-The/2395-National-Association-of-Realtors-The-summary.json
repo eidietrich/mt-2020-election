@@ -1,0 +1,43 @@
+{
+    "slug": "2395-National-Association-of-Realtors-The",
+    "committeeName": "National Association of Realtors, The",
+    "scrape_date": "2020-07-01",
+    "periods": 12,
+    "data": {
+        "committeeId": 2395,
+        "committeeName": "National Association of Realtors, The",
+        "committeeAddress": "430 North Michigan Avenue, Chicago, IL 60611",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1262794843000,
+        "entityFullName": "National Association of Realtors, The",
+        "entityCity": "Chicago",
+        "entityState": "IL"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Helsel, James",
+                "address": "3 Lemoyne Drive Suite 100 Lemoyne, PA  17043",
+                "phone": "",
+                "email": "jinhelsel@comcast.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Trenk, Peggy",
+                "address": "1901 E 6th Ave Helena, MT  59601",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Prohibit the enactment of a real estate transfer tax",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

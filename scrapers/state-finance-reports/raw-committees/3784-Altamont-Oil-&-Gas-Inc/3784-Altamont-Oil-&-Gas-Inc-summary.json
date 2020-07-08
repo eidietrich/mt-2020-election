@@ -1,0 +1,43 @@
+{
+    "slug": "3784-Altamont-Oil-&-Gas-Inc",
+    "committeeName": "Altamont Oil & Gas, Inc",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3784,
+        "committeeName": "Altamont Oil & Gas, Inc",
+        "committeeAddress": "PO Box 488, Cut Bank, MT 59427",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1415862000000,
+        "entityFullName": "Altamont Oil & Gas, Inc",
+        "entityCity": "Cut Bank",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Montalban, Patrick M",
+                "address": "PO Box 488 Cut Bank, MT  59427",
+                "phone": "(406) 873-4419",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Assist in the election of business friendly candidates through PAC contributions",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2888-Coordinated-Care-Partners",
+    "committeeName": "Coordinated Care Partners",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2888,
+        "committeeName": "Coordinated Care Partners",
+        "committeeAddress": "3390 Colton Dr. #A, Helena, MT 59602",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1357855002000,
+        "entityFullName": "Coordinated Care Partners",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Garrison, Sue",
+                "address": "3390 Colton Dr. #A Helena, MT  59602",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "MT Prosperity PAC",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

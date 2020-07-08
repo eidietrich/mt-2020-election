@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 39741,
+        "fromDateStr": "01/01/2017",
+        "toDateStr": "12/31/2017",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 3390,
+        "candidateName": "Montanans for Fair Taxation",
+        "statusDescr": "Amended",
+        "amendedDate": 1593124496000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/01/2017",
+        "end_date": "12/31/2017",
+        "receipts": 91.25,
+        "expenditures": 20.0,
+        "cash_in_bank": 162.5
+    },
+    "contributions": [
+        {
+            "Date Paid": "04/06/18",
+            "Entity Name": "Yellowstone Bank",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2000 Overland Ave",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59102",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Individual Contributions",
+            "Amount": 91.25,
+            "Amount Type": "CA",
+            "Purpose": "Checking Account balance that didn't pull through from previous report",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 91.25,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "05/10/17",
+            "Entity Name": "WDRP Management",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Po Box 81274",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59108",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 20.0,
+            "Purpose": "MT Annual Report Fee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

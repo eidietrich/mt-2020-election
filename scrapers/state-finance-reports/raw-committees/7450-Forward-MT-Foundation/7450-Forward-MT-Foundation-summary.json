@@ -1,0 +1,43 @@
+{
+    "slug": "7450-Forward-MT-Foundation",
+    "committeeName": "Forward MT Foundation",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 7450,
+        "committeeName": "Forward MT Foundation",
+        "committeeAddress": "1535 Wyoming St, Missoula, MT 59801",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1531807200000,
+        "entityFullName": "Forward MT Foundation",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Sewell, Micah",
+                "address": "1535 Wyoming St Missoula, MT  59801",
+                "phone": "",
+                "email": "rachel@forwardmontana.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Huff-Doria, Rachel",
+                "address": "1535 Wyoming St Missoula, MT  59801",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "6 Mill Levy",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

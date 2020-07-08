@@ -1,0 +1,58 @@
+{
+    "slug": "2734-Montana-Human-Rights-Action-Network",
+    "committeeName": "Montana Human Rights Action Network",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 2734,
+        "committeeName": "Montana Human Rights Action Network",
+        "committeeAddress": "PO Box 1497, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1329504424000,
+        "entityFullName": "Montana Human Rights Action Network",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "N/A",
+                "address": "PO Box 1222 Helena, MT  59624",
+                "phone": "(406) 442-5506",
+                "email": "travismc@mhrn.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Bangerter, Burnett, Hansen",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Sam Hunthausen",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Skornogoski, Wilmer, Young",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jenny Eck",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

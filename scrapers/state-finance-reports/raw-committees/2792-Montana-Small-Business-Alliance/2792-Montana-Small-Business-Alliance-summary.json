@@ -1,0 +1,43 @@
+{
+    "slug": "2792-Montana-Small-Business-Alliance",
+    "committeeName": "Montana Small Business Alliance",
+    "scrape_date": "2020-07-01",
+    "periods": 7,
+    "data": {
+        "committeeId": 2792,
+        "committeeName": "Montana Small Business Alliance",
+        "committeeAddress": "3518 S. Edmunds St., Seattle, WA 98118",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1339533923000,
+        "entityFullName": "Montana Small Business Alliance",
+        "entityCity": "Seattle",
+        "entityState": "WA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Blair, Sam",
+                "address": "3518 S. Edmunds St. Seattle, WA  98118",
+                "phone": "",
+                "email": "sblair@mainstreetalliance.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "An act prohibiting corporate contributions and expenditures",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

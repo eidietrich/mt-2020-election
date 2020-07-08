@@ -1,0 +1,88 @@
+{
+    "slug": "414-NARAL-Pro-Choice-Montana-PAC",
+    "committeeName": "NARAL Pro-Choice Montana PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 11,
+    "data": {
+        "committeeId": 414,
+        "committeeName": "NARAL Pro-Choice Montana PAC",
+        "committeeAddress": "PO Box 279, Helena, MT 59624",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1592978400000,
+        "entityFullName": "NARAL Pro-Choice Montana PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "James, Alison",
+                "address": "PO Box 279 Helena, MT  59624",
+                "phone": "(406) 202-0201",
+                "email": "alisoncaryl@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Griffith, Nikolas",
+                "address": "PO Box 279 Helena, MT  59601",
+                "phone": "(406) 868-3602",
+                "email": "biff.griffith@gmail.com "
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Amelia Marquez ",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Nancy De Pastino",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Alex Grey",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Emma Kerr-Carpenter",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kimberly Dudik for HD 94",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Pro-Choice Candidates and Various Issues",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Connie Keogh",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Mary Caferro HD 81",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Staci Bechard for HD 25",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jasmine Krotkov for HD 25",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

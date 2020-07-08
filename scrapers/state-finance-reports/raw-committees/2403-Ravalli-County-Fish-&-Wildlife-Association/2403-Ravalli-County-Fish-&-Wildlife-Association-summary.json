@@ -1,0 +1,43 @@
+{
+    "slug": "2403-Ravalli-County-Fish-&-Wildlife-Association",
+    "committeeName": "Ravalli County Fish & Wildlife Association",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2403,
+        "committeeName": "Ravalli County Fish & Wildlife Association",
+        "committeeAddress": "PO Box 238, Hamilton, MT 59840",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1263579580000,
+        "entityFullName": "Ravalli County Fish & Wildlife Association",
+        "entityCity": "Hamilton",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Holt, Ira",
+                "address": "548 Cielo Vista Hamilton, MT  59840",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-160 Anti Trapping intiative",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

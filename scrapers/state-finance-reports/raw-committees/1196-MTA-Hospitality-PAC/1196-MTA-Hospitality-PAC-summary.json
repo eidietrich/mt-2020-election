@@ -1,0 +1,88 @@
+{
+    "slug": "1196-MTA-Hospitality-PAC",
+    "committeeName": "MTA Hospitality PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 17,
+    "data": {
+        "committeeId": 1196,
+        "committeeName": "MTA Hospitality PAC",
+        "committeeAddress": "920 E Lyndale, Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1587708000000,
+        "entityFullName": "MTA Hospitality PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Morris, Ron J",
+                "address": "650 N. Davis Helena, MT  59601",
+                "phone": "(406) 410-1250",
+                "email": "ronzo102@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Morris, Steve",
+                "address": "507 Geddis Helena, MT  59601",
+                "phone": "(406) 449-3931",
+                "email": "jorgies@mcn.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support candidates for local and statewide office as well as political party support",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jed Hinkle for Senate",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kimberly Dudik for HD94",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mark Sweeney for HD 77",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Doug Kary SD 22",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Frank Fleming for HD 51",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Tom Jacobson for SD11",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bill Mercer for HD 46",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Brian Hoven SD 13",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jill Cohenour for SD 42",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

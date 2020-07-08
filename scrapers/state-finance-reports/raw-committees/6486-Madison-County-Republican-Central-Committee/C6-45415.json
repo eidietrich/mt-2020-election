@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 45415,
+        "fromDateStr": "03/05/2019",
+        "toDateStr": "05/03/2019",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 6486,
+        "candidateName": "Madison County Republican Central Committee",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/05/2019",
+        "end_date": "05/03/2019",
+        "receipts": 500.0,
+        "expenditures": 500.0,
+        "cash_in_bank": 4095.42
+    },
+    "contributions": [
+        {
+            "Date Paid": "04/05/19",
+            "Entity Name": "Gallatin County Republican Central Committee",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 2005",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59771",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -500.0,
+            "Amount Type": "CA",
+            "Purpose": "reimburse for handgun purchased by Dan Happel",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 500.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "03/28/19",
+            "Entity Name": "Happel, Dan A.",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Po Box 243",
+            "City": "Pony",
+            "State": "MT",
+            "Zip": "59747",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 500.0,
+            "Purpose": "reimburse for handgun for auction item for Gallatin county central committee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

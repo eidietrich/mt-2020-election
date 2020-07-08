@@ -1,0 +1,53 @@
+{
+    "slug": "7533-Taylor-Luther-Group-PLLC",
+    "committeeName": "Taylor Luther Group, PLLC",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 7533,
+        "committeeName": "Taylor Luther Group, PLLC",
+        "committeeAddress": "1 S. Montana Ave., Ste. M-2, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1543215600000,
+        "entityFullName": "Taylor Luther Group, PLLC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Luther, Jessie",
+                "address": "1 S. Montana Ave., Ste. M-2 Helena, MT  59601",
+                "phone": "",
+                "email": "jessie@taylorluthergroup.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-185",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "6 Mill Levy",
+                "position": "Support",
+                "status": "On ballot, approved"
+            },
+            {
+                "interest": "Business PAC",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

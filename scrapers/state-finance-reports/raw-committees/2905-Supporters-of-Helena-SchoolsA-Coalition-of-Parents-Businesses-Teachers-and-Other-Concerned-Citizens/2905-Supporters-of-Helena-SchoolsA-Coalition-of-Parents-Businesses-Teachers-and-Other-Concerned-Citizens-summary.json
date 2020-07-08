@@ -1,0 +1,43 @@
+{
+    "slug": "2905-Supporters-of-Helena-SchoolsA-Coalition-of-Parents-Businesses-Teachers-and-Other-Concerned-Citizens",
+    "committeeName": "Supporters of Helena Schools,A Coalition of Parents Businesses Teachers and Other Concerned Citizens",
+    "scrape_date": "2020-07-01",
+    "periods": 4,
+    "data": {
+        "committeeId": 2905,
+        "committeeName": "Supporters of Helena Schools,A Coalition of Parents Businesses Teachers and Other Concerned Citizens",
+        "committeeAddress": "PO Box 1227, Helena, MT 59624",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2013",
+        "amendedDate": 1425366000000,
+        "entityFullName": "Supporters of Helena Schools,A Coalition of Parents Businesses Teachers and Other Concerned Citizens",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Toole, Dana",
+                "address": "1604 Harris Court Helena, MT  59601",
+                "phone": "(406) 461-2508",
+                "email": "dtoole@bresnan.net "
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Helena School District Mill Levies",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

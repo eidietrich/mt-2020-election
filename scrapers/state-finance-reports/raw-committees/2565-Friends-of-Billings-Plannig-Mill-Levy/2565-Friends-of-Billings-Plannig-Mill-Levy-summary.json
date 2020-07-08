@@ -1,0 +1,37 @@
+{
+    "slug": "2565-Friends-of-Billings-Plannig-Mill-Levy",
+    "committeeName": "Friends of Billings Plannig Mill Levy",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2565,
+        "committeeName": "Friends of Billings Plannig Mill Levy",
+        "committeeAddress": "907 Avenue B, Billings, MT 59102",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1284390764000,
+        "entityFullName": "Friends of Billings Plannig Mill Levy",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Cumin, Cal",
+                "address": "907 Ave B Billings, MT  59102",
+                "phone": "(406) 245-5843",
+                "email": "c-cumin@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Forbes, Donna",
+                "address": "116 8th St W Billings, MT  59102",
+                "phone": "(406) 259-7714",
+                "email": "dmforbes@mt.net"
+            }
+        ],
+        "issues": []
+    }
+}

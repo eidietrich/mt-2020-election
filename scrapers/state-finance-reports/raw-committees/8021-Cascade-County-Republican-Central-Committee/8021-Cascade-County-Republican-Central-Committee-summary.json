@@ -1,0 +1,118 @@
+{
+    "slug": "8021-Cascade-County-Republican-Central-Committee",
+    "committeeName": "Cascade County Republican Central Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 6,
+    "data": {
+        "committeeId": 8021,
+        "committeeName": "Cascade County Republican Central Committee",
+        "committeeAddress": "P. O. Box 6146, Great Falls, MT 59406",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1569909600000,
+        "entityFullName": "Cascade County Republican Central Committee",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hagan, Roger A",
+                "address": "P. O. Box 6146 Great Falls, MT  59405",
+                "phone": "(406) 459-0773",
+                "email": "rahagan@msn.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Anderson, Fred",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Rosendale, Matt",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "McKamey, Wendy",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Fox, Tim",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "All Republican Candidates",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Downing, Troy",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Trump-Pence",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Olszewski, Al",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Bennion, Jon",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Daines, Steve",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Knudsen, Austin",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Sheldon-Galloway, Lola",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Sales, Scott",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Gianforte, Greg",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Buttrey, Ed",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Fitzpatrick, Steve",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

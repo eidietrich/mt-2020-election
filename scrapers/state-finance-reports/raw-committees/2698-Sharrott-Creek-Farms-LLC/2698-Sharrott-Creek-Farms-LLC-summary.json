@@ -1,0 +1,43 @@
+{
+    "slug": "2698-Sharrott-Creek-Farms-LLC",
+    "committeeName": "Sharrott Creek Farms LLC",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2698,
+        "committeeName": "Sharrott Creek Farms LLC",
+        "committeeAddress": "PO Box 17465, Missoula, MT 59808",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1315410070000,
+        "entityFullName": "Sharrott Creek Farms LLC",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Spellman, Bryan D.",
+                "address": "PO Box 17465 Missoula, MT  59808-7465",
+                "phone": "(406) 544-4808",
+                "email": "bryan@kerrcomm.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "IR-124",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

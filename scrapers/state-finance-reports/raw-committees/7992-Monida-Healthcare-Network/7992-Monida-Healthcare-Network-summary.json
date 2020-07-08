@@ -1,0 +1,43 @@
+{
+    "slug": "7992-Monida-Healthcare-Network",
+    "committeeName": "Monida Healthcare Network",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7992,
+        "committeeName": "Monida Healthcare Network",
+        "committeeAddress": "1200 S Reserve St, Ste H, Missoula, MT 59801",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2019",
+        "amendedDate": 1560751200000,
+        "entityFullName": "Monida Healthcare Network",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Luther, Jessie",
+                "address": "1 S. Montana Ave, Ste. M-2 Helena, MT  59601",
+                "phone": "(406) 441-4871",
+                "email": "jessie@taylorluthergroup.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "contribution to MHA PAC",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

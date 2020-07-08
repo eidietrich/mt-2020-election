@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 39917,
+        "fromDateStr": "01/06/2018",
+        "toDateStr": "03/02/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 2125,
+        "candidateName": "Montana Prosperity PAC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/06/2018",
+        "end_date": "03/02/2018",
+        "receipts": 300.0,
+        "expenditures": 23.33,
+        "cash_in_bank": 1093.22
+    },
+    "contributions": [
+        {
+            "Date Paid": "03/04/18",
+            "Entity Name": "Christensen, Tami L",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "417 25th Ave NW",
+            "City": "Sidney",
+            "State": "MT",
+            "Zip": "59270",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "owner",
+            "Employer": "Tri-County Equipment, Inc.",
+            "Contribution Type": "Individual Contributions",
+            "Amount": 300.0,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "Primary",
+            "Total Primary": 300.0,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "01/29/18",
+            "Entity Name": "Lighthouse Conferencing LLC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "300 Center Drive, Suite 205",
+            "City": "Superior",
+            "State": "CO",
+            "Zip": "80027",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 23.33,
+            "Purpose": "PAC council conference call discussing fundraising strategy",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

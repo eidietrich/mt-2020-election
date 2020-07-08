@@ -1,0 +1,128 @@
+{
+    "slug": "5699-Planned-Parenthood-Advocates-of-Montana-PAC",
+    "committeeName": "Planned Parenthood Advocates of Montana PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 6,
+    "data": {
+        "committeeId": 5699,
+        "committeeName": "Planned Parenthood Advocates of Montana PAC",
+        "committeeAddress": "1116 Grand Avenue Suite 201, Billings, MT 59102",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1529560800000,
+        "entityFullName": "Planned Parenthood Advocates of Montana PAC",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ranta, Katie",
+                "address": "4313 5th Avenue S Great Falls, MT  59405",
+                "phone": "(406) 360-9708",
+                "email": "kelley.brano@ppmontana.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Pillai, Rajeev",
+                "address": "1116 Grand Avenue Suite 201 Billings, MT  59102",
+                "phone": "(406) 465-0667",
+                "email": "rajeev.pillai@ppmontana.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Kristen Juras for Supreme  Court Justice",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Robert Saunders -HD 48",
+                "position": "Oppose",
+                "status": "On ballot, approved"
+            },
+            {
+                "interest": "Steve Bullock for Governor",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Dirk Sandefur for Supreme Court Justice",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support pro-women's health candidates",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jessica Karjala - HD 48",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jimmy Patelis  - HD 52",
+                "position": "Oppose",
+                "status": "Support"
+            },
+            {
+                "interest": "Adam Rosendale - HD 51",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Chris Goodridge - HD 52",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Addrien Marx - HD 92",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Shoots Veis - HD 51",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Adam Pertz - HD 96",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Greg Gianforte for Governor",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dale Mortenson - HD 44",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kari Boiter - HD 44",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Andrew Person - HD 96",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mike Hopkins - HD 92",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Oppose anti-women's health candidates",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "5045-Washington-Corporation",
+    "committeeName": "Washington Corporation",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5045,
+        "committeeName": "Washington Corporation",
+        "committeeAddress": "PO Box 16630, Missoula, MT 59808",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1479798000000,
+        "entityFullName": "Washington Corporation",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Halligan, Mike",
+                "address": "PO Box 16630 Missoula, MT  59808",
+                "phone": "(406) 523-1300",
+                "email": "bjoyner@washcorp.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Gave money to the Montanans for Research and Cures 2016 ballot initiative",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

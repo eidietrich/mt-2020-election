@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 40020,
+        "fromDateStr": "03/06/2018",
+        "toDateStr": "03/06/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 6959,
+        "candidateName": "Beartooth Billings Clinic Incidental Committee",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/06/2018",
+        "end_date": "03/06/2018",
+        "receipts": 0.0,
+        "expenditures": 1000.0,
+        "cash_in_bank": -1000.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "03/06/18",
+            "Entity Name": "MHA Incidental Committee",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2625 Winne Ave.",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 1000.0,
+            "Purpose": "Contribution in support of ballot initiative to increase tobacco taxes to support health care programs.",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

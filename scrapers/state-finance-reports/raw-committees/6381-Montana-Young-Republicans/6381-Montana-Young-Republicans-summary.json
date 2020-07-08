@@ -1,0 +1,53 @@
+{
+    "slug": "6381-Montana-Young-Republicans",
+    "committeeName": "Montana Young Republicans",
+    "scrape_date": "2020-07-02",
+    "periods": 12,
+    "data": {
+        "committeeId": 6381,
+        "committeeName": "Montana Young Republicans",
+        "committeeAddress": "PO Box 2364, Great Falls, MT 59403",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1581058800000,
+        "entityFullName": "Montana Young Republicans",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Trebas, Jeremy R",
+                "address": "PO Box 2364 Great Falls, MT  59403",
+                "phone": "(406) 899-5445",
+                "email": "jrtgf2672@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Tribble, Danielle",
+                "address": "3727 West Central Ave Missoula, MT  59804",
+                "phone": "(406) 241-8268",
+                "email": "danielletribble10@gmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To develop County Young Republican Clubs and foster their growth.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To support the principles, objects, and platform of the Republican Party and to secure the election of all duly nominated Republican candidates.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To provide a means for Young Republicans in Montana to contribute to the betterment of the Republican Party, the U.S.A., and the State of Montana.",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

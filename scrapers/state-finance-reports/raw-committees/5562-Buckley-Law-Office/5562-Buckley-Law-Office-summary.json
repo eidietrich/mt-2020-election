@@ -1,0 +1,53 @@
+{
+    "slug": "5562-Buckley-Law-Office",
+    "committeeName": "Buckley Law Office",
+    "scrape_date": "2020-07-02",
+    "periods": 8,
+    "data": {
+        "committeeId": 5562,
+        "committeeName": "Buckley Law Office",
+        "committeeAddress": "125 W Mendenhall Street, Suite 201, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1480316400000,
+        "entityFullName": "Buckley Law Office",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Buckely, Daniel P.",
+                "address": "125 W Mendenhall Street, Suite 201 Bozeman, MT  59715",
+                "phone": "",
+                "email": "dbuckley@danbuckleylaw.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Taylor, Mary",
+                "address": "P.O. Box 838 Helena, MT  59624",
+                "phone": "",
+                "email": "mtla@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dirk Sandefur - Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

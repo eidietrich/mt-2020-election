@@ -1,0 +1,43 @@
+{
+    "slug": "8534-Treasure-State-Conservatives",
+    "committeeName": "Treasure State Conservatives",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 8534,
+        "committeeName": "Treasure State Conservatives",
+        "committeeAddress": "PO Box 16114, Missoula, MT 59808",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "Y",
+        "electionYear": "2000",
+        "amendedDate": 1586325600000,
+        "entityFullName": "Treasure State Conservatives",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bartlett, Edward",
+                "address": "PO Box 16114 Missoula, MT  59808",
+                "phone": "(703) 587-1469",
+                "email": "kris@rightsidecompliance.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Hobbs, Cabell",
+                "address": "PO Box 16114 Missoula, MT  59808",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Jon Bennion for Attorney General",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

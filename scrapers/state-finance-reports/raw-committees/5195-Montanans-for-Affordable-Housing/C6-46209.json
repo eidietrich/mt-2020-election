@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 46209,
+        "fromDateStr": "11/27/2018",
+        "toDateStr": "12/31/2019",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 5195,
+        "candidateName": "Montanans for Affordable Housing",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/27/2018",
+        "end_date": "12/31/2019",
+        "receipts": 18285.26,
+        "expenditures": 0.0,
+        "cash_in_bank": 25441.87
+    },
+    "contributions": [
+        {
+            "Date Paid": "06/25/19",
+            "Entity Name": "Build PAC of National Association of Home Builders",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1201 15th Street NW",
+            "City": "Washington DC",
+            "State": "DC",
+            "Zip": "20005",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Federal PAC",
+            "Amount": 18280.5,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "General",
+            "Total Primary": 3566.61,
+            "Total General": 18280.5,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

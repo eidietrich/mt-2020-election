@@ -1,0 +1,43 @@
+{
+    "slug": "2735-NARAL-Pro-Choice-Montana-Foundation",
+    "committeeName": "NARAL Pro-Choice Montana Foundation",
+    "scrape_date": "2020-07-01",
+    "periods": 13,
+    "data": {
+        "committeeId": 2735,
+        "committeeName": "NARAL Pro-Choice Montana Foundation",
+        "committeeAddress": "PO Box 226, Helena, MT",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1329505530000,
+        "entityFullName": "NARAL Pro-Choice Montana Foundation",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Crowley, Julianna S.",
+                "address": "PO Box 226 Helena, MT  59624-0226",
+                "phone": "",
+                "email": "julianna@prochoicemontana.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI-108 and LR-120",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

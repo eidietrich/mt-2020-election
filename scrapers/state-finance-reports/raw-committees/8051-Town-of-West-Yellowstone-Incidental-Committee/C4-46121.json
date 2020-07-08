@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 46121,
+        "fromDateStr": "10/26/2019",
+        "toDateStr": "11/25/2019",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 8051,
+        "candidateName": "Town of West Yellowstone Incidental Committee",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/26/2019",
+        "end_date": "11/25/2019",
+        "receipts": 0.0,
+        "expenditures": 10829.83,
+        "cash_in_bank": -15091.85
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/25/19",
+            "Entity Name": "Taylor Luther Group, PLLC ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 4182",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59604",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 10000.0,
+            "Purpose": "Legal advice for drafting and submittal of resolutions, campaign finance and education activities advice",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "11/25/19",
+            "Entity Name": "Town of West Yellowstone",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1570",
+            "City": "West Yellowstone",
+            "State": "MT",
+            "Zip": "59758",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 829.83,
+            "Purpose": "In-Kind Staff Time and Associated Overhead for education on resort tax resolutions (See attachment)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2389-Supporters-for-Preserving-Montanan's-Outfitting-Tradition-Against-I-161",
+    "committeeName": "Supporters for Preserving Montanan's Outfitting Tradition/Against I-161",
+    "scrape_date": "2020-07-01",
+    "periods": 11,
+    "data": {
+        "committeeId": 2389,
+        "committeeName": "Supporters for Preserving Montanan's Outfitting Tradition/Against I-161",
+        "committeeAddress": "5 Microwave Hill Rd. Suite L, Montana City, MT 59634",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1259005693000,
+        "entityFullName": "Supporters for Preserving Montanan's Outfitting Tradition/Against I-161",
+        "entityCity": "Montana City",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Swain, Jim",
+                "address": "PO Box 2532 Billings, MT  59103",
+                "phone": "",
+                "email": "jim@ghg-cpa.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Minard, Mac",
+                "address": "5 Microwave Hill Montana City, MT  59634",
+                "phone": "",
+                "email": "moga@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-161",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

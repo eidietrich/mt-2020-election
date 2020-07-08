@@ -1,0 +1,43 @@
+{
+    "slug": "3120-Montana-Trappers-Association",
+    "committeeName": "Montana Trappers Association",
+    "scrape_date": "2020-07-01",
+    "periods": 13,
+    "data": {
+        "committeeId": 3120,
+        "committeeName": "Montana Trappers Association",
+        "committeeAddress": "PO Box 129, Ovando, MT 59854",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1416207600000,
+        "entityFullName": "Montana Trappers Association",
+        "entityCity": "Ovando",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Sheppard, Terry J",
+                "address": "PO Box 129 Ovando, MT  59854",
+                "phone": "(406) 793-5885",
+                "email": "tjsheppard@blackfoot.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-169",
+                "position": "Oppose",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

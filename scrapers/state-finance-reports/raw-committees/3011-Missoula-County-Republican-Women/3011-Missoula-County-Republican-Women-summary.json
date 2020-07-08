@@ -1,0 +1,43 @@
+{
+    "slug": "3011-Missoula-County-Republican-Women",
+    "committeeName": "Missoula County Republican Women",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 3011,
+        "committeeName": "Missoula County Republican Women",
+        "committeeAddress": "7373 Stonehaven Ave, Missoula, MT 59803",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1519887600000,
+        "entityFullName": "Missoula County Republican Women",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Chapman, Jill",
+                "address": "1526 South Reserve St Missoula, MT  59801",
+                "phone": "(406) 274-4742",
+                "email": "jillwchap@yahoo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Bring women together to positively impact the direction of out nation, create a collective force, increase the effectiveness, encourage and support etc",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

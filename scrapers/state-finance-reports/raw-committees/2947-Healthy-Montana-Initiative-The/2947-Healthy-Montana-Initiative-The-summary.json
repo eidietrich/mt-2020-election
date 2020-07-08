@@ -1,0 +1,43 @@
+{
+    "slug": "2947-Healthy-Montana-Initiative-The",
+    "committeeName": "Healthy Montana Initiative, The",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 2947,
+        "committeeName": "Healthy Montana Initiative, The",
+        "committeeAddress": "PO Box 1497, Helena, MT 59601",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2014",
+        "amendedDate": 1402380000000,
+        "entityFullName": "Healthy Montana Initiative, The",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Chovanak, Lori",
+                "address": "20 Old Montana State Hwy Montana City, MT  59634",
+                "phone": "",
+                "email": "kim@mhrn.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Medicaid Expansion to 138% of federal poverty level",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

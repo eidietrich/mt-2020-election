@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 18510,
+        "fromDateStr": "04/03/2207",
+        "toDateStr": "04/03/2007",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 2080,
+        "candidateName": "Wendy's of Montana, Inc.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/03/2207",
+        "end_date": "04/03/2007",
+        "receipts": 0.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 0.0
+    },
+    "contributions": [],
+    "expenditures": []
+}

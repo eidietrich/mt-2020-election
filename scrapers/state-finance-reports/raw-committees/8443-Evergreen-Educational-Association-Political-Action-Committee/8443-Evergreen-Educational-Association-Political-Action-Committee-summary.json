@@ -1,0 +1,37 @@
+{
+    "slug": "8443-Evergreen-Educational-Association-Political-Action-Committee",
+    "committeeName": "Evergreen Educational Association Political Action Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 7,
+    "data": {
+        "committeeId": 8443,
+        "committeeName": "Evergreen Educational Association Political Action Committee",
+        "committeeAddress": "18 W. Evergreen DR, Kalispell, MT 59901",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1584338400000,
+        "entityFullName": "Evergreen Educational Association Political Action Committee",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Makela, Teresa K",
+                "address": "261 Sleepy Horse Lane Kalispell, MT  59901",
+                "phone": "(406) 431-9921",
+                "email": "Tmakela11@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

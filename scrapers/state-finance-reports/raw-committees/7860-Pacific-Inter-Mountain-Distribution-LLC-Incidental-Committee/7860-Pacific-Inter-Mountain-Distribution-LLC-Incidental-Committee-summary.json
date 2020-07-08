@@ -1,0 +1,43 @@
+{
+    "slug": "7860-Pacific-Inter-Mountain-Distribution-LLC-Incidental-Committee",
+    "committeeName": "Pacific Inter-Mountain Distribution, LLC Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 7860,
+        "committeeName": "Pacific Inter-Mountain Distribution, LLC Incidental Committee",
+        "committeeAddress": "1001 South Main Street, Suite 550, Kalispell, MT 59901",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1540879200000,
+        "entityFullName": "Pacific Inter-Mountain Distribution, LLC Incidental Committee",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Thompson, Brian P",
+                "address": "800 N. Last Chance Gulch, Ste. 101 Helena, MT  59601",
+                "phone": "(406) 443-6820",
+                "email": "brian@bkbh.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-186",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

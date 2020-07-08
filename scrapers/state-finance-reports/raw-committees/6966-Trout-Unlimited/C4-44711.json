@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 44711,
+        "fromDateStr": "10/28/2018",
+        "toDateStr": "11/05/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 6966,
+        "candidateName": "Trout Unlimited",
+        "statusDescr": "Amended",
+        "amendedDate": 1542751118000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/28/2018",
+        "end_date": "11/05/2018",
+        "receipts": 0.0,
+        "expenditures": 1500.0,
+        "cash_in_bank": -830136.45
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/02/18",
+            "Entity Name": "Yes for Responsible Mining ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1524",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59403",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 1500.0,
+            "Purpose": "One TU staffer traveled the state for three days visiting business partners.  ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

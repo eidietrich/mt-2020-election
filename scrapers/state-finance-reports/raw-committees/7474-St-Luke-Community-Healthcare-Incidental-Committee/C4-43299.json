@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 43299,
+        "fromDateStr": "07/31/2018",
+        "toDateStr": "10/05/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7474,
+        "candidateName": "St Luke Community Healthcare Incidental Committee",
+        "statusDescr": "Amended",
+        "amendedDate": 1539973878000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "07/31/2018",
+        "end_date": "10/05/2018",
+        "receipts": 0.0,
+        "expenditures": 1419.84,
+        "cash_in_bank": -51419.84
+    },
+    "contributions": [],
+    "expenditures": []
+}

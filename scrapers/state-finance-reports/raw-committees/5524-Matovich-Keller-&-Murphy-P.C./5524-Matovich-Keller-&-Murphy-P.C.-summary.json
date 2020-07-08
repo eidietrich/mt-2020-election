@@ -1,0 +1,37 @@
+{
+    "slug": "5524-Matovich-Keller-&-Murphy-P.C.",
+    "committeeName": "Matovich, Keller & Murphy P.C.",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5524,
+        "committeeName": "Matovich, Keller & Murphy P.C.",
+        "committeeAddress": "2812 First Ave N Suite 225, Billings, MT 59103",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1464242400000,
+        "entityFullName": "Matovich, Keller & Murphy P.C.",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

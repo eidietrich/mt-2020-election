@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 47828,
+        "fromDateStr": "03/26/2020",
+        "toDateStr": "04/25/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 374,
+        "candidateName": "Montana DOCPAC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/26/2020",
+        "end_date": "04/25/2020",
+        "receipts": 50.0,
+        "expenditures": 215.9,
+        "cash_in_bank": 9937.5
+    },
+    "contributions": [
+        {
+            "Date Paid": "04/06/20",
+            "Entity Name": "Matsko, Thomas H",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2800 11th Ave S, Suite 18 ",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59405",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "Doctor                   ",
+            "Employer": "Thomas H Matsko Md",
+            "Contribution Type": "Individual Contributions",
+            "Amount": 50.0,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 100.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "04/13/20",
+            "Entity Name": "Wells Fargo",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "200 B ST",
+            "City": "SANTA ROSA",
+            "State": "CA",
+            "Zip": "95401",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 215.9,
+            "Purpose": "Checking Account Monthly Fee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

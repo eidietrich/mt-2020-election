@@ -1,0 +1,43 @@
+{
+    "slug": "7267-Talen-Montana-LLC-Incidental-Committee",
+    "committeeName": "Talen Montana, LLC Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 7267,
+        "committeeName": "Talen Montana, LLC Incidental Committee",
+        "committeeAddress": "PO Box 38, Colstrip, MT 59323",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1584684000000,
+        "entityFullName": "Talen Montana, LLC Incidental Committee",
+        "entityCity": "Colstrip",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Luther, Jessie",
+                "address": "1 S. Montana Ave., Ste. #M-2 Helena, MT  59601",
+                "phone": "(406) 465-9513",
+                "email": "jessie@taylorluthergroup.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "made contributions to PACs",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

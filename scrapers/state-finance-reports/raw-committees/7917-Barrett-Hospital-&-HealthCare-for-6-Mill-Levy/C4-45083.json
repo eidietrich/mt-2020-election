@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 45083,
+        "fromDateStr": "09/04/2018",
+        "toDateStr": "09/05/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7917,
+        "candidateName": "Barrett Hospital & HealthCare for 6 Mill Levy",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/04/2018",
+        "end_date": "09/05/2018",
+        "receipts": 0.0,
+        "expenditures": 1000.0,
+        "cash_in_bank": -1000.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "09/04/18",
+            "Entity Name": "Montanans for the 6 Mill Levy",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box1461",
+            "City": "Henela",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 1000.0,
+            "Purpose": "Contrbution to the 6 Mill Levy",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

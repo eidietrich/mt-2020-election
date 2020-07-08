@@ -1,0 +1,83 @@
+{
+    "slug": "5659-WindPAC",
+    "committeeName": "WindPAC",
+    "scrape_date": "2020-07-02",
+    "periods": 6,
+    "data": {
+        "committeeId": 5659,
+        "committeeName": "WindPAC",
+        "committeeAddress": "1501 M Street, NW Suite 1000, Washington, D.C., DC 20005",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1479452400000,
+        "entityFullName": "WindPAC",
+        "entityCity": "Washington, D.C.",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Lemmerman, Maggie",
+                "address": "1501 M Street, NW Suite 1000 Washington, D.C., DC  20005",
+                "phone": "(202) 552-8103",
+                "email": "jbeckwith@awea.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Steve Bullock",
+                "position": "Support",
+                "status": "On ballot, approved"
+            },
+            {
+                "interest": "Dunwell for Montana House District 84",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Andrew Person for Legislature HD96",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Gail Gutshe for PSC",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Harry Klock for Senate District 15",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Friends of Kimberly Dudik",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Carolyn Pease-Lopez Campaign",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Rob Cook for HD18",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Shane Morigeau for House District 95",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

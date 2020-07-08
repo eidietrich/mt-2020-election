@@ -1,0 +1,43 @@
+{
+    "slug": "6858-Mosaic-Architecture",
+    "committeeName": "Mosaic Architecture",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6858,
+        "committeeName": "Mosaic Architecture",
+        "committeeAddress": "428 N. Last Chance Gulch, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2017",
+        "amendedDate": 1512457200000,
+        "entityFullName": "Mosaic Architecture",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Tintinger, Bennett P.",
+                "address": "428 N. Last Chance Gulch Helena, MT  59601",
+                "phone": "(406) 431-0348",
+                "email": "ben@mosaicarch.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "YES for Helena's Future",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

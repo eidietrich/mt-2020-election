@@ -1,0 +1,37 @@
+{
+    "slug": "1862-Friends-of-Missoula-Public-Library",
+    "committeeName": "Friends of Missoula Public Library",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 1862,
+        "committeeName": "Friends of Missoula Public Library",
+        "committeeAddress": "201 E Main, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1157650516000,
+        "entityFullName": "Friends of Missoula Public Library",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Morris, Nora",
+                "address": "2219 42nd Street Missoula, MT  59801",
+                "phone": "(406) 251-3404",
+                "email": "nmorris@co.missoula.mt.us"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

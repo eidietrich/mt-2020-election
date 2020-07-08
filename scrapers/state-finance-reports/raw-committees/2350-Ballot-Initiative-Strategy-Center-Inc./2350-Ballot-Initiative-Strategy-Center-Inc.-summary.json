@@ -1,0 +1,43 @@
+{
+    "slug": "2350-Ballot-Initiative-Strategy-Center-Inc.",
+    "committeeName": "Ballot Initiative Strategy Center, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2350,
+        "committeeName": "Ballot Initiative Strategy Center, Inc.",
+        "committeeAddress": "1825 K Street NW Suite 411, Washington, DC 20006",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1231959910000,
+        "entityFullName": "Ballot Initiative Strategy Center, Inc.",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wilfore, Kristina",
+                "address": "1825 K Street NW Suite 411 Washington, DC  20006",
+                "phone": "",
+                "email": "kwilfore@ballot.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-155",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

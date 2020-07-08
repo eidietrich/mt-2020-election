@@ -1,0 +1,37 @@
+{
+    "slug": "8037-Testing-PAC-Committee",
+    "committeeName": "Testing PAC Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 8037,
+        "committeeName": "Testing PAC Committee",
+        "committeeAddress": "123 Fake St, San Diego, CA 92116",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1568354400000,
+        "entityFullName": "Testing PAC Committee",
+        "entityCity": "San Diego",
+        "entityState": "CA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Test, Test",
+                "address": "123 Fake St San Diego, CA  92116",
+                "phone": "",
+                "email": "support@ispolitical.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

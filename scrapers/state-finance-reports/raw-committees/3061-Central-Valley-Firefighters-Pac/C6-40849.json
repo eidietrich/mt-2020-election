@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 40849,
+        "fromDateStr": "03/03/2018",
+        "toDateStr": "05/13/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 3061,
+        "candidateName": "Central Valley Firefighters Pac",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/03/2018",
+        "end_date": "05/13/2018",
+        "receipts": 0.0,
+        "expenditures": 4.0,
+        "cash_in_bank": 168.36
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "03/31/18",
+            "Entity Name": "Rocky Mountain Credit Union",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "8645 Huffine Ln",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2.0,
+            "Purpose": "BANK FEE",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/30/18",
+            "Entity Name": "Rocky Mountain Credit Union",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "8645 Huffine Ln",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2.0,
+            "Purpose": "Bank fee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

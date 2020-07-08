@@ -1,0 +1,37 @@
+{
+    "slug": "332-Butte-Silver-Bow-County-Republican-Women",
+    "committeeName": "Butte Silver Bow County Republican Women",
+    "scrape_date": "2020-07-02",
+    "periods": 7,
+    "data": {
+        "committeeId": 332,
+        "committeeName": "Butte Silver Bow County Republican Women",
+        "committeeAddress": "P. O. Box 3842, Butte, MT 59702",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1587880800000,
+        "entityFullName": "Butte Silver Bow County Republican Women",
+        "entityCity": "Butte",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McCaffery, Marjory J",
+                "address": "P. O. Box 3842 Butte, MT  59702",
+                "phone": "(510) 304-0728",
+                "email": "marji.mccaffery@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

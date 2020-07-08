@@ -1,0 +1,37 @@
+{
+    "slug": "1756-Big-Sky-Democrats-aka-Young-Democrats-of-Montana---Big-Sky-Dems",
+    "committeeName": "Big Sky Democrats aka Young Democrats of Montana - Big Sky Dems",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 1756,
+        "committeeName": "Big Sky Democrats aka Young Democrats of Montana - Big Sky Dems",
+        "committeeAddress": "PO Box 7266, Helena, MT 59624",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1469080800000,
+        "entityFullName": "Big Sky Democrats aka Young Democrats of Montana - Big Sky Dems",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Campbell, Tyler  j",
+                "address": "PO Box 7266 Helena, MT  59624",
+                "phone": "",
+                "email": "tylerjamescampbell87@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

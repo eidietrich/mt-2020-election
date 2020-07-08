@@ -1,0 +1,43 @@
+{
+    "slug": "2138-Taxpayers-for-a-Library-Levy-TFALL",
+    "committeeName": "Taxpayers for a Library Levy-TFALL",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2138,
+        "committeeName": "Taxpayers for a Library Levy-TFALL",
+        "committeeAddress": "Box 2382, Thompson Falls, MT 59873",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1204582078000,
+        "entityFullName": "Taxpayers for a Library Levy-TFALL",
+        "entityCity": "Thompson Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Reall, Judith",
+                "address": "31 Bear Tracks Lane Trout Creek, MT  59874",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Thompson Falls Library Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

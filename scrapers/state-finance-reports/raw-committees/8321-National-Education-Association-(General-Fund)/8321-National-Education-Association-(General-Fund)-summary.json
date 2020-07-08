@@ -1,7 +1,7 @@
 {
     "slug": "8321-National-Education-Association-(General-Fund)",
     "committeeName": "National Education Association (General Fund)",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 4,
     "data": {
         "committeeId": 8321,
@@ -16,15 +16,28 @@
         "entityState": "DC"
     },
     "summary": {
-        "reports": 4,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 125000.0,
-        "num_expenditures": 2,
-        "expenditures_19_20": 125000.0,
-        "num_expenditures_19_20": 2,
-        "cash_on_hand": 0.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Michael, McPherson",
+                "address": "1201 16th Street NW, Suite 418 Washington, DC  20036",
+                "phone": "",
+                "email": "jtakacs@nea.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "MT Federation of Public Employees Ballot",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
     }
 }

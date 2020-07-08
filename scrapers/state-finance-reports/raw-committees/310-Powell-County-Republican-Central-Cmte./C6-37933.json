@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 37933,
+        "fromDateStr": "06/29/2016",
+        "toDateStr": "10/27/2016",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 310,
+        "candidateName": "Powell County Republican Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/29/2016",
+        "end_date": "10/27/2016",
+        "receipts": 0.0,
+        "expenditures": 35.0,
+        "cash_in_bank": 782.53
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "08/06/16",
+            "Entity Name": "Tri County Fair Grounds",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 149",
+            "City": "Deer Lodge",
+            "State": "MT",
+            "Zip": "59722",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 35.0,
+            "Purpose": "Fiar Booth rental",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

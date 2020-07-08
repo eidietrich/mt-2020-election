@@ -1,0 +1,37 @@
+{
+    "slug": "1889-League-of-Women-Voters-of-Billings",
+    "committeeName": "League of Women Voters of Billings",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 1889,
+        "committeeName": "League of Women Voters of Billings",
+        "committeeAddress": "PO Box 1991, Billings, MT 59103",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2006",
+        "amendedDate": 1158356634000,
+        "entityFullName": "League of Women Voters of Billings",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Green-Detrick, Nancy",
+                "address": "5163 Granite Ridge Circle Billings, MT  59106",
+                "phone": "(406) 245-6038",
+                "email": "dnd5163@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

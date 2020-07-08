@@ -1,0 +1,43 @@
+{
+    "slug": "6853-Power-Townsend",
+    "committeeName": "Power Townsend",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6853,
+        "committeeName": "Power Townsend",
+        "committeeAddress": "PO Box 4879, Helena, MT 59604",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2017",
+        "amendedDate": 1512025200000,
+        "entityFullName": "Power Townsend",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wall, Michael A.",
+                "address": "PO Box 4874 Helena, MT  59604",
+                "phone": "(406) 368-2406",
+                "email": "mwall@powertownsend.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "YES for Helena's Future",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 43579,
+        "fromDateStr": "10/01/2018",
+        "toDateStr": "10/17/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 331,
+        "candidateName": "Butte Silver Bow County Republican Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/01/2018",
+        "end_date": "10/17/2018",
+        "receipts": 0.0,
+        "expenditures": 1500.0,
+        "cash_in_bank": 2461.42
+    },
+    "contributions": [
+        {
+            "Date Paid": "10/19/18",
+            "Entity Name": "Eyde, Jessica G",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "121 Mountain View Rd ",
+            "City": "Butte",
+            "State": "MT",
+            "Zip": "59701",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "Business Owner",
+            "Employer": "Pioneer Equipment and Supply",
+            "Contribution Type": "Individual Contributions",
+            "Amount": 60.0,
+            "Amount Type": "IK",
+            "Purpose": "Payment for Gun Show Table to Sports Connections, Inc.",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 330.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

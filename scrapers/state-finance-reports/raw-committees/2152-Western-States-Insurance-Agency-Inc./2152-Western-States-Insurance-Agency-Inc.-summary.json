@@ -1,0 +1,43 @@
+{
+    "slug": "2152-Western-States-Insurance-Agency-Inc.",
+    "committeeName": "Western States Insurance Agency, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2152,
+        "committeeName": "Western States Insurance Agency, Inc.",
+        "committeeAddress": "PO Box 4386, Missoula, MT 59808",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1208538399000,
+        "entityFullName": "Western States Insurance Agency, Inc.",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Stahlberg, Craig",
+                "address": "PO Box 4386 Missoula, MT  59806",
+                "phone": "",
+                "email": "cstahlberg@wsi-insurance.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Committee to Keep the Six Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

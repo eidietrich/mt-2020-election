@@ -1,0 +1,73 @@
+{
+    "slug": "245-Dawson-County-Republican-Central-Committee",
+    "committeeName": "Dawson County Republican Central Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 24,
+    "data": {
+        "committeeId": 245,
+        "committeeName": "Dawson County Republican Central Committee",
+        "committeeAddress": "PO Box 552, Terry, MT 59349",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1553580000000,
+        "entityFullName": "Dawson County Republican Central Committee",
+        "entityCity": "Terry",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Eaton, Shane L",
+                "address": "PO Box 552 Terry, MT  59349",
+                "phone": "(406) 939-2479",
+                "email": "shaneetn@midrivers.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Hedrick, Betsey",
+                "address": "815 Kendrick Ave Glendive, MT  59330",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Lola Sheldon Galloway for HD22",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Joe Reed for HD 93",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Matt Rosendale for U.S. Senate",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Randy Pinocci for PSC",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Michael Cooper for HD 26",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Adam Rosendale for SD11",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Chase Reynolds for SD 49",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

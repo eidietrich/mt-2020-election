@@ -1,0 +1,43 @@
+{
+    "slug": "3002-McCrorie-Heating-&-Cooling",
+    "committeeName": "McCrorie Heating & Cooling",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3002,
+        "committeeName": "McCrorie Heating & Cooling",
+        "committeeAddress": "12 S Meridian, Kalispell, MT 59901",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2013",
+        "amendedDate": 1386623394000,
+        "entityFullName": "McCrorie Heating & Cooling",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McCrorie, John",
+                "address": "12 S. Meridian Rd. Kalispell, MT  59901",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Save Your Airport",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "slug": "2004-Graphic-Imprints",
+    "committeeName": "Graphic Imprints",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2004,
+        "committeeName": "Graphic Imprints",
+        "committeeAddress": "PO Box 22546, Billings, MT 59104",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1163613196000,
+        "entityFullName": "Graphic Imprints",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Barnett, Kimberly R.",
+                "address": "PO Box 22546 Billings, MT  59104",
+                "phone": "(406) 259-8597",
+                "email": "kimberly.barnett@gsa.gov"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

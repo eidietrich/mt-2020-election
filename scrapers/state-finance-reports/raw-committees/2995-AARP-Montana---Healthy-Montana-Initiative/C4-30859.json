@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 30859,
+        "fromDateStr": "11/25/2013",
+        "toDateStr": "01/02/2014",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 2995,
+        "candidateName": "AARP Montana - Healthy Montana Initiative",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/25/2013",
+        "end_date": "01/02/2014",
+        "receipts": 0.0,
+        "expenditures": 2145.28,
+        "cash_in_bank": -2145.28
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "12/30/13",
+            "Entity Name": "AARP Montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "30 W 14th St., Ste 301",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2145.28,
+            "Purpose": "In-kind staff time and office expenses",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

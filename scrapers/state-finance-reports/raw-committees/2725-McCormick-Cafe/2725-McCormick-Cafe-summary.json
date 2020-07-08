@@ -1,0 +1,43 @@
+{
+    "slug": "2725-McCormick-Cafe",
+    "committeeName": "McCormick Cafe",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2725,
+        "committeeName": "McCormick Cafe",
+        "committeeAddress": "2407 Montana Ave., Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2011",
+        "amendedDate": 1324058452000,
+        "entityFullName": "McCormick Cafe",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Schaer, Michael",
+                "address": "2407 Montana Ave Billings, MT  59101",
+                "phone": "",
+                "email": "mike@cu.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "New Library",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

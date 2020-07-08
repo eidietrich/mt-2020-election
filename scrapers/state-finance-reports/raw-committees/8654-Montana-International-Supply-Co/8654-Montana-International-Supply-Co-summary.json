@@ -1,7 +1,7 @@
 {
     "slug": "8654-Montana-International-Supply-Co",
     "committeeName": "Montana International Supply Co",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 1,
     "data": {
         "committeeId": 8654,
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 1,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 1000.0,
-        "num_expenditures": 1,
-        "expenditures_19_20": 1000.0,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": -1000.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Desin, Joel",
+                "address": "PO Box 1463 Billings, MT  59103",
+                "phone": "",
+                "email": "jdesin@montanasupply.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Montana First",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
     }
 }

@@ -1,0 +1,53 @@
+{
+    "slug": "7726-Montana-Native-Vote-Incidental-Committee",
+    "committeeName": "Montana Native Vote Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7726,
+        "committeeName": "Montana Native Vote Incidental Committee",
+        "committeeAddress": "PO Box 178, Billings, MT 59103",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1539756000000,
+        "entityFullName": "Montana Native Vote Incidental Committee",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Whiteman, Rhonda",
+                "address": "PO Box 178 Billings, MT  59103",
+                "phone": "",
+                "email": "lberry@montananativevote.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Berry, Leah",
+                "address": "PO Box 178 Billings, MT  59103",
+                "phone": "",
+                "email": "lberry@montananativevote.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-129",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "LR-128",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "I-185",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

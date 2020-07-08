@@ -1,0 +1,43 @@
+{
+    "slug": "7811-Planned-Parenthood-Action-Fund---Incidental-Committee-for-I-185",
+    "committeeName": "Planned Parenthood Action Fund - Incidental Committee for I-185",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7811,
+        "committeeName": "Planned Parenthood Action Fund - Incidental Committee for I-185",
+        "committeeAddress": "1110 Vermont Ave NW, Ste 300, Washington, DC 20005",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1540274400000,
+        "entityFullName": "Planned Parenthood Action Fund - Incidental Committee for I-185",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Terrill, Laura",
+                "address": "1116 Grand Ave, Ste 201 Billings, MT  59102",
+                "phone": "",
+                "email": "laura.terrill@ppmontana.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-185",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

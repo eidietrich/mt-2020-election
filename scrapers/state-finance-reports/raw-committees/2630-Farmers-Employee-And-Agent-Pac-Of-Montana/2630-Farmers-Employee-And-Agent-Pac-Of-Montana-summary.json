@@ -1,0 +1,37 @@
+{
+    "slug": "2630-Farmers-Employee-And-Agent-Pac-Of-Montana",
+    "committeeName": "Farmers Employee And Agent Pac Of Montana",
+    "scrape_date": "2020-07-02",
+    "periods": 30,
+    "data": {
+        "committeeId": 2630,
+        "committeeName": "Farmers Employee And Agent Pac Of Montana",
+        "committeeAddress": "6301 Owensmouth Avenue, Legislative Affairs (7th Floor), Woodland Hills, CA 91367",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1576566000000,
+        "entityFullName": "Farmers Employee And Agent Pac Of Montana",
+        "entityCity": "Woodland Hills",
+        "entityState": "CA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Baker, Derrick",
+                "address": "690 SW Higgins Ave.  Suite C Missoula, MT  59803",
+                "phone": "(406) 541-3060",
+                "email": "dbaker2@farmersagent.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Smith, David S",
+                "address": "6301 Owensmouth Ave.  Woodland Hills, CA  91367",
+                "phone": "(323) 420-1099",
+                "email": "david.s.smith@farmersinsurance.com"
+            }
+        ],
+        "issues": []
+    }
+}

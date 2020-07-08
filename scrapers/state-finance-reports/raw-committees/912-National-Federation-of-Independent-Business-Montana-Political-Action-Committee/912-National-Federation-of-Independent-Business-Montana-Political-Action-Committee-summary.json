@@ -1,0 +1,43 @@
+{
+    "slug": "912-National-Federation-of-Independent-Business-Montana-Political-Action-Committee",
+    "committeeName": "National Federation of Independent Business Montana Political Action Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 20,
+    "data": {
+        "committeeId": 912,
+        "committeeName": "National Federation of Independent Business Montana Political Action Committee",
+        "committeeAddress": "1201 F Street NW, Ste 200, Washington, DC 20004",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1548658800000,
+        "entityFullName": "National Federation of Independent Business Montana Political Action Committee",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Maloney, Michael",
+                "address": "1201 F Street, NW, Suite 200 Washington, DC  20004",
+                "phone": "",
+                "email": "chris.barker@nfib.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Smith, Jeff",
+                "address": "1201 F Street, NW, Suite 200 Washington, DC  20004",
+                "phone": "",
+                "email": "kipp.maloney@nfib.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support candidates for election to state office that support issues important to the small business community",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

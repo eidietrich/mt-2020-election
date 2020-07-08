@@ -1,0 +1,37 @@
+{
+    "slug": "7544-Rosebud-Health-Care-Center",
+    "committeeName": "Rosebud Health Care Center",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7544,
+        "committeeName": "Rosebud Health Care Center",
+        "committeeAddress": "PO Box 268, Forsyth, MT 59327",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1536559200000,
+        "entityFullName": "Rosebud Health Care Center",
+        "entityCity": "Forsyth",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Price, Mindy E",
+                "address": "PO Box 268 Forsyth, MT  59327",
+                "phone": "(406) 346-4259",
+                "email": "mprice@rosebudhealthcare.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

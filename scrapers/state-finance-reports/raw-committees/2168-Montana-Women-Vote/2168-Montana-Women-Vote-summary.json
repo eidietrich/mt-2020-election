@@ -1,0 +1,48 @@
+{
+    "slug": "2168-Montana-Women-Vote",
+    "committeeName": "Montana Women Vote",
+    "scrape_date": "2020-07-01",
+    "periods": 8,
+    "data": {
+        "committeeId": 2168,
+        "committeeName": "Montana Women Vote",
+        "committeeAddress": "2525 Palmer Street Suite 1, Missoula, MT 59808",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1210881532000,
+        "entityFullName": "Montana Women Vote",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Goheen Jannotta, Alysha",
+                "address": "2525 Palmer Street Suite 1 Missoula, MT  59808",
+                "phone": "",
+                "email": "info@montanawomenvote.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI - 100",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            },
+            {
+                "interest": "I - 155 and I-156",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

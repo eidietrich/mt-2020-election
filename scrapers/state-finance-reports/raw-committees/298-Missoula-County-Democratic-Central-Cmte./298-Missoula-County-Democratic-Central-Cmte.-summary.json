@@ -1,0 +1,118 @@
+{
+    "slug": "298-Missoula-County-Democratic-Central-Cmte.",
+    "committeeName": "Missoula County Democratic Central Cmte.",
+    "scrape_date": "2020-07-02",
+    "periods": 26,
+    "data": {
+        "committeeId": 298,
+        "committeeName": "Missoula County Democratic Central Cmte.",
+        "committeeAddress": "P.O. Box 9305, Missoula, MT 59807",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1592892000000,
+        "entityFullName": "Missoula County Democratic Central Cmte.",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Walzer, Pam",
+                "address": "1400 Burns St #15 Missoula, MT  59802",
+                "phone": "(406) 327-8660",
+                "email": "pamwalzer@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Bryce Bennett for Secretary of State",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Work to get Democrats candidates at the local, state and national level elected in Missoula County",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Mark Thane for HD 99",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support the platform and activities of the Montana Democratic Party ",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Help progressive candidates get elected in Missoula County non-partisan elections",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Shane Morigeau for State Auditor",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support the activities of the Montana Democratic Legislative Campaign Committee",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Loni Conley for HD 96",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Willis Curdy for HD 98",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Chase Gay for SD 47",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support progressive policies at local, state, and federal level that are aligned with party platform",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Tom France for HD 94",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Lou Ann Hansen for HD 97",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Monica Tranel for Public Service Commission",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Oppose legislation at local, state and federal level that is counter to the party platform",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Tom Browder for HD 92",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

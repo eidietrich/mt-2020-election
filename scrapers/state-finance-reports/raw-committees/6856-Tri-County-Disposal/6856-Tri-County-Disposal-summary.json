@@ -1,0 +1,43 @@
+{
+    "slug": "6856-Tri-County-Disposal",
+    "committeeName": "Tri County Disposal",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6856,
+        "committeeName": "Tri County Disposal",
+        "committeeAddress": "3630 York Rd., Helena, MT 59602",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2017",
+        "amendedDate": 1512457200000,
+        "entityFullName": "Tri County Disposal",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Duffy, Dave",
+                "address": "3630 York Rd. Helena, MT  59602",
+                "phone": "(406) 439-3379",
+                "email": "dave@tcd.us.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "YES for Helena's Future",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

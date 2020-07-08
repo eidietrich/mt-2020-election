@@ -1,0 +1,43 @@
+{
+    "slug": "3823-Beck-&-Amsden-PLLC",
+    "committeeName": "Beck & Amsden, PLLC",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3823,
+        "committeeName": "Beck & Amsden, PLLC",
+        "committeeAddress": "1946 Stadium Drive, Suite 1, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2014",
+        "amendedDate": 1417158000000,
+        "entityFullName": "Beck & Amsden, PLLC",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Beck, Monte D",
+                "address": "1946 Stadium Drive, Suite 1 Bozeman, MT  59715",
+                "phone": "(406) 580-8700",
+                "email": "mbeck@becklawyers.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Justice Mike Wheat",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

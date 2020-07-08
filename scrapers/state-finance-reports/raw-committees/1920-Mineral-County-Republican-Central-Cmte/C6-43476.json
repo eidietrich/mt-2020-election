@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 43476,
+        "fromDateStr": "09/27/2018",
+        "toDateStr": "10/21/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 1920,
+        "candidateName": "Mineral County Republican Central Cmte",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/27/2018",
+        "end_date": "10/21/2018",
+        "receipts": 0.41,
+        "expenditures": 0.0,
+        "cash_in_bank": 9799.07
+    },
+    "contributions": [
+        {
+            "Date Paid": "10/04/18",
+            "Entity Name": "Trail West Bank",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "208 River St",
+            "City": "Superior",
+            "State": "MT",
+            "Zip": "59820",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -0.41,
+            "Amount Type": "CA",
+            "Purpose": "September bank interest",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 0.41,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

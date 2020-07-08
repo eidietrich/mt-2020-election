@@ -1,0 +1,48 @@
+{
+    "slug": "8424-Citizens-for-Government-Transparency",
+    "committeeName": "Citizens for Government Transparency",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 8424,
+        "committeeName": "Citizens for Government Transparency",
+        "committeeAddress": "1502 Pearl St., Miles City, MT 59301",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1593496800000,
+        "entityFullName": "Citizens for Government Transparency",
+        "entityCity": "Miles City",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Matthews, Gary",
+                "address": "1502 Pearl St.  Miles City, MT  59301",
+                "phone": "(406) 853-2689",
+                "email": "garymatthews51@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Brownfield, Keith",
+                "address": "1502 Pearl St. Miles City, MT  59301",
+                "phone": "(406) 860-2652",
+                "email": "sbrownfield@victorymt.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "to support candidates that advance transparency in government",
+                "position": "Other",
+                "status": "Support"
+            },
+            {
+                "interest": "Nelly Nicol",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

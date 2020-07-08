@@ -1,7 +1,7 @@
 {
     "slug": "8359-Citizens-for-School-Bond-issue",
     "committeeName": "Citizens for School Bond issue ",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 2,
     "data": {
         "committeeId": 8359,
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 2,
-        "contributions": 1350.0,
-        "num_contributions": 10,
-        "contributions_19_20": 1350.0,
-        "num_contributions_19_20": 10,
-        "expenditures": 1294.0,
-        "num_expenditures": 3,
-        "expenditures_19_20": 1294.0,
-        "num_expenditures_19_20": 3,
-        "cash_on_hand": 56.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Gillespie, Judy R.",
+                "address": "212 N. Oak Street Townsend, MT  59644",
+                "phone": "(406) 266-3861",
+                "email": "gillespiej4@msn.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support school bond issue for Broadwater County",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
     }
 }

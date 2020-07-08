@@ -1,0 +1,63 @@
+{
+    "slug": "410-Montana-Independent-Bankers-Pac-(MIB--PAC)",
+    "committeeName": "Montana Independent Bankers Pac (MIB- PAC)",
+    "scrape_date": "2020-07-02",
+    "periods": 31,
+    "data": {
+        "committeeId": 410,
+        "committeeName": "Montana Independent Bankers Pac (MIB- PAC)",
+        "committeeAddress": "Po Box 4893, Helena, MT 59604",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1585461600000,
+        "entityFullName": "Montana Independent Bankers Pac (MIB- PAC)",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Brown, James E",
+                "address": "30 S. Ewing Suite 100 Helena, MT  59601",
+                "phone": "(406) 449-7444",
+                "email": "jbrown@mibonline.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Kerri Seekins-Crowe for House",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "kirk bushman for psc",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "ken walsh for legislature ",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "james brown for montana PSC #3",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Tom Welch  for house",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

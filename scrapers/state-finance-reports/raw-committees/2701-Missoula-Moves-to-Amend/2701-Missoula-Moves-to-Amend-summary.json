@@ -1,0 +1,43 @@
+{
+    "slug": "2701-Missoula-Moves-to-Amend",
+    "committeeName": "Missoula Moves to Amend",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2701,
+        "committeeName": "Missoula Moves to Amend",
+        "committeeAddress": "1316B Cooper Street, Missoula, MT 59802",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2011",
+        "amendedDate": 1316707546000,
+        "entityFullName": "Missoula Moves to Amend",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wolken, Cynthia",
+                "address": "PO Box 16503 Missoula, MT  59808",
+                "phone": "(406) 465-3376",
+                "email": "cynthia.wolken@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Corporote Personhood",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

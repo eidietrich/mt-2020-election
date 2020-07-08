@@ -1,0 +1,37 @@
+{
+    "slug": "359-BackPAC-Montana-Chiropractic-Assn.",
+    "committeeName": "BackPAC-Montana Chiropractic Assn.",
+    "scrape_date": "2020-07-02",
+    "periods": 12,
+    "data": {
+        "committeeId": 359,
+        "committeeName": "BackPAC-Montana Chiropractic Assn.",
+        "committeeAddress": "1645 Parkhill Drive #6, Billings, MT 59102",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1585548000000,
+        "entityFullName": "BackPAC-Montana Chiropractic Assn.",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Griffin, Brad",
+                "address": "1645 Parkhill Dr. #6 Billings, MT  59102",
+                "phone": "(406) 855-5539",
+                "email": "brad.griffin@mtretail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Welker, Michael",
+                "address": "2210 Harrison Ave. Butte, MT  59701",
+                "phone": "(406) 723-3200",
+                "email": "bearwelker@gmail.com"
+            }
+        ],
+        "issues": []
+    }
+}

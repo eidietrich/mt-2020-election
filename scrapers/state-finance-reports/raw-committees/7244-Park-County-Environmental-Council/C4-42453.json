@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 42453,
+        "fromDateStr": "06/02/2018",
+        "toDateStr": "06/26/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7244,
+        "candidateName": "Park County Environmental Council",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/02/2018",
+        "end_date": "06/26/2018",
+        "receipts": 0.0,
+        "expenditures": 840.63,
+        "cash_in_bank": -4584.69
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "06/26/18",
+            "Entity Name": "Park County Environmental Council",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "215 E. Lewis St., #306",
+            "City": "Livingston",
+            "State": "MT",
+            "Zip": "59047",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 840.63,
+            "Purpose": "in-kind contributions of staff time and office for M. Uberuaga for partnership conference calls and signature events to support I-186",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

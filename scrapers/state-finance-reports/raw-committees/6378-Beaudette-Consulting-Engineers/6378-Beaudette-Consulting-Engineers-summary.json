@@ -1,0 +1,43 @@
+{
+    "slug": "6378-Beaudette-Consulting-Engineers",
+    "committeeName": "Beaudette Consulting Engineers",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6378,
+        "committeeName": "Beaudette Consulting Engineers",
+        "committeeAddress": "131 W Main, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2017",
+        "amendedDate": 1502690400000,
+        "entityFullName": "Beaudette Consulting Engineers",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hubbard, Matthew",
+                "address": "1289 Stoneridge Dr. Suite 1A Bozeman, MT  59718",
+                "phone": "(406) 556-8600",
+                "email": "mhubbard@dci-engineers.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Lincolns for Levies",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

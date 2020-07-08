@@ -1,0 +1,37 @@
+{
+    "slug": "2538-Manley-Financial-Group-Inc",
+    "committeeName": "Manley Financial Group Inc",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2538,
+        "committeeName": "Manley Financial Group Inc",
+        "committeeAddress": "135 Hutton Ranch #102, Kapispell, MT 59901",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1280519602000,
+        "entityFullName": "Manley Financial Group Inc",
+        "entityCity": "Kapispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Waldner, Elaine",
+                "address": "135 Hutton Ranch Road #102 Kalispell, MT  59901",
+                "phone": "(406) 261-7485",
+                "email": "emfg2003@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

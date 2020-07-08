@@ -1,0 +1,43 @@
+{
+    "slug": "2094-Celebrate-Billings",
+    "committeeName": "Celebrate Billings",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2094,
+        "committeeName": "Celebrate Billings",
+        "committeeAddress": "PO Box 36300, Billings, MT 59107",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2007",
+        "amendedDate": 1183478421000,
+        "entityFullName": "Celebrate Billings",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Patrick, Scott",
+                "address": "401 North Broadway Billings, MT  59101",
+                "phone": "",
+                "email": "spatrick@billingsgazette.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School District 2 Mill Levy",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

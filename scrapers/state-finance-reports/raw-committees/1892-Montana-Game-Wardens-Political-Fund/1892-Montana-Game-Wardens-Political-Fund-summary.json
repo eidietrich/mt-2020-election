@@ -1,0 +1,37 @@
+{
+    "slug": "1892-Montana-Game-Wardens-Political-Fund",
+    "committeeName": "Montana Game Wardens Political Fund",
+    "scrape_date": "2020-07-02",
+    "periods": 8,
+    "data": {
+        "committeeId": 1892,
+        "committeeName": "Montana Game Wardens Political Fund",
+        "committeeAddress": "P.O. Box 68, Helena, MT 59624",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1475301600000,
+        "entityFullName": "Montana Game Wardens Political Fund",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Darrah, Jeff",
+                "address": "837 Captivating Way Stevensville, MT  59870",
+                "phone": "(406) 777-4257",
+                "email": "montanagamewardens@live.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Strozewski, Nicole",
+                "address": "P O Box 68 Helena, MT  59624",
+                "phone": "(406) 750-6310",
+                "email": "montanagamewardens@live.com"
+            }
+        ],
+        "issues": []
+    }
+}

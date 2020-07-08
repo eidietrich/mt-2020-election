@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 42749,
+        "fromDateStr": "06/21/2018",
+        "toDateStr": "08/03/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 1652,
+        "candidateName": "Republican State Leadership Committee-Montana PAC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/21/2018",
+        "end_date": "08/03/2018",
+        "receipts": 0.0,
+        "expenditures": 20.0,
+        "cash_in_bank": 442.53
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "07/25/18",
+            "Entity Name": "Wells Fargo",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 80827",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59108",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 10.0,
+            "Purpose": "Bank fee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "06/25/18",
+            "Entity Name": "Wells Fargo",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 80827",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59108",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 10.0,
+            "Purpose": "Bank fee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

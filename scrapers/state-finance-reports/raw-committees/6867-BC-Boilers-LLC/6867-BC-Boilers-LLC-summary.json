@@ -1,0 +1,43 @@
+{
+    "slug": "6867-BC-Boilers-LLC",
+    "committeeName": "BC Boilers LLC",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6867,
+        "committeeName": "BC Boilers LLC",
+        "committeeAddress": "428 S. Cooke , Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2017",
+        "amendedDate": 1514271600000,
+        "entityFullName": "BC Boilers LLC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Cordingley, Thomas",
+                "address": "428 S. Cooke Helena, MT  59601",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "YES for Helena's Future",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

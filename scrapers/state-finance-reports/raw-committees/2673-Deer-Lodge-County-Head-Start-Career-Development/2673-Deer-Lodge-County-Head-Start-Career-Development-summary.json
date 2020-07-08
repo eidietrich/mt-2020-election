@@ -1,0 +1,43 @@
+{
+    "slug": "2673-Deer-Lodge-County-Head-Start-Career-Development",
+    "committeeName": "Deer Lodge County Head Start Career Development",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2673,
+        "committeeName": "Deer Lodge County Head Start Career Development",
+        "committeeAddress": "PO Box 219 317 W. 4th, Anaconda, MT 59711",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2011",
+        "amendedDate": 1308166078000,
+        "entityFullName": "Deer Lodge County Head Start Career Development",
+        "entityCity": "Anaconda",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Levy for Head Start",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "slug": "316-Ravalli-County-Republican-Women",
+    "committeeName": "Ravalli County Republican Women",
+    "scrape_date": "2020-07-02",
+    "periods": 24,
+    "data": {
+        "committeeId": 316,
+        "committeeName": "Ravalli County Republican Women",
+        "committeeAddress": "Po Box 892, Corvallis, MT 59828",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1585029600000,
+        "entityFullName": "Ravalli County Republican Women",
+        "entityCity": "Corvallis",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Alford, Jane E",
+                "address": "PO Box 1948 Hamilton, MT  59840",
+                "phone": "(406) 381-5602",
+                "email": "jane.e.alford@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Work for election of Republican Party and promote it's ideals. Foster loyalty to the Republican Party and it's ideals.",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Promote principles of freedon, equaltiy and justice on which government of the United States is founded.",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

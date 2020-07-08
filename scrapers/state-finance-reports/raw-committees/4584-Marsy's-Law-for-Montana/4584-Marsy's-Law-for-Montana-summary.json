@@ -1,0 +1,43 @@
+{
+    "slug": "4584-Marsy's-Law-for-Montana",
+    "committeeName": "Marsy's Law for Montana",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 4584,
+        "committeeName": "Marsy's Law for Montana",
+        "committeeAddress": "1820 N Last Chance Gulch St, Helena, MT 59601",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1455174000000,
+        "entityFullName": "Marsy's Law for Montana",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Denowh, Charles",
+                "address": "1820 N Last Chance Gulch St Helena, MT  59601",
+                "phone": "",
+                "email": "cdenowh@montanagroup.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To amend the constitution of the state of Montana to provide equal rights for victims of crime.",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

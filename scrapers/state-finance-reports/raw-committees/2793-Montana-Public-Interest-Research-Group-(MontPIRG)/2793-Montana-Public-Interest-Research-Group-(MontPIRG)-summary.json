@@ -1,0 +1,37 @@
+{
+    "slug": "2793-Montana-Public-Interest-Research-Group-(MontPIRG)",
+    "committeeName": "Montana Public Interest Research Group (MontPIRG)",
+    "scrape_date": "2020-07-01",
+    "periods": 5,
+    "data": {
+        "committeeId": 2793,
+        "committeeName": "Montana Public Interest Research Group (MontPIRG)",
+        "committeeAddress": "32 Campus Drive, Missoula, MT 59806",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1339534694000,
+        "entityFullName": "Montana Public Interest Research Group (MontPIRG)",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Rebich, Kylie",
+                "address": "1470658th Dr. SE Everett, WA  98208",
+                "phone": "",
+                "email": "kylie.rebich@mac.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

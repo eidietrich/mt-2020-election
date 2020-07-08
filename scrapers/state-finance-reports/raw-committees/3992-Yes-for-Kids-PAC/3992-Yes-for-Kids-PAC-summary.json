@@ -1,0 +1,43 @@
+{
+    "slug": "3992-Yes-for-Kids-PAC",
+    "committeeName": "Yes for Kids PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 3992,
+        "committeeName": "Yes for Kids PAC",
+        "committeeAddress": "PO Box 1468, Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1464847200000,
+        "entityFullName": "Yes for Kids PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Mandeville, Sunny R",
+                "address": "826 Broadway Helena, MT  59601",
+                "phone": "(406) 442-5834",
+                "email": "yesforhelenakids@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School District No1 (Helena) Elementry School Bond",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

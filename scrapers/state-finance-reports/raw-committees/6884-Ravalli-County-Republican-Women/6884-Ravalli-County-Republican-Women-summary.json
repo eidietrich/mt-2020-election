@@ -1,0 +1,37 @@
+{
+    "slug": "6884-Ravalli-County-Republican-Women",
+    "committeeName": "Ravalli County Republican Women",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6884,
+        "committeeName": "Ravalli County Republican Women",
+        "committeeAddress": "Po Box 892, Corvallis, MT 59828",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1517468400000,
+        "entityFullName": "Ravalli County Republican Women",
+        "entityCity": "Corvallis",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Alford, Jane",
+                "address": "PO Box 1948 Hamilton, MT  59840",
+                "phone": "(406) 381-5602",
+                "email": "kmusgrave@mt.gov"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Quast, Rosemary",
+                "address": "PO Box 667 Corvallis, MT  59828",
+                "phone": "(406) 961-5207",
+                "email": "quastrh@hotmail.com"
+            }
+        ],
+        "issues": []
+    }
+}

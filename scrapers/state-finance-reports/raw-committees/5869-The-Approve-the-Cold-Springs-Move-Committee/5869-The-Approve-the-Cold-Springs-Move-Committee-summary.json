@@ -1,0 +1,43 @@
+{
+    "slug": "5869-The-Approve-the-Cold-Springs-Move-Committee",
+    "committeeName": "The Approve the Cold Springs Move Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 5869,
+        "committeeName": "The Approve the Cold Springs Move Committee",
+        "committeeAddress": "2476 Briggs St, Missoula, MT 59803",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1478761200000,
+        "entityFullName": "The Approve the Cold Springs Move Committee",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Doucette, Matt",
+                "address": "5645 Kristin Lane Missoula, MT  59803",
+                "phone": "(406) 721-8550",
+                "email": "matt.doucette@icloud.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School District 1 Site-Selection Election",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "9000-Montana-Values-Action-Fund",
+    "committeeName": "Montana Values Action Fund ",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 9000,
+        "committeeName": "Montana Values Action Fund ",
+        "committeeAddress": "PO Box 8512, Missoula , MT 59807",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1593496800000,
+        "entityFullName": "Montana Values Action Fund ",
+        "entityCity": "Missoula ",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Stranahan, Mary ",
+                "address": "PO Box 8512 Missoula, MT  59807",
+                "phone": "",
+                "email": "montanavaluesactionfund@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "The purpose of Montana Values Action Fund is to support grassroots organizations who are doing work in the 2020 election cycle.",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "7290-PCH-Incidental-Committee",
+    "committeeName": "PCH Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7290,
+        "committeeName": "PCH Incidental Committee",
+        "committeeAddress": "P.O. Box 640, Malta, MT 59538",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1526450400000,
+        "entityFullName": "PCH Incidental Committee",
+        "entityCity": "Malta",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "VanWichen, Ward C",
+                "address": "P.O. Box 640 Malta, MT  59538",
+                "phone": "(406) 654-1100",
+                "email": "wvanwichen@pchospital.us"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-185",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

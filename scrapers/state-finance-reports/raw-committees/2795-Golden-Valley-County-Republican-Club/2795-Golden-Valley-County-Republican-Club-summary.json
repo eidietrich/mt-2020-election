@@ -1,0 +1,58 @@
+{
+    "slug": "2795-Golden-Valley-County-Republican-Club",
+    "committeeName": "Golden Valley County Republican Club",
+    "scrape_date": "2020-07-02",
+    "periods": 13,
+    "data": {
+        "committeeId": 2795,
+        "committeeName": "Golden Valley County Republican Club",
+        "committeeAddress": "PO Box 216, Ryegate, MT 59074",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1520578800000,
+        "entityFullName": "Golden Valley County Republican Club",
+        "entityCity": "Ryegate",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Todd, Kris",
+                "address": "147 US Hwy 12 W Ryegate, MT  59074",
+                "phone": "(406) 568-2768",
+                "email": "gmar@midrivers.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Republican candidates",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Matt Rosendale for US Senate",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Wylie Galt for HD 30",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Greg Gianforte for Congress",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

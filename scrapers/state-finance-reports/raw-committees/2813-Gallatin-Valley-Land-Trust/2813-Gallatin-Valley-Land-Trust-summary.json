@@ -1,0 +1,43 @@
+{
+    "slug": "2813-Gallatin-Valley-Land-Trust",
+    "committeeName": "Gallatin Valley Land Trust",
+    "scrape_date": "2020-07-01",
+    "periods": 10,
+    "data": {
+        "committeeId": 2813,
+        "committeeName": "Gallatin Valley Land Trust",
+        "committeeAddress": "PO Box 7021, Bozeman, MT 59771",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1347307528000,
+        "entityFullName": "Gallatin Valley Land Trust",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Pohl, Kelly A",
+                "address": "PO Box 7021 Bozeman, MT  59771",
+                "phone": "(406) 587-8404",
+                "email": "kellypohl@yahoo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "City of Bozeman Parks G.O. Bond",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "slug": "378-Great-Falls-Education-Assn.-PAC",
+    "committeeName": "Great Falls Education Assn. PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 6,
+    "data": {
+        "committeeId": 378,
+        "committeeName": "Great Falls Education Assn. PAC",
+        "committeeAddress": "511 13th Ave. S., Great Falls, MT 59405",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1559628000000,
+        "entityFullName": "Great Falls Education Assn. PAC",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Olson, Stephanie",
+                "address": "511 13 Ave. S. Great Falls, MT  59405",
+                "phone": "(406) 727-4233",
+                "email": "gfea.union@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 29014,
+        "fromDateStr": "11/01/2012",
+        "toDateStr": "11/02/2012",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 2813,
+        "candidateName": "Gallatin Valley Land Trust",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/01/2012",
+        "end_date": "11/02/2012",
+        "receipts": 0.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 0.0
+    },
+    "contributions": [
+        {
+            "Date Paid": "11/02/12",
+            "Entity Name": "Gallatin Valley Land Trust",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 7021",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59771",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Individual Contributions",
+            "Amount": 291.34,
+            "Amount Type": "IK",
+            "Purpose": "Staff time on behalf of the Bozeman Parks & Trails Campaign",
+            "Election Type": "Primary",
+            "Total Primary": 8314.46,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

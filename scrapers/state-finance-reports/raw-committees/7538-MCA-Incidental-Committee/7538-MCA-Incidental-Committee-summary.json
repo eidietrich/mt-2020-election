@@ -1,0 +1,43 @@
+{
+    "slug": "7538-MCA-Incidental-Committee",
+    "committeeName": "MCA Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7538,
+        "committeeName": "MCA Incidental Committee",
+        "committeeAddress": "1717 11th Ave., Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1538373600000,
+        "entityFullName": "MCA Incidental Committee",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Seilstad, Maryann",
+                "address": "1717 11th Ave. Helena, MT  59601",
+                "phone": "(406) 442-4162",
+                "email": "maryann@mtagc.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Thompson, Brian",
+                "address": "800 N. Last Chance, Suite 101 Helena, MT  59624",
+                "phone": "(406) 443-6820",
+                "email": "brian@bkbh.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Incidental committee opposing I-186",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "4458-Montanans-for-Trap-Free-Public-Lands---Safe-Public-Lands-for-All-Users",
+    "committeeName": "Montanans for Trap Free Public Lands - Safe Public Lands for All Users",
+    "scrape_date": "2020-07-02",
+    "periods": 14,
+    "data": {
+        "committeeId": 4458,
+        "committeeName": "Montanans for Trap Free Public Lands - Safe Public Lands for All Users",
+        "committeeAddress": "PO Box 8754, Missoula, MT 59807",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1479884400000,
+        "entityFullName": "Montanans for Trap Free Public Lands - Safe Public Lands for All Users",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Leaphart, William \"Bill\"",
+                "address": "1772 University Helena, MT  59601",
+                "phone": "(406) 443-5307",
+                "email": "helding64@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Helding, Linda",
+                "address": "PO Box 812 Arlee, MT  59821",
+                "phone": "(406) 241-4261",
+                "email": "helding64@gmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To pass a ballot initiative restricting trapping on public lands",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

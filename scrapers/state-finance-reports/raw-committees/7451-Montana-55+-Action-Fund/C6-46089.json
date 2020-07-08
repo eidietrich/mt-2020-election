@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 46089,
+        "fromDateStr": "09/18/2019",
+        "toDateStr": "11/15/2019",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 7451,
+        "candidateName": "Montana 55+ Action Fund",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/18/2019",
+        "end_date": "11/15/2019",
+        "receipts": 0.0,
+        "expenditures": 10304.06,
+        "cash_in_bank": 276.68
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "09/30/19",
+            "Entity Name": "Big Sky 55+",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO 1663",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 800.0,
+            "Purpose": "Carmelita Dominguez for City Council, staff time @ 32 hrs x $25.00/hr for design of mail pieces and canvassing",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "slug": "2902-Montana-Land-Surveyors-Pac--(mls-pac)",
+    "committeeName": "Montana Land Surveyors Pac  (mls-pac)",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 2902,
+        "committeeName": "Montana Land Surveyors Pac  (mls-pac)",
+        "committeeAddress": "Po Box 359, Columbia Falls, MT 59912",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "Y",
+        "electionYear": "2000",
+        "amendedDate": 1528696800000,
+        "entityFullName": "Montana Land Surveyors Pac  (mls-pac)",
+        "entityCity": "Columbia Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Mc Donald, Kay",
+                "address": "Po Box 359 Columbia Falls, MT  59912",
+                "phone": "(406) 892-4579",
+                "email": "kay@marls.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Vince Ricci",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Adam Hertz for HD 96",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ross Fitzgerald - HD17",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Forrest Mandeville for HD57",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Daniel Zolnikov for HD45",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jobs for Montana PAC",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Scott Sales for Senate District 35",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Terry Gauthier for SD40",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Promote the election of candidates for public elective office who support a better business climate and strong economy.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kristen Juras - Supreme  Court Justice",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ed Greef for HD88",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Debra Lamm",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Becky Beard for House District 80",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

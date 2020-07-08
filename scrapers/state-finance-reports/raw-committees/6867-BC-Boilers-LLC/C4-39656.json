@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 39656,
+        "fromDateStr": "02/10/2017",
+        "toDateStr": "03/01/2017",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 6867,
+        "candidateName": "BC Boilers LLC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "02/10/2017",
+        "end_date": "03/01/2017",
+        "receipts": 0.0,
+        "expenditures": 500.0,
+        "cash_in_bank": -500.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "02/10/17",
+            "Entity Name": "Yes for Helena's Future",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1932",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 500.0,
+            "Purpose": "Support yes for Helena's Future",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

@@ -484,6 +484,44 @@
             "Expenditure Paid Communications Platform": "Print ad in Mailer",
             "Expenditure Paid Communications Quantity": "print ad in 4/21 and 4/28 Mailman paper",
             "Expenditure Paid Communications Subject Matter": "Vote Yes for Lone Rock School Levy"
+        },
+        {
+            "Date Paid": "03/25/20",
+            "Entity Name": "Larzz Photo",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "264 Starglow Lane",
+            "City": "Florence",
+            "State": "MT",
+            "Zip": "59833",
+            "Zip4": "",
+            "Expenditure Type": "Debts and Loans Not Yet Paid",
+            "Amount": 750.0,
+            "Purpose": "for balance of yard signs and posters received.  1000 flyers invoiced but not printed",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/09/20",
+            "Entity Name": "Larzz Photo",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "264 Starglow Lane",
+            "City": "Florence",
+            "State": "MT",
+            "Zip": "59833",
+            "Zip4": "",
+            "Expenditure Type": "Debt and Loan Payment",
+            "Amount": 565.0,
+            "Purpose": "",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

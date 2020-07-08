@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 39631,
+        "fromDateStr": "09/15/2017",
+        "toDateStr": "11/09/2017",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 6855,
+        "candidateName": "Somers District # 29",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/15/2017",
+        "end_date": "11/09/2017",
+        "receipts": 0.0,
+        "expenditures": 778.8,
+        "cash_in_bank": -778.8
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/31/17",
+            "Entity Name": "Insty Print",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "131 Main",
+            "City": "Kalispell",
+            "State": "MT",
+            "Zip": "59901",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 778.8,
+            "Purpose": "Brochures & Buttons",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

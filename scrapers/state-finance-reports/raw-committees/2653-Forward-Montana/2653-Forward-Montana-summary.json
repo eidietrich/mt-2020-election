@@ -1,0 +1,43 @@
+{
+    "slug": "2653-Forward-Montana",
+    "committeeName": "Forward Montana",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2653,
+        "committeeName": "Forward Montana",
+        "committeeAddress": "500 N. Higgins #107, Missoula, MT 59801",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2011",
+        "amendedDate": 1303223262000,
+        "entityFullName": "Forward Montana",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Lombardi, Jill",
+                "address": "500 North Higgins Ave   Ste 107 Missoula, MT  59802",
+                "phone": "(406) 459-8861",
+                "email": "jill.lombardi@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School Levy Elections",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

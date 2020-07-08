@@ -1,0 +1,43 @@
+{
+    "slug": "2549-International-Brotherhood-of-Boilermakers",
+    "committeeName": "International Brotherhood of Boilermakers",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2549,
+        "committeeName": "International Brotherhood of Boilermakers",
+        "committeeAddress": "PO Box 1028 322 5th Ave. E, Three Forks, MT 59752",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1282927902000,
+        "entityFullName": "International Brotherhood of Boilermakers",
+        "entityCity": "Three Forks",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "N/A",
+                "address": "PO Box 1 Three Forks, MT  59752",
+                "phone": "(406) 285-3633",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Don Judge",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

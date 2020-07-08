@@ -1,0 +1,43 @@
+{
+    "slug": "7525-Tobacco-Free-Kids-Action-Fund",
+    "committeeName": "Tobacco-Free Kids Action Fund ",
+    "scrape_date": "2020-07-02",
+    "periods": 7,
+    "data": {
+        "committeeId": 7525,
+        "committeeName": "Tobacco-Free Kids Action Fund ",
+        "committeeAddress": "1400 I Street NW Suite # 1200, Washington , DC 20005",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1555480800000,
+        "entityFullName": "Tobacco-Free Kids Action Fund ",
+        "entityCity": "Washington ",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Pearson , C.B.",
+                "address": "526 E. Front Street  Missoula , MT  59802",
+                "phone": "(406) 549-2848",
+                "email": "cbpearson@mrss.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "\"Support I-185\"",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

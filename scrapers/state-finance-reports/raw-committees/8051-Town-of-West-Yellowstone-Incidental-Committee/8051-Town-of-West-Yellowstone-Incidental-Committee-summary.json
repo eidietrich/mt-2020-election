@@ -1,0 +1,43 @@
+{
+    "slug": "8051-Town-of-West-Yellowstone-Incidental-Committee",
+    "committeeName": "Town of West Yellowstone Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 8051,
+        "committeeName": "Town of West Yellowstone Incidental Committee",
+        "committeeAddress": "PO Box 1570, West Yellowstone, MT 59758",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1574751600000,
+        "entityFullName": "Town of West Yellowstone Incidental Committee",
+        "entityCity": "West Yellowstone",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Roos, Elizabeth",
+                "address": "PO Box 1570 West Yellowstone, MT  59758",
+                "phone": "(406) 646-7795",
+                "email": "eroos@townofwestyellowstone.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Luther, Jessie",
+                "address": "1 S. Montana Ave., Ste. M-2 Helena, MT  59601",
+                "phone": "(406) 465-9513",
+                "email": "jessie@taylorluthergroup.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Educating about the impacts of the 3% resort tax extension and 1% resort tax increase",
+                "position": "Other",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

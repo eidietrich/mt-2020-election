@@ -1,0 +1,37 @@
+{
+    "slug": "2229-SEIU-775-Montana",
+    "committeeName": "SEIU 775 Montana",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2229,
+        "committeeName": "SEIU 775 Montana",
+        "committeeAddress": "PO Box 172 302 N Last Chance Gulch 3rd Floor Suite 313, Helena, MT 59624",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1216218662000,
+        "entityFullName": "SEIU 775 Montana",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Helt, Jacqueline",
+                "address": "PO Box 3625 Missoula, MT  59806",
+                "phone": "(406) 544-9682",
+                "email": "jacquie.helt@seiu775.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

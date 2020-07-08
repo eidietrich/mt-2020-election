@@ -1,0 +1,43 @@
+{
+    "slug": "3812-L.-Randall-Bishop-Atty-at-Law",
+    "committeeName": "L. Randall Bishop, Atty at Law",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3812,
+        "committeeName": "L. Randall Bishop, Atty at Law",
+        "committeeAddress": "1631 Zimmerman Tr., Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2014",
+        "amendedDate": 1417158000000,
+        "entityFullName": "L. Randall Bishop, Atty at Law",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bishop, Randall L",
+                "address": "1631 Zimmerman Tr. Billings, MT  59102",
+                "phone": "(406) 670-9394",
+                "email": "randy@bishopandheenan.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Justice Mike Wheat",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

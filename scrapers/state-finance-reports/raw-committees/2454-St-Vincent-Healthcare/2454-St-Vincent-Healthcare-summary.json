@@ -1,0 +1,43 @@
+{
+    "slug": "2454-St-Vincent-Healthcare",
+    "committeeName": "St Vincent Healthcare",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 2454,
+        "committeeName": "St Vincent Healthcare",
+        "committeeAddress": "1106 N. 30th, Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1272313857000,
+        "entityFullName": "St Vincent Healthcare",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Irion, David",
+                "address": "1106 N 36th Billings, MT  59101",
+                "phone": "",
+                "email": "david.irion@svh-mt.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Yes for Kids - School Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "slug": "1924-American-Cancer-Society-Great-West-Division",
+    "committeeName": "American Cancer Society, Great West Division",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 1924,
+        "committeeName": "American Cancer Society, Great West Division",
+        "committeeAddress": "3550 Mullan Road Suite 105, Missoula, MT 59833",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1159888077000,
+        "entityFullName": "American Cancer Society, Great West Division",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "N/A",
+                "address": "3550 Mullan Rd., Ste. 105 Missoula, MT  59833",
+                "phone": "(406) 360-8752",
+                "email": "kristin.nei@cancer.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2883-Planned-Parenthood-of-the-Great-Northwest",
+    "committeeName": "Planned Parenthood of the Great Northwest",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2883,
+        "committeeName": "Planned Parenthood of the Great Northwest",
+        "committeeAddress": "2001 E. Madison St., Seattle, WA 98122",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1357852431000,
+        "entityFullName": "Planned Parenthood of the Great Northwest",
+        "entityCity": "Seattle",
+        "entityState": "WA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Floyd, Erica",
+                "address": "2001 E. Madison St. Seattle, WA  98122",
+                "phone": "",
+                "email": "erica.floyd@ppgnw.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

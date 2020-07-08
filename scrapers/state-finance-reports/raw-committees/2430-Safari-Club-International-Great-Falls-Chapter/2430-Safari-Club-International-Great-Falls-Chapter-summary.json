@@ -1,0 +1,43 @@
+{
+    "slug": "2430-Safari-Club-International-Great-Falls-Chapter",
+    "committeeName": "Safari Club International, Great Falls Chapter",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2430,
+        "committeeName": "Safari Club International, Great Falls Chapter",
+        "committeeAddress": "1112 9th St. S, Great Falls, MT 59405",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1269368684000,
+        "entityFullName": "Safari Club International, Great Falls Chapter",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hoyer, Bruce A.",
+                "address": "",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-160 Anti Trapping intiative",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

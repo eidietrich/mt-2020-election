@@ -1,0 +1,53 @@
+{
+    "slug": "5084-Montana-State-Afl-cio",
+    "committeeName": "Montana State Afl-cio",
+    "scrape_date": "2020-07-02",
+    "periods": 14,
+    "data": {
+        "committeeId": 5084,
+        "committeeName": "Montana State Afl-cio",
+        "committeeAddress": "810 Hialeah Ct., Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1485500400000,
+        "entityFullName": "Montana State Afl-cio",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ekblad, Alan D",
+                "address": "810 Hialeah Helena, MT  59601",
+                "phone": "(406) 442-1708",
+                "email": "lorri@mtaflcio.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Nyman, Quint",
+                "address": "P.O. Box 7465 Helena, MT  59624",
+                "phone": "(406) 442-1708",
+                "email": "lorri@mtaflcio.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Oppose Initiative 181",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Elect Melissa Romano",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Elect Governor Bullock",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

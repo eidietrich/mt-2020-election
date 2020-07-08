@@ -1,0 +1,43 @@
+{
+    "slug": "5832-BNSF-Railway-Company",
+    "committeeName": "BNSF Railway Company",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 5832,
+        "committeeName": "BNSF Railway Company",
+        "committeeAddress": "2500 Lou Menk Dr, Fort Worth, TX 76131",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1481785200000,
+        "entityFullName": "BNSF Railway Company",
+        "entityCity": "Fort Worth",
+        "entityState": "TX"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Lund, Roberta",
+                "address": "2500 Lou Menk Dr Fort Worth, TX  76131",
+                "phone": "(817) 352-2326",
+                "email": "roberta.lund2@bnsf.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Johnson, Michelle",
+                "address": "2500 Lou Menk Dr Fort Worth, TX  76131",
+                "phone": "(817) 352-2356",
+                "email": "michelle.johnson@bnsf.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To make contributions to independent expenditure committees for candidates and issues that affect the transportation industry.",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

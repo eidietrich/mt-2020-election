@@ -1,0 +1,37 @@
+{
+    "slug": "5086-We-Are-Real-Republicans-PAC",
+    "committeeName": "We Are Real Republicans PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 5086,
+        "committeeName": "We Are Real Republicans PAC",
+        "committeeAddress": "1801 Choteau, Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1517986800000,
+        "entityFullName": "We Are Real Republicans PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Holland, Bridget",
+                "address": "1801 Choteau Helena, MT  59601",
+                "phone": "(406) 431-7258",
+                "email": "bridgetholland@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

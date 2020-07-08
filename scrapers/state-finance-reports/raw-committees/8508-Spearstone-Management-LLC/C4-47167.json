@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 47167,
+        "fromDateStr": "03/24/2020",
+        "toDateStr": "03/28/2020",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 8508,
+        "candidateName": "Spearstone Management, LLC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/24/2020",
+        "end_date": "03/28/2020",
+        "receipts": 0.0,
+        "expenditures": 1000.0,
+        "cash_in_bank": -1000.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "03/24/20",
+            "Entity Name": "Montana First Action",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 6404",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59604",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 1000.0,
+            "Purpose": "Contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

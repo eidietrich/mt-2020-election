@@ -1,0 +1,43 @@
+{
+    "slug": "8883-MONTANA-FREEDOM-FUND",
+    "committeeName": "MONTANA FREEDOM FUND",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 8883,
+        "committeeName": "MONTANA FREEDOM FUND",
+        "committeeAddress": "90 W MADISON AVENUE, STE E-323, BELGRADE, MT 59714",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1590732000000,
+        "entityFullName": "MONTANA FREEDOM FUND",
+        "entityCity": "BELGRADE",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "DOZIER, JULIE",
+                "address": "90 W MADISON AVENUE, STE E-323 BELGRADE, MT  59714",
+                "phone": "",
+                "email": "JULIE@CROSBYOTT.COM"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Tim Fox",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2212-Lewis-&-Clark-Library-Public-Foundation",
+    "committeeName": "Lewis & Clark Library Public Foundation",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2212,
+        "committeeName": "Lewis & Clark Library Public Foundation",
+        "committeeAddress": "120 S. Last Chance Gulch, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1214235010000,
+        "entityFullName": "Lewis & Clark Library Public Foundation",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "N/A",
+                "address": "P.O Box 1699 Helena, MT  59624",
+                "phone": "(406) 449-7516",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Library Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

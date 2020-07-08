@@ -1,0 +1,37 @@
+{
+    "slug": "6335-Lincolns-for-Levies",
+    "committeeName": "Lincolns for Levies",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 6335,
+        "committeeName": "Lincolns for Levies",
+        "committeeAddress": "294 Triple Tree Rd, Bozeman, MT 59715",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2017",
+        "amendedDate": 1495432800000,
+        "entityFullName": "Lincolns for Levies",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Tage, Wendy K",
+                "address": "294 Triple Tree Rd Bozeman , MT  59715",
+                "phone": "(406) 586-9263",
+                "email": "Wendytage@yahoo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

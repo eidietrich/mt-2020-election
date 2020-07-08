@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 35221,
+        "fromDateStr": "03/31/2016",
+        "toDateStr": "04/29/2016",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 5468,
+        "candidateName": "St. Vincent Healthcare",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/31/2016",
+        "end_date": "04/29/2016",
+        "receipts": 0.0,
+        "expenditures": 10780.0,
+        "cash_in_bank": -10780.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "04/22/16",
+            "Entity Name": "Yes For Kids",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO 31177",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59107",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 10000.0,
+            "Purpose": "Donation to community group advocating to support school district 2 mill levy",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/29/16",
+            "Entity Name": "Yes For Kids",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO 31177",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59107",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 780.0,
+            "Purpose": "In-kind support includes staff time and meeting space",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

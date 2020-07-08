@@ -1,0 +1,43 @@
+{
+    "slug": "2723-Equal-Justice-Montana",
+    "committeeName": "Equal Justice Montana",
+    "scrape_date": "2020-07-01",
+    "periods": 8,
+    "data": {
+        "committeeId": 2723,
+        "committeeName": "Equal Justice Montana",
+        "committeeAddress": "PO Box 921 400 North California, Helena, MT 59601",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1322602433000,
+        "entityFullName": "Equal Justice Montana",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kuney, Lorna",
+                "address": "400 N California Helena, MT  59601",
+                "phone": "",
+                "email": "lorna@mt.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Lewing, Megan",
+                "address": "2525 Ferndale Lane #104 Helena, MT  59601",
+                "phone": "",
+                "email": "megan@mtsp.biz"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR119",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

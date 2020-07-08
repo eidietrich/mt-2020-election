@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 38228,
+        "fromDateStr": "09/21/2016",
+        "toDateStr": "11/03/2016",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 6242,
+        "candidateName": "Big Game Forever",
+        "statusDescr": "Amended",
+        "amendedDate": 1478196031000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/21/2016",
+        "end_date": "11/03/2016",
+        "receipts": 0.0,
+        "expenditures": 60000.0,
+        "cash_in_bank": -60000.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "09/21/16",
+            "Entity Name": "Montanans for Wildlife and Public Land Access",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 133",
+            "City": "Gildford",
+            "State": "MT",
+            "Zip": "59525",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 10000.0,
+            "Purpose": "Donation to Oppose I-177",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/26/16",
+            "Entity Name": "SRCP Media Inc Media",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "201 N Union St Suite 200",
+            "City": "Alexandria",
+            "State": "VA",
+            "Zip": "22314",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 50000.0,
+            "Purpose": "Purchase Media Time for Anti I-177 Campaign",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

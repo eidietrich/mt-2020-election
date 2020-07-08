@@ -1,0 +1,37 @@
+{
+    "slug": "1903-Kalispell-Apple-Inc.",
+    "committeeName": "Kalispell Apple, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 1903,
+        "committeeName": "Kalispell Apple, Inc.",
+        "committeeAddress": "2038 Overland Avenue, Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1158690081000,
+        "entityFullName": "Kalispell Apple, Inc.",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ballou, Timothy D.",
+                "address": "2038 Overland Avenue Billings, MT  59102",
+                "phone": "(406) 855-1874",
+                "email": "timappleburger@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

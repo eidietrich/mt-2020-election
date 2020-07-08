@@ -1,0 +1,37 @@
+{
+    "slug": "7185-Trust-for-Public-Land-Action-Fund-The",
+    "committeeName": "Trust for Public Land Action Fund, The",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 7185,
+        "committeeName": "Trust for Public Land Action Fund, The",
+        "committeeAddress": "6 Beacon Street, STE 615, Boston, MA 02108",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1530079200000,
+        "entityFullName": "Trust for Public Land Action Fund, The",
+        "entityCity": "Boston",
+        "entityState": "MA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Weinstein, David",
+                "address": "1007 E Main Street, STE 300 Bozeman, MT  59715",
+                "phone": "(406) 582-6248",
+                "email": "david.weinstein@tpl.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

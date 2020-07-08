@@ -1,0 +1,43 @@
+{
+    "slug": "2434-Montana-State-Houndsmen-Association",
+    "committeeName": "Montana State Houndsmen Association",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2434,
+        "committeeName": "Montana State Houndsmen Association",
+        "committeeAddress": "PO Box 925 800 Jefferson St. North, Three Forks, MT 59752",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1270651147000,
+        "entityFullName": "Montana State Houndsmen Association",
+        "entityCity": "Three Forks",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Deane, Mabel",
+                "address": "PO Box 925 Three Forks, MT  59752",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-160 Anti Trapping intiative",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

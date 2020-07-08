@@ -1,0 +1,43 @@
+{
+    "slug": "3953-Kym's-Upload-Test",
+    "committeeName": "Kym's Upload Test",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 3953,
+        "committeeName": "Kym's Upload Test",
+        "committeeAddress": "PO Box 456, Helena, MT 59602",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1449212400000,
+        "entityFullName": "Kym's Upload Test",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Trujillo, Kym",
+                "address": "PO Box 452 Helena, MT  59602",
+                "phone": "",
+                "email": "ktrujillo@mt.gov"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Electioneering communication",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "7539-Barrett-Hospital-&-HealthCare-Incidental-Committee-for-I-185",
+    "committeeName": "Barrett Hospital & HealthCare Incidental Committee for I-185",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7539,
+        "committeeName": "Barrett Hospital & HealthCare Incidental Committee for I-185",
+        "committeeAddress": "600 MT Hwy 91 S., Dillon, MT 59725",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1536127200000,
+        "entityFullName": "Barrett Hospital & HealthCare Incidental Committee for I-185",
+        "entityCity": "Dillon",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Achter, Richard J",
+                "address": "P.O. Box 1294 Dillon, MT  59725",
+                "phone": "(406) 683-3003",
+                "email": "dachter@barretthospital.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Passage of I 185",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "8426-DAGA-People's-Lawyer-Project-Montana",
+    "committeeName": "DAGA People's Lawyer Project Montana",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 8426,
+        "committeeName": "DAGA People's Lawyer Project Montana",
+        "committeeAddress": "PO Box 1452, Polson, MT 59860",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "Y",
+        "electionYear": "2000",
+        "amendedDate": 1592200800000,
+        "entityFullName": "DAGA People's Lawyer Project Montana",
+        "entityCity": "Polson",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Pickrell, Aaron",
+                "address": "PO Box 34445 Washington, DC  20005",
+                "phone": "",
+                "email": "compliancedagaplpmt@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Mielnik, Megan",
+                "address": "1350 I St NW Ste 300 Washington, DC  20005",
+                "phone": "(202) 470-3165",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Make independent expenditures in support of Democratic candidates for AG, and in opposition to Republican candidates for AG.",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

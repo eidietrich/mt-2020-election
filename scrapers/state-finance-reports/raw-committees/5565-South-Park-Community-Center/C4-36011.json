@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 36011,
+        "fromDateStr": "04/29/2016",
+        "toDateStr": "05/22/2016",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 5565,
+        "candidateName": "South Park Community Center",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/29/2016",
+        "end_date": "05/22/2016",
+        "receipts": 0.0,
+        "expenditures": 500.0,
+        "cash_in_bank": -500.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "05/17/16",
+            "Entity Name": "Yes for Yellowstone Elder Services",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 20481",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59104",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 500.0,
+            "Purpose": "Contribution to Yellowstone County Mill Levy CR16-19",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

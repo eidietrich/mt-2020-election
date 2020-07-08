@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 40075,
+        "fromDateStr": "01/01/2017",
+        "toDateStr": "03/03/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 250,
+        "candidateName": "Fergus County Republican Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/01/2017",
+        "end_date": "03/03/2018",
+        "receipts": 100.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 637.35
+    },
+    "contributions": [
+        {
+            "Date Paid": "05/12/17",
+            "Entity Name": "buy a chance to win",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "na",
+            "City": "Lewistown mt",
+            "State": "MT",
+            "Zip": "59457",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -100.0,
+            "Amount Type": "CA",
+            "Purpose": "fundraiser for 2018",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 100.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

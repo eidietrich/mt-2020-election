@@ -1,0 +1,58 @@
+{
+    "slug": "3347-Trial-Lawyers-Legislative-PAC",
+    "committeeName": "Trial Lawyers Legislative PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 29,
+    "data": {
+        "committeeId": 3347,
+        "committeeName": "Trial Lawyers Legislative PAC",
+        "committeeAddress": "PO Box 838, Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1539756000000,
+        "entityFullName": "Trial Lawyers Legislative PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Smith, Allen",
+                "address": "PO Box 338 Helena, MT  59624",
+                "phone": "(406) 439-3124",
+                "email": "mtla@mt.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Taylor, Mary",
+                "address": "PO Box 338 Helena, MT  59624",
+                "phone": "(406) 439-5024",
+                "email": "mtla@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "LR-128 6 Mill Levy",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Juli Pierce - MT 13th Jud. Dist., Dept #8",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Colette Davies - MT 13th Jud. Dist., Dept #7",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2897-B&H-Ranch-Co",
+    "committeeName": "B&H Ranch Co",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2897,
+        "committeeName": "B&H Ranch Co",
+        "committeeAddress": "501 Peterson Ranch Lane, Buffalo, MT 59418",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1361808399000,
+        "entityFullName": "B&H Ranch Co",
+        "entityCity": "Buffalo",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Peterson, Lorraine",
+                "address": "501 Peterson Ranch Ln Buffalo, MT  59418",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "MT BASE",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

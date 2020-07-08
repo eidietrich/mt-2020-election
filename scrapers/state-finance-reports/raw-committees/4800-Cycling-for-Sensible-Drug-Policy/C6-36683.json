@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 36683,
+        "fromDateStr": "07/02/2016",
+        "toDateStr": "07/31/2016",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 4800,
+        "candidateName": "Cycling for Sensible Drug Policy",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "07/02/2016",
+        "end_date": "07/31/2016",
+        "receipts": 0.0,
+        "expenditures": 69.65,
+        "cash_in_bank": 367.27
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "07/28/16",
+            "Entity Name": "Verizon Wireless",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 4005",
+            "City": "Acworth",
+            "State": "GA",
+            "Zip": "30101",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 69.65,
+            "Purpose": "Unlimited telephone and messaging service, 3 GB of data for emailing and social media",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

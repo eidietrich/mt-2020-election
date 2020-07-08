@@ -1,0 +1,228 @@
+{
+    "slug": "7121-Montana-Rural-Voters-Action-Fund",
+    "committeeName": "Montana Rural Voters Action Fund",
+    "scrape_date": "2020-07-02",
+    "periods": 7,
+    "data": {
+        "committeeId": 7121,
+        "committeeName": "Montana Rural Voters Action Fund",
+        "committeeAddress": "PO Box 414, Billings, MT 59103",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1568008800000,
+        "entityFullName": "Montana Rural Voters Action Fund",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Gulick, Ed",
+                "address": "3015 10th Avenue N Billings, MT  59101",
+                "phone": "",
+                "email": "edgulick47@alum.pomona.edu"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Berg, Paula",
+                "address": "27 Lapin St Billings, MT  59105",
+                "phone": "",
+                "email": "paula@mtruralaction.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Pat Flowers",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Paul Tuss",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Mary Ann Dunwell",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Nate McConnell",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Emma Kerr-Carpenter",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Anna Drew",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Tom Winter",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Clementine Lindley",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Tom McGillvray",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Moffie Funk",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Bryce Bennett",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jade Bahr",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kim Abbott",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Tom Woods",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Zac Perry",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Diane Sands",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Leesha Ford",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jessica Karjala",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "John Esp",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Tom Jacobson",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Amelia Marquez",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mary McNally",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bryher Herak",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Dan Vermillion",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Darryl Wilson",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Shane Morigeau",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Laura Dever",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "John Esp",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Darryl Wilson",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Marilyn Ryan",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Tom McGillvray",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Adam Rosendale",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Paul Tuss",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Betsy Scanlin",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Connie Keogh",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Laurie Bishop",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "JP Pomnichowski",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Adam Rosendale",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

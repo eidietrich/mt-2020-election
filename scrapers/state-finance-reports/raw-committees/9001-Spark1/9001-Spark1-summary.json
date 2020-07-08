@@ -1,0 +1,37 @@
+{
+    "slug": "9001-Spark1",
+    "committeeName": "Spark1",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 9001,
+        "committeeName": "Spark1",
+        "committeeAddress": "1008 N 7th Ave Ste D, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1593496800000,
+        "entityFullName": "Spark1",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bartlett, Danielle",
+                "address": "1008 N 7th Ave Ste D Bozeman, MT  59715",
+                "phone": "(406) 219-3883",
+                "email": "office@spark1mt.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

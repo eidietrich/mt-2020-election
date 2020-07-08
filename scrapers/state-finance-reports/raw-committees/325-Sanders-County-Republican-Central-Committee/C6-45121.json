@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 45121,
+        "fromDateStr": "11/17/2018",
+        "toDateStr": "12/12/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 325,
+        "candidateName": "Sanders County Republican Central Committee",
+        "statusDescr": "Amended",
+        "amendedDate": 1590694383000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/17/2018",
+        "end_date": "12/12/2018",
+        "receipts": 0.0,
+        "expenditures": 531.98,
+        "cash_in_bank": 1052.42
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/21/18",
+            "Entity Name": "Yellowstone County News",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P. O. Box 130",
+            "City": "Huntley",
+            "State": "MT",
+            "Zip": "59037",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 531.98,
+            "Purpose": "Website set-up, domain name, and 1st year administration for Sanders County Sentinel",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2528-Planned-Parenthood-of-South-Florida-and-the-Treasure-Coast",
+    "committeeName": "Planned Parenthood of South Florida and the Treasure Coast",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2528,
+        "committeeName": "Planned Parenthood of South Florida and the Treasure Coast",
+        "committeeAddress": "2300 N Florida Mango Rd, West Palm Beach, FL 33409",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1278961621000,
+        "entityFullName": "Planned Parenthood of South Florida and the Treasure Coast",
+        "entityCity": "West Palm Beach",
+        "entityState": "FL"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Selzer, Judith",
+                "address": "2300 N Florida Mango Rd West Palm Beach, FL  33409",
+                "phone": "",
+                "email": "judith.selzer@ppsoflo.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI-102 Constitutionaly define a person",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

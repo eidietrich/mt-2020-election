@@ -1,0 +1,43 @@
+{
+    "slug": "6415-Southeastern-Montana-Democratic-Association",
+    "committeeName": "Southeastern Montana Democratic Association",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6415,
+        "committeeName": "Southeastern Montana Democratic Association",
+        "committeeAddress": "P O Box 578, Miles City, MT 59301",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1508220000000,
+        "entityFullName": "Southeastern Montana Democratic Association",
+        "entityCity": "Miles City",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Mischel, Pat",
+                "address": "47 Road 261 Glendive, MT  59330",
+                "phone": "(406) 377-6690",
+                "email": "pmischel@midrivers.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Our mission is to elect Democratic candidates in Southeastern MT communities, host speakers and educate, network, have structure that supports rural Democrats",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "slug": "7469-BNSF-Railway-Company",
+    "committeeName": "BNSF Railway Company",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 7469,
+        "committeeName": "BNSF Railway Company",
+        "committeeAddress": "2500 Lou Menk Drive, Fort Worth, TX 76131",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1535522400000,
+        "entityFullName": "BNSF Railway Company",
+        "entityCity": "Fort Worth",
+        "entityState": "TX"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Lund, Roberta",
+                "address": "2500 Lou Menk Drive Fort Worth, TX  76131",
+                "phone": "(817) 352-2326",
+                "email": "roberta.lund2@bnsf.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Alt, Michelle",
+                "address": "2500 Lou Menk Drive Fort Worth, TX  76131",
+                "phone": "(817) 352-2356",
+                "email": "michelle.alt@bnsf.com"
+            }
+        ],
+        "issues": []
+    }
+}

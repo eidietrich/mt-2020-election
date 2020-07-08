@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 40310,
+        "fromDateStr": "10/02/2017",
+        "toDateStr": "04/26/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7062,
+        "candidateName": "AHA for Healthy Montana",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/02/2017",
+        "end_date": "04/26/2018",
+        "receipts": 0.0,
+        "expenditures": 2453.09,
+        "cash_in_bank": -2453.09
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "04/26/18",
+            "Entity Name": "Healthy Montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO BoX 1614",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2453.09,
+            "Purpose": "In-kind staff time support. See attachment submitted to Kym Trujillo.",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

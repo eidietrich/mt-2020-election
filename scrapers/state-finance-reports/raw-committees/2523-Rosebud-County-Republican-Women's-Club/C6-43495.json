@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 43495,
+        "fromDateStr": "02/01/2018",
+        "toDateStr": "10/22/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 2523,
+        "candidateName": "Rosebud County Republican Women's Club",
+        "statusDescr": "Amended",
+        "amendedDate": 1588260700000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "02/01/2018",
+        "end_date": "10/22/2018",
+        "receipts": 0.0,
+        "expenditures": 799.0,
+        "cash_in_bank": 5142.15
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "08/16/18",
+            "Entity Name": "Hoff, Lana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1076 ",
+            "City": "Forsyth",
+            "State": "MT",
+            "Zip": "59327",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 299.0,
+            "Purpose": "reimburse for GOP 6/2018 convention registration fee of 299 for one person",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/02/18",
+            "Entity Name": "Matt for Montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 4907",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59604",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 500.0,
+            "Purpose": "Campaign Contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

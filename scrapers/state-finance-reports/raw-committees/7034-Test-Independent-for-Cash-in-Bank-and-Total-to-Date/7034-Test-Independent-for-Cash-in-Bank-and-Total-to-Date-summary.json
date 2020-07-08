@@ -1,0 +1,37 @@
+{
+    "slug": "7034-Test-Independent-for-Cash-in-Bank-and-Total-to-Date",
+    "committeeName": "Test Independent for Cash in Bank and Total to Date",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 7034,
+        "committeeName": "Test Independent for Cash in Bank and Total to Date",
+        "committeeAddress": "Test, Test, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1523340000000,
+        "entityFullName": "Test Independent for Cash in Bank and Total to Date",
+        "entityCity": "Test",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Test, Test",
+                "address": "Test Test, MT  59601",
+                "phone": "",
+                "email": "nhoran2@mt.gov"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

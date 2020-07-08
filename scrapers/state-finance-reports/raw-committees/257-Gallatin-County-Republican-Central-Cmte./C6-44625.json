@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 44625,
+        "fromDateStr": "10/29/2018",
+        "toDateStr": "11/21/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 257,
+        "candidateName": "Gallatin County Republican Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/29/2018",
+        "end_date": "11/21/2018",
+        "receipts": 0.0,
+        "expenditures": 77.53,
+        "cash_in_bank": 13968.54
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/08/18",
+            "Entity Name": "Sentry Storage",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "103 W Missoula",
+            "City": "Belgrade",
+            "State": "MT",
+            "Zip": "59714",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 45.0,
+            "Purpose": "Nov rent for storage space",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "11/18/18",
+            "Entity Name": "Vonage America",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "23 Main St",
+            "City": "Holmdel",
+            "State": "NJ",
+            "Zip": "07733",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 32.53,
+            "Purpose": "VOI phone service for one month",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

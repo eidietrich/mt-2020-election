@@ -1,0 +1,37 @@
+{
+    "slug": "2014-Food-Services-of-America-Inc.",
+    "committeeName": "Food Services of America, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2014,
+        "committeeName": "Food Services of America, Inc.",
+        "committeeAddress": "PO Box 20997, Billings, MT 59104",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1165093142000,
+        "entityFullName": "Food Services of America, Inc.",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Stone, John D.",
+                "address": "PO Box 20997 Billings, MT  59104--997",
+                "phone": "(406) 652-2802",
+                "email": "john_stone@fsafood.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

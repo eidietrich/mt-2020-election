@@ -1,7 +1,7 @@
 {
     "slug": "8706-Idaho-Forest-Group-2020-Incidental-Committee",
     "committeeName": "Idaho Forest Group 2020 Incidental Committee",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 1,
     "data": {
         "committeeId": 8706,
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 1,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 5000.0,
-        "num_expenditures": 1,
-        "expenditures_19_20": 5000.0,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": -5000.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ehlert, Andy",
+                "address": "162 Old Mill Loop St. Regis, MT  59866",
+                "phone": "(406) 649-7252",
+                "email": "andy.ehlert@idfg.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Luther, Jessie",
+                "address": "1 S. Montana Ave., Ste. M-2 Helena, MT  59601",
+                "phone": "(406) 441-4871",
+                "email": "jessie@taylorluthergroup.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "made contribution to MT Business PAC",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
     }
 }

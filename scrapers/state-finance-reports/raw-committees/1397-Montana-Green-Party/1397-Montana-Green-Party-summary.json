@@ -1,0 +1,37 @@
+{
+    "slug": "1397-Montana-Green-Party",
+    "committeeName": "Montana Green Party",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 1397,
+        "committeeName": "Montana Green Party",
+        "committeeAddress": "1925 Dixon Ave, Missoula, MT 59801",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1526018400000,
+        "entityFullName": "Montana Green Party",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wolfe, Cheryl",
+                "address": "608  16th Ave E Polson, MT  59860",
+                "phone": "(406) 883-2322",
+                "email": "kuhlwolf@centurytel.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Hoving, Harry C",
+                "address": "2518 Golden Blvd Billings, MT  59102",
+                "phone": "(406) 656-0302",
+                "email": "hhoving@yahoo.com"
+            }
+        ],
+        "issues": []
+    }
+}

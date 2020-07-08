@@ -1,0 +1,43 @@
+{
+    "slug": "281-Laurel-Democratic-Club",
+    "committeeName": "Laurel Democratic Club",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 281,
+        "committeeName": "Laurel Democratic Club",
+        "committeeAddress": "PO Box 161, Laurel, MT 59044",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1470117600000,
+        "entityFullName": "Laurel Democratic Club",
+        "entityCity": "Laurel",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Thompson, Keith",
+                "address": "1209 Lewis Ave Billings, MT  59102",
+                "phone": "(406) 248-8557",
+                "email": "keiththompson1940@yahoo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To support and promote the principles, ideals and candidates of the Democratic Party.",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

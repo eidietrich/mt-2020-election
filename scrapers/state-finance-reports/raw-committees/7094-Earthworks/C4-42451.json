@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 42451,
+        "fromDateStr": "05/31/2018",
+        "toDateStr": "06/29/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7094,
+        "candidateName": "Earthworks ",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/31/2018",
+        "end_date": "06/29/2018",
+        "receipts": 0.0,
+        "expenditures": 603.64,
+        "cash_in_bank": -1569.74
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "06/29/18",
+            "Entity Name": "Yes for Responsible Mining ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1524",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59403",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 603.64,
+            "Purpose": "In support of I-186; Bonnie Gestring staff time for outreach and strategy. ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

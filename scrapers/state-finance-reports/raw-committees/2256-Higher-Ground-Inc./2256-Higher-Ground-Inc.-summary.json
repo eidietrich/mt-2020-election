@@ -1,0 +1,43 @@
+{
+    "slug": "2256-Higher-Ground-Inc.",
+    "committeeName": "Higher Ground, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2256,
+        "committeeName": "Higher Ground, Inc.",
+        "committeeAddress": "PO Box 1393, Hamilton, MT 59840",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1219444559000,
+        "entityFullName": "Higher Ground, Inc.",
+        "entityCity": "Hamilton",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Floyd, Daniel",
+                "address": "PO Box 1240 Victor, MT  59875",
+                "phone": "",
+                "email": "danf556356@aol.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Ravalli County Growth Policy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "slug": "5796-LCV-Political-Engagement-Fund",
+    "committeeName": "LCV Political Engagement Fund",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 5796,
+        "committeeName": "LCV Political Engagement Fund",
+        "committeeAddress": "1920 L Street NW, Suite 800, Washington DC, DC 20036",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1475215200000,
+        "entityFullName": "LCV Political Engagement Fund",
+        "entityCity": "Washington DC",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Collins, Patrick",
+                "address": "1920 L Street NW, Suite 800 Washington, DC  20036",
+                "phone": "(202) 785-8683",
+                "email": "patrick_collins@lcv.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "pro-environment political action committees in states across the country, including Montana.",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "LCV Political Engagement Fund is an out-of-state organization that provides incidental support including monetary contributions to non-candidate",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

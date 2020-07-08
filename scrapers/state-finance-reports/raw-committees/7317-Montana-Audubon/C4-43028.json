@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 43028,
+        "fromDateStr": "08/28/2018",
+        "toDateStr": "09/26/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7317,
+        "candidateName": "Montana Audubon",
+        "statusDescr": "Amended",
+        "amendedDate": 1552074665000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "08/28/2018",
+        "end_date": "09/26/2018",
+        "receipts": 0.0,
+        "expenditures": 277.02,
+        "cash_in_bank": -639.98
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "09/26/18",
+            "Entity Name": "Montana Audubon",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "324 Fuller Ave  #N5",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 10.26,
+            "Purpose": "Office overhead to support I-186",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/26/18",
+            "Entity Name": "Montana Audubon",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "324 Fuller Ave  #N5",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 266.76,
+            "Purpose": "In-kind contribution of staff time/ expenses for 9.5 hrs for member outreach (7.5 hrs Amy Seaman;2 hrs David Cronenwett) ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "7414-RAI-Services-Company",
+    "committeeName": "RAI Services Company",
+    "scrape_date": "2020-07-02",
+    "periods": 6,
+    "data": {
+        "committeeId": 7414,
+        "committeeName": "RAI Services Company",
+        "committeeAddress": "401 North Main Street, Winston-Salem, NC 27101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1543215600000,
+        "entityFullName": "RAI Services Company",
+        "entityCity": "Winston-Salem",
+        "entityState": "NC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hogan, John",
+                "address": "401 North Main Street Winston-Salem, NC  27101",
+                "phone": "(336) 741-2000",
+                "email": "RAISCMontana@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-185",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

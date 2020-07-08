@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 38013,
+        "fromDateStr": "05/28/2016",
+        "toDateStr": "10/27/2016",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 5461,
+        "candidateName": "Lewis, Slovak Kovacich & Snipes PC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/28/2016",
+        "end_date": "10/27/2016",
+        "receipts": 0.0,
+        "expenditures": 794.69,
+        "cash_in_bank": -1523.48
+    },
+    "contributions": [],
+    "expenditures": []
+}

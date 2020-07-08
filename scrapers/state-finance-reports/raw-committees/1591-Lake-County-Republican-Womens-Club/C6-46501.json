@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 46501,
+        "fromDateStr": "01/01/2017",
+        "toDateStr": "11/21/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 1591,
+        "candidateName": "Lake County Republican Womens Club",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/01/2017",
+        "end_date": "11/21/2018",
+        "receipts": 0.0,
+        "expenditures": 2904.86,
+        "cash_in_bank": 1914.34
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/21/18",
+            "Entity Name": "COPP Admin",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "NA",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59620",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2904.86,
+            "Purpose": "To get balance correct, from paper filing so Cmte can using CERS system",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

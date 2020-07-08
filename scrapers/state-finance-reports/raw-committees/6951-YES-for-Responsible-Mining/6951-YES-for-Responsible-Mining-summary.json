@@ -1,0 +1,37 @@
+{
+    "slug": "6951-YES-for-Responsible-Mining",
+    "committeeName": "YES for Responsible Mining",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 6951,
+        "committeeName": "YES for Responsible Mining",
+        "committeeAddress": "P.O. Box 1524, Great Falls, MT 59403",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1539064800000,
+        "entityFullName": "YES for Responsible Mining",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Evenson, Kirk D.",
+                "address": "P.O. Box 1524 Great Falls, MT  59403",
+                "phone": "(406) 268-1000",
+                "email": "kirk@troutmontana.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

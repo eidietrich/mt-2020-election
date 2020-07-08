@@ -1,0 +1,48 @@
+{
+    "slug": "7037-Mineral-Community-Hospital-Incidental-Committee",
+    "committeeName": "Mineral Community Hospital Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7037,
+        "committeeName": "Mineral Community Hospital Incidental Committee",
+        "committeeAddress": "PO Box 66, Superior, MT 59872",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1523599200000,
+        "entityFullName": "Mineral Community Hospital Incidental Committee",
+        "entityCity": "Superior",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Case, Clifford P",
+                "address": "PO Box 66 Superior, MT  59872",
+                "phone": "(406) 822-3709",
+                "email": "ccase@mchospital.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Contribution made to support ballot initiative to increase tobacco taxes to support health care programs",
+                "position": "Support",
+                "status": "Not on ballot"
+            },
+            {
+                "interest": "contribution made to ballot initiative to increase tobacco taxes to help fund certain health care programs",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

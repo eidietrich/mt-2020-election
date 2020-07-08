@@ -1,0 +1,37 @@
+{
+    "slug": "2103-Dickstein-Shapiro-LLP",
+    "committeeName": "Dickstein Shapiro, LLP",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2103,
+        "committeeName": "Dickstein Shapiro, LLP",
+        "committeeAddress": "1825 Eye St. NW, NW Washington, DC 20006",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1190304034000,
+        "entityFullName": "Dickstein Shapiro, LLP",
+        "entityCity": "NW Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Haslick, Terence",
+                "address": "1825 Eye Street NW Washington, DC  20006",
+                "phone": "(240) 463-2369",
+                "email": "haslickt@dicksteinshapiro.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

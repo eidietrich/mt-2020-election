@@ -1,0 +1,43 @@
+{
+    "slug": "2868-Planned-Parenthood-of-West-and-Northern-Michigan",
+    "committeeName": "Planned Parenthood of West and Northern Michigan",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2868,
+        "committeeName": "Planned Parenthood of West and Northern Michigan",
+        "committeeAddress": "425 Cherry Street SE, Grand Rapids, MI 49503",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1357844430000,
+        "entityFullName": "Planned Parenthood of West and Northern Michigan",
+        "entityCity": "Grand Rapids",
+        "entityState": "MI"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Nemecek Harmelink, Laura",
+                "address": "425 Cherry Street SE Grand Rapids, MI  49503",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

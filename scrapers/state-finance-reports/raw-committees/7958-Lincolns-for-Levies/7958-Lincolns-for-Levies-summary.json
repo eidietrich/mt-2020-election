@@ -1,0 +1,48 @@
+{
+    "slug": "7958-Lincolns-for-Levies",
+    "committeeName": "Lincolns for Levies ",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7958,
+        "committeeName": "Lincolns for Levies ",
+        "committeeAddress": "294 Triple Tree Rd, Bozeman, MT 59715",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2019",
+        "amendedDate": 1558418400000,
+        "entityFullName": "Lincolns for Levies ",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Tage, Wendy",
+                "address": "294 Triple Tree Rd Bozeman, MT  59715",
+                "phone": "(406) 579-1143",
+                "email": "lincolnsforlevies@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Elementary General Fund Levy",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Elementary Building Reserve Levy ",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

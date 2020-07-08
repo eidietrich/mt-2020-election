@@ -1,0 +1,43 @@
+{
+    "slug": "3782-Linnell-Newhall-Martin-&-Schulke-P.C.",
+    "committeeName": "Linnell, Newhall, Martin & Schulke, P.C.",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 3782,
+        "committeeName": "Linnell, Newhall, Martin & Schulke, P.C.",
+        "committeeAddress": "PO Box 2629, Great Falls, MT 59403",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1417158000000,
+        "entityFullName": "Linnell, Newhall, Martin & Schulke, P.C.",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Tempel-St. John, Stacy",
+                "address": "PO Box 2629 Great Falls, MT  59403",
+                "phone": "(406) 453-4500",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Newhall, Norman L",
+                "address": "PO Box 2629 Great Falls, MT  59403",
+                "phone": "(406) 453-4500",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Justice Mike Wheat",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

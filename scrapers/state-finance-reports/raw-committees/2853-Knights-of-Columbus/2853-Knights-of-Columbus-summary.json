@@ -1,0 +1,43 @@
+{
+    "slug": "2853-Knights-of-Columbus",
+    "committeeName": "Knights of Columbus",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2853,
+        "committeeName": "Knights of Columbus",
+        "committeeAddress": "One Columbus Plaza, New Haven, CT 06510",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1352915536000,
+        "entityFullName": "Knights of Columbus",
+        "entityCity": "New Haven",
+        "entityState": "CT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Maurer, Charles, Jr. E.",
+                "address": "Knights of Columbus, One Columbus Plaza New Haven, CT  06510-3326",
+                "phone": "",
+                "email": "charles.maurer@kofc.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Tracz, Ronald",
+                "address": "Knights of Columbus, One Columbus Plaza New Haven, CT  06510-3326",
+                "phone": "",
+                "email": "ron.tracz@kofc.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

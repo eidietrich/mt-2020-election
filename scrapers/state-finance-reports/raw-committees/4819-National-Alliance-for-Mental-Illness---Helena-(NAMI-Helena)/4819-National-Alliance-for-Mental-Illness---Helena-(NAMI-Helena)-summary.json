@@ -1,0 +1,43 @@
+{
+    "slug": "4819-National-Alliance-for-Mental-Illness---Helena-(NAMI-Helena)",
+    "committeeName": "National Alliance for Mental Illness - Helena (NAMI-Helena)",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 4819,
+        "committeeName": "National Alliance for Mental Illness - Helena (NAMI-Helena)",
+        "committeeAddress": "PO Box 401, Helena, MT 59624",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2015",
+        "amendedDate": 1450076400000,
+        "entityFullName": "National Alliance for Mental Illness - Helena (NAMI-Helena)",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Noel, Mary",
+                "address": "PO Box 401 Helena, MT  59624",
+                "phone": "(406) 439-8536",
+                "email": "sawmillcreek@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Advocates for Smarter Public Safety",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

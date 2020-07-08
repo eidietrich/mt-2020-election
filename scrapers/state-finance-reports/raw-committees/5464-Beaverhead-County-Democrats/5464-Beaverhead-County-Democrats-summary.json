@@ -1,0 +1,37 @@
+{
+    "slug": "5464-Beaverhead-County-Democrats",
+    "committeeName": "Beaverhead County Democrats",
+    "scrape_date": "2020-07-02",
+    "periods": 21,
+    "data": {
+        "committeeId": 5464,
+        "committeeName": "Beaverhead County Democrats",
+        "committeeAddress": "P.O. Box 1311, Dillon, MT 59725",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1520492400000,
+        "entityFullName": "Beaverhead County Democrats",
+        "entityCity": "Dillon",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Roscoe, James",
+                "address": "616 E. Center St. Dillon, MT  59725",
+                "phone": "(406) 660-0636",
+                "email": "jrfencefix@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

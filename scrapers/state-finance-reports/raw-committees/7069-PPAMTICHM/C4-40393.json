@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 40393,
+        "fromDateStr": "03/28/2018",
+        "toDateStr": "04/26/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7069,
+        "candidateName": "PPAMTICHM",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/28/2018",
+        "end_date": "04/26/2018",
+        "receipts": 0.0,
+        "expenditures": 2942.66,
+        "cash_in_bank": -2942.66
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "04/26/18",
+            "Entity Name": "planned parenthood advocates of montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1116 Grand Ave., Ste. 201",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59102",
+            "Zip4": "",
+            "Expenditure Type": "Debts and Loans Not Yet Paid",
+            "Amount": 2942.66,
+            "Purpose": "Salaries",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/26/18",
+            "Entity Name": "planned parenthood advocates of montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1116 Grand Ave., Ste. 201",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59102",
+            "Zip4": "",
+            "Expenditure Type": "Debt and Loan Payment",
+            "Amount": 2942.66,
+            "Purpose": "",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

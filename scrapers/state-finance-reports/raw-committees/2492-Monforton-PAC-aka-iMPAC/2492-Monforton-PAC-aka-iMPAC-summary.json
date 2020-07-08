@@ -1,0 +1,43 @@
+{
+    "slug": "2492-Monforton-PAC-aka-iMPAC",
+    "committeeName": "Monforton PAC aka iMPAC",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2492,
+        "committeeName": "Monforton PAC aka iMPAC",
+        "committeeAddress": "4572 Monforton School Road, Bozeman, MT 59718",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1275930192000,
+        "entityFullName": "Monforton PAC aka iMPAC",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Galvin, Adam",
+                "address": "4572 Monforton School Rd Bozeman, MT  59718",
+                "phone": "",
+                "email": "adam_galvin@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Johnson, Katharine",
+                "address": "180 Cedar Wood Circle Bozeman, MT  59718",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Monforton School Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "1652-Republican-State-Leadership-Committee-Montana-PAC",
+    "committeeName": "Republican State Leadership Committee-Montana PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 29,
+    "data": {
+        "committeeId": 1652,
+        "committeeName": "Republican State Leadership Committee-Montana PAC",
+        "committeeAddress": "1201 F Street NW  Suite 675, Washington, DC 20004",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1472709600000,
+        "entityFullName": "Republican State Leadership Committee-Montana PAC",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Fisher , Tonia",
+                "address": "104 W 2nd Ave N Columbus, MT  59019",
+                "phone": "(406) 656-9557",
+                "email": "toniafisherclarkmt@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Republican efforts in the State of Montana",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

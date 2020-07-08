@@ -1,0 +1,37 @@
+{
+    "slug": "2962-Montanans-for-Effective-Wildlife-Management",
+    "committeeName": "Montanans for Effective Wildlife Management",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 2962,
+        "committeeName": "Montanans for Effective Wildlife Management",
+        "committeeAddress": "PO Box 133 241131 Rd 133, Gildford, MT 59525",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2014",
+        "amendedDate": 1458799200000,
+        "entityFullName": "Montanans for Effective Wildlife Management",
+        "entityCity": "Gildford",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

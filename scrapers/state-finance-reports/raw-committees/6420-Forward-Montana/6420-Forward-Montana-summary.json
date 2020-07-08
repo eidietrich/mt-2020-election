@@ -1,0 +1,43 @@
+{
+    "slug": "6420-Forward-Montana",
+    "committeeName": "Forward Montana",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 6420,
+        "committeeName": "Forward Montana",
+        "committeeAddress": "136 E Broadway St, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2017",
+        "amendedDate": 1510815600000,
+        "entityFullName": "Forward Montana",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Matt, Kelly",
+                "address": "136 E Broadway St Missoula, MT  59802",
+                "phone": "",
+                "email": "rachel@forwardmontana.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Rachel, Huff-Doria",
+                "address": "136 E Broadway St Missoul, MT  59802",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Annual Voter Guide",
+                "position": "Other",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

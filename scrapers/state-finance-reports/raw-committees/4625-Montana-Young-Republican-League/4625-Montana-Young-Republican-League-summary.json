@@ -1,0 +1,37 @@
+{
+    "slug": "4625-Montana-Young-Republican-League",
+    "committeeName": "Montana Young Republican League",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 4625,
+        "committeeName": "Montana Young Republican League",
+        "committeeAddress": "3217 Cabernet Dr, Helena, MT 59601",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1441000800000,
+        "entityFullName": "Montana Young Republican League",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

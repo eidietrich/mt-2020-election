@@ -1,0 +1,48 @@
+{
+    "slug": "4800-Cycling-for-Sensible-Drug-Policy",
+    "committeeName": "Cycling for Sensible Drug Policy",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 4800,
+        "committeeName": "Cycling for Sensible Drug Policy",
+        "committeeAddress": "311 Juniper Ave. , Glendive, MT 59330",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1469772000000,
+        "entityFullName": "Cycling for Sensible Drug Policy",
+        "entityCity": "Glendive",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Varriano, Anthony",
+                "address": "311 Juniper Ave. Glendive, MT  59330",
+                "phone": "",
+                "email": "legalizemontana@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI-115",
+                "position": "Support",
+                "status": "Not on ballot"
+            },
+            {
+                "interest": "I-178",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

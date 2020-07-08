@@ -1,0 +1,37 @@
+{
+    "slug": "8124-Montana-Teachers-for-Student-Safety-(disband)",
+    "committeeName": "Montana Teachers for Student Safety (disband)",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 8124,
+        "committeeName": "Montana Teachers for Student Safety (disband)",
+        "committeeAddress": "PO Box 9763, Kalispell, MT 59904",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1582786800000,
+        "entityFullName": "Montana Teachers for Student Safety (disband)",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Regier, Matt K",
+                "address": "PO Box 9763 Kalispell, MT  59904",
+                "phone": "",
+                "email": "mattregierhd4@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

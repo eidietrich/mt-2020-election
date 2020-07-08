@@ -1,0 +1,53 @@
+{
+    "slug": "425-Montana-Law-PAC",
+    "committeeName": "Montana Law-PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 30,
+    "data": {
+        "committeeId": 425,
+        "committeeName": "Montana Law-PAC",
+        "committeeAddress": "Po Box 838, Helena, MT 59624",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "Y",
+        "electionYear": "2000",
+        "amendedDate": 1590991200000,
+        "entityFullName": "Montana Law-PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Smith Jr, Allen",
+                "address": "P.o. Box 838 Helena, MT  59624",
+                "phone": "(406) 443-4548",
+                "email": "mtla@mt.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Taylor, Mary C",
+                "address": "Po Box 838 Helena, MT  59601",
+                "phone": "(406) 442-9867",
+                "email": "mtla@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Mike Cooney",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system. ",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": " Laurie McKinnon",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

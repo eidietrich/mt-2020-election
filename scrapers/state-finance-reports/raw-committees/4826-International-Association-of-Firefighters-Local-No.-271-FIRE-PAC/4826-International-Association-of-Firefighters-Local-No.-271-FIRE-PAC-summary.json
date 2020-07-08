@@ -1,0 +1,58 @@
+{
+    "slug": "4826-International-Association-of-Firefighters-Local-No.-271-FIRE-PAC",
+    "committeeName": "International Association of Firefighters Local No. 271 FIRE PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 6,
+    "data": {
+        "committeeId": 4826,
+        "committeeName": "International Association of Firefighters Local No. 271 FIRE PAC",
+        "committeeAddress": "625 E Pine St, Missoula, MT 59802",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1583391600000,
+        "entityFullName": "International Association of Firefighters Local No. 271 FIRE PAC",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Gaertig, Joel j",
+                "address": "625 E. Pine  Missoula , MT  59802",
+                "phone": "(406) 552-6210",
+                "email": "jgaertig@ci.missoula.mt.us"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Lisa Triepke Missoula Mayor ",
+                "position": "Monitor",
+                "status": "On ballot, defeated"
+            },
+            {
+                "interest": "Steve Bullock - Governor",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "John Engen Missoula Mayor",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "stacie anderson ",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

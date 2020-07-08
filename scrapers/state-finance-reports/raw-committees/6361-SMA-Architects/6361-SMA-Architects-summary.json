@@ -1,0 +1,43 @@
+{
+    "slug": "6361-SMA-Architects",
+    "committeeName": "SMA Architects",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6361,
+        "committeeName": "SMA Architects",
+        "committeeAddress": "2625 Winne Avenue, Suite 1, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1500012000000,
+        "entityFullName": "SMA Architects",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Meldrum, Tim",
+                "address": "2625 Winne Avenue, Suite 1 Helena, MT  59601",
+                "phone": "(406) 442-4933",
+                "email": "timm@architects-sma.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Yes for Helena's Future",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

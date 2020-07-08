@@ -1,0 +1,37 @@
+{
+    "slug": "6098-Test-PAC-for-C7E",
+    "committeeName": "Test PAC for C7E",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6098,
+        "committeeName": "Test PAC for C7E",
+        "committeeAddress": "dsfads, asdfasf, MT 59000",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1476770400000,
+        "entityFullName": "Test PAC for C7E",
+        "entityCity": "asdfasf",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "asdfasd, sdafsad",
+                "address": "sadf sdf, MT  59000",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

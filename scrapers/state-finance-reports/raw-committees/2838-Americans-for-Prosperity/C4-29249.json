@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 29249,
+        "fromDateStr": "10/26/2012",
+        "toDateStr": "11/19/2012",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 2838,
+        "candidateName": "Americans for Prosperity",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/26/2012",
+        "end_date": "11/19/2012",
+        "receipts": 0.0,
+        "expenditures": 479.0,
+        "cash_in_bank": -61925.2
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/29/12",
+            "Entity Name": "Big Splash Productions",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Box 991",
+            "City": "Newbury Park",
+            "State": "CA",
+            "Zip": "91319",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 479.0,
+            "Purpose": "Production of internet video in support of ballot measure",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

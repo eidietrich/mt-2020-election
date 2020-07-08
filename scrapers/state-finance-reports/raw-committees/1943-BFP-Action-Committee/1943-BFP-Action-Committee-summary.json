@@ -1,0 +1,37 @@
+{
+    "slug": "1943-BFP-Action-Committee",
+    "committeeName": "BFP Action Committee",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 1943,
+        "committeeName": "BFP Action Committee",
+        "committeeAddress": "2343 Meridian Road, Victor, MT 59875",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1160604678000,
+        "entityFullName": "BFP Action Committee",
+        "entityCity": "Victor",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Taylor, Phillip R.",
+                "address": "2343 Meridian Road Victor, MT  59875-9663",
+                "phone": "(406) 642-3289",
+                "email": "chip3@rkymtn.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

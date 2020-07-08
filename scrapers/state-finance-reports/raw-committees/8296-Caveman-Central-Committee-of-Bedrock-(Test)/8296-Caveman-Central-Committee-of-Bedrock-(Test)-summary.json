@@ -1,0 +1,37 @@
+{
+    "slug": "8296-Caveman-Central-Committee-of-Bedrock-(Test)",
+    "committeeName": "Caveman Central Committee of Bedrock (Test)",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 8296,
+        "committeeName": "Caveman Central Committee of Bedrock (Test)",
+        "committeeAddress": "PO Box 5695, Bedrock, MT 59996",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1579590000000,
+        "entityFullName": "Caveman Central Committee of Bedrock (Test)",
+        "entityCity": "Bedrock",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wilma, Flinstone",
+                "address": "PO Box 6565 Bedrock, MT  56666",
+                "phone": "",
+                "email": "ktrujillo@mt.gov"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

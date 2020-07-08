@@ -1,0 +1,37 @@
+{
+    "slug": "1832-Environmental-Defense",
+    "committeeName": "Environmental Defense",
+    "scrape_date": "2020-07-01",
+    "periods": 4,
+    "data": {
+        "committeeId": 1832,
+        "committeeName": "Environmental Defense",
+        "committeeAddress": "2334 N Broadway, Boulder, CO 80304",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1157577614000,
+        "entityFullName": "Environmental Defense",
+        "entityCity": "Boulder",
+        "entityState": "CO"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Grossman, Daniel",
+                "address": "2334 N Broadway Boulder, CO  80304",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2056-Stand-Up-For-Kids",
+    "committeeName": "Stand Up For Kids",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2056,
+        "committeeName": "Stand Up For Kids",
+        "committeeAddress": "PO Box 241, Darby, MT 59829",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2007",
+        "amendedDate": 1176403400000,
+        "entityFullName": "Stand Up For Kids",
+        "entityCity": "Darby",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McKee, Mindy",
+                "address": "PO Box 346 5901 Windsock Tr. Darby, MT  59829",
+                "phone": "(406) 821-4946",
+                "email": "mtmckee@hughes.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Darby Schools General Fund Mill Levy",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

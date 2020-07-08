@@ -1,0 +1,53 @@
+{
+    "slug": "5094-Good-Jobs-Montana",
+    "committeeName": "Good Jobs Montana",
+    "scrape_date": "2020-07-02",
+    "periods": 14,
+    "data": {
+        "committeeId": 5094,
+        "committeeName": "Good Jobs Montana",
+        "committeeAddress": "1633 Main Street Suite A-354, Billings, MT 59105",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1486364400000,
+        "entityFullName": "Good Jobs Montana",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McCulloch, Scott C",
+                "address": "1633 Main Street Suite A-354 Billings, MT  59105",
+                "phone": "(406) 200-9437",
+                "email": "goodjobsmontana@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Making Independent Expenditures in Montnana Elections",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Greg Gianforte",
+                "position": "Oppose",
+                "status": "Support"
+            },
+            {
+                "interest": "Steve Bullock",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

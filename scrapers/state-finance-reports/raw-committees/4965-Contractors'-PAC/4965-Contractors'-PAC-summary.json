@@ -1,0 +1,133 @@
+{
+    "slug": "4965-Contractors'-PAC",
+    "committeeName": "Contractors' PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 23,
+    "data": {
+        "committeeId": 4965,
+        "committeeName": "Contractors' PAC",
+        "committeeAddress": "1717 11th Avenue, Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1586844000000,
+        "entityFullName": "Contractors' PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Smith, David",
+                "address": "1717 11th Avenue Helena, MT  59601",
+                "phone": "(406) 442-4162",
+                "email": "david @mtagc.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Thompson, Brian P",
+                "address": "800 N. Last Chance Gulch Helena, MT  59601",
+                "phone": "(406) 443-6380",
+                "email": "brian@bkbh.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Steve Fitzpatrick for SD 10",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bruce Grubbs for HD68",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Walt Sales for SD 35",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "David Bedey for HD 88",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ross Fitzgerald for HD 17",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Fred Anderson for HD 20",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jeff Welborn for SD 36",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jim Hamilton for HD 61",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Tom Welch for HD 72",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Julie Dooling for HD 70",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mike Hopkins for HD 92",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dan Salomon for SD 47",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ken Holmlund for HD 38",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Terry Gauthier for SD 40",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Wendy McKamey for HD19",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Geraldine Custer for HD 39",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Tom Richmond for SD 28",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Edward Buttrey for HD 21",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Llew Jones for HD 18",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

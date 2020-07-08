@@ -1,0 +1,43 @@
+{
+    "slug": "254-Flathead-County-Republican-Central-Committee",
+    "committeeName": "Flathead County Republican Central Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 24,
+    "data": {
+        "committeeId": 254,
+        "committeeName": "Flathead County Republican Central Committee",
+        "committeeAddress": "PO Box 8865, Kalispell, MT 59904",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1590386400000,
+        "entityFullName": "Flathead County Republican Central Committee",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Whary, Peggy",
+                "address": "PO Box 11183 Kalispell, MT  59904",
+                "phone": "(406) 261-0866",
+                "email": "wharyp@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Koestner, Rudy",
+                "address": "134 Garden Drive Kalispell, MT  59901",
+                "phone": "(406) 250-2601",
+                "email": "rlk7@centurytel.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To promote the candidates, support elected officials and educate the public about the Republican Party principles and ideals.",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

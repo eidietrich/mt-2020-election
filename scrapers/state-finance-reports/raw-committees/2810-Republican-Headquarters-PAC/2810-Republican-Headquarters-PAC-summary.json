@@ -1,0 +1,43 @@
+{
+    "slug": "2810-Republican-Headquarters-PAC",
+    "committeeName": "Republican Headquarters PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 19,
+    "data": {
+        "committeeId": 2810,
+        "committeeName": "Republican Headquarters PAC",
+        "committeeAddress": "PO Box 10243, Kalispell, MT 59904",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1403503200000,
+        "entityFullName": "Republican Headquarters PAC",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Falk, Leonard W",
+                "address": "PO Box 10243 Kalispell, MT  59904",
+                "phone": "(406) 756-2364",
+                "email": "leonard@atmite.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Jackson, Verdell L",
+                "address": "555 Wagner Lane Kalispell, MT  59901",
+                "phone": "(406) 756-8344",
+                "email": "vjack@centurytel.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Republican candidates",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

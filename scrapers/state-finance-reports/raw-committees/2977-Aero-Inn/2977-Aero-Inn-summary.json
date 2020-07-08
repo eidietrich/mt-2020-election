@@ -1,0 +1,43 @@
+{
+    "slug": "2977-Aero-Inn",
+    "committeeName": "Aero Inn",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2977,
+        "committeeName": "Aero Inn",
+        "committeeAddress": "1830 Hwy 93 South, Kalispell, MT 59901",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2013",
+        "amendedDate": 1383253098000,
+        "entityFullName": "Aero Inn",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bissell, Gilbert",
+                "address": "76 Stafford St Kalispell, MT  59901",
+                "phone": "(406) 257-0205",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Save Your Airport",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

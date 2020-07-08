@@ -1,0 +1,43 @@
+{
+    "slug": "2715-Montana-Coalition-for-Rights",
+    "committeeName": "Montana Coalition for Rights",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2715,
+        "committeeName": "Montana Coalition for Rights",
+        "committeeAddress": "PO Box 1556 824 Inez, Missoula, MT 59806",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1319473443000,
+        "entityFullName": "Montana Coalition for Rights",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Padilla, Debra",
+                "address": "4303 Scott Lane Billings, MT  59105",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI-109",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

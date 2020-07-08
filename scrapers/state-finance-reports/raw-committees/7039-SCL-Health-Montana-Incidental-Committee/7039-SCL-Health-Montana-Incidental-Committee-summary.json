@@ -1,0 +1,43 @@
+{
+    "slug": "7039-SCL-Health-Montana-Incidental-Committee",
+    "committeeName": "SCL Health Montana Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 7039,
+        "committeeName": "SCL Health Montana Incidental Committee",
+        "committeeAddress": "1233 North 30th Street, Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1543906800000,
+        "entityFullName": "SCL Health Montana Incidental Committee",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Laslovich, Jesse",
+                "address": "400 South Clark Street Butte, MT  59701",
+                "phone": "(406) 723-2830",
+                "email": "jesse.laslovich@sclhs.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Contribution made to support ballot initiative #9 to increase tobacco tax to support health care programs",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

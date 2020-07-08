@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 43673,
+        "fromDateStr": "09/29/2018",
+        "toDateStr": "10/22/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 6989,
+        "candidateName": "Kalispell Regional Medical Center, Inc. Incidental Committee",
+        "statusDescr": "Amended",
+        "amendedDate": 1542814533000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/29/2018",
+        "end_date": "10/22/2018",
+        "receipts": 0.0,
+        "expenditures": 106266.77,
+        "cash_in_bank": -281787.13
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/17/18",
+            "Entity Name": "Healthy Montana for I-185",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1614",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 6266.77,
+            "Purpose": "In Kind Staff Time and benefits for meetings",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/12/18",
+            "Entity Name": "MHA Incidental Committee",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2625 Winne Ave.",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 100000.0,
+            "Purpose": "Contribution for I-185",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

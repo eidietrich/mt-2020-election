@@ -1,0 +1,37 @@
+{
+    "slug": "2282-Summit-Credit-Union",
+    "committeeName": "Summit Credit Union",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2282,
+        "committeeName": "Summit Credit Union",
+        "committeeAddress": "PO Box 22739, Billings, MT 59104",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1222366700000,
+        "entityFullName": "Summit Credit Union",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Tompkins, Larry",
+                "address": "1111 24th Street West Billings, MT  59102",
+                "phone": "",
+                "email": "larryt@yoursummitcu.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "6408-Corvallis-Community-Coalition",
+    "committeeName": "Corvallis Community Coalition",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 6408,
+        "committeeName": "Corvallis Community Coalition",
+        "committeeAddress": "PO Box 1251, Corvallis, MT 59828",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2017",
+        "amendedDate": 1507269600000,
+        "entityFullName": "Corvallis Community Coalition",
+        "entityCity": "Corvallis",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wyche, Todd",
+                "address": "780 Paige Ln Corvallis, MT  59828",
+                "phone": "",
+                "email": "todd.wyche@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Hartless, Cheri",
+                "address": "1235 Moss Rock Ct Corvallis, MT  59828",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Corvallis School District No. 1 building reserve levy election",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

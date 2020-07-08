@@ -1,0 +1,37 @@
+{
+    "slug": "7504-Montana-Leadership-Committee",
+    "committeeName": "Montana Leadership Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 7504,
+        "committeeName": "Montana Leadership Committee",
+        "committeeAddress": "1225 I St NW, Suite 1250, Washington, DC 20005",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1547708400000,
+        "entityFullName": "Montana Leadership Committee",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Collinson, Eleanor",
+                "address": "1225 I St NW, Suite 1250 Washington, DC  20005",
+                "phone": "(202) 449-6740",
+                "email": "compliance@dlcc.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

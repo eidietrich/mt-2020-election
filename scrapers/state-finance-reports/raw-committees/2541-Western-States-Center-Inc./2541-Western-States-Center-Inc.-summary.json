@@ -1,0 +1,37 @@
+{
+    "slug": "2541-Western-States-Center-Inc.",
+    "committeeName": "Western States Center, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2541,
+        "committeeName": "Western States Center, Inc.",
+        "committeeAddress": "PO Box 40305, Portland, OR 97240",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1281384150000,
+        "entityFullName": "Western States Center, Inc.",
+        "entityCity": "Portland",
+        "entityState": "OR"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Petegorsky, Dan",
+                "address": "PO Box 40305 Portland, OR  97204",
+                "phone": "",
+                "email": "danp@wscpdx.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Anderson, Ruth Alice",
+                "address": "PO Box 40305 Portland, OR  97240",
+                "phone": "",
+                "email": "rutha@wscpdx.org"
+            }
+        ],
+        "issues": []
+    }
+}

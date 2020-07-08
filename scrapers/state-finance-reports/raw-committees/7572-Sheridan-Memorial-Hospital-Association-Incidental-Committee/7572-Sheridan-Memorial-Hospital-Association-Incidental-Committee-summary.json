@@ -1,0 +1,43 @@
+{
+    "slug": "7572-Sheridan-Memorial-Hospital-Association-Incidental-Committee",
+    "committeeName": "Sheridan Memorial Hospital Association Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7572,
+        "committeeName": "Sheridan Memorial Hospital Association Incidental Committee",
+        "committeeAddress": "440 W Laurel Avenue, Plentywood, MT 59254",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1538028000000,
+        "entityFullName": "Sheridan Memorial Hospital Association Incidental Committee",
+        "entityCity": "Plentywood",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Maurer, Greg L",
+                "address": "440 W Laurel Avenue Plentywood, MT  59254",
+                "phone": "(406) 765-3700",
+                "email": "gmaurer@sheridanmemorial.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "contribution to MHA PAC",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

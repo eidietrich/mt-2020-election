@@ -1,0 +1,37 @@
+{
+    "slug": "2516-Double-Fork-LLC",
+    "committeeName": "Double Fork LLC",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2516,
+        "committeeName": "Double Fork LLC",
+        "committeeAddress": "2441 Eastside Highway, Stevensville, MT 59870",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1277927869000,
+        "entityFullName": "Double Fork LLC",
+        "entityCity": "Stevensville",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Barrett, James",
+                "address": "2441 Eastside Hwy Stevensville, MT  59870",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

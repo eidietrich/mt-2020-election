@@ -1,7 +1,7 @@
 {
     "slug": "8314-EXPOPARK-FOR-ALL",
     "committeeName": "EXPOPARK FOR ALL",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 2,
     "data": {
         "committeeId": 8314,
@@ -16,15 +16,22 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 2,
-        "contributions": 1000.0,
-        "num_contributions": 1,
-        "contributions_19_20": 1000.0,
-        "num_contributions_19_20": 1,
-        "expenditures": 826.0,
-        "num_expenditures": 1,
-        "expenditures_19_20": 826.0,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": 0.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "LAHTI, BRUCE W",
+                "address": "P O BOX 2761 GREAT FALLS, MT  59403",
+                "phone": "(406) 788-5030",
+                "email": "BWLAHTI@GMAIL.COM"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "DODD, DEBORAH G",
+                "address": "P O BOX 6388 GREAT FALLS, MT  59406",
+                "phone": "(406) 788-1886",
+                "email": "ASBSACCT@GMAIL.COM"
+            }
+        ],
+        "issues": []
     }
 }

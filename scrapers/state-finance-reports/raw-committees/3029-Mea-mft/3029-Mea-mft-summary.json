@@ -1,0 +1,43 @@
+{
+    "slug": "3029-Mea-mft",
+    "committeeName": "Mea-mft",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 3029,
+        "committeeName": "Mea-mft",
+        "committeeAddress": "1232 E. 6th Ave., Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2014",
+        "amendedDate": 1467093600000,
+        "entityFullName": "Mea-mft",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Burke, Erik",
+                "address": "1232 6th Ave Helena, MT  59601",
+                "phone": "(406) 442-4250",
+                "email": "eburke@mft.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support pro-education candidates",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

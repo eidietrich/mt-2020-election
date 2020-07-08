@@ -1,0 +1,43 @@
+{
+    "slug": "3006-Community-Medical-Center",
+    "committeeName": "Community Medical Center",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3006,
+        "committeeName": "Community Medical Center",
+        "committeeAddress": "2827 Fort Missoula, Missoula, MT 59804",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2013",
+        "amendedDate": 1386952954000,
+        "entityFullName": "Community Medical Center",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ludwig, Lydia",
+                "address": "2827 Fort Missoula Road Missoula, MT  59804",
+                "phone": "",
+                "email": "llarson@communitymed.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Friends of mountain line",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2055-Engineering-Inc.",
+    "committeeName": "Engineering, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2055,
+        "committeeName": "Engineering, Inc.",
+        "committeeAddress": "1300 N. Transtech Way, Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2007",
+        "amendedDate": 1176156078000,
+        "entityFullName": "Engineering, Inc.",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Sanderson, Michael",
+                "address": "1300 N. Transtech Way Billings, MT  59102",
+                "phone": "",
+                "email": "msanderson@enginc.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School District 2 Mill Levy",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "slug": "7003-Montana-Public-Interest-Research-Group-(MontPIRG)",
+    "committeeName": "Montana Public Interest Research Group (MontPIRG)",
+    "scrape_date": "2020-07-02",
+    "periods": 11,
+    "data": {
+        "committeeId": 7003,
+        "committeeName": "Montana Public Interest Research Group (MontPIRG)",
+        "committeeAddress": "141 Corbin Hall, Missoula, MT 59812",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1542783600000,
+        "entityFullName": "Montana Public Interest Research Group (MontPIRG)",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Sophie, Moon",
+                "address": "141 Corbin Hall Missoula, MT  59812",
+                "phone": "(406) 243-2908",
+                "email": "info@mtpirg.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Bennett, Bryce",
+                "address": "141 Corbin Hall Missoula, MT  59812",
+                "phone": "(406) 243-2908",
+                "email": "info@mtpirg.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-129",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "I-185",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "LR-128",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Bozeman Open Space Bond",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "I-186",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

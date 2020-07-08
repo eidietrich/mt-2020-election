@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 31840,
+        "fromDateStr": "07/10/2014",
+        "toDateStr": "08/08/2014",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 2967,
+        "candidateName": "Stop Dark Money",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "07/10/2014",
+        "end_date": "08/08/2014",
+        "receipts": 0.0,
+        "expenditures": 449.41,
+        "cash_in_bank": 323.46
+    },
+    "contributions": [],
+    "expenditures": []
+}

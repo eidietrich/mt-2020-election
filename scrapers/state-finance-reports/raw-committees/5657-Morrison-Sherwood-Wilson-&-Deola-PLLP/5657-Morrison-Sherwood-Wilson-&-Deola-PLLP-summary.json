@@ -1,0 +1,43 @@
+{
+    "slug": "5657-Morrison-Sherwood-Wilson-&-Deola-PLLP",
+    "committeeName": "Morrison, Sherwood, Wilson & Deola PLLP",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 5657,
+        "committeeName": "Morrison, Sherwood, Wilson & Deola PLLP",
+        "committeeAddress": "PO Box 557, Helena, MT 59624",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1479279600000,
+        "entityFullName": "Morrison, Sherwood, Wilson & Deola PLLP",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Morrison, John",
+                "address": "PO Box 557 Helena, MT  59624",
+                "phone": "(406) 442-3261",
+                "email": "john@mswdlaw.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support candidates and issues affecting the justice system.",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

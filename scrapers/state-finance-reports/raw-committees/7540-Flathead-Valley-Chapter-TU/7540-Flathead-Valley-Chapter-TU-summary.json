@@ -1,0 +1,43 @@
+{
+    "slug": "7540-Flathead-Valley-Chapter-TU",
+    "committeeName": "Flathead Valley Chapter TU",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7540,
+        "committeeName": "Flathead Valley Chapter TU",
+        "committeeAddress": "PO Box 638, Kalispell, MT 59903",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1536127200000,
+        "entityFullName": "Flathead Valley Chapter TU",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Schustrom, Chris N",
+                "address": "PO Box 638 Kalispell, MT  59903",
+                "phone": "",
+                "email": "flatheadtu@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-186: Requirements for Permits and Reclamation Plans of New Hard Rock Mines Initiative",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "slug": "306-Phillips-County-Republican-Club",
+    "committeeName": "Phillips County Republican Club",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 306,
+        "committeeName": "Phillips County Republican Club",
+        "committeeAddress": "PO Box 910, Malta, MT 59538",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1491372000000,
+        "entityFullName": "Phillips County Republican Club",
+        "entityCity": "Malta",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Lund, Logan",
+                "address": "PO Box 910 Malta, MT  59538",
+                "phone": "(406) 654-2340",
+                "email": "llund@fsbmalta.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

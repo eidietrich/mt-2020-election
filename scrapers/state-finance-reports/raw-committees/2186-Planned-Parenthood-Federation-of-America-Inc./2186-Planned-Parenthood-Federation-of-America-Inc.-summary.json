@@ -1,0 +1,43 @@
+{
+    "slug": "2186-Planned-Parenthood-Federation-of-America-Inc.",
+    "committeeName": "Planned Parenthood Federation of America, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2186,
+        "committeeName": "Planned Parenthood Federation of America, Inc.",
+        "committeeAddress": "434 West 33rd Street, New York, NY 10001",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1212597421000,
+        "entityFullName": "Planned Parenthood Federation of America, Inc.",
+        "entityCity": "New York",
+        "entityState": "NY"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Beharry, Jankie",
+                "address": "434 West 33rd Street New York, NY  10001",
+                "phone": "",
+                "email": "jankie.beharry@ppfa.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI-100",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

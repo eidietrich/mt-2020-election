@@ -1,0 +1,37 @@
+{
+    "slug": "6964-Montana-Trout-Unlimited",
+    "committeeName": "Montana Trout Unlimited",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 6964,
+        "committeeName": "Montana Trout Unlimited",
+        "committeeAddress": "P.O. Box 7186, Missoula, MT 59807",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1543215600000,
+        "entityFullName": "Montana Trout Unlimited",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Jessica, McCutcheon",
+                "address": "P.O. Box 7186 Missoula, MT  59807",
+                "phone": "(406) 543-0054",
+                "email": "jessica@montanatu.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

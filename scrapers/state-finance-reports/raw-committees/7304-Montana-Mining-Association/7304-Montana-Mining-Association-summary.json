@@ -1,0 +1,43 @@
+{
+    "slug": "7304-Montana-Mining-Association",
+    "committeeName": "Montana Mining Association",
+    "scrape_date": "2020-07-02",
+    "periods": 12,
+    "data": {
+        "committeeId": 7304,
+        "committeeName": "Montana Mining Association",
+        "committeeAddress": "P.O. Box 1026, Whitehall, MT 59759",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1527573600000,
+        "entityFullName": "Montana Mining Association",
+        "entityCity": "Whitehall",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Johnson, Tamara J",
+                "address": "P.O. Box 1026 Whitehall, MT  59759",
+                "phone": "(406) 287-3012",
+                "email": "tjohnson@montanamining.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Initiative 186",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

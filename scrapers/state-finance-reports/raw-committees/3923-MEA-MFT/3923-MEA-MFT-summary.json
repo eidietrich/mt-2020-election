@@ -1,0 +1,48 @@
+{
+    "slug": "3923-MEA-MFT",
+    "committeeName": "MEA-MFT",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 3923,
+        "committeeName": "MEA-MFT",
+        "committeeAddress": "1232 E 6th Avenue, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2015",
+        "amendedDate": 1443074400000,
+        "entityFullName": "MEA-MFT",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Burke, Erik",
+                "address": "1232 E 6th Avenue Helena, MT  59601",
+                "phone": "(406) 442-4250",
+                "email": "eburke@mea-mft.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Missoula Bond Election Nov. 3 2015",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Support and/oppose certain levy elections May 2015",
+                "position": "Other",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

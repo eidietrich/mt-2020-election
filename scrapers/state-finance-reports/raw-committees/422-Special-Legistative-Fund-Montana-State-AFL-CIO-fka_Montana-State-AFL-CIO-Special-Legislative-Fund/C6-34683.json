@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 34683,
+        "fromDateStr": "03/29/2016",
+        "toDateStr": "04/27/2016",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 422,
+        "candidateName": "Special Legistative Fund Montana State AFL-CIO fka_Montana State AFL-CIO Special Legislative Fund",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/29/2016",
+        "end_date": "04/27/2016",
+        "receipts": 50.0,
+        "expenditures": 7768.86,
+        "cash_in_bank": 50.0
+    },
+    "contributions": [
+        {
+            "Date Paid": "04/27/16",
+            "Entity Name": "Ekblad, Alan D",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "137 Gerber Rd",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59405",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "Executive Secretary",
+            "Employer": "Montana State AFL-CIO",
+            "Contribution Type": "Individual Contributions",
+            "Amount": 50.0,
+            "Amount Type": "CA",
+            "Purpose": "Contribution to Special Leg",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 50.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "04/12/16",
+            "Entity Name": "Build Montana PAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "810 Hialeah",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 7768.86,
+            "Purpose": "Contribution to Build Montana PAC from Special Leg. PAC",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

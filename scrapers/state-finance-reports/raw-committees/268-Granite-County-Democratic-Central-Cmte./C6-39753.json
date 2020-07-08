@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 39753,
+        "fromDateStr": "02/01/2017",
+        "toDateStr": "01/30/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 268,
+        "candidateName": "Granite County Democratic Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "02/01/2017",
+        "end_date": "01/30/2018",
+        "receipts": 0.0,
+        "expenditures": 478.46,
+        "cash_in_bank": 864.83
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "04/21/17",
+            "Entity Name": "Lickety Print",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "316 Main",
+            "City": "Deer Lodge",
+            "State": "MT",
+            "Zip": "59722",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 135.0,
+            "Purpose": "Print 1000 Vote Democrat, Quist, postcards",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/24/17",
+            "Entity Name": "The Directory",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1947 South Ave. W, Missoula",
+            "City": "MT",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 343.46,
+            "Purpose": " Handling and postcards/ postage",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

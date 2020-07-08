@@ -1,0 +1,48 @@
+{
+    "slug": "5597-Hill-County-Republican-Central-Committee",
+    "committeeName": "Hill County Republican Central Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5597,
+        "committeeName": "Hill County Republican Central Committee",
+        "committeeAddress": "c/o Barbara Salerno, Treasurer PO Box 1047, Havre, MT 59501",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1480921200000,
+        "entityFullName": "Hill County Republican Central Committee",
+        "entityCity": "Havre",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Salerno, Barbara",
+                "address": "1104 13th St. W. Havre, MT  59501",
+                "phone": "(406) 265-3163",
+                "email": "gitgo@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Rader, Gail",
+                "address": "875 5th St. Havre, MT  59501",
+                "phone": "(406) 265-9263",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Stephanie Hess for HD28",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Bruce Meyers for SD 16",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

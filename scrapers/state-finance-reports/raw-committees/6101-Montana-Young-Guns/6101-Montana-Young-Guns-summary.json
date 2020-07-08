@@ -1,0 +1,43 @@
+{
+    "slug": "6101-Montana-Young-Guns",
+    "committeeName": "Montana Young Guns",
+    "scrape_date": "2020-07-02",
+    "periods": 20,
+    "data": {
+        "committeeId": 6101,
+        "committeeName": "Montana Young Guns",
+        "committeeAddress": "PO Box 50803, Billings, MT 59105",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1482735600000,
+        "entityFullName": "Montana Young Guns",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Selph, Kelly R",
+                "address": "2347 Columbine Dr. Billings, MT  59105",
+                "phone": "(406) 256-1721",
+                "email": "kellyrselph@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To elect and support Republican Candidates for Political Office",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

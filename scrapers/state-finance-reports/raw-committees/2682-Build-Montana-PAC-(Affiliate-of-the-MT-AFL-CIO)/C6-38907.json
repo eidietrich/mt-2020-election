@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 38907,
+        "fromDateStr": "11/29/2016",
+        "toDateStr": "01/31/2017",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 2682,
+        "candidateName": "Build Montana PAC (Affiliate of the MT AFL-CIO)",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/29/2016",
+        "end_date": "01/31/2017",
+        "receipts": 0.0,
+        "expenditures": 5200.0,
+        "cash_in_bank": 304.09
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "12/15/16",
+            "Entity Name": "Build Montana PAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "810 Hialeah Court",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 5200.0,
+            "Purpose": "Payroll Reimbursement for Canvassers/Staff/Working on Bullock Campaign (see attached)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

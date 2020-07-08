@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 34431,
+        "fromDateStr": "03/14/2016",
+        "toDateStr": "03/14/2016",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 5106,
+        "candidateName": "Acme Gadget, Inc.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/14/2016",
+        "end_date": "03/14/2016",
+        "receipts": 0.0,
+        "expenditures": 1000.0,
+        "cash_in_bank": -1000.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/19/15",
+            "Entity Name": "Missoula Public Library Foundation",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "301E Main St",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59802",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 1000.0,
+            "Purpose": "Bond",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

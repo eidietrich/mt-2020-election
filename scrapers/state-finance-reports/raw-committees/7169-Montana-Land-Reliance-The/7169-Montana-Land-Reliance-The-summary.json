@@ -1,0 +1,43 @@
+{
+    "slug": "7169-Montana-Land-Reliance-The",
+    "committeeName": "Montana Land Reliance, The",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 7169,
+        "committeeName": "Montana Land Reliance, The",
+        "committeeAddress": "PO Box 355, Helena, MT 59624",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1529906400000,
+        "entityFullName": "Montana Land Reliance, The",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Delger-DeMars, Lois E.",
+                "address": "Montana Land Reliance, PO Box 355 Helena, MT  59624",
+                "phone": "(406) 443-7027",
+                "email": "lois@mtlandreliance.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Vote FOR Open Lands - Gallatin County ",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

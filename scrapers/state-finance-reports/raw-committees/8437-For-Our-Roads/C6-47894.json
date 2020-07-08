@@ -22,6 +22,38 @@
         "expenditures": 0.0,
         "cash_in_bank": 500.0
     },
-    "contributions": [],
+    "contributions": [
+        {
+            "Date Paid": "04/30/20",
+            "Entity Name": "Missoula Organization of Realtors",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "724 Burlington Avenue",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Incidental Committee Contributions",
+            "Amount": 220.48,
+            "Amount Type": "IK",
+            "Purpose": "Donated Staff Time",
+            "Election Type": "Primary",
+            "Total Primary": 220.48,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
     "expenditures": []
 }

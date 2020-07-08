@@ -1,7 +1,7 @@
 {
     "slug": "8309-Montana-Beer-&-Wine-Distributors-Association",
     "committeeName": "Montana Beer & Wine Distributors Association",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 1,
     "data": {
         "committeeId": 8309,
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 1,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 2000.0,
-        "num_expenditures": 2,
-        "expenditures_19_20": 2000.0,
-        "num_expenditures_19_20": 2,
-        "cash_on_hand": -2000.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McGuire, Sherri",
+                "address": "1114 Leslie Ave Helena, MT  59601",
+                "phone": "(406) 431-5385",
+                "email": "smcguire@mbwda.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Issues relating to beer and wine regulation",
+                "position": "Monitor",
+                "status": "Not Applicable"
+            }
+        ]
     }
 }

@@ -1,0 +1,43 @@
+{
+    "slug": "2490-Bridger-Clinic",
+    "committeeName": "Bridger Clinic",
+    "scrape_date": "2020-07-01",
+    "periods": 8,
+    "data": {
+        "committeeId": 2490,
+        "committeeName": "Bridger Clinic",
+        "committeeAddress": "300 North Wilson Ave  Ste 2001, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1275927457000,
+        "entityFullName": "Bridger Clinic",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McDowell, Stephanie",
+                "address": "109 W Villard Bozeman, MT  59715",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Dominguez, Mari",
+                "address": "300 N Williamson Ave. Suite 2001 Bozeman, MT  59715",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-164, Cap the Rate",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

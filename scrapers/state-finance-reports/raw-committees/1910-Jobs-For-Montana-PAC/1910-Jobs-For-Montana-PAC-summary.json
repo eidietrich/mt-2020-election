@@ -1,0 +1,98 @@
+{
+    "slug": "1910-Jobs-For-Montana-PAC",
+    "committeeName": "Jobs For Montana PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 23,
+    "data": {
+        "committeeId": 1910,
+        "committeeName": "Jobs For Montana PAC",
+        "committeeAddress": "PO Box 1538, Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1580799600000,
+        "entityFullName": "Jobs For Montana PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kuney, Lorna",
+                "address": "400 N California Helena, MT  59601",
+                "phone": "",
+                "email": "lorna@mt.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Denowh, Charles",
+                "address": "1820 N. Last Chance Gulch Helena, MT  59601",
+                "phone": "",
+                "email": "cdenowh@gmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Denley Loge for HD 14",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Brian Hoven SD 13",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Frank Garner HD 07",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Wendy McKamey for HD19",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Rob Cook for PSC",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bruce Grubbs for HD68",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "John Esp SD 30",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ed Buttrey for HD 21",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ross Fitzgerald HD 17",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Pat Connell SD 43",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Promote candidates that support the creation of a better business climate and strong Montana economy.",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Doug Kary for SD 22",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

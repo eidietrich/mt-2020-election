@@ -1,0 +1,73 @@
+{
+    "slug": "4971-Big-Sky-Democrats",
+    "committeeName": "Big Sky Democrats",
+    "scrape_date": "2020-07-02",
+    "periods": 16,
+    "data": {
+        "committeeId": 4971,
+        "committeeName": "Big Sky Democrats",
+        "committeeAddress": "P.O. Box 7266, Helena, MT 59801",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1536300000000,
+        "entityFullName": "Big Sky Democrats",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Campbell, Tyler",
+                "address": "306 Blake St Helena, MT  59601",
+                "phone": "",
+                "email": "tylerjamescampbell87@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Jacob Bachmeier",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jesse Laslovich \u2013 Auditor race",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Zac Perry",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Kari Boiter - HD 44",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steve Bullock",
+                "position": "Support",
+                "status": "On ballot, approved"
+            },
+            {
+                "interest": "Andrew Person",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Denise Juneau for U.S. House of Representatives",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

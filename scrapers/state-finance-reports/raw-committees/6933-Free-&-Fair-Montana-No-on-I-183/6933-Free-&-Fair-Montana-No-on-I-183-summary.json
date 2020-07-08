@@ -1,0 +1,43 @@
+{
+    "slug": "6933-Free-&-Fair-Montana-No-on-I-183",
+    "committeeName": "Free & Fair Montana No on I-183",
+    "scrape_date": "2020-07-02",
+    "periods": 8,
+    "data": {
+        "committeeId": 6933,
+        "committeeName": "Free & Fair Montana No on I-183",
+        "committeeAddress": "PO Box 453, Helena, MT 59624",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1534831200000,
+        "entityFullName": "Free & Fair Montana No on I-183",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Rossi, SK",
+                "address": "PO Box 453 Helena, MT  59624",
+                "phone": "",
+                "email": "rossis@aclumontana.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Spurzem, Carissa",
+                "address": "PO Box 453 Helena, MT  59624",
+                "phone": "(406) 442-5506",
+                "email": "network@mhrn.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-183",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

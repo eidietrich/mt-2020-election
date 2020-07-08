@@ -1,0 +1,37 @@
+{
+    "slug": "7946-Stevensville-For-Students-2019",
+    "committeeName": "Stevensville For Students 2019",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7946,
+        "committeeName": "Stevensville For Students 2019",
+        "committeeAddress": "PO Box 621 , Stevensville, MT 59870",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2019",
+        "amendedDate": 1558850400000,
+        "entityFullName": "Stevensville For Students 2019",
+        "entityCity": "Stevensville",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Gross, Lindsay",
+                "address": "Po Box 621  Stevensville, MT  59870",
+                "phone": "(406) 240-6918",
+                "email": "lgross@pacblu.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

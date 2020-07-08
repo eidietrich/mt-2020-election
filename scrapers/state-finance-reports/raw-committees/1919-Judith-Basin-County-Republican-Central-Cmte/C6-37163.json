@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 37163,
+        "fromDateStr": "06/24/2016",
+        "toDateStr": "09/29/2016",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 1919,
+        "candidateName": "Judith Basin County Republican Central Cmte",
+        "statusDescr": "Amended",
+        "amendedDate": 1588003607000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/24/2016",
+        "end_date": "09/29/2016",
+        "receipts": 1086.48,
+        "expenditures": 0.0,
+        "cash_in_bank": 1086.48
+    },
+    "contributions": [
+        {
+            "Date Paid": "06/25/16",
+            "Entity Name": "transfer ending balance to Cers",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "na, na na",
+            "City": "",
+            "State": "",
+            "Zip": "",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -1086.48,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "Primary",
+            "Total Primary": 1086.48,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

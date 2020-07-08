@@ -1,0 +1,43 @@
+{
+    "slug": "2869-Confederated-Tribes-of-the-Umatilla-Indian-Reservation",
+    "committeeName": "Confederated Tribes of the Umatilla Indian Reservation",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2869,
+        "committeeName": "Confederated Tribes of the Umatilla Indian Reservation",
+        "committeeAddress": "46411 Timine Way, Pendleton, OR 97801",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": null,
+        "electionYear": "2012",
+        "amendedDate": 1357844860000,
+        "entityFullName": "Confederated Tribes of the Umatilla Indian Reservation",
+        "entityCity": "Pendleton",
+        "entityState": "OR"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Mace, Joe",
+                "address": "46411 Timine Way Pendleton, OR  97801",
+                "phone": "",
+                "email": "joemace@ctuir.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Bullock/Walsh",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

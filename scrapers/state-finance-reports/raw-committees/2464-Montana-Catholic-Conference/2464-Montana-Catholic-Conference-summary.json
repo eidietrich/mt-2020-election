@@ -1,0 +1,43 @@
+{
+    "slug": "2464-Montana-Catholic-Conference",
+    "committeeName": "Montana Catholic Conference",
+    "scrape_date": "2020-07-01",
+    "periods": 11,
+    "data": {
+        "committeeId": 2464,
+        "committeeName": "Montana Catholic Conference",
+        "committeeAddress": "1313 11th Avenue, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1272565860000,
+        "entityFullName": "Montana Catholic Conference",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wosepka, Moe",
+                "address": "1301 11th Avenue Helena, MT  59601",
+                "phone": "(406) 442-8412",
+                "email": "director@montanacc.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Cap the Rate I-164",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

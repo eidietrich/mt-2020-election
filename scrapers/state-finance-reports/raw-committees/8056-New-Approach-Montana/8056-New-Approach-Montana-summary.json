@@ -1,7 +1,7 @@
 {
     "slug": "8056-New-Approach-Montana",
     "committeeName": "New Approach Montana",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 4,
     "data": {
         "committeeId": 8056,
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 4,
-        "contributions": 1550.0,
-        "num_contributions": 10,
-        "contributions_19_20": 1550.0,
-        "num_contributions_19_20": 10,
-        "expenditures": 1973447.72,
-        "num_expenditures": 124,
-        "expenditures_19_20": 1973447.72,
-        "num_expenditures_19_20": 124,
-        "cash_on_hand": 231258.36
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Blackford, Sherine D",
+                "address": "602 W Lamme Street Bozeman, MT  59715",
+                "phone": "(406) 461-8883",
+                "email": "sherine@blackfordcarls.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Ballot Initiative to legalize recreational marijuana. ",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
     }
 }

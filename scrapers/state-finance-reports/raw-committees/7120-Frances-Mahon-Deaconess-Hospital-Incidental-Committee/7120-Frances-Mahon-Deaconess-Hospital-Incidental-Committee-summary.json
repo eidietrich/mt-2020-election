@@ -1,0 +1,43 @@
+{
+    "slug": "7120-Frances-Mahon-Deaconess-Hospital-Incidental-Committee",
+    "committeeName": "Frances Mahon Deaconess Hospital Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 7120,
+        "committeeName": "Frances Mahon Deaconess Hospital Incidental Committee",
+        "committeeAddress": "621 3rd Street South, Glasgow, MT 59230",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1538978400000,
+        "entityFullName": "Frances Mahon Deaconess Hospital Incidental Committee",
+        "entityCity": "Glasgow",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Holom, Randall G",
+                "address": "621 3rd Street South Glasgow, MT  59230",
+                "phone": "(406) 228-3601",
+                "email": "randy.holom@fmdh.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "185",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "6854-Montana-Broom-and-Brush",
+    "committeeName": "Montana Broom and Brush",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6854,
+        "committeeName": "Montana Broom and Brush",
+        "committeeAddress": "2801 S. Montana St., Butte, MT 59701",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2017",
+        "amendedDate": 1512370800000,
+        "entityFullName": "Montana Broom and Brush",
+        "entityCity": "Butte",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Whelan, Robert J.",
+                "address": "2801 S. Montna St. Butte, MT  59701",
+                "phone": "(406) 490-6590",
+                "email": "rjwhlan6@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "YES for Helena's Future",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

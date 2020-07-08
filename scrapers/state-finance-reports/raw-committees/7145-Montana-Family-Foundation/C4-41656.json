@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 41656,
+        "fromDateStr": "05/22/2018",
+        "toDateStr": "05/27/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7145,
+        "candidateName": "Montana Family Foundation",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/22/2018",
+        "end_date": "05/27/2018",
+        "receipts": 0.0,
+        "expenditures": 684.52,
+        "cash_in_bank": -8155.62
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "05/27/18",
+            "Entity Name": "Montana Family Foundation",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 485",
+            "City": "Laurel",
+            "State": "MT",
+            "Zip": "59044",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 424.52,
+            "Purpose": "Staff time spent processing petitions for I-183",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/27/18",
+            "Entity Name": "Montana Family Foundation",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 485",
+            "City": "Laurel",
+            "State": "MT",
+            "Zip": "59044",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 260.0,
+            "Purpose": "Staff time spent promoting speaking for I-183",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

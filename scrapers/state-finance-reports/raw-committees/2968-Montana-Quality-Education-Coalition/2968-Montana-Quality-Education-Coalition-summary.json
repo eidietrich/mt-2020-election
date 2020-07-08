@@ -1,0 +1,43 @@
+{
+    "slug": "2968-Montana-Quality-Education-Coalition",
+    "committeeName": "Montana Quality Education Coalition",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2968,
+        "committeeName": "Montana Quality Education Coalition",
+        "committeeAddress": "900 North Montana Avenue Suite A-4, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1381871741000,
+        "entityFullName": "Montana Quality Education Coalition",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Miller, Kirk J.",
+                "address": "900 N. Montana Ave. Ste A4 Helena, MT  59601",
+                "phone": "",
+                "email": "samkm@sammt.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR 126 and LR 127",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "slug": "2552-Montana-Subcontractor-Association",
+    "committeeName": "Montana Subcontractor Association",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2552,
+        "committeeName": "Montana Subcontractor Association",
+        "committeeAddress": "7 N. Olive, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1283198047000,
+        "entityFullName": "Montana Subcontractor Association",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Pallister, Zach",
+                "address": "1923 Dodge Helena, MT  59601",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "N/A",
+                "address": "7 N. Olive Helena, MT  59601",
+                "phone": "(406) 443-8514",
+                "email": "carl@mt.net"
+            }
+        ],
+        "issues": []
+    }
+}

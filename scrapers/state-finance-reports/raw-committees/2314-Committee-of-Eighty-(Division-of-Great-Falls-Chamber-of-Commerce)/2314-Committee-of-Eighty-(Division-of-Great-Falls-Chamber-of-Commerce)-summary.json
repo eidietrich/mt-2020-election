@@ -1,0 +1,43 @@
+{
+    "slug": "2314-Committee-of-Eighty-(Division-of-Great-Falls-Chamber-of-Commerce)",
+    "committeeName": "Committee of Eighty (Division of Great Falls Chamber of Commerce)",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2314,
+        "committeeName": "Committee of Eighty (Division of Great Falls Chamber of Commerce)",
+        "committeeAddress": "100 1st Ave. N., Great Falls, MT 59401",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": null,
+        "electionYear": "2008",
+        "amendedDate": 1224783778000,
+        "entityFullName": "Committee of Eighty (Division of Great Falls Chamber of Commerce)",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Guschausky, Pam",
+                "address": "100 1st Ave. N. Great Falls, MT  59401",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Citizens Protecting Our Runways",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

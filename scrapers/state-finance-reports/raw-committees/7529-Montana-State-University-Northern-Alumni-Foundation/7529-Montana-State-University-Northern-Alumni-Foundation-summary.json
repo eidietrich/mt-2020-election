@@ -1,0 +1,43 @@
+{
+    "slug": "7529-Montana-State-University-Northern-Alumni-Foundation",
+    "committeeName": "Montana State University Northern Alumni Foundation",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 7529,
+        "committeeName": "Montana State University Northern Alumni Foundation",
+        "committeeAddress": "PO Box 1691, Havre, MT 59501",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1535608800000,
+        "entityFullName": "Montana State University Northern Alumni Foundation",
+        "entityCity": "Havre",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Meyer, Amanda",
+                "address": "PO Box 1691 Havre, MT  59501",
+                "phone": "(406) 265-3770",
+                "email": "amanda.meyer6@msun.edu"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-128 SB85",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

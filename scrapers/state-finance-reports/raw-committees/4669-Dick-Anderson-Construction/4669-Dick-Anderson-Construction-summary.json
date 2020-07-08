@@ -1,0 +1,43 @@
+{
+    "slug": "4669-Dick-Anderson-Construction",
+    "committeeName": "Dick Anderson Construction",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 4669,
+        "committeeName": "Dick Anderson Construction",
+        "committeeAddress": "3424 US Hwy 12 E, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2015",
+        "amendedDate": 1442556000000,
+        "entityFullName": "Dick Anderson Construction",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McGreevey, Corey",
+                "address": "3424 US Hwy 12 E Helena, MT  59601",
+                "phone": "(406) 443-3225",
+                "email": "cmcgreevey@daconstruction.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Contribution to Yes for Kids",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

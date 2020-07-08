@@ -1,0 +1,37 @@
+{
+    "slug": "6848-Helena-Area-Chamber-of-Commerce",
+    "committeeName": "Helena Area Chamber of Commerce",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6848,
+        "committeeName": "Helena Area Chamber of Commerce",
+        "committeeAddress": "225 Cruse Avenue, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2017",
+        "amendedDate": 1511852400000,
+        "entityFullName": "Helena Area Chamber of Commerce",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McLaughlin, John",
+                "address": "PO Box 7329 Helena, MT  59604",
+                "phone": "(406) 447-9000",
+                "email": "jmclaughlin@stockmanbank.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

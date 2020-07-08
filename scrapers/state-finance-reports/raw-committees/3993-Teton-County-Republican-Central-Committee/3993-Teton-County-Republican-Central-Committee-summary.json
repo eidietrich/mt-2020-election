@@ -1,0 +1,63 @@
+{
+    "slug": "3993-Teton-County-Republican-Central-Committee",
+    "committeeName": "Teton County Republican Central Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 17,
+    "data": {
+        "committeeId": 3993,
+        "committeeName": "Teton County Republican Central Committee",
+        "committeeAddress": "P O Box 368, Choteau, MT 59422",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1540447200000,
+        "entityFullName": "Teton County Republican Central Committee",
+        "entityCity": "Choteau",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Baker, Vicki",
+                "address": "PO Box 809 Bynum, MT  59419",
+                "phone": "(406) 469-2298",
+                "email": "mvbaker@3rivers.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Jenson, MarSue",
+                "address": "P O Box 58 Choteau, MT  59422",
+                "phone": "(406) 466-2514",
+                "email": "bobmarsue@3rivers.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "All Republican Candidates for Public Office on the local, state and national levels.",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ross Fitzgerald for HD 17",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bruce \"Butch\" Gillespie, SD09",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Richard \"Dick\" Snellman for Teton County Commissioner",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Greg for Montana",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

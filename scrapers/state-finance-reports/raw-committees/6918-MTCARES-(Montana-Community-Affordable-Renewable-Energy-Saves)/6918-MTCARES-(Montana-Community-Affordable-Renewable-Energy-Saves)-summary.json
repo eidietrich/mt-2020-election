@@ -1,0 +1,43 @@
+{
+    "slug": "6918-MTCARES-(Montana-Community-Affordable-Renewable-Energy-Saves)",
+    "committeeName": "MTCARES (Montana Community Affordable Renewable Energy Saves)",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 6918,
+        "committeeName": "MTCARES (Montana Community Affordable Renewable Energy Saves)",
+        "committeeAddress": "720 Kentucky Av, Dillon, MT 59725",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1530597600000,
+        "entityFullName": "MTCARES (Montana Community Affordable Renewable Energy Saves)",
+        "entityCity": "Dillon",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Mosolf, MIke",
+                "address": "720 Kentucky Av Dillon, MT  59725",
+                "phone": "(406) 683-2928",
+                "email": "dimodimo@charter.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-184",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

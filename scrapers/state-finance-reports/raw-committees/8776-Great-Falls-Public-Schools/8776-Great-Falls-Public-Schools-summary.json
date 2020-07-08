@@ -1,7 +1,7 @@
 {
     "slug": "8776-Great-Falls-Public-Schools",
     "committeeName": "Great Falls Public Schools",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 1,
     "data": {
         "committeeId": 8776,
@@ -16,15 +16,22 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 1,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 142.68,
-        "num_expenditures": 3,
-        "expenditures_19_20": 142.68,
-        "num_expenditures_19_20": 3,
-        "cash_on_hand": -142.68
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Moore, Thomas",
+                "address": "1100 4th street south Great Falls, MT  59403",
+                "phone": "(406) 268-6001",
+                "email": "tom_moore@gfps.k12.mt.us"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
     }
 }

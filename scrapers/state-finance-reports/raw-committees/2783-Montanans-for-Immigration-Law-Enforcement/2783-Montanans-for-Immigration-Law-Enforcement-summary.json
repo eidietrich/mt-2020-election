@@ -1,0 +1,43 @@
+{
+    "slug": "2783-Montanans-for-Immigration-Law-Enforcement",
+    "committeeName": "Montanans for Immigration Law Enforcement",
+    "scrape_date": "2020-07-01",
+    "periods": 9,
+    "data": {
+        "committeeId": 2783,
+        "committeeName": "Montanans for Immigration Law Enforcement",
+        "committeeAddress": "PO Box 5006, Bozeman, MT 59717",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1337265984000,
+        "entityFullName": "Montanans for Immigration Law Enforcement",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Nachman, Paul",
+                "address": "PO Box 5006 Bozeman, MT  59717-5006",
+                "phone": "(406) 587-2488",
+                "email": "pnbl48@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-121",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

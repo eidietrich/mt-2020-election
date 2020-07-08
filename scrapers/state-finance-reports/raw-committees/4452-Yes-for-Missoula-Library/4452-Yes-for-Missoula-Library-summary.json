@@ -1,0 +1,43 @@
+{
+    "slug": "4452-Yes-for-Missoula-Library",
+    "committeeName": "Yes for Missoula Library",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 4452,
+        "committeeName": "Yes for Missoula Library",
+        "committeeAddress": "PO Box 8732, Missoula, MT 59807",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1489384800000,
+        "entityFullName": "Yes for Missoula Library",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Dolack, Monte",
+                "address": "1057 Anglers Bend Way Missoula, MT  59801",
+                "phone": "",
+                "email": "barbara.theroux@yahoo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Theroux, Barbara",
+                "address": "336 S Sixth W, Apt 7 Missoula, MT  59801",
+                "phone": "",
+                "email": "barbara.theroux@yahoo.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To support bond issue for Missoula Public Library",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

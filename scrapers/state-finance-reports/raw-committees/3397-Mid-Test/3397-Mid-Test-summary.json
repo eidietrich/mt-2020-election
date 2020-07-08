@@ -1,0 +1,37 @@
+{
+    "slug": "3397-Mid-Test",
+    "committeeName": "Mid Test",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 3397,
+        "committeeName": "Mid Test",
+        "committeeAddress": "PO Box 456, Missoula, MT 45645",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1411538400000,
+        "entityFullName": "Mid Test",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Trujillo, Kym",
+                "address": "PO Box 4565 Missoula, MT  45651",
+                "phone": "(444) 444-4444",
+                "email": "ktrujillo@mt.gov"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

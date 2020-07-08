@@ -1,0 +1,43 @@
+{
+    "slug": "2963-MHA-An-Association-of-Montana-Health-Care-Providers",
+    "committeeName": "MHA An Association of Montana Health Care Providers",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2963,
+        "committeeName": "MHA An Association of Montana Health Care Providers",
+        "committeeAddress": "PO Box 5119 1720 Ninth Ave., Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1380903081000,
+        "entityFullName": "MHA An Association of Montana Health Care Providers",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Brown, Dick",
+                "address": "PO Bo 5119 1720 Ninth Avenue Helena, MT  59601",
+                "phone": "",
+                "email": "dick@mtha.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Cont to Montanans for Quality Healthcare",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

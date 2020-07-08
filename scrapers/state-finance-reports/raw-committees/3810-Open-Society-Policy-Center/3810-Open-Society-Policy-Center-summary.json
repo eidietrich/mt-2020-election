@@ -1,0 +1,43 @@
+{
+    "slug": "3810-Open-Society-Policy-Center",
+    "committeeName": "Open Society Policy Center",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3810,
+        "committeeName": "Open Society Policy Center",
+        "committeeAddress": "1730 Pennsylvania Ave, NW, 7th Floor, Washington, DC 20006",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1417158000000,
+        "entityFullName": "Open Society Policy Center",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Gibson-Price, Lynthia",
+                "address": "1730 Pennsylvania Ave, NW, 7th Floor Washington, DC  20006",
+                "phone": "(202) 721-5600",
+                "email": "lynthia.gibson-price@opensocietyfoundation"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-126",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

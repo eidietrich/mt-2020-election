@@ -1,0 +1,43 @@
+{
+    "slug": "386-Montana-Republican-Legislative-Campaign-Cmte-aka-Legislative-Campaign-Committee",
+    "committeeName": "Montana Republican Legislative Campaign Cmte aka Legislative Campaign Committee ",
+    "scrape_date": "2020-07-02",
+    "periods": 23,
+    "data": {
+        "committeeId": 386,
+        "committeeName": "Montana Republican Legislative Campaign Cmte aka Legislative Campaign Committee ",
+        "committeeAddress": "PO Box 6656, Helena, MT 59604",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1580713200000,
+        "entityFullName": "Montana Republican Legislative Campaign Cmte aka Legislative Campaign Committee ",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ellsworth, Jason",
+                "address": "1073 Golf Course Rd Hamilton, MT  59840",
+                "phone": "",
+                "email": "ellsworthlcc@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Wenetta, Katie",
+                "address": "PO Box 6656 Helena, MT  59604",
+                "phone": "",
+                "email": "katie.montana.campaigns@gmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Republican Legislative Candidates",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "slug": "6999-Montana-State-Afl-cio",
+    "committeeName": "Montana State Afl-cio",
+    "scrape_date": "2020-07-02",
+    "periods": 11,
+    "data": {
+        "committeeId": 6999,
+        "committeeName": "Montana State Afl-cio",
+        "committeeAddress": "2711 Airport Rd., Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1585288800000,
+        "entityFullName": "Montana State Afl-cio",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ekblad, Alan D",
+                "address": "2711 Airport Rd. Helena, MT  59601",
+                "phone": "(406) 442-1708",
+                "email": "lorri@mtaflcio.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Nisbet, Lorri L",
+                "address": "2711 Airport Rd. Helena, MT  59601",
+                "phone": "(406) 442-1708",
+                "email": "lorri@mtaflcio.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Brian Close HD 61/Dems Primary",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Mike Cooney/Dems Primary",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "3054-Yes-For-Belgrade-Kids",
+    "committeeName": "Yes For Belgrade Kids",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3054,
+        "committeeName": "Yes For Belgrade Kids",
+        "committeeAddress": "600 Mayfair Drive, Belgrade, MT 59714",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2014",
+        "amendedDate": 1398146400000,
+        "entityFullName": "Yes For Belgrade Kids",
+        "entityCity": "Belgrade",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Johnson, Tracy D",
+                "address": "600 Mayfair Drive Belgrade, MT  59714",
+                "phone": "(406) 924-9567",
+                "email": "tracyj.406@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

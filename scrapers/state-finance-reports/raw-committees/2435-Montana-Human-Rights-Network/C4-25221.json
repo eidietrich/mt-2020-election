@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 25221,
+        "fromDateStr": "10/12/2010",
+        "toDateStr": "10/17/2010",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 2435,
+        "candidateName": "Montana Human Rights Network",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/12/2010",
+        "end_date": "10/17/2010",
+        "receipts": 0.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 0.0
+    },
+    "contributions": [],
+    "expenditures": []
+}

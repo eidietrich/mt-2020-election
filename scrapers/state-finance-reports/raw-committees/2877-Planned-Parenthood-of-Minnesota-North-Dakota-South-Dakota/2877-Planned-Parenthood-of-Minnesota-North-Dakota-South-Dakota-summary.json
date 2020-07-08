@@ -1,0 +1,43 @@
+{
+    "slug": "2877-Planned-Parenthood-of-Minnesota-North-Dakota-South-Dakota",
+    "committeeName": "Planned Parenthood of Minnesota, North Dakota, South Dakota",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2877,
+        "committeeName": "Planned Parenthood of Minnesota, North Dakota, South Dakota",
+        "committeeAddress": "671 Vandalia Street, St. Paul, MN 55114",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": null,
+        "electionYear": "2012",
+        "amendedDate": 1357848839000,
+        "entityFullName": "Planned Parenthood of Minnesota, North Dakota, South Dakota",
+        "entityCity": "St. Paul",
+        "entityState": "MN"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Grinde, Scott",
+                "address": "671 Vandalia Street St. Paul, MN  55114",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

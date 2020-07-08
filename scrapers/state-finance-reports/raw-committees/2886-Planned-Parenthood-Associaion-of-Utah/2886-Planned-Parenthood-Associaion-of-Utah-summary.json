@@ -1,0 +1,43 @@
+{
+    "slug": "2886-Planned-Parenthood-Associaion-of-Utah",
+    "committeeName": "Planned Parenthood Associaion of Utah",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2886,
+        "committeeName": "Planned Parenthood Associaion of Utah",
+        "committeeAddress": "654 S. 900 E, Salt Lake, UT 84102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1357853414000,
+        "entityFullName": "Planned Parenthood Associaion of Utah",
+        "entityCity": "Salt Lake",
+        "entityState": "UT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bailey, Lesley",
+                "address": "654 S. 900 E Salt Lake City, UT  84102",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

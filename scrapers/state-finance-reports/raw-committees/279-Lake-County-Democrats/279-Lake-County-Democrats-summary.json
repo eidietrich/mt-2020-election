@@ -1,0 +1,43 @@
+{
+    "slug": "279-Lake-County-Democrats",
+    "committeeName": "Lake County Democrats",
+    "scrape_date": "2020-07-02",
+    "periods": 7,
+    "data": {
+        "committeeId": 279,
+        "committeeName": "Lake County Democrats",
+        "committeeAddress": "PO Box 1044, Polson, MT 59860",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1585116000000,
+        "entityFullName": "Lake County Democrats",
+        "entityCity": "Polson",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ladner, Jackie",
+                "address": "33610 N Finley Point Rd Polson, MT  59860",
+                "phone": "(406) 212-5572",
+                "email": "jladner1942@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "The purpose of the Lake County Democratic Central Cmte is t identify candidates for local and state elections for the Democratic Party and to help elect them to office.",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

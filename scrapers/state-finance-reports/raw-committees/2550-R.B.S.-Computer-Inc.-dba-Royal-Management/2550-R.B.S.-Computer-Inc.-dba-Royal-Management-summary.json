@@ -1,0 +1,43 @@
+{
+    "slug": "2550-R.B.S.-Computer-Inc.-dba-Royal-Management",
+    "committeeName": "R.B.S. Computer, Inc. dba Royal Management",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2550,
+        "committeeName": "R.B.S. Computer, Inc. dba Royal Management",
+        "committeeAddress": "PO Box 690627, San Antonio, TX 78269",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1283184642000,
+        "entityFullName": "R.B.S. Computer, Inc. dba Royal Management",
+        "entityCity": "San Antonio",
+        "entityState": "TX"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hudson, Rebecca I.",
+                "address": "PO Box 690627 25331 IH 10 West Suite 101 San Antonio, TX  78257",
+                "phone": "",
+                "email": "royalmanag@aol.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-164, Cap the Rate",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

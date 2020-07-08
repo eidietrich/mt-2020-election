@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 42759,
+        "fromDateStr": "06/25/2018",
+        "toDateStr": "08/03/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 245,
+        "candidateName": "Dawson County Republican Central Committee",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/25/2018",
+        "end_date": "08/03/2018",
+        "receipts": 0.0,
+        "expenditures": 325.06,
+        "cash_in_bank": 7959.45
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "07/23/18",
+            "Entity Name": "Dawson County Republican Central Committee",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "po box 552",
+            "City": "Terry",
+            "State": "MT",
+            "Zip": "59349",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 300.0,
+            "Purpose": "Cash for Fair Booth Gun Raffle, 500+ people, $5 ticket",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "08/01/18",
+            "Entity Name": "Dawson County Republican Central Committee",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "po box 552",
+            "City": "Terry",
+            "State": "MT",
+            "Zip": "59349",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 25.06,
+            "Purpose": "Reverse savings deposit money accidently entered into C-6 Balance. Whoops",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

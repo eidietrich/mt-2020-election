@@ -1,0 +1,37 @@
+{
+    "slug": "4974-MINE-PAC-aka-Montana-Mining-Assn.",
+    "committeeName": "MINE PAC aka Montana Mining Assn.",
+    "scrape_date": "2020-07-02",
+    "periods": 13,
+    "data": {
+        "committeeId": 4974,
+        "committeeName": "MINE PAC aka Montana Mining Assn.",
+        "committeeAddress": "P.O. Box 1026, Whitehall, MT 59759",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1456124400000,
+        "entityFullName": "MINE PAC aka Montana Mining Assn.",
+        "entityCity": "Whitehall",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Johnson, Tamara J",
+                "address": "P.O. Box 1026 Whitehall, MT  59759",
+                "phone": "(406) 287-3012",
+                "email": "tjohnson@montanamining.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

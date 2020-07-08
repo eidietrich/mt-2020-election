@@ -1,0 +1,43 @@
+{
+    "slug": "3445-Montana-Wildlife-Federation",
+    "committeeName": "Montana Wildlife Federation",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 3445,
+        "committeeName": "Montana Wildlife Federation",
+        "committeeAddress": "P O Box 1175, Helena, MT 59624",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1506232800000,
+        "entityFullName": "Montana Wildlife Federation",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McLaughlin, Anne",
+                "address": "PO Box 1175 Helena, MT  59624",
+                "phone": "(406) 458-0227",
+                "email": "mwf@mtwf.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR 126",
+                "position": "Oppose",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

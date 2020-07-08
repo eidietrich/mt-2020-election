@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 46569,
+        "fromDateStr": "01/23/2020",
+        "toDateStr": "02/20/2020",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 8237,
+        "candidateName": "Special Mail-out Ballot Regarding Annexation into the Central Valley Fire District (City of Belgrade)",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/23/2020",
+        "end_date": "02/20/2020",
+        "receipts": 0.0,
+        "expenditures": 11019.14,
+        "cash_in_bank": -11258.84
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "02/20/20",
+            "Entity Name": "City of Belgrade",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "91 E Central Ave",
+            "City": "Belgrade",
+            "State": "MT",
+            "Zip": "59714",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 11019.14,
+            "Purpose": "Postage; print/fold/stuff letter to registered voters; print postcard to registered voters; luncheon, payroll",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "mailers, education luncheon",
+            "Expenditure Paid Communications Quantity": "2900 flyers, 1500 letters + postage, 1500 postcards + postage, 20 attendees at luncheon",
+            "Expenditure Paid Communications Subject Matter": "Yes vs No vote on annexation in to Central Valley Fire District."
+        }
+    ]
+}

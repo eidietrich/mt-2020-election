@@ -1,0 +1,43 @@
+{
+    "slug": "3030-Citizens-For-Public-Safety",
+    "committeeName": "Citizens For Public Safety",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 3030,
+        "committeeName": "Citizens For Public Safety",
+        "committeeAddress": "2120 S Reserve Pmb 445, Missoula, MT 59801",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2014",
+        "amendedDate": 1559628000000,
+        "entityFullName": "Citizens For Public Safety",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hooper, Elizabeth",
+                "address": "2120 Reserve Pmb 445 Missoula, MT  59801",
+                "phone": "(303) 638-6848",
+                "email": "lhooper@iaff2457.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Fire District Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

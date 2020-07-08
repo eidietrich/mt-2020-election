@@ -1,0 +1,43 @@
+{
+    "slug": "3760-Datsopoulos-MacDonald-and-Lind-Partnership-Political-Committee",
+    "committeeName": "Datsopoulos, MacDonald, and Lind Partnership Political Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 3760,
+        "committeeName": "Datsopoulos, MacDonald, and Lind Partnership Political Committee",
+        "committeeAddress": "201 W Main St, Missoula, MT 59802",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1414130400000,
+        "entityFullName": "Datsopoulos, MacDonald, and Lind Partnership Political Committee",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wekkin, Carol",
+                "address": "201 W Main  Missoula, MT  59802",
+                "phone": "(406) 728-0810",
+                "email": "cwekkin@dmllaw.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Lind, Dennis",
+                "address": "201 W Main St, Suite 201 Missoula, MT  59802",
+                "phone": "",
+                "email": "dlind@dmllaw.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support or oppose local, district, and statewide candidates",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

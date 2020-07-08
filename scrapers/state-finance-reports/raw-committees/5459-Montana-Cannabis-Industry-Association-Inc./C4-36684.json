@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 36684,
+        "fromDateStr": "06/28/2016",
+        "toDateStr": "07/27/2016",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 5459,
+        "candidateName": "Montana Cannabis Industry Association, Inc.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/28/2016",
+        "end_date": "07/27/2016",
+        "receipts": 0.0,
+        "expenditures": 20000.0,
+        "cash_in_bank": -126393.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "07/01/16",
+            "Entity Name": "M+R Strategic Services",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "405 S 1st St. West",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Expenditure Type": "Debts and Loans Not Yet Paid",
+            "Amount": 20000.0,
+            "Purpose": "Campaign management, field staff for petitioning, travel, office overhead and materials",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "07/18/16",
+            "Entity Name": "M+R Strategic Services",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "405 S 1st St. West",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Expenditure Type": "Debt and Loan Payment",
+            "Amount": 20000.0,
+            "Purpose": "",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

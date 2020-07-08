@@ -1,0 +1,43 @@
+{
+    "slug": "2982-Red-Eagle-Aviation",
+    "committeeName": "Red Eagle Aviation",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2982,
+        "committeeName": "Red Eagle Aviation",
+        "committeeAddress": "1880 Hwy 93 S, Kalispell, MT 59901",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": null,
+        "electionYear": "2013",
+        "amendedDate": 1384381889000,
+        "entityFullName": "Red Eagle Aviation",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Save Your Airport",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

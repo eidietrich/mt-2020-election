@@ -1,0 +1,43 @@
+{
+    "slug": "2144-Healthy-Montana-Ballot-Committee-For-I-155",
+    "committeeName": "Healthy Montana Ballot Committee For I-155",
+    "scrape_date": "2020-07-01",
+    "periods": 10,
+    "data": {
+        "committeeId": 2144,
+        "committeeName": "Healthy Montana Ballot Committee For I-155",
+        "committeeAddress": "PO Box 2008 80 S. Warren, Helena, MT 59601",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1207590503000,
+        "entityFullName": "Healthy Montana Ballot Committee For I-155",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Williams, Carol",
+                "address": "3533 Lincoln Hills Pt. Missoula, MT  59802",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "N/A",
+                "address": "PO Box 2008 Helena, MT  59601",
+                "phone": "(406) 449-7303",
+                "email": "doug@tmgcomm.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To promote passage of I-155",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

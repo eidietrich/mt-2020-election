@@ -1,0 +1,53 @@
+{
+    "slug": "6213-Datsopoulos-MacDonald-&-Lind-PC",
+    "committeeName": "Datsopoulos MacDonald & Lind, PC",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6213,
+        "committeeName": "Datsopoulos MacDonald & Lind, PC",
+        "committeeAddress": "201 W. Main Street, Suite 201, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1480316400000,
+        "entityFullName": "Datsopoulos MacDonald & Lind, PC",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Lind, Dennis",
+                "address": "201 W. Main Street, Suite 201 Missoula, MT  59802",
+                "phone": "",
+                "email": "dlind@dmllaw.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Taylor, Mary",
+                "address": "P.O. Box 838 Helena, MT  59624",
+                "phone": "",
+                "email": "mtla@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dirk Sandefur - Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

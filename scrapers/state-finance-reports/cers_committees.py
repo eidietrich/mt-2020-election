@@ -23,7 +23,10 @@ EXCLUDE_NAMES = [
     'Corpotest 2',
     'Montana ATM Incidental Cmte',
     'FAke committee',
-] # COPP test
+
+    # massive reports - need to process another way
+    'Actblue Montana'
+]
 
 class CommitteeList:
 
@@ -35,10 +38,20 @@ class CommitteeList:
         self.cache_path = cachePath
 
         committee_list = self._fetch_committee_list(search, checkCommitteeListCache=checkCommitteeListCache)
-        
         print(f'{len(committee_list)} committees fetched')
 
-        self.committees = [Committee(c) for c in committee_list]
+        if writeCommitteeListCache:
+            file_path = os.path.join(self.cache_path, f'committees-list.json')
+            if not os.path.exists(self.cache_path): os.makedirs(self.cache_path)
+            with open(file_path, 'w') as f:
+                json.dump(committee_list, f, indent=4)
+            print(f' > Committees list written to {file_path}')
+
+        # self.committees = [Committee(c) for c in committee_list]
+        self.committees = []
+        for i,c in enumerate(committee_list):
+            print(f'{i}/{len(committee_list)}')
+            self.committees.append(Committee(c))
         self.contributions = self._get_contributions()
         self.expenditures = self._get_expenditures()
 
@@ -67,9 +80,8 @@ class CommitteeList:
 
     def _fetch_committee_list(self, search, raw=False,
         checkCommitteeListCache=False,
-        writeCommitteeListCache=False,
-        maxCommittees=200
-    ):
+        maxCommittees=10000,
+    ):  
         file_path = os.path.join(self.cache_path, f'committees-list.json')
         if checkCommitteeListCache and os.path.isfile(file_path):
             print(f'-- Fetching committees list from cache at {file_path}')
@@ -106,11 +118,7 @@ class CommitteeList:
             'entityState': d['entityDTO']['entityState'],
         }, full))
 
-        if writeCommitteeListCache:
-            if not os.path.exists(self.cache_path): os.makedirs(self.cache_path)
-            with open(file_path, 'w') as f:
-                json.dump(cleaned, f, indent=4)
-            print(f'Committees list written to {file_path}')
+        
 
         if raw:
             return full
@@ -126,7 +134,8 @@ class CommitteeList:
 class Committee:
     def __init__(self, data, cachePath='scrapers/state-finance-reports/raw-committees',
         fetchSummary=True, fetchReports=True, fetchFullReports=True,
-        checkCache=True, writeCache=True
+        checkCache=True, writeCache=True,
+        reportFilterDate='01/01/2015',
     ):
         # Init based on data from committee list
         self.id = data['committeeId']
@@ -136,6 +145,7 @@ class Committee:
         self.contributions = pd.DataFrame()
         self.expenditures = pd.DataFrame()
         self.summary = {}
+        self.finances = {}
 
         if (self.name and (self.name not in EXCLUDE_NAMES)):
             print(f'## {self.name} ({self.id})')
@@ -145,19 +155,21 @@ class Committee:
             self.summary = self._fetch_c2_committee_summary()
 
             if fetchReports:
-                self.raw_reports = self._fetch_committee_reports()
-                # print (json.dumps(self.raw_reports, indent=2))
-            if fetchReports and fetchFullReports and len(self.raw_reports) > 0:
-                print(f'Fetching {len(self.raw_reports)} finance reports for {self.name} ({self.id})')
-                self.full_reports = [Report(r, cachePath=self.cache_path, checkCache=checkCache, writeCache=writeCache) for r in self.raw_reports]
+                raw_reports = self._fetch_committee_reports()
+                filter_date = datetime.strptime(reportFilterDate, '%m/%d/%Y')
+                recent_reports = [r for r in raw_reports if datetime.strptime(r['toDateStr'], '%m/%d/%Y') > filter_date]
+                # print(f'{len(raw_reports)}, {len(recent_reports)} recent')
+            if fetchReports and fetchFullReports and len(recent_reports) > 0:
+                print(f'Fetching {len(recent_reports)} finance reports for {self.name} ({self.id})')
+                self.full_reports = [Report(r, cachePath=self.cache_path, checkCache=checkCache, writeCache=writeCache) for r in recent_reports]
                 
                 self.contributions = self._get_contributions()
                 self.expenditures = self._get_expenditures()
-                self.summary = self._get_summary()
+                self.finances = self._get_financial_summary()
                 # if (self.summary['reports'] > 0): print(json.dumps(self.summary, indent=2))
                 self._export()
             else:
-                print(f'-- No finance reports found')
+                print(f'-- No recent finance reports')
     
     def _fetch_c2_committee_summary(self):
         # print(f'Fetching summary for {self.name} ({self.id})')
@@ -258,7 +270,7 @@ class Committee:
         # print(json.dumps(full, indent=2))
         return cleaned
 
-    def _get_summary(self):
+    def _get_financial_summary(self):
         start_date = '01-01-2019'
 
         contributions = self.contributions.copy()
@@ -360,37 +372,7 @@ class Committee:
             json.dump(summary, f, indent=4)
         self.contributions.to_json(contributions_path, orient='records')
         self.expenditures.to_json(expenditures_path, orient='records')
-        print(self.slug, 'written to', os.path.join(os.getcwd(), self.cache_path))
-    
-    """
-    # Data to collect from committee registration view (C2)
-    - Committee status
-    - Incorporation date
-    - Treasurer name / addresses / contact
-    - Other officer names / addresses / contact
-    - Committee purpose
-    """
-    ####
-    """
-    # Data to collect from financial reports
-    - List of reports
-        from, to, type, status
-    - For each report
-        - filing date
-        - status
-        - treasurer name (to track changes)
-        - receipts/expenditures/cash-in-bank
-        - total contributions < $35
-        - contributions/expenditures (can adapt from C5 reports)
-    """
-
-    """
-    Agggregate:
-    - Total raised
-    - Total raised since Jan. 1, 2019
-    - Total Spent
-    - Total spent since Jan. 1, 2019
-    """
+        print(' >', self.slug, 'written to', os.path.join(os.getcwd(), self.cache_path))
 
 class Report:
     def __init__(self, data, cachePath, checkCache=True, writeCache=True, fetchFullReports=True):
@@ -440,7 +422,7 @@ class Report:
         """
         Approach: Assume it's manageable to pull everything from the 'view report' summary
         """
-        print(f'Fetching C6 {self.start_date}-{self.end_date} ({self.id})')
+        print(f'-- Fetching C6 {self.start_date}-{self.end_date} ({self.id})')
         post_url = 'https://cers-ext.mt.gov/CampaignTracker/public/viewFinanceReport/retrieveReport'
         post_payload = {
             'committeeId': self.data['committeeId'],
@@ -458,6 +440,18 @@ class Report:
 
         def parse_dollars(raw):
             return float(raw.replace('$','').replace(',','').replace(',','').replace('(','-').replace(')',''))
+        
+        if not soup.find('div', id='summaryAccordionId'):
+            self.summary = {
+                'start_date': self.start_date,
+                'end_date': self.end_date,
+                'receipts': 0,
+                'expenditures': 0,
+                'cash_in_bank': 0
+            }
+            self.contributions = []
+            self.expenditures = []
+            return
 
         summary_table = soup.find('div', id='summaryAccordionId').find('div', {'class': 'panel-body'})
         summary = {
@@ -470,42 +464,45 @@ class Report:
         
         detail_url = 'https://cers-ext.mt.gov/CampaignTracker/public/viewFinanceReport/financeRepDetailList'
 
-        expenditures_raw = session.post(detail_url, {'listName': "expendOther"})
-        expenditures = self._parse_expenditure_table(expenditures_raw)
-        
+        # money in
         contributions_raw = session.post(detail_url, {'listName': "individual"})
         contributions = self._parse_contributions_table(contributions_raw)
         # print(json.dumps(contributions, indent=2))
 
-        # Unhandled for now
-        try:
-            loan_raw = session.post(detail_url, {'listName': "loan"})
-            if (loan_raw.json() and loan_raw.json() != []): print('## Need to handle C6 loans')
-        except json.decoder.JSONDecodeError:
-            # For weird bug with 4J's Casino 46201
-            pass
-
-        fund_raw = session.post(detail_url, {'listName': "fundraisers"})
-        if (fund_raw.json() != []): print('## Need to handle C6 fundraisers')
+        fundraisers_raw = session.post(detail_url, {'listName': "fundraisers"})
+        fundraisers = self._parse_contributions_table(fundraisers_raw)
 
         refund_raw = session.post(detail_url, {'listName': "refunds"})
-        if (refund_raw.json() != []): print('## Need to handle C6 refunds')
-
+        refunds = self._parse_contributions_table(refund_raw)
+        for r in refunds:
+            r['Amount'] = -1 * r['Amount'] # negative money in
+        
         comm_raw = session.post(detail_url, {'listName': "committee"})
-        if (comm_raw.json() != []): print('## Need to handle C6 committee contributions')
+        committee_contributions = self._parse_contributions_table(comm_raw)
+        # if (comm_raw.json() != []): print('## Need to handle C6 committee contributions')
 
-        petty_raw = session.post(detail_url, {'listName': "pettyCash"})
-        if (petty_raw.json() != []): print('## Need to handle C6 petty cash')
+        try:
+            loan_raw = session.post(detail_url, {'listName': "loan"})
+            loans = self._parse_contributions_table(loan_raw)
+        except json.decoder.JSONDecodeError:
+            # For weird bug with 4J's Casino 46201
+            loans = []
+            pass
+
+        # money out
+        expenditures_raw = session.post(detail_url, {'listName': "expendOther"})
+        expenditures = self._parse_expenditure_table(expenditures_raw)
 
         debt_raw = session.post(detail_url, {'listName': "debtLoan"})
-        if (debt_raw.json() != []): print('## Need to handle C6 debts')
+        debts = self._parse_expenditure_table(debt_raw)
 
         pay_raw = session.post(detail_url, {'listName': "payment"})
-        if (pay_raw.json() != []): print('## Need to handle C6 payments only')
+        payments = self._parse_expenditure_table(pay_raw)
+
 
         self.summary = summary
-        self.contributions = contributions
-        self.expenditures = expenditures
+        self.contributions = contributions + refunds + fundraisers + committee_contributions + loans
+        self.expenditures = expenditures + debts + payments
 
     def _parse_expenditure_table(self, r):
         rows = r.json()
@@ -548,6 +545,8 @@ class Report:
                 amount_type = 'CA'
             elif (row['inKindAmt'] > 0):
                 amount_type = 'IK'
+            else:
+                amount_type = 'Neither'
             cleaned.append({
                 'Date Paid': date,
                 'Entity Name': row['entityName'],
@@ -585,17 +584,24 @@ class Report:
     def _parse_address(self, raw):
         # Assumes address format '1008 Prospect Ave, Helena, MT 59601'
         # Edge cases will be a pain in the ass here
+        
         if (raw == ''):
             return '','','',''
         address = raw.replace('Washington, DC', 'Washington DC, DC').split(', ')
+        if len(address) < 3:
+            return raw,'','',''
         addressLn1 = (', ').join(address[0:len(address)-2])
         city = address[-2].strip()
         state_zip = address[-1].split(' ')
-        state = state_zip[0]
-        zip_code = state_zip[1]
+        if len(state_zip) == 2:
+            state = state_zip[0]
+            zip_code = state_zip[1]
+        else:
+            print('Address parse error, not len 2', state_zip)
+            state = ''
+            zip_code = ''
 
-        if (len(state_zip) != 2): print('Address parse error, not len 2', state_zip)
-        if (len(state) != 2): print("State parse error, not len 2", state)
+        if (len(state) != 2): print(f"State parse error, not len 2: '{state}'")
 
         return addressLn1, city, state, zip_code
 

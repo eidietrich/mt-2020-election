@@ -1,0 +1,37 @@
+{
+    "slug": "6913-PPAMT-IC",
+    "committeeName": "PPAMT-IC",
+    "scrape_date": "2020-07-02",
+    "periods": 8,
+    "data": {
+        "committeeId": 6913,
+        "committeeName": "PPAMT-IC",
+        "committeeAddress": "1116 Grand Avenue, Suite 201, BIllings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1533189600000,
+        "entityFullName": "PPAMT-IC",
+        "entityCity": "BIllings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ranta, Katie",
+                "address": "4313 - 5th Ave., S.  Great Falls, MT  59405",
+                "phone": "(406) 360-9708",
+                "email": "katie.ranta@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

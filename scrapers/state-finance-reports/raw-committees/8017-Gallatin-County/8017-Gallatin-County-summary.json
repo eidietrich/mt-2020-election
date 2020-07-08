@@ -1,0 +1,43 @@
+{
+    "slug": "8017-Gallatin-County",
+    "committeeName": "Gallatin County",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 8017,
+        "committeeName": "Gallatin County",
+        "committeeAddress": "311 W. Main St., Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2019",
+        "amendedDate": 1574233200000,
+        "entityFullName": "Gallatin County",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bermes, Whitney A",
+                "address": "311 W. Main St. Bozeman, MT  59715",
+                "phone": "(406) 582-3008",
+                "email": "whitney.bermes@gallatin.mt.gov"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Educate citizens about the impacts of the passage or failure of $59 million bond to help pay to replace Gallatin County Law and Justice Center ",
+                "position": "Other",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

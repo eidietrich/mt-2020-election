@@ -1,0 +1,43 @@
+{
+    "slug": "3814-Leslae-J-E-Dalpiaz-PC",
+    "committeeName": "Leslae J E Dalpiaz PC",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3814,
+        "committeeName": "Leslae J E Dalpiaz PC",
+        "committeeAddress": "PO Box 8291, Missoula, MT 59807",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1417158000000,
+        "entityFullName": "Leslae J E Dalpiaz PC",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Dalpiaz, Leslae J E",
+                "address": "PO Box 8291 Missoula, MT  59807",
+                "phone": "(406) 240-1748",
+                "email": "edalpiaz@dalpiazlaw.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Justice Mike Wheat",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

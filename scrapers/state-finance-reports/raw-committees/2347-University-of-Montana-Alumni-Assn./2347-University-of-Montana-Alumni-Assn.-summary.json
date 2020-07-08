@@ -1,0 +1,43 @@
+{
+    "slug": "2347-University-of-Montana-Alumni-Assn.",
+    "committeeName": "University of Montana Alumni Assn.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2347,
+        "committeeName": "University of Montana Alumni Assn.",
+        "committeeAddress": "Brantly Hall, Rm 115, Missoula, MT 59812",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": null,
+        "electionYear": "2008",
+        "amendedDate": 1230310812000,
+        "entityFullName": "University of Montana Alumni Assn.",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Johnston, Bill",
+                "address": "Brantly Hall, Alumni Relations Missoula, MT  59812",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Committee to Keep the Six Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "slug": "5198-Montana-Wildlife-Federation",
+    "committeeName": "Montana Wildlife Federation",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 5198,
+        "committeeName": "Montana Wildlife Federation",
+        "committeeAddress": "PO Box 1175, Helena, MT 69624",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1539151200000,
+        "entityFullName": "Montana Wildlife Federation",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Maki, Kevin",
+                "address": "PO Box 1175 Helena, MT  59601",
+                "phone": "",
+                "email": "kg_maki@yahoo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

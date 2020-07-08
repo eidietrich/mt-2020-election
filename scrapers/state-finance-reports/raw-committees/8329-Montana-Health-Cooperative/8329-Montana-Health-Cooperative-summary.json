@@ -1,7 +1,7 @@
 {
     "slug": "8329-Montana-Health-Cooperative",
     "committeeName": "Montana Health Cooperative",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 1,
     "data": {
         "committeeId": 8329,
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 1,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 0,
-        "num_expenditures": 0,
-        "expenditures_19_20": 0,
-        "num_expenditures_19_20": 0,
-        "cash_on_hand": 500.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Slonaker, David",
+                "address": "PO Box 5358 Helena, MT  59604",
+                "phone": "(406) 447-9510",
+                "email": "blair@mhc.coop"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Montana Democratic Party",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
     }
 }

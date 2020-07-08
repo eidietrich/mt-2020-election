@@ -1,0 +1,43 @@
+{
+    "slug": "5646-Montana-Milling",
+    "committeeName": "Montana Milling",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5646,
+        "committeeName": "Montana Milling",
+        "committeeAddress": "2123 Vaughan Rd, Great Falls, MT 59404",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1469167200000,
+        "entityFullName": "Montana Milling",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Thayer, Greg",
+                "address": "2123 Vaughn Rd Great Falls, MT  59404",
+                "phone": "(406) 771-9229",
+                "email": "greg@montanamilling.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Contribute to Yes for Great Falls Kids",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

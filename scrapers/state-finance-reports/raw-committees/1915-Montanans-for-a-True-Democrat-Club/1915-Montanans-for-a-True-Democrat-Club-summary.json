@@ -1,0 +1,37 @@
+{
+    "slug": "1915-Montanans-for-a-True-Democrat-Club",
+    "committeeName": "Montanans for a True Democrat Club",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 1915,
+        "committeeName": "Montanans for a True Democrat Club",
+        "committeeAddress": "516 South Californa Street, Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1415862000000,
+        "entityFullName": "Montanans for a True Democrat Club",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Gregor, Glenn",
+                "address": "3860 Chokecherry East Helena, MT  59635",
+                "phone": "(406) 227-3719",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Fenderson, Gene",
+                "address": "516 S. California Helena, MT  59601",
+                "phone": "(406) 431-6657",
+                "email": "gfenderson@msn.com"
+            }
+        ],
+        "issues": []
+    }
+}

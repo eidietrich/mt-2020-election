@@ -1,0 +1,37 @@
+{
+    "slug": "1824-Citizens-for-Polson-City-Municipal-Services",
+    "committeeName": "Citizens for Polson City Municipal Services",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 1824,
+        "committeeName": "Citizens for Polson City Municipal Services",
+        "committeeAddress": "213 1st Street West, Polson, MT 59860",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2006",
+        "amendedDate": 1157575543000,
+        "entityFullName": "Citizens for Polson City Municipal Services",
+        "entityCity": "Polson",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Rensvold, David A",
+                "address": "213 1st Street West Polson, MT  59860",
+                "phone": "(406) 883-1801",
+                "email": "david.rensvold@investmentcenters.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

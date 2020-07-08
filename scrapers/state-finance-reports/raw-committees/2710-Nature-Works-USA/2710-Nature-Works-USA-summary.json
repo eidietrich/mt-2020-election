@@ -1,0 +1,43 @@
+{
+    "slug": "2710-Nature-Works-USA",
+    "committeeName": "Nature Works USA",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2710,
+        "committeeName": "Nature Works USA",
+        "committeeAddress": "682 Schoolhouse Lake Rd., Troy, MT 59935",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1317827247000,
+        "entityFullName": "Nature Works USA",
+        "entityCity": "Troy",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Sharkey-Knox, Sandie",
+                "address": "682 Schoolhouse Lake Rd. Troy, MT  59935",
+                "phone": "",
+                "email": "natureworks.usa@frontier.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "IR-124",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

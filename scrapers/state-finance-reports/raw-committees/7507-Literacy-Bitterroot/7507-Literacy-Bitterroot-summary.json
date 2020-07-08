@@ -1,0 +1,43 @@
+{
+    "slug": "7507-Literacy-Bitterroot",
+    "committeeName": "Literacy Bitterroot",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 7507,
+        "committeeName": "Literacy Bitterroot",
+        "committeeAddress": "303 N Third ST, Ste A, Hamilton, MT 59840",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1544511600000,
+        "entityFullName": "Literacy Bitterroot",
+        "entityCity": "Hamilton",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Stark, Dixie S",
+                "address": "4005 W Fork RD Trlr 11 Darby, MT  59829",
+                "phone": "(406) 821-4636",
+                "email": "abc123@montana.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Ravalli County Levy to Support Adult Literacy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

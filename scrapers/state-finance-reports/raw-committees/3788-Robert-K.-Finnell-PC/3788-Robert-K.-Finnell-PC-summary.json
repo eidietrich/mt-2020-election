@@ -1,0 +1,37 @@
+{
+    "slug": "3788-Robert-K.-Finnell-PC",
+    "committeeName": "Robert K. Finnell, PC",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3788,
+        "committeeName": "Robert K. Finnell, PC",
+        "committeeAddress": "PO Box 63, Rome, GA 30162",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1415257200000,
+        "entityFullName": "Robert K. Finnell, PC",
+        "entityCity": "Rome",
+        "entityState": "GA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Requested, Requested",
+                "address": "PO Box 63 Rome, GA  30162",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

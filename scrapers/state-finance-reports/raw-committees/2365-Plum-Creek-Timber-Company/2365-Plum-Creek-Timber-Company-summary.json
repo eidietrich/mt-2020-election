@@ -1,0 +1,43 @@
+{
+    "slug": "2365-Plum-Creek-Timber-Company",
+    "committeeName": "Plum Creek Timber Company",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2365,
+        "committeeName": "Plum Creek Timber Company",
+        "committeeAddress": "PO Box 1990, Columbia Falls, MT 59903",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1241106609000,
+        "entityFullName": "Plum Creek Timber Company",
+        "entityCity": "Columbia Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Smith, Kirsten",
+                "address": "999 Third Ave Suite 4300 Seattle, WA  98104",
+                "phone": "",
+                "email": "kirsten.smith@plumcreek.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Cmte for Clean Water & Open Lands",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

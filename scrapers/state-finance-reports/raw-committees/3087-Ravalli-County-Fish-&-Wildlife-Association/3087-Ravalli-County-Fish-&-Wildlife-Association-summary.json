@@ -1,0 +1,37 @@
+{
+    "slug": "3087-Ravalli-County-Fish-&-Wildlife-Association",
+    "committeeName": "Ravalli County Fish & Wildlife Association",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3087,
+        "committeeName": "Ravalli County Fish & Wildlife Association",
+        "committeeAddress": "Po Box 238, Hamilton, MT 59840",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1399874400000,
+        "entityFullName": "Ravalli County Fish & Wildlife Association",
+        "entityCity": "Hamilton",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Jones, Ronald J",
+                "address": "1062 Hamilton Heights Road Corvallis, MT  59828",
+                "phone": "(406) 363-8453",
+                "email": "rammajamma@g.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

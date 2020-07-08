@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 42675,
+        "fromDateStr": "06/06/2018",
+        "toDateStr": "07/30/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 6989,
+        "candidateName": "Kalispell Regional Medical Center, Inc. Incidental Committee",
+        "statusDescr": "Amended",
+        "amendedDate": 1542814533000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/06/2018",
+        "end_date": "07/30/2018",
+        "receipts": 0.0,
+        "expenditures": 962.89,
+        "cash_in_bank": -164113.48
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "07/30/18",
+            "Entity Name": "Healthy Montana for I-185",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1614",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 962.89,
+            "Purpose": "In kind contribution of staff time to plan for and create ballot initiative - see attached detail",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

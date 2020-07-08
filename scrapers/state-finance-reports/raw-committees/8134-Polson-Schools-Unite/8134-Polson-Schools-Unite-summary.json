@@ -1,0 +1,37 @@
+{
+    "slug": "8134-Polson-Schools-Unite",
+    "committeeName": "Polson Schools Unite",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 8134,
+        "committeeName": "Polson Schools Unite",
+        "committeeAddress": "PO Box 41, Polson, MT 59860",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2019",
+        "amendedDate": 1581058800000,
+        "entityFullName": "Polson Schools Unite",
+        "entityCity": "Polson",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Lake, Chanel",
+                "address": "PO Box 41 Polson, MT  59860",
+                "phone": "",
+                "email": "spd4u@centurtytel.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

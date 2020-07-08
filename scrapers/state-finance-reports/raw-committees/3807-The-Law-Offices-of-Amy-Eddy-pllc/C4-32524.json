@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 32524,
+        "fromDateStr": "08/01/2013",
+        "toDateStr": "11/04/2014",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 3807,
+        "candidateName": "The Law Offices of Amy Eddy, pllc",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "08/01/2013",
+        "end_date": "11/04/2014",
+        "receipts": 0.0,
+        "expenditures": 1000.0,
+        "cash_in_bank": -1000.0
+    },
+    "contributions": [],
+    "expenditures": []
+}

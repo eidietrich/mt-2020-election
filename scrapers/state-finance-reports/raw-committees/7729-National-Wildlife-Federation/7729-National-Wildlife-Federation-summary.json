@@ -1,0 +1,43 @@
+{
+    "slug": "7729-National-Wildlife-Federation",
+    "committeeName": "National Wildlife Federation",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 7729,
+        "committeeName": "National Wildlife Federation",
+        "committeeAddress": "11100 Wildlife Center Drive, Reston, VA 20190",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1539928800000,
+        "entityFullName": "National Wildlife Federation",
+        "entityCity": "Reston",
+        "entityState": "VA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wagner, Karen",
+                "address": "11100 Wildlife Center Drive Reston, VA  20190",
+                "phone": "(703) 438-6297",
+                "email": "wagnerkl@nwf.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Yes for Responsible Mining",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

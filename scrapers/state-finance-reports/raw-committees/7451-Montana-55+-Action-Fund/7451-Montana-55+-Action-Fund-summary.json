@@ -1,0 +1,133 @@
+{
+    "slug": "7451-Montana-55+-Action-Fund",
+    "committeeName": "Montana 55+ Action Fund",
+    "scrape_date": "2020-07-02",
+    "periods": 7,
+    "data": {
+        "committeeId": 7451,
+        "committeeName": "Montana 55+ Action Fund",
+        "committeeAddress": "PO Box 21892, Billings, MT 59104",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1589176800000,
+        "entityFullName": "Montana 55+ Action Fund",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Sweeney, Patrick",
+                "address": "PO Box 21892 Billings, MT  59104",
+                "phone": "(406) 252-0958",
+                "email": "jbachmeier@mt55action.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Bachmeier, Jacob D",
+                "address": "PO BOX 1849 Havre, MT  59501",
+                "phone": "(406) 879-6427",
+                "email": "jbachmeier@mt55action.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Laura Dever for HD 22",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Amelia Marquez for HD 52",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Purpose of Committee",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mary McNally for SD 24",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jasmine Krotkov for HD 25",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Barbara Bassette for HD 24",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Eldena Bear Don't Walk for HD 92",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Margaret Gorksi for HD 88",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Diane Sands for SD49",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Andy Shirtliff for PSC # 5",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bryher Herak for HD 75",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Doug Kaercher for PSC #1",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jade Bahr for HD 50",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jessica Karjala for HD 48",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Paul Tuss for SD 14",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Lee Bridges for HD 93",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jacob Bachmeier for HD 28",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Darryl Wilson for HD 51",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Anna Drew for HD 58",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

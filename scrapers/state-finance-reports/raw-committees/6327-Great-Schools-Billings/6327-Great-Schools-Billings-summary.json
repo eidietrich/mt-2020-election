@@ -1,0 +1,43 @@
+{
+    "slug": "6327-Great-Schools-Billings",
+    "committeeName": "Great Schools Billings",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 6327,
+        "committeeName": "Great Schools Billings",
+        "committeeAddress": "404 Houle Dr, Billings, MT 59102",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2017",
+        "amendedDate": 1552975200000,
+        "entityFullName": "Great Schools Billings",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Driscoll, Robyn",
+                "address": "404 Houle Dr. Billings, MT  59102",
+                "phone": "(406) 208-0982",
+                "email": "robyn@robyndriscoll.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Billings Public Schools Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

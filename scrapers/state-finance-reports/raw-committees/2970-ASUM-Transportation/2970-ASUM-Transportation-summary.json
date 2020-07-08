@@ -1,0 +1,43 @@
+{
+    "slug": "2970-ASUM-Transportation",
+    "committeeName": "ASUM Transportation",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2970,
+        "committeeName": "ASUM Transportation",
+        "committeeAddress": "UC Suite 105, Missoula, MT 59812",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2013",
+        "amendedDate": 1383081446000,
+        "entityFullName": "ASUM Transportation",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wilson, Nancy",
+                "address": "UC Suite 105 Missoula, MT  59812",
+                "phone": "",
+                "email": "nancy.wilson@mso.umt.edu"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Missoula Urban Transit District Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

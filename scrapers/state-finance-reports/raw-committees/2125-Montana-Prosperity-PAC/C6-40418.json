@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 40418,
+        "fromDateStr": "03/03/2018",
+        "toDateStr": "04/30/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 2125,
+        "candidateName": "Montana Prosperity PAC",
+        "statusDescr": "Amended",
+        "amendedDate": 1593449921000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/03/2018",
+        "end_date": "04/30/2018",
+        "receipts": 3000.0,
+        "expenditures": 1050.0,
+        "cash_in_bank": 3043.22
+    },
+    "contributions": [
+        {
+            "Date Paid": "04/30/18",
+            "Entity Name": "MDU Resources Group Good Government Fund",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 5650",
+            "City": "Bismarck",
+            "State": "ND",
+            "Zip": "58506",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Independent Committee Contributions",
+            "Amount": 3000.0,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "Primary",
+            "Total Primary": 3000.0,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

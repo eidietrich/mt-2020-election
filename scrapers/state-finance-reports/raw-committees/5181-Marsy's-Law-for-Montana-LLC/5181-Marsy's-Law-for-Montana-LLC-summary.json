@@ -1,0 +1,43 @@
+{
+    "slug": "5181-Marsy's-Law-for-Montana-LLC",
+    "committeeName": "Marsy's Law for Montana LLC",
+    "scrape_date": "2020-07-02",
+    "periods": 14,
+    "data": {
+        "committeeId": 5181,
+        "committeeName": "Marsy's Law for Montana LLC",
+        "committeeAddress": "15 Enterprise #550, Aliso Veijo, CA 92656",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1489129200000,
+        "entityFullName": "Marsy's Law for Montana LLC",
+        "entityCity": "Aliso Veijo",
+        "entityState": "CA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Denowh, Charles",
+                "address": "1820 N Last Chance Gulch Helena, MT  59601",
+                "phone": "",
+                "email": "cdenowh@montanagroup.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Hastie, Chrissie",
+                "address": "PO Box 751271 Las Vegas, NV  89136",
+                "phone": "(702) 259-5559",
+                "email": "chrissie@incompliance.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To assist in the efforts to provide equal rights for victims of crime in the state of Montana\t",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

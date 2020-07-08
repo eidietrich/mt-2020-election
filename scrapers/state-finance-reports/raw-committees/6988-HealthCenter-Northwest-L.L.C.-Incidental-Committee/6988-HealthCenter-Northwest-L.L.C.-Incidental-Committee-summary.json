@@ -1,0 +1,43 @@
+{
+    "slug": "6988-HealthCenter-Northwest-L.L.C.-Incidental-Committee",
+    "committeeName": "HealthCenter Northwest, L.L.C. Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6988,
+        "committeeName": "HealthCenter Northwest, L.L.C. Incidental Committee",
+        "committeeAddress": "320 Sunnyview Lane, Kalispell, MT 59901",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1525154400000,
+        "entityFullName": "HealthCenter Northwest, L.L.C. Incidental Committee",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wilson, Deborah",
+                "address": "310 Sunnyview Lane Kalispell, MT  59901",
+                "phone": "(406) 752-1724",
+                "email": "dwila@krmc.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-185",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

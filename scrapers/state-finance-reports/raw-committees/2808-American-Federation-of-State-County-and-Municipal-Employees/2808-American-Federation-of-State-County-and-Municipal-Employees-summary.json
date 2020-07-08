@@ -1,0 +1,43 @@
+{
+    "slug": "2808-American-Federation-of-State-County-and-Municipal-Employees",
+    "committeeName": "American Federation of State, County and Municipal Employees",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 2808,
+        "committeeName": "American Federation of State, County and Municipal Employees",
+        "committeeAddress": "1625 L Street NW, Washington, DC 20036",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1346338287000,
+        "entityFullName": "American Federation of State, County and Municipal Employees",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McBride, Elissa",
+                "address": "1625 L Street, NW Washington, DC  20036",
+                "phone": "(202) 429-1088",
+                "email": "chui@afscme.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Independent Expenditure campaign",
+                "position": "Other",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

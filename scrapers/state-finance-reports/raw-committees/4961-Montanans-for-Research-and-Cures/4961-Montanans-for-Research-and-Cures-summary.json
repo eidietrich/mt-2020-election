@@ -1,0 +1,43 @@
+{
+    "slug": "4961-Montanans-for-Research-and-Cures",
+    "committeeName": "Montanans for Research and Cures",
+    "scrape_date": "2020-07-02",
+    "periods": 14,
+    "data": {
+        "committeeId": 4961,
+        "committeeName": "Montanans for Research and Cures",
+        "committeeAddress": "PO Box 1912, Billings, MT 59103",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1485500400000,
+        "entityFullName": "Montanans for Research and Cures",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Gray, Randy",
+                "address": "2114 3rd Avenue N. Great Falls, MT  59401",
+                "phone": "(406) 781-4150",
+                "email": "randygray@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Bell, Molly",
+                "address": "2837 Radius Circle Billings, MT  59102",
+                "phone": "(406) 698-9440",
+                "email": "mollypbell@gmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "A ballot measure that would provide funding for biomedical research in Montana",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

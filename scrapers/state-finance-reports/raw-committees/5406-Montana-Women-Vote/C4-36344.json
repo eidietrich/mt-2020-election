@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 36344,
+        "fromDateStr": "05/19/2016",
+        "toDateStr": "06/22/2016",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 5406,
+        "candidateName": "Montana Women Vote ",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/19/2016",
+        "end_date": "06/22/2016",
+        "receipts": 0.0,
+        "expenditures": 201.87,
+        "cash_in_bank": -834.2
+    },
+    "contributions": [],
+    "expenditures": []
+}

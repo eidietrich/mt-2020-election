@@ -1,0 +1,37 @@
+{
+    "slug": "6941-Hospital-Maintenance-Committee",
+    "committeeName": "Hospital Maintenance Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6941,
+        "committeeName": "Hospital Maintenance Committee",
+        "committeeAddress": "PO Box 304, Townsend, MT 59644",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1526968800000,
+        "entityFullName": "Hospital Maintenance Committee",
+        "entityCity": "Townsend",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Marks, Nancy D",
+                "address": "PO Box 304 Townsend, MT  59644",
+                "phone": "(406) 266-3710",
+                "email": "hugh516@yahoo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

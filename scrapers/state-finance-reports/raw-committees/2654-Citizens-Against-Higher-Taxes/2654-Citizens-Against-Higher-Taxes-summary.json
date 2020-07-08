@@ -1,0 +1,43 @@
+{
+    "slug": "2654-Citizens-Against-Higher-Taxes",
+    "committeeName": "Citizens Against Higher Taxes",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2654,
+        "committeeName": "Citizens Against Higher Taxes",
+        "committeeAddress": "P O Box 1197, Great Falls, MT 59403",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2011",
+        "amendedDate": 1303223863000,
+        "entityFullName": "Citizens Against Higher Taxes",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Tankink, Rudolf",
+                "address": "3620 9th Ave North Great Falls, MT  59401",
+                "phone": "(406) 761-4729",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School Mill Levy",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

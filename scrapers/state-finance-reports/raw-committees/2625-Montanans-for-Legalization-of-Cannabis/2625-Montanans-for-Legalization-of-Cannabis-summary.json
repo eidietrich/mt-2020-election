@@ -1,0 +1,37 @@
+{
+    "slug": "2625-Montanans-for-Legalization-of-Cannabis",
+    "committeeName": "Montanans for Legalization of Cannabis",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2625,
+        "committeeName": "Montanans for Legalization of Cannabis",
+        "committeeAddress": "P O box 1556, Missoula, MT 59806",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1298648674000,
+        "entityFullName": "Montanans for Legalization of Cannabis",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Jeske, Amanda",
+                "address": "P O Box 1556 Missoula, MT  59806",
+                "phone": "",
+                "email": "yes2cannabis@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

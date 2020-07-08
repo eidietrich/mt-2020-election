@@ -1,0 +1,43 @@
+{
+    "slug": "8347-Sixteen-Thirty-Fund",
+    "committeeName": "Sixteen Thirty Fund",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 8347,
+        "committeeName": "Sixteen Thirty Fund",
+        "committeeAddress": "1201 Connecticut Ave NW #300, Washington, DC 20036",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1583391600000,
+        "entityFullName": "Sixteen Thirty Fund",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Freed, Dara",
+                "address": "1201 Connecticut Ave NW #300 Washington, DC  20036",
+                "phone": "",
+                "email": "dara.freed@sixteenthirtyfund.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI-118: amends the Montana Constitution to allow the legislature or the people by initiative to establish the legal age for purchasing, consuming, or possessing marijuana.",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

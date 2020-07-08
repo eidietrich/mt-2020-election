@@ -1,0 +1,37 @@
+{
+    "slug": "6351-Build-Montana-PAC-(Affiliate-of-the-MT-AFL-CIO)",
+    "committeeName": "Build Montana PAC (Affiliate of the MT AFL-CIO)",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 6351,
+        "committeeName": "Build Montana PAC (Affiliate of the MT AFL-CIO)",
+        "committeeAddress": "2711 Airport Rd., Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1585202400000,
+        "entityFullName": "Build Montana PAC (Affiliate of the MT AFL-CIO)",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ekblad, Alan",
+                "address": "2711 Airport Rd. Helena, MT  59601",
+                "phone": "",
+                "email": "lorri@mtaflcio.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

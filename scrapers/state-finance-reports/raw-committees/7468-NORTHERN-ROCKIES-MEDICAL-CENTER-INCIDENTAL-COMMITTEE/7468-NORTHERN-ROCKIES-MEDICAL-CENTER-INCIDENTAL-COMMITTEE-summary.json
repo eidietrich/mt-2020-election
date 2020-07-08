@@ -1,0 +1,43 @@
+{
+    "slug": "7468-NORTHERN-ROCKIES-MEDICAL-CENTER-INCIDENTAL-COMMITTEE",
+    "committeeName": "NORTHERN ROCKIES MEDICAL CENTER INCIDENTAL COMMITTEE",
+    "scrape_date": "2020-07-02",
+    "periods": 7,
+    "data": {
+        "committeeId": 7468,
+        "committeeName": "NORTHERN ROCKIES MEDICAL CENTER INCIDENTAL COMMITTEE",
+        "committeeAddress": "802 2ND ST SE, CUT BANK, MT 59427",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1542697200000,
+        "entityFullName": "NORTHERN ROCKIES MEDICAL CENTER INCIDENTAL COMMITTEE",
+        "entityCity": "CUT BANK",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "BERKRAM, TREASURE L",
+                "address": "301 5TH AVE NE CUT BANK, MT  59427",
+                "phone": "(406) 873-3730",
+                "email": "nrmc_cfo@nrmcinc.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "contribution made to ballot initiative to increase tobacco taxes to help fund certain health care programs",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

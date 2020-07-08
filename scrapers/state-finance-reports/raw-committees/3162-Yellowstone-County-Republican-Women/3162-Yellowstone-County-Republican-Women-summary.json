@@ -1,0 +1,138 @@
+{
+    "slug": "3162-Yellowstone-County-Republican-Women",
+    "committeeName": "Yellowstone County Republican Women",
+    "scrape_date": "2020-07-02",
+    "periods": 14,
+    "data": {
+        "committeeId": 3162,
+        "committeeName": "Yellowstone County Republican Women",
+        "committeeAddress": "3024 Melrose Lane, Billings, MT 59102",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1538719200000,
+        "entityFullName": "Yellowstone County Republican Women",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Dugas, Brenda M",
+                "address": "3024 Melrose Lane Billings, MT  59102",
+                "phone": "(406) 698-6189",
+                "email": "fxdugas@yahoo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Anderson, Pam k",
+                "address": "3375 Gregory Dr W   Billings, MT  59102",
+                "phone": "(406) 671-6875",
+                "email": "pama@andersonmgt.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Colin Nygaard HD49",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Douglas Kary HD22",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Vince Ricci HD55",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Frank Fleming HD51",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Rodney Garcia HD52",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Dennis Lentz HD53",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Barry Usher HD40",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Dale Mortenson HD44",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Colton Zaugg HD47",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Donald Jones County Commissioner",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Daniel Zolnikov HD45",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Sue Vinton HD56",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Peggy Webb HD43",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Quentin Eggart HD50",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Bill Mercer HD46",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Denise Johnson HD48",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Promote Republican party in community and assist candidates in elections",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Terry Moore HD54",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Tom McGilvray HD24",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Cary Smith HD27",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

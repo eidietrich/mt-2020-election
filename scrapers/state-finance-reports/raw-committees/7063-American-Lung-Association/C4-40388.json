@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 40388,
+        "fromDateStr": "11/13/2017",
+        "toDateStr": "04/30/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7063,
+        "candidateName": "American Lung Association",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/13/2017",
+        "end_date": "04/30/2018",
+        "receipts": 0.0,
+        "expenditures": 1354.0,
+        "cash_in_bank": -1354.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "04/30/18",
+            "Entity Name": "Healthy Montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO BoX 1614",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 1124.0,
+            "Purpose": "In kind contribution for staff time for supporting I-185, Carrie Nyssen",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/30/18",
+            "Entity Name": "Healthy Montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO BoX 1614",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 230.0,
+            "Purpose": "In kind contribution for staff time supporting I-185, Thomas Carr",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

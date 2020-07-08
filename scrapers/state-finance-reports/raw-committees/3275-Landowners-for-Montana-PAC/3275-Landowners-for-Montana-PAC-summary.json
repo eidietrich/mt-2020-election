@@ -1,0 +1,63 @@
+{
+    "slug": "3275-Landowners-for-Montana-PAC",
+    "committeeName": "Landowners for Montana PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 27,
+    "data": {
+        "committeeId": 3275,
+        "committeeName": "Landowners for Montana PAC",
+        "committeeAddress": "1820 N Last Chance Gulch, Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1533708000000,
+        "entityFullName": "Landowners for Montana PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Denowh, Charles",
+                "address": "1820 N Last Chance Gulch Helena, MT  59601",
+                "phone": "(406) 495-8383",
+                "email": "cdenowh@montanagroup.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "DeMars, Shelby",
+                "address": "1820 N Last Chance Gulch Helena, MT  59601",
+                "phone": "(406) 495-8383",
+                "email": "sdemars@montanagroup.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "John Esp for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Flowers for Senate",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jed Hinkle for Senate",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Chase Reynolds for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Vermillion for Senate",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

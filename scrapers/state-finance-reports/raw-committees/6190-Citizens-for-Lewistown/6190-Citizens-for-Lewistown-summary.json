@@ -1,0 +1,48 @@
+{
+    "slug": "6190-Citizens-for-Lewistown",
+    "committeeName": "Citizens for Lewistown",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 6190,
+        "committeeName": "Citizens for Lewistown",
+        "committeeAddress": "P.O. Box 931, Lewistown, MT 59457",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1482908400000,
+        "entityFullName": "Citizens for Lewistown",
+        "entityCity": "Lewistown",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Frieze, Mary J",
+                "address": "1116 West Evelyn Street Lewistown, MT  59457",
+                "phone": "(406) 535-7380",
+                "email": "mfrieze@midrivers.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Loomis, Clinton C",
+                "address": "1116 West Evelyn Street Lewistown, MT  59457",
+                "phone": "(406) 535-7380",
+                "email": "cloomis@midrivers.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Official Ballot on the Alternative Form of Local Government",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Maintain current form of government",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

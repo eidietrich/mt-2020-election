@@ -1,0 +1,98 @@
+{
+    "slug": "7934-MFPE",
+    "committeeName": "MFPE",
+    "scrape_date": "2020-07-02",
+    "periods": 6,
+    "data": {
+        "committeeId": 7934,
+        "committeeName": "MFPE",
+        "committeeAddress": "1232 E 6th Avenue, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2019",
+        "amendedDate": 1588658400000,
+        "entityFullName": "MFPE",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Burke, Erik",
+                "address": "1232 E 6th Avenue Helena, MT  59601",
+                "phone": "(406) 442-4250",
+                "email": "eburke@mfpe.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Billings Public Schools Levy",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Pro Education",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Melissa Romano - State Superintendent",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Great Falls School Levy",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Public Service",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "House Distrtict 68 - Bruce Grubbs",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Gardiner School Levy",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "LR130",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "House District 36 - Jim Johnson",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "House District 6 - Bruce Tutvedt",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Pro Candidate & Ballot Issues",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "House District 61 - Brian Close",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

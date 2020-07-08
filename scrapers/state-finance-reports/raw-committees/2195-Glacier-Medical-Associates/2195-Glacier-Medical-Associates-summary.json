@@ -1,0 +1,43 @@
+{
+    "slug": "2195-Glacier-Medical-Associates",
+    "committeeName": "Glacier Medical Associates",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2195,
+        "committeeName": "Glacier Medical Associates",
+        "committeeAddress": "1111 Baker Ave., Whitefish, MT 59937",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1213030594000,
+        "entityFullName": "Glacier Medical Associates",
+        "entityCity": "Whitefish",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kalbfleisch, John",
+                "address": "1111 Baker Ave. Whitefish, MT  59937",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Whitefish School Bond Election",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

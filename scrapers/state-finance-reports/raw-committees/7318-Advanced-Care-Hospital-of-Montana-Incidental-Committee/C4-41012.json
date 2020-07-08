@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 41012,
+        "fromDateStr": "05/10/2018",
+        "toDateStr": "05/21/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7318,
+        "candidateName": "Advanced Care Hospital of Montana Incidental Committee",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/10/2018",
+        "end_date": "05/21/2018",
+        "receipts": 0.0,
+        "expenditures": 50000.0,
+        "cash_in_bank": -50000.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "05/10/18",
+            "Entity Name": "MHA IC-To Support I-185",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2625 Winne Ave",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 50000.0,
+            "Purpose": "contribution in support of ballot initiative to increase tobacco taxes to support health care programs - 1-185",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

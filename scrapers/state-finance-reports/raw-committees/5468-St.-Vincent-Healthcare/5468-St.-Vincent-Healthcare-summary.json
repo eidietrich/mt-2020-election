@@ -1,0 +1,43 @@
+{
+    "slug": "5468-St.-Vincent-Healthcare",
+    "committeeName": "St. Vincent Healthcare",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5468,
+        "committeeName": "St. Vincent Healthcare",
+        "committeeAddress": "1233 N. 30th, Billings, MT 59107",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1463724000000,
+        "entityFullName": "St. Vincent Healthcare",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kelppel, April",
+                "address": "1233 N 30th Billings, MT  59101",
+                "phone": "",
+                "email": "april.kelppel@sclhs.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support for Yes for Kids Local School Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "7412-Sacajawea-Audubon-Society",
+    "committeeName": "Sacajawea Audubon Society",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7412,
+        "committeeName": "Sacajawea Audubon Society",
+        "committeeAddress": "PO Box 1711, Bozeman, MT 59771-1",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1529560800000,
+        "entityFullName": "Sacajawea Audubon Society",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hayward, Janne",
+                "address": "325 Concord Bozeman, MT  59715",
+                "phone": "",
+                "email": "jannehayward@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Open Lands Levy (Gallatin County)",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

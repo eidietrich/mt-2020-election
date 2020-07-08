@@ -1,0 +1,43 @@
+{
+    "slug": "2453-St.-Vincent's-Healthcare",
+    "committeeName": "St. Vincent's Healthcare",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2453,
+        "committeeName": "St. Vincent's Healthcare",
+        "committeeAddress": "PO Box 35200, Billings, MT 59107",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1272313274000,
+        "entityFullName": "St. Vincent's Healthcare",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Foster, Michael",
+                "address": "PO Box 35200 Billings, MT  59107-5200",
+                "phone": "",
+                "email": "mike.foster@svh-mt.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Public Safety Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

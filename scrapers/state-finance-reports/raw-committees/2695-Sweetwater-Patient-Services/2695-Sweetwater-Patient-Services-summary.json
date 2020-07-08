@@ -1,0 +1,43 @@
+{
+    "slug": "2695-Sweetwater-Patient-Services",
+    "committeeName": "Sweetwater Patient Services",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2695,
+        "committeeName": "Sweetwater Patient Services",
+        "committeeAddress": "2810 Brooks, Missoula, MT 59801",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1314827516000,
+        "entityFullName": "Sweetwater Patient Services",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McMurray, Gabe",
+                "address": "2810 Brooks Missoula, MT  59802",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "IR-124",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

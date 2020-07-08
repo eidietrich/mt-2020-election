@@ -1,0 +1,43 @@
+{
+    "slug": "335-Sweet-Grass-County-Republican-Central-Cmte.",
+    "committeeName": "Sweet Grass County Republican Central Cmte.",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 335,
+        "committeeName": "Sweet Grass County Republican Central Cmte.",
+        "committeeAddress": "PO Box 1113, Big Timber, MT 59011",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1475820000000,
+        "entityFullName": "Sweet Grass County Republican Central Cmte.",
+        "entityCity": "Big Timber",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Faw, Judy",
+                "address": "PO Box 1046 Big Timber, MT  59011",
+                "phone": "(406) 932-6568",
+                "email": "red.white.n.blue.freedom@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To promote Republican Party Values in Sweet Grass County, elect Republican candidates, and work to spread conservative views.",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

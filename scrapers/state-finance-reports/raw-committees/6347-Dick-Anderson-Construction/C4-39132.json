@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 39132,
+        "fromDateStr": "05/25/2017",
+        "toDateStr": "05/31/2017",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 6347,
+        "candidateName": "Dick Anderson Construction",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/25/2017",
+        "end_date": "05/31/2017",
+        "receipts": 0.0,
+        "expenditures": 15000.0,
+        "cash_in_bank": -15000.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "05/25/17",
+            "Entity Name": "Yes for Cascade County Jobs",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO box 3205",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59403",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 15000.0,
+            "Purpose": "Donation to help commission & voters profile poll to help shape the campaign message",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

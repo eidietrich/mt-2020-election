@@ -1,0 +1,43 @@
+{
+    "slug": "6869-Valley-Construction",
+    "committeeName": "Valley Construction",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6869,
+        "committeeName": "Valley Construction",
+        "committeeAddress": "7510 Applegate Dr., Helena, MT 59602",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2017",
+        "amendedDate": 1514271600000,
+        "entityFullName": "Valley Construction",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Smith, Kim",
+                "address": "7610 Applegate Dr. Helena, MT  59602",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "YES for Helena's Future",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

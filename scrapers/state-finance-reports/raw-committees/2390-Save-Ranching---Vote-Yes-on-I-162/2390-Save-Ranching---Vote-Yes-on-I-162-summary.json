@@ -1,0 +1,43 @@
+{
+    "slug": "2390-Save-Ranching---Vote-Yes-on-I-162",
+    "committeeName": "Save Ranching - Vote Yes on I-162",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2390,
+        "committeeName": "Save Ranching - Vote Yes on I-162",
+        "committeeAddress": "PO Box 1743 1820 N. Last Chance Gulch, Helena, MT 59624",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1259950064000,
+        "entityFullName": "Save Ranching - Vote Yes on I-162",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Denowh, Charles",
+                "address": "1820 N. Last Chance Gulch Helena, MT  59601",
+                "phone": "(406) 239-5952",
+                "email": "cdenowh@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Private property rights I-162",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

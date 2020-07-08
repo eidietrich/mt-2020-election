@@ -1,0 +1,43 @@
+{
+    "slug": "234-Cascade-County-Republican-Central-Cmte.",
+    "committeeName": "Cascade County Republican Central Cmte.",
+    "scrape_date": "2020-07-02",
+    "periods": 19,
+    "data": {
+        "committeeId": 234,
+        "committeeName": "Cascade County Republican Central Cmte.",
+        "committeeAddress": "P.O. Box 6146, Great Falls, MT  59406",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1520406000000,
+        "entityFullName": "Cascade County Republican Central Cmte.",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Roger, Hagan A",
+                "address": "117 Gerber Rd. Great Falls, MT  59405",
+                "phone": "(406) 459-0773",
+                "email": "rahagan@msn.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Lindquist, Troy G",
+                "address": "PO Box 3189 Great Falls, MT  59403",
+                "phone": "(406) 761-8265",
+                "email": "tlindquist@mtcpas.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To support the election of Republicans for Cascade County and State offices and support Republican office holders. ",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 40171,
+        "fromDateStr": "03/08/2018",
+        "toDateStr": "03/30/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 237,
+        "candidateName": "Chouteau County Republican Central Cmte.",
+        "statusDescr": "Amended",
+        "amendedDate": 1593182654000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/08/2018",
+        "end_date": "03/30/2018",
+        "receipts": 0.0,
+        "expenditures": 508.73,
+        "cash_in_bank": 9773.05
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "03/08/18",
+            "Entity Name": "Innovative Postal Services",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "920 2nd St S",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59405",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 315.89,
+            "Purpose": "print and mail 300 letters to Chouteau County Republican residents inviting to Lincoln Day Dinner",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "03/09/18",
+            "Entity Name": "Walker, Bruce",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "50 Main Street",
+            "City": "Floweree",
+            "State": "MT",
+            "Zip": "59440",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 192.84,
+            "Purpose": "Reimbursement for expenditures made for Lincoln Day Dinner:  food, drinks",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

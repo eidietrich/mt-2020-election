@@ -1,0 +1,43 @@
+{
+    "slug": "6374-Lockwood-Community-Education-Committee",
+    "committeeName": "Lockwood Community Education Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 6374,
+        "committeeName": "Lockwood Community Education Committee",
+        "committeeAddress": "P.O. Box 50547, Billings, MT 59105",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2017",
+        "amendedDate": 1532412000000,
+        "entityFullName": "Lockwood Community Education Committee",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hartley/Treasurer, Devin",
+                "address": "485 Baja Place Billings, MT  59101",
+                "phone": "(406) 781-8332",
+                "email": "Hartley40@q.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Hanson, Roxanne",
+                "address": "1125 Full Moon Circle Billings, MT  59101",
+                "phone": "(406) 860-5267",
+                "email": "hanson@bresnan.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Proposition of Expansion to a K-12 District",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

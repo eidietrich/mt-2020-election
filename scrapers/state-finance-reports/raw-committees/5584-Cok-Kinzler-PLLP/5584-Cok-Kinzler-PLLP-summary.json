@@ -1,0 +1,43 @@
+{
+    "slug": "5584-Cok-Kinzler-PLLP",
+    "committeeName": "Cok Kinzler, PLLP",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5584,
+        "committeeName": "Cok Kinzler, PLLP",
+        "committeeAddress": "PO Box 1105, Bozeman, MT 59771",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1466488800000,
+        "entityFullName": "Cok Kinzler, PLLP",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Cok, Michael",
+                "address": "PO Box 1105 Bozeman, MT  59771",
+                "phone": "(406) 587-8995",
+                "email": "mikecok@cokkinzlerlaw.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Bond issue to finance a new law and justice center",
+                "position": "Oppose",
+                "status": "Support"
+            }
+        ]
+    }
+}

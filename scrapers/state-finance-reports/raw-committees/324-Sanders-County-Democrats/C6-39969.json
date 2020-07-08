@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 39969,
+        "fromDateStr": "01/01/2017",
+        "toDateStr": "12/31/2017",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 324,
+        "candidateName": "Sanders County Democrats",
+        "statusDescr": "Amended",
+        "amendedDate": 1593178123000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/01/2017",
+        "end_date": "12/31/2017",
+        "receipts": 5171.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 5171.0
+    },
+    "contributions": [
+        {
+            "Date Paid": "12/31/17",
+            "Entity Name": "Bring Ending balance forward",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "",
+            "City": "",
+            "State": "",
+            "Zip": "",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -5171.0,
+            "Amount Type": "CA",
+            "Purpose": "to add then ending balance from a hard copy",
+            "Election Type": "Primary",
+            "Total Primary": 5171.0,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

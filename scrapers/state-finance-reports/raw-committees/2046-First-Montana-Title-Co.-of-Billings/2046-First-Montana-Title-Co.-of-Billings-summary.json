@@ -1,0 +1,37 @@
+{
+    "slug": "2046-First-Montana-Title-Co.-of-Billings",
+    "committeeName": "First Montana Title Co. of Billings",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2046,
+        "committeeName": "First Montana Title Co. of Billings",
+        "committeeAddress": "204 N 29th Street, Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2007",
+        "amendedDate": 1174670054000,
+        "entityFullName": "First Montana Title Co. of Billings",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Grammens, Val",
+                "address": "204 N 29th Street Billings, MT  59101",
+                "phone": "(406) 967-2224",
+                "email": "valerie@fmtc-bil.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

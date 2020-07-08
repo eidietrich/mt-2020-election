@@ -1,0 +1,43 @@
+{
+    "slug": "6375-St.-Vincent-Healthcare",
+    "committeeName": "St. Vincent Healthcare",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6375,
+        "committeeName": "St. Vincent Healthcare",
+        "committeeAddress": "1233 N. 30th, Billings, MT 59107",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1502085600000,
+        "entityFullName": "St. Vincent Healthcare",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Keippel, April",
+                "address": "1233 N. 30th Billings, MT  59101",
+                "phone": "(406) 237-3378",
+                "email": "april.keippel@sclhs.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Montanans for Higher Education",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

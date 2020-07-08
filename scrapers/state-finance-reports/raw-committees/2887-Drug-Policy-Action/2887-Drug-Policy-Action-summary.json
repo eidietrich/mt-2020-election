@@ -1,0 +1,43 @@
+{
+    "slug": "2887-Drug-Policy-Action",
+    "committeeName": "Drug Policy Action",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2887,
+        "committeeName": "Drug Policy Action",
+        "committeeAddress": "131 West 33rd Street, 15th Floor, New York, NY 10001",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1357854732000,
+        "entityFullName": "Drug Policy Action",
+        "entityCity": "New York",
+        "entityState": "NY"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Chavez, Ryan",
+                "address": "131 West 33rd Street New York, NY  10001",
+                "phone": "",
+                "email": "rchavez@drugpolicy.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "SB 423",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

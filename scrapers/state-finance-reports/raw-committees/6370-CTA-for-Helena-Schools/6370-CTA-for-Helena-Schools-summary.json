@@ -1,0 +1,43 @@
+{
+    "slug": "6370-CTA-for-Helena-Schools",
+    "committeeName": "CTA for Helena Schools",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6370,
+        "committeeName": "CTA for Helena Schools",
+        "committeeAddress": "PO Box 1439, Billings, MT 59103",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2017",
+        "amendedDate": 1500876000000,
+        "entityFullName": "CTA for Helena Schools",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wilson, Scott L",
+                "address": "6075 Blackwood Road Bozeman, MT  59718",
+                "phone": "(406) 697-7627",
+                "email": "scottw@ctagroup.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Yes! For Helena's Future",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

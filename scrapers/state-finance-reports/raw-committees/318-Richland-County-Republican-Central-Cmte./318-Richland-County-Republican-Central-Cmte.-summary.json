@@ -1,0 +1,37 @@
+{
+    "slug": "318-Richland-County-Republican-Central-Cmte.",
+    "committeeName": "Richland County Republican Central Cmte.",
+    "scrape_date": "2020-07-02",
+    "periods": 16,
+    "data": {
+        "committeeId": 318,
+        "committeeName": "Richland County Republican Central Cmte.",
+        "committeeAddress": "P.O. Box 1030, Sidney, MT 59270",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1568008800000,
+        "entityFullName": "Richland County Republican Central Cmte.",
+        "entityCity": "Sidney",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Young, Jacklyn R",
+                "address": "13705 CR 351 Fairview, MT  59221",
+                "phone": "(406) 489-5384",
+                "email": "youngfrm@midrivers.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

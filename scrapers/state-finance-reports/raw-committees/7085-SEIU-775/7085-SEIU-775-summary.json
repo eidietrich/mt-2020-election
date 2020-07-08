@@ -1,0 +1,43 @@
+{
+    "slug": "7085-SEIU-775",
+    "committeeName": "SEIU 775",
+    "scrape_date": "2020-07-02",
+    "periods": 12,
+    "data": {
+        "committeeId": 7085,
+        "committeeName": "SEIU 775",
+        "committeeAddress": "215 Columbia Street, Seattle, WA 98104",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1585548000000,
+        "entityFullName": "SEIU 775",
+        "entityCity": "Seattle",
+        "entityState": "WA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Helt, Jacquie",
+                "address": "PO Box 172 Helena, MT  59624",
+                "phone": "",
+                "email": "jacquie.helt@seiu775.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Healthy Montana I-185",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "5841-Citizens-for-a-Safer-Community",
+    "committeeName": "Citizens for a Safer Community",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5841,
+        "committeeName": "Citizens for a Safer Community",
+        "committeeAddress": "417 Fountain Ct, Helena, MT 59601",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1474610400000,
+        "entityFullName": "Citizens for a Safer Community",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Jasmin, Ed",
+                "address": "417 Fountain Ct Helena, MT  59601",
+                "phone": "(406) 422-5616",
+                "email": "edjasmin@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Foster, Rodger",
+                "address": "1918 Virginia Dale Dr Helena, MT  59601",
+                "phone": "(406) 443-4606",
+                "email": "rodgmel@bresnan.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Lewis and Clark County Detention Center Bond and Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

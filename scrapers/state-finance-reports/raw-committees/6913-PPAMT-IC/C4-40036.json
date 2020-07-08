@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 40036,
+        "fromDateStr": "02/01/2018",
+        "toDateStr": "03/10/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 6913,
+        "candidateName": "PPAMT-IC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "02/01/2018",
+        "end_date": "03/10/2018",
+        "receipts": 0.0,
+        "expenditures": 585.0,
+        "cash_in_bank": -728.85
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "03/09/18",
+            "Entity Name": "planned parenthood advocates of montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1116 Grand Ave., Ste. 201",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59102",
+            "Zip4": "",
+            "Expenditure Type": "Debts and Loans Not Yet Paid",
+            "Amount": 585.0,
+            "Purpose": "Salary",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "03/09/18",
+            "Entity Name": "planned parenthood advocates of montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1116 Grand Ave., Ste. 201",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59102",
+            "Zip4": "",
+            "Expenditure Type": "Debt and Loan Payment",
+            "Amount": 585.0,
+            "Purpose": "",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

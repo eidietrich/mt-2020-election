@@ -1,0 +1,43 @@
+{
+    "slug": "2474-400%-Interest-is-Too-High---Cap-the-Rate",
+    "committeeName": "400% Interest is Too High - Cap the Rate",
+    "scrape_date": "2020-07-01",
+    "periods": 13,
+    "data": {
+        "committeeId": 2474,
+        "committeeName": "400% Interest is Too High - Cap the Rate",
+        "committeeAddress": "PO Box 335 One North Last Chance Gulch, Helena, MT 59624",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1272567955000,
+        "entityFullName": "400% Interest is Too High - Cap the Rate",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Harrington, Dan W.",
+                "address": "1201 N. Excelsion Butte, MT  59701",
+                "phone": "(406) 782-0332",
+                "email": "danwharrington@in-tch.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Reed, Linda",
+                "address": "PO Box 335 Helena, MT  59601",
+                "phone": "",
+                "email": "lindareed@mtcf.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Cap the Rate I-164",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

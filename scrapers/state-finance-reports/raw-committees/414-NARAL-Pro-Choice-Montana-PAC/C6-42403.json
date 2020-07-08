@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 42403,
+        "fromDateStr": "05/20/2018",
+        "toDateStr": "06/20/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 414,
+        "candidateName": "NARAL Pro-Choice Montana PAC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/20/2018",
+        "end_date": "06/20/2018",
+        "receipts": 0.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 1590.77
+    },
+    "contributions": [],
+    "expenditures": []
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2149-Architects-West-Inc.-P.A.",
+    "committeeName": "Architects West Inc. P.A.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2149,
+        "committeeName": "Architects West Inc. P.A.",
+        "committeeAddress": "210 E. Lakeside Avenue, Coeur D'Alene, ID 83814",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1208377101000,
+        "entityFullName": "Architects West Inc. P.A.",
+        "entityCity": "Coeur D'Alene",
+        "entityState": "ID"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Evans, John N.",
+                "address": "210 E. Lakeside Ave Couer D'Alene, ID  83814",
+                "phone": "",
+                "email": "johne@architectswest.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Whitefish School Bond Election",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

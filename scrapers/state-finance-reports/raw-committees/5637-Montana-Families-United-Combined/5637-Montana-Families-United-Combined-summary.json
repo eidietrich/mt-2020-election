@@ -1,0 +1,37 @@
+{
+    "slug": "5637-Montana-Families-United-Combined",
+    "committeeName": "Montana Families United Combined",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5637,
+        "committeeName": "Montana Families United Combined",
+        "committeeAddress": "522 West Beall, Bozeman, MT 59715",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1492754400000,
+        "entityFullName": "Montana Families United Combined",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Lair, Stephanie",
+                "address": "522 w beall bozeman, MT  59715",
+                "phone": "",
+                "email": "stephanie@sysdisrupt.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

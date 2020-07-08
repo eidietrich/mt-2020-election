@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 43865,
+        "fromDateStr": "10/03/2018",
+        "toDateStr": "10/25/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 5011,
+        "candidateName": "Montana Water Well Drillers PAC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/03/2018",
+        "end_date": "10/25/2018",
+        "receipts": 0.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 1518.91
+    },
+    "contributions": [],
+    "expenditures": []
+}

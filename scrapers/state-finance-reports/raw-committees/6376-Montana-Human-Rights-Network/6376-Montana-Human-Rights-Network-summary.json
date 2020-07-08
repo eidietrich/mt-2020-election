@@ -1,0 +1,48 @@
+{
+    "slug": "6376-Montana-Human-Rights-Network",
+    "committeeName": "Montana Human Rights Network",
+    "scrape_date": "2020-07-02",
+    "periods": 12,
+    "data": {
+        "committeeId": 6376,
+        "committeeName": "Montana Human Rights Network",
+        "committeeAddress": "PO Box 1509, Helena, MT 59624",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1542783600000,
+        "entityFullName": "Montana Human Rights Network",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Abbott, Kim",
+                "address": "PO Box 1509 Helena, MT  59624",
+                "phone": "",
+                "email": "network@mhrn.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Healthy Montana I-185",
+                "position": "Support",
+                "status": "Not on ballot"
+            },
+            {
+                "interest": "I-183",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "slug": "2662-Hawthorne-Parent-Council",
+    "committeeName": "Hawthorne Parent Council",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2662,
+        "committeeName": "Hawthorne Parent Council",
+        "committeeAddress": "114 N Rouse, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2011",
+        "amendedDate": 1303488822000,
+        "entityFullName": "Hawthorne Parent Council",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Seessel, Drew",
+                "address": "7100 Jackson Creek Road Bozeman, MT  59715",
+                "phone": "(406) 556-1275",
+                "email": "drew@sesselinvestments.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

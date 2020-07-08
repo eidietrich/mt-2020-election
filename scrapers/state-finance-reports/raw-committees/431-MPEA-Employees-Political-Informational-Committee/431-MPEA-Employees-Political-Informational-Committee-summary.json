@@ -1,0 +1,43 @@
+{
+    "slug": "431-MPEA-Employees-Political-Informational-Committee",
+    "committeeName": "MPEA Employees Political Informational Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 431,
+        "committeeName": "MPEA Employees Political Informational Committee",
+        "committeeAddress": "PO Box 5600, Helena, MT 59604",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "Y",
+        "electionYear": "2000",
+        "amendedDate": 1455001200000,
+        "entityFullName": "MPEA Employees Political Informational Committee",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Schneider, Thomas E.",
+                "address": "PO Box 716 Helena, MT  59624",
+                "phone": "(406) 933-5984",
+                "email": "taxguru@atwoodarts.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support or Oppose Candidates of Ballot Issues of Interest to the members of the Montana Public Employees Assn. ",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

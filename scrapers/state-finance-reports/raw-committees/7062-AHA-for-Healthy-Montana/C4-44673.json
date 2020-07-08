@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 44673,
+        "fromDateStr": "10/29/2018",
+        "toDateStr": "11/19/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7062,
+        "candidateName": "AHA for Healthy Montana",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/29/2018",
+        "end_date": "11/19/2018",
+        "receipts": 0.0,
+        "expenditures": 20991.04,
+        "cash_in_bank": -38820.72
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/19/18",
+            "Entity Name": "Healthy Montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO BoX 1614",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 991.04,
+            "Purpose": "In kind support; calls, media, messaging, see attachment sent to Kym T for detail",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "11/19/18",
+            "Entity Name": "Healthy Montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO BoX 1614",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 20000.0,
+            "Purpose": "Support for I 185; funding to purchase media for campaign messaging.",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

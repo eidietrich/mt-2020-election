@@ -1,0 +1,43 @@
+{
+    "slug": "2603-Wells-Fargo-Bank",
+    "committeeName": "Wells Fargo Bank",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2603,
+        "committeeName": "Wells Fargo Bank",
+        "committeeAddress": "P O Box 30058, Billings, MT 59117",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1287497212000,
+        "entityFullName": "Wells Fargo Bank",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Griffith, Valorie A",
+                "address": "P O Box 30058 Billings, MT  59117",
+                "phone": "",
+                "email": "valorie.a.griffith@wellsfargo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Yes for Kids - School Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

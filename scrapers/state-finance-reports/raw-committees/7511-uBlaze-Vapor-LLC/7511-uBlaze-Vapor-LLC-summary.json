@@ -1,0 +1,37 @@
+{
+    "slug": "7511-uBlaze-Vapor-LLC",
+    "committeeName": "uBlaze Vapor LLC",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 7511,
+        "committeeName": "uBlaze Vapor LLC",
+        "committeeAddress": "PO Box 75, Dayton, WY 82836",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1543302000000,
+        "entityFullName": "uBlaze Vapor LLC",
+        "entityCity": "Dayton",
+        "entityState": "WY"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Anderson, Lucas D",
+                "address": "PO Box 75 Dayton, WY  82836",
+                "phone": "(307) 752-7435",
+                "email": "luke@ublazevapor.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

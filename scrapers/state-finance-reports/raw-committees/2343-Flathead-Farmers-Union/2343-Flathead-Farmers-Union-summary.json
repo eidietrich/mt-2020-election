@@ -1,0 +1,43 @@
+{
+    "slug": "2343-Flathead-Farmers-Union",
+    "committeeName": "Flathead Farmers Union",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2343,
+        "committeeName": "Flathead Farmers Union",
+        "committeeAddress": "1007 Steel Bridge Rd, Kalispell, MT 59901",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1230307557000,
+        "entityFullName": "Flathead Farmers Union",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Siderius, Terry",
+                "address": "1007 Steel Bridge Rd Kalispell, MT  59901",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Cmte for Clean Water & Open Lands",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

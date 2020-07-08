@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 35853,
+        "fromDateStr": "05/19/2016",
+        "toDateStr": "06/01/2016",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 5459,
+        "candidateName": "Montana Cannabis Industry Association, Inc.",
+        "statusDescr": "Amended",
+        "amendedDate": 1478131360000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/19/2016",
+        "end_date": "06/01/2016",
+        "receipts": 0.0,
+        "expenditures": 34000.0,
+        "cash_in_bank": -106393.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "05/31/16",
+            "Entity Name": "M+R Strategic Services",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "405 S 1st St. West",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 34000.0,
+            "Purpose": "Campaign management, field staff for petitioning, travel, office overhead and materials",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

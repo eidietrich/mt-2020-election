@@ -1,0 +1,43 @@
+{
+    "slug": "6307-Hilltop-Public-Solutions",
+    "committeeName": "Hilltop Public Solutions",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6307,
+        "committeeName": "Hilltop Public Solutions",
+        "committeeAddress": "1000 Potomac Street , Washington, DC 20007",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1485846000000,
+        "entityFullName": "Hilltop Public Solutions",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Molly, Bell",
+                "address": "402 N. Broadway Billings, MT  59101",
+                "phone": "",
+                "email": "mbell@hilltoppublicsolutions.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "In-kind donation of consulting services for I-181",
+                "position": "Support",
+                "status": "On ballot, defeated"
+            }
+        ]
+    }
+}

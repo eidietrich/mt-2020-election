@@ -1,0 +1,43 @@
+{
+    "slug": "2323-Montana-Association-of-Realtors",
+    "committeeName": "Montana Association of Realtors",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2323,
+        "committeeName": "Montana Association of Realtors",
+        "committeeAddress": "1 South Montana Suite M-1, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1225903521000,
+        "entityFullName": "Montana Association of Realtors",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Oppel, Glenn",
+                "address": "One South Montana Ste. M-1 Helena, MT  59601",
+                "phone": "",
+                "email": "goppel@montanarealtors.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Committee to Keep the Six Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

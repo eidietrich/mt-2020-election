@@ -1,0 +1,37 @@
+{
+    "slug": "7386-Billings-Clinic",
+    "committeeName": "Billings Clinic",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 7386,
+        "committeeName": "Billings Clinic",
+        "committeeAddress": "P.O. Box 37000, Billings, MT 59107",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1542265200000,
+        "entityFullName": "Billings Clinic",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Prewitt, Connie",
+                "address": "P.O. Box 37000 Billings, MT  59107",
+                "phone": "(406) 435-2134",
+                "email": "cprewitt@billingsclinic.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

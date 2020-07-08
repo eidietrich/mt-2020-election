@@ -1,0 +1,43 @@
+{
+    "slug": "2261-Montana-Medical-Association",
+    "committeeName": "Montana Medical Association",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2261,
+        "committeeName": "Montana Medical Association",
+        "committeeAddress": "2021 11th Ave. Suite 1, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1220641613000,
+        "entityFullName": "Montana Medical Association",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "N/A",
+                "address": "2021 11th Ave, #1 Helena, MT  59601",
+                "phone": "(406) 443-4000",
+                "email": "brianmma@uswest.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-155",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

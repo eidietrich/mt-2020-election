@@ -1,0 +1,37 @@
+{
+    "slug": "7866-People-For-the-American-Way-(PFAW)-Action-Fund",
+    "committeeName": "People For the American Way (PFAW) Action Fund",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7866,
+        "committeeName": "People For the American Way (PFAW) Action Fund",
+        "committeeAddress": "1101 15th Street, NW, Suite 600, Washington, DC 20005",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1548313200000,
+        "entityFullName": "People For the American Way (PFAW) Action Fund",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ocampo, Lizet",
+                "address": "1101 15th Street, NW, Suite 600 Washington, DC  20005",
+                "phone": "(202) 467-2399",
+                "email": "dlaviolette@pfaw.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2885-Planned-Parenthood-of-Gulf-Coast-Inc.",
+    "committeeName": "Planned Parenthood of Gulf Coast, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2885,
+        "committeeName": "Planned Parenthood of Gulf Coast, Inc.",
+        "committeeAddress": "4600 Gulf Fwy, Houston, TX 77023",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1357853075000,
+        "entityFullName": "Planned Parenthood of Gulf Coast, Inc.",
+        "entityCity": "Houston",
+        "entityState": "TX"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Palmer, Jeffrey",
+                "address": "4600 Gulf Fwy Houston, TX  77023",
+                "phone": "",
+                "email": "jeffrey.palmer@ppgulfcoast.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

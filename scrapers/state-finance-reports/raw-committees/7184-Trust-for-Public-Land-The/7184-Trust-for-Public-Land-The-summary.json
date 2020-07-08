@@ -1,0 +1,37 @@
+{
+    "slug": "7184-Trust-for-Public-Land-The",
+    "committeeName": "Trust for Public Land, The",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 7184,
+        "committeeName": "Trust for Public Land, The",
+        "committeeAddress": "1007 E Main Street, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1530079200000,
+        "entityFullName": "Trust for Public Land, The",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Weinstein, David",
+                "address": "1007 E Main Street Bozeman, MT  59715",
+                "phone": "(406) 582-6248",
+                "email": "david.weinstein@tpl.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

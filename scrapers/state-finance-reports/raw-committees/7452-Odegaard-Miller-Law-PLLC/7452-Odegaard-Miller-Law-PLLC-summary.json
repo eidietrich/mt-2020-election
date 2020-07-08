@@ -1,0 +1,48 @@
+{
+    "slug": "7452-Odegaard-Miller-Law-PLLC",
+    "committeeName": "Odegaard Miller Law, PLLC",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 7452,
+        "committeeName": "Odegaard Miller Law, PLLC",
+        "committeeAddress": "1601 Lewis Ave, Suite 101, Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1593496800000,
+        "entityFullName": "Odegaard Miller Law, PLLC",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Odegaard, Paul D",
+                "address": "1601 Lewis Ave, Suite 101 Billings, MT  59102",
+                "phone": "(406) 259-2222",
+                "email": "paul@mtlawyers.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Taylor, Mary C",
+                "address": "P.O. Box 838 Helena, MT  59624",
+                "phone": "(406) 443-3124",
+                "email": "mtla@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Contributions are not earmarked for any specific candidates or ballot issues. ",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

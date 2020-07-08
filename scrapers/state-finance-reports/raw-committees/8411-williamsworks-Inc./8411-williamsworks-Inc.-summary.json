@@ -1,0 +1,43 @@
+{
+    "slug": "8411-williamsworks-Inc.",
+    "committeeName": "williamsworks Inc.",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 8411,
+        "committeeName": "williamsworks Inc.",
+        "committeeAddress": "3533 Lincoln Hills Pt Pointe, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1583820000000,
+        "entityFullName": "williamsworks Inc.",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Martin, Colleen",
+                "address": "3533 Lincoln Hills Pt Pointe Missoula, MT  59802",
+                "phone": "",
+                "email": "colleen@williamsworks.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Montana Democratic Party",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

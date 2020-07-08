@@ -1,0 +1,37 @@
+{
+    "slug": "1944-Friends-of-the-North-Valley-Library",
+    "committeeName": "Friends of the North Valley Library",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 1944,
+        "committeeName": "Friends of the North Valley Library",
+        "committeeAddress": "1079 Park Lane, Stevensville, MT 59870",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1160605383000,
+        "entityFullName": "Friends of the North Valley Library",
+        "entityCity": "Stevensville",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kinsley, Dorothy",
+                "address": "2836 Caribou Lane Stevensville, MT  59870",
+                "phone": "(406) 777-3209",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

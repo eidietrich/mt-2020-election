@@ -1,0 +1,37 @@
+{
+    "slug": "6919-MTA-Hospitality-PAC",
+    "committeeName": "MTA Hospitality PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6919,
+        "committeeName": "MTA Hospitality PAC",
+        "committeeAddress": "920 E Lyndale, Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1519714800000,
+        "entityFullName": "MTA Hospitality PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Herriges, Margaret L",
+                "address": "920 E Lyndale Helena, MT  59601",
+                "phone": "(406) 442-5040",
+                "email": "margaret@montanatavernassociation.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

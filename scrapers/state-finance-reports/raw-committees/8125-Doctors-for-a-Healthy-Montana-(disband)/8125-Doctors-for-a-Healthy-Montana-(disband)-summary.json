@@ -1,7 +1,7 @@
 {
     "slug": "8125-Doctors-for-a-Healthy-Montana-(disband)",
     "committeeName": "Doctors for a Healthy Montana (disband)",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 1,
     "data": {
         "committeeId": 8125,
@@ -16,15 +16,22 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 1,
-        "contributions": 100.0,
-        "num_contributions": 1,
-        "contributions_19_20": 100.0,
-        "num_contributions_19_20": 1,
-        "expenditures": 0,
-        "num_expenditures": 0,
-        "expenditures_19_20": 0,
-        "num_expenditures_19_20": 0,
-        "cash_on_hand": 100.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Regier, Matt K",
+                "address": "PO Box 9763 Kalispell, MT  59904",
+                "phone": "",
+                "email": "mattregierhd4@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
     }
 }

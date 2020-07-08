@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 45063,
+        "fromDateStr": "10/26/2018",
+        "toDateStr": "11/30/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 5464,
+        "candidateName": "Beaverhead County Democrats",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/26/2018",
+        "end_date": "11/30/2018",
+        "receipts": 0.0,
+        "expenditures": 237.75,
+        "cash_in_bank": 878.63
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/06/18",
+            "Entity Name": "Safeway",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "570 N.Montana",
+            "City": "Dillon",
+            "State": "MT",
+            "Zip": "59725",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 237.75,
+            "Purpose": "food for volunteer (20) recognition event",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

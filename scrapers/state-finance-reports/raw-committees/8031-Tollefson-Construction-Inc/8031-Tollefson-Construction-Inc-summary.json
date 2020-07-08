@@ -1,0 +1,43 @@
+{
+    "slug": "8031-Tollefson-Construction-Inc",
+    "committeeName": "Tollefson Construction Inc",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 8031,
+        "committeeName": "Tollefson Construction Inc",
+        "committeeAddress": "17731 Wild Goose Lane, Frenchtown, MT 59834",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1577602800000,
+        "entityFullName": "Tollefson Construction Inc",
+        "entityCity": "Frenchtown",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Tollefson, Nate",
+                "address": "17731 Wild Goose Lane Frenchtown, MT  59834",
+                "phone": "",
+                "email": "njtollefson@q.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "to support Missoulians for Missoula",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

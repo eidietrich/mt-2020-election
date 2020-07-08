@@ -1,0 +1,37 @@
+{
+    "slug": "7281-Lake-County-Republican-Women",
+    "committeeName": "Lake County Republican Women",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7281,
+        "committeeName": "Lake County Republican Women",
+        "committeeAddress": "PO Box 174, Polson, MT 59864",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1580713200000,
+        "entityFullName": "Lake County Republican Women",
+        "entityCity": "Polson",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Lake, Susan M",
+                "address": "59969 Hwy 93 Ronan, MT  59864",
+                "phone": "(406) 676-4297",
+                "email": "jlake@ronan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

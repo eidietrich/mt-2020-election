@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 42048,
+        "fromDateStr": "05/03/2018",
+        "toDateStr": "06/21/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 297,
+        "candidateName": "Meagher County Republican Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/03/2018",
+        "end_date": "06/21/2018",
+        "receipts": 0.0,
+        "expenditures": 1.23,
+        "cash_in_bank": 269.2
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "06/11/18",
+            "Entity Name": "Bank of the Rockies",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 709",
+            "City": "White Sulphur Springs",
+            "State": "MT",
+            "Zip": "59645",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 0.65,
+            "Purpose": "Bank fee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/14/18",
+            "Entity Name": "Bank of the Rockies",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 709",
+            "City": "White Sulphur Springs",
+            "State": "MT",
+            "Zip": "59645",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 0.58,
+            "Purpose": "Bank fee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "5573-Montana-Credit-Union-League",
+    "committeeName": "Montana Credit Union League",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5573,
+        "committeeName": "Montana Credit Union League",
+        "committeeAddress": "101 N. Rodney Street, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1503036000000,
+        "entityFullName": "Montana Credit Union League",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Stofko, Ed",
+                "address": "3400 N. Montana Avenue Helena, MT  59602",
+                "phone": "(406) 449-2680",
+                "email": "EStofko@rmcu.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Smith, Karen",
+                "address": "101 N. Rodney Street Helena, MT  59601",
+                "phone": "(406) 324-7459",
+                "email": "karen@mcun.coop"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Donation in Support of I-181",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

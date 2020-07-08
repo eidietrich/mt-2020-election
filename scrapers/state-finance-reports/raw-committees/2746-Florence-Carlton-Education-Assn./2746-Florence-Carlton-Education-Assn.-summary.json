@@ -1,0 +1,43 @@
+{
+    "slug": "2746-Florence-Carlton-Education-Assn.",
+    "committeeName": "Florence Carlton Education Assn.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2746,
+        "committeeName": "Florence Carlton Education Assn.",
+        "committeeAddress": "5602 Old Hwy 93, Florence, MT 59833",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1333487241000,
+        "entityFullName": "Florence Carlton Education Assn.",
+        "entityCity": "Florence",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Miller, Jeanne",
+                "address": "5602 Old Hwy 93 Florence, MT  59833",
+                "phone": "",
+                "email": "millerj@florence.k12.mt.us"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Florence Carlton School Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

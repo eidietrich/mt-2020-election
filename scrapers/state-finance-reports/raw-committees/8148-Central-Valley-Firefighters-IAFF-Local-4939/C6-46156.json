@@ -22,6 +22,38 @@
         "expenditures": 0.0,
         "cash_in_bank": 3000.0
     },
-    "contributions": [],
+    "contributions": [
+        {
+            "Date Paid": "12/12/19",
+            "Entity Name": "IAFF Local 4939",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "215 Wings Waay",
+            "City": "Belgrade",
+            "State": "MT",
+            "Zip": "59714",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Other Political Committee Contributions",
+            "Amount": 3000.0,
+            "Amount Type": "CA",
+            "Purpose": "Funds made available to support committee",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 3000.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
     "expenditures": []
 }

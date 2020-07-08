@@ -1,0 +1,37 @@
+{
+    "slug": "2692-Lake-County-Pachyderm-Club",
+    "committeeName": "Lake County Pachyderm Club",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 2692,
+        "committeeName": "Lake County Pachyderm Club",
+        "committeeAddress": "PO Box 174, Polson, MT 59860",
+        "committeeTypeDescr": "Disbanded Montana Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1466488800000,
+        "entityFullName": "Lake County Pachyderm Club",
+        "entityCity": "Polson",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Milheim, Irvine",
+                "address": "P.O. Box 135 Dayton, MT  59914",
+                "phone": "(406) 849-5944",
+                "email": "mimiandirv@centurytel.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

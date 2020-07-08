@@ -1,0 +1,37 @@
+{
+    "slug": "385-Kids-Education-Yes",
+    "committeeName": "Kids Education Yes",
+    "scrape_date": "2020-07-02",
+    "periods": 24,
+    "data": {
+        "committeeId": 385,
+        "committeeName": "Kids Education Yes",
+        "committeeAddress": "PO Box 3224, Great Falls, MT 59403",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1585548000000,
+        "entityFullName": "Kids Education Yes",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Morin, Lynda",
+                "address": "P.O. Box 3224  Great Falls, MT  59403",
+                "phone": "(406) 788-9759",
+                "email": "info@kidseducationyes.com "
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 40810,
+        "fromDateStr": "05/10/2018",
+        "toDateStr": "05/10/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7262,
+        "candidateName": "[Company Name] Incidental Committee",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/10/2018",
+        "end_date": "05/10/2018",
+        "receipts": 0.0,
+        "expenditures": 9500.0,
+        "cash_in_bank": -9500.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "05/10/18",
+            "Entity Name": "MHA PAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2625 Winne Avenue",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 4500.0,
+            "Purpose": "in-kind contribution of trip to Mexico for PAC auction",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/10/18",
+            "Entity Name": "MHA PAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2625 Winne Avenue",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 5000.0,
+            "Purpose": "made contribution to MHA PAC",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

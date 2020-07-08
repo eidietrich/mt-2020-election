@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 41942,
+        "fromDateStr": "06/06/2018",
+        "toDateStr": "06/20/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 309,
+        "candidateName": "Pondera County Republican Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/06/2018",
+        "end_date": "06/20/2018",
+        "receipts": 0.0,
+        "expenditures": 17.59,
+        "cash_in_bank": 19983.78
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "06/06/18",
+            "Entity Name": "Stockman Bank",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P O Box 727",
+            "City": "Conrad",
+            "State": "MT",
+            "Zip": "59425",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 17.59,
+            "Purpose": "Checks",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

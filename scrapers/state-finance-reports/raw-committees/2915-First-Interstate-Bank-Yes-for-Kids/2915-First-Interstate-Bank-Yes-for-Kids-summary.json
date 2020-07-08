@@ -1,0 +1,43 @@
+{
+    "slug": "2915-First-Interstate-Bank-Yes-for-Kids",
+    "committeeName": "First Interstate Bank Yes for Kids",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2915,
+        "committeeName": "First Interstate Bank Yes for Kids",
+        "committeeAddress": "401 N. 31st Street, Billings, MT 59116",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2013",
+        "amendedDate": 1366392538000,
+        "entityFullName": "First Interstate Bank Yes for Kids",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Donaldson, Carol Stephens",
+                "address": "401 N. 31st Street Billings, MT  59116-0918",
+                "phone": "",
+                "email": "carol.donaldson@fib.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School Levies in Yellowstone County",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "slug": "5023-Paoli-Law-Firm-PC",
+    "committeeName": "Paoli Law Firm PC",
+    "scrape_date": "2020-07-02",
+    "periods": 15,
+    "data": {
+        "committeeId": 5023,
+        "committeeName": "Paoli Law Firm PC",
+        "committeeAddress": "P.O. Box 8131, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1516950000000,
+        "entityFullName": "Paoli Law Firm PC",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Paoli, David R.",
+                "address": "P.O. 8131 Missoula, MT  59802",
+                "phone": "(406) 542-3330",
+                "email": "davidpaoli@paoli-law.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Taylor, Mary C",
+                "address": "P.O. Box 838 Helena, MT  59624",
+                "phone": "(406) 439-5024",
+                "email": "mtla@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

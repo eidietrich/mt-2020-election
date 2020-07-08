@@ -1,0 +1,43 @@
+{
+    "slug": "6075-Doubek-Pyfer-&-Fox-LLP",
+    "committeeName": "Doubek, Pyfer & Fox, LLP",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6075,
+        "committeeName": "Doubek, Pyfer & Fox, LLP",
+        "committeeAddress": "PO Box 236, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1480316400000,
+        "entityFullName": "Doubek, Pyfer & Fox, LLP",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Fox, Patrick",
+                "address": "1195 Mendocino Drive Helena, MT  59601",
+                "phone": "",
+                "email": "patrickfox@doubekpyfer.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Taylor, Mary",
+                "address": "P.O. Box 838 Helena, MT  59624",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Elect Experienced Judges",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

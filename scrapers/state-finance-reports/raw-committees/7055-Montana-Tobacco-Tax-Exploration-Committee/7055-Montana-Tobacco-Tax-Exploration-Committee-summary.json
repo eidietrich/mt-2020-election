@@ -1,0 +1,43 @@
+{
+    "slug": "7055-Montana-Tobacco-Tax-Exploration-Committee",
+    "committeeName": "Montana Tobacco Tax Exploration Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7055,
+        "committeeName": "Montana Tobacco Tax Exploration Committee",
+        "committeeAddress": "P.O. Box 5800, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1524722400000,
+        "entityFullName": "Montana Tobacco Tax Exploration Committee",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Pearson, C.B.",
+                "address": "P.O. Box 5800 Missoula, MT  59802",
+                "phone": "(406) 544-0032",
+                "email": "cbpearson@mrss.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-185",
+                "position": "Other",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

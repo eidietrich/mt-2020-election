@@ -1,0 +1,43 @@
+{
+    "slug": "6350-Washington-Corporations",
+    "committeeName": "Washington Corporations",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 6350,
+        "committeeName": "Washington Corporations",
+        "committeeAddress": "PO Box 16630, Missoula, MT 59808",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1535004000000,
+        "entityFullName": "Washington Corporations",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Halligan, Mike",
+                "address": "101 International Drive Missoula, MT  59808",
+                "phone": "(406) 523-1325",
+                "email": "mhalligan@washcorp.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "6 mill levy campaign - Montanans for Higher Education",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

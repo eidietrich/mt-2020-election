@@ -1,0 +1,37 @@
+{
+    "slug": "2224-Montana-Action-Committee",
+    "committeeName": "Montana Action Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 28,
+    "data": {
+        "committeeId": 2224,
+        "committeeName": "Montana Action Committee",
+        "committeeAddress": "P.O. Box 557, Helena, MT 59624",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1540360800000,
+        "entityFullName": "Montana Action Committee",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Morrison, John",
+                "address": "P.O. Box 557 Helena, MT  59624",
+                "phone": "(406) 442-3261",
+                "email": "jmmmontana@msn.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

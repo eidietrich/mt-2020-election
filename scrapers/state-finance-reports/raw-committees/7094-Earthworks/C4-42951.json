@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 42951,
+        "fromDateStr": "08/31/2018",
+        "toDateStr": "09/26/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7094,
+        "candidateName": "Earthworks ",
+        "statusDescr": "Amended",
+        "amendedDate": 1542649336000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "08/31/2018",
+        "end_date": "09/26/2018",
+        "receipts": 0.0,
+        "expenditures": 2064.94,
+        "cash_in_bank": -6015.14
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "09/13/18",
+            "Entity Name": "Yes for Responsible Mining ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1524",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59403",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2064.94,
+            "Purpose": "For I-186: (see att.) staff Bonnie Gestring (18 hrs) release of mining report/public outreach; payment to Gecko Design ($786) for report design   ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

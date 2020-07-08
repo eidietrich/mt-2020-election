@@ -1,0 +1,438 @@
+{
+    "slug": "408-Montana-Gas-&-Oil-Pac",
+    "committeeName": "Montana Gas & Oil Pac",
+    "scrape_date": "2020-07-02",
+    "periods": 24,
+    "data": {
+        "committeeId": 408,
+        "committeeName": "Montana Gas & Oil Pac",
+        "committeeAddress": "Po Box 1186, Helena, MT 59624",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1569909600000,
+        "entityFullName": "Montana Gas & Oil Pac",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Olson, Alan",
+                "address": "Po Box 1186 Helena, MT  59601",
+                "phone": "(406) 320-1385",
+                "email": "mpa@montanapetroleum.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Gardner, Bobbie",
+                "address": "PO Box 1186 Helena, MT  59601",
+                "phone": "(406) 202-0795",
+                "email": "mpa@montanapetroleum.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Jeff Welborn for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Lincoln Reagan Day Dinner - MT GOP",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Edith McClafferty for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Campaign financial support for candidates for state and county elected offices, through direct contributions or through contributions to party political committees.",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Brian Hoven for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Matt Rosendale for State Auditor",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "David Moore for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Steve Lavin for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Steve Daines for US Senate",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Carl Glimm for House",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Scott Sales for Secretary of State ",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Mark Blasdel for Senate",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kerri Seekins-Crowe for House",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Casey Schreiner for House ",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Ryan Zinke for Congress",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Russell Tempel for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "James O'Hara for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Tim Fox for AG",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Fred Anderson for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Terry Gauthier for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Chet Billi for House",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ross Fitzgerald for Houise",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Steve Fitzpatrick for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "MDLCC",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "MRLCC - President's and Speaker's Reception",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Terry Gauthier for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Tom Jacobson for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Greg Gianforte for Congress",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Elsie Arntzen for State Superintendent",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Montana Republican Party",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ryan Osmundson for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Mary Caferro for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Alan Redfield for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Greg Gianforte for Governor",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Matt Rosendale for State Auditor",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Frank Garner for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Governor Steve Bullock",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Becky Beard for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Doug Kary for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Kristen Juras for Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Chase Reynolds for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Kristen Juras for Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Corey Stapleton for Secretary of State",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Randy Brodehl for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Stephanie Hess for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jedediah Hinkle for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Bill Mercer for Legislature",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Brad Johnson for PSC",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Eric Moore for House",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jon Bennion for Attorney General",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Duane Ankney for Senate",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Matt Rosendale for U.S. Senate",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Butch Gillespie for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "MRLCC",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Llew Jones for House",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Ed Buttrey for House",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bob Lake for PSC",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Mary Caferro for House",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Fred Thomas for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Robert Sivertson for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Scott Staffanson for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Denley Loge for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Casey Knudsen for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Mike Lang for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Dan Bartel for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Kenneth Holmlund for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Tom Richmond for Senate",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Walt Sales for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jane Gillette for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Daniel Zolnikov for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Tom McGillvray for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jimmy Patelis for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Cascade County Republican Central Committee",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bill Mercer for Legislature",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Duane Ankney for Senate",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Benjamin Hunter for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "John Esp for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Duane Ankney for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Matthew Regier for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Colin Nygaard for House",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

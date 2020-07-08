@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 30382,
+        "fromDateStr": "10/27/2012",
+        "toDateStr": "03/10/2013",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 2677,
+        "candidateName": "Patients for Reform - Not Repeal",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/27/2012",
+        "end_date": "03/10/2013",
+        "receipts": 0.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 0.0
+    },
+    "contributions": [],
+    "expenditures": []
+}

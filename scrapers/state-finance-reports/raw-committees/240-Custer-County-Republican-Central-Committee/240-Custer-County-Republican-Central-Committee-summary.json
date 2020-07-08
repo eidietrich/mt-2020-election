@@ -1,0 +1,43 @@
+{
+    "slug": "240-Custer-County-Republican-Central-Committee",
+    "committeeName": "Custer County Republican Central Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 21,
+    "data": {
+        "committeeId": 240,
+        "committeeName": "Custer County Republican Central Committee",
+        "committeeAddress": "P.O. Box 1554, MILES CITY, MT 59301",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1590127200000,
+        "entityFullName": "Custer County Republican Central Committee",
+        "entityCity": "MILES CITY",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ellis, Bill H",
+                "address": "5108 VALLEY Drive East MILES CITY, MT  59301-5",
+                "phone": "(406) 853-3955",
+                "email": "billellis58@aol.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Local Republican Candidates",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

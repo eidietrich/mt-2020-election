@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 40437,
+        "fromDateStr": "04/24/2018",
+        "toDateStr": "05/28/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7081,
+        "candidateName": "Friends of Lolo School",
+        "statusDescr": "Amended",
+        "amendedDate": 1555088379000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/24/2018",
+        "end_date": "05/28/2018",
+        "receipts": 250.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 250.0
+    },
+    "contributions": [
+        {
+            "Date Paid": "04/30/18",
+            "Entity Name": "Olinger, Dale",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "358 Mari Court",
+            "City": "Lolo",
+            "State": "MT",
+            "Zip": "59847",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "Superintendent ",
+            "Employer": "Lolo School Dist #7",
+            "Contribution Type": "Individual Contributions",
+            "Amount": 250.0,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "Primary",
+            "Total Primary": 250.0,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

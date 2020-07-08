@@ -1,0 +1,43 @@
+{
+    "slug": "6989-Kalispell-Regional-Medical-Center-Inc.-Incidental-Committee",
+    "committeeName": "Kalispell Regional Medical Center, Inc. Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 8,
+    "data": {
+        "committeeId": 6989,
+        "committeeName": "Kalispell Regional Medical Center, Inc. Incidental Committee",
+        "committeeAddress": "310 Sunnyview Lane, Kalispell, MT 59901",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1542783600000,
+        "entityFullName": "Kalispell Regional Medical Center, Inc. Incidental Committee",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Spring, Jason ",
+                "address": "310 Sunnyview Lane Kalispell, MT  59901",
+                "phone": "(406) 752-1724",
+                "email": "cpearce@krmc.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "contribution made to support ballott initiative to increase tobacco taxes to support health care programs",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "slug": "290-Lincoln-County-Democratic-Central-Cmte.",
+    "committeeName": "Lincoln County Democratic Central Cmte.",
+    "scrape_date": "2020-07-02",
+    "periods": 14,
+    "data": {
+        "committeeId": 290,
+        "committeeName": "Lincoln County Democratic Central Cmte.",
+        "committeeAddress": "P. O. Box 1153, Libby, MT 59923",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1590991200000,
+        "entityFullName": "Lincoln County Democratic Central Cmte.",
+        "entityCity": "Libby",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Martin, Donna L",
+                "address": "294 Dawson Street Libby, MT  59923",
+                "phone": "(406) 291-1187",
+                "email": "donnalee6259@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Carney, Eileen",
+                "address": "P.O. Box 1193 Libby, MT  59923",
+                "phone": "(406) 293-6407",
+                "email": "jecarney@frontiernet.net"
+            }
+        ],
+        "issues": []
+    }
+}

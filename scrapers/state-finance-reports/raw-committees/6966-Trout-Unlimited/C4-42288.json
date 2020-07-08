@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 42288,
+        "fromDateStr": "05/28/2018",
+        "toDateStr": "06/26/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 6966,
+        "candidateName": "Trout Unlimited",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/28/2018",
+        "end_date": "06/26/2018",
+        "receipts": 0.0,
+        "expenditures": 12148.2,
+        "cash_in_bank": -129711.32
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "06/26/18",
+            "Entity Name": "Yes for Responsible Mining ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1524",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59403",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 140.2,
+            "Purpose": "Travel for I-186",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "06/26/18",
+            "Entity Name": "Yes for Responsible Mining ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1524",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59403",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 12008.0,
+            "Purpose": "Trout Unlimited staff time ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

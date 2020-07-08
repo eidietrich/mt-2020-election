@@ -1,0 +1,43 @@
+{
+    "slug": "2436-Utah-Trappers-Assocation",
+    "committeeName": "Utah Trappers Assocation",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2436,
+        "committeeName": "Utah Trappers Assocation",
+        "committeeAddress": "1465 Highway 119, Richfield, UT 84701",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1270657392000,
+        "entityFullName": "Utah Trappers Assocation",
+        "entityCity": "Richfield",
+        "entityState": "UT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Loftus, Leroy",
+                "address": "1465 East Highway 118 Richfield, UT  84701",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Montanan's for Effective Wildlife Managment",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

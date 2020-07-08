@@ -1,0 +1,43 @@
+{
+    "slug": "2446-Denny-Menholt-Auto-Group",
+    "committeeName": "Denny Menholt Auto Group",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2446,
+        "committeeName": "Denny Menholt Auto Group",
+        "committeeAddress": "PO Box 80430 3000 King Ave. W, Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1272057789000,
+        "entityFullName": "Denny Menholt Auto Group",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ray, Wendy",
+                "address": "PO Box 80430 3000 King Ave W Billings, MT  59108",
+                "phone": "",
+                "email": "wray@dmfch.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Yes for Kids - School Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

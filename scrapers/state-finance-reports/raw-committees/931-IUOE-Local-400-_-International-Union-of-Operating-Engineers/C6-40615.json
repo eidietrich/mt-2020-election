@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 40615,
+        "fromDateStr": "03/07/2018",
+        "toDateStr": "05/04/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 931,
+        "candidateName": "IUOE Local 400 _ International Union of Operating Engineers",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/07/2018",
+        "end_date": "05/04/2018",
+        "receipts": 14.75,
+        "expenditures": 0.0,
+        "cash_in_bank": 492.33
+    },
+    "contributions": [],
+    "expenditures": []
+}

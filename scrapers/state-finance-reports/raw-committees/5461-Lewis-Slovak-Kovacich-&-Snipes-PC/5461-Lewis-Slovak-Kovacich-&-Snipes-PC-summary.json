@@ -1,0 +1,43 @@
+{
+    "slug": "5461-Lewis-Slovak-Kovacich-&-Snipes-PC",
+    "committeeName": "Lewis, Slovak Kovacich & Snipes PC",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 5461,
+        "committeeName": "Lewis, Slovak Kovacich & Snipes PC",
+        "committeeAddress": "PO Box 2325, Great Falls, MT 59403",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1477980000000,
+        "entityFullName": "Lewis, Slovak Kovacich & Snipes PC",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Slovak, J David",
+                "address": "P.O. Box 2325 Great Falls, MT  59403",
+                "phone": "(406) 761-5595",
+                "email": "dave@lsklaw.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Ben, Snipes",
+                "address": "P.O. Box 2325 Great Falls, MT  59403",
+                "phone": "",
+                "email": "ben@lsklaw.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Elect experienced judges",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

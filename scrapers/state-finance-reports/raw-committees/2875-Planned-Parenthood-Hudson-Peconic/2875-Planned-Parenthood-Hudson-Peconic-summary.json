@@ -1,0 +1,43 @@
+{
+    "slug": "2875-Planned-Parenthood-Hudson-Peconic",
+    "committeeName": "Planned Parenthood Hudson Peconic",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2875,
+        "committeeName": "Planned Parenthood Hudson Peconic",
+        "committeeAddress": "4 Skyline Drive, Hawthorne, NY 10532",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1357847990000,
+        "entityFullName": "Planned Parenthood Hudson Peconic",
+        "entityCity": "Hawthorne",
+        "entityState": "NY"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bracco, Andrew",
+                "address": "4 Skyline Drive Hawthorne, NY  10532",
+                "phone": "",
+                "email": "andrew.bracco@pphp.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

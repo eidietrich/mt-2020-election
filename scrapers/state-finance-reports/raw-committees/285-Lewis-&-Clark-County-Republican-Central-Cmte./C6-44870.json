@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 44870,
+        "fromDateStr": "10/03/2018",
+        "toDateStr": "11/25/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 285,
+        "candidateName": "Lewis & Clark County Republican Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/03/2018",
+        "end_date": "11/25/2018",
+        "receipts": 1.2,
+        "expenditures": 500.0,
+        "cash_in_bank": 8198.34
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/18/18",
+            "Entity Name": "Red Lion Colonial Inn",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2301 Colonial Dr.",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 500.0,
+            "Purpose": "Celebration Party",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

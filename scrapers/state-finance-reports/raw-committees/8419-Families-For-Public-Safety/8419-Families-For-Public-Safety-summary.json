@@ -1,7 +1,7 @@
 {
     "slug": "8419-Families-For-Public-Safety",
     "committeeName": "Families For Public Safety",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 4,
     "data": {
         "committeeId": 8419,
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 4,
-        "contributions": 1630.0,
-        "num_contributions": 5,
-        "contributions_19_20": 1630.0,
-        "num_contributions_19_20": 5,
-        "expenditures": 1585.4,
-        "num_expenditures": 2,
-        "expenditures_19_20": 1585.4,
-        "num_expenditures_19_20": 2,
-        "cash_on_hand": 44.6
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Rauser, John",
+                "address": "106 Rauser Lane Toston, MT  59643",
+                "phone": "(406) 494-1733",
+                "email": "rauserdurocs@msn.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Swanson, Cory",
+                "address": "210 North Cherry Street Townsend, MT  59644",
+                "phone": "(406) 459-6359",
+                "email": "swanriver@usa.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Broadwater County Public Safety Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
     }
 }

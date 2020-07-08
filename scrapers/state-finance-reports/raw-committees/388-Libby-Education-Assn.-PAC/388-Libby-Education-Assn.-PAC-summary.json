@@ -1,0 +1,37 @@
+{
+    "slug": "388-Libby-Education-Assn.-PAC",
+    "committeeName": "Libby Education Assn. PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 388,
+        "committeeName": "Libby Education Assn. PAC",
+        "committeeAddress": "138 Paul Bunyan Lane, Libby, MT 59923",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1471500000000,
+        "entityFullName": "Libby Education Assn. PAC",
+        "entityCity": "Libby",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Farmer, Lacie  K",
+                "address": "138 Paul Bunyan Lane Libby, MT  59923",
+                "phone": "(406) 293-1528",
+                "email": "laciekendall@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

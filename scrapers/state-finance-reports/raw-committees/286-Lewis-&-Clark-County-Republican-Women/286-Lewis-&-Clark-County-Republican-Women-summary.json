@@ -1,0 +1,43 @@
+{
+    "slug": "286-Lewis-&-Clark-County-Republican-Women",
+    "committeeName": "Lewis & Clark County Republican Women",
+    "scrape_date": "2020-07-02",
+    "periods": 23,
+    "data": {
+        "committeeId": 286,
+        "committeeName": "Lewis & Clark County Republican Women",
+        "committeeAddress": "8473 Green Meadow Dr., Helena, MT 59602",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1462255200000,
+        "entityFullName": "Lewis & Clark County Republican Women",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Warren, Danette",
+                "address": "8473 Green Meadow Dr. Helena, MT  59602",
+                "phone": "(406) 439-6780",
+                "email": "dannie1234@msn.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Promote Republican ideals",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

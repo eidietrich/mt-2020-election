@@ -1,0 +1,43 @@
+{
+    "slug": "7555-NATIONAL-ASSOCIATION-OF-REALTORS-FUND",
+    "committeeName": "NATIONAL ASSOCIATION OF REALTORS FUND",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 7555,
+        "committeeName": "NATIONAL ASSOCIATION OF REALTORS FUND",
+        "committeeAddress": "430 N. MICHIGAN AVE, CHICAGO, IL 60611",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1537336800000,
+        "entityFullName": "NATIONAL ASSOCIATION OF REALTORS FUND",
+        "entityCity": "CHICAGO",
+        "entityState": "IL"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "HERRING, III, JOHN T",
+                "address": "3420 S. RESERVE ST, SUITE B MISSOULA, MT  59801",
+                "phone": "(406) 544-1742",
+                "email": "johnherringre@aol.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "PIERPOINT, JOHN",
+                "address": "430 N. MICHIGAN AVE CHICAGO, IL  60611",
+                "phone": "(312) 329-8200",
+                "email": "jpierpoint@realtors.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Purpose of Committee is to make contributions and expenditures in Montana elections.  We are not supporting or opposing any particular candidate or ballot issue.  Election date is 11/6/18. ",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 46455,
+        "fromDateStr": "11/27/2018",
+        "toDateStr": "12/31/2019",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 931,
+        "candidateName": "IUOE Local 400 _ International Union of Operating Engineers",
+        "statusDescr": "Amended",
+        "amendedDate": 1593106868000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/27/2018",
+        "end_date": "12/31/2019",
+        "receipts": 96.25,
+        "expenditures": 0.0,
+        "cash_in_bank": 632.83
+    },
+    "contributions": [
+        {
+            "Date Paid": "12/31/19",
+            "Entity Name": "Membership dues, Membership dues",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "",
+            "City": "",
+            "State": "",
+            "Zip": "",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -96.25,
+            "Amount Type": "CA",
+            "Purpose": "$96.25 is composed of approx. 30 members paying .25/month to our voluntary PAC for 13 months",
+            "Election Type": "General",
+            "Total Primary": 45.75,
+            "Total General": 126.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

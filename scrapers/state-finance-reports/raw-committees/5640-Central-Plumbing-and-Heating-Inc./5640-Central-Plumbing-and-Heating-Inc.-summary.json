@@ -1,0 +1,43 @@
+{
+    "slug": "5640-Central-Plumbing-and-Heating-Inc.",
+    "committeeName": "Central Plumbing and Heating, Inc.",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5640,
+        "committeeName": "Central Plumbing and Heating, Inc.",
+        "committeeAddress": "3701 River Drive North, Great Falls, MT 59405",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1468908000000,
+        "entityFullName": "Central Plumbing and Heating, Inc.",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Malek, Alecia",
+                "address": "3701 River Drive North Great Falls, MT  59405",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Yes for Great Falls Kids",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

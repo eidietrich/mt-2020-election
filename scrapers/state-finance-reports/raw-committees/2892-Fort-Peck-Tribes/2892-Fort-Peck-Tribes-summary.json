@@ -1,0 +1,43 @@
+{
+    "slug": "2892-Fort-Peck-Tribes",
+    "committeeName": "Fort Peck Tribes",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2892,
+        "committeeName": "Fort Peck Tribes",
+        "committeeAddress": "PO Box 1027, Poplar, MT 59255",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1357933318000,
+        "entityFullName": "Fort Peck Tribes",
+        "entityCity": "Poplar",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Rattling Thunder, Terry",
+                "address": "PO Box 1027 501 Medicine Bear Rd. Poplar, MT  59255",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Bullock/Walsh",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

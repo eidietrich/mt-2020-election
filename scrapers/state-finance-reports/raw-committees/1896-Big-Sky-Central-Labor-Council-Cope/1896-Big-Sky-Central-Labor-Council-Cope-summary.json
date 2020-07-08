@@ -1,0 +1,43 @@
+{
+    "slug": "1896-Big-Sky-Central-Labor-Council-Cope",
+    "committeeName": "Big Sky Central Labor Council Cope",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 1896,
+        "committeeName": "Big Sky Central Labor Council Cope",
+        "committeeAddress": "P.o. Box 466, Helena, MT 59624",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1455174000000,
+        "entityFullName": "Big Sky Central Labor Council Cope",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Reardon, Jay",
+                "address": "Po Box 466 Helena, MT  59624",
+                "phone": "(406) 465-5595",
+                "email": "jawbiker99@yahoo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Nielsen, Larry",
+                "address": "1232 East Sixth Ave Helena, MT  59601",
+                "phone": "(406) 442-2123",
+                "email": "lnielsen@mea-mft.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Labor and Employment issues",
+                "position": "Other",
+                "status": "Support"
+            }
+        ]
+    }
+}

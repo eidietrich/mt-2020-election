@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 43552,
+        "fromDateStr": "09/27/2018",
+        "toDateStr": "10/17/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7414,
+        "candidateName": "RAI Services Company",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/27/2018",
+        "end_date": "10/17/2018",
+        "receipts": 0.0,
+        "expenditures": 28684.0,
+        "cash_in_bank": -295831.59
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/16/18",
+            "Entity Name": "Montanans Against Tax Hikes - No on I-185",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 4932",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59604",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 28684.0,
+            "Purpose": "Campaign Contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

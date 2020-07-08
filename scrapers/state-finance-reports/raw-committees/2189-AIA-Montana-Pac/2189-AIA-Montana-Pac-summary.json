@@ -1,0 +1,48 @@
+{
+    "slug": "2189-AIA-Montana-Pac",
+    "committeeName": "AIA Montana Pac",
+    "scrape_date": "2020-07-02",
+    "periods": 6,
+    "data": {
+        "committeeId": 2189,
+        "committeeName": "AIA Montana Pac",
+        "committeeAddress": "Po Box 20996, Billings, MT 59104",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1517209200000,
+        "entityFullName": "AIA Montana Pac",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Dempster, Connie",
+                "address": "Po Box 20996 Billings, MT  59104",
+                "phone": "(406) 633-2868",
+                "email": "aia@assoc-mgt.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Shoot Veis",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support the profession of architecture",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

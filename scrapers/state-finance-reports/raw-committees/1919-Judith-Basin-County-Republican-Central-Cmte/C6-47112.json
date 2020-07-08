@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 47112,
+        "fromDateStr": "05/14/2019",
+        "toDateStr": "03/25/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 1919,
+        "candidateName": "Judith Basin County Republican Central Cmte",
+        "statusDescr": "Amended",
+        "amendedDate": 1588003607000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/14/2019",
+        "end_date": "03/25/2020",
+        "receipts": 0.0,
+        "expenditures": 585.0,
+        "cash_in_bank": 501.48
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "05/15/19",
+            "Entity Name": "Osmundson, Jessica A",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1394 S Buffalo Canyon RD 59418",
+            "City": "Buffalo",
+            "State": "MT",
+            "Zip": "59418",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 585.0,
+            "Purpose": "Reimbursement for Mt GOP State Convention 2019 for 3 Central committee members registration fees.",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "central committee business, State GOP Convention",
+            "Expenditure Paid Communications Quantity": "3 members registrations",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

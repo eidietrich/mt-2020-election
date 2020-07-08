@@ -1,0 +1,43 @@
+{
+    "slug": "2860-Parents-Right-to-Know",
+    "committeeName": "Parents Right to Know",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2860,
+        "committeeName": "Parents Right to Know",
+        "committeeAddress": "7918 El Cajon Blvd Suite N-162, La Mesa, CA 91942",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1356037756000,
+        "entityFullName": "Parents Right to Know",
+        "entityCity": "La Mesa",
+        "entityState": "CA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Baber, Bill",
+                "address": "7918 El Cajon Blvd. Suite N-162 La Mesa, CA  91942",
+                "phone": "",
+                "email": "wrblaw@flash.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

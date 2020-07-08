@@ -1,0 +1,43 @@
+{
+    "slug": "2145-Supporters-of-Missoula-Rural-Firefighters",
+    "committeeName": "Supporters of Missoula Rural Firefighters",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2145,
+        "committeeName": "Supporters of Missoula Rural Firefighters",
+        "committeeAddress": "PMB 106 2120 S Reserve, Missoula, MT 59801",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1207591751000,
+        "entityFullName": "Supporters of Missoula Rural Firefighters",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Benbeneck, Hillary",
+                "address": "PMB 106 2120 S Reserve Missoula, MT  59801",
+                "phone": "(406) 370-0629",
+                "email": "hbenbeneck@mrfdfire.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Davey, Corey",
+                "address": "4301 Hwy 93 South Missoula, MT  59804",
+                "phone": "(406) 370-1578",
+                "email": "cdavey@momh.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To support a mill levy increase for Missoula Rural Fire District",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

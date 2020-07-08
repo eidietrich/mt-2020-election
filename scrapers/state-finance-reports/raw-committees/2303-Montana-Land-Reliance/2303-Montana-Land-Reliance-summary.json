@@ -1,0 +1,43 @@
+{
+    "slug": "2303-Montana-Land-Reliance",
+    "committeeName": "Montana Land Reliance",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2303,
+        "committeeName": "Montana Land Reliance",
+        "committeeAddress": "PO Box 355, Helena, MT 59624",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1224008232000,
+        "entityFullName": "Montana Land Reliance",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Olsen, George",
+                "address": "PO Box 355 Helena, MT  59624",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Lewis & Clark County Citizens for Land, Water and Wildlife",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

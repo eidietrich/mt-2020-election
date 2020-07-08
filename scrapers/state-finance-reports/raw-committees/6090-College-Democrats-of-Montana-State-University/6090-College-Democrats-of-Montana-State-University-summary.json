@@ -1,0 +1,43 @@
+{
+    "slug": "6090-College-Democrats-of-Montana-State-University",
+    "committeeName": "College Democrats of Montana State University",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 6090,
+        "committeeName": "College Democrats of Montana State University",
+        "committeeAddress": "222 Strand Union Building 751 W. Grand St., Bozeman, MT 59715",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1522303200000,
+        "entityFullName": "College Democrats of Montana State University",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Peoria, Joseph",
+                "address": "200 Roskie Hall Bozeman, MT  59715",
+                "phone": "(720) 666-4251",
+                "email": "joseph.peoria@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Wagner, Adrian R",
+                "address": "328 Greenway Court Bozeman, MT  59718",
+                "phone": "(406) 580-9029",
+                "email": "ada.wagner44@gmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To promote liberal and progressive values on campus, and democratic candidates who share same values",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

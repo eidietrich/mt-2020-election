@@ -1,0 +1,37 @@
+{
+    "slug": "1881-Friends-of-9-1-1",
+    "committeeName": "Friends of 9-1-1",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 1881,
+        "committeeName": "Friends of 9-1-1",
+        "committeeAddress": "11400 Gooch Hill Road, Gallatin Gateway, MT 59730",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2006",
+        "amendedDate": 1158343722000,
+        "entityFullName": "Friends of 9-1-1",
+        "entityCity": "Gallatin Gateway",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hess, Ben V.",
+                "address": "11400 Gooch Hill Road Gallatin Gateway, MT  59730",
+                "phone": "(406) 763-4800",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

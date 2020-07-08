@@ -1,0 +1,43 @@
+{
+    "slug": "7508-Montana-Smoke-Free-Association",
+    "committeeName": "Montana Smoke Free Association",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 7508,
+        "committeeName": "Montana Smoke Free Association",
+        "committeeAddress": "840 S. 1st St, Hamilton, MT 59840",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1542092400000,
+        "entityFullName": "Montana Smoke Free Association",
+        "entityCity": "Hamilton",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Marshall, Deanna",
+                "address": "840 S. 1st St Hamilton, MT  59840",
+                "phone": "(406) 345-5450",
+                "email": "meandsophie2@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-185: Raise tobacco taxes to fund health care programs",
+                "position": "Oppose",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

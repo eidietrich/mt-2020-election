@@ -1,0 +1,43 @@
+{
+    "slug": "6248-SOUTHWEST-MONTANA-SAFARI-CLUB-INTERNATIONAL",
+    "committeeName": "SOUTHWEST MONTANA SAFARI CLUB INTERNATIONAL",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6248,
+        "committeeName": "SOUTHWEST MONTANA SAFARI CLUB INTERNATIONAL",
+        "committeeAddress": "PO BOX 10833, BOZEMAN, MT 59719",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1478674800000,
+        "entityFullName": "SOUTHWEST MONTANA SAFARI CLUB INTERNATIONAL",
+        "entityCity": "BOZEMAN",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "HAMMOND, ROB",
+                "address": "PO BOX 10833  BOZEMAN, MT  59719",
+                "phone": "(406) 570-9177",
+                "email": "ROBCHAMMOND@YMAIL.COM"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-177",
+                "position": "Oppose",
+                "status": "On ballot, defeated"
+            }
+        ]
+    }
+}

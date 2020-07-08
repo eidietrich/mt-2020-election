@@ -1,0 +1,43 @@
+{
+    "slug": "5205-Montana-Citizens-for-I-182",
+    "committeeName": "Montana Citizens for I-182",
+    "scrape_date": "2020-07-02",
+    "periods": 11,
+    "data": {
+        "committeeId": 5205,
+        "committeeName": "Montana Citizens for I-182",
+        "committeeAddress": "PO Box 1663, Helena, MT 59624",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1472709600000,
+        "entityFullName": "Montana Citizens for I-182",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Krauss, Jeff",
+                "address": "508 Park Place Bozeman, MT  59715",
+                "phone": "(406) 587-3284",
+                "email": "jeff@yeson182.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Leow, Matthew B",
+                "address": "3930 Fox Farm Rd Missoula, MT  59802",
+                "phone": "(406) 541-8535",
+                "email": "mleow@mrss.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-182",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "slug": "6341-McKeon-Law-of-Butte",
+    "committeeName": "McKeon Law of Butte",
+    "scrape_date": "2020-07-02",
+    "periods": 14,
+    "data": {
+        "committeeId": 6341,
+        "committeeName": "McKeon Law of Butte",
+        "committeeAddress": "P.O. 3329, Butte, MT 59701",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2017",
+        "amendedDate": 1494482400000,
+        "entityFullName": "McKeon Law of Butte",
+        "entityCity": "Butte",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McKeon Jr., Michael J.",
+                "address": "P.O. 3329 Butte, MT  59701",
+                "phone": "(406) 494-8890",
+                "email": "michael@themckeonlaw.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Taylor, Mary C.",
+                "address": "P.O. Box 838 Helena, MT  59624",
+                "phone": "(406) 443-3124",
+                "email": "mtla@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

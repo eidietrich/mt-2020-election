@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 45383,
+        "fromDateStr": "04/17/2019",
+        "toDateStr": "05/21/2019",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 7958,
+        "candidateName": "Lincolns for Levies ",
+        "statusDescr": "Amended",
+        "amendedDate": 1560446110000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/17/2019",
+        "end_date": "05/21/2019",
+        "receipts": 2013.86,
+        "expenditures": 746.78,
+        "cash_in_bank": 1267.08
+    },
+    "contributions": [
+        {
+            "Date Paid": "04/17/19",
+            "Entity Name": "Lincolns for Levies ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "294 Triple Tree Rd",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Other Political Committee Contributions",
+            "Amount": 2013.86,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 2013.86,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "04/30/19",
+            "Entity Name": "Bozeman Daily Chronicle",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2820 W. College Street",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59718",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 746.78,
+            "Purpose": "Placed two ads in local paper For Elem General Fund and Building Reserve levies : ad #1 run date 4/18/19, 5x5, ad #2 run date 4/24/19, 2x10. ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

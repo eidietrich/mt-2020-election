@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 43726,
+        "fromDateStr": "09/28/2018",
+        "toDateStr": "10/20/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7569,
+        "candidateName": "Montana Association of REALTORS",
+        "statusDescr": "Amended",
+        "amendedDate": 1588262678000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/28/2018",
+        "end_date": "10/20/2018",
+        "receipts": 0.0,
+        "expenditures": 15288.89,
+        "cash_in_bank": -15742.86
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/19/18",
+            "Entity Name": "Montana Association REALTORS",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1 S Montana ave, Ste M1",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 288.89,
+            "Purpose": "Paid staff time for IE activities for Jacobson SD 11, Buttrey HD 21, Hamlett HD 23  Trebas HD 25 Sweeney HD 77 & Hertz HD 96",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/08/18",
+            "Entity Name": "Montana Association REALTORS",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1 S Montana ave, Ste M1",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 15000.0,
+            "Purpose": "In-kind payment of costs of independent expenditure activities in support of Tom Jacobson SD11 and Mark Sweeney HD 77.",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

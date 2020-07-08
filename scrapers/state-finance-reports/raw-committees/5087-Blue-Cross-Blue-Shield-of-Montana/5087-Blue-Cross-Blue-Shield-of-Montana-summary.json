@@ -1,0 +1,43 @@
+{
+    "slug": "5087-Blue-Cross-Blue-Shield-of-Montana",
+    "committeeName": "Blue Cross Blue Shield of Montana",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5087,
+        "committeeName": "Blue Cross Blue Shield of Montana",
+        "committeeAddress": "PO Box 4309, Helena, MT 59604",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1538632800000,
+        "entityFullName": "Blue Cross Blue Shield of Montana",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Doran, John M",
+                "address": "PO Box 4309 Helena, MT  59604",
+                "phone": "(406) 437-6195",
+                "email": "John_Doran@bcbsmt.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Montanans for Research and Cures",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

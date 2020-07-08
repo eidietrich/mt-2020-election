@@ -1,0 +1,43 @@
+{
+    "slug": "7000-American-Civil-Liberties-Union-Inc.",
+    "committeeName": "American Civil Liberties Union, Inc.",
+    "scrape_date": "2020-07-02",
+    "periods": 7,
+    "data": {
+        "committeeId": 7000,
+        "committeeName": "American Civil Liberties Union, Inc.",
+        "committeeAddress": "125 Broad Street, New York, NY 10004",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1535090400000,
+        "entityFullName": "American Civil Liberties Union, Inc.",
+        "entityCity": "New York",
+        "entityState": "NY"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Dougherty, Terence",
+                "address": "125 Broad Street New York, NY  10004",
+                "phone": "",
+                "email": "mrohlfing@aclu.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-183",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

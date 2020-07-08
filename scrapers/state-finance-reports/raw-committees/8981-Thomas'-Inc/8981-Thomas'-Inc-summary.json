@@ -1,0 +1,43 @@
+{
+    "slug": "8981-Thomas'-Inc",
+    "committeeName": "Thomas' Inc",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 8981,
+        "committeeName": "Thomas' Inc",
+        "committeeAddress": "3636 Harrison Ave, Butte, MT 59701",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1592805600000,
+        "entityFullName": "Thomas' Inc",
+        "entityCity": "Butte",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Thomas, Paul F",
+                "address": "3636 Harrison Ave Butte, MT  59701",
+                "phone": "",
+                "email": "thomasapparel@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To Support Montana First Action",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

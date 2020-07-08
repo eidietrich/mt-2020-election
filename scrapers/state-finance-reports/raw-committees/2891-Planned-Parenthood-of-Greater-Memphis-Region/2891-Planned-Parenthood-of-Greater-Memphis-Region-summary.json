@@ -1,0 +1,43 @@
+{
+    "slug": "2891-Planned-Parenthood-of-Greater-Memphis-Region",
+    "committeeName": "Planned Parenthood of Greater Memphis Region",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2891,
+        "committeeName": "Planned Parenthood of Greater Memphis Region",
+        "committeeAddress": "2430 Poplar Ave., Memphis, TN 38112",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1357932924000,
+        "entityFullName": "Planned Parenthood of Greater Memphis Region",
+        "entityCity": "Memphis",
+        "entityState": "TN"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kendrick, Jo",
+                "address": "2430 Poplar Ave. Memphis, TN  38112",
+                "phone": "",
+                "email": "jkendrick@ppgmr.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

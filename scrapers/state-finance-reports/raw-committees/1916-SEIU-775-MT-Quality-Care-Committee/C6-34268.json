@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 34268,
+        "fromDateStr": "01/01/2016",
+        "toDateStr": "02/25/2016",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 1916,
+        "candidateName": "SEIU 775 MT Quality Care Committee",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/01/2016",
+        "end_date": "02/25/2016",
+        "receipts": 0.0,
+        "expenditures": 12.0,
+        "cash_in_bank": 702.93
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "01/29/16",
+            "Entity Name": "Wells Fargo",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "350 N Last Chance Gulch St",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 12.0,
+            "Purpose": "Bank Service Fee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

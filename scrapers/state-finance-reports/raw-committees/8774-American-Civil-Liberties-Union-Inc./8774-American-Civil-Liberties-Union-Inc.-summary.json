@@ -1,7 +1,7 @@
 {
     "slug": "8774-American-Civil-Liberties-Union-Inc.",
     "committeeName": "American Civil Liberties Union, Inc.",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 2,
     "data": {
         "committeeId": 8774,
@@ -16,15 +16,28 @@
         "entityState": "NY"
     },
     "summary": {
-        "reports": 2,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 70000.0,
-        "num_expenditures": 1,
-        "expenditures_19_20": 70000.0,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": -70000.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Dougherty, Terence",
+                "address": "125 Broad Street New York, NY  10004",
+                "phone": "(212) 519-7865",
+                "email": "regfilings@aclu.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "We do not plan to directly support or oppose any candidates or ballot issues",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
     }
 }

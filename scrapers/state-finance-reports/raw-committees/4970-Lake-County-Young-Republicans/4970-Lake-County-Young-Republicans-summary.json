@@ -1,0 +1,37 @@
+{
+    "slug": "4970-Lake-County-Young-Republicans",
+    "committeeName": "Lake County Young Republicans",
+    "scrape_date": "2020-07-02",
+    "periods": 8,
+    "data": {
+        "committeeId": 4970,
+        "committeeName": "Lake County Young Republicans",
+        "committeeAddress": "PO Box 954, Polson, MT 59860",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1481007600000,
+        "entityFullName": "Lake County Young Republicans",
+        "entityCity": "Polson",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Dawson , Ben",
+                "address": "711 Brooks Street  missoula, MT  59801",
+                "phone": "(406) 531-4962",
+                "email": "bawson_18@hotmail.com "
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

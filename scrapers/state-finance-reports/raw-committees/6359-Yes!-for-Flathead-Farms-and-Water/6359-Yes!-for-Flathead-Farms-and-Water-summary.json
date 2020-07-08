@@ -1,0 +1,48 @@
+{
+    "slug": "6359-Yes!-for-Flathead-Farms-and-Water",
+    "committeeName": "Yes! for Flathead Farms and Water",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 6359,
+        "committeeName": "Yes! for Flathead Farms and Water",
+        "committeeAddress": "390 Pederson Rd., Kalispell, MT 59901",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2017",
+        "amendedDate": 1516863600000,
+        "entityFullName": "Yes! for Flathead Farms and Water",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Carlson, Marcus",
+                "address": "390 Pederson Rd. Kalispell, MT  59901",
+                "phone": "(406) 755-5764",
+                "email": "mcarlson@montanasky.us"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To place Initiative No. 17-01 on the election ballot to enact resolution No. 1594C to add property to the Egan Slough Zoning District in Flathead County",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Flathead County Initiative No. 17-01",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

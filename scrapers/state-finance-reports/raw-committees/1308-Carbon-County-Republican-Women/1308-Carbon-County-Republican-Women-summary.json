@@ -1,0 +1,43 @@
+{
+    "slug": "1308-Carbon-County-Republican-Women",
+    "committeeName": "Carbon County Republican Women",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 1308,
+        "committeeName": "Carbon County Republican Women",
+        "committeeAddress": "27 Gibson Rd, Joliet, MT 59041-9",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1588831200000,
+        "entityFullName": "Carbon County Republican Women",
+        "entityCity": "Joliet",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Seymour, Amy",
+                "address": "27 Gibson Rd Joliet, MT  59041",
+                "phone": "(406) 962-3260",
+                "email": "Lamontan2000@yahoo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support and educate people about Republican/Conservative values, issues, and candidates",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

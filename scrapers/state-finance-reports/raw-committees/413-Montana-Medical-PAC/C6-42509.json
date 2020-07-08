@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 42509,
+        "fromDateStr": "05/28/2018",
+        "toDateStr": "06/26/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 413,
+        "candidateName": "Montana Medical PAC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/28/2018",
+        "end_date": "06/26/2018",
+        "receipts": 0.0,
+        "expenditures": 8.48,
+        "cash_in_bank": 14893.17
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "05/31/18",
+            "Entity Name": "First Interstate Bank",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "3401 N. Montana Ave. ",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59602",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 8.48,
+            "Purpose": "Bank Service Charges",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

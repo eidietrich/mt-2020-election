@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 46479,
+        "fromDateStr": "09/01/2019",
+        "toDateStr": "12/31/2019",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 318,
+        "candidateName": "Richland County Republican Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/01/2019",
+        "end_date": "12/31/2019",
+        "receipts": 0.0,
+        "expenditures": 193.5,
+        "cash_in_bank": 13145.17
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/12/19",
+            "Entity Name": "The Roundup",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1207",
+            "City": "Sidney",
+            "State": "MT",
+            "Zip": "59270",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 193.5,
+            "Purpose": "Patriotic Rally with Jerry Stewart Invitation",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

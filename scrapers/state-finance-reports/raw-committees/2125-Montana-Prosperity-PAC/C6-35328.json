@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 35328,
+        "fromDateStr": "03/05/2016",
+        "toDateStr": "05/19/2016",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 2125,
+        "candidateName": "Montana Prosperity PAC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/05/2016",
+        "end_date": "05/19/2016",
+        "receipts": 200.0,
+        "expenditures": 4500.0,
+        "cash_in_bank": 131.19
+    },
+    "contributions": [
+        {
+            "Date Paid": "05/23/16",
+            "Entity Name": "Brown, Webb Scott",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2464 Gold Rush Avenue",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "President/CEO",
+            "Employer": "Montana Chamber of Commerce",
+            "Contribution Type": "Individual Contributions",
+            "Amount": 200.0,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "Primary",
+            "Total Primary": 200.0,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

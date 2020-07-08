@@ -1,0 +1,43 @@
+{
+    "slug": "6932-City-of-Great-Falls",
+    "committeeName": "City of Great Falls",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 6932,
+        "committeeName": "City of Great Falls",
+        "committeeAddress": "P.O. Box 5021, Great Falls, MT 59403",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1527228000000,
+        "entityFullName": "City of Great Falls",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kinzler, Melissa",
+                "address": "P.O. Box 5021  Great Falls, MT  59403",
+                "phone": "(406) 455-8476",
+                "email": "mkinzler@greatfallsmt.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Burg, Judy",
+                "address": "P.O. Box 5021 Great Falls, MT  59403",
+                "phone": "(406) 455-8477",
+                "email": "jburg@greatfallsmt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Inform public of impact of passage or failure of Special Park District Ballot Issue on City operations.",
+                "position": "Other",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

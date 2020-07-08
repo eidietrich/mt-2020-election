@@ -1,0 +1,37 @@
+{
+    "slug": "2406-Montana-Conservative-Coalition-PAC",
+    "committeeName": "Montana Conservative Coalition PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 2406,
+        "committeeName": "Montana Conservative Coalition PAC",
+        "committeeAddress": "PO Box 81515, Billings, MT 59108",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1516950000000,
+        "entityFullName": "Montana Conservative Coalition PAC",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Smith, Wendy",
+                "address": "PO Box 81515 Billings, MT  59108",
+                "phone": "(406) 698-9025",
+                "email": "wendy@wdrpmanagement.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

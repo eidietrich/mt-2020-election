@@ -1,0 +1,53 @@
+{
+    "slug": "5577-Everett-Law",
+    "committeeName": "Everett Law",
+    "scrape_date": "2020-07-02",
+    "periods": 8,
+    "data": {
+        "committeeId": 5577,
+        "committeeName": "Everett Law",
+        "committeeAddress": "PO Box 969, Anaconda, MT 59711",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1480316400000,
+        "entityFullName": "Everett Law",
+        "entityCity": "Anaconda",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Everett, Benard",
+                "address": "P.O. Box 969 Anaconda, MT  959711",
+                "phone": "",
+                "email": "beneverett@everettlawpllc.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Taylor, Mary",
+                "address": "P.O. Box 838 Helena, MT  59624",
+                "phone": "",
+                "email": "mtla@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Dirk Sandefur - Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system. ",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

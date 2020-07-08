@@ -1,0 +1,48 @@
+{
+    "slug": "7226-Helena-Citizens-for-Integrity",
+    "committeeName": "Helena Citizens for Integrity",
+    "scrape_date": "2020-07-02",
+    "periods": 7,
+    "data": {
+        "committeeId": 7226,
+        "committeeName": "Helena Citizens for Integrity",
+        "committeeAddress": "36 South Last Chance Gulch, Ste. 11, Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "Y",
+        "electionYear": "2000",
+        "amendedDate": 1526277600000,
+        "entityFullName": "Helena Citizens for Integrity",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Twardoski, Timothy G",
+                "address": "36 South Last Chance Gulch, Ste.11 Helena, MT  59601",
+                "phone": "(406) 422-7443",
+                "email": "lorri@mtaflcio.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "HD 81 Robert Farris-Olsen",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 81 Candidate Mary Caffero",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

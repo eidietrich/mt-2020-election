@@ -1,0 +1,43 @@
+{
+    "slug": "2385-Montana-Trappers-Association",
+    "committeeName": "Montana Trappers Association",
+    "scrape_date": "2020-07-01",
+    "periods": 15,
+    "data": {
+        "committeeId": 2385,
+        "committeeName": "Montana Trappers Association",
+        "committeeAddress": "PO Box 129 304 Central Ave., Ovando, MT 59854",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1256231529000,
+        "entityFullName": "Montana Trappers Association",
+        "entityCity": "Ovando",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Sheppard, Terry",
+                "address": "PO Box 129 Ovando, MT  59854",
+                "phone": "",
+                "email": "tjsheppard@blackfoot.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Montana Trap Free Public Lands Act",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

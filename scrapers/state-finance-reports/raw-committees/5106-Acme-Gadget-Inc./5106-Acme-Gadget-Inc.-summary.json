@@ -1,0 +1,43 @@
+{
+    "slug": "5106-Acme-Gadget-Inc.",
+    "committeeName": "Acme Gadget, Inc.",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5106,
+        "committeeName": "Acme Gadget, Inc.",
+        "committeeAddress": "6220 Hillview Way, Missoula, MT 59803",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1458799200000,
+        "entityFullName": "Acme Gadget, Inc.",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Semmelroth, Catherine",
+                "address": "6220 Hillview Way Missoula, MT  59803",
+                "phone": "(406) 531-2696",
+                "email": "cas@acmegadget.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Missoula Public Library Capital Campaign",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

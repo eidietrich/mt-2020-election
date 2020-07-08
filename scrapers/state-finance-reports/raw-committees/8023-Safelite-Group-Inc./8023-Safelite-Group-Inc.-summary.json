@@ -1,0 +1,37 @@
+{
+    "slug": "8023-Safelite-Group-Inc.",
+    "committeeName": "Safelite Group, Inc.",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 8023,
+        "committeeName": "Safelite Group, Inc.",
+        "committeeAddress": "7400 Safelite Way, Columbus, OH 43235",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2019",
+        "amendedDate": 1568008800000,
+        "entityFullName": "Safelite Group, Inc.",
+        "entityCity": "Columbus",
+        "entityState": "OH"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Zajic, Scot",
+                "address": "7400 Safelite Way Columbus, OH  43235",
+                "phone": "(614) 210-9394",
+                "email": "scot.zajic@stateandfed.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

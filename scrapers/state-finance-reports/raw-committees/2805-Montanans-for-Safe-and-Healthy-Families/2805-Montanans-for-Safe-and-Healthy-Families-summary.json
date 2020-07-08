@@ -1,0 +1,43 @@
+{
+    "slug": "2805-Montanans-for-Safe-and-Healthy-Families",
+    "committeeName": "Montanans for Safe and Healthy Families",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 2805,
+        "committeeName": "Montanans for Safe and Healthy Families",
+        "committeeAddress": "PO Box 1317, Helena, MT 59624",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1346174769000,
+        "entityFullName": "Montanans for Safe and Healthy Families",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

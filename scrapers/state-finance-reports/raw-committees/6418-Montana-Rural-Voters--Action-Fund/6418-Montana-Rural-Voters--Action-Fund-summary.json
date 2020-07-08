@@ -1,0 +1,58 @@
+{
+    "slug": "6418-Montana-Rural-Voters--Action-Fund",
+    "committeeName": "Montana Rural Voters  Action Fund",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 6418,
+        "committeeName": "Montana Rural Voters  Action Fund",
+        "committeeAddress": "PO Box 414 , Billings, MT 59103",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1511506800000,
+        "entityFullName": "Montana Rural Voters  Action Fund",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Keogh, Connie",
+                "address": "PO Box 414 Billings, MT  59103",
+                "phone": "",
+                "email": "adam@mtruralaction.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Haight, Adam G",
+                "address": "PO Box 414 Billings, MT  59103",
+                "phone": "",
+                "email": "adam@mtruralaction.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Denise Joy, Billings Ward 3 Municipal Election",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Nadja Brown, Billings Ward 3 Municipal Election",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "George Blackard, Billings Ward 4 Municipal Election",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Penny Ronning, Ward 4 Billings Municipal Election",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

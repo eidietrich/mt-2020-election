@@ -1,0 +1,43 @@
+{
+    "slug": "314-Ravalli-County-Democratic-Women's-Club",
+    "committeeName": "Ravalli County Democratic Women's Club",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 314,
+        "committeeName": "Ravalli County Democratic Women's Club",
+        "committeeAddress": "Po Box 273, Hamilton, MT 59840",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1467007200000,
+        "entityFullName": "Ravalli County Democratic Women's Club",
+        "entityCity": "Hamilton",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Gantt, Corrine",
+                "address": "PO Box 273 Hamilton, MT  59840",
+                "phone": "(406) 544-8586",
+                "email": "cgantt1@aim.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Promote Democratic values and Issues. Work with Candidates and the local Democratic Central Cmte to help elect Democratic Candidates.",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2101-Concerned-Citizens-Against-the-Jail",
+    "committeeName": "Concerned Citizens Against the Jail",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2101,
+        "committeeName": "Concerned Citizens Against the Jail",
+        "committeeAddress": "PO Box 31, Virginia City, MT 59755",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2007",
+        "amendedDate": 1190052863000,
+        "entityFullName": "Concerned Citizens Against the Jail",
+        "entityCity": "Virginia City",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Cowan, Jay",
+                "address": "PO Box 246 303 Jackson St. Virginia City, MT  59755",
+                "phone": "(406) 843-5514",
+                "email": "jcowan825@aol.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Law & Justice Center Bond Issue",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2921-Langlas-&-Associates-Inc.",
+    "committeeName": "Langlas & Associates, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2921,
+        "committeeName": "Langlas & Associates, Inc.",
+        "committeeAddress": "2270 Grant Road, Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2013",
+        "amendedDate": 1367941757000,
+        "entityFullName": "Langlas & Associates, Inc.",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Langlas, Stephen R.",
+                "address": "2270 Grant Road Billings, MT  59102",
+                "phone": "",
+                "email": "autumn@langlas.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Yes for Kids Contribution",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

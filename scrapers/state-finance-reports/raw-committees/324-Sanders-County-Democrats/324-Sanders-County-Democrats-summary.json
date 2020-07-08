@@ -1,0 +1,37 @@
+{
+    "slug": "324-Sanders-County-Democrats",
+    "committeeName": "Sanders County Democrats",
+    "scrape_date": "2020-07-02",
+    "periods": 13,
+    "data": {
+        "committeeId": 324,
+        "committeeName": "Sanders County Democrats",
+        "committeeAddress": "PO Box 1491, Thompson Falls, MT 59873",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1580367600000,
+        "entityFullName": "Sanders County Democrats",
+        "entityCity": "Thompson Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Sheets, Karen C",
+                "address": "PO Box 551 Thompson Falls, MT  59873",
+                "phone": "(406) 827-3328",
+                "email": "kcsheets2@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

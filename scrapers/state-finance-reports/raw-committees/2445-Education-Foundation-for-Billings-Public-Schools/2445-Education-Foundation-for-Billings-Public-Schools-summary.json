@@ -1,0 +1,43 @@
+{
+    "slug": "2445-Education-Foundation-for-Billings-Public-Schools",
+    "committeeName": "Education Foundation for Billings Public Schools",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2445,
+        "committeeName": "Education Foundation for Billings Public Schools",
+        "committeeAddress": "415 N 30th Street South, Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": null,
+        "electionYear": "2010",
+        "amendedDate": 1272056023000,
+        "entityFullName": "Education Foundation for Billings Public Schools",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hertz, Krista",
+                "address": "415 N 30th Street Billings, MT  59101",
+                "phone": "",
+                "email": "kbhertz@hotmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Yes for Kids - School Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

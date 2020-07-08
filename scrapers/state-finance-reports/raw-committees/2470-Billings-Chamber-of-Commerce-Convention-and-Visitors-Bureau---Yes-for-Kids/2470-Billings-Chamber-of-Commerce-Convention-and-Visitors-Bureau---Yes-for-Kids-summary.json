@@ -1,0 +1,43 @@
+{
+    "slug": "2470-Billings-Chamber-of-Commerce-Convention-and-Visitors-Bureau---Yes-for-Kids",
+    "committeeName": "Billings Chamber of Commerce/Convention and Visitors Bureau - Yes for Kids",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2470,
+        "committeeName": "Billings Chamber of Commerce/Convention and Visitors Bureau - Yes for Kids",
+        "committeeAddress": "PO Box 31177, Billings, MT 59107",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1272566967000,
+        "entityFullName": "Billings Chamber of Commerce/Convention and Visitors Bureau - Yes for Kids",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "MacIntyre, Bruce J.",
+                "address": "PO Box 31177 Billings, MT  59107-1177",
+                "phone": "",
+                "email": "bruce@billingschamber.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Yes for Kids - School Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

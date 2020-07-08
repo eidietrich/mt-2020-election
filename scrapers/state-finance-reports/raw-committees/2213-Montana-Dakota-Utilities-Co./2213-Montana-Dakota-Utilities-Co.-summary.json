@@ -1,0 +1,43 @@
+{
+    "slug": "2213-Montana-Dakota-Utilities-Co.",
+    "committeeName": "Montana Dakota Utilities Co.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2213,
+        "committeeName": "Montana Dakota Utilities Co.",
+        "committeeAddress": "5181 Southgate Dr., Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1214337511000,
+        "entityFullName": "Montana Dakota Utilities Co.",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Reid, Rick",
+                "address": "2205 Treasurer Dr. Billings, MT  59102",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

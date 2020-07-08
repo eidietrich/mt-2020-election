@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 49486,
+        "fromDateStr": "05/01/2020",
+        "toDateStr": "06/25/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 237,
+        "candidateName": "Chouteau County Republican Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/01/2020",
+        "end_date": "06/25/2020",
+        "receipts": 1160.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 5882.1
+    },
+    "contributions": [
+        {
+            "Date Paid": "06/02/20",
+            "Entity Name": "",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "",
+            "City": "",
+            "State": "",
+            "Zip": "",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": 1160.0,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 1160.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "Raffle for Trump rifle",
+            "Fundraiser Location": "Selling tickets, Ft. Benton, MT",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 116
+        }
+    ],
+    "expenditures": []
+}

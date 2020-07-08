@@ -1,0 +1,37 @@
+{
+    "slug": "1918-Datsopoulos-MacDonald-&-Lind-P.C.",
+    "committeeName": "Datsopoulos, MacDonald & Lind, P.C.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 1918,
+        "committeeName": "Datsopoulos, MacDonald & Lind, P.C.",
+        "committeeAddress": "201 W Main Suite 201, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1158864858000,
+        "entityFullName": "Datsopoulos, MacDonald & Lind, P.C.",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wekkin, Carol",
+                "address": "201 W Main Suite 201 Missoula, MT  59802",
+                "phone": "",
+                "email": "cwekkin@dmllaw.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

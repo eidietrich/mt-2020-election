@@ -1,0 +1,37 @@
+{
+    "slug": "1839-Montana-Conservation-Voters",
+    "committeeName": "Montana Conservation Voters",
+    "scrape_date": "2020-07-01",
+    "periods": 5,
+    "data": {
+        "committeeId": 1839,
+        "committeeName": "Montana Conservation Voters",
+        "committeeAddress": "PO Box 63, Billings, MT 59103",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1157582525000,
+        "entityFullName": "Montana Conservation Voters",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "How, Susan",
+                "address": "135 Dice Place Walla Walla, WA  9362",
+                "phone": "(406) 257-1284",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

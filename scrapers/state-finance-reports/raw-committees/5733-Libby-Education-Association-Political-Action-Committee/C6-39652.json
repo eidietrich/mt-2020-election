@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 39652,
+        "fromDateStr": "10/30/2016",
+        "toDateStr": "12/17/2017",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 5733,
+        "candidateName": "Libby Education Association Political Action Committee",
+        "statusDescr": "Pending-Amended",
+        "amendedDate": 1591335845000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/30/2016",
+        "end_date": "12/17/2017",
+        "receipts": 146.0,
+        "expenditures": 120.0,
+        "cash_in_bank": 837.56
+    },
+    "contributions": [
+        {
+            "Date Paid": "10/27/17",
+            "Entity Name": "Libby Education Association",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": ", MT 59923",
+            "City": "",
+            "State": "",
+            "Zip": "",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -146.0,
+            "Amount Type": "CA",
+            "Purpose": "small amount contribution by individuals through Libby Education Association",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 296.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "12/17/17",
+            "Entity Name": "First Montana Bank",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "504 Mineral Avenue",
+            "City": "Libby",
+            "State": "MT",
+            "Zip": "59923",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 120.0,
+            "Purpose": "BANK FEES ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

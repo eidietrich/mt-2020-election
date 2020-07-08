@@ -1,0 +1,43 @@
+{
+    "slug": "2889-Planned-Parenthood-of-Illinois",
+    "committeeName": "Planned Parenthood of Illinois",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2889,
+        "committeeName": "Planned Parenthood of Illinois",
+        "committeeAddress": "18 S. Michigan Ave. 9th Floor, Chicago, IL 60603",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1357855398000,
+        "entityFullName": "Planned Parenthood of Illinois",
+        "entityCity": "Chicago",
+        "entityState": "IL"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Fiore, Anthony",
+                "address": "18 S. Michigan Ave. 6th Floor Chicago, IL  60603",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-120",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

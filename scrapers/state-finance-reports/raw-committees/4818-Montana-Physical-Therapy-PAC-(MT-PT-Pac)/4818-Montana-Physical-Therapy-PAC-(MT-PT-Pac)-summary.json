@@ -1,0 +1,53 @@
+{
+    "slug": "4818-Montana-Physical-Therapy-PAC-(MT-PT-Pac)",
+    "committeeName": "Montana Physical Therapy PAC (MT PT Pac)",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 4818,
+        "committeeName": "Montana Physical Therapy PAC (MT PT Pac)",
+        "committeeAddress": "PO Box 8575, Missoula, MT 59807",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1482303600000,
+        "entityFullName": "Montana Physical Therapy PAC (MT PT Pac)",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McLean, Jim",
+                "address": "PO Box 514 Seeley Lake, MT  59868",
+                "phone": "(406) 544-1350",
+                "email": "JimMcLean1207@icloud.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Oss, Gail",
+                "address": "PO Box 8575 Missoula, MT  59807",
+                "phone": "(406) 544-7416",
+                "email": "mapta@mapta.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Montana Democratic Party MDLCC",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Gordon Pierson for HD 78",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Montana Republican Legislative Campaign Committee",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "slug": "1680-Montana-Petroleum-Marketers-Association",
+    "committeeName": "Montana Petroleum Marketers Association",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 1680,
+        "committeeName": "Montana Petroleum Marketers Association",
+        "committeeAddress": "PO Box 306, Helena, MT 59624",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1588140000000,
+        "entityFullName": "Montana Petroleum Marketers Association",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Longcake, Brade",
+                "address": "P.O. Box 306 Helena, MT  59624",
+                "phone": "(406) 438-1276",
+                "email": "longcakeconsulting@gmail.com "
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

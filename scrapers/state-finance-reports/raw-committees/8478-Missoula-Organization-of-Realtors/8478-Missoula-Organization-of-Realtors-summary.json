@@ -1,0 +1,43 @@
+{
+    "slug": "8478-Missoula-Organization-of-Realtors",
+    "committeeName": "Missoula Organization of Realtors",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 8478,
+        "committeeName": "Missoula Organization of Realtors",
+        "committeeAddress": "724 Burlington Ave, Missoula, MT 59801",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1591336800000,
+        "entityFullName": "Missoula Organization of Realtors",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kim , Kaufman",
+                "address": "724 Burlington Ave Missoula, MT  59801",
+                "phone": "(406) 531-0958",
+                "email": "kim.kaufman@engelvoelkers.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Easton, Dwight",
+                "address": "724 Burlington Ave Missoula, MT  59801",
+                "phone": "(406) 240-5010",
+                "email": "deaston@missoularealestate.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Economic Development",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

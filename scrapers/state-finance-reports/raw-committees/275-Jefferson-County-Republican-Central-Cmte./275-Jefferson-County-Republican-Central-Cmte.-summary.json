@@ -1,0 +1,37 @@
+{
+    "slug": "275-Jefferson-County-Republican-Central-Cmte.",
+    "committeeName": "Jefferson County Republican Central Cmte.",
+    "scrape_date": "2020-07-02",
+    "periods": 16,
+    "data": {
+        "committeeId": 275,
+        "committeeName": "Jefferson County Republican Central Cmte.",
+        "committeeAddress": "21 Crazy Mountain Rd, Montana City, MT 59634",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1579503600000,
+        "entityFullName": "Jefferson County Republican Central Cmte.",
+        "entityCity": "Montana City",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bryson, Mary",
+                "address": "21 Crazy Mountain Rd Montana City, MT  59634",
+                "phone": "(406) 443-2190",
+                "email": "mbryson327@yahoo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

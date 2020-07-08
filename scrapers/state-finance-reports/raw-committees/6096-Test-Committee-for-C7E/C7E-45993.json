@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 45993,
+        "fromDateStr": "10/23/2019",
+        "toDateStr": "10/24/2019",
+        "formTypeCode": "C7E",
+        "formTypeDescr": "Notice of Pre-Election Expenditures",
+        "committeeId": 6096,
+        "candidateName": "Test Committee for C7E",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/23/2019",
+        "end_date": "10/24/2019",
+        "receipts": 0.0,
+        "expenditures": 250.0,
+        "cash_in_bank": 750.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/23/19",
+            "Entity Name": "Pizza Hut",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1604 Grand Ave",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59102",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 250.0,
+            "Purpose": "Pizza Pizza",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

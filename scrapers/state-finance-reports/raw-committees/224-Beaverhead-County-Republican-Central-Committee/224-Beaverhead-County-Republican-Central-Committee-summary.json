@@ -1,0 +1,68 @@
+{
+    "slug": "224-Beaverhead-County-Republican-Central-Committee",
+    "committeeName": "Beaverhead County Republican Central Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 21,
+    "data": {
+        "committeeId": 224,
+        "committeeName": "Beaverhead County Republican Central Committee",
+        "committeeAddress": "PO Box 846, Dillon, MT 59725",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1558418400000,
+        "entityFullName": "Beaverhead County Republican Central Committee",
+        "entityCity": "Dillon",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Maness, Shannon F",
+                "address": "424 S Pacific St Dillon, MT  59725",
+                "phone": "(406) 925-3632",
+                "email": "shannonfmaness@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Greg Gianforte for Congress",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Matt Rosendale for U.S. Senate",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To support & encourage Republican ideals & principles in Beaverhead County.",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Stacey Reynolds",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Tom Welch for House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "John Jackson",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

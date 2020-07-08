@@ -1,0 +1,43 @@
+{
+    "slug": "2177-Montanans-for-Quality-Home-Care",
+    "committeeName": "Montanans for Quality Home Care",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2177,
+        "committeeName": "Montanans for Quality Home Care",
+        "committeeAddress": "1501 North Avenue West, Missoula, MT 59801",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2008",
+        "amendedDate": 1212423921000,
+        "entityFullName": "Montanans for Quality Home Care",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Holzer, Daryl",
+                "address": "1501 North Avenue West Missoula, MT  59801",
+                "phone": "",
+                "email": "darlh@homehealthnursing.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-159",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

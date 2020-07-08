@@ -1,0 +1,43 @@
+{
+    "slug": "7305-Montana-Resources-LLP",
+    "committeeName": "Montana Resources, LLP",
+    "scrape_date": "2020-07-02",
+    "periods": 11,
+    "data": {
+        "committeeId": 7305,
+        "committeeName": "Montana Resources, LLP",
+        "committeeAddress": "600 Shields Avenue, Butte, MT 59701",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1552028400000,
+        "entityFullName": "Montana Resources, LLP",
+        "entityCity": "Butte",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Thompson, Mark",
+                "address": "600 Shields Avenue Butte, MT  59759",
+                "phone": "(406) 496-3211",
+                "email": "mthompson@montanaresources.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Initiative 186",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

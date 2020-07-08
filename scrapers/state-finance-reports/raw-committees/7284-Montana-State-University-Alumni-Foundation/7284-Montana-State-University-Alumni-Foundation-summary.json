@@ -1,0 +1,43 @@
+{
+    "slug": "7284-Montana-State-University-Alumni-Foundation",
+    "committeeName": "Montana State University Alumni Foundation ",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7284,
+        "committeeName": "Montana State University Alumni Foundation ",
+        "committeeAddress": "PO Box 172750, Bozeman, MT 59717",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1530597600000,
+        "entityFullName": "Montana State University Alumni Foundation ",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kinnear, Melissa",
+                "address": "P.O. Box 172750 Bozeman, MT  59717",
+                "phone": "(406) 994-7755",
+                "email": "melissa.kinnear@msuaf.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-128 SB85",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

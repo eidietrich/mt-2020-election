@@ -1,0 +1,37 @@
+{
+    "slug": "1798-Citizens-for-Honest-Ballots",
+    "committeeName": "Citizens for Honest Ballots",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 1798,
+        "committeeName": "Citizens for Honest Ballots",
+        "committeeAddress": "PO Box 293, Billings, MT 59103",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2006",
+        "amendedDate": 1141670123000,
+        "entityFullName": "Citizens for Honest Ballots",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hansen, Jerry D.",
+                "address": "PO Box 293 Billings, MT  59103",
+                "phone": "(406) 591-2330",
+                "email": "jerry@jdh-cpa.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

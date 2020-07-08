@@ -1,0 +1,43 @@
+{
+    "slug": "7388-Livingston-HealthCare-Incidental-for-I-185",
+    "committeeName": "Livingston HealthCare Incidental for I-185",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7388,
+        "committeeName": "Livingston HealthCare Incidental for I-185",
+        "committeeAddress": "320 Alpenglow Lane, Livingston , MT 59047",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1527832800000,
+        "entityFullName": "Livingston HealthCare Incidental for I-185",
+        "entityCity": "Livingston ",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Speas, Ryan",
+                "address": "320 Alpenglow Lane Livingston , MT  59047",
+                "phone": "",
+                "email": "ryan.speas@livhc.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-185",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "slug": "5929-Gun-Owners'-Political-Action-Committee-(GO-PAC)",
+    "committeeName": "Gun Owners' Political Action Committee (GO-PAC)",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 5929,
+        "committeeName": "Gun Owners' Political Action Committee (GO-PAC)",
+        "committeeAddress": "P.O. Box 4924, Missoula, MT 59806",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1479884400000,
+        "entityFullName": "Gun Owners' Political Action Committee (GO-PAC)",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Marbut, Gary",
+                "address": "P.O. 16106 Missoula, MT  59808",
+                "phone": "(406) 549-1252",
+                "email": "gary@marbut.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

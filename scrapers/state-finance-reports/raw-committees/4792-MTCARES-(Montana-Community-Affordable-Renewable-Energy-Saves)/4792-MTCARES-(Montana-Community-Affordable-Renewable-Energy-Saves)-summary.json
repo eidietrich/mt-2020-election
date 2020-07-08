@@ -1,0 +1,43 @@
+{
+    "slug": "4792-MTCARES-(Montana-Community-Affordable-Renewable-Energy-Saves)",
+    "committeeName": "MTCARES (Montana Community Affordable Renewable Energy Saves)",
+    "scrape_date": "2020-07-02",
+    "periods": 15,
+    "data": {
+        "committeeId": 4792,
+        "committeeName": "MTCARES (Montana Community Affordable Renewable Energy Saves)",
+        "committeeAddress": "2000 Outlook Dr., Billings, MT 59105",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1479711600000,
+        "entityFullName": "MTCARES (Montana Community Affordable Renewable Energy Saves)",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ellis, Pamela O",
+                "address": "2000 Outlook Dr. Billings, MT  59105",
+                "phone": "(406) 252-6399",
+                "email": "pamellis50@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-11 mitigate the effects of global warming by reducing the amount of C02 released when generating electricity.",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

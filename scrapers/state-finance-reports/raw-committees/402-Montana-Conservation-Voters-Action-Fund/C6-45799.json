@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 45799,
+        "fromDateStr": "09/11/2019",
+        "toDateStr": "09/25/2019",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 402,
+        "candidateName": "Montana Conservation Voters Action Fund",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/11/2019",
+        "end_date": "09/25/2019",
+        "receipts": 10000.0,
+        "expenditures": 80.0,
+        "cash_in_bank": 48973.44
+    },
+    "contributions": [
+        {
+            "Date Paid": "09/30/19",
+            "Entity Name": "Weinberg, Dan",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1524 West Shore Lake",
+            "City": "Whitefish",
+            "State": "MT",
+            "Zip": "59937",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "Retired",
+            "Employer": "Retired",
+            "Contribution Type": "Individual Contributions",
+            "Amount": 10000.0,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 10000.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

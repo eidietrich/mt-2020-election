@@ -1,7 +1,7 @@
 {
     "slug": "8933-Consulting-Engineers-Council-of-Montana---American-Council-of-Engineering-Companies-of-MT",
     "committeeName": "Consulting Engineers Council of Montana / American Council of Engineering Companies of MT",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 1,
     "data": {
         "committeeId": 8933,
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 1,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 5000.0,
-        "num_expenditures": 2,
-        "expenditures_19_20": 5000.0,
-        "num_expenditures_19_20": 2,
-        "cash_on_hand": -5000.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Skoog, Jay K",
+                "address": "36 S Last Chance Gulch, Helena, MT  59601",
+                "phone": "(406) 457-2617",
+                "email": "jskoog@rmsmanagement.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Contribution to For Our Roads - Missoula gas tax",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
     }
 }

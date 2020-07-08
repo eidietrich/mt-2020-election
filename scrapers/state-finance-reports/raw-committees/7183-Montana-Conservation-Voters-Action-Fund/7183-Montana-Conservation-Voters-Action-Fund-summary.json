@@ -1,0 +1,58 @@
+{
+    "slug": "7183-Montana-Conservation-Voters-Action-Fund",
+    "committeeName": "Montana Conservation Voters Action Fund",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 7183,
+        "committeeName": "Montana Conservation Voters Action Fund",
+        "committeeAddress": "PO Box 63, Billings, MT 59103",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1569823200000,
+        "entityFullName": "Montana Conservation Voters Action Fund",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ericcson, Sally",
+                "address": "PO Box 63 Billings, MT  59103",
+                "phone": "(406) 254-1593",
+                "email": "accountant@mtvoters.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Murphy, Aaron",
+                "address": "PO Box 63 Billings, MT  59103",
+                "phone": "(406) 251-1593",
+                "email": "accountant@mtvoters.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Egan Slough Initiative ",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "I-186",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "LR-129",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Gallatin County Open Lands Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "6857-Nico-Electronic-SYstems-Inc.",
+    "committeeName": "Nico Electronic SYstems Inc.",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6857,
+        "committeeName": "Nico Electronic SYstems Inc.",
+        "committeeAddress": "1331 Euclid Ave., Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2017",
+        "amendedDate": 1512457200000,
+        "entityFullName": "Nico Electronic SYstems Inc.",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Nichoff, Bill",
+                "address": "PO Box 2047 Helena, MT  59604",
+                "phone": "(406) 442-7857",
+                "email": "bill@nicoelectronics.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "YES for Helena's Future",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

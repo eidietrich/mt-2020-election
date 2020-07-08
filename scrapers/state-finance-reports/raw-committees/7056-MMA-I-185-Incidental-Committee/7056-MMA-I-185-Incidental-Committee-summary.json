@@ -1,0 +1,43 @@
+{
+    "slug": "7056-MMA-I-185-Incidental-Committee",
+    "committeeName": "MMA I-185 Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 7056,
+        "committeeName": "MMA I-185 Incidental Committee",
+        "committeeAddress": "2021 11th Ave. #1, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1543906800000,
+        "entityFullName": "MMA I-185 Incidental Committee",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Branscum, Jean",
+                "address": "2021 Eleventh Ave. #1 Helena, MT  59601",
+                "phone": "",
+                "email": "jean@mmaoffice.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-185",
+                "position": "Other",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

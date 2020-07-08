@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 44192,
+        "fromDateStr": "10/01/2018",
+        "toDateStr": "10/24/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7507,
+        "candidateName": "Literacy Bitterroot",
+        "statusDescr": "Amended",
+        "amendedDate": 1544558685000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/01/2018",
+        "end_date": "10/24/2018",
+        "receipts": 0.0,
+        "expenditures": 0.0,
+        "cash_in_bank": -3000.0
+    },
+    "contributions": [
+        {
+            "Date Paid": "10/23/18",
+            "Entity Name": "Literacy Bitterroot",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "303 N Third ST, Ste A",
+            "City": "Hamilton",
+            "State": "MT",
+            "Zip": "59840",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Incidental Committee Contributions",
+            "Amount": 46.0,
+            "Amount Type": "IK",
+            "Purpose": "2 hours staff time for interview with newspaper reporter ",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 612.55,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

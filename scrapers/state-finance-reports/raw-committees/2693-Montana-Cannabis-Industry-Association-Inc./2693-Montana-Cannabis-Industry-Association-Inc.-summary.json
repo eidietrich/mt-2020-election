@@ -1,0 +1,43 @@
+{
+    "slug": "2693-Montana-Cannabis-Industry-Association-Inc.",
+    "committeeName": "Montana Cannabis Industry Association, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 6,
+    "data": {
+        "committeeId": 2693,
+        "committeeName": "Montana Cannabis Industry Association, Inc.",
+        "committeeAddress": "PO Box 9085, Missoula, MT 59807",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1313594990000,
+        "entityFullName": "Montana Cannabis Industry Association, Inc.",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bell, Erin",
+                "address": "105 Secretariat Belgrade, MT  59714",
+                "phone": "(406) 579-8023",
+                "email": "erin@mtcia.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "IR125",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

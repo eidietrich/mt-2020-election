@@ -1,0 +1,43 @@
+{
+    "slug": "7916-SCL-Health-Montana-Incidental-Committee",
+    "committeeName": "SCL Health Montana Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7916,
+        "committeeName": "SCL Health Montana Incidental Committee",
+        "committeeAddress": "1233 North 30th Street, Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2017",
+        "amendedDate": 1543906800000,
+        "entityFullName": "SCL Health Montana Incidental Committee",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Laslovich, Jesse",
+                "address": "4910 Smallwood Ct Helena, MT  59601",
+                "phone": "",
+                "email": "jesse.laslovich@sclhealth.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "6 mill levy campaign - Montanans for Higher Education",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 43294,
+        "fromDateStr": "10/04/2018",
+        "toDateStr": "10/05/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 398,
+        "candidateName": "MONCAR Montana Automobile Dealers PAC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/04/2018",
+        "end_date": "10/05/2018",
+        "receipts": 0.0,
+        "expenditures": 1000.0,
+        "cash_in_bank": 842.44
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/04/18",
+            "Entity Name": "Montana Republican Legislative Campaign Committee",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 6656",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59604",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 1000.0,
+            "Purpose": "CONTRIBUTION FOR THE GENERAL ELECTION",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

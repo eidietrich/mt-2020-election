@@ -1,0 +1,37 @@
+{
+    "slug": "1818-Advocates-for-Elders",
+    "committeeName": "Advocates for Elders",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 1818,
+        "committeeName": "Advocates for Elders",
+        "committeeAddress": "PO Box 2131, Missoula, MT 59806",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2006",
+        "amendedDate": 1144263716000,
+        "entityFullName": "Advocates for Elders",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bauer, Max Jr.",
+                "address": "PO Box 2131 Missoula, MT  59806",
+                "phone": "(406) 273-6152",
+                "email": "max.bauer@bfi.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Lester, Debbie",
+                "address": "",
+                "phone": "(406) 543-5453",
+                "email": "dlester@missoulaagingservices.org"
+            }
+        ],
+        "issues": []
+    }
+}

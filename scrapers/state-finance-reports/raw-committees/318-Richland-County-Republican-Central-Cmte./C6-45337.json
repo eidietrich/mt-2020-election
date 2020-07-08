@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 45337,
+        "fromDateStr": "02/23/2019",
+        "toDateStr": "03/07/2019",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 318,
+        "candidateName": "Richland County Republican Central Cmte.",
+        "statusDescr": "Amended",
+        "amendedDate": 1590952811000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "02/23/2019",
+        "end_date": "03/07/2019",
+        "receipts": 0.0,
+        "expenditures": 372.4,
+        "cash_in_bank": 8683.45
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "03/07/19",
+            "Entity Name": "Roundup",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Box 1207 314 S Central Ave",
+            "City": "Sidney",
+            "State": "MT",
+            "Zip": "59270",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 193.0,
+            "Purpose": "L/R dinner invitation ads ran 2/13/19",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "03/07/19",
+            "Entity Name": "Sidney Herald",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "310 2nd Ave. NE",
+            "City": "Sidney",
+            "State": "MT",
+            "Zip": "59230",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 179.4,
+            "Purpose": "L/R dinner invitation ads ran 2/10/19 & 2/13/19",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

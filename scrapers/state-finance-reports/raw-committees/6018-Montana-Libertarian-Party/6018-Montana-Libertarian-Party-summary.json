@@ -1,0 +1,37 @@
+{
+    "slug": "6018-Montana-Libertarian-Party",
+    "committeeName": "Montana Libertarian Party",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 6018,
+        "committeeName": "Montana Libertarian Party",
+        "committeeAddress": "PO Box 414, Lewistown, MT 59457",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "Y",
+        "electionYear": "2000",
+        "amendedDate": 1585548000000,
+        "entityFullName": "Montana Libertarian Party",
+        "entityCity": "Lewistown",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wendt, Francis",
+                "address": "15 Chinook Trail Bozeman, MT  59718",
+                "phone": "(406) 595-5111",
+                "email": "Treasurger@MTLP.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 33970,
+        "fromDateStr": "11/20/2014",
+        "toDateStr": "12/31/2015",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 316,
+        "candidateName": "Ravalli County Republican Women",
+        "statusDescr": "Pending-Amended",
+        "amendedDate": 1593461226000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/20/2014",
+        "end_date": "12/31/2015",
+        "receipts": 3175.98,
+        "expenditures": 0.0,
+        "cash_in_bank": 5145.87
+    },
+    "contributions": [
+        {
+            "Date Paid": "12/30/15",
+            "Entity Name": "Ravalli County Republican Women",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 892",
+            "City": "Corvallis",
+            "State": "MT",
+            "Zip": "59828",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Political Party Committee Contributions",
+            "Amount": 3175.98,
+            "Amount Type": "CA",
+            "Purpose": "Bring Balance Forward for CERS as the correct amount",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 3175.98,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

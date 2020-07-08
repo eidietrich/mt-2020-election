@@ -1,0 +1,43 @@
+{
+    "slug": "2220-Consumer-Direct-Personal-Care-LLC",
+    "committeeName": "Consumer Direct Personal Care LLC",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 2220,
+        "committeeName": "Consumer Direct Personal Care LLC",
+        "committeeAddress": "1501 North Avenue West, Missoula, MT 59801",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1215639700000,
+        "entityFullName": "Consumer Direct Personal Care LLC",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Holzer, Daryl",
+                "address": "1501 North Avenue West Missoula, MT  59801",
+                "phone": "",
+                "email": "darlh@homehealthnursing.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-159",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "slug": "2424-Billings-Clinic",
+    "committeeName": "Billings Clinic",
+    "scrape_date": "2020-07-01",
+    "periods": 4,
+    "data": {
+        "committeeId": 2424,
+        "committeeName": "Billings Clinic",
+        "committeeAddress": "PO Box 37000, Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1268424379000,
+        "entityFullName": "Billings Clinic",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wilson, Kristianne B",
+                "address": "PO Box 37000 Billings, MT  59107-7000",
+                "phone": "",
+                "email": "kristianne@billingsclinic.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Kobold, Luke",
+                "address": "PO Box 37000 Billings, MT  59101",
+                "phone": "",
+                "email": "lkobold@billingsclinic.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School Levy",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Citizens for a Safer Community",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

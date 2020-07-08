@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 38960,
+        "fromDateStr": "01/01/2017",
+        "toDateStr": "01/31/2017",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 6307,
+        "candidateName": "Hilltop Public Solutions",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/01/2017",
+        "end_date": "01/31/2017",
+        "receipts": 0.0,
+        "expenditures": 49730.0,
+        "cash_in_bank": -49730.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "01/31/17",
+            "Entity Name": "Montanans for Research and Cures",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1912",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59103",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 49730.0,
+            "Purpose": "CONSULTING (in-Kind)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

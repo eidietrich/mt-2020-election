@@ -1,0 +1,93 @@
+{
+    "slug": "1084-Park-County-Republican-Central-Committee",
+    "committeeName": "Park County Republican Central Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 19,
+    "data": {
+        "committeeId": 1084,
+        "committeeName": "Park County Republican Central Committee",
+        "committeeAddress": "PO Box 185, Livingston, MT 59047",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1537077600000,
+        "entityFullName": "Park County Republican Central Committee",
+        "entityCity": "Livingston",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bennin, Angela D",
+                "address": "7 Morgan Trail Livingston, MT  59047",
+                "phone": "(406) 333-4149",
+                "email": "angelabennin@scottysoil.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-186: Requirements for Permits and Reclamation Plans of New Hard Rock Mines Initiative",
+                "position": "Oppose",
+                "status": "On ballot, approved"
+            },
+            {
+                "interest": "Alan Redfield for HD 59",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Matt Rosendale for U.S. Senate",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "LR 128",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "LR-129",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "GREG GIANFORTE FOR US HOUSE REPRESENTATIVE",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "I 185",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "I 185",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Support Republican Party and Candidates",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "John Esp for Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "DAN SKATTUM",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

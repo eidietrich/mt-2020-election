@@ -1,0 +1,43 @@
+{
+    "slug": "2707-KannaKare-Health-Services",
+    "committeeName": "KannaKare Health Services",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2707,
+        "committeeName": "KannaKare Health Services",
+        "committeeAddress": "PO Box 11828 300 N Willson Ave Suite 3005, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1317767423000,
+        "entityFullName": "KannaKare Health Services",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bell, Erin",
+                "address": "PO Box 11828 300 N Willson Ave Suite 3005 Bozeman, MT  59715",
+                "phone": "",
+                "email": "erin@kannakare.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "IR-124",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

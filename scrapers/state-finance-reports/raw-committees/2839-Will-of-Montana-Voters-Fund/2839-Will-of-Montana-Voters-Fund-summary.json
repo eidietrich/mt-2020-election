@@ -1,0 +1,43 @@
+{
+    "slug": "2839-Will-of-Montana-Voters-Fund",
+    "committeeName": "Will of Montana Voters Fund",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 2839,
+        "committeeName": "Will of Montana Voters Fund",
+        "committeeAddress": "PO Box 9085 415 N. Higgins, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1350682701000,
+        "entityFullName": "Will of Montana Voters Fund",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bell, Erin",
+                "address": "PO Box 9085 415 N. Higgins Ave Missoula, MT  59802",
+                "phone": "(406) 579-8023",
+                "email": "erin@mtcia.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "IR-124",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

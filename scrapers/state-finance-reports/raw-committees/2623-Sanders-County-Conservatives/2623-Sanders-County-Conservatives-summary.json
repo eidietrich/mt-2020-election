@@ -1,0 +1,43 @@
+{
+    "slug": "2623-Sanders-County-Conservatives",
+    "committeeName": "Sanders County Conservatives",
+    "scrape_date": "2020-07-02",
+    "periods": 11,
+    "data": {
+        "committeeId": 2623,
+        "committeeName": "Sanders County Conservatives",
+        "committeeAddress": "P O Box 10, Plains, MT 59859",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1525845600000,
+        "entityFullName": "Sanders County Conservatives",
+        "entityCity": "Plains",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bursell, Patricia A",
+                "address": "22 Snowcap Dr Plains, MT  59859",
+                "phone": "(406) 826-2273",
+                "email": "wiredmoose@blackfoot.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Recruit and support qualified, non-partisan candidates in county elections. Support partisan state and national candidates, ballot issues if worthy",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

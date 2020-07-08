@@ -1,0 +1,37 @@
+{
+    "slug": "2542-Planned-Parenthood-of-Montana-Inc.--(Billings)",
+    "committeeName": "Planned Parenthood of Montana, Inc.  (Billings)",
+    "scrape_date": "2020-07-01",
+    "periods": 6,
+    "data": {
+        "committeeId": 2542,
+        "committeeName": "Planned Parenthood of Montana, Inc.  (Billings)",
+        "committeeAddress": "2525 4th Ave. North, Suite 201, Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1281446729000,
+        "entityFullName": "Planned Parenthood of Montana, Inc.  (Billings)",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "slug": "8786-Pro-Business-Montana",
+    "committeeName": "Pro Business Montana",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 8786,
+        "committeeName": "Pro Business Montana",
+        "committeeAddress": "1303 2nd Ave. W. , Columbia Falls, MT 59912",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1589954400000,
+        "entityFullName": "Pro Business Montana",
+        "entityCity": "Columbia Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Regier, Matt",
+                "address": "1303 2nd Ave. W.  Columbia Falls, MT  59912",
+                "phone": "",
+                "email": "mattregierhd4@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

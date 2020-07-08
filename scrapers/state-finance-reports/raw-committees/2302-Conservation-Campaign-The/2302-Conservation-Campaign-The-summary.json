@@ -1,0 +1,43 @@
+{
+    "slug": "2302-Conservation-Campaign-The",
+    "committeeName": "Conservation Campaign, The",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2302,
+        "committeeName": "Conservation Campaign, The",
+        "committeeAddress": "33 Union Street, 4th Floor, Boston, MA 02108",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1223677097000,
+        "entityFullName": "Conservation Campaign, The",
+        "entityCity": "Boston",
+        "entityState": "MA"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Chiu, Peggy",
+                "address": "1410 Grant St. Suite D-210 Denver, CO  80203",
+                "phone": "",
+                "email": "peggy.chiu@tpl.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Open Space Lands, Working Lands Bond Election",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

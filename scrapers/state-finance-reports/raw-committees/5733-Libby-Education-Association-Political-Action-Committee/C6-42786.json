@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 42786,
+        "fromDateStr": "06/26/2018",
+        "toDateStr": "07/27/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 5733,
+        "candidateName": "Libby Education Association Political Action Committee",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/26/2018",
+        "end_date": "07/27/2018",
+        "receipts": 0.0,
+        "expenditures": 8.0,
+        "cash_in_bank": 781.56
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "07/06/18",
+            "Entity Name": "First Montana Bank",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "504 Mineral Avenue",
+            "City": "Libby",
+            "State": "MT",
+            "Zip": "59923",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 8.0,
+            "Purpose": "Bank fee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

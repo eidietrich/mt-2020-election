@@ -1,0 +1,43 @@
+{
+    "slug": "2489-B-&-B-Finance",
+    "committeeName": "B & B Finance",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2489,
+        "committeeName": "B & B Finance",
+        "committeeAddress": "PO Box 3106, Great Falls, MT 59403",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1275924129000,
+        "entityFullName": "B & B Finance",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Longin, Tony",
+                "address": "PO Box 3106 Great Falls, MT  59403",
+                "phone": "",
+                "email": "alongin@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Kuney, Lorna",
+                "address": "400 N California Helena, MT  59601",
+                "phone": "",
+                "email": "lorna@mt.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-164, Cap the Rate",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

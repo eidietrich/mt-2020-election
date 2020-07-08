@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 44784,
+        "fromDateStr": "10/25/2018",
+        "toDateStr": "11/23/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 360,
+        "candidateName": "Montana Beer & Wine Distributors PAC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/25/2018",
+        "end_date": "11/23/2018",
+        "receipts": 1.56,
+        "expenditures": 0.3,
+        "cash_in_bank": 11735.22
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/31/18",
+            "Entity Name": "First Interstate Bank",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "25 E Lyndale Ave",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 0.3,
+            "Purpose": "Bank service charge",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

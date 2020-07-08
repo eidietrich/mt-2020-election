@@ -1,0 +1,43 @@
+{
+    "slug": "6930-American-Federation-of-Teachers-AFL-CIO",
+    "committeeName": "American Federation of Teachers, AFL-CIO",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 6930,
+        "committeeName": "American Federation of Teachers, AFL-CIO",
+        "committeeAddress": "555 NEW JERSEY AVE NW, WASHINGTON, DC 20001",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1538632800000,
+        "entityFullName": "American Federation of Teachers, AFL-CIO",
+        "entityCity": "WASHINGTON",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Johnson, Lorretta",
+                "address": "555 NEW JERSEY AVE NW WASHINGTON, DC  20001",
+                "phone": "(202) 879-4436",
+                "email": "shamilto@aft.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "6 mill levy ballot issue",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

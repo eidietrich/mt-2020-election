@@ -1,0 +1,43 @@
+{
+    "slug": "6242-Big-Game-Forever",
+    "committeeName": "Big Game Forever",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6242,
+        "committeeName": "Big Game Forever",
+        "committeeAddress": "4331 Hidden Hollow Dr, Bountiful, UT 84010",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1478152800000,
+        "entityFullName": "Big Game Forever",
+        "entityCity": "Bountiful",
+        "entityState": "UT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Lumley, Matthew",
+                "address": "1979 Old Yellowstone Trail S Emigrant, MT  59027",
+                "phone": "(307) 705-6272",
+                "email": "matt@biggameforever.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-177",
+                "position": "Oppose",
+                "status": "On ballot, defeated"
+            }
+        ]
+    }
+}

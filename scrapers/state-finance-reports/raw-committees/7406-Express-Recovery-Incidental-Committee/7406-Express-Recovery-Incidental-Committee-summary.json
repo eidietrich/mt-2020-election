@@ -1,0 +1,43 @@
+{
+    "slug": "7406-Express-Recovery-Incidental-Committee",
+    "committeeName": "Express Recovery Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7406,
+        "committeeName": "Express Recovery Incidental Committee",
+        "committeeAddress": "2790 S Decker Lake Dr, West Valley City, UT 84119",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1528783200000,
+        "entityFullName": "Express Recovery Incidental Committee",
+        "entityCity": "West Valley City",
+        "entityState": "UT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Camp, Michelle R",
+                "address": "2790 S Decker Lake Dr Salt Lake City, UT  84119",
+                "phone": "(801) 412-3939",
+                "email": "michellec@expressrecovery.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "contribution to MHA PAC",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

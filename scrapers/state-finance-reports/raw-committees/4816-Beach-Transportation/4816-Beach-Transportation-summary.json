@@ -1,0 +1,43 @@
+{
+    "slug": "4816-Beach-Transportation",
+    "committeeName": "Beach Transportation",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 4816,
+        "committeeName": "Beach Transportation",
+        "committeeAddress": "825 Mount Ave., Missoula, MT 59801",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2015",
+        "amendedDate": 1463637600000,
+        "entityFullName": "Beach Transportation",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Beach, Greg",
+                "address": "825 Mount Ave. Missoula, MT  59801",
+                "phone": "(406) 549-6121",
+                "email": "gbeach@beachtrans.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Invest In Missoula Schools",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

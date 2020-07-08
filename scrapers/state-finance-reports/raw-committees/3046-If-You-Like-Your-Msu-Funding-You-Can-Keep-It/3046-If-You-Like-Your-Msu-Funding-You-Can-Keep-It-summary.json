@@ -1,0 +1,43 @@
+{
+    "slug": "3046-If-You-Like-Your-Msu-Funding-You-Can-Keep-It",
+    "committeeName": "If You Like Your Msu Funding You Can Keep It",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3046,
+        "committeeName": "If You Like Your Msu Funding You Can Keep It",
+        "committeeAddress": "2504 W Main St Suite I-102, Bozeman, MT 59718",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1397714400000,
+        "entityFullName": "If You Like Your Msu Funding You Can Keep It",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hollenback, Kathy",
+                "address": "2504 W Main St Suite  Bozeman, MT  59718",
+                "phone": "",
+                "email": "kathyformontana@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-170",
+                "position": "Oppose",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

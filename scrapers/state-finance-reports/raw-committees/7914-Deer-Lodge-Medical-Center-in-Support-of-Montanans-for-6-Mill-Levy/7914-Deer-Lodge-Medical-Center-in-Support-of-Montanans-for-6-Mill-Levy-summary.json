@@ -1,0 +1,43 @@
+{
+    "slug": "7914-Deer-Lodge-Medical-Center-in-Support-of-Montanans-for-6-Mill-Levy",
+    "committeeName": "Deer Lodge Medical Center in Support of Montanans for 6 Mill Levy",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7914,
+        "committeeName": "Deer Lodge Medical Center in Support of Montanans for 6 Mill Levy",
+        "committeeAddress": "1100 HOLLENBECK LN, DEER LODGE, MT 59722",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1543820400000,
+        "entityFullName": "Deer Lodge Medical Center in Support of Montanans for 6 Mill Levy",
+        "entityCity": "DEER LODGE",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Pfaff, Tony",
+                "address": "791 Eastside Road DEER LODGE, MT  59722",
+                "phone": "",
+                "email": "tpfaff@dlmed.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "6 Mill Levy",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

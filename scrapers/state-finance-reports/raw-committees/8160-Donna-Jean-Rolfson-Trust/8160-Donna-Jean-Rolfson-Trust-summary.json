@@ -1,0 +1,37 @@
+{
+    "slug": "8160-Donna-Jean-Rolfson-Trust",
+    "committeeName": "Donna Jean Rolfson Trust",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 8160,
+        "committeeName": "Donna Jean Rolfson Trust",
+        "committeeAddress": "312 1st St  E, Polson, MT 59860",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2019",
+        "amendedDate": 1576825200000,
+        "entityFullName": "Donna Jean Rolfson Trust",
+        "entityCity": "Polson",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Mercer, John A",
+                "address": "312 1st St E Polson, MT  59860",
+                "phone": "(406) 883-5367",
+                "email": "johnamercer@centurytel.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

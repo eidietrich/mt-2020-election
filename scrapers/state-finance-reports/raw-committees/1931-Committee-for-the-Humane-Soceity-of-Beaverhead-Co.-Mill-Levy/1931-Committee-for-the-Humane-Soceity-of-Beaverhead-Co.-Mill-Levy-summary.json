@@ -1,0 +1,37 @@
+{
+    "slug": "1931-Committee-for-the-Humane-Soceity-of-Beaverhead-Co.-Mill-Levy",
+    "committeeName": "Committee for the Humane Soceity of Beaverhead Co. Mill Levy",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 1931,
+        "committeeName": "Committee for the Humane Soceity of Beaverhead Co. Mill Levy",
+        "committeeAddress": "80 Lagoon Lane, Dillong, MT 59725",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1159894583000,
+        "entityFullName": "Committee for the Humane Soceity of Beaverhead Co. Mill Levy",
+        "entityCity": "Dillong",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Neal, Joni R.",
+                "address": "137 N Pacific Dillon, MT  59725",
+                "phone": "(406) 925-1512",
+                "email": "bvhdpets@bmt.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

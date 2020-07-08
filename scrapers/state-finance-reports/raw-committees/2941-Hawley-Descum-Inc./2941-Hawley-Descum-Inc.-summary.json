@@ -1,0 +1,43 @@
+{
+    "slug": "2941-Hawley-Descum-Inc.",
+    "committeeName": "Hawley-Descum, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2941,
+        "committeeName": "Hawley-Descum, Inc.",
+        "committeeAddress": "320 S. Illinois St., Conrad, MT 59425",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1370980333000,
+        "entityFullName": "Hawley-Descum, Inc.",
+        "entityCity": "Conrad",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "MILLER, LOIS A",
+                "address": "320 SOUTH ILLINOIS STREET CONRAD, MT  59425-1907",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Cont to MT Base",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

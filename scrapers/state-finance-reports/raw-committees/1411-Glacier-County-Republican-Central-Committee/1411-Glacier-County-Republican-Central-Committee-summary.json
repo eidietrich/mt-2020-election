@@ -1,0 +1,37 @@
+{
+    "slug": "1411-Glacier-County-Republican-Central-Committee",
+    "committeeName": "Glacier County Republican Central Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 19,
+    "data": {
+        "committeeId": 1411,
+        "committeeName": "Glacier County Republican Central Committee",
+        "committeeAddress": "Po Box 848, Cut Bank, MT 59427",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1588831200000,
+        "entityFullName": "Glacier County Republican Central Committee",
+        "entityCity": "Cut Bank",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Johnson, Liane",
+                "address": "PO Box 848 Cut Bank, MT  59427",
+                "phone": "(406) 336-2700",
+                "email": "lsjohnson1958@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

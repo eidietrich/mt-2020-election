@@ -1,0 +1,37 @@
+{
+    "slug": "7427-NARAL-Montana-Choice-Action-Team",
+    "committeeName": "NARAL Montana Choice Action Team ",
+    "scrape_date": "2020-07-02",
+    "periods": 11,
+    "data": {
+        "committeeId": 7427,
+        "committeeName": "NARAL Montana Choice Action Team ",
+        "committeeAddress": "P.O. Box 279, Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "Y",
+        "electionYear": "2000",
+        "amendedDate": 1592978400000,
+        "entityFullName": "NARAL Montana Choice Action Team ",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "James, Alison C",
+                "address": "1532 Madison Avenue  Helena, MT  59601",
+                "phone": "(406) 868-3602",
+                "email": "alisoncaryl@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

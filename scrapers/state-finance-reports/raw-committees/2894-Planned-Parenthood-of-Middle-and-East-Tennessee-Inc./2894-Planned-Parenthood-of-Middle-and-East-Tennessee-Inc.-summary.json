@@ -1,0 +1,43 @@
+{
+    "slug": "2894-Planned-Parenthood-of-Middle-and-East-Tennessee-Inc.",
+    "committeeName": "Planned Parenthood of Middle and East Tennessee, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2894,
+        "committeeName": "Planned Parenthood of Middle and East Tennessee, Inc.",
+        "committeeAddress": "50 Vantage Way, Suite 102, Nashville, TN 37228",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1359149408000,
+        "entityFullName": "Planned Parenthood of Middle and East Tennessee, Inc.",
+        "entityCity": "Nashville",
+        "entityState": "TN"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Anderson, Ann",
+                "address": "50 Vantage Way Suite 102 Nashville, TN  37228",
+                "phone": "",
+                "email": "anna@ppmet.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR 120",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

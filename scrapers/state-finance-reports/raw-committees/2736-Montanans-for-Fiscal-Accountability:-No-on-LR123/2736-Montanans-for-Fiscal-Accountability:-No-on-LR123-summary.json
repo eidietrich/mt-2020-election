@@ -1,0 +1,35 @@
+{
+    "slug": "2736-Montanans-for-Fiscal-Accountability:-No-on-LR123",
+    "committeeName": "Montanans for Fiscal Accountability: No on LR123",
+    "scrape_date": "2020-07-01",
+    "periods": 10,
+    "data": {
+        "committeeId": 2736,
+        "committeeName": "Montanans for Fiscal Accountability: No on LR123"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Jasmin, Edwin",
+                "address": "417 Fountain Ct. Helena, MT  59601",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Burke, Erik",
+                "address": "6330 Blackfoot Drive Helena, MT  59602-6515",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-123",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

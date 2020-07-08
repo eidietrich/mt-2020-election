@@ -1,0 +1,78 @@
+{
+    "slug": "5660-Sheridan-County-Democratic-Central-Committee",
+    "committeeName": "Sheridan County Democratic Central Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5660,
+        "committeeName": "Sheridan County Democratic Central Committee",
+        "committeeAddress": "22 Silver Fox, Outlook, MT 59252",
+        "committeeTypeDescr": "Disbanded Montana Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1470636000000,
+        "entityFullName": "Sheridan County Democratic Central Committee",
+        "entityCity": "Outlook",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Holte, Katherine",
+                "address": "22 Silver Fox Outlook, MT  59252",
+                "phone": "",
+                "email": "kholte@nemont.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Nelson, Linda",
+                "address": "469 Griffin Medicine Lake, MT  59247",
+                "phone": "",
+                "email": "nelsonl@nemont.net"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Promote Democratic values and Issues. Work with Candidates and the local Democratic Central Cmte to help elect Democratic Candidates.",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Monica Lindeen Secretary Of State",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Gretchen Ulrickson for Sheridan County Sheriff",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Denise Juneau for U.S. House of Representatives",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jesse Laslovich \u2013 Auditor race",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steve Bullock - Governor",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Melissa Romano State Superintendent",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Evelyn Carlisle for House District #34",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

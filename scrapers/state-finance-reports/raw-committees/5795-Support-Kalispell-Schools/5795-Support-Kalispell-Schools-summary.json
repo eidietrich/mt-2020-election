@@ -1,0 +1,37 @@
+{
+    "slug": "5795-Support-Kalispell-Schools",
+    "committeeName": "Support Kalispell Schools",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5795,
+        "committeeName": "Support Kalispell Schools",
+        "committeeAddress": "32 Hillcrest Drive, Kalispell, MT 59901",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1472796000000,
+        "entityFullName": "Support Kalispell Schools",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ainsworth, Liann C",
+                "address": "32 Hillcrest Drive Kalispell, MT  59901",
+                "phone": "(406) 212-5715",
+                "email": "Supportkalispellschools@aol.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

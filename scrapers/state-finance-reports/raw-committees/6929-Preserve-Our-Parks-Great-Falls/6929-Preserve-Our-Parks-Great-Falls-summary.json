@@ -1,0 +1,43 @@
+{
+    "slug": "6929-Preserve-Our-Parks-Great-Falls",
+    "committeeName": "Preserve Our Parks Great Falls",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 6929,
+        "committeeName": "Preserve Our Parks Great Falls",
+        "committeeAddress": "2801 4th Ave N, Great Falls, MT 59401",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1527055200000,
+        "entityFullName": "Preserve Our Parks Great Falls",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Erwin, Steven J",
+                "address": "349 Fox Drive Unit 7 Great Falls, MT  59404",
+                "phone": "(406) 727-2920",
+                "email": "2steveerwin@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "City of Great Falls Resolution 10223 - Creation of Park District Number 1",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

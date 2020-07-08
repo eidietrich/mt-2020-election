@@ -1,0 +1,43 @@
+{
+    "slug": "6849-Last-Chance-Co-Op-McDonald's",
+    "committeeName": "Last Chance Co-Op McDonald's",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6849,
+        "committeeName": "Last Chance Co-Op McDonald's",
+        "committeeAddress": "PO Box 4939, Helena, MT 59604",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2017",
+        "amendedDate": 1512025200000,
+        "entityFullName": "Last Chance Co-Op McDonald's",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Gauthier, Terry",
+                "address": "PO Box 4939 Helena, MT  59604",
+                "phone": "(406) 461-0744",
+                "email": "mrmac570@me.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "YES for Helena's Future",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

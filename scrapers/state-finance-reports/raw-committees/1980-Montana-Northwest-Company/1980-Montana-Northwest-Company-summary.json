@@ -1,0 +1,37 @@
+{
+    "slug": "1980-Montana-Northwest-Company",
+    "committeeName": "Montana Northwest Company",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 1980,
+        "committeeName": "Montana Northwest Company",
+        "committeeAddress": "PO Box 8777, Missoula, MT 59807",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2006",
+        "amendedDate": 1162404014000,
+        "entityFullName": "Montana Northwest Company",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Jenkins, Ken E.",
+                "address": "PO Box 8777 Missoula, MT  59807-8777",
+                "phone": "",
+                "email": "ken@mtnwco.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

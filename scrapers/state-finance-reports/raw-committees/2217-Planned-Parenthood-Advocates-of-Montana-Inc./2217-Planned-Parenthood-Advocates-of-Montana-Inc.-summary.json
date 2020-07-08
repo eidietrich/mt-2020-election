@@ -1,0 +1,37 @@
+{
+    "slug": "2217-Planned-Parenthood-Advocates-of-Montana-Inc.",
+    "committeeName": "Planned Parenthood Advocates of Montana, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 2217,
+        "committeeName": "Planned Parenthood Advocates of Montana, Inc.",
+        "committeeAddress": "2525 4th Ave. Suite 201, Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1215638958000,
+        "entityFullName": "Planned Parenthood Advocates of Montana, Inc.",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Hansen, Rena",
+                "address": "305 South 4th East, Suite 200 Missoula, MT  59802",
+                "phone": "",
+                "email": "rena@bdmcpa.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

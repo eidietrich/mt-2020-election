@@ -1,0 +1,37 @@
+{
+    "slug": "2660-Longfellow-Parent-Association",
+    "committeeName": "Longfellow Parent Association",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2660,
+        "committeeName": "Longfellow Parent Association",
+        "committeeAddress": "516 S Tracy, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2011",
+        "amendedDate": 1303488250000,
+        "entityFullName": "Longfellow Parent Association",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Coppolillo, Chris",
+                "address": "516 S Tracy Bozeman, MT  59715",
+                "phone": "(406) 451-4266",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

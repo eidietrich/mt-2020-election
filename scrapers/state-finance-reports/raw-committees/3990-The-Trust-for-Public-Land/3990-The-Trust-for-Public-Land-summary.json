@@ -1,0 +1,43 @@
+{
+    "slug": "3990-The-Trust-for-Public-Land",
+    "committeeName": "The Trust for Public Land",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 3990,
+        "committeeName": "The Trust for Public Land",
+        "committeeAddress": "Emerson Cultural Center, 111 South Grand Avenue, Ste 203, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2015",
+        "amendedDate": 1429509600000,
+        "entityFullName": "The Trust for Public Land",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Weinstein, David",
+                "address": "1410 Grant Street, Ste. D210 Denver, CO  80203",
+                "phone": "(303) 819-3047",
+                "email": "david.weinstein@tpl.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support the Vote Yes for Water",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

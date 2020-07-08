@@ -1,0 +1,43 @@
+{
+    "slug": "2407-Clark-Fork-Coalition",
+    "committeeName": "Clark Fork Coalition",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2407,
+        "committeeName": "Clark Fork Coalition",
+        "committeeAddress": "PO Box 7593 140 S. 4th Street West #1, Missoula, MT 59807",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1265054598000,
+        "entityFullName": "Clark Fork Coalition",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Randall, Brianna",
+                "address": "PO Box 7593 Missoula, MT  59807-7593",
+                "phone": "",
+                "email": "brianna@clarkfork.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-162",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

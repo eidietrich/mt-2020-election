@@ -1,0 +1,43 @@
+{
+    "slug": "5183-Anti-C2-PAC",
+    "committeeName": "Anti C2 PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 3,
+    "data": {
+        "committeeId": 5183,
+        "committeeName": "Anti C2 PAC",
+        "committeeAddress": "po box 123, helena, MT 55555",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "Y",
+        "electionYear": "2000",
+        "amendedDate": 1461218400000,
+        "entityFullName": "Anti C2 PAC",
+        "entityCity": "helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Trujillo, Kym",
+                "address": "po box 45646 helena, MT  555555",
+                "phone": "",
+                "email": "ktrujillo@mt.gov"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "voter guides",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

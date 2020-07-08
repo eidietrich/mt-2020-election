@@ -1,0 +1,43 @@
+{
+    "slug": "2895-Gallatin-Valley-Human-Rights-Task-Force",
+    "committeeName": "Gallatin Valley Human Rights Task Force",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2895,
+        "committeeName": "Gallatin Valley Human Rights Task Force",
+        "committeeAddress": "PO Box 1071, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1359149874000,
+        "entityFullName": "Gallatin Valley Human Rights Task Force",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Letiecq, Bethany L",
+                "address": "1936 Little Cottage Lane PO Box 1071 Bozeman, MT  59715",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR 121",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

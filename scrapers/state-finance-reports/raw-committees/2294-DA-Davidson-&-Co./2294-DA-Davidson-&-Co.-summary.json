@@ -1,0 +1,43 @@
+{
+    "slug": "2294-DA-Davidson-&-Co.",
+    "committeeName": "DA Davidson & Co.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2294,
+        "committeeName": "DA Davidson & Co.",
+        "committeeAddress": "PO Box 5015, Great Falls, MT 59403",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1223404301000,
+        "entityFullName": "DA Davidson & Co.",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Davidson, Ian B.",
+                "address": "PO Box 5015 Great Falls, MT  59403",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Committee to Keep the Six Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

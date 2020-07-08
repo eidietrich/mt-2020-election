@@ -1,0 +1,43 @@
+{
+    "slug": "7063-American-Lung-Association",
+    "committeeName": "American Lung Association",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 7063,
+        "committeeName": "American Lung Association",
+        "committeeAddress": "55 W. Wacker Drive, Suite 1150, Chicago, IL 60601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1542783600000,
+        "entityFullName": "American Lung Association",
+        "entityCity": "Chicago",
+        "entityState": "IL"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Merchant, Robert",
+                "address": "3270 Gregory Drive W Billings, MT  59102",
+                "phone": "(406) 652-6420",
+                "email": "merch57@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Scott, Laura",
+                "address": "3000 Kelly Lane Springfield, IL  62711",
+                "phone": "(217) 787-5864",
+                "email": "laura.scott@lung.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-185 on 2018 ballot",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "7028-Healthy-Montana-for-I-185",
+    "committeeName": "Healthy Montana for I-185",
+    "scrape_date": "2020-07-02",
+    "periods": 10,
+    "data": {
+        "committeeId": 7028,
+        "committeeName": "Healthy Montana for I-185",
+        "committeeAddress": "P.O. Box 1614, Helena, MT 59624",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1536040800000,
+        "entityFullName": "Healthy Montana for I-185",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bailey, Dr. Steven",
+                "address": "P.O. Box 1614 Helena, MT  59624",
+                "phone": "",
+                "email": "healthymt18@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Laslovich, Chris",
+                "address": "PO Box 1614 Helena, MT  59624",
+                "phone": "",
+                "email": "claslovich185@gmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Healthy Montana/Tobacco Tax I-185",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

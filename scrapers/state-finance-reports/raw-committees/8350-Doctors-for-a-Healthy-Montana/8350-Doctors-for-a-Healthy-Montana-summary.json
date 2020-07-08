@@ -1,0 +1,83 @@
+{
+    "slug": "8350-Doctors-for-a-Healthy-Montana",
+    "committeeName": "Doctors for a Healthy Montana ",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 8350,
+        "committeeName": "Doctors for a Healthy Montana ",
+        "committeeAddress": "PO Box 9763, Kalispell, MT 59904",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1585893600000,
+        "entityFullName": "Doctors for a Healthy Montana ",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Regier, Matt",
+                "address": "PO Box 9763 Kalispelll, MT  59904",
+                "phone": "(406) 253-3293",
+                "email": "mattregierhd4@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Bukacek, Annie",
+                "address": "PO Box 9763 Kalispell, MT  59904",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Pro Life",
+                "position": "Support",
+                "status": "Not on ballot"
+            },
+            {
+                "interest": "Candidate Bruce Grubbs HD 68, Republican ",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Candidate Greg DeVries HD 75, Republican ",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Candidate Jed Hinkle for HD 67, Republican",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Eric Moore for HD 37, Republican ",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Candidate Joel Krautter HD 35, Republican ",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jennifer Carlson HD 69, Republican ",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Nancy Ballance for SD 44, Republican",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Candidate Caleb Hinkle for HD 68, Republican ",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

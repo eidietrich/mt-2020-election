@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 42316,
+        "fromDateStr": "05/25/2018",
+        "toDateStr": "06/25/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 5195,
+        "candidateName": "Montanans for Affordable Housing",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/25/2018",
+        "end_date": "06/25/2018",
+        "receipts": 1.3,
+        "expenditures": 0.0,
+        "cash_in_bank": 17009.18
+    },
+    "contributions": [],
+    "expenditures": []
+}

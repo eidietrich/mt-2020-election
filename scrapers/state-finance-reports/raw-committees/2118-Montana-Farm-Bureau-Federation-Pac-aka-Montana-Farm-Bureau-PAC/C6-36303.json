@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 36303,
+        "fromDateStr": "05/28/2016",
+        "toDateStr": "06/22/2016",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 2118,
+        "candidateName": "Montana Farm Bureau Federation Pac aka Montana Farm Bureau PAC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/28/2016",
+        "end_date": "06/22/2016",
+        "receipts": 0.0,
+        "expenditures": 0.01,
+        "cash_in_bank": 11941.42
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "06/20/16",
+            "Entity Name": "Tschida, Brad",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "10825 Mullan Rd ",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59808",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 0.01,
+            "Purpose": "Emailed Rep. Tschida the Farm Bureau report card",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 39040,
+        "fromDateStr": "01/01/2017",
+        "toDateStr": "03/16/2017",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 426,
+        "candidateName": "Wood PAC - Montana Wood Products Assn.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/01/2017",
+        "end_date": "03/16/2017",
+        "receipts": 0.0,
+        "expenditures": 1680.0,
+        "cash_in_bank": 3312.97
+    },
+    "contributions": [],
+    "expenditures": []
+}

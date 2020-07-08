@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 33454,
+        "fromDateStr": "08/31/2015",
+        "toDateStr": "08/31/2015",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 3923,
+        "candidateName": "MEA-MFT",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "08/31/2015",
+        "end_date": "08/31/2015",
+        "receipts": 0.0,
+        "expenditures": 3000.0,
+        "cash_in_bank": -3000.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "08/31/15",
+            "Entity Name": "Invest in Missoula Schools",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "115 A-Amber Court",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59803",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 3000.0,
+            "Purpose": "Missoula School Bond Issue",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

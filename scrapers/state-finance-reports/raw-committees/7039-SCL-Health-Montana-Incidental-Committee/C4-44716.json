@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 44716,
+        "fromDateStr": "10/28/2018",
+        "toDateStr": "11/20/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7039,
+        "candidateName": "SCL Health Montana Incidental Committee",
+        "statusDescr": "Amended",
+        "amendedDate": 1543948891000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/28/2018",
+        "end_date": "11/20/2018",
+        "receipts": 0.0,
+        "expenditures": 208614.25,
+        "cash_in_bank": -1202323.53
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/20/18",
+            "Entity Name": "Healthy Montana for I-185",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1614",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 8614.25,
+            "Purpose": "In-Kind staff expenses and overhead for Healthy Montana for I-185",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/29/18",
+            "Entity Name": "MHA IC-To Support I-185",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2625 Winne Ave",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 200000.0,
+            "Purpose": "contribution in support of I-185 (ads & promotion)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

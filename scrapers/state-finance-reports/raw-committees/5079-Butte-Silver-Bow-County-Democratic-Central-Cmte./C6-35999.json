@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 35999,
+        "fromDateStr": "05/19/2016",
+        "toDateStr": "06/09/2016",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 5079,
+        "candidateName": "Butte Silver Bow County Democratic Central Cmte.",
+        "statusDescr": "Amended",
+        "amendedDate": 1543083950000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/19/2016",
+        "end_date": "06/09/2016",
+        "receipts": 214.01,
+        "expenditures": 0.0,
+        "cash_in_bank": 2980.78
+    },
+    "contributions": [
+        {
+            "Date Paid": "05/20/16",
+            "Entity Name": "Butte Silver Bow County Democratic Central Cmte.",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 4744",
+            "City": "Butte",
+            "State": "MT",
+            "Zip": "59702",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Political Party Committee Contributions",
+            "Amount": 214.01,
+            "Amount Type": "CA",
+            "Purpose": "Multiple Donation to Shindig Under $35 silent auction Items",
+            "Election Type": "Primary",
+            "Total Primary": 214.01,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

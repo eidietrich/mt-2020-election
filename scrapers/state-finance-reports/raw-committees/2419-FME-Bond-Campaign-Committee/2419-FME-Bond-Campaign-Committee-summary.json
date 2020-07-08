@@ -1,0 +1,43 @@
+{
+    "slug": "2419-FME-Bond-Campaign-Committee",
+    "committeeName": "FME Bond Campaign Committee",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2419,
+        "committeeName": "FME Bond Campaign Committee",
+        "committeeAddress": "659 Montford Rd., Kalispell, MT 59901",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2010",
+        "amendedDate": 1266873726000,
+        "entityFullName": "FME Bond Campaign Committee",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Wilson, Laurel A.",
+                "address": "555 Jaquette Rd. Kalispell, MT  59901",
+                "phone": "(406) 752-3007",
+                "email": "jeffandlauri@centurytel.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Mill Levy",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

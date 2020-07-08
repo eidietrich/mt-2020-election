@@ -1,0 +1,43 @@
+{
+    "slug": "5459-Montana-Cannabis-Industry-Association-Inc.",
+    "committeeName": "Montana Cannabis Industry Association, Inc.",
+    "scrape_date": "2020-07-02",
+    "periods": 9,
+    "data": {
+        "committeeId": 5459,
+        "committeeName": "Montana Cannabis Industry Association, Inc.",
+        "committeeAddress": "PO Box 50074, Billings, MT 59105",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1480489200000,
+        "entityFullName": "Montana Cannabis Industry Association, Inc.",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Haney, James",
+                "address": "2047 Andromeda Ln Billings, MT  59105",
+                "phone": "(406) 670-0143",
+                "email": "heavenscent1313@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-182",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

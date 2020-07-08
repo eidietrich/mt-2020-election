@@ -1,0 +1,37 @@
+{
+    "slug": "6233-FTA-17B",
+    "committeeName": "FTA 17B",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6233,
+        "committeeName": "FTA 17B",
+        "committeeAddress": "2248 RIVER RD, FREEPORT, IL 61032",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1477980000000,
+        "entityFullName": "FTA 17B",
+        "entityCity": "FREEPORT",
+        "entityState": "IL"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "JOHN, WILSON",
+                "address": "2248 RIVER RD FREEPORT, IL  61032",
+                "phone": "(815) 232-8059",
+                "email": "JOHNWILSON@HUNTYR.COM"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

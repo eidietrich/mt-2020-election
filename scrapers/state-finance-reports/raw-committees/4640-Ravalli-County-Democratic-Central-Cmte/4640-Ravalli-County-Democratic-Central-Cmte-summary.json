@@ -1,0 +1,73 @@
+{
+    "slug": "4640-Ravalli-County-Democratic-Central-Cmte",
+    "committeeName": "Ravalli County Democratic Central Cmte",
+    "scrape_date": "2020-07-02",
+    "periods": 19,
+    "data": {
+        "committeeId": 4640,
+        "committeeName": "Ravalli County Democratic Central Cmte",
+        "committeeAddress": "PO Box 1205, Hamilton, MT 59840",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1569045600000,
+        "entityFullName": "Ravalli County Democratic Central Cmte",
+        "entityCity": "Hamilton",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Neal, Nancy",
+                "address": "PO Box 1205 Hamilton, MT  59840",
+                "phone": "(406) 360-5996",
+                "email": "nancyneal6@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "David Smith",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "A Jo Young",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Gail Gutsche for PSC, 2016",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Monica Lindeen for Sec of State",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Nancy Neal for HD 86",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "James Olsen",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Margaret Gorski",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

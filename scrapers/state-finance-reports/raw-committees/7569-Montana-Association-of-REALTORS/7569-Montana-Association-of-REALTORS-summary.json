@@ -1,0 +1,43 @@
+{
+    "slug": "7569-Montana-Association-of-REALTORS",
+    "committeeName": "Montana Association of REALTORS",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 7569,
+        "committeeName": "Montana Association of REALTORS",
+        "committeeAddress": "One South Montana Avenue, Suite M-1, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2018",
+        "amendedDate": 1537855200000,
+        "entityFullName": "Montana Association of REALTORS",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Sam, Sill",
+                "address": "One South Montana Ave, Suite M-1 Helena, MT  59601",
+                "phone": "(406) 441-4870",
+                "email": "sam@montanarealtors.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To generally support the activities of the Realtors for Better Government independent committee",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

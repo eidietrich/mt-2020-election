@@ -1,0 +1,43 @@
+{
+    "slug": "7550-Community-Medical-Center-Incidental-Committee",
+    "committeeName": "Community Medical Center Incidental Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 7550,
+        "committeeName": "Community Medical Center Incidental Committee",
+        "committeeAddress": "1 South Montana Avenue, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1542610800000,
+        "entityFullName": "Community Medical Center Incidental Committee",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "French, Dean",
+                "address": "2827 Fort Missoula Road Missoula, MT  59804",
+                "phone": "(403) 370-8315",
+                "email": "dfrench@communitymed.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Initiative to increase tobacco tax",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

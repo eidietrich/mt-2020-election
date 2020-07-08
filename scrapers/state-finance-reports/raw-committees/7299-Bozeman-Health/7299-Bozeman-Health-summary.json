@@ -1,0 +1,43 @@
+{
+    "slug": "7299-Bozeman-Health",
+    "committeeName": "Bozeman Health",
+    "scrape_date": "2020-07-02",
+    "periods": 11,
+    "data": {
+        "committeeId": 7299,
+        "committeeName": "Bozeman Health",
+        "committeeAddress": "915 Highland Boulevard, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1549868400000,
+        "entityFullName": "Bozeman Health",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Bentson, Darci",
+                "address": "915 Highland Boulevard Bozeman, MT  59715",
+                "phone": "",
+                "email": "dbentson@bozemanhealth.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-185",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

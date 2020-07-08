@@ -1,0 +1,43 @@
+{
+    "slug": "6316-Flathead-County-Libertarian-Party",
+    "committeeName": "Flathead County Libertarian Party",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 6316,
+        "committeeName": "Flathead County Libertarian Party",
+        "committeeAddress": "519 Central Ave, Whitefish, MT 59937",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1491199200000,
+        "entityFullName": "Flathead County Libertarian Party",
+        "entityCity": "Whitefish",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McGlenn, Mark",
+                "address": "519 Central Ave. Whitefish, MT  59937",
+                "phone": "(406) 407-3947",
+                "email": "flatheadlibertarians@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Gardner, Evan",
+                "address": "130 Marquardt Land Kalispel, MT  59901",
+                "phone": "(775) 379-3721",
+                "email": "flatheadlibertarians@gmail.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Libertarian Party issues, philosophy, and candidates for political office",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

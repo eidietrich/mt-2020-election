@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 47718,
+        "fromDateStr": "03/26/2020",
+        "toDateStr": "04/25/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 297,
+        "candidateName": "Meagher County Republican Central Cmte.",
+        "statusDescr": "Amended",
+        "amendedDate": 1593198907000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "03/26/2020",
+        "end_date": "04/25/2020",
+        "receipts": 0.0,
+        "expenditures": 0.98,
+        "cash_in_bank": 250.3
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "04/13/20",
+            "Entity Name": "Bank of the Rockies",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 709",
+            "City": "White Sulphur Springs",
+            "State": "MT",
+            "Zip": "59645",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 0.98,
+            "Purpose": "Service Fee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

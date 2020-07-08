@@ -1,0 +1,43 @@
+{
+    "slug": "2684-Livingston-Firefighters-Pac",
+    "committeeName": "Livingston Firefighters Pac",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 2684,
+        "committeeName": "Livingston Firefighters Pac",
+        "committeeAddress": "Po Box 127, Livingston, MT 59047",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1525586400000,
+        "entityFullName": "Livingston Firefighters Pac",
+        "entityCity": "Livingston",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Prahl, Torsten",
+                "address": "Po Box 127 Livingston, MT  59047",
+                "phone": "(406) 570-9769",
+                "email": "torstenprahl@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "To support Candidates and issues City, County, and State elections",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

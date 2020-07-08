@@ -1,0 +1,43 @@
+{
+    "slug": "6855-Somers-District-#-29",
+    "committeeName": "Somers District # 29",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6855,
+        "committeeName": "Somers District # 29",
+        "committeeAddress": "315 SChool Addition Rd., Somers, MT 59932",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2017",
+        "amendedDate": 1512370800000,
+        "entityFullName": "Somers District # 29",
+        "entityCity": "Somers",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "PRice, Joseph C.",
+                "address": "266 Crestview Dr. Bigfork, MT  59911",
+                "phone": "(920) 659-1688",
+                "email": "pricej57@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Information on School Bond",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

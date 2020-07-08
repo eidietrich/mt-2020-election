@@ -1,0 +1,43 @@
+{
+    "slug": "2052-Billings-Area-Elementary-Middle-School-and-High-School-Principals",
+    "committeeName": "Billings Area Elementary Middle School and High School Principals",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2052,
+        "committeeName": "Billings Area Elementary Middle School and High School Principals",
+        "committeeAddress": "415 North 30th Street, Lincoln Center, Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2007",
+        "amendedDate": 1175531353000,
+        "entityFullName": "Billings Area Elementary Middle School and High School Principals",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Lemelin, John",
+                "address": "1812 19th Street West Bilings, MT  59102",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "School District 2 Mill Levy",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    }
+}

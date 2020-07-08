@@ -1,0 +1,37 @@
+{
+    "slug": "7493-Everytown-for-Gun-Safety-Action-Fund",
+    "committeeName": "Everytown for Gun Safety Action Fund",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 7493,
+        "committeeName": "Everytown for Gun Safety Action Fund",
+        "committeeAddress": "PO Box 4184, New York, NY 10163",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1543215600000,
+        "entityFullName": "Everytown for Gun Safety Action Fund",
+        "entityCity": "New York",
+        "entityState": "NY"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Squires, Rebecca L",
+                "address": "PO Box 4184 New York, NY  10163",
+                "phone": "",
+                "email": "lobbyreg@everytown.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "1916-SEIU-775-MT-Quality-Care-Committee",
+    "committeeName": "SEIU 775 MT Quality Care Committee",
+    "scrape_date": "2020-07-02",
+    "periods": 32,
+    "data": {
+        "committeeId": 1916,
+        "committeeName": "SEIU 775 MT Quality Care Committee",
+        "committeeAddress": "302 N Last Chance Gulch, Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1524463200000,
+        "entityFullName": "SEIU 775 MT Quality Care Committee",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Helt, Jacquie",
+                "address": "PO Box 172 Helena, MT  59624",
+                "phone": "(406) 544-9682",
+                "email": "holly.elliott@seiu775.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Healthy Montana I-185",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "6096-Test-Committee-for-C7E",
+    "committeeName": "Test Committee for C7E",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 6096,
+        "committeeName": "Test Committee for C7E",
+        "committeeAddress": "Test, Test, MT 59000",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1476770400000,
+        "entityFullName": "Test Committee for C7E",
+        "entityCity": "Test",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Test, Test",
+                "address": "Test Test, MT  59000",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Testing C7Es",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

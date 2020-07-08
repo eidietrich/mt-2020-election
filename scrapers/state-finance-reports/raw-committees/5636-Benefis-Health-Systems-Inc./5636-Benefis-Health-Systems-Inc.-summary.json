@@ -1,0 +1,43 @@
+{
+    "slug": "5636-Benefis-Health-Systems-Inc.",
+    "committeeName": "Benefis Health Systems, Inc.",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5636,
+        "committeeName": "Benefis Health Systems, Inc.",
+        "committeeAddress": "C/o Administration, 1101 26th Street South, Great Falls, MT 59405",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1468821600000,
+        "entityFullName": "Benefis Health Systems, Inc.",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Beames, Amy",
+                "address": "1101 26th Street Great Falls, MT  59405",
+                "phone": "(406) 455-5000",
+                "email": "amybeames@benefis.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Luther, Jessie",
+                "address": "1 South Montana Ave, Ste. 2 Helena, MT  59601",
+                "phone": "(406) 441-4871",
+                "email": "jessie@taylorluthergroup.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Ballot Issue for Improvement of Great Falls Public Schools Building",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

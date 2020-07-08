@@ -1,0 +1,43 @@
+{
+    "slug": "2828-Montanans-Against-LR-121",
+    "committeeName": "Montanans Against LR-121",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2828,
+        "committeeName": "Montanans Against LR-121",
+        "committeeAddress": "PO Box 1509 302 N. Last Chance Gulch, Helena, MT 59624",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1349892154000,
+        "entityFullName": "Montanans Against LR-121",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Abbott, Kim",
+                "address": "PO Box 1509 Helena, MT  59624",
+                "phone": "(406) 439-8721",
+                "email": "kim@mhrn.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Zupanic, Niki M",
+                "address": "PO Box 1317 7 W. 6th Ave. Helena, MT  59624",
+                "phone": "(406) 439-8721",
+                "email": "nikiz@aclumontana.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR 121",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

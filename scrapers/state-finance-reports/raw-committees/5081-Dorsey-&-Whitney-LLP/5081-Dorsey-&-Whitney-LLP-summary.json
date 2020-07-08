@@ -1,0 +1,37 @@
+{
+    "slug": "5081-Dorsey-&-Whitney-LLP",
+    "committeeName": "Dorsey & Whitney LLP",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 5081,
+        "committeeName": "Dorsey & Whitney LLP",
+        "committeeAddress": "125 Bank St Ste 600, Missoula, MT 59802",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1481612400000,
+        "entityFullName": "Dorsey & Whitney LLP",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ellis, Courtney",
+                "address": "125 Bank St Ste 600 Missoula, MT  59802",
+                "phone": "",
+                "email": "ellis.courtney@dorsey.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

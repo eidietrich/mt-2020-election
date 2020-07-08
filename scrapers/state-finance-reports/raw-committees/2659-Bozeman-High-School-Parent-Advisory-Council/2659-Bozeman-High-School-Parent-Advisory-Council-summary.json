@@ -1,0 +1,37 @@
+{
+    "slug": "2659-Bozeman-High-School-Parent-Advisory-Council",
+    "committeeName": "Bozeman High School Parent Advisory Council",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2659,
+        "committeeName": "Bozeman High School Parent Advisory Council",
+        "committeeAddress": "205 North 11th, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2011",
+        "amendedDate": 1303487063000,
+        "entityFullName": "Bozeman High School Parent Advisory Council",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kent, Angie",
+                "address": "3525 So 3rd St Bozeman, MT  59715",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

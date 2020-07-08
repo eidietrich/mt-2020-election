@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 39587,
+        "fromDateStr": "10/23/2017",
+        "toDateStr": "11/23/2017",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 6486,
+        "candidateName": "Madison County Republican Central Committee",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/23/2017",
+        "end_date": "11/23/2017",
+        "receipts": 3984.61,
+        "expenditures": 374.86,
+        "cash_in_bank": 3609.75
+    },
+    "contributions": [
+        {
+            "Date Paid": "11/21/17",
+            "Entity Name": "Madison County Republican Central Committee",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 99",
+            "City": "Alder",
+            "State": "MT",
+            "Zip": "59710",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Political Party Committee Contributions",
+            "Amount": 3984.61,
+            "Amount Type": "CA",
+            "Purpose": "in kind ballance forward",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 3984.61,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "10/08/17",
+            "Entity Name": "True Value",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "6 Sunrise Loop",
+            "City": "Ennis",
+            "State": "MT",
+            "Zip": "59229",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 374.86,
+            "Purpose": "Prize for fundraiser",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

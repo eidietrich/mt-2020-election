@@ -1,0 +1,43 @@
+{
+    "slug": "2208-NARAL-Pro-Choice-Montana-Foundation",
+    "committeeName": "NARAL Pro-Choice Montana Foundation",
+    "scrape_date": "2020-07-01",
+    "periods": 3,
+    "data": {
+        "committeeId": 2208,
+        "committeeName": "NARAL Pro-Choice Montana Foundation",
+        "committeeAddress": "PO Box 226 318 N. Last Chance Gulch Ste 2F, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2008",
+        "amendedDate": 1213890169000,
+        "entityFullName": "NARAL Pro-Choice Montana Foundation",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kocubinski, Julia",
+                "address": "330 Plymouth Missoula, MT  59801",
+                "phone": "(406) 544-2927",
+                "email": "jkocubinski@yahoo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI-100",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "6072-AAUW-of-Montana",
+    "committeeName": "AAUW of Montana",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6072,
+        "committeeName": "AAUW of Montana",
+        "committeeAddress": "PO Box 2962, Great Falls, MT 59403",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1475820000000,
+        "entityFullName": "AAUW of Montana",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Levine, Michele R",
+                "address": "PO Box 2962 Great Falls, MT  59403",
+                "phone": "(406) 360-4762",
+                "email": "michelereinhart@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Educate voters with non-partisan non-endorsing voter guide on candidates' positions on AAUW issues",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

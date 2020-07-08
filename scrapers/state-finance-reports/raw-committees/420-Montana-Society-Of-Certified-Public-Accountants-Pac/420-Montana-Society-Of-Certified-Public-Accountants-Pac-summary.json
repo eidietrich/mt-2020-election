@@ -1,0 +1,48 @@
+{
+    "slug": "420-Montana-Society-Of-Certified-Public-Accountants-Pac",
+    "committeeName": "Montana Society Of Certified Public Accountants Pac",
+    "scrape_date": "2020-07-02",
+    "periods": 8,
+    "data": {
+        "committeeId": 420,
+        "committeeName": "Montana Society Of Certified Public Accountants Pac",
+        "committeeAddress": "1534 9th Ave, Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1477375200000,
+        "entityFullName": "Montana Society Of Certified Public Accountants Pac",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Egan, Jane",
+                "address": "1534 9th Ave Helena, MT  59601",
+                "phone": "(406) 227-6986",
+                "email": "jane@mscpa.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Corey Stapleton for Secretary of State",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Elsie Arntzen for State Superintendent",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

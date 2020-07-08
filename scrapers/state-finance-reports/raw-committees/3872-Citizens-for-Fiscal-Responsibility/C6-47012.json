@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 47012,
+        "fromDateStr": "11/24/2018",
+        "toDateStr": "03/23/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 3872,
+        "candidateName": "Citizens for Fiscal Responsibility",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/24/2018",
+        "end_date": "03/23/2020",
+        "receipts": 0.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 3449.96
+    },
+    "contributions": [],
+    "expenditures": []
+}

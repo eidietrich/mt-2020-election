@@ -1,0 +1,37 @@
+{
+    "slug": "6396-Test-Committee-2017",
+    "committeeName": "Test Committee 2017",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6396,
+        "committeeName": "Test Committee 2017",
+        "committeeAddress": "1234 Testy Rd, Testa, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1505455200000,
+        "entityFullName": "Test Committee 2017",
+        "entityCity": "Testa",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Testo, Testlee T",
+                "address": "3453 Testway Dr Testburg, MT  59601",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

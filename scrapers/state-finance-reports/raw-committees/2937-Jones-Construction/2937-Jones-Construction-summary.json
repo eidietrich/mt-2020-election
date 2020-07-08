@@ -1,0 +1,43 @@
+{
+    "slug": "2937-Jones-Construction",
+    "committeeName": "Jones Construction",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2937,
+        "committeeName": "Jones Construction",
+        "committeeAddress": "123 Regal Street, Billings, MT 59101",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2013",
+        "amendedDate": 1370975766000,
+        "entityFullName": "Jones Construction",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Jones, Jerry W",
+                "address": "123 Regal Street Billings, MT  59101",
+                "phone": "(406) 252-6298",
+                "email": "kathymbrown@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Incidental\r\nYes for Kids",
+                "position": "Support",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

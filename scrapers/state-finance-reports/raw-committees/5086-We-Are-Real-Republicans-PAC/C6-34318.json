@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 34318,
+        "fromDateStr": "11/20/2014",
+        "toDateStr": "12/31/2015",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 5086,
+        "candidateName": "We Are Real Republicans PAC",
+        "statusDescr": "Amended",
+        "amendedDate": 1520278142000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/20/2014",
+        "end_date": "12/31/2015",
+        "receipts": 0.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 131.74
+    },
+    "contributions": [],
+    "expenditures": []
+}

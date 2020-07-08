@@ -1,0 +1,43 @@
+{
+    "slug": "3446-Missoula-All-Maggots-Rugby-Club-Inc.",
+    "committeeName": "Missoula All-Maggots Rugby Club, Inc.",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3446,
+        "committeeName": "Missoula All-Maggots Rugby Club, Inc.",
+        "committeeAddress": "PO Box 8704, Missoula, MT 59807",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1412229600000,
+        "entityFullName": "Missoula All-Maggots Rugby Club, Inc.",
+        "entityCity": "Missoula",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Smith, Andy",
+                "address": "PO Box 8704 Missoula, MT  59807",
+                "phone": "(406) 214-7525",
+                "email": "apsmith49@yahoo.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Citizens for Parks and Trails",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

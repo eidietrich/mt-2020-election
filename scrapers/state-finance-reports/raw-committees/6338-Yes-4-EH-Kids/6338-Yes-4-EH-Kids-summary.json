@@ -1,0 +1,48 @@
+{
+    "slug": "6338-Yes-4-EH-Kids",
+    "committeeName": "Yes 4 EH Kids",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 6338,
+        "committeeName": "Yes 4 EH Kids",
+        "committeeAddress": "4050 Ventura Way, East Helena, MT 59635",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2017",
+        "amendedDate": 1495346400000,
+        "entityFullName": "Yes 4 EH Kids",
+        "entityCity": "East Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Klock, Trisha M",
+                "address": "4050 Ventura Way East Helena, MT  59635",
+                "phone": "(406) 437-1923",
+                "email": "tklock12@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Goldsberry, Karen",
+                "address": "1205 Butte Ave    #3 Helema, MT  59601",
+                "phone": "(406) 438-2557",
+                "email": "trustthegold@gmail. com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "East Helena Elementary Bond",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Committe's purpose is to help pass the East Helena Elementary Bond and provide important information to the general public",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "slug": "6885-Great-Falls-Clinic-Hospital",
+    "committeeName": "Great Falls Clinic Hospital",
+    "scrape_date": "2020-07-02",
+    "periods": 11,
+    "data": {
+        "committeeId": 6885,
+        "committeeName": "Great Falls Clinic Hospital",
+        "committeeAddress": "3010 15 Ave. S., Great Falls, MT 59405",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1526277600000,
+        "entityFullName": "Great Falls Clinic Hospital",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Newmiller, Vicki",
+                "address": "3010 15th Ave. S. Great Falls, MT  59405",
+                "phone": "(406) 216-8030",
+                "email": "vicki.newmiller@gfclinic.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

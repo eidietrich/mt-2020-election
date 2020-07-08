@@ -1,0 +1,43 @@
+{
+    "slug": "5813-League-of-Women-Voters-Education-Fund",
+    "committeeName": "League of Women Voters Education Fund",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 5813,
+        "committeeName": "League of Women Voters Education Fund",
+        "committeeAddress": "1730 M St. NW, Ste. 1000, Washington, DC 20036",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1502690400000,
+        "entityFullName": "League of Women Voters Education Fund",
+        "entityCity": "Washington",
+        "entityState": "DC"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Saunders, Henrietta T",
+                "address": "59 Park Dr Glenview, IL  60025",
+                "phone": "(847) 814-2329",
+                "email": "hsaunders@lwv.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Other - Nonpartisan online voter guide. Registering as an incidental committee pursuant to COPP-2016-AO-005.",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

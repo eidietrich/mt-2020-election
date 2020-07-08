@@ -1,0 +1,37 @@
+{
+    "slug": "248-Fallon-County-Democratic-Club",
+    "committeeName": "Fallon County Democratic Club",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 248,
+        "committeeName": "Fallon County Democratic Club",
+        "committeeAddress": "PO Box 668, Baker, MT 59313",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1588744800000,
+        "entityFullName": "Fallon County Democratic Club",
+        "entityCity": "Baker",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Mueller, Betty",
+                "address": "PO Box 668 Baker, MT  59313",
+                "phone": "(406) 778-2098",
+                "email": "blm@midrivers.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

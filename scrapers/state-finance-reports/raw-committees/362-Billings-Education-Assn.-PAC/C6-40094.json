@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 40094,
+        "fromDateStr": "02/26/2018",
+        "toDateStr": "03/27/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 362,
+        "candidateName": "Billings Education Assn. PAC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "02/26/2018",
+        "end_date": "03/27/2018",
+        "receipts": 523.4,
+        "expenditures": 0.0,
+        "cash_in_bank": 7436.34
+    },
+    "contributions": [
+        {
+            "Date Paid": "03/08/18",
+            "Entity Name": "Payroll Deductions",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "510 North 29th St",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -523.4,
+            "Amount Type": "CA",
+            "Purpose": "216 BEA Members with monthly deductions of less than $35 year to date",
+            "Election Type": "Primary",
+            "Total Primary": 1572.7,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

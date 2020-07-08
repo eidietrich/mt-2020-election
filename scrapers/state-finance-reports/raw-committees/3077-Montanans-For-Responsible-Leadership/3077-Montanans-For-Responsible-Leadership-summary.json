@@ -1,0 +1,43 @@
+{
+    "slug": "3077-Montanans-For-Responsible-Leadership",
+    "committeeName": "Montanans For Responsible Leadership",
+    "scrape_date": "2020-07-02",
+    "periods": 23,
+    "data": {
+        "committeeId": 3077,
+        "committeeName": "Montanans For Responsible Leadership",
+        "committeeAddress": "117 Gerber Rd, Great Falls, MT 59405",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1587794400000,
+        "entityFullName": "Montanans For Responsible Leadership",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ward, John",
+                "address": "4525 Glass Dr Helena, MT  59602",
+                "phone": "",
+                "email": "john.jack.ward@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Hagan, Roger",
+                "address": "117 Gerber Rd Great Falls, MT  59405",
+                "phone": "(406) 459-0773",
+                "email": "rahagan@msn.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "The purpose of Montanans for Responsible Leadership is to support various candidates, who are committed to finding workable solutions to problems facing Montana.",
+                "position": "Support",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

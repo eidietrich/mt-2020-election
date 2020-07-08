@@ -1,0 +1,63 @@
+{
+    "slug": "407-MFPE-PAC",
+    "committeeName": "MFPE PAC",
+    "scrape_date": "2020-07-02",
+    "periods": 34,
+    "data": {
+        "committeeId": 407,
+        "committeeName": "MFPE PAC",
+        "committeeAddress": "1232 E. 6th Avenue , Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1547449200000,
+        "entityFullName": "MFPE PAC",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Burke, Erik",
+                "address": "1232 East Sixth Avenue Helena, MT  59601",
+                "phone": "",
+                "email": "eburke@mfpe.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "MDLCC",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Rex Renk for Clerk of the Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support candidates who advocate for education and public services",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Andy Shirtliff for PSC # 5",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Doug Kaercher PSC1",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

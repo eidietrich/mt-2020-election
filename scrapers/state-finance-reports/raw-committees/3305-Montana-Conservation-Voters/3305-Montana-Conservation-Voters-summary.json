@@ -1,0 +1,43 @@
+{
+    "slug": "3305-Montana-Conservation-Voters",
+    "committeeName": "Montana Conservation Voters",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 3305,
+        "committeeName": "Montana Conservation Voters",
+        "committeeAddress": "PO Box 63, Billings, MT 59103",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2014",
+        "amendedDate": 1410328800000,
+        "entityFullName": "Montana Conservation Voters",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ametshichler, Elizabeth",
+                "address": "2405 Raymond Avenue Missoula, MT  59802",
+                "phone": "(406) 370-9621",
+                "email": "liz.ametshickler@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Keaveny, Theresa M",
+                "address": "MCV, Box 63 Billings, MT  59103",
+                "phone": "(406) 861-1557",
+                "email": "tkeaveny@mtvoters.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Montana conservation Voters is opposed to LR126, a ballot measure that would repeal Montanans' right to register to vote on election day and the day before",
+                "position": "Oppose",
+                "status": "On ballot, approved"
+            }
+        ]
+    }
+}

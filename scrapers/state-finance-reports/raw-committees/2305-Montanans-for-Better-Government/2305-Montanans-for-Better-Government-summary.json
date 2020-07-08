@@ -1,0 +1,37 @@
+{
+    "slug": "2305-Montanans-for-Better-Government",
+    "committeeName": "Montanans for Better Government",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 2305,
+        "committeeName": "Montanans for Better Government",
+        "committeeAddress": "1820 N. Last Chance Gulch, Helena, MT 59601",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1463464800000,
+        "entityFullName": "Montanans for Better Government",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kuney, Lorna",
+                "address": "400 N California Helena, MT  59601",
+                "phone": "",
+                "email": "lorna@mt.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Denowh, Charles",
+                "address": "1820 N. Last Chance Gulch Helena, MT  59601",
+                "phone": "(406) 239-5952",
+                "email": "cdenowh@gmail.com"
+            }
+        ],
+        "issues": []
+    }
+}

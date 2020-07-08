@@ -1,0 +1,43 @@
+{
+    "slug": "2798-Montanans-Opposed-to-I-166",
+    "committeeName": "Montanans Opposed to I-166",
+    "scrape_date": "2020-07-01",
+    "periods": 5,
+    "data": {
+        "committeeId": 2798,
+        "committeeName": "Montanans Opposed to I-166",
+        "committeeAddress": "PO Box 1557, Helena, MT 59624",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2012",
+        "amendedDate": 1343427846000,
+        "entityFullName": "Montanans Opposed to I-166",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Kuney, Lorna",
+                "address": "400 N California Helena, MT  59601",
+                "phone": "",
+                "email": "lorna@mt.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-166",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    }
+}

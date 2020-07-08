@@ -1,0 +1,43 @@
+{
+    "slug": "7315-Rocky-Mountain-Health-Network",
+    "committeeName": "Rocky Mountain Health Network",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 7315,
+        "committeeName": "Rocky Mountain Health Network",
+        "committeeAddress": "2475 Village Lane, Suite 302, Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2018",
+        "amendedDate": 1526882400000,
+        "entityFullName": "Rocky Mountain Health Network",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Beam, Carol",
+                "address": "1010 Senora Avenue Billings, MT  59105",
+                "phone": "",
+                "email": "cbeam@rmhn.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "contribution to MHA PAC",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

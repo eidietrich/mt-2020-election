@@ -1,0 +1,37 @@
+{
+    "slug": "288-Liberty-County-Democratic-Women",
+    "committeeName": "Liberty County Democratic Women",
+    "scrape_date": "2020-07-02",
+    "periods": 2,
+    "data": {
+        "committeeId": 288,
+        "committeeName": "Liberty County Democratic Women",
+        "committeeAddress": "PO Box 142, Chester, MT 59522",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1468476000000,
+        "entityFullName": "Liberty County Democratic Women",
+        "entityCity": "Chester",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Seidlitz, Patricia",
+                "address": "PO Box 142 Chester, MT  59522",
+                "phone": "(406) 759-5233",
+                "email": "patjack@mtintouch.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 38888,
+        "fromDateStr": "01/01/2017",
+        "toDateStr": "11/26/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 2898,
+        "candidateName": "Boilermakers Local 11 PAC",
+        "statusDescr": "Amended",
+        "amendedDate": 1593440116000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/01/2017",
+        "end_date": "11/26/2018",
+        "receipts": 170.01,
+        "expenditures": 0.0,
+        "cash_in_bank": 1098.51
+    },
+    "contributions": [
+        {
+            "Date Paid": "01/14/17",
+            "Entity Name": "Red Lion Colonial Hotel and Convention Center",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1223 Mullowney Lane",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -170.01,
+            "Amount Type": "CA",
+            "Purpose": "Raffled off a Leatherman/32 individuals purchased tickets - $5.00 ea",
+            "Election Type": "Primary",
+            "Total Primary": 170.01,
+            "Total General": 0.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

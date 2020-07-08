@@ -1,0 +1,43 @@
+{
+    "slug": "2526-Family-Planning-Advocates-of-New-York-State",
+    "committeeName": "Family Planning Advocates of New York State",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2526,
+        "committeeName": "Family Planning Advocates of New York State",
+        "committeeAddress": "17 Elk Street 3rd Floor, Albany, NY 12207",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1278960617000,
+        "entityFullName": "Family Planning Advocates of New York State",
+        "entityCity": "Albany",
+        "entityState": "NY"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Brooks, Tracey",
+                "address": "17 Elk Street 3rd Floor Albany, NY  12207",
+                "phone": "",
+                "email": "tbrooks@fpaofnys.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI-102 Constitutionaly define a person",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

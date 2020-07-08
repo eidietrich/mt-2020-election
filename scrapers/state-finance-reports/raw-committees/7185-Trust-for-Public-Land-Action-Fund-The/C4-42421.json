@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 42421,
+        "fromDateStr": "05/01/2018",
+        "toDateStr": "05/24/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7185,
+        "candidateName": "Trust for Public Land Action Fund, The",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/01/2018",
+        "end_date": "05/24/2018",
+        "receipts": 0.0,
+        "expenditures": 9000.0,
+        "cash_in_bank": -34000.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "05/24/18",
+            "Entity Name": "Vote FOR Open Lands",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 7021",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59771",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 9000.0,
+            "Purpose": "donation to Vote FOR Open Lands",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

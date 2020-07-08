@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 39050,
+        "fromDateStr": "12/01/2016",
+        "toDateStr": "01/30/2017",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 332,
+        "candidateName": "Butte Silver Bow County Republican Women",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "12/01/2016",
+        "end_date": "01/30/2017",
+        "receipts": 0.0,
+        "expenditures": 138.0,
+        "cash_in_bank": 141.06
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "01/03/17",
+            "Entity Name": "Wetona's Deli",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2121 Amherst Ave",
+            "City": "Butte",
+            "State": "MT",
+            "Zip": "59701",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 138.0,
+            "Purpose": "Kick off Brunch",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

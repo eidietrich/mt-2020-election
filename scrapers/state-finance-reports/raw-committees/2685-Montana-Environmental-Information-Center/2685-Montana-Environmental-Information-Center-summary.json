@@ -1,0 +1,43 @@
+{
+    "slug": "2685-Montana-Environmental-Information-Center",
+    "committeeName": "Montana Environmental Information Center",
+    "scrape_date": "2020-07-01",
+    "periods": 2,
+    "data": {
+        "committeeId": 2685,
+        "committeeName": "Montana Environmental Information Center",
+        "committeeAddress": "PO Box 1184 107 W Lawrence Street N-6, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2012",
+        "amendedDate": 1311021307000,
+        "entityFullName": "Montana Environmental Information Center",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McLane, Adam",
+                "address": "PO Box 1184 Helena, MT  59624",
+                "phone": "(406) 443-6047",
+                "email": "mclane@meic.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "IR 125",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

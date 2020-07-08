@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 41652,
+        "fromDateStr": "05/22/2018",
+        "toDateStr": "06/01/2018",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7244,
+        "candidateName": "Park County Environmental Council",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/22/2018",
+        "end_date": "06/01/2018",
+        "receipts": 0.0,
+        "expenditures": 420.31,
+        "cash_in_bank": -3744.06
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "06/01/18",
+            "Entity Name": "Park County Environmental Council",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "215 E. Lewis St. #306",
+            "City": "Livingston",
+            "State": "MT",
+            "Zip": "59047",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 420.31,
+            "Purpose": "In-kind staff time - working to collaborate, stay informed and educate Park County residents about I-186 and what it means for our community.",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

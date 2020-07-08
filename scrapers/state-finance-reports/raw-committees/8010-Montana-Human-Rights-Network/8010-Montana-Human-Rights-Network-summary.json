@@ -1,7 +1,7 @@
 {
     "slug": "8010-Montana-Human-Rights-Network",
     "committeeName": "Montana Human Rights Network",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 4,
     "data": {
         "committeeId": 8010,
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 4,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 3372.7,
-        "num_expenditures": 17,
-        "expenditures_19_20": 3372.7,
-        "num_expenditures_19_20": 17,
-        "cash_on_hand": -3372.7
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Carroll Rivas, Rachel E",
+                "address": "PO Box 1509 Helena, MT  59624",
+                "phone": "(406) 442-5506",
+                "email": "network@mhrn.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "LR-130",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
     }
 }

@@ -1,7 +1,7 @@
 {
     "slug": "8251-MHA-IC-to-support-MHAPAC",
     "committeeName": "MHA IC to support MHAPAC",
-    "scrape_date": "2020-07-01",
+    "scrape_date": "2020-07-02",
     "periods": 1,
     "data": {
         "committeeId": 8251,
@@ -16,15 +16,28 @@
         "entityState": "MT"
     },
     "summary": {
-        "reports": 1,
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 2500.0,
-        "num_expenditures": 1,
-        "expenditures_19_20": 2500.0,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": -2500.0
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Simonson, Vickey",
+                "address": "2625 Winne Ave. Helena, MT  59601",
+                "phone": "(406) 442-1911",
+                "email": "vickey.simonson@mtha.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Luther, Jessie",
+                "address": "1 S. Montana Ave., Ste. M-2 Helena, MT  59601",
+                "phone": "",
+                "email": "jessie@taylorluthergroup.com"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "contribution to PAC",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
     }
 }

@@ -1,0 +1,37 @@
+{
+    "slug": "2665-Emily-Dickenson-Parent-Advisory-Council",
+    "committeeName": "Emily Dickenson Parent Advisory Council",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2665,
+        "committeeName": "Emily Dickenson Parent Advisory Council",
+        "committeeAddress": "2435 Annie St, Bozeman, MT 59715",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2011",
+        "amendedDate": 1303493038000,
+        "entityFullName": "Emily Dickenson Parent Advisory Council",
+        "entityCity": "Bozeman",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Jahner, Valerie",
+                "address": "2435 Annie St Bozeman, MT  59715",
+                "phone": "",
+                "email": ""
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "slug": "2595-The-Policy-Institue",
+    "committeeName": "The Policy Institue",
+    "scrape_date": "2020-07-01",
+    "periods": 5,
+    "data": {
+        "committeeId": 2595,
+        "committeeName": "The Policy Institue",
+        "committeeAddress": "P O Box 1362, Helena, MT 59624",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1286917569000,
+        "entityFullName": "The Policy Institue",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Severtson, Molly A",
+                "address": "500 South California Street Helena, MT  59601",
+                "phone": "(406) 443-8019",
+                "email": "msevertson@mhrn.org"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "I-164, Cap the Rate",
+                "position": "Support",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

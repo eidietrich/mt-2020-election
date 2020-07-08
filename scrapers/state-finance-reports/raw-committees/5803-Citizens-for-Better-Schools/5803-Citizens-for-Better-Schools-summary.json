@@ -1,0 +1,37 @@
+{
+    "slug": "5803-Citizens-for-Better-Schools",
+    "committeeName": "Citizens for Better Schools",
+    "scrape_date": "2020-07-02",
+    "periods": 1,
+    "data": {
+        "committeeId": 5803,
+        "committeeName": "Citizens for Better Schools",
+        "committeeAddress": "500 Montana Av. NW, Great Falls, MT 59404",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1477375200000,
+        "entityFullName": "Citizens for Better Schools",
+        "entityCity": "Great Falls",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Loney, Cleve",
+                "address": "500 Montana NW Great Falls, MT  59404",
+                "phone": "(406) 788-8053",
+                "email": "cleveloney@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}

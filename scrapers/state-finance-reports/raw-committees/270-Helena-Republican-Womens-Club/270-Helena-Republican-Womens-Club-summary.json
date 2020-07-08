@@ -1,0 +1,43 @@
+{
+    "slug": "270-Helena-Republican-Womens-Club",
+    "committeeName": "Helena Republican Womens Club",
+    "scrape_date": "2020-07-02",
+    "periods": 5,
+    "data": {
+        "committeeId": 270,
+        "committeeName": "Helena Republican Womens Club",
+        "committeeAddress": "PO Box 6999, Helena, MT 59604",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1475215200000,
+        "entityFullName": "Helena Republican Womens Club",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Vaughey, Linda L.",
+                "address": "PO Box 6999 Helena, MT  59604",
+                "phone": "(406) 457-9171",
+                "email": "lvaughey@aol.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Republican Candidates",
+                "position": "Support",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

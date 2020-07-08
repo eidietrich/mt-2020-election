@@ -1,0 +1,27 @@
+{
+    "data": {
+        "reportId": 34235,
+        "fromDateStr": "01/01/2015",
+        "toDateStr": "02/25/2016",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 3275,
+        "candidateName": "Landowners for Montana PAC",
+        "statusDescr": "Pending-Amended",
+        "amendedDate": 1593115161000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "01/01/2015",
+        "end_date": "02/25/2016",
+        "receipts": 1818.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 1818.0
+    },
+    "contributions": [],
+    "expenditures": []
+}

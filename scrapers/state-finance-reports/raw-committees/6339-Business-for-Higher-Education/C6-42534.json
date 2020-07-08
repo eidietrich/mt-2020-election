@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 42534,
+        "fromDateStr": "05/28/2018",
+        "toDateStr": "06/26/2018",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 6339,
+        "candidateName": "Business for Higher Education",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/28/2018",
+        "end_date": "06/26/2018",
+        "receipts": 0.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 0.0
+    },
+    "contributions": [
+        {
+            "Date Paid": "06/14/18",
+            "Entity Name": "Montana Chamber of Commerce",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1730",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Incidental Committee Contributions",
+            "Amount": 175.28,
+            "Amount Type": "IK",
+            "Purpose": "2 hours of senior staff time to arrange speaker at Spring/Summer Board meeting to promote passage of 6-mill levy on 2018 ballot",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 550.28,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

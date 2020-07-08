@@ -1,0 +1,58 @@
+{
+    "slug": "5820-Justice-Committee-of-McGarvey-Heberling-Sullivan-&-Lacey-P.C.",
+    "committeeName": "Justice Committee of McGarvey, Heberling, Sullivan & Lacey, P.C.",
+    "scrape_date": "2020-07-02",
+    "periods": 4,
+    "data": {
+        "committeeId": 5820,
+        "committeeName": "Justice Committee of McGarvey, Heberling, Sullivan & Lacey, P.C.",
+        "committeeAddress": "345 1st Ave E, Kalispell, MT 59901",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2016",
+        "amendedDate": 1479798000000,
+        "entityFullName": "Justice Committee of McGarvey, Heberling, Sullivan & Lacey, P.C.",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "McGarvey, Allan M",
+                "address": "345 1st Ave E Kalispell, MT  59901",
+                "phone": "",
+                "email": "amcgarvey@mcgarveylaw.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Jim Shea - Supreme Court",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Dirk Sandefur - Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mike McGrath",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Dedicated to promote greater justice, access to justice for underprivileged, equal protection of laws, impartiality, jury trial system, public discourse, civil rights, environment.",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
+    }
+}

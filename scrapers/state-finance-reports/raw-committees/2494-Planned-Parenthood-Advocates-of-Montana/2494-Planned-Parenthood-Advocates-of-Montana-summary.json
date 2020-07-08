@@ -1,0 +1,43 @@
+{
+    "slug": "2494-Planned-Parenthood-Advocates-of-Montana",
+    "committeeName": "Planned Parenthood Advocates of Montana",
+    "scrape_date": "2020-07-01",
+    "periods": 7,
+    "data": {
+        "committeeId": 2494,
+        "committeeName": "Planned Parenthood Advocates of Montana",
+        "committeeAddress": "PO Box 1581, Helena, MT 59601",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2010",
+        "amendedDate": 1275939762000,
+        "entityFullName": "Planned Parenthood Advocates of Montana",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Sax, Kelly",
+                "address": "221 North Avenue W Missoula, MT  59801",
+                "phone": "(406) 550-1051",
+                "email": "kellysax@bresnan.net"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "CI-102 Constitutionaly define a person",
+                "position": "Oppose",
+                "status": "Not on ballot"
+            }
+        ]
+    }
+}

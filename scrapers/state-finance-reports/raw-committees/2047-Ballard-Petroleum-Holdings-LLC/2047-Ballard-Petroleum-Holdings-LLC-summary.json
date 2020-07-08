@@ -1,0 +1,37 @@
+{
+    "slug": "2047-Ballard-Petroleum-Holdings-LLC",
+    "committeeName": "Ballard Petroleum Holdings LLC",
+    "scrape_date": "2020-07-01",
+    "periods": 1,
+    "data": {
+        "committeeId": 2047,
+        "committeeName": "Ballard Petroleum Holdings LLC",
+        "committeeAddress": "845 12th Street West, Billings, MT 59102",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2007",
+        "amendedDate": 1175009772000,
+        "entityFullName": "Ballard Petroleum Holdings LLC",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Ballard, David W.",
+                "address": "845 12th Street W Billings, MT  59102",
+                "phone": "(406) 652-2860",
+                "email": "dballard@ballardpetroleum.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    }
+}
