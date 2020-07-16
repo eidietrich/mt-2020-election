@@ -8,7 +8,7 @@
 
 const { candidates, races } = require('./src/data/app-copy.json')
 const preppedData = require('./src/data/app-prepped-data.json') // TODO: Change file name
-const coverageLinks = require('./src/data/outside-links.json')
+const coverageLinks = require('./src/data/outside-links.json').filter(d => d != null)
 const issueStatements = require('./src/data/q-and-a.json')
 
 const financeSummaries = preppedData.finance
