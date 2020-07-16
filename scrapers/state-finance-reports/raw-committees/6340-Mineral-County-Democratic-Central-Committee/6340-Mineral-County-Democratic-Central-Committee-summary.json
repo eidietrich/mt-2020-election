@@ -1,7 +1,7 @@
 {
     "slug": "6340-Mineral-County-Democratic-Central-Committee",
     "committeeName": "Mineral County Democratic Central Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 6340,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "03/09/2018",
+        "contributions": 332.0,
+        "num_contributions": 4,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 284.1,
+        "num_expenditures": 5,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 549.9
     }
 }

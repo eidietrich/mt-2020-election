@@ -1,7 +1,7 @@
 {
     "slug": "6248-SOUTHWEST-MONTANA-SAFARI-CLUB-INTERNATIONAL",
     "committeeName": "SOUTHWEST MONTANA SAFARI CLUB INTERNATIONAL",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 6248,
@@ -39,5 +39,18 @@
                 "status": "On ballot, defeated"
             }
         ]
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "11/09/2016",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 9300.0,
+        "num_expenditures": 3,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -9300.0
     }
 }

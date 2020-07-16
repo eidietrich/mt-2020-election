@@ -156,6 +156,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "02/13/20",
+            "Entity Name": "Plazby LLC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "796 Stonegate Drive",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 13225.0,
+            "Purpose": "Billboards",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Billboard",
+            "Expenditure Paid Communications Quantity": "8",
+            "Expenditure Paid Communications Subject Matter": "Support Melissa Romano"
+        },
+        {
+            "Date Paid": "03/12/20",
+            "Entity Name": "Plazby LLC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "796 Stonegate Drive",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 7400.0,
+            "Purpose": "Billboards",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Billboard",
+            "Expenditure Paid Communications Quantity": "3",
+            "Expenditure Paid Communications Subject Matter": "Support Melissa Romanp"
         }
     ]
 }

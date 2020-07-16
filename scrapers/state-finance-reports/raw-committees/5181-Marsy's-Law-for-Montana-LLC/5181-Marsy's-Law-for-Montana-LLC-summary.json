@@ -1,7 +1,7 @@
 {
     "slug": "5181-Marsy's-Law-for-Montana-LLC",
     "committeeName": "Marsy's Law for Montana LLC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 14,
     "data": {
         "committeeId": 5181,
@@ -39,5 +39,18 @@
                 "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 14,
+        "last_report_end_date": "03/05/2017",
+        "contributions": 1477642.68,
+        "num_contributions": 6,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1818082.41,
+        "num_expenditures": 256,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

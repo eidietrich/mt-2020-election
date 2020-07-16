@@ -859,6 +859,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/30/16",
+            "Entity Name": "Casey's Corner Store",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2816 Old Hardin Rd",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 32.0,
+            "Purpose": "Fuel",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

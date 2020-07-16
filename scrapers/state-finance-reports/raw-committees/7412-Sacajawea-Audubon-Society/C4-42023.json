@@ -23,5 +23,25 @@
         "cash_in_bank": -350.0
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "06/04/18",
+            "Entity Name": "Vote FOR Open Lands",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 7021",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59771",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 350.0,
+            "Purpose": "to support the Vote For Open Lands Committee for mill levy ballot measure in Gallatin County",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

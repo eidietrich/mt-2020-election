@@ -74,6 +74,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/17/14",
+            "Entity Name": "Allegra",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2620 Overland Ave.",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59102",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 542.0,
+            "Purpose": "staff time on voter guide",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

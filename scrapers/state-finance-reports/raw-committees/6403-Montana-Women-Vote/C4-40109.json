@@ -23,5 +23,63 @@
         "cash_in_bank": -7030.08
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "03/27/18",
+            "Entity Name": "Howell, Sarah",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "725 W. Alder St., Ste. 21",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59802",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 291.79,
+            "Purpose": "Staff time and office overhead",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "03/27/18",
+            "Entity Name": "Howell, Sarah",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "725 W. Alder St., Ste. 21",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59802",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 179.59,
+            "Purpose": "Staff time and operating costs, in-kind support of I-185",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "03/27/18",
+            "Entity Name": "Nielsen, Micah",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "725 W. Alder St., Ste. 21",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59802",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 93.18,
+            "Purpose": "Staff time and office overhead",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

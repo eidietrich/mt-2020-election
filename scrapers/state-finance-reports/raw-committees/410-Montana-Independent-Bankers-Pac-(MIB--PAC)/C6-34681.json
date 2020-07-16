@@ -23,5 +23,25 @@
         "cash_in_bank": 7803.04
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "04/06/16",
+            "Entity Name": "Gibson, Steve D",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2665 Stage Coach",
+            "City": "East Helena",
+            "State": "MT",
+            "Zip": "59635",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 170.0,
+            "Purpose": "CAMPAIGN CONTRIBUTION",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

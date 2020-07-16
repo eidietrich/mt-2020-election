@@ -1,7 +1,7 @@
 {
     "slug": "6321-Save-Central-Helena",
     "committeeName": "Save Central Helena",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 6321,
@@ -39,5 +39,18 @@
                 "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "06/23/2017",
+        "contributions": 250.0,
+        "num_contributions": 2,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 250.0,
+        "num_expenditures": 6,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

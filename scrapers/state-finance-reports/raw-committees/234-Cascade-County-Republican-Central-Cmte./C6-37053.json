@@ -155,6 +155,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/29/16",
+            "Entity Name": "Cherry Creek Radio",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 3309",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59403",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 84.9,
+            "Purpose": "Balance of independent advertising expenditure",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

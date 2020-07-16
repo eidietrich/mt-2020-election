@@ -23,5 +23,25 @@
         "cash_in_bank": 3186.76
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/29/20",
+            "Entity Name": "Young Americans For Freedom, Rocky Mountain College Chapter",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1511 Poly Drive",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59102",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 100.0,
+            "Purpose": "Contribution For General Expenses",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": "Contribution"
+        }
+    ]
 }

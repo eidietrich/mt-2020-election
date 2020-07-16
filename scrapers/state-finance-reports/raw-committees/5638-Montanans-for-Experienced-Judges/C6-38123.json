@@ -55,5 +55,44 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/27/16",
+            "Entity Name": "Facebook",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1601 Willow Rd",
+            "City": "Menlo Park",
+            "State": "CA",
+            "Zip": "94025",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 250.0,
+            "Purpose": "Facebook Ads",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/27/16",
+            "Entity Name": "Wade Larson",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Wicks\u00a0Lane",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59105",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 175.0,
+            "Purpose": "Video Editing",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

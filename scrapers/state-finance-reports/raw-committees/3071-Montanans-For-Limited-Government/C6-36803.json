@@ -148,5 +148,44 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "07/15/16",
+            "Entity Name": "Commonsense Development",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "10490 Treeline St.",
+            "City": "Boise",
+            "State": "ID",
+            "Zip": "83704",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 150.0,
+            "Purpose": "Update Web Page",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "08/01/16",
+            "Entity Name": "Kent, Edna",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1443",
+            "City": "Florence",
+            "State": "MT",
+            "Zip": "59833",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 189.99,
+            "Purpose": "Reimburse for Facebook ads and purchase of books (The Law)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

@@ -55,5 +55,25 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "12/08/16",
+            "Entity Name": "Montana Prosperity PAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1730",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1572.5,
+            "Purpose": "Legal Expenses to Taylor Luther Group, PLLC",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

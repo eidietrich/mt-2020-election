@@ -1,7 +1,7 @@
 {
     "slug": "7304-Montana-Mining-Association",
     "committeeName": "Montana Mining Association",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 12,
     "data": {
         "committeeId": 7304,
@@ -39,5 +39,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 12,
+        "last_report_end_date": "09/05/2019",
+        "contributions": 5406028.48,
+        "num_contributions": 51,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 5101152.31,
+        "num_expenditures": 50,
+        "expenditures_19_20": 1081.0,
+        "num_expenditures_19_20": 2,
+        "cash_on_hand": 314868.69
     }
 }

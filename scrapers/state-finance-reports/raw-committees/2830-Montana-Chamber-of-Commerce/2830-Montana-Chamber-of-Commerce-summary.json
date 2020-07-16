@@ -1,7 +1,7 @@
 {
     "slug": "2830-Montana-Chamber-of-Commerce",
     "committeeName": "Montana Chamber of Commerce",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 16,
     "data": {
         "committeeId": 2830,
@@ -34,6 +34,21 @@
         ],
         "issues": [
             {
+                "interest": "I-186: Requirements for Permits and Reclamation Plans of New Hard Rock Mines Initiative",
+                "position": "Oppose",
+                "status": "On ballot, approved"
+            },
+            {
+                "interest": "I-185: Raise tobacco taxes to fund health care programs",
+                "position": "Oppose",
+                "status": "On ballot, approved"
+            },
+            {
+                "interest": "Support pro-business candidates and pro-business ballot issues",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Support passage of the 6-mill levy of the Montana University System (LR-128)",
                 "position": "Support",
                 "status": "On ballot, approved"
@@ -42,22 +57,20 @@
                 "interest": "Oppose anti-business candidates and anti-business ballot issues",
                 "position": "Oppose",
                 "status": "Not Applicable"
-            },
-            {
-                "interest": "I-185: Raise tobacco taxes to fund health care programs",
-                "position": "Oppose",
-                "status": "On ballot, approved"
-            },
-            {
-                "interest": "I-186: Requirements for Permits and Reclamation Plans of New Hard Rock Mines Initiative",
-                "position": "Oppose",
-                "status": "On ballot, approved"
-            },
-            {
-                "interest": "Support pro-business candidates and pro-business ballot issues",
-                "position": "Support",
-                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 16,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 9356.41,
+        "num_expenditures": 24,
+        "expenditures_19_20": 1568.7,
+        "num_expenditures_19_20": 7,
+        "cash_on_hand": -9356.41
     }
 }

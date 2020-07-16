@@ -1,7 +1,7 @@
 {
     "slug": "1920-Mineral-County-Republican-Central-Cmte",
     "committeeName": "Mineral County Republican Central Cmte",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 29,
     "data": {
         "committeeId": 1920,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 29,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 26645.25,
+        "num_contributions": 673,
+        "contributions_19_20": 6520.85,
+        "num_contributions_19_20": 230,
+        "expenditures": 37172.61,
+        "num_expenditures": 170,
+        "expenditures_19_20": 7327.0,
+        "num_expenditures_19_20": 44,
+        "cash_on_hand": 17312.04
     }
 }

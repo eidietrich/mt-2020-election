@@ -1,7 +1,7 @@
 {
     "slug": "6339-Business-for-Higher-Education",
     "committeeName": "Business for Higher Education",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 11,
     "data": {
         "committeeId": 6339,
@@ -39,5 +39,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 11,
+        "last_report_end_date": "11/21/2018",
+        "contributions": 720.87,
+        "num_contributions": 7,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 0,
+        "num_expenditures": 0,
+        "expenditures_19_20": 0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

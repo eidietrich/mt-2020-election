@@ -5210,6 +5210,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/11/18",
+            "Entity Name": "Missoulian",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 8689",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59807",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 96.0,
+            "Purpose": "Guarantee placement of Nov 4 voting guide listing Republican candidates, see list attached",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/19/18",
+            "Entity Name": "Missoulian",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 8689",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59807",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 3276.0,
+            "Purpose": "Display ad voting guide listing Republican US Congress, Senate, and Legislature candidates, see list attached",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

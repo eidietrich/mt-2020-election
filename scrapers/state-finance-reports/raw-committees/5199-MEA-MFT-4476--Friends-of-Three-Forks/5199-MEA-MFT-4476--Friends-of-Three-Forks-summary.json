@@ -1,7 +1,7 @@
 {
     "slug": "5199-MEA-MFT-4476--Friends-of-Three-Forks",
     "committeeName": "MEA MFT 4476/ Friends of Three Forks",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 5199,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "05/03/2016",
+        "contributions": 793.25,
+        "num_contributions": 4,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 913.52,
+        "num_expenditures": 1,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -120.27
     }
 }

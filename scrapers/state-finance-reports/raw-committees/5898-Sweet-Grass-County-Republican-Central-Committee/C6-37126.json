@@ -3464,6 +3464,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/30/16",
+            "Entity Name": "Carbon County Republican Central Committee",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 2411",
+            "City": "Red Lodge",
+            "State": "MT",
+            "Zip": "59068",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 200.0,
+            "Purpose": "Help pay for Ad for Stapleton for Secretary of State",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

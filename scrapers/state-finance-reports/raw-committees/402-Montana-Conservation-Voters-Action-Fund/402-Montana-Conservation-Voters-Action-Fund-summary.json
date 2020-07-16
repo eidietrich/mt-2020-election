@@ -1,7 +1,7 @@
 {
     "slug": "402-Montana-Conservation-Voters-Action-Fund",
     "committeeName": "Montana Conservation Voters Action Fund",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 37,
     "data": {
         "committeeId": 402,
@@ -34,27 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "Raph Graybill MT Attorney General",
+                "interest": "Supports candidates for local legislative and statewide office who support conservation values. ",
                 "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Melissa Romano MT Superintendent of Public Instruction",
-                "position": "Support",
-                "status": "Not Applicable"
+                "status": "Support"
             },
             {
                 "interest": "Monica Tranel MT Public Service Commission District 4",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "HD Dave Fern 4, Jamie Horn 21, Barbara Bessette 24, Helena Lovick 26, Jessica Karjala 48, Anne Guiliano 51",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "HD Hannah Olsen 52, Ed Staffman 62, Alice Buckley 63, Kelly Kortum 65, Collette Campell 67, Kim Abott 83, Lisa Pavlock 93, Danny Tenebaum 95, Willis Curdy 98, Mark Thane 99",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -64,12 +49,12 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Supports candidates for local legislative and statewide office who support conservation values. ",
+                "interest": "HD Hannah Olsen 52, Ed Staffman 62, Alice Buckley 63, Kelly Kortum 65, Collette Campell 67, Kim Abott 83, Lisa Pavlock 93, Danny Tenebaum 95, Willis Curdy 98, Mark Thane 99",
                 "position": "Support",
-                "status": "Support"
+                "status": "Not Applicable"
             },
             {
-                "interest": "SD Chris Pope 31",
+                "interest": "Bryce Bennett MT Secretary of State",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -79,10 +64,38 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Bryce Bennett MT Secretary of State",
+                "interest": "Melissa Romano MT Superintendent of Public Instruction",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "HD Dave Fern 4, Jamie Horn 21, Barbara Bessette 24, Helena Lovick 26, Jessica Karjala 48, Anne Guiliano 51",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "SD Chris Pope 31",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Raph Graybill MT Attorney General",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 37,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 1676089.53,
+        "num_contributions": 380,
+        "contributions_19_20": 95443.4,
+        "num_contributions_19_20": 43,
+        "expenditures": 1645074.29,
+        "num_expenditures": 182,
+        "expenditures_19_20": 49962.11,
+        "num_expenditures_19_20": 42,
+        "cash_on_hand": 45191.33
     }
 }

@@ -55,5 +55,44 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/09/16",
+            "Entity Name": "Jobs for Montana PAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1618",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2000.0,
+            "Purpose": "support pro-business candidates",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/22/16",
+            "Entity Name": "Jobs for Montana PAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1618",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2500.0,
+            "Purpose": "support pro-business ",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

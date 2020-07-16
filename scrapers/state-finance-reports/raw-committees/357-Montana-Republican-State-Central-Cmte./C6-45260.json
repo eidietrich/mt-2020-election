@@ -17078,6 +17078,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/30/19",
+            "Entity Name": "Billings Gazette",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "401 N Broadway",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 3133.0,
+            "Purpose": "IE: 6 COL x 10.5\" BW Ad. 11/2/19 Support John Armstrong W1, Support Roy Neese W2 & Aldo Rowe W3, Support Pam Purinton W4 & Mike Boyette W5, IE: 6 col ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/31/19",
+            "Entity Name": "The Political Company",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 81274",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59108",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1379.84,
+            "Purpose": "IE: Design Newspaper & Online Ad Support John Armstrong W1, Roy, Neese W2, Aldo Rowe W3, Pam Purinton W4, Mike Boyette W5, IE: Phone call Setup Fee Su",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

@@ -286,6 +286,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/25/18",
+            "Entity Name": "Hamilton, Tyrel",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "96 Youngs Point Rd",
+            "City": "Park City",
+            "State": "MT",
+            "Zip": "59063",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 900.0,
+            "Purpose": "Campaign Contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/31/18",
+            "Entity Name": "Howard, David",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Po Box 10",
+            "City": "Park City",
+            "State": "MT",
+            "Zip": "59063",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 725.0,
+            "Purpose": "Campaign Contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

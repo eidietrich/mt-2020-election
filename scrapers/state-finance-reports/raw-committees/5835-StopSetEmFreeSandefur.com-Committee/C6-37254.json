@@ -148,5 +148,82 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "09/21/16",
+            "Entity Name": "Acquire Digital LLC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "512A East Iris Drive",
+            "City": "Nashville",
+            "State": "TN",
+            "Zip": "37204",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 3872.0,
+            "Purpose": "Tv Ad Placement",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/21/16",
+            "Entity Name": "Acquire Digital LLC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "512A East Iris Drive",
+            "City": "Nashville",
+            "State": "TN",
+            "Zip": "37204",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2520.16,
+            "Purpose": "Website development",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/21/16",
+            "Entity Name": "Rising Tide Media",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "226 S Fayette",
+            "City": "Alexandria",
+            "State": "VA",
+            "Zip": "22314",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 11097.0,
+            "Purpose": "Tv Ad production",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/21/16",
+            "Entity Name": "Strategic Media Service",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1023 31st NW 4th Floor",
+            "City": "Washington DC",
+            "State": "DC",
+            "Zip": "20007",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 3872.0,
+            "Purpose": "Tv Ad Placement",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "slug": "396-Montana-Agriculture-PAC",
     "committeeName": "Montana Agriculture PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 10,
     "data": {
         "committeeId": 396,
@@ -34,22 +34,42 @@
         ],
         "issues": [
             {
-                "interest": "Donald W Jones HD46",
+                "interest": "Dan Bartel HD29",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Hertha Lund SD 15",
+                "interest": "Zinke for Congress",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Rob Cook HD 18",
+                "interest": "Brad Hamlett HD 23",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Forrest Mandeville for HD57",
+                "interest": "Terry Gauthier for SD40",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Donald Roberts SD 26",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ross Fitzgerald - HD17",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ron Ehli HD 86",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Tom Welch HD72",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -59,32 +79,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Gordon Pierson for HD 78",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Walt Sales HD 69",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Elsie Arntzen for State Superintendent",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Alan Doane for HD36",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Bruce Grubbs for HD68",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Joel G Krautter HD 35",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -94,47 +89,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Scott Rolston for HD 85",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jean Barragan HD 11",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "James O'Hara  HD27",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kit Johnson HD84",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Frank Garner HD 07",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Alan Doane for HD36",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Tim Fox for AG",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Greg Hertz for HD12",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Patrick Johnson  HD 80",
+                "interest": "John Bedford for HD45",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -149,52 +104,7 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Austin Knudsen for HD34",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Ross Fitzgerald - HD17",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Brooke Erb HD 72",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jim Keane for HD73",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Alan Redfield for HD 59",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Steve Hinebauch for SD18",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Brad Hamlett HD 23",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "E Wylie Galt HD 30",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jon Knokey HD65",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Dirk Adams HD 59",
+                "interest": "Vince Ricci for HD55",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -204,22 +114,42 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Pat Riley for HD 40",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Mark Ray Noland HD 10",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "seth Berglee HD58",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jason D Small SD 21",
+                "interest": "Forrest Mandeville for HD57",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jeff Essmann HD 54",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Frank Garner HD 07",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Greg Hertz for HD12",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Gene Vuckovich SD39",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Elsie Arntzen for State Superintendent",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jon Knokey HD65",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -229,17 +159,127 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Jean Barragan HD 11",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ed Greef for HD88",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Rob Cook HD 18",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Casey Knudsen HD 33",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jason D Small SD 21",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ray L Shaw HD 71",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Joel G Krautter HD 35",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Brooke Erb HD 72",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Edward Hilbert HD36",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Geraldine Custer for HD39",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "E Wylie Galt HD 30",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Donald W Jones HD46",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Fred Anderson HD20",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Corey Stapleton for Secretary of State",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dirk Adams HD 59",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mark Ray Noland HD 10",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Mike Lang for SD 17",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Tom Welch HD72",
+                "interest": "Gordon Pierson for HD 78",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Terry Gauthier for SD40",
+                "interest": "Jim Keane for HD73",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Alan Doane for HD36",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mike Houghton for HD67",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Alan Redfield for HD 59",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Alan Doane for HD36",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steve Fitzpatrick for SD10",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "James O'Hara  HD27",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -254,77 +294,27 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Fred Anderson HD20",
+                "interest": "Austin Knudsen for HD34",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Corey Stapleton for Secretary of State",
+                "interest": "Pat Riley for HD 40",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Ed Greef for HD88",
+                "interest": "Scott Rolston for HD 85",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Ray L Shaw HD 71",
+                "interest": "Hertha Lund SD 15",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Kenneth Holmlund HD38",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Steve Fitzpatrick for SD10",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Bret Smelser for SD18",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Casey Knudsen HD 33",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Gene Vuckovich SD39",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Zinke for Congress",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Geraldine Custer for HD39",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "John Bedford for HD45",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jeff Essmann HD 54",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Edward Hilbert HD36",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Dan Bartel HD29",
+                "interest": "Steve Hinebauch for SD18",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -334,27 +324,27 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Kristen Juras for Supreme Court",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Lowell Hanson ",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Vince Ricci for HD55",
+                "interest": "Kit Johnson HD84",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Ron Ehli HD 86",
+                "interest": "Bret Smelser for SD18",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Mike Houghton for HD67",
+                "interest": "Patrick Johnson  HD 80",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bruce Grubbs for HD68",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -364,10 +354,33 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Donald Roberts SD 26",
+                "interest": "Tim Fox for AG",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Kenneth Holmlund HD38",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kristen Juras for Supreme Court",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 10,
+        "last_report_end_date": "12/31/2016",
+        "contributions": 3535.0,
+        "num_contributions": 33,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 14501.91,
+        "num_expenditures": 75,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 2445.11
     }
 }

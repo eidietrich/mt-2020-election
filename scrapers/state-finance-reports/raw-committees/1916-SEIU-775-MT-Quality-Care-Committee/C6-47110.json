@@ -155,6 +155,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "03/25/20",
+            "Entity Name": "Working MT PAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2711 Airport RD",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 30000.0,
+            "Purpose": "MT AFL CIO Labor 2020 program",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

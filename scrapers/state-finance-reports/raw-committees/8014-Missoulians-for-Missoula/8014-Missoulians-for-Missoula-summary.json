@@ -1,7 +1,7 @@
 {
     "slug": "8014-Missoulians-for-Missoula",
     "committeeName": "Missoulians for Missoula",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 4,
     "data": {
         "committeeId": 8014,
@@ -34,18 +34,18 @@
         ],
         "issues": [
             {
+                "interest": "Alan C. Ault for Missoula City Council",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "John P. Contos for Missoula City Council",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Alex Michael Fregerio for Missoula City Council",
+                "interest": "Nick Shontz for Missoula City Council",
                 "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Brent Sperry for Missoula City Council ",
-                "position": "Support",
                 "status": "Not Applicable"
             },
             {
@@ -59,20 +59,33 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Brent Sperry for Missoula City Council ",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Sandra Vasecka for Missoula City Council",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Alan C. Ault for Missoula City Council",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Nick Shontz for Missoula City Council",
+                "interest": "Alex Michael Fregerio for Missoula City Council",
                 "position": "Oppose",
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 4,
+        "last_report_end_date": "11/25/2019",
+        "contributions": 16330.0,
+        "num_contributions": 18,
+        "contributions_19_20": 16330.0,
+        "num_contributions_19_20": 18,
+        "expenditures": 16355.0,
+        "num_expenditures": 20,
+        "expenditures_19_20": 16355.0,
+        "num_expenditures_19_20": 20,
+        "cash_on_hand": 0.0
     }
 }

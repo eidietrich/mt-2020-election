@@ -1,7 +1,7 @@
 {
     "slug": "237-Chouteau-County-Republican-Central-Cmte.",
     "committeeName": "Chouteau County Republican Central Cmte.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 22,
     "data": {
         "committeeId": 237,
@@ -39,23 +39,8 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Matt Rosendale for US Senate",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Jim O'hara ",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Corey Stapleton",
                 "position": "Modify",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Bruce Meyers",
-                "position": "Support",
                 "status": "Not Applicable"
             },
             {
@@ -64,9 +49,14 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Donald  Trump for US President",
+                "interest": "Elsie Arntzen",
                 "position": "Support",
-                "status": "Support"
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jim O'hara ",
+                "position": "Support",
+                "status": "Not Applicable"
             },
             {
                 "interest": "Greg Gianforte for Congress",
@@ -74,7 +64,12 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Tim Fox ",
+                "interest": "Matt Rosendale for US Senate",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Bruce Meyers",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -84,10 +79,28 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Elsie Arntzen",
+                "interest": "Donald  Trump for US President",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Tim Fox ",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 22,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 19288.0,
+        "num_contributions": 285,
+        "contributions_19_20": 8422.0,
+        "num_contributions_19_20": 57,
+        "expenditures": 40359.6,
+        "num_expenditures": 128,
+        "expenditures_19_20": 5945.66,
+        "num_expenditures_19_20": 13,
+        "cash_on_hand": 5882.1
     }
 }

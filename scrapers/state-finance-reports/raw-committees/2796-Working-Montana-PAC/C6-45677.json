@@ -55,5 +55,44 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "08/29/19",
+            "Entity Name": "Billings Times",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2919 Montana Avenue",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 456.75,
+            "Purpose": "Postcards for Fred Wilburn/3045 Postcards",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/05/19",
+            "Entity Name": "Mailing Technical Services",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P. O. Box 1753",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59103",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 891.79,
+            "Purpose": "Postcard Postage for Fred Wilburn/3023 postcards mailed",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

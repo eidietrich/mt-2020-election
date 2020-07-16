@@ -23,5 +23,25 @@
         "cash_in_bank": -455942.85
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/17/20",
+            "Entity Name": "Change Research",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "577 Howard St, 3rd Fl",
+            "City": "San Francisco",
+            "State": "CA",
+            "Zip": "94105",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 5942.85,
+            "Purpose": "Survey of Montana voters regarding the gubernatorial election",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Facebook and Instragram",
+            "Expenditure Paid Communications Quantity": "Survey of 2200 Montana voters, conducted May 15-17",
+            "Expenditure Paid Communications Subject Matter": "Survey questions to determine favorability of candidates for governor "
+        }
+    ]
 }

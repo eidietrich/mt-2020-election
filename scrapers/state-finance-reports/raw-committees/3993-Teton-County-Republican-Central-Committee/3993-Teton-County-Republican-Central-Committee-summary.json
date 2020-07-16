@@ -1,8 +1,8 @@
 {
     "slug": "3993-Teton-County-Republican-Central-Committee",
     "committeeName": "Teton County Republican Central Committee",
-    "scrape_date": "2020-07-02",
-    "periods": 17,
+    "scrape_date": "2020-07-09",
+    "periods": 18,
     "data": {
         "committeeId": 3993,
         "committeeName": "Teton County Republican Central Committee",
@@ -39,16 +39,6 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Ross Fitzgerald for HD 17",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Bruce \"Butch\" Gillespie, SD09",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "Richard \"Dick\" Snellman for Teton County Commissioner",
                 "position": "Support",
                 "status": "On ballot"
@@ -57,7 +47,30 @@
                 "interest": "Greg for Montana",
                 "position": "Support",
                 "status": "On ballot"
+            },
+            {
+                "interest": "Bruce \"Butch\" Gillespie, SD09",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Ross Fitzgerald for HD 17",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 18,
+        "last_report_end_date": "06/30/2020",
+        "contributions": 34236.0,
+        "num_contributions": 316,
+        "contributions_19_20": 8900.0,
+        "num_contributions_19_20": 92,
+        "expenditures": 34900.54,
+        "num_expenditures": 116,
+        "expenditures_19_20": 4096.64,
+        "num_expenditures_19_20": 19,
+        "cash_on_hand": 19417.38
     }
 }

@@ -155,6 +155,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/27/16",
+            "Entity Name": "Great American Media",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "3050 K Street, NW, Suite 100",
+            "City": "Washington DC",
+            "State": "DC",
+            "Zip": "20007",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 396497.0,
+            "Purpose": "Statewide TV & Radio Media Placement Opposing Greg Gianforte",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/21/16",
+            "Entity Name": "Great American Media",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "3050 K Street, NW, Suite 100",
+            "City": "Washington DC",
+            "State": "DC",
+            "Zip": "20007",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 406466.78,
+            "Purpose": "Statewide TV Placement/Production & Radio Placement Opposing Greg Gianforte",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

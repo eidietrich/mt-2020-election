@@ -1,7 +1,7 @@
 {
     "slug": "3397-Mid-Test",
     "committeeName": "Mid Test",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 3397,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "04/06/2016",
+        "contributions": 120.52,
+        "num_contributions": 1,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 4380.42,
+        "num_expenditures": 3,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -3327.38
     }
 }

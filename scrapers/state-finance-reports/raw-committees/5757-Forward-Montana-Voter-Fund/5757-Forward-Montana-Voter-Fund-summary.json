@@ -1,7 +1,7 @@
 {
     "slug": "5757-Forward-Montana-Voter-Fund",
     "committeeName": "Forward Montana Voter Fund",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 18,
     "data": {
         "committeeId": 5757,
@@ -34,6 +34,11 @@
         ],
         "issues": [
             {
+                "interest": "Danny Choriki for Ward 3, Billings",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
                 "interest": "Statewide, legislative, and local candidates who are champions for young people and their values and needs.",
                 "position": "Support",
                 "status": "Support"
@@ -42,12 +47,20 @@
                 "interest": "Kendra Shaw, Ward 1 Billings; Carmelita Dominguez, Ward 4 Billings",
                 "position": "Support",
                 "status": "On ballot"
-            },
-            {
-                "interest": "Danny Choriki for Ward 3, Billings",
-                "position": "Support",
-                "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 18,
+        "last_report_end_date": "06/30/2020",
+        "contributions": 32403.12,
+        "num_contributions": 27,
+        "contributions_19_20": 15000.0,
+        "num_contributions_19_20": 2,
+        "expenditures": 36442.13,
+        "num_expenditures": 70,
+        "expenditures_19_20": 21381.74,
+        "num_expenditures_19_20": 36,
+        "cash_on_hand": 5689.53
     }
 }

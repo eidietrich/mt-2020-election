@@ -558,6 +558,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/18/16",
+            "Entity Name": "The Montana Standard",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "25 W Granite",
+            "City": "Butte",
+            "State": "MT",
+            "Zip": "59701",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 613.0,
+            "Purpose": "Advertising",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/03/16",
+            "Entity Name": "The Montana Standard",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "25 W Granite",
+            "City": "Butte",
+            "State": "MT",
+            "Zip": "59701",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 499.0,
+            "Purpose": "Advertising",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

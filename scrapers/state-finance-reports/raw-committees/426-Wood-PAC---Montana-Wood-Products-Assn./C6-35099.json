@@ -23,5 +23,63 @@
         "cash_in_bank": 5813.93
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/11/16",
+            "Entity Name": "Arntzen, Elsie",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 22915",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 200.0,
+            "Purpose": "PAC Check",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/11/16",
+            "Entity Name": "Ralston , Scott",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 278",
+            "City": "Darby",
+            "State": "MT",
+            "Zip": "59829",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 150.0,
+            "Purpose": "PAC Check",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/11/16",
+            "Entity Name": "Stapleton, Corey M",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1511 14th St. West",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59102",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 200.0,
+            "Purpose": "PAC Check",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

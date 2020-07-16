@@ -229,6 +229,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/25/16",
+            "Entity Name": "Allegra",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "40 West Lawrence",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1905.83,
+            "Purpose": "Mailers",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/23/16",
+            "Entity Name": "Allegra",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "40 West Lawrence",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 547.37,
+            "Purpose": "Postage for flyers",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

@@ -148,5 +148,63 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/18/18",
+            "Entity Name": "Arena Communications",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1780 W  Sequoia Vista Circle ",
+            "City": "Salt Lake City",
+            "State": "UT",
+            "Zip": "84104",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 41827.0,
+            "Purpose": "Facebook Display Ads. Encourage voters to support the candidates in question & Mailers. Ads ran 10/15/18 - 10/31/18",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/22/18",
+            "Entity Name": "Arena Communications",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1780 W  Sequoia Vista Circle ",
+            "City": "Salt Lake City",
+            "State": "UT",
+            "Zip": "84104",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 8000.0,
+            "Purpose": "Facebook Display Ads. Encourage voters to support the candidates in question",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/22/18",
+            "Entity Name": "Standard Consulting",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1820 N Last Chance Gulch",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1600.0,
+            "Purpose": "General election consulting, IE preparation, messaging, and list development.",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

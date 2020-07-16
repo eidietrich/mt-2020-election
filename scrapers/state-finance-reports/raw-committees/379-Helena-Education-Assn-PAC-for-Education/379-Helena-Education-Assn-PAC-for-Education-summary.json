@@ -1,7 +1,7 @@
 {
     "slug": "379-Helena-Education-Assn-PAC-for-Education",
     "committeeName": "Helena Education Assn PAC for Education",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 4,
     "data": {
         "committeeId": 379,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 4,
+        "last_report_end_date": "04/21/2017",
+        "contributions": -14000.8,
+        "num_contributions": 13,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 17020.0,
+        "num_expenditures": 7,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 2038.28
     }
 }

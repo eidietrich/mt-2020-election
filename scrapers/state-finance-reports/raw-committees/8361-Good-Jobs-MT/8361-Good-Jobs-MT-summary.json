@@ -1,7 +1,7 @@
 {
     "slug": "8361-Good-Jobs-MT",
     "committeeName": "Good Jobs MT",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 4,
     "data": {
         "committeeId": 8361,
@@ -34,11 +34,6 @@
         ],
         "issues": [
             {
-                "interest": "Purpose: making Independent Expenditures in Montana elections",
-                "position": "Other",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Democratic candidates for Governor",
                 "position": "Support",
                 "status": "Not Applicable"
@@ -47,7 +42,25 @@
                 "interest": "Republican candidates for Governor",
                 "position": "Oppose",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Purpose: making Independent Expenditures in Montana elections",
+                "position": "Other",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 4,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 975500.0,
+        "num_contributions": 5,
+        "contributions_19_20": 975500.0,
+        "num_contributions_19_20": 5,
+        "expenditures": 435411.0,
+        "num_expenditures": 10,
+        "expenditures_19_20": 435411.0,
+        "num_expenditures_19_20": 10,
+        "cash_on_hand": 540089.0
     }
 }

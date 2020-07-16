@@ -765,6 +765,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "08/28/16",
+            "Entity Name": "Various, See Attached",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Various",
+            "City": "See Attached",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 0.0,
+            "Purpose": "Door Hangers (In Kind)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

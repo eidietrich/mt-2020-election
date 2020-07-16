@@ -334,5 +334,44 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "08/01/18",
+            "Entity Name": "Keffer, Shirlee",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1496",
+            "City": "Columbus",
+            "State": "MT",
+            "Zip": "59019",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 593.8,
+            "Purpose": "reimburse GOP convention expenses",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "08/01/18",
+            "Entity Name": "National Federation of Republican Women",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "124 N Alfred St",
+            "City": "Alexandria",
+            "State": "VA",
+            "Zip": "22314",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 345.0,
+            "Purpose": "dues & service charge",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

@@ -169,6 +169,25 @@
             "Expenditure Paid Communications Subject Matter": ""
         },
         {
+            "Date Paid": "10/12/18",
+            "Entity Name": "Alpha Graphincs",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 5895",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "45856",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1500.0,
+            "Purpose": "Flyer opposing SD 12 Candidate",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
             "Date Paid": "10/30/18",
             "Entity Name": "Valley Bank of MT",
             "First Name": "",

@@ -23,5 +23,25 @@
         "cash_in_bank": 3549.0
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "11/13/18",
+            "Entity Name": "Arena Communications",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1780 W  Sequoia Vista Circle ",
+            "City": "Salt Lake City",
+            "State": "UT",
+            "Zip": "84104",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2236.0,
+            "Purpose": "Subject of mailer 'Economy'. Mailer creation & postage. Mailer in support of Ed Buttrey HD 21 (1629)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

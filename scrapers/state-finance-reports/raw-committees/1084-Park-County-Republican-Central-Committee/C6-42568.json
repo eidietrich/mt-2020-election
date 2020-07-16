@@ -1776,6 +1776,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/10/18",
+            "Entity Name": "Esp, John L",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Box 1024",
+            "City": "Big Timber",
+            "State": "MT",
+            "Zip": "59011",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 400.0,
+            "Purpose": "Campaign Donation",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "08/13/18",
+            "Entity Name": "Redfield, Alan",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "538 Mill Creek RD ",
+            "City": "Livingston",
+            "State": "MT",
+            "Zip": "59047",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 500.0,
+            "Purpose": "Campaign Contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

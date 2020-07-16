@@ -1,7 +1,7 @@
 {
     "slug": "5699-Planned-Parenthood-Advocates-of-Montana-PAC",
     "committeeName": "Planned Parenthood Advocates of Montana PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 6,
     "data": {
         "committeeId": 5699,
@@ -34,52 +34,42 @@
         ],
         "issues": [
             {
-                "interest": "Kristen Juras for Supreme  Court Justice",
-                "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Robert Saunders -HD 48",
                 "position": "Oppose",
                 "status": "On ballot, approved"
             },
             {
+                "interest": "Oppose anti-women's health candidates",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kari Boiter - HD 44",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mike Hopkins - HD 92",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dale Mortenson - HD 44",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Andrew Person - HD 96",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kristen Juras for Supreme  Court Justice",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Steve Bullock for Governor",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Dirk Sandefur for Supreme Court Justice",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Support pro-women's health candidates",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jessica Karjala - HD 48",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jimmy Patelis  - HD 52",
-                "position": "Oppose",
-                "status": "Support"
-            },
-            {
-                "interest": "Adam Rosendale - HD 51",
-                "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Chris Goodridge - HD 52",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Addrien Marx - HD 92",
                 "position": "Support",
                 "status": "Support"
             },
@@ -94,35 +84,58 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Adam Rosendale - HD 51",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Addrien Marx - HD 92",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jessica Karjala - HD 48",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dirk Sandefur for Supreme Court Justice",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support pro-women's health candidates",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jimmy Patelis  - HD 52",
+                "position": "Oppose",
+                "status": "Support"
+            },
+            {
                 "interest": "Greg Gianforte for Governor",
                 "position": "Oppose",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Dale Mortenson - HD 44",
-                "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kari Boiter - HD 44",
+                "interest": "Chris Goodridge - HD 52",
                 "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Andrew Person - HD 96",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Mike Hopkins - HD 92",
-                "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Oppose anti-women's health candidates",
-                "position": "Oppose",
-                "status": "Not Applicable"
+                "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 6,
+        "last_report_end_date": "01/30/2017",
+        "contributions": 497574.27,
+        "num_contributions": 145,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 793417.2,
+        "num_expenditures": 39,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 74663.03
     }
 }

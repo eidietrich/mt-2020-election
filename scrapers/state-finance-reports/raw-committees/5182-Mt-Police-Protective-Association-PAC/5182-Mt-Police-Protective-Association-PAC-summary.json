@@ -1,7 +1,7 @@
 {
     "slug": "5182-Mt-Police-Protective-Association-PAC",
     "committeeName": "Mt Police Protective Association PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 5182,
@@ -34,12 +34,17 @@
         ],
         "issues": [
             {
-                "interest": "Legislative Candidate John Bedford",
+                "interest": "Attorney General Tim Fox",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Attorney General Tim Fox",
+                "interest": "Legislative Candidates Margie MacDonald, Doc Moore, Steve Lavin, Kathy Swanson",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Legislative Candidate John Bedford",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -49,15 +54,23 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Legislative Candidates Margie MacDonald, Doc Moore, Steve Lavin, Kathy Swanson",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Legislative Candidate Jimmy Patelis",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "03/27/2016",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1360.0,
+        "num_expenditures": 8,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 390.2
     }
 }

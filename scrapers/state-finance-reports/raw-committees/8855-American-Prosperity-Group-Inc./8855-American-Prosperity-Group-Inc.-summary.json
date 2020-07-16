@@ -1,7 +1,7 @@
 {
     "slug": "8855-American-Prosperity-Group-Inc.",
     "committeeName": "American Prosperity Group, Inc.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 2,
     "data": {
         "committeeId": 8855,
@@ -39,5 +39,18 @@
                 "status": "Not on ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 2,
+        "last_report_end_date": "05/24/2020",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 43149.0,
+        "num_expenditures": 4,
+        "expenditures_19_20": 43149.0,
+        "num_expenditures_19_20": 4,
+        "cash_on_hand": -43149.0
     }
 }

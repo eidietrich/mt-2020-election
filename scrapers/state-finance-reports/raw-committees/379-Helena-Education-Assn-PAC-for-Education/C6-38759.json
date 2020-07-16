@@ -55,5 +55,25 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/05/16",
+            "Entity Name": "Romano Lehman, Melissa E",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "790 Wolf Rd",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59602",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2300.0,
+            "Purpose": "Money for campaign",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

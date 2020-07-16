@@ -148,5 +148,25 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/17/18",
+            "Entity Name": "Montana Farm Bureau Federation",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "502 S 19th Ave Ste 104",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59718",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 690.0,
+            "Purpose": "Ad Space in Spokesman Magazine",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

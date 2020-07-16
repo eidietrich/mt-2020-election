@@ -1,7 +1,7 @@
 {
     "slug": "2682-Build-Montana-PAC-(Affiliate-of-the-MT-AFL-CIO)",
     "committeeName": "Build Montana PAC (Affiliate of the MT AFL-CIO)",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 22,
     "data": {
         "committeeId": 2682,
@@ -34,22 +34,17 @@
         ],
         "issues": [
             {
+                "interest": "Re-elect Governor Bullock",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Lola Sheldon-Galloway for HD 22",
                 "position": "Oppose",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Oppose Initiative 181",
-                "position": "Other",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 60 - Laurie Bishop",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Re-elect Governor Bullock",
+                "interest": "Elect Jesse Laslovich",
                 "position": "Other",
                 "status": "Not Applicable"
             },
@@ -59,15 +54,33 @@
                 "status": "On ballot"
             },
             {
+                "interest": "Oppose Initiative 181",
+                "position": "Other",
+                "status": "On ballot"
+            },
+            {
                 "interest": "Elect Melissa Romano",
                 "position": "Other",
                 "status": "On ballot"
             },
             {
-                "interest": "Elect Jesse Laslovich",
-                "position": "Other",
-                "status": "Not Applicable"
+                "interest": "HD 60 - Laurie Bishop",
+                "position": "Support",
+                "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 22,
+        "last_report_end_date": "06/22/2018",
+        "contributions": 421624.17,
+        "num_contributions": 44,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 411632.47,
+        "num_expenditures": 91,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 468.94
     }
 }

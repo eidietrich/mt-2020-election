@@ -1,7 +1,7 @@
 {
     "slug": "7064-Mountain-Pacific-Quality-Health",
     "committeeName": "Mountain-Pacific Quality Health",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 7064,
@@ -39,5 +39,18 @@
                 "status": "Not on ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "04/20/2018",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1777.2,
+        "num_expenditures": 3,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -1777.2
     }
 }

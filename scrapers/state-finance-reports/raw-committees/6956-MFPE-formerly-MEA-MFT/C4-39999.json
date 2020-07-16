@@ -156,6 +156,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/15/17",
+            "Entity Name": "M&R Strategic Services Inc",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1901 L Street NW Suite 800",
+            "City": "Washington DC",
+            "State": "DC",
+            "Zip": "20036",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 10000.0,
+            "Purpose": "Support of Montana Tobacco Tax Exploration Committee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/31/17",
+            "Entity Name": "Montanans for Higher Education",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1461",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 20000.0,
+            "Purpose": "Support 6 Mill Levy",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "slug": "254-Flathead-County-Republican-Central-Committee",
     "committeeName": "Flathead County Republican Central Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 24,
     "data": {
         "committeeId": 254,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 24,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 289352.88,
+        "num_contributions": 1325,
+        "contributions_19_20": 82307.06,
+        "num_contributions_19_20": 304,
+        "expenditures": 245620.43,
+        "num_expenditures": 446,
+        "expenditures_19_20": 53187.83,
+        "num_expenditures_19_20": 112,
+        "cash_on_hand": 54776.16
     }
 }

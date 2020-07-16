@@ -1,7 +1,7 @@
 {
     "slug": "431-MPEA-Employees-Political-Informational-Committee",
     "committeeName": "MPEA Employees Political Informational Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 10,
     "data": {
         "committeeId": 431,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 10,
+        "last_report_end_date": "08/27/2016",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 0,
+        "num_expenditures": 0,
+        "expenditures_19_20": 0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 4875.76
     }
 }

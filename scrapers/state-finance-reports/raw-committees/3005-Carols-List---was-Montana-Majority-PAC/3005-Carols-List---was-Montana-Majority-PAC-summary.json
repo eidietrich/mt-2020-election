@@ -1,7 +1,7 @@
 {
     "slug": "3005-Carols-List---was-Montana-Majority-PAC",
     "committeeName": "Carols List - was Montana Majority PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 29,
     "data": {
         "committeeId": 3005,
@@ -34,59 +34,19 @@
         ],
         "issues": [
             {
+                "interest": "Mary Custer for HD 6",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "JoBeth Blair for House District 11",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Janet Ellis for SD 41",
                 "position": "Support",
                 "status": "Not Applicable"
-            },
-            {
-                "interest": "Blair Koch for HD 43",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Diane Magone for HD 14",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jasmine Krotkov for HD 25",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Laura Dever for HD 22",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jill Cohenour for SD 42",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kimberly Dudik; HD 94",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Albrecht for HD 64",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Anne Giuliano for HD 46",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Stansberry for HD 29",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Marilyn Marler for HD 90",
-                "position": "Support",
-                "status": "Support"
             },
             {
                 "interest": "Kristine Menucci for HD 67",
@@ -94,32 +54,7 @@
                 "status": "Support"
             },
             {
-                "interest": "Katie Sullivan for HD 89",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Catherine Scott for HD 80",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Mary Custer for HD 6",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Melton for Montana",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Catherine Scott for HD 80",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Marilyn Ryan for HD 99",
+                "interest": "Margaret Gorski for HD 88",
                 "position": "Support",
                 "status": "Support"
             },
@@ -127,16 +62,6 @@
                 "interest": "Eldena Bear Don't Walk for HD 93",
                 "position": "Support",
                 "status": "Not Applicable"
-            },
-            {
-                "interest": "Margaret Gorski for HD 88",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Kathy Kelker for HD 47",
-                "position": "Support",
-                "status": "Support"
             },
             {
                 "interest": "Barbara Bassett for HD 24",
@@ -149,12 +74,37 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Kathy Kelker for HD 47",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Blair Koch for HD 43",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
                 "interest": "Bryher Herak for HD 75",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Kwen Shirley for HD 4",
+                "interest": "Kimberly Dudik; HD 94",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Melton for Montana",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Stansberry for HD 29",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Mary Zeiss for SD 19",
                 "position": "Support",
                 "status": "Support"
             },
@@ -169,17 +119,17 @@
                 "status": "Support"
             },
             {
-                "interest": "Jennifer Allen for Senate District 5",
+                "interest": "Anne Giuliano for HD 46",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Mary Zeiss for SD 19",
+                "interest": "Kwen Shirley for HD 4",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "JoBeth Blair for House District 11",
+                "interest": "Catherine Scott for HD 80",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -187,7 +137,70 @@
                 "interest": "Scanlin for SD 29",
                 "position": "Support",
                 "status": "Support"
+            },
+            {
+                "interest": "Katie Sullivan for HD 89",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Marilyn Ryan for HD 99",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Diane Magone for HD 14",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jill Cohenour for SD 42",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Albrecht for HD 64",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jennifer Allen for Senate District 5",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jasmine Krotkov for HD 25",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Marilyn Marler for HD 90",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Catherine Scott for HD 80",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Laura Dever for HD 22",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 29,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 455266.25,
+        "num_contributions": 2627,
+        "contributions_19_20": 90801.86,
+        "num_contributions_19_20": 476,
+        "expenditures": 458893.89,
+        "num_expenditures": 962,
+        "expenditures_19_20": 105230.18,
+        "num_expenditures_19_20": 322,
+        "cash_on_hand": 23158.21
     }
 }

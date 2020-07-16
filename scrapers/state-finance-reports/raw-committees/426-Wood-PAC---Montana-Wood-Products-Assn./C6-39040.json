@@ -23,5 +23,44 @@
         "cash_in_bank": 3312.97
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "03/14/17",
+            "Entity Name": "Crowley/Fleck",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "900 North Last Chance Gulch",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 180.0,
+            "Purpose": "Legislator Reception",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "03/10/17",
+            "Entity Name": "Radisson Colonial Hotel Helena",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2301 Colonial Dr",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1500.0,
+            "Purpose": "Loggers, Lumberman and Legislators Reception",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

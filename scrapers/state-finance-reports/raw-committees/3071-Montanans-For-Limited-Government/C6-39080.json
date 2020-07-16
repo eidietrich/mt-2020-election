@@ -55,5 +55,44 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "04/28/17",
+            "Entity Name": "Kent, Edna",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1443",
+            "City": "Florence",
+            "State": "MT",
+            "Zip": "59833",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 500.0,
+            "Purpose": "Reimbursement for Facebook ads",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/01/17",
+            "Entity Name": "Kent, Edna",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1443",
+            "City": "Florence",
+            "State": "MT",
+            "Zip": "59833",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 441.0,
+            "Purpose": "Reimbursement for Facebook ads",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

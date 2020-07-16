@@ -23,5 +23,44 @@
         "cash_in_bank": -33147.22
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "09/20/16",
+            "Entity Name": "Beck, Amsden & Stalpes, PLLC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1946 Stadium Drive, Suite 1",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 12500.0,
+            "Purpose": "Contribution to Montana Law PAC",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/20/16",
+            "Entity Name": "Beck, Amsden & Stalpes, PLLC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1946 Stadium Drive, Suite 1",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 20000.0,
+            "Purpose": "Contribution to Montana Democratic Party IE",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

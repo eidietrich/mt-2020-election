@@ -1,7 +1,7 @@
 {
     "slug": "1898-Coal-Pac",
     "committeeName": "Coal Pac",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 22,
     "data": {
         "committeeId": 1898,
@@ -34,22 +34,17 @@
         ],
         "issues": [
             {
-                "interest": "Ed Buttrey for HD 21",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Ross Fitzgerald for HD 17",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Joel Krautter for HD 35",
+                "interest": "Mike Hopkins for HD 92",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Tom Richmond for SD 28",
+                "interest": "Dan Salomon for SD 47",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -59,7 +54,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Mike Hopkins for HD 92",
+                "interest": "Bruce Grubbs for HD68",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -74,17 +69,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Bruce Tutvedt for HD6",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Brad Hamlett HD 23",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Geri Custer for HD 39",
+                "interest": "Becky Beard for HD 80",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -94,32 +79,12 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Bruce Grubbs for HD68",
+                "interest": "Tom Richmond for SD 28",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Becky Beard for HD 80",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Dan Salomon for SD 47",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jason Small for SD 21",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Julie Dooling for HD 70",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Steve Daines for U.S.Senate",
+                "interest": "Joel Krautter for HD 35",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -134,10 +99,58 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Geri Custer for HD 39",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Nancy Ballance for SD 44",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Julie Dooling for HD 70",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jason Small for SD 21",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steve Daines for U.S.Senate",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ed Buttrey for HD 21",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bruce Tutvedt for HD6",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Brad Hamlett HD 23",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 22,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 36282.5,
+        "num_contributions": 114,
+        "contributions_19_20": 12092.5,
+        "num_contributions_19_20": 31,
+        "expenditures": 30911.74,
+        "num_expenditures": 77,
+        "expenditures_19_20": 7407.69,
+        "num_expenditures_19_20": 25,
+        "cash_on_hand": 6424.21
     }
 }

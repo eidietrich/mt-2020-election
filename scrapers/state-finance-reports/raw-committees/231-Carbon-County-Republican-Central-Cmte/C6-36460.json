@@ -93,6 +93,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "06/21/16",
+            "Entity Name": "Monforton, Matthew G",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "32 Kelly Ct",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59718",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 500.0,
+            "Purpose": "Donation for work on Closed primary",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

@@ -23,5 +23,25 @@
         "cash_in_bank": 9720.39
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "06/04/20",
+            "Entity Name": "Arena Mail + Digital",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "170 South Main Street, 2nd Floor",
+            "City": "Salt Lake City",
+            "State": "UT",
+            "Zip": "84101",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1030.0,
+            "Purpose": "Digital Advertising",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Google",
+            "Expenditure Paid Communications Quantity": "duration 5/15/2020 - 6/2/2020",
+            "Expenditure Paid Communications Subject Matter": "Gillette for HD 64"
+        }
+    ]
 }

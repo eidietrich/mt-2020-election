@@ -117,5 +117,63 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "06/25/18",
+            "Entity Name": "David Binder Research LLC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "44 Page Street Suite 404",
+            "City": "San Francisco",
+            "State": "CA",
+            "Zip": "94102",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 27000.0,
+            "Purpose": "MT Polling services",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "06/14/18",
+            "Entity Name": "Great Harvest Bread Company",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1133 Helena Ave.",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 51.35,
+            "Purpose": "lunch for IC committee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "06/25/18",
+            "Entity Name": "Taylor Luther Group, PLLC ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 4182",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59604",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 10000.0,
+            "Purpose": "Legal Expenses",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

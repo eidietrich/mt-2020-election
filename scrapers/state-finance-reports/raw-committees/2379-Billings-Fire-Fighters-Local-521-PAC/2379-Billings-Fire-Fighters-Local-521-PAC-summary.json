@@ -1,7 +1,7 @@
 {
     "slug": "2379-Billings-Fire-Fighters-Local-521-PAC",
     "committeeName": "Billings Fire Fighters Local 521 PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 19,
     "data": {
         "committeeId": 2379,
@@ -34,47 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Margie MacDonald for Senate District 26",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Jessica Karjala for HD 48",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Denise Juneau for U.S. House of Representatives",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Monica Lindeen Secretary Of State",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Chris Goodridge - HD 52",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Steve Bullock - Governor",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Elizabeth Pincolini for HD43",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Greg Gianforte for Governor",
-                "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kari Boiter - HD 44",
+                "interest": "Kelly McCarthy for HD 49",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -84,7 +44,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jesse Laslovich \u2013 Auditor race",
+                "interest": "Steve Bullock - Governor",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -94,7 +54,17 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Kelly McCarthy for HD 49",
+                "interest": "Monica Lindeen Secretary Of State",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Margie MacDonald for Senate District 26",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Kari Boiter - HD 44",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -104,10 +74,53 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Jesse Laslovich \u2013 Auditor race",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Elizabeth Pincolini for HD43",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Denise Juneau for U.S. House of Representatives",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Shoots Veis for HD 51",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Jessica Karjala for HD 48",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Chris Goodridge - HD 52",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Greg Gianforte for Governor",
+                "position": "Oppose",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 19,
+        "last_report_end_date": "06/28/2020",
+        "contributions": 14775.5,
+        "num_contributions": 33,
+        "contributions_19_20": 2186.88,
+        "num_contributions_19_20": 6,
+        "expenditures": 15784.41,
+        "num_expenditures": 41,
+        "expenditures_19_20": 1432.13,
+        "num_expenditures_19_20": 8,
+        "cash_on_hand": 11015.81
     }
 }

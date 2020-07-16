@@ -1,7 +1,7 @@
 {
     "slug": "5649-Forward-Montana",
     "committeeName": "Forward Montana",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 5,
     "data": {
         "committeeId": 5649,
@@ -44,5 +44,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 5,
+        "last_report_end_date": "11/28/2016",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 12045.48,
+        "num_expenditures": 61,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -4451.98
     }
 }

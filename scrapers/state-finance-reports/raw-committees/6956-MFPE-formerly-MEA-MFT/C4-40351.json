@@ -93,6 +93,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/09/18",
+            "Entity Name": "KIDS EDUCATION YES",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "511 13TH AVE SOUTH",
+            "City": "GREAT FALLS",
+            "State": "MT",
+            "Zip": "59403",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1000.0,
+            "Purpose": "Support Kids Education in Great Falls",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/10/18",
+            "Entity Name": "Yes for Fire Safety ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Box 463",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 500.0,
+            "Purpose": "Support Helena Fire Levy",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

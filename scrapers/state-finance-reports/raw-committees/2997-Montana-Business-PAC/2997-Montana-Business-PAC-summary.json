@@ -1,7 +1,7 @@
 {
     "slug": "2997-Montana-Business-PAC",
     "committeeName": "Montana Business PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 24,
     "data": {
         "committeeId": 2997,
@@ -34,15 +34,28 @@
         ],
         "issues": [
             {
-                "interest": "Connell-SD43, Garner-HD7, Buttrey-HD21, Loge-HD14, Grubbs-HD68, Fitzgerald-HD17, and McKamey-HD19 for state legislature",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Contribute to the Montana Chamber of Commerce's Montana Business PAC to support pro-business candidates",
                 "position": "Support",
                 "status": "On ballot, approved"
+            },
+            {
+                "interest": "Connell-SD43, Garner-HD7, Buttrey-HD21, Loge-HD14, Grubbs-HD68, Fitzgerald-HD17, and McKamey-HD19 for state legislature",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 24,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 153567.72,
+        "num_contributions": 27,
+        "contributions_19_20": 78465.72,
+        "num_contributions_19_20": 10,
+        "expenditures": 138225.07,
+        "num_expenditures": 10,
+        "expenditures_19_20": 70000.0,
+        "num_expenditures_19_20": 4,
+        "cash_on_hand": 15295.53
     }
 }

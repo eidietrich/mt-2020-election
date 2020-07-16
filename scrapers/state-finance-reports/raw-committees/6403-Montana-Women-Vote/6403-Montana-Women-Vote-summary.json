@@ -1,7 +1,7 @@
 {
     "slug": "6403-Montana-Women-Vote",
     "committeeName": "Montana Women Vote ",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 14,
     "data": {
         "committeeId": 6403,
@@ -34,15 +34,28 @@
         ],
         "issues": [
             {
-                "interest": "I-183",
-                "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "I-185",
                 "position": "Support",
                 "status": "On ballot"
+            },
+            {
+                "interest": "I-183",
+                "position": "Oppose",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 14,
+        "last_report_end_date": "11/19/2018",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 36552.75,
+        "num_expenditures": 60,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -36552.75
     }
 }

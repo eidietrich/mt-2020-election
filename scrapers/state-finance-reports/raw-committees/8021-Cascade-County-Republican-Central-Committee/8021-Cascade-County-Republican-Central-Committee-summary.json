@@ -1,7 +1,7 @@
 {
     "slug": "8021-Cascade-County-Republican-Central-Committee",
     "committeeName": "Cascade County Republican Central Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 6,
     "data": {
         "committeeId": 8021,
@@ -34,7 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Anderson, Fred",
+                "interest": "Fitzpatrick, Steve",
                 "position": "Support",
                 "status": "Support"
             },
@@ -44,12 +44,7 @@
                 "status": "Support"
             },
             {
-                "interest": "McKamey, Wendy",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Fox, Tim",
+                "interest": "Sheldon-Galloway, Lola",
                 "position": "Support",
                 "status": "Support"
             },
@@ -59,37 +54,17 @@
                 "status": "Support"
             },
             {
-                "interest": "Downing, Troy",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Trump-Pence",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Olszewski, Al",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Bennion, Jon",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
                 "interest": "Daines, Steve",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Knudsen, Austin",
+                "interest": "Anderson, Fred",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Sheldon-Galloway, Lola",
+                "interest": "Trump-Pence",
                 "position": "Support",
                 "status": "Support"
             },
@@ -104,15 +79,53 @@
                 "status": "Support"
             },
             {
+                "interest": "Olszewski, Al",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "McKamey, Wendy",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Knudsen, Austin",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Bennion, Jon",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
                 "interest": "Buttrey, Ed",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Fitzpatrick, Steve",
+                "interest": "Downing, Troy",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Fox, Tim",
                 "position": "Support",
                 "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 6,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 13895.93,
+        "num_contributions": 16,
+        "contributions_19_20": 13895.93,
+        "num_contributions_19_20": 16,
+        "expenditures": 9785.39,
+        "num_expenditures": 31,
+        "expenditures_19_20": 9785.39,
+        "num_expenditures_19_20": 31,
+        "cash_on_hand": 7472.64
     }
 }

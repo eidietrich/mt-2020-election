@@ -55,5 +55,82 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "04/07/20",
+            "Entity Name": "McKinlay, Diana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "56 Wineglass Loop South",
+            "City": "Livingston",
+            "State": "MT",
+            "Zip": "59047",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 420.0,
+            "Purpose": "Reimbursement for annual rental of storage unit from April 2020 to March 2021",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/24/20",
+            "Entity Name": "Thomas, Annie",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "532 E Boulder Rd",
+            "City": "McLeod",
+            "State": "MT",
+            "Zip": "59052",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 208.16,
+            "Purpose": "reimbursement - annual PCDCC website fee paid to GoDaddy",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/07/20",
+            "Entity Name": "US Postal Service",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "306 S 5th",
+            "City": "Livingston",
+            "State": "MT",
+            "Zip": "59047",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 106.0,
+            "Purpose": "Annual rental for post office box 05/01/2020 - 4/30/2021",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/13/20",
+            "Entity Name": "Woods, Tom",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 443",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59771",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 500.0,
+            "Purpose": "Contribution to Tom Woods to further his efforts to be elected to the Public Service Commission ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

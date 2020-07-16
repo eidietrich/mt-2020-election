@@ -23,5 +23,25 @@
         "cash_in_bank": 1296.08
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "08/17/16",
+            "Entity Name": "Sales , Walt ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "3400 Stagecoach Trail",
+            "City": "Manhattan",
+            "State": "MT",
+            "Zip": "59741",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 100.0,
+            "Purpose": "Campaign Contribution House District 69",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

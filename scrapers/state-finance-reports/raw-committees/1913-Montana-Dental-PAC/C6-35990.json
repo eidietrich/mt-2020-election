@@ -23,5 +23,25 @@
         "cash_in_bank": 22947.0
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "06/01/16",
+            "Entity Name": "Alegra",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "300 5th Avenue South",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59401",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 254.48,
+            "Purpose": "Printing",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

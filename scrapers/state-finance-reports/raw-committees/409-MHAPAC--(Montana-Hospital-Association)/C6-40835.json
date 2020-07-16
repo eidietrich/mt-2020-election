@@ -1698,5 +1698,25 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/01/18",
+            "Entity Name": "JOBS PAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "",
+            "City": "",
+            "State": "",
+            "Zip": "",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 15000.0,
+            "Purpose": "Independent expenditure to support Pat Connell, Frank Garner, Denley Loge, Ross Fitgerald, Wendy McKamey, Ed Buttrey, Bruce Grubbs campaing",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

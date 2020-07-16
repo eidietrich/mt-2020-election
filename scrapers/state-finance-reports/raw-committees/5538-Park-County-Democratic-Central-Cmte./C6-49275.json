@@ -551,5 +551,25 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "06/19/20",
+            "Entity Name": "Dargis, Ruth K",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "117-1/2 N F St",
+            "City": "Livingston",
+            "State": "MT",
+            "Zip": "59047",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 159.84,
+            "Purpose": "reimburse postage and copying for office rental fundraising letter",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

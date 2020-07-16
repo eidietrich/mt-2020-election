@@ -1,7 +1,7 @@
 {
     "slug": "6910-Great-Falls-Education-Association",
     "committeeName": "Great Falls Education Association",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 6910,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "12/31/2017",
+        "contributions": -1282.8,
+        "num_contributions": 2,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 0,
+        "num_expenditures": 0,
+        "expenditures_19_20": 0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 2577.6
     }
 }

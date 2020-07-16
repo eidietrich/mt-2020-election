@@ -644,5 +644,82 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "04/12/17",
+            "Entity Name": "Allegra",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "39 S. Tracy ave.",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 566.5,
+            "Purpose": "1000 Tri-Fold Brochures",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "03/31/17",
+            "Entity Name": "Executive Services",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "221 E Mendenhall",
+            "City": "bozeman",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 6040.0,
+            "Purpose": "700 yard signs and posts",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/13/17",
+            "Entity Name": "Executive Services",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "221 E Mendenhall",
+            "City": "bozeman",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 4593.54,
+            "Purpose": "9,526 - 6x9 postcards, printed and mailed",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/12/17",
+            "Entity Name": "Plazby LLC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "796 Stonegate Drive",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 3050.0,
+            "Purpose": "TV Advertising, 402 cable spots; between 4/13/17-5/1/17 Promoting the bond and levies",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

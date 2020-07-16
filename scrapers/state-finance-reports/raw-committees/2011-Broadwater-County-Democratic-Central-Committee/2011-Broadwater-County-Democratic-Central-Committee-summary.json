@@ -1,7 +1,7 @@
 {
     "slug": "2011-Broadwater-County-Democratic-Central-Committee",
     "committeeName": "Broadwater County Democratic Central Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 17,
     "data": {
         "committeeId": 2011,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 17,
+        "last_report_end_date": "06/25/2020",
+        "contributions": -6477.6,
+        "num_contributions": 43,
+        "contributions_19_20": -1022.0,
+        "num_contributions_19_20": 7,
+        "expenditures": 9720.53,
+        "num_expenditures": 45,
+        "expenditures_19_20": 1613.37,
+        "num_expenditures_19_20": 12,
+        "cash_on_hand": 2887.82
     }
 }

@@ -1,7 +1,7 @@
 {
     "slug": "6341-McKeon-Law-of-Butte",
     "committeeName": "McKeon Law of Butte",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 14,
     "data": {
         "committeeId": 6341,
@@ -44,5 +44,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 14,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 624.0,
+        "num_contributions": 1,
+        "contributions_19_20": 624.0,
+        "num_contributions_19_20": 1,
+        "expenditures": 8200.0,
+        "num_expenditures": 5,
+        "expenditures_19_20": 4200.0,
+        "num_expenditures_19_20": 3,
+        "cash_on_hand": -7576.0
     }
 }

@@ -365,5 +365,44 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/25/20",
+            "Entity Name": "The Dover Group",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "823 N 25Th Street",
+            "City": "Philadelphia",
+            "State": "PA",
+            "Zip": "19130",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 11765.0,
+            "Purpose": "Design and Online Display Advertising 5/27-6/2",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Online",
+            "Expenditure Paid Communications Quantity": "Design and Online Display Advertising 5/27-6/2",
+            "Expenditure Paid Communications Subject Matter": "Raph Graybill for Montana Attorney General"
+        },
+        {
+            "Date Paid": "05/13/20",
+            "Entity Name": "The Dover Group",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "823 N 25th St",
+            "City": "Philadelphia",
+            "State": "PA",
+            "Zip": "19130",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 5008.0,
+            "Purpose": "Design Online Display Advertising 5/13-6/3",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Online",
+            "Expenditure Paid Communications Quantity": "Design Online Display Advertising 5/13-6/3",
+            "Expenditure Paid Communications Subject Matter": "Raph Graybill for Montana Attorney General"
+        }
+    ]
 }

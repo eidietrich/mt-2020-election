@@ -1,7 +1,7 @@
 {
     "slug": "229-Burros-Club-of-Butte",
     "committeeName": "Burros Club of Butte",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 9,
     "data": {
         "committeeId": 229,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 9,
+        "last_report_end_date": "12/31/2016",
+        "contributions": -5405.0,
+        "num_contributions": 157,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 11638.18,
+        "num_expenditures": 32,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 954.61
     }
 }

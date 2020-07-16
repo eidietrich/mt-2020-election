@@ -23,5 +23,63 @@
         "cash_in_bank": 1462.79
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/31/16",
+            "Entity Name": "Montana Democratic Campaign Committee",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P O Box 802",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 100.0,
+            "Purpose": "Contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/31/16",
+            "Entity Name": "Montana Republican Legislative Campaign Committee",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 6856",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59604",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 200.0,
+            "Purpose": "Contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/31/16",
+            "Entity Name": "Pierson, Gordon E.",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "603 Washington",
+            "City": "Deer Lodge",
+            "State": "MT",
+            "Zip": "59722",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 100.0,
+            "Purpose": "Contribution ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

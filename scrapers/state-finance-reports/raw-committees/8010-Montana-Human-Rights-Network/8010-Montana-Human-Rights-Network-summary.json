@@ -1,7 +1,7 @@
 {
     "slug": "8010-Montana-Human-Rights-Network",
     "committeeName": "Montana Human Rights Network",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 4,
     "data": {
         "committeeId": 8010,
@@ -39,5 +39,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 4,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 3372.7,
+        "num_expenditures": 17,
+        "expenditures_19_20": 3372.7,
+        "num_expenditures_19_20": 17,
+        "cash_on_hand": -3372.7
     }
 }

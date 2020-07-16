@@ -23,5 +23,44 @@
         "cash_in_bank": -51419.84
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/01/18",
+            "Entity Name": "Element L Design",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2675 Cody Drive",
+            "City": "East Helena",
+            "State": "MT",
+            "Zip": "59635",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1344.84,
+            "Purpose": "purchased yard signs in support of ballot initiative to increase tobacco taxes to support health care programs.",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/01/18",
+            "Entity Name": "St Luke Community Healthcare",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "107 6TH AVE SW",
+            "City": "Ronan",
+            "State": "MT",
+            "Zip": "59864",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 75.0,
+            "Purpose": "In Kind Expenditures",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

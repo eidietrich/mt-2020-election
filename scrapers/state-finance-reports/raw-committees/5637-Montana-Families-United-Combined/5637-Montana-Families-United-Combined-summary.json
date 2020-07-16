@@ -1,7 +1,7 @@
 {
     "slug": "5637-Montana-Families-United-Combined",
     "committeeName": "Montana Families United Combined",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 5637,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "06/06/2016",
+        "contributions": 39284.75,
+        "num_contributions": 29,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 82604.24,
+        "num_expenditures": 54,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 7712.63
     }
 }

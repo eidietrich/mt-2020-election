@@ -1,7 +1,7 @@
 {
     "slug": "7183-Montana-Conservation-Voters-Action-Fund",
     "committeeName": "Montana Conservation Voters Action Fund",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 2,
     "data": {
         "committeeId": 7183,
@@ -34,16 +34,6 @@
         ],
         "issues": [
             {
-                "interest": "Egan Slough Initiative ",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "I-186",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "LR-129",
                 "position": "Oppose",
                 "status": "On ballot"
@@ -52,7 +42,30 @@
                 "interest": "Gallatin County Open Lands Levy",
                 "position": "Support",
                 "status": "On ballot"
+            },
+            {
+                "interest": "Egan Slough Initiative ",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "I-186",
+                "position": "Support",
+                "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 2,
+        "last_report_end_date": "06/29/2018",
+        "contributions": 6000.0,
+        "num_contributions": 1,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 8986.22,
+        "num_expenditures": 3,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -2986.22
     }
 }

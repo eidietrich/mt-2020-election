@@ -1,7 +1,7 @@
 {
     "slug": "7281-Lake-County-Republican-Women",
     "committeeName": "Lake County Republican Women",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 7281,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "04/26/2018",
+        "contributions": -3189.34,
+        "num_contributions": 3,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 150.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 3129.34
     }
 }

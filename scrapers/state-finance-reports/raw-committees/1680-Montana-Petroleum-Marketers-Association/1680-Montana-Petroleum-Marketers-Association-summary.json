@@ -1,7 +1,7 @@
 {
     "slug": "1680-Montana-Petroleum-Marketers-Association",
     "committeeName": "Montana Petroleum Marketers Association",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 9,
     "data": {
         "committeeId": 1680,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 9,
+        "last_report_end_date": "05/29/2020",
+        "contributions": 4660.0,
+        "num_contributions": 25,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 11710.0,
+        "num_expenditures": 16,
+        "expenditures_19_20": 8700.0,
+        "num_expenditures_19_20": 2,
+        "cash_on_hand": 4206.79
     }
 }

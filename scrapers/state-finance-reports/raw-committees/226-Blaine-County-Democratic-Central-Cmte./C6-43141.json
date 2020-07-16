@@ -55,5 +55,63 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "08/12/18",
+            "Entity Name": "Colby, John D",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 236",
+            "City": "Chinook",
+            "State": "MT",
+            "Zip": "59523",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 150.0,
+            "Purpose": "Donation to campaign for Blaine County Sheriff",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "08/12/18",
+            "Entity Name": "Hansen, Kim",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Box 686",
+            "City": "Harlem",
+            "State": "MT",
+            "Zip": "59526",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 150.0,
+            "Purpose": "Donation to campaign for county commissioner",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "08/12/18",
+            "Entity Name": "Kaercher, Doug A",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1707",
+            "City": "Havre",
+            "State": "MT",
+            "Zip": "59501",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 250.0,
+            "Purpose": "Donation to campaign for PSC",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "slug": "8324-Coffee-PAC-(TEST)",
     "committeeName": "Coffee PAC (TEST)",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 2,
     "data": {
         "committeeId": 8324,
@@ -39,5 +39,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 2,
+        "last_report_end_date": "04/25/2020",
+        "contributions": 1800.0,
+        "num_contributions": 5,
+        "contributions_19_20": 1800.0,
+        "num_contributions_19_20": 5,
+        "expenditures": 2455.0,
+        "num_expenditures": 5,
+        "expenditures_19_20": 2455.0,
+        "num_expenditures_19_20": 5,
+        "cash_on_hand": -755.0
     }
 }

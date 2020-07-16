@@ -1,7 +1,7 @@
 {
     "slug": "3347-Trial-Lawyers-Legislative-PAC",
     "committeeName": "Trial Lawyers Legislative PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 29,
     "data": {
         "committeeId": 3347,
@@ -34,14 +34,14 @@
         ],
         "issues": [
             {
-                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "LR-128 6 Mill Levy",
                 "position": "Support",
                 "status": "Support"
+            },
+            {
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
+                "position": "Support",
+                "status": "Not Applicable"
             },
             {
                 "interest": "Juli Pierce - MT 13th Jud. Dist., Dept #8",
@@ -54,5 +54,18 @@
                 "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 29,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 620.5,
+        "num_contributions": 26,
+        "contributions_19_20": 62.81,
+        "num_contributions_19_20": 3,
+        "expenditures": 250.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 250.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": 208.71
     }
 }

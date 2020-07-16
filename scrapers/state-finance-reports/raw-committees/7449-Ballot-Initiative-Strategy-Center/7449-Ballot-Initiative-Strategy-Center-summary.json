@@ -1,7 +1,7 @@
 {
     "slug": "7449-Ballot-Initiative-Strategy-Center",
     "committeeName": "Ballot Initiative Strategy Center",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 6,
     "data": {
         "committeeId": 7449,
@@ -34,6 +34,11 @@
         ],
         "issues": [
             {
+                "interest": "Anti-Trans Bathroom Bill",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
                 "interest": "6 Million Levy",
                 "position": "Support",
                 "status": "On ballot"
@@ -42,12 +47,20 @@
                 "interest": "Revenue",
                 "position": "Support",
                 "status": "Not Applicable"
-            },
-            {
-                "interest": "Anti-Trans Bathroom Bill",
-                "position": "Oppose",
-                "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 6,
+        "last_report_end_date": "11/26/2018",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 3148.43,
+        "num_expenditures": 28,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -3148.43
     }
 }

@@ -1,7 +1,7 @@
 {
     "slug": "286-Lewis-&-Clark-County-Republican-Women",
     "committeeName": "Lewis & Clark County Republican Women",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 23,
     "data": {
         "committeeId": 286,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 23,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 28177.62,
+        "num_contributions": 430,
+        "contributions_19_20": 24087.5,
+        "num_contributions_19_20": 233,
+        "expenditures": 53606.65,
+        "num_expenditures": 211,
+        "expenditures_19_20": 23346.75,
+        "num_expenditures_19_20": 77,
+        "cash_on_hand": 36287.68
     }
 }

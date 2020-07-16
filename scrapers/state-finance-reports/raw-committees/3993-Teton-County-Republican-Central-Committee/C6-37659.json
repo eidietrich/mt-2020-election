@@ -23,5 +23,25 @@
         "cash_in_bank": 15597.74
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/06/16",
+            "Entity Name": "Choteau Acantha",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 320",
+            "City": "Choteau",
+            "State": "MT",
+            "Zip": "59422",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 13.2,
+            "Purpose": "THANK YOU AD",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

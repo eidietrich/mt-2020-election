@@ -1,7 +1,7 @@
 {
     "slug": "1084-Park-County-Republican-Central-Committee",
     "committeeName": "Park County Republican Central Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 19,
     "data": {
         "committeeId": 1084,
@@ -34,39 +34,19 @@
         ],
         "issues": [
             {
-                "interest": "I-186: Requirements for Permits and Reclamation Plans of New Hard Rock Mines Initiative",
-                "position": "Oppose",
-                "status": "On ballot, approved"
+                "interest": "DAN SKATTUM",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "John Esp for Senate",
+                "position": "Support",
+                "status": "On ballot"
             },
             {
                 "interest": "Alan Redfield for HD 59",
                 "position": "Support",
                 "status": "Not Applicable"
-            },
-            {
-                "interest": "Matt Rosendale for U.S. Senate",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "LR 128",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "LR-129",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "GREG GIANFORTE FOR US HOUSE REPRESENTATIVE",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "I 185",
-                "position": "Oppose",
-                "status": "On ballot"
             },
             {
                 "interest": "I 185",
@@ -79,15 +59,48 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "John Esp for Senate",
+                "interest": "I-186: Requirements for Permits and Reclamation Plans of New Hard Rock Mines Initiative",
+                "position": "Oppose",
+                "status": "On ballot, approved"
+            },
+            {
+                "interest": "GREG GIANFORTE FOR US HOUSE REPRESENTATIVE",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "LR-129",
                 "position": "Support",
                 "status": "On ballot"
             },
             {
-                "interest": "DAN SKATTUM",
+                "interest": "LR 128",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Matt Rosendale for U.S. Senate",
                 "position": "Support",
-                "status": "Support"
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "I 185",
+                "position": "Oppose",
+                "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 19,
+        "last_report_end_date": "05/28/2020",
+        "contributions": 52219.59,
+        "num_contributions": 611,
+        "contributions_19_20": 10140.0,
+        "num_contributions_19_20": 75,
+        "expenditures": 53317.7,
+        "num_expenditures": 180,
+        "expenditures_19_20": 8266.71,
+        "num_expenditures_19_20": 32,
+        "cash_on_hand": 7930.2
     }
 }

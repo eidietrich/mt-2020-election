@@ -1,7 +1,7 @@
 {
     "slug": "5766-NEA-Advocacy-Fund",
     "committeeName": "NEA Advocacy Fund",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 4,
     "data": {
         "committeeId": 5766,
@@ -34,12 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Steve Bullock for Governor",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Dirk Sandefur for State Supreme Court",
+                "interest": "Jesse Laslovich for State Auditor",
                 "position": "Support",
                 "status": "Support"
             },
@@ -49,12 +44,17 @@
                 "status": "Support"
             },
             {
-                "interest": "Jim Shea for State Supreme Count",
+                "interest": "Tim Fox for Attorney General",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Tim Fox for Attorney General",
+                "interest": "Dirk Sandefur for State Supreme Court",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jim Shea for State Supreme Count",
                 "position": "Support",
                 "status": "Support"
             },
@@ -69,7 +69,7 @@
                 "status": "Support"
             },
             {
-                "interest": "Jesse Laslovich for State Auditor",
+                "interest": "Steve Bullock for Governor",
                 "position": "Support",
                 "status": "Support"
             },
@@ -79,5 +79,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 4,
+        "last_report_end_date": "11/23/2016",
+        "contributions": 228226.93,
+        "num_contributions": 3,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 228226.93,
+        "num_expenditures": 23,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

@@ -88,6 +88,25 @@
     ],
     "expenditures": [
         {
+            "Date Paid": "04/24/20",
+            "Entity Name": "Video Express Productions, Inc.",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 5389",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59604",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 517.5,
+            "Purpose": "Production of videos featuring select legislators from the 2019 Session",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Youtube",
+            "Expenditure Paid Communications Quantity": "Six 2-3 minute videos",
+            "Expenditure Paid Communications Subject Matter": "Responses to questions about what makes a good business climate"
+        },
+        {
             "Date Paid": "04/16/20",
             "Entity Name": "Jobs for Montana PAC",
             "First Name": "",

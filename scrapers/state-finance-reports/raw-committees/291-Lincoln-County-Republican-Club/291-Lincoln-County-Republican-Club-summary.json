@@ -1,7 +1,7 @@
 {
     "slug": "291-Lincoln-County-Republican-Club",
     "committeeName": "Lincoln County Republican Club",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 22,
     "data": {
         "committeeId": 291,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 22,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 3646.43,
+        "num_contributions": 182,
+        "contributions_19_20": 1380.33,
+        "num_contributions_19_20": 99,
+        "expenditures": 7709.5,
+        "num_expenditures": 103,
+        "expenditures_19_20": 1192.63,
+        "num_expenditures_19_20": 13,
+        "cash_on_hand": 1634.77
     }
 }

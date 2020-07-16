@@ -1,7 +1,7 @@
 {
     "slug": "239-Custer-County-Democratic-Central-Cmte.",
     "committeeName": "Custer County Democratic Central Cmte.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 20,
     "data": {
         "committeeId": 239,
@@ -39,5 +39,18 @@
                 "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 20,
+        "last_report_end_date": "05/31/2020",
+        "contributions": 7401.25,
+        "num_contributions": 82,
+        "contributions_19_20": 976.64,
+        "num_contributions_19_20": 21,
+        "expenditures": 10502.96,
+        "num_expenditures": 42,
+        "expenditures_19_20": 420.0,
+        "num_expenditures_19_20": 6,
+        "cash_on_hand": 2246.27
     }
 }

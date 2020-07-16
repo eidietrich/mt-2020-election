@@ -23,5 +23,44 @@
         "cash_in_bank": -539.71
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/27/16",
+            "Entity Name": "Bozeman Daily Chronicle",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1190",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 340.0,
+            "Purpose": "printing for newsletter which contained electioneering statements",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/14/16",
+            "Entity Name": "Chadwick, David",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "221 12th Ave",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 92.31,
+            "Purpose": "Staff time for opinion column drafting",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

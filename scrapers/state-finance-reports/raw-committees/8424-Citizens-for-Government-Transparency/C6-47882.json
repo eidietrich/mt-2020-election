@@ -136,6 +136,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/20/20",
+            "Entity Name": "Lamar",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "7505 Entryway Dr",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 9700.0,
+            "Purpose": "Billboards",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Billboards",
+            "Expenditure Paid Communications Quantity": "12 boards to be from April 24, 2020 to June 3, 2020",
+            "Expenditure Paid Communications Subject Matter": "Nelly for State Auditor"
         }
     ]
 }

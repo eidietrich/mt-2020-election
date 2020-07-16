@@ -1,7 +1,7 @@
 {
     "slug": "398-MONCAR-Montana-Automobile-Dealers-PAC",
     "committeeName": "MONCAR Montana Automobile Dealers PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 22,
     "data": {
         "committeeId": 398,
@@ -49,5 +49,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 22,
+        "last_report_end_date": "05/25/2020",
+        "contributions": 23200.0,
+        "num_contributions": 109,
+        "contributions_19_20": 13750.0,
+        "num_contributions_19_20": 55,
+        "expenditures": 18950.0,
+        "num_expenditures": 25,
+        "expenditures_19_20": 7540.0,
+        "num_expenditures_19_20": 6,
+        "cash_on_hand": 6952.44
     }
 }

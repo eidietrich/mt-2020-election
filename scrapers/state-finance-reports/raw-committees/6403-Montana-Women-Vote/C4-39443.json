@@ -23,5 +23,63 @@
         "cash_in_bank": -2224.05
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "09/29/17",
+            "Entity Name": "Howell, Sarah",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "725 W. Alder St., Ste. 21",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59802",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1026.0,
+            "Purpose": "Staff Time and Payroll Expenses",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/29/17",
+            "Entity Name": "Nielsen, Micah",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "725 W. Alder St., Ste. 21",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59802",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 949.05,
+            "Purpose": "Staff Time and Payroll Expenses",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/26/17",
+            "Entity Name": "WordPress",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "60 29th St #343",
+            "City": "San Francisco",
+            "State": "CA",
+            "Zip": "94110",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 249.0,
+            "Purpose": "Website Design and Hosting",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

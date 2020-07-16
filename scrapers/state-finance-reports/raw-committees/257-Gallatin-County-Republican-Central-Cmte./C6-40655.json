@@ -2124,6 +2124,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/02/18",
+            "Entity Name": "Bozeman Daily Chronicle",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2820 W. College Street",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59718",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1166.56,
+            "Purpose": "2 ads in Bozeman Chronicle & 2 ads in Belgrade News supporting candidates in primary elections (see addendum)",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

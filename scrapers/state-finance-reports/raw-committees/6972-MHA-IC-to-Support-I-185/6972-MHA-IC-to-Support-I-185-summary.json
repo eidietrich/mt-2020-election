@@ -1,7 +1,7 @@
 {
     "slug": "6972-MHA-IC-to-Support-I-185",
     "committeeName": "MHA IC to Support I-185",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 11,
     "data": {
         "committeeId": 6972,
@@ -39,5 +39,18 @@
                 "status": "Not on ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 11,
+        "last_report_end_date": "11/21/2018",
+        "contributions": 6031903.78,
+        "num_contributions": 65,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 7173050.95,
+        "num_expenditures": 48,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -419450.95
     }
 }

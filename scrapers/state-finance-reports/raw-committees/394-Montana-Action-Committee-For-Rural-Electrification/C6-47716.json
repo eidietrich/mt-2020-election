@@ -23,5 +23,44 @@
         "cash_in_bank": 137882.54
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "04/02/20",
+            "Entity Name": "Kopp, Thomas A",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2501 Central Ave",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59401",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 375.0,
+            "Purpose": "Accounting and reporting",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/20/20",
+            "Entity Name": "Richmond, Thomas",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "3103 Westfield Dr ",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59106",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 180.0,
+            "Purpose": "Campaign Contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

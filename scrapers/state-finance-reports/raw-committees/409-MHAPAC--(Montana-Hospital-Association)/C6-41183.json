@@ -2783,5 +2783,44 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/22/18",
+            "Entity Name": "Moxie Media, Inc.",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 30084",
+            "City": "Seattle",
+            "State": "WA",
+            "Zip": "98113",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2755.0,
+            "Purpose": "Independent Expenditures to support Caferro for HD 81 - Please see attached for detail",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/22/18",
+            "Entity Name": "Moxie Media, Inc.",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 30084",
+            "City": "Seattle",
+            "State": "WA",
+            "Zip": "98113",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 3325.5,
+            "Purpose": "Independent Expenditures to support Dudick for HD 94 - Please see attached for detail ",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

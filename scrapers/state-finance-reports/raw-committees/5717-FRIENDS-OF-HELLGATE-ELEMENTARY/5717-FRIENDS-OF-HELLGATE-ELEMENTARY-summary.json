@@ -1,7 +1,7 @@
 {
     "slug": "5717-FRIENDS-OF-HELLGATE-ELEMENTARY",
     "committeeName": "FRIENDS OF HELLGATE ELEMENTARY",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 3,
     "data": {
         "committeeId": 5717,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 3,
+        "last_report_end_date": "01/09/2017",
+        "contributions": 23600.0,
+        "num_contributions": 5,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 17898.0,
+        "num_expenditures": 3,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 5367.0
     }
 }

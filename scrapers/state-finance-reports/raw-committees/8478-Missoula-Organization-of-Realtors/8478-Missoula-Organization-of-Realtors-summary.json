@@ -1,7 +1,7 @@
 {
     "slug": "8478-Missoula-Organization-of-Realtors",
     "committeeName": "Missoula Organization of Realtors",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 4,
     "data": {
         "committeeId": 8478,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 4,
+        "last_report_end_date": "06/05/2020",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 44413.19,
+        "num_expenditures": 6,
+        "expenditures_19_20": 44413.19,
+        "num_expenditures_19_20": 6,
+        "cash_on_hand": -44413.19
     }
 }

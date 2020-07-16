@@ -1,7 +1,7 @@
 {
     "slug": "6999-Montana-State-Afl-cio",
     "committeeName": "Montana State Afl-cio",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 11,
     "data": {
         "committeeId": 6999,
@@ -34,15 +34,28 @@
         ],
         "issues": [
             {
-                "interest": "Brian Close HD 61/Dems Primary",
+                "interest": "Mike Cooney/Dems Primary",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Mike Cooney/Dems Primary",
+                "interest": "Brian Close HD 61/Dems Primary",
                 "position": "Support",
                 "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 11,
+        "last_report_end_date": "06/26/2020",
+        "contributions": 500.0,
+        "num_contributions": 1,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 101000.0,
+        "num_expenditures": 5,
+        "expenditures_19_20": 95000.0,
+        "num_expenditures_19_20": 3,
+        "cash_on_hand": -100500.0
     }
 }

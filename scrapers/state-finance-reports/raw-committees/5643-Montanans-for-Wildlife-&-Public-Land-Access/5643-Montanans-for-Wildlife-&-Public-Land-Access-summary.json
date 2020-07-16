@@ -1,7 +1,7 @@
 {
     "slug": "5643-Montanans-for-Wildlife-&-Public-Land-Access",
     "committeeName": "Montanans for Wildlife & Public Land Access",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 9,
     "data": {
         "committeeId": 5643,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 9,
+        "last_report_end_date": "12/31/2018",
+        "contributions": 529945.38,
+        "num_contributions": 192,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 321201.27,
+        "num_expenditures": 42,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

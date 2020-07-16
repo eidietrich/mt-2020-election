@@ -1,7 +1,7 @@
 {
     "slug": "6976-Great-Falls-Public-Schools",
     "committeeName": "Great Falls Public Schools",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 2,
     "data": {
         "committeeId": 6976,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 2,
+        "last_report_end_date": "04/30/2018",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1437.08,
+        "num_expenditures": 6,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -1437.08
     }
 }

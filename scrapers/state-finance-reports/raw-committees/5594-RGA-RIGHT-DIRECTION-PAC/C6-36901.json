@@ -61,6 +61,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "08/23/16",
+            "Entity Name": "PUSH DIGITAL",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO BOX 7431",
+            "City": "COLUMBIA",
+            "State": "SC",
+            "Zip": "29202",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 136.02,
+            "Purpose": "DIGITAL SERVICES",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "08/10/16",
+            "Entity Name": "TARGETED VICTORY",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1033 North Fairfax Street, STE. 400",
+            "City": "ALEXANDRIA",
+            "State": "VA",
+            "Zip": "22314",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 17750.0,
+            "Purpose": "Digital Advertising",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

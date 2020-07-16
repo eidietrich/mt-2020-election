@@ -57,6 +57,25 @@
     ],
     "expenditures": [
         {
+            "Date Paid": "10/25/16",
+            "Entity Name": "Montana Chamber of Commerce",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1730",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 11.04,
+            "Purpose": "Endorsement handout printing for 9 candidates; 16 handouts at $0.69 each",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
             "Date Paid": "10/21/16",
             "Entity Name": "Arena Communications",
             "First Name": "",

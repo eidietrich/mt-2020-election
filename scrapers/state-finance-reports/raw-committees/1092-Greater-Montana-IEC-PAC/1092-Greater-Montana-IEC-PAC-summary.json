@@ -1,7 +1,7 @@
 {
     "slug": "1092-Greater-Montana-IEC-PAC",
     "committeeName": "Greater Montana IEC PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 20,
     "data": {
         "committeeId": 1092,
@@ -34,12 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "Derek Skees for HD11",
+                "interest": "David Dunn HD 09",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Randy Chamberlain for HD64",
+                "interest": "Derek Skees for HD11",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -54,7 +54,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "David Dunn HD 09",
+                "interest": "Randy Chamberlain for HD64",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -64,5 +64,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 20,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 4896.0,
+        "num_contributions": 29,
+        "contributions_19_20": 2200.0,
+        "num_contributions_19_20": 11,
+        "expenditures": 4565.0,
+        "num_expenditures": 42,
+        "expenditures_19_20": 700.0,
+        "num_expenditures_19_20": 7,
+        "cash_on_hand": 3268.9
     }
 }

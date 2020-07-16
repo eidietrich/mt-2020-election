@@ -210,5 +210,25 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/16/16",
+            "Entity Name": "Arena Communications",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1780 W  Sequoia Vista Circle ",
+            "City": "Salt Lake City",
+            "State": "UT",
+            "Zip": "84104",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 14916.0,
+            "Purpose": "Ad-McKamey/HD19 $2880 Roberts SD26 $5058_Richmond SD28 $3500_Gauthier SD 40 $3478_ support all",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "slug": "3077-Montanans-For-Responsible-Leadership",
     "committeeName": "Montanans For Responsible Leadership",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 23,
     "data": {
         "committeeId": 3077,
@@ -39,5 +39,18 @@
                 "status": "On ballot, approved"
             }
         ]
+    },
+    "finances": {
+        "reports": 23,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 57654.04,
+        "num_contributions": 12,
+        "contributions_19_20": 3500.0,
+        "num_contributions_19_20": 3,
+        "expenditures": 64939.16,
+        "num_expenditures": 77,
+        "expenditures_19_20": 5449.95,
+        "num_expenditures_19_20": 6,
+        "cash_on_hand": 2702.08
     }
 }

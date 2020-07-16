@@ -1,7 +1,7 @@
 {
     "slug": "5659-WindPAC",
     "committeeName": "WindPAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 6,
     "data": {
         "committeeId": 5659,
@@ -39,12 +39,7 @@
                 "status": "On ballot, approved"
             },
             {
-                "interest": "Dunwell for Montana House District 84",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Andrew Person for Legislature HD96",
+                "interest": "Rob Cook for HD18",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -54,22 +49,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Harry Klock for Senate District 15",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Friends of Kimberly Dudik",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
                 "interest": "Carolyn Pease-Lopez Campaign",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Rob Cook for HD18",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -77,7 +57,40 @@
                 "interest": "Shane Morigeau for House District 95",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Dunwell for Montana House District 84",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Harry Klock for Senate District 15",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Andrew Person for Legislature HD96",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Friends of Kimberly Dudik",
+                "position": "Support",
+                "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 6,
+        "last_report_end_date": "03/02/2018",
+        "contributions": 2930.0,
+        "num_contributions": 2,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 2930.0,
+        "num_expenditures": 11,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

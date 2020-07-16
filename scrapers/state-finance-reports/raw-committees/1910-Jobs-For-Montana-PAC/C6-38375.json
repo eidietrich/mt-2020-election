@@ -74,6 +74,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "11/01/16",
+            "Entity Name": "Arena Communications",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1780 W  Sequoia Vista Circle ",
+            "City": "Salt Lake City",
+            "State": "UT",
+            "Zip": "84104",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2240.0,
+            "Purpose": "2,995 piece mailer with postage",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/23/16",
+            "Entity Name": "Juras for Justice",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 774",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59403",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2650.0,
+            "Purpose": "Contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

@@ -23,5 +23,25 @@
         "cash_in_bank": 7295.53
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "11/16/18",
+            "Entity Name": "Montana Prosperity PAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1730",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 19908.36,
+            "Purpose": "Independent expenditure of direct mail (4,855 pieces), digital advertising (257,087 ads), social media (167,690 impressions) ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

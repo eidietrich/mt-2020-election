@@ -1,7 +1,7 @@
 {
     "slug": "5826-Neighbors-for-Responsible-Legislators",
     "committeeName": "Neighbors for Responsible Legislators",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 3,
     "data": {
         "committeeId": 5826,
@@ -34,15 +34,28 @@
         ],
         "issues": [
             {
-                "interest": "Robert Saunders -HD 48",
-                "position": "Oppose",
-                "status": "On ballot, approved"
-            },
-            {
                 "interest": "Jessica Karjala",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Robert Saunders -HD 48",
+                "position": "Oppose",
+                "status": "On ballot, approved"
             }
         ]
+    },
+    "finances": {
+        "reports": 3,
+        "last_report_end_date": "12/29/2016",
+        "contributions": 1615.0,
+        "num_contributions": 6,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1125.0,
+        "num_expenditures": 4,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

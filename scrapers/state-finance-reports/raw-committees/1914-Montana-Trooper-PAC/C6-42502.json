@@ -137,6 +137,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "06/05/18",
+            "Entity Name": "Chinook Consulting",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "250 SE Allen Rd",
+            "City": "Shelton",
+            "State": "WA",
+            "Zip": "98584",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 11236.0,
+            "Purpose": "Radio buy - ads, Production, consulting fee",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "slug": "5652-McKenna-Starin-Law",
     "committeeName": "McKenna Starin Law",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 6,
     "data": {
         "committeeId": 5652,
@@ -34,12 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
+                "interest": "Dirk Sandefur - Supreme Court",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Dirk Sandefur - Supreme Court",
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -49,5 +49,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 6,
+        "last_report_end_date": "11/23/2016",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 2000.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -2000.0
     }
 }

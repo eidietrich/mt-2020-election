@@ -23,5 +23,25 @@
         "cash_in_bank": 6.48
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/24/18",
+            "Entity Name": "BrabenderCox ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1218 Grandview Avenue",
+            "City": "Pittsburgh",
+            "State": "PA",
+            "Zip": "15211",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 900.0,
+            "Purpose": "GOTV Radio Ads (aired 11/1, 11/2, and 11/5)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

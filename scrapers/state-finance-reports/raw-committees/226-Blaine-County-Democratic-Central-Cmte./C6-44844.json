@@ -1047,5 +1047,25 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/23/18",
+            "Entity Name": "Kuntz, Reuben M",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Box 193",
+            "City": "Harlem",
+            "State": "MT",
+            "Zip": "59526",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 275.91,
+            "Purpose": "Purchase of food",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

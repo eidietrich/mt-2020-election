@@ -1,7 +1,7 @@
 {
     "slug": "5524-Matovich-Keller-&-Murphy-P.C.",
     "committeeName": "Matovich, Keller & Murphy P.C.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 5524,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "05/10/2016",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1000.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -1000.0
     }
 }

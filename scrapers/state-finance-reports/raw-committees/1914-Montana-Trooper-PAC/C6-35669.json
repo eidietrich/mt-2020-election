@@ -6844,5 +6844,25 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/26/16",
+            "Entity Name": "Chinook Consulting",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "250 SE Allen Rd",
+            "City": "Shelton",
+            "State": "WA",
+            "Zip": "98584",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 5898.0,
+            "Purpose": "Campaign Radio Ads - Support",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

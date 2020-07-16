@@ -1,7 +1,7 @@
 {
     "slug": "5628-Montana-Agriculture-PAC",
     "committeeName": "Montana Agriculture PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 14,
     "data": {
         "committeeId": 5628,
@@ -34,162 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Bogner Kenneth SD 19",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Read Joe HD 93",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Cuffe Mike  SD 01",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Ballance Nancy HD87",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Gillespie Bruce \"Butch\"  SD 09",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Shaw Ray L HD 71",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Custer Geraldine HD 39",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "White Kerry E  HD 64",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Redfield Alan, HD 59",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Garner Frank HD 07",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Lenz Dennis HD 53",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Buttrey Ed, HD 21",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Julie Dooling for HD 70",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Pierson Jr, Gordon  HD 78",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Pomnichowski Jennifer SD 33",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Kary Douglas SD 22",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Fitzgerald Ross H HD 17",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Blasdel Mark W  SD 04",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Welch Tom  HD 72",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Esp John SD 30",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Burnett Tom HD 67",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "Gunderson Steve HD 01",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Hinkle Jedediah SD 32",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Grubbs Bruce HD 68",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Bruce \"Butch\" Gillespie, SD09",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Dooling Julie  HD 70",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Galt E. Wylie  HD 30",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Sales Walt  HD ",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Keane Jim HD73",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Sheldon- Galloway Lola  HD 22",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Holmlund Kenneth HD 38",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Jones Llew  HD 18",
                 "position": "Support",
                 "status": "On ballot"
             },
@@ -199,7 +44,17 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Usher Barry HD 40",
+                "interest": "Noland Mark  HD 10",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Sheldon- Galloway Lola  HD 22",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Gillespie Bruce \"Butch\"  SD 09",
                 "position": "Support",
                 "status": "On ballot"
             },
@@ -209,77 +64,7 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Hoven Brian SD 13",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "McGillvray  Tom SD 24",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Reynolds Chase  SD 49",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Beard Becky HD 80",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Ankney Duane SD 20",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Anderson Fred HD20",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Vance Gordon SD 34",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Noland Mark  HD 10",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Bartel Dan HD 29",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Temple Russel SD 14",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "McKamey Wendy HD 19",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Mary Caferro HD 81",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Berglee Seth HD 58",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Hertz Greg HD 12",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Moore Frederick \"Eric\"  HD 37",
+                "interest": "Jones Llew  HD 18",
                 "position": "Support",
                 "status": "On ballot"
             },
@@ -289,7 +74,112 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Cohenour Jill SD 42",
+                "interest": "Loge Denley HD 14",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Blasdel Mark W  SD 04",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Sales Walt  HD ",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Fitzgerald Ross H HD 17",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Dooling Julie  HD 70",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Kary Douglas SD 22",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Buttrey Ed, HD 21",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "McKamey Wendy HD 19",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Shaw Ray L HD 71",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Keane Jim HD73",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Hinkle Jedediah SD 32",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Reynolds Chase  SD 49",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Holmlund Kenneth HD 38",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Custer Geraldine HD 39",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Anderson Fred HD20",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Hertz Greg HD 12",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Temple Russel SD 14",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Garner Frank HD 07",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Mary Caferro HD 81",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Pomnichowski Jennifer SD 33",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Bartel Dan HD 29",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Cuffe Mike  SD 01",
                 "position": "Support",
                 "status": "On ballot"
             },
@@ -299,7 +189,72 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Loge Denley HD 14",
+                "interest": "Ballance Nancy HD87",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Galt E. Wylie  HD 30",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Read Joe HD 93",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Redfield Alan, HD 59",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Cohenour Jill SD 42",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Welch Tom  HD 72",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Usher Barry HD 40",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Grubbs Bruce HD 68",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "McGillvray  Tom SD 24",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Esp John SD 30",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Lenz Dennis HD 53",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Hoven Brian SD 13",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Berglee Seth HD 58",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Vance Gordon SD 34",
                 "position": "Support",
                 "status": "On ballot"
             },
@@ -307,7 +262,65 @@
                 "interest": "Brown Zach HD 63",
                 "position": "Support",
                 "status": "On ballot"
+            },
+            {
+                "interest": "Moore Frederick \"Eric\"  HD 37",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Ankney Duane SD 20",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Bruce \"Butch\" Gillespie, SD09",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Julie Dooling for HD 70",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Burnett Tom HD 67",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Beard Becky HD 80",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "White Kerry E  HD 64",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Pierson Jr, Gordon  HD 78",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Bogner Kenneth SD 19",
+                "position": "Support",
+                "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 14,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 18330.0,
+        "num_contributions": 121,
+        "contributions_19_20": 14390.0,
+        "num_contributions_19_20": 49,
+        "expenditures": 14148.46,
+        "num_expenditures": 70,
+        "expenditures_19_20": 7404.17,
+        "num_expenditures_19_20": 25,
+        "cash_on_hand": 12391.99
     }
 }

@@ -1,7 +1,7 @@
 {
     "slug": "6342-Libertarian-Party-of-Gallatin-Valley",
     "committeeName": "Libertarian Party of Gallatin Valley",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 16,
     "data": {
         "committeeId": 6342,
@@ -34,15 +34,28 @@
         ],
         "issues": [
             {
-                "interest": "Mark Wicks - US House of Representatives",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Political",
                 "position": "Other",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Mark Wicks - US House of Representatives",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 16,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 1057.43,
+        "num_contributions": 26,
+        "contributions_19_20": 150.0,
+        "num_contributions_19_20": 3,
+        "expenditures": 91.0,
+        "num_expenditures": 4,
+        "expenditures_19_20": 91.0,
+        "num_expenditures_19_20": 4,
+        "cash_on_hand": 279.0
     }
 }

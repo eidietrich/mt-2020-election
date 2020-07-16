@@ -23,5 +23,25 @@
         "cash_in_bank": -54.0
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "08/27/18",
+            "Entity Name": "Montana Smoke Free Assocation",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "612 N 1st st",
+            "City": "Hamilton",
+            "State": "MT",
+            "Zip": "59840",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 54.0,
+            "Purpose": "In-Kind Staff Time and associated Overhead (See attachment) ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

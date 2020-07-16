@@ -1,7 +1,7 @@
 {
     "slug": "357-Montana-Republican-State-Central-Cmte.",
     "committeeName": "Montana Republican State Central Cmte.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 32,
     "data": {
         "committeeId": 357,
@@ -10,7 +10,7 @@
         "committeeTypeDescr": "Political Party",
         "incorporated": "N",
         "electionYear": "2000",
-        "amendedDate": 1572850800000,
+        "amendedDate": 1594188000000,
         "entityFullName": "Montana Republican State Central Cmte.",
         "entityCity": "Helena",
         "entityState": "MT"
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 32,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 905256.45,
+        "num_contributions": 931,
+        "contributions_19_20": 279742.39,
+        "num_contributions_19_20": 581,
+        "expenditures": 962915.95,
+        "num_expenditures": 185,
+        "expenditures_19_20": 217709.72,
+        "num_expenditures_19_20": 27,
+        "cash_on_hand": 129727.32
     }
 }

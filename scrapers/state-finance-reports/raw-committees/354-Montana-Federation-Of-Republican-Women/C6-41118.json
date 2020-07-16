@@ -23,5 +23,63 @@
         "cash_in_bank": 5972.89
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "04/30/18",
+            "Entity Name": "Hickman, Deborah S",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1567",
+            "City": "Columbus",
+            "State": "MT",
+            "Zip": "59019",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 20.0,
+            "Purpose": "reimburse SOS filing",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/03/18",
+            "Entity Name": "Murray, Arla Jeanne",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "HC 40 Box 6431",
+            "City": "Miles City",
+            "State": "MT",
+            "Zip": "59301",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 614.39,
+            "Purpose": "reimburse sleep room charges NFRW convention/Pres. H. Roedel portion",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/03/18",
+            "Entity Name": "Roedel, Heidi",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 9726 ",
+            "City": "Kalispell",
+            "State": "MT",
+            "Zip": "59904",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 300.0,
+            "Purpose": "reimburse NFRW convention registration fee",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

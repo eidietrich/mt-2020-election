@@ -23,5 +23,25 @@
         "cash_in_bank": -27480.0
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/31/18",
+            "Entity Name": "M+R Strategic Services",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 5800",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59806",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1000.0,
+            "Purpose": "Payment for consulting fees.",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

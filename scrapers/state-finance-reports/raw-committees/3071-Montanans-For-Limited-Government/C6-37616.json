@@ -23,5 +23,63 @@
         "cash_in_bank": 352.44
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/24/16",
+            "Entity Name": "Kent, Edna",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1443",
+            "City": "Florence",
+            "State": "MT",
+            "Zip": "59833",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 9.4,
+            "Purpose": "Reimbursement for Stamps",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/24/16",
+            "Entity Name": "Kent, Edna",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1443",
+            "City": "Florence",
+            "State": "MT",
+            "Zip": "59833",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 63.06,
+            "Purpose": "Reimbursement for Facebook ads",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/24/16",
+            "Entity Name": "Kent, Edna",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1443",
+            "City": "Florence",
+            "State": "MT",
+            "Zip": "59833",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 300.03,
+            "Purpose": "Reimbursement for Facebook ads",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

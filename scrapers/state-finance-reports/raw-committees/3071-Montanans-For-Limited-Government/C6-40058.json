@@ -55,5 +55,63 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "03/27/18",
+            "Entity Name": "Holyoak, Jace",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "3207 W Main Apt 309",
+            "City": "bozeman",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 250.0,
+            "Purpose": "Preparation of legislative score sheet",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "03/27/18",
+            "Entity Name": "Kenck, Clancy B",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2813 Queen St",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 300.0,
+            "Purpose": "Return of designated contribution",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "03/27/18",
+            "Entity Name": "Kent, Edna",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1443",
+            "City": "Florence",
+            "State": "MT",
+            "Zip": "59833",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 194.14,
+            "Purpose": "Reimburse expenses for attendance of debate",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

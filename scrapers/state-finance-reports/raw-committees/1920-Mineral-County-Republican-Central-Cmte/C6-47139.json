@@ -105,6 +105,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "03/27/20",
+            "Entity Name": "Sanderrs County Republican Central Committee",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 2558",
+            "City": "Thompson Falls",
+            "State": "MT",
+            "Zip": "59873",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 149.5,
+            "Purpose": "Purchase of 50 Trump/Pence 2020 Yard Signs",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

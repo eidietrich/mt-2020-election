@@ -837,6 +837,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "03/26/18",
+            "Entity Name": "Vanderlaan, Sharon",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "97 E Nicklaus Ave",
+            "City": "Kalispell",
+            "State": "MT",
+            "Zip": "59901",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 100.0,
+            "Purpose": "finanical review of 2017 books",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

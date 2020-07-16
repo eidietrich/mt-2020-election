@@ -1,7 +1,7 @@
 {
     "slug": "3992-Yes-for-Kids-PAC",
     "committeeName": "Yes for Kids PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 2,
     "data": {
         "committeeId": 3992,
@@ -39,5 +39,18 @@
                 "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 2,
+        "last_report_end_date": "09/14/2015",
+        "contributions": 37937.22,
+        "num_contributions": 56,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 40909.97,
+        "num_expenditures": 25,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

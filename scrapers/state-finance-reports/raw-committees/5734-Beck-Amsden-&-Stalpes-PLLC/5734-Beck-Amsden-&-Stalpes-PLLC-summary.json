@@ -1,7 +1,7 @@
 {
     "slug": "5734-Beck-Amsden-&-Stalpes-PLLC",
     "committeeName": "Beck, Amsden & Stalpes, PLLC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 3,
     "data": {
         "committeeId": 5734,
@@ -34,15 +34,28 @@
         ],
         "issues": [
             {
-                "interest": "Elect Experienced Judges",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "Support Montana Issues and Candidates",
                 "position": "Support",
                 "status": "Support"
+            },
+            {
+                "interest": "Elect Experienced Judges",
+                "position": "Support",
+                "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 3,
+        "last_report_end_date": "10/25/2016",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 35581.93,
+        "num_expenditures": 4,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -35581.93
     }
 }

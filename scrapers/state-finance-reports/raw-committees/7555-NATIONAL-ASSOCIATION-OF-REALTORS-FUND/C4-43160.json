@@ -55,5 +55,44 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/03/18",
+            "Entity Name": "GALLATIN ASSOCIATION OF REALTORS",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2880 TECHNOLOGY BLVD, STE. #159",
+            "City": "BOZEMAN",
+            "State": "MT",
+            "Zip": "59718",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 8500.0,
+            "Purpose": "CONTRIBUTION FOR THE GENERAL ELECTION",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/02/18",
+            "Entity Name": "Realtors for Better Government",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1 S. Montana Ave., Ste M1",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 16981.0,
+            "Purpose": "CONTRIBUTION FOR THE GENERAL ELECTION",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

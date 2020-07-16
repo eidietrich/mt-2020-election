@@ -179,5 +179,44 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "07/27/16",
+            "Entity Name": "Facebook",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1601 Willow Rd",
+            "City": "Menlo Park",
+            "State": "CA",
+            "Zip": "94025",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 170.0,
+            "Purpose": "Advertising",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "07/27/16",
+            "Entity Name": "Google Adwords",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1600 Amphitheatre Parkway",
+            "City": "Mountain View",
+            "State": "CA",
+            "Zip": "94043",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 200.0,
+            "Purpose": "Advertising",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

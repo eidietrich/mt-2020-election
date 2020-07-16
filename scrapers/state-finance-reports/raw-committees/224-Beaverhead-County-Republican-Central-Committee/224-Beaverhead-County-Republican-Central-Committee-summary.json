@@ -1,7 +1,7 @@
 {
     "slug": "224-Beaverhead-County-Republican-Central-Committee",
     "committeeName": "Beaverhead County Republican Central Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 21,
     "data": {
         "committeeId": 224,
@@ -34,24 +34,14 @@
         ],
         "issues": [
             {
-                "interest": "Greg Gianforte for Congress",
+                "interest": "Stacey Reynolds",
                 "position": "Support",
-                "status": "Not Applicable"
+                "status": "On ballot"
             },
             {
                 "interest": "Matt Rosendale for U.S. Senate",
                 "position": "Support",
                 "status": "Not Applicable"
-            },
-            {
-                "interest": "To support & encourage Republican ideals & principles in Beaverhead County.",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Stacey Reynolds",
-                "position": "Support",
-                "status": "On ballot"
             },
             {
                 "interest": "Tom Welch for House",
@@ -62,7 +52,30 @@
                 "interest": "John Jackson",
                 "position": "Support",
                 "status": "On ballot"
+            },
+            {
+                "interest": "Greg Gianforte for Congress",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To support & encourage Republican ideals & principles in Beaverhead County.",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 21,
+        "last_report_end_date": "05/31/2020",
+        "contributions": 25051.25,
+        "num_contributions": 366,
+        "contributions_19_20": 9974.0,
+        "num_contributions_19_20": 149,
+        "expenditures": 30015.07,
+        "num_expenditures": 101,
+        "expenditures_19_20": 8640.22,
+        "num_expenditures_19_20": 22,
+        "cash_on_hand": 7038.27
     }
 }

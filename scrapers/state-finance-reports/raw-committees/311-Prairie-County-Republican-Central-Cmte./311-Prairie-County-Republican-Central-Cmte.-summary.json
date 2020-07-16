@@ -1,7 +1,7 @@
 {
     "slug": "311-Prairie-County-Republican-Central-Cmte.",
     "committeeName": "Prairie County Republican Central Cmte.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 9,
     "data": {
         "committeeId": 311,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 9,
+        "last_report_end_date": "04/25/2020",
+        "contributions": 2303.63,
+        "num_contributions": 158,
+        "contributions_19_20": -230.0,
+        "num_contributions_19_20": 72,
+        "expenditures": 14621.29,
+        "num_expenditures": 27,
+        "expenditures_19_20": 5421.47,
+        "num_expenditures_19_20": 10,
+        "cash_on_hand": 4061.03
     }
 }

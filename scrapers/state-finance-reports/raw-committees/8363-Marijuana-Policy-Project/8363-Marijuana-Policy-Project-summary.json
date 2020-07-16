@@ -1,7 +1,7 @@
 {
     "slug": "8363-Marijuana-Policy-Project",
     "committeeName": "Marijuana Policy Project",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 4,
     "data": {
         "committeeId": 8363,
@@ -39,5 +39,18 @@
                 "status": "Not on ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 4,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 29745.63,
+        "num_expenditures": 8,
+        "expenditures_19_20": 29745.63,
+        "num_expenditures_19_20": 8,
+        "cash_on_hand": -29745.63
     }
 }

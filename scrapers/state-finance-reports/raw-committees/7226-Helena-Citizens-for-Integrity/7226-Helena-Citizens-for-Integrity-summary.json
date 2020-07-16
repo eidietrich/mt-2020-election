@@ -1,7 +1,7 @@
 {
     "slug": "7226-Helena-Citizens-for-Integrity",
     "committeeName": "Helena Citizens for Integrity",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 7,
     "data": {
         "committeeId": 7226,
@@ -34,15 +34,28 @@
         ],
         "issues": [
             {
-                "interest": "HD 81 Robert Farris-Olsen",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "HD 81 Candidate Mary Caffero",
                 "position": "Oppose",
                 "status": "On ballot"
+            },
+            {
+                "interest": "HD 81 Robert Farris-Olsen",
+                "position": "Support",
+                "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 7,
+        "last_report_end_date": "04/25/2020",
+        "contributions": 550.0,
+        "num_contributions": 2,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 450.0,
+        "num_expenditures": 2,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 570.0
     }
 }

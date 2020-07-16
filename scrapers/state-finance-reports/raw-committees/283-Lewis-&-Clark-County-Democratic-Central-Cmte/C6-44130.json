@@ -23,5 +23,44 @@
         "cash_in_bank": 4260.29
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/22/18",
+            "Entity Name": "Cohenour for Senate",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2610 Colt Drive. ",
+            "City": "East Helena",
+            "State": "MT",
+            "Zip": "59635",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 400.0,
+            "Purpose": "Campaign Donation",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/22/18",
+            "Entity Name": "Janet Ellis For Legislature",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "703 Breckenridge St",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 200.0,
+            "Purpose": "Campaign Donation",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

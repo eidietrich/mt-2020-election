@@ -1,7 +1,7 @@
 {
     "slug": "8314-EXPOPARK-FOR-ALL",
     "committeeName": "EXPOPARK FOR ALL",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 2,
     "data": {
         "committeeId": 8314,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 2,
+        "last_report_end_date": "04/25/2020",
+        "contributions": 1234.0,
+        "num_contributions": 3,
+        "contributions_19_20": 1234.0,
+        "num_contributions_19_20": 3,
+        "expenditures": 1374.0,
+        "num_expenditures": 9,
+        "expenditures_19_20": 1374.0,
+        "num_expenditures_19_20": 9,
+        "cash_on_hand": 0.0
     }
 }

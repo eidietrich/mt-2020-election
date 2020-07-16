@@ -1,7 +1,7 @@
 {
     "slug": "5835-StopSetEmFreeSandefur.com-Committee",
     "committeeName": "StopSetEmFreeSandefur.com Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 6,
     "data": {
         "committeeId": 5835,
@@ -34,15 +34,28 @@
         ],
         "issues": [
             {
-                "interest": "Kristen Juras - Supreme Court",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Dirk Sandefur- Supreme Court",
                 "position": "Oppose",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Kristen Juras - Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 6,
+        "last_report_end_date": "08/15/2017",
+        "contributions": 280318.0,
+        "num_contributions": 7,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 242852.0,
+        "num_expenditures": 19,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

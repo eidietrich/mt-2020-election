@@ -198,6 +198,44 @@
             "Expenditure Paid Communications Platform": "mail-printed",
             "Expenditure Paid Communications Quantity": "1000",
             "Expenditure Paid Communications Subject Matter": "March fundraiser letter"
+        },
+        {
+            "Date Paid": "03/10/20",
+            "Entity Name": "Facebook",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1 Hacker Lane",
+            "City": "Menlo Park",
+            "State": "CA",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 50.0,
+            "Purpose": "Facebook ads",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Facebook",
+            "Expenditure Paid Communications Quantity": "boosted 03/10-03/11/2020",
+            "Expenditure Paid Communications Subject Matter": "Pepsi has too much sugar"
+        },
+        {
+            "Date Paid": "03/04/20",
+            "Entity Name": "Montana Mailings",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1 Main St.",
+            "City": "Billings",
+            "State": "AL",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 355.0,
+            "Purpose": "Printing and postage for mailer",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "mailing",
+            "Expenditure Paid Communications Quantity": "800",
+            "Expenditure Paid Communications Subject Matter": "Coke ruins your teeth"
         }
     ]
 }

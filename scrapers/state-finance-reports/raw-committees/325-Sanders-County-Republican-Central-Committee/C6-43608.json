@@ -194,6 +194,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/04/18",
+            "Entity Name": "Yellowstone County News",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P. O. Box 130",
+            "City": "Huntley",
+            "State": "MT",
+            "Zip": "59037",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2640.9,
+            "Purpose": "Sanders County Sentinel tabloid size newpaper, 12 pages, 6700 copies sent EDDM in Sanders County",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

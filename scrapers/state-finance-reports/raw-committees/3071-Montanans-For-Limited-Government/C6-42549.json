@@ -131,6 +131,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "07/31/18",
+            "Entity Name": "Kent, Edna",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1443",
+            "City": "Florence",
+            "State": "MT",
+            "Zip": "59833",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 46.58,
+            "Purpose": "Reimbursement for Advertising",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

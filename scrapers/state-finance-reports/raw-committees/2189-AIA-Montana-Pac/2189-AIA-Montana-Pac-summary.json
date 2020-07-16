@@ -1,7 +1,7 @@
 {
     "slug": "2189-AIA-Montana-Pac",
     "committeeName": "AIA Montana Pac",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 6,
     "data": {
         "committeeId": 2189,
@@ -34,15 +34,28 @@
         ],
         "issues": [
             {
-                "interest": "Shoot Veis",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Support the profession of architecture",
                 "position": "Support",
                 "status": "Support"
+            },
+            {
+                "interest": "Shoot Veis",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 6,
+        "last_report_end_date": "01/31/2018",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 100.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 561.25
     }
 }

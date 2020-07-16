@@ -1,7 +1,7 @@
 {
     "slug": "414-NARAL-Pro-Choice-Montana-PAC",
     "committeeName": "NARAL Pro-Choice Montana PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 11,
     "data": {
         "committeeId": 414,
@@ -34,42 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Amelia Marquez ",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Nancy De Pastino",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Alex Grey",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Emma Kerr-Carpenter",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Kimberly Dudik for HD 94",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Support Pro-Choice Candidates and Various Issues",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Connie Keogh",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Mary Caferro HD 81",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -79,10 +44,58 @@
                 "status": "Support"
             },
             {
+                "interest": "Amelia Marquez ",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Pro-Choice Candidates and Various Issues",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Mary Caferro HD 81",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Alex Grey",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Nancy De Pastino",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Connie Keogh",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Emma Kerr-Carpenter",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Jasmine Krotkov for HD 25",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 11,
+        "last_report_end_date": "06/20/2018",
+        "contributions": 11940.0,
+        "num_contributions": 81,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 14290.21,
+        "num_expenditures": 60,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 1590.77
     }
 }

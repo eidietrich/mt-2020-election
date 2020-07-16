@@ -1,7 +1,7 @@
 {
     "slug": "5566-Yellowstone-County-Council-on-Aging-dba-Adult-Resource-Alliance",
     "committeeName": "Yellowstone County Council on Aging, dba Adult Resource Alliance",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 5566,
@@ -39,5 +39,18 @@
                 "status": "Not on ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "06/07/2016",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 15000.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -15000.0
     }
 }

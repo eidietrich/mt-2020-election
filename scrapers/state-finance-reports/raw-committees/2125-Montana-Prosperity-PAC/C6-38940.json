@@ -86,5 +86,63 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "01/09/17",
+            "Entity Name": "Silver Star Steak",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "833 Great Northern Blvd",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1283.45,
+            "Purpose": "PAC Contributor Appreciation Dinner",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "12/08/16",
+            "Entity Name": "Taylor Luther Group, PLLC ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 4182",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59604",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1406.0,
+            "Purpose": "Legal expenses for PAC reporting guidance",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "12/08/16",
+            "Entity Name": "Taylor Luther Group, PLLC ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 4182",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59604",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 166.5,
+            "Purpose": "Legal expenses for PAC reporting guidance",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

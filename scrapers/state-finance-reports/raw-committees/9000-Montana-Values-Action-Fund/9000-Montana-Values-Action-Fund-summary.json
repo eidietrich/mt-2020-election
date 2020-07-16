@@ -1,7 +1,7 @@
 {
     "slug": "9000-Montana-Values-Action-Fund",
     "committeeName": "Montana Values Action Fund ",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 9000,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "06/26/2020",
+        "contributions": 340500.0,
+        "num_contributions": 7,
+        "contributions_19_20": 340500.0,
+        "num_contributions_19_20": 7,
+        "expenditures": 0,
+        "num_expenditures": 0,
+        "expenditures_19_20": 0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 340500.0
     }
 }

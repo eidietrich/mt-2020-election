@@ -1,7 +1,7 @@
 {
     "slug": "283-Lewis-&-Clark-County-Democratic-Central-Cmte",
     "committeeName": "Lewis & Clark County Democratic Central Cmte",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 15,
     "data": {
         "committeeId": 283,
@@ -34,27 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Rex Renk for Clerk of the Supreme Court",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kathleen Williams for US Congress",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jon Tester for US Senate",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Mary Caferro HD 81",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Janet Ellis for SD 41",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -64,10 +44,43 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Janet Ellis for SD 41",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kathleen Williams for US Congress",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Rex Renk for Clerk of the Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jon Tester for US Senate",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Moffie Funk for HD 82",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 15,
+        "last_report_end_date": "12/31/2019",
+        "contributions": 11901.24,
+        "num_contributions": 310,
+        "contributions_19_20": -11990.0,
+        "num_contributions_19_20": 7,
+        "expenditures": 34970.18,
+        "num_expenditures": 167,
+        "expenditures_19_20": 8285.4,
+        "num_expenditures_19_20": 8,
+        "cash_on_hand": 6832.33
     }
 }

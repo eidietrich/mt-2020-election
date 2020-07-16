@@ -23,5 +23,63 @@
         "cash_in_bank": 1952.58
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "06/15/18",
+            "Entity Name": "Fitzgerald for HD17, Ross",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P O Box 809",
+            "City": "Bynum",
+            "State": "MT",
+            "Zip": "59419",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 180.0,
+            "Purpose": "CANDIDATE CONTRIBUTION",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/17/18",
+            "Entity Name": "Nygaard, Colin M",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "601 Rimrock Rd",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59102",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 180.0,
+            "Purpose": "Support",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/13/18",
+            "Entity Name": "Semerad, Eric E",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "508 N. 22nd Ave.",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59718",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 180.0,
+            "Purpose": "CANDIDATE CONTRIBUTION",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

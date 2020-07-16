@@ -23,5 +23,25 @@
         "cash_in_bank": 971.62
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "08/06/18",
+            "Entity Name": "Ruck.us",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "170 Varick St., 2d Floor",
+            "City": "New York",
+            "State": "NY",
+            "Zip": "10013",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 20.0,
+            "Purpose": "Monthly website hosting fee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

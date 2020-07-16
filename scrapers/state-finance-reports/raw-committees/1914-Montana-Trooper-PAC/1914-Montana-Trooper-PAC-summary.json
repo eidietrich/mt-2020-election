@@ -1,7 +1,7 @@
 {
     "slug": "1914-Montana-Trooper-PAC",
     "committeeName": "Montana Trooper PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 27,
     "data": {
         "committeeId": 1914,
@@ -34,122 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Ed Coleman",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Llew Jones",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Ross Fitzgerald",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Steve Fitzpatrick",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Jason Small",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Wendy McKamey",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Kathy Kelker",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Jim Keane",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Eric Moore",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "David Bedey",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Edie McClafferty",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Bruce Grubbs",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
                 "interest": "Jacob Bachmeier",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Ryan Osmundson",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Mike Hopkins",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Neil Duram",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Jen Gross",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Joel Krautter",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Ryan Lynch",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Marta Bertoglio",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Frederick Anderson",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Margie MacDonald",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Geraldine Custer",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Derek Harvey",
                 "position": "Support",
                 "status": "Support"
             },
@@ -159,12 +44,7 @@
                 "status": "Support"
             },
             {
-                "interest": "Sharon Greef",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Ed Buttrey",
+                "interest": "Ryan Lynch",
                 "position": "Support",
                 "status": "Support"
             },
@@ -174,42 +54,27 @@
                 "status": "Support"
             },
             {
-                "interest": "Keith Regier",
+                "interest": "Ryan Osmundson",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Jeff Wellborn",
+                "interest": "Eric Moore",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Barbara Bassett",
+                "interest": "Sharon Greef",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Barry Usher",
+                "interest": "Mike Hopkins",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Ken Holmlund",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Dan Solomon",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Denley Loge",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Mary Caferro",
+                "interest": "Derek Harvey",
                 "position": "Support",
                 "status": "Support"
             },
@@ -219,12 +84,7 @@
                 "status": "Support"
             },
             {
-                "interest": "Kim Abbott",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Laurie Bishop",
+                "interest": "Kathy Kelker",
                 "position": "Support",
                 "status": "Support"
             },
@@ -234,22 +94,37 @@
                 "status": "Support"
             },
             {
+                "interest": "Walt Sales",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Llew Jones",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Steve Fitzpatrick",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jim Keane",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
                 "interest": "Shannon O'Brien",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Josh Kassmier",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Bill Mercer",
+                "interest": "Ross Fitzgerald",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Tom Richmond",
+                "interest": "Ken Holmlund",
                 "position": "Support",
                 "status": "Support"
             },
@@ -259,15 +134,153 @@
                 "status": "Support"
             },
             {
-                "interest": "Walt Sales",
+                "interest": "David Bedey",
                 "position": "Support",
                 "status": "Support"
+            },
+            {
+                "interest": "Margie MacDonald",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Frederick Anderson",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jason Small",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Bruce Grubbs",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Laurie Bishop",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Neil Duram",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Barry Usher",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Wendy McKamey",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Josh Kassmier",
+                "position": "Support",
+                "status": "Not Applicable"
             },
             {
                 "interest": "Katie Sullivan",
                 "position": "Support",
                 "status": "Support"
+            },
+            {
+                "interest": "Tom Richmond",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Marta Bertoglio",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jeff Wellborn",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Dan Solomon",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Keith Regier",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jen Gross",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Denley Loge",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Kim Abbott",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Edie McClafferty",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Mary Caferro",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Bill Mercer",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Barbara Bassett",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Ed Buttrey",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Ed Coleman",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Joel Krautter",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Geraldine Custer",
+                "position": "Support",
+                "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 27,
+        "last_report_end_date": "06/30/2020",
+        "contributions": 64040.0,
+        "num_contributions": 1564,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 125809.41,
+        "num_expenditures": 239,
+        "expenditures_19_20": 29460.0,
+        "num_expenditures_19_20": 53,
+        "cash_on_hand": 82996.38
     }
 }

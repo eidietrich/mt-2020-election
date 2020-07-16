@@ -243,6 +243,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/14/16",
+            "Entity Name": "Big Sky Electronics",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "100 Broadway St",
+            "City": "Townsend",
+            "State": "MT",
+            "Zip": "59644",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 380.0,
+            "Purpose": "purchase rifle for raffle",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "07/14/16",
+            "Entity Name": "united states post office",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "front st",
+            "City": "towsend",
+            "State": "MT",
+            "Zip": "59644",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 36.0,
+            "Purpose": "Box Rent Annual",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

@@ -99,6 +99,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/29/18",
+            "Entity Name": "Cerillion N4 Partners",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "500 Union Street, Suite 909",
+            "City": "Seattle",
+            "State": "WA",
+            "Zip": "98101",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2000.0,
+            "Purpose": "campaign mailer ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "slug": "2823-Truth-Matters",
     "committeeName": "Truth Matters",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 8,
     "data": {
         "committeeId": 2823,
@@ -34,15 +34,28 @@
         ],
         "issues": [
             {
-                "interest": "Jennifer Fielder",
-                "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Promote positive community discourse, oppose the promotion of fear and intolerance, and counter political extremism, conspitacy, theories and misinformation.",
                 "position": "Other",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Jennifer Fielder",
+                "position": "Oppose",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 8,
+        "last_report_end_date": "12/19/2017",
+        "contributions": 1475.0,
+        "num_contributions": 9,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 2270.88,
+        "num_expenditures": 7,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

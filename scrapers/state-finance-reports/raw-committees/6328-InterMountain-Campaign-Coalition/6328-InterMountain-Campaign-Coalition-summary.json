@@ -1,7 +1,7 @@
 {
     "slug": "6328-InterMountain-Campaign-Coalition",
     "committeeName": "InterMountain Campaign Coalition",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 6328,
@@ -34,15 +34,28 @@
         ],
         "issues": [
             {
-                "interest": "jeff essmann",
-                "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "To support local, state and federal candidates running for office in Montana",
                 "position": "Other",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "jeff essmann",
+                "position": "Oppose",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "10/21/2017",
+        "contributions": 332.53,
+        "num_contributions": 3,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 265.23,
+        "num_expenditures": 9,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 67.3
     }
 }

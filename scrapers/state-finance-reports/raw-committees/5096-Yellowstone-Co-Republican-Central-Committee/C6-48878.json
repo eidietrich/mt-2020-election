@@ -231,6 +231,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/07/20",
+            "Entity Name": "Advangelists, LLC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "61 Broadway, Suite 1105",
+            "City": "New York",
+            "State": "NY",
+            "Zip": "10005",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 475.0,
+            "Purpose": "Ads for Vote for Chris Freidel SD 26.",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Digital ad/Facebook",
+            "Expenditure Paid Communications Quantity": "30,280 impressions from 5/6-5/24,/Facebook ads 5/18-6/1",
+            "Expenditure Paid Communications Subject Matter": "Vote for Chris Freidel SD 26."
+        },
+        {
+            "Date Paid": "05/04/20",
+            "Entity Name": "Freidel, Chris",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "3302 Second Avenue North",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 400.0,
+            "Purpose": "Contribution to Chris Freidel SD 26",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

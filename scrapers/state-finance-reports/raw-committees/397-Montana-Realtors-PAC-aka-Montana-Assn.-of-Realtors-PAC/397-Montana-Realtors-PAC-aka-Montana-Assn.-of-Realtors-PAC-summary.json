@@ -1,7 +1,7 @@
 {
     "slug": "397-Montana-Realtors-PAC-aka-Montana-Assn.-of-Realtors-PAC",
     "committeeName": "Montana Realtors PAC aka Montana Assn. of Realtors PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 24,
     "data": {
         "committeeId": 397,
@@ -34,17 +34,117 @@
         ],
         "issues": [
             {
-                "interest": "Roger Webb for SD 23",
+                "interest": "Greg Chilcott for Ravalli County Commissioner",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Forest Mandeville for HD 57",
+                "interest": "Kerry White for HD 64",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Daniel Salomon",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Elsie Arntzen for Superintendent",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mike Lang for SD 17",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
                 "interest": "Roger Gravgaard for City Council Ward 2",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Peggy Webb for HD 43",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Vince Ricci for HD55",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Robert Saunders for HD 48",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Stephanie Hess for HD28",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "IHo Pomeroy for City Commissioner",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Keith Regier for SD 3",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Terry Gauthier for SD40",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Matt Rosendale for State Auditor",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Matt 4 LCC",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Don Jones for HD 46",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "McCormick 4 LCC",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Virginia Court - HD 50",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Chandler for Bozeman City Commissioner",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Randy Brodehl for HD 9",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Theresa Manzella for HD 85",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Casey Knudsen HD 33",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Shoots Vies for HD 51",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -59,162 +159,12 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Shoots Vies for HD 51",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Ryan Osmundson for SD 15",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Don Jones for HD 46",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Matt 4 LCC",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Daniel Salomon",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Debra Lamm",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "McCormick 4 LCC",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Vince Ricci for HD55",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Chandler for Bozeman City Commissioner",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Margie MacDonald for SD 26",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Chris Mehl for Bozeman City Comissioner",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Virginia Court - HD 50",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Elsie Arntzen for Superintendent",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kerry White for HD 64",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Ed Greef for HD88",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Denise Joy for Billings",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kirk Bushman for PSC",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Keith Regier for SD 3",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kathy Kelker HD 47",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Randy Brodehl for HD 9",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Mike Lang for SD 17",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Casey Knudsen HD 33",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Peggy Webb for HD 43",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Dale Mortensen for HD44",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Theresa Manzella for HD 85",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Greg Chilcott for Ravalli County Commissioner",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Terry Gauthier for SD40",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Robert Saunders for HD 48",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Becky Beard forHD 80",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Barry Usher for HD40",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Matt Rosendale for State Auditor",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Cory Stapleton for Secretary of State",
+                "interest": "Ryan Osmundson for SD 15",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -224,9 +174,14 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Stephanie Hess for HD28",
+                "interest": "Roger Webb for SD 23",
                 "position": "Support",
-                "status": "On ballot"
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dale Mortensen for HD44",
+                "position": "Support",
+                "status": "Not Applicable"
             },
             {
                 "interest": "JR Iman for Ravalli County Commissioner",
@@ -234,10 +189,68 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "IHo Pomeroy for City Commissioner",
+                "interest": "Margie MacDonald for SD 26",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Cory Stapleton for Secretary of State",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Denise Joy for Billings",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Forest Mandeville for HD 57",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kirk Bushman for PSC",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ed Greef for HD88",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Chris Mehl for Bozeman City Comissioner",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Becky Beard forHD 80",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kathy Kelker HD 47",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Barry Usher for HD40",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 24,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 595094.69,
+        "num_contributions": 4357,
+        "contributions_19_20": 203510.9,
+        "num_contributions_19_20": 1783,
+        "expenditures": 626230.41,
+        "num_expenditures": 737,
+        "expenditures_19_20": 199641.46,
+        "num_expenditures_19_20": 207,
+        "cash_on_hand": 193925.67
     }
 }

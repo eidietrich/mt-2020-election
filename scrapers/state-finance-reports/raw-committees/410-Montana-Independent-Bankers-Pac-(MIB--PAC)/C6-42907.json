@@ -1574,5 +1574,82 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "09/02/18",
+            "Entity Name": "McGillvray, Tom V",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "3642 Donna Dr.",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59102",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 170.0,
+            "Purpose": "Campaign Contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/06/18",
+            "Entity Name": "McKamey, Wendy",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "33 Upper Millegan Rd.",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59405",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 170.0,
+            "Purpose": "contribution to mckamey for hd 19",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "08/15/18",
+            "Entity Name": "Reynolds, Chase C",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "10228 Royal Coachman dr",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59808",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 170.0,
+            "Purpose": "Campaign Contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/02/18",
+            "Entity Name": "Trebas, Jeremy R",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 2364",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59403",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 170.0,
+            "Purpose": "CAMPAIGN CONTRIBUTION HD25",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

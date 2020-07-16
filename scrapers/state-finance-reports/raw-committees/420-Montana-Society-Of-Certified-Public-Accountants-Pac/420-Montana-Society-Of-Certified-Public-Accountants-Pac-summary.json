@@ -1,7 +1,7 @@
 {
     "slug": "420-Montana-Society-Of-Certified-Public-Accountants-Pac",
     "committeeName": "Montana Society Of Certified Public Accountants Pac",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 8,
     "data": {
         "committeeId": 420,
@@ -44,5 +44,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 8,
+        "last_report_end_date": "10/22/2016",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1228.22,
+        "num_expenditures": 2,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 330.0
     }
 }

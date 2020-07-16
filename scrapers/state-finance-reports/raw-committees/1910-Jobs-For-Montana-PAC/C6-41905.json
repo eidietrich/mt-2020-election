@@ -117,5 +117,44 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/31/18",
+            "Entity Name": "Arena Communications",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1780 W  Sequoia Vista Circle ",
+            "City": "Salt Lake City",
+            "State": "UT",
+            "Zip": "84104",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 15000.0,
+            "Purpose": "Facebook Display Ads ran May 15th, 2018 - June 5th, 2018. Encourage voters to support the candidates in question",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/30/18",
+            "Entity Name": "Arena Communications",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1780 W  Sequoia Vista Circle ",
+            "City": "Salt Lake City",
+            "State": "UT",
+            "Zip": "84104",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 100.0,
+            "Purpose": "Newspaper Ad Design and Layout",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

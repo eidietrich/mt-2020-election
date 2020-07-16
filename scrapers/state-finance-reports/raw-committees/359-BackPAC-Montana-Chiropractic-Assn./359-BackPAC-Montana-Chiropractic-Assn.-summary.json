@@ -1,7 +1,7 @@
 {
     "slug": "359-BackPAC-Montana-Chiropractic-Assn.",
     "committeeName": "BackPAC-Montana Chiropractic Assn.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 12,
     "data": {
         "committeeId": 359,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 12,
+        "last_report_end_date": "03/25/2020",
+        "contributions": 468.63,
+        "num_contributions": 38,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 8958.99,
+        "num_expenditures": 33,
+        "expenditures_19_20": 3361.35,
+        "num_expenditures_19_20": 7,
+        "cash_on_hand": 15869.44
     }
 }

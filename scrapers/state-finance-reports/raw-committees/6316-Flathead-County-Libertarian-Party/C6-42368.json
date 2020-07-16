@@ -23,5 +23,25 @@
         "cash_in_bank": 77.71
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "06/25/18",
+            "Entity Name": "City of Whitefish",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "418 E 2nd st",
+            "City": "Whitefish",
+            "State": "MT",
+            "Zip": "59937",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 60.0,
+            "Purpose": "city beach pavilion rental for party ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

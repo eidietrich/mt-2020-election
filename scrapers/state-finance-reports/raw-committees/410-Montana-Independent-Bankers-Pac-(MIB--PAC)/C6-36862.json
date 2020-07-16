@@ -150,6 +150,25 @@
     ],
     "expenditures": [
         {
+            "Date Paid": "08/11/16",
+            "Entity Name": "Juras, Kristin",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P. O. Box 774",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59403",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 320.0,
+            "Purpose": "General election campaign contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
             "Date Paid": "08/05/16",
             "Entity Name": "Bulger, Gerry",
             "First Name": "",

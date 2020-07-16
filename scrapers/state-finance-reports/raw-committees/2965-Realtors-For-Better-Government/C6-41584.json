@@ -55,5 +55,25 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/29/18",
+            "Entity Name": "Access Marketing",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 913026",
+            "City": "Denver",
+            "State": "CO",
+            "Zip": "80291",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 3000.0,
+            "Purpose": "online ads",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

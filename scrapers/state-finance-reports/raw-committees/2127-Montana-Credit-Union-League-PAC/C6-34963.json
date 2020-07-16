@@ -279,6 +279,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/12/16",
+            "Entity Name": "Kratter, Joel",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "703 6th Street SE",
+            "City": "Sidney",
+            "State": "MT",
+            "Zip": "59270",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 170.0,
+            "Purpose": "Campaign Contribution",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

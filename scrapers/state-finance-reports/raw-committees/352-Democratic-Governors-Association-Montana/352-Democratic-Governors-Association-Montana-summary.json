@@ -1,7 +1,7 @@
 {
     "slug": "352-Democratic-Governors-Association-Montana",
     "committeeName": "Democratic Governors Association-Montana",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 29,
     "data": {
         "committeeId": 352,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 29,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 1860675.0,
+        "num_contributions": 30,
+        "contributions_19_20": 108000.0,
+        "num_contributions_19_20": 4,
+        "expenditures": 1860429.06,
+        "num_expenditures": 51,
+        "expenditures_19_20": 104826.85,
+        "num_expenditures_19_20": 8,
+        "cash_on_hand": 3895.12
     }
 }

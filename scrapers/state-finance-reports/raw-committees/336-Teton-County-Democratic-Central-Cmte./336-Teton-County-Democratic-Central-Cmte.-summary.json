@@ -1,7 +1,7 @@
 {
     "slug": "336-Teton-County-Democratic-Central-Cmte.",
     "committeeName": "Teton County Democratic Central Cmte.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 6,
     "data": {
         "committeeId": 336,
@@ -34,34 +34,9 @@
         ],
         "issues": [
             {
-                "interest": "Rick Kerr HD 19",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "General Election",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Kaercher for PSC",
+                "interest": "Andy Shirtliff for PSC # 5",
                 "position": "Support",
                 "status": "Not Applicable"
-            },
-            {
-                "interest": "Jon Tester for US Senate",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Rex Renk for Clerk of the Supreme Court",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Barbara Bassett for HD 24",
-                "position": "Support",
-                "status": "Support"
             },
             {
                 "interest": "Kurt Dyer  SD 9",
@@ -69,10 +44,48 @@
                 "status": "Support"
             },
             {
-                "interest": "Andy Shirtliff for PSC # 5",
+                "interest": "Barbara Bassett for HD 24",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jon Tester for US Senate",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "General Election",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Rex Renk for Clerk of the Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kaercher for PSC",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Rick Kerr HD 19",
+                "position": "Support",
+                "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 6,
+        "last_report_end_date": "11/06/2018",
+        "contributions": 5927.02,
+        "num_contributions": 74,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 10655.62,
+        "num_expenditures": 45,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 403.18
     }
 }

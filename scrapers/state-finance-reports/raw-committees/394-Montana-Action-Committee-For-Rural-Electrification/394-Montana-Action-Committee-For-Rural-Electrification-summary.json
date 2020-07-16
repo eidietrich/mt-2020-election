@@ -1,7 +1,7 @@
 {
     "slug": "394-Montana-Action-Committee-For-Rural-Electrification",
     "committeeName": "Montana Action Committee For Rural Electrification",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 27,
     "data": {
         "committeeId": 394,
@@ -34,117 +34,22 @@
         ],
         "issues": [
             {
-                "interest": "Kenneth Holmlund - HD38",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Dan Salomon for SD 47",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Barry Usher - HD40",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Denise Hayman for HD 66",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Wendy McKamey HD19",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "To promote the interests of the electric cooperatives in rural Montana",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Brad Tschida- HD 97",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Sue Vinton HD56",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Joe Reed for HD 93",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Josh Kassmier HD 27",
+                "interest": "Steve Fitzpatrick SD 10",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Mary Caferro HD 81",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Neil Duram for HD 2",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Theresa Manzanella for SD 44",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Fred Anderson for HD20",
+                "interest": "Willis Curdy for HD 98",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
                 "interest": "Mark Noland for HD 10",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Frank Garner HD 07",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Mike Lang for SD 17",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Katie Zolnikov for HD45",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Marty Malone for HD59",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Rhonda Knudsen for HD34",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Laurie Bishop for HD 60",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Tom Welch HD72",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jeremy Trebas - HD26",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -159,72 +64,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Terry Gauthier for SD 40",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Keith Regier for SD 3",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Julie Dooling for HD 70",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Steve Hinebauch for SD18",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Casey Knudsen - HD33",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Willis Curdy for HD 98",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kathy Kelker HD 47",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Derek Skees - HD11",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Vince Ricci for HD 55",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Ross Fitzgerald for HD 17",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Amy Regier for HD6",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Sharon Greef for Montana HD 88",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Bob Brown for SD 7",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Steve Fitzpatrick SD 10",
+                "interest": "Tom Welch HD72",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -234,7 +74,112 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Laurie Bishop for HD 60",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mary Caferro HD 81",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Denise Hayman for HD 66",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Terry Gauthier for SD 40",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Josh Kassmier HD 27",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Marty Malone for HD59",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Wendy McKamey HD19",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Fred Anderson for HD20",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Derek Skees - HD11",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Julie Dooling for HD 70",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mike Lang for SD 17",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Keith Regier for SD 3",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Sharon Greef for Montana HD 88",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Frank Garner HD 07",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Casey Knudsen - HD33",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Sue Vinton HD56",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Theresa Manzanella for SD 44",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To promote the interests of the electric cooperatives in rural Montana",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Brad Tschida- HD 97",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Katie Zolnikov for HD45",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Carl Glimm for SD 2",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Neil Duram for HD 2",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -244,10 +189,78 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Kathy Kelker HD 47",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jeremy Trebas - HD26",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Amy Regier for HD6",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ross Fitzgerald for HD 17",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Geraldine Custer for HD39",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Vince Ricci for HD 55",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Barry Usher - HD40",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steve Hinebauch for SD18",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Rhonda Knudsen for HD34",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dan Salomon for SD 47",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bob Brown for SD 7",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kenneth Holmlund - HD38",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 27,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 9055.86,
+        "num_contributions": 427,
+        "contributions_19_20": 45156.69,
+        "num_contributions_19_20": 246,
+        "expenditures": 108013.69,
+        "num_expenditures": 141,
+        "expenditures_19_20": 36770.53,
+        "num_expenditures_19_20": 68,
+        "cash_on_hand": 134244.35
     }
 }

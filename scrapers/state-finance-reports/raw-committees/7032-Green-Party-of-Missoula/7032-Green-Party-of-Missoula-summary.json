@@ -1,7 +1,7 @@
 {
     "slug": "7032-Green-Party-of-Missoula",
     "committeeName": "Green Party of Missoula",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 3,
     "data": {
         "committeeId": 7032,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 3,
+        "last_report_end_date": "05/07/2018",
+        "contributions": 2005.69,
+        "num_contributions": 2,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1783.44,
+        "num_expenditures": 6,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 172.25
     }
 }

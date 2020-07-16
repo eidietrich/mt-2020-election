@@ -86,5 +86,44 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/11/18",
+            "Entity Name": "Borden Hotel",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1079",
+            "City": "Whitehall",
+            "State": "MT",
+            "Zip": "59759",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 50.0,
+            "Purpose": "Conference room rental",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "06/11/18",
+            "Entity Name": "Jefferson County Clerk and Recorder Office",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "102 S Monroe",
+            "City": "Boulder",
+            "State": "MT",
+            "Zip": "59632",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 50.0,
+            "Purpose": "Rent hall at fairgrounds for monthly meeting",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

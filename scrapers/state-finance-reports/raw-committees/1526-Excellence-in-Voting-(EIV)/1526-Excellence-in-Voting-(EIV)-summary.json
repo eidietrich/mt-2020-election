@@ -1,7 +1,7 @@
 {
     "slug": "1526-Excellence-in-Voting-(EIV)",
     "committeeName": "Excellence in Voting (EIV)",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 18,
     "data": {
         "committeeId": 1526,
@@ -34,15 +34,28 @@
         ],
         "issues": [
             {
-                "interest": "Dr. Olszweski for US Senator",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "to support conservative candidates for State and Local Candidates and conservative political issues.",
                 "position": "Support",
                 "status": "Support"
+            },
+            {
+                "interest": "Dr. Olszweski for US Senator",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 18,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 173388.25,
+        "num_contributions": 30,
+        "contributions_19_20": 101688.25,
+        "num_contributions_19_20": 23,
+        "expenditures": 182764.77,
+        "num_expenditures": 120,
+        "expenditures_19_20": 92865.0,
+        "num_expenditures_19_20": 74,
+        "cash_on_hand": 1610.83
     }
 }

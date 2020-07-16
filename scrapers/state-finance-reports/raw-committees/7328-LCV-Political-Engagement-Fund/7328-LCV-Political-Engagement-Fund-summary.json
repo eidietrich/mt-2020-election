@@ -1,7 +1,7 @@
 {
     "slug": "7328-LCV-Political-Engagement-Fund",
     "committeeName": "LCV Political Engagement Fund",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 10,
     "data": {
         "committeeId": 7328,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 10,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 45000.0,
+        "num_expenditures": 2,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -45000.0
     }
 }

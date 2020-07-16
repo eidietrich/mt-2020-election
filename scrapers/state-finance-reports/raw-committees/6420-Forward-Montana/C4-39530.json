@@ -26,6 +26,25 @@
     "expenditures": [
         {
             "Date Paid": "10/30/17",
+            "Entity Name": "Facebook",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1601 S Califonia Ave",
+            "City": "Pablo Alto",
+            "State": "CA",
+            "Zip": "94304",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 100.0,
+            "Purpose": "Facebook Ad for Forward MT Voter Fund (Charlie Smillie for Billings City Council)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/30/17",
             "Entity Name": "Abbey, Kiah",
             "First Name": "",
             "Middle Initial": "",

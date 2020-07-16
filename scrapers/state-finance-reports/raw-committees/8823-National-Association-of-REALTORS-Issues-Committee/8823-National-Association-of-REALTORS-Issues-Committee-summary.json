@@ -1,7 +1,7 @@
 {
     "slug": "8823-National-Association-of-REALTORS-Issues-Committee",
     "committeeName": "National Association of REALTORS Issues Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 8823,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "05/30/2020",
+        "contributions": 20000.0,
+        "num_contributions": 1,
+        "contributions_19_20": 20000.0,
+        "num_contributions_19_20": 1,
+        "expenditures": 20000.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 20000.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": 0.0
     }
 }

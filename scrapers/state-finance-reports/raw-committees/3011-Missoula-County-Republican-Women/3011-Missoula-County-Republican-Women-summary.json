@@ -1,7 +1,7 @@
 {
     "slug": "3011-Missoula-County-Republican-Women",
     "committeeName": "Missoula County Republican Women",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 5,
     "data": {
         "committeeId": 3011,
@@ -39,5 +39,18 @@
                 "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 5,
+        "last_report_end_date": "03/06/2018",
+        "contributions": 111.15,
+        "num_contributions": 78,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 7442.11,
+        "num_expenditures": 53,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 1226.93
     }
 }

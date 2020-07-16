@@ -1,7 +1,7 @@
 {
     "slug": "284-Lewis-&-Clark-County-Democratic-Action-Club",
     "committeeName": "Lewis & Clark County Democratic Action Club",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 8,
     "data": {
         "committeeId": 284,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 8,
+        "last_report_end_date": "03/30/2020",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 525.98,
+        "num_expenditures": 8,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 2062.93
     }
 }

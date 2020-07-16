@@ -86,5 +86,82 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "12/03/15",
+            "Entity Name": "Checkered Flag Strategies",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "620 O'Brien Ave",
+            "City": "Whitefish",
+            "State": "MT",
+            "Zip": "59937",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 163.89,
+            "Purpose": "Email Service (145) and printing (18.89) reimbursement",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "12/17/15",
+            "Entity Name": "Montanans for Responsible Leadership",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 3491",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "59403",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 20274.29,
+            "Purpose": "Contribution of remaining funds",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/13/15",
+            "Entity Name": "Rally.org",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "144 2nd Street",
+            "City": "San Fransisco",
+            "State": "CA",
+            "Zip": "94105",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 11.78,
+            "Purpose": "handling fee for online contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "03/21/15",
+            "Entity Name": "UPS Store #3834",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "300 Smelter Ave NE, Suite 1",
+            "City": "Great Falls",
+            "State": "MT",
+            "Zip": "50404",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 108.0,
+            "Purpose": "Annual Post Office Box Rental",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

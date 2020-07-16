@@ -1,7 +1,7 @@
 {
     "slug": "7061-Shodair-Children's-Hospital-Incidental-Committee",
     "committeeName": "Shodair Children's Hospital Incidental Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 7,
     "data": {
         "committeeId": 7061,
@@ -39,5 +39,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 7,
+        "last_report_end_date": "11/19/2018",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 643132.81,
+        "num_expenditures": 17,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -643132.81
     }
 }

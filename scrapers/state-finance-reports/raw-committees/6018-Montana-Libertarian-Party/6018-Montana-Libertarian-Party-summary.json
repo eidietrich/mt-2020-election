@@ -1,7 +1,7 @@
 {
     "slug": "6018-Montana-Libertarian-Party",
     "committeeName": "Montana Libertarian Party",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 10,
     "data": {
         "committeeId": 6018,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 10,
+        "last_report_end_date": "04/25/2020",
+        "contributions": 10181.02,
+        "num_contributions": 107,
+        "contributions_19_20": 2882.01,
+        "num_contributions_19_20": 12,
+        "expenditures": 6296.56,
+        "num_expenditures": 112,
+        "expenditures_19_20": 3710.81,
+        "num_expenditures_19_20": 15,
+        "cash_on_hand": 747.84
     }
 }

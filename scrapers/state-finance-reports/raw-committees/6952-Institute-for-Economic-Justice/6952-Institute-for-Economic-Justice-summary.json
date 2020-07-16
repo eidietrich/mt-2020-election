@@ -1,7 +1,7 @@
 {
     "slug": "6952-Institute-for-Economic-Justice",
     "committeeName": "Institute for Economic Justice",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 7,
     "data": {
         "committeeId": 6952,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 7,
+        "last_report_end_date": "10/23/2018",
+        "contributions": 2115.0,
+        "num_contributions": 48,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 2675.81,
+        "num_expenditures": 29,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 490.31
     }
 }

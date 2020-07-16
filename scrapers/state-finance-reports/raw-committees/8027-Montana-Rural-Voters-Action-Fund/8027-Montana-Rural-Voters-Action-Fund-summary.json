@@ -1,7 +1,7 @@
 {
     "slug": "8027-Montana-Rural-Voters-Action-Fund",
     "committeeName": "Montana Rural Voters Action Fund",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 9,
     "data": {
         "committeeId": 8027,
@@ -34,42 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Laurie Bishop for State House",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Connie Keogh for State House",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "Betsy Scanlin for State House",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Margaret (Margie) MacDonald for State Senate",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Mary Ann Dunwell for State House",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Edie McClafferty for State Senate",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Jasmine Krotkov for State House",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Kim Abbott for State House",
                 "position": "Support",
                 "status": "On ballot"
             },
@@ -79,17 +44,7 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Dave Fern for State House",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Ellie Hill for State Senate",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Jen Gross for State Senate",
+                "interest": "Kim Abbott for State House",
                 "position": "Support",
                 "status": "On ballot"
             },
@@ -99,7 +54,42 @@
                 "status": "On ballot"
             },
             {
-                "interest": " Emma Kerr-Carpenter for State House",
+                "interest": "Laurie Bishop for State House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jasmine Krotkov for State House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Ellie Hill for State Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Mary Ann Dunwell for State House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jen Gross for State Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Dave Fern for State House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Marilyn Marler for State House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Connie Keogh for State House",
                 "position": "Support",
                 "status": "On ballot"
             },
@@ -109,7 +99,17 @@
                 "status": "On ballot"
             },
             {
+                "interest": "Margaret (Margie) MacDonald for State Senate",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
                 "interest": "Moffie Funk for State House",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Edie McClafferty for State Senate",
                 "position": "Support",
                 "status": "On ballot"
             },
@@ -119,10 +119,23 @@
                 "status": "On ballot, approved"
             },
             {
-                "interest": "Marilyn Marler for State House",
+                "interest": " Emma Kerr-Carpenter for State House",
                 "position": "Support",
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 9,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 50250.0,
+        "num_contributions": 66,
+        "contributions_19_20": 50250.0,
+        "num_contributions_19_20": 66,
+        "expenditures": 67552.79,
+        "num_expenditures": 84,
+        "expenditures_19_20": 67552.79,
+        "num_expenditures_19_20": 84,
+        "cash_on_hand": 10441.79
     }
 }

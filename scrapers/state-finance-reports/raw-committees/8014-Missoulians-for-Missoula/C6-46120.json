@@ -93,6 +93,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "11/05/19",
+            "Entity Name": "The Political Company",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 81274",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59108",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 953.4,
+            "Purpose": "IE: (3630) SMS/Text Set Up Fee.  Missoula! Return your city ballot...Say no to higher property tax & a city wide sales tax. Vote for (candidates)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/31/19",
+            "Entity Name": "The Political Company",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 81274",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59108",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1083.25,
+            "Purpose": "IE: (1593) Stand Up for Missoula mail piece. 5.5x11, 100# cover, 4cp/4cp, design, print, mail prep & postage",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

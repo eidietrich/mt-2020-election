@@ -23,5 +23,63 @@
         "cash_in_bank": -1283.0
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/20/16",
+            "Entity Name": "Plath Law Office",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1337",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59103",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 152.75,
+            "Purpose": "Inkind independent expenditure-client letters - postage",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/20/16",
+            "Entity Name": "Plath Law Office",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1337",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59103",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 100.63,
+            "Purpose": "Inkind independent expenditureclient letters, staff time-(5.75 hrs @ $17.50)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/20/16",
+            "Entity Name": "Plath Law Office",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1337",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59103",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 29.62,
+            "Purpose": "Inkind independent expenditure-client letters, paper, address labels, & envelopes ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

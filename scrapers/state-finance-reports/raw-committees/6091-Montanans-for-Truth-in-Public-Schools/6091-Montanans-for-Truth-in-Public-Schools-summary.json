@@ -1,7 +1,7 @@
 {
     "slug": "6091-Montanans-for-Truth-in-Public-Schools",
     "committeeName": "Montanans for Truth in Public Schools",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 5,
     "data": {
         "committeeId": 6091,
@@ -34,15 +34,28 @@
         ],
         "issues": [
             {
-                "interest": "Greg Gianforte",
-                "position": "Oppose",
-                "status": "Support"
-            },
-            {
                 "interest": "Educate Voters Regarding Proper Use of tax Payer Dollars in Public Schools",
                 "position": "Oppose",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Greg Gianforte",
+                "position": "Oppose",
+                "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 5,
+        "last_report_end_date": "11/22/2016",
+        "contributions": 15915.67,
+        "num_contributions": 20,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 15915.67,
+        "num_expenditures": 2,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

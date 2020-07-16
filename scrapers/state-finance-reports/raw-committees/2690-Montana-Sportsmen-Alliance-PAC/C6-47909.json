@@ -23,5 +23,25 @@
         "cash_in_bank": 1692.41
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/02/20",
+            "Entity Name": "Yahu, Kathryn Q",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1007 N. Warren Str.",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 15.0,
+            "Purpose": "Web Page Maintenance, to endorse Kathleen Williams,/ Melissa Romano. To endorse Bridget Smith",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Web page.",
+            "Expenditure Paid Communications Quantity": "one page list",
+            "Expenditure Paid Communications Subject Matter": "Endorsed candidate page"
+        }
+    ]
 }

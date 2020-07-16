@@ -200,6 +200,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "06/16/20",
+            "Entity Name": "Great American Media",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "3050 K St NW, Ste 100",
+            "City": "Washington DC",
+            "State": "DC",
+            "Zip": "20007",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 188238.0,
+            "Purpose": "Statewide TV Media Placement",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "TV",
+            "Expenditure Paid Communications Quantity": "Missoula 6.16-6.22 - 400 GRPs,\nBillings 6.16-6.22 - 400 GRPs,\nGreat Falls 6.16-6.22 - 400 GRPs,\nButte-Bozeman 6.16-6.22 - 400 GRPs,\nHelena 6.16-6.22 - 300 GRPs",
+            "Expenditure Paid Communications Subject Matter": "Opposing Greg Gianforte"
+        },
+        {
+            "Date Paid": "06/22/20",
+            "Entity Name": "Great American Media",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "3050 K St NW, Ste 100",
+            "City": "Washington DC",
+            "State": "DC",
+            "Zip": "20007",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 188238.0,
+            "Purpose": "Statewide TV Media Placement",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "TV",
+            "Expenditure Paid Communications Quantity": "Missoula 6.23-6.29: 400 GRP, Billings 6.23-6.29: 400 GRP, Great Falls 6.23-6.29: 400 GRP, Butte-Bozeman 6.23-6.29: 400 GRP, Helena 6.23-6.29: 300 GRP",
+            "Expenditure Paid Communications Subject Matter": "Opposing Greg Gianforte"
         }
     ]
 }

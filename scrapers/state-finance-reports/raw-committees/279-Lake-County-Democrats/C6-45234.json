@@ -857,6 +857,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "08/18/19",
+            "Entity Name": "Avila, Betty",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "203 5th Ave SW",
+            "City": "Ronan",
+            "State": "MT",
+            "Zip": "59864",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 50.0,
+            "Purpose": "CAMPAIGN CONTRIBTION",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "07/24/19",
+            "Entity Name": "Bullock for President, Steve",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1330",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 100.0,
+            "Purpose": "CAMPAIGN CONTRIBUTION - Governor Bullock",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

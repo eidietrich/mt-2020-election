@@ -23,5 +23,63 @@
         "cash_in_bank": 522.86
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/26/16",
+            "Entity Name": "MoneyGram",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2828 N. Harwood Street",
+            "City": "Dallas",
+            "State": "TX",
+            "Zip": "75201",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 55.0,
+            "Purpose": "Salary (5 hrs @ $10/hr) to gatherer Daniel Loween plus $5 fee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/26/16",
+            "Entity Name": "The Garage",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "334 N Jackson St.",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 75.0,
+            "Purpose": "Bike repairs for gatherer Dan Loween",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/31/16",
+            "Entity Name": "Verizon Wireless",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 4005",
+            "City": "Acworth",
+            "State": "GA",
+            "Zip": "30101",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 63.5,
+            "Purpose": "Unlimited telephone and messaging service, 2 GB of data for emailing and social media",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

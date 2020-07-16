@@ -1,7 +1,7 @@
 {
     "slug": "8099-Coldwater-Group",
     "committeeName": "Coldwater Group",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 8099,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "09/30/2019",
+        "contributions": 6000.0,
+        "num_contributions": 1,
+        "contributions_19_20": 6000.0,
+        "num_contributions_19_20": 1,
+        "expenditures": 0,
+        "num_expenditures": 0,
+        "expenditures_19_20": 0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

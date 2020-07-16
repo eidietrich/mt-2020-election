@@ -23,5 +23,63 @@
         "cash_in_bank": 1792.17
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/27/18",
+            "Entity Name": "Facebook",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1 Hacker Way",
+            "City": "Menlo Park",
+            "State": "CA",
+            "Zip": "94025",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1.98,
+            "Purpose": "Facebook Ads (Post Promo \"Who's really for equal pay? Montana State University...\" 5/24-5/27)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/27/18",
+            "Entity Name": "Facebook",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1 Hacker Way",
+            "City": "Menlo Park",
+            "State": "CA",
+            "Zip": "94025",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 6.83,
+            "Purpose": "Facebook Ads (Post Promo \"University advocates blame taxpayers for the high...\" 5/24-5/27)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/27/18",
+            "Entity Name": "Facebook",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1 Hacker Way",
+            "City": "Menlo Park",
+            "State": "CA",
+            "Zip": "94025",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 0.34,
+            "Purpose": "Facebook Ads (Post Promo \"University officials and dark money groups have...\" 5/24-5/27)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

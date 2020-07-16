@@ -23,5 +23,44 @@
         "cash_in_bank": -41678.65
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "03/25/20",
+            "Entity Name": "Missoula Organization of REALTORS",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "724 Burlington Ave",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 969.65,
+            "Purpose": "In-Kind Staff Contribution",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": "Two staff planning & development meetings 25 hours, and meeting space."
+        },
+        {
+            "Date Paid": "02/14/20",
+            "Entity Name": "Missoula Organization of REALTORS",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "724 Burlington Ave",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 40709.0,
+            "Purpose": "Fair market value of polling data provided on local option gas tax",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": "Polling data "
+        }
+    ]
 }

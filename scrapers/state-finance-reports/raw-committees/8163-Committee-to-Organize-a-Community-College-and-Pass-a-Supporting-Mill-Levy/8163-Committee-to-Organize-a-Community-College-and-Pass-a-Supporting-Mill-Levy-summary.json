@@ -1,7 +1,7 @@
 {
     "slug": "8163-Committee-to-Organize-a-Community-College-and-Pass-a-Supporting-Mill-Levy",
     "committeeName": "Committee to Organize a Community College and Pass a Supporting Mill Levy",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 2,
     "data": {
         "committeeId": 8163,
@@ -39,5 +39,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 2,
+        "last_report_end_date": "06/08/2020",
+        "contributions": 19267.49,
+        "num_contributions": 19,
+        "contributions_19_20": 19267.49,
+        "num_contributions_19_20": 19,
+        "expenditures": 21865.86,
+        "num_expenditures": 21,
+        "expenditures_19_20": 21865.86,
+        "num_expenditures_19_20": 21,
+        "cash_on_hand": 0.0
     }
 }

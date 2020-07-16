@@ -80,6 +80,25 @@
             "Expenditure Paid Communications Platform": "PO BOX",
             "Expenditure Paid Communications Quantity": "1",
             "Expenditure Paid Communications Subject Matter": "N/A"
+        },
+        {
+            "Date Paid": "06/02/20",
+            "Entity Name": "Facebook",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1601 Willow Road",
+            "City": "Menlo Park",
+            "State": "CA",
+            "Zip": "94025",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2000.0,
+            "Purpose": "May 13-June 2020; 37,717 people reached; 4,306 engagements ",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Facebook",
+            "Expenditure Paid Communications Quantity": "May 13-June 2",
+            "Expenditure Paid Communications Subject Matter": "Mike Cooney for Governor"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "slug": "6959-Beartooth-Billings-Clinic-Incidental-Committee",
     "committeeName": "Beartooth Billings Clinic Incidental Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 4,
     "data": {
         "committeeId": 6959,
@@ -44,5 +44,18 @@
                 "status": "Not on ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 4,
+        "last_report_end_date": "11/21/2018",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 2107.0,
+        "num_expenditures": 7,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -2107.0
     }
 }

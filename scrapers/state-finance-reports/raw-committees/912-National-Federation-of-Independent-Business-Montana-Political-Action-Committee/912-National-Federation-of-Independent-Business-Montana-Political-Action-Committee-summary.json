@@ -1,7 +1,7 @@
 {
     "slug": "912-National-Federation-of-Independent-Business-Montana-Political-Action-Committee",
     "committeeName": "National Federation of Independent Business Montana Political Action Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 20,
     "data": {
         "committeeId": 912,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 20,
+        "last_report_end_date": "12/31/2018",
+        "contributions": 1015.0,
+        "num_contributions": 12,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1763.59,
+        "num_expenditures": 56,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

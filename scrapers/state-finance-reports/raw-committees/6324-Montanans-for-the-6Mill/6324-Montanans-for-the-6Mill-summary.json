@@ -1,7 +1,7 @@
 {
     "slug": "6324-Montanans-for-the-6Mill",
     "committeeName": "Montanans for the 6Mill ",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 15,
     "data": {
         "committeeId": 6324,
@@ -39,5 +39,18 @@
                 "status": "On ballot, approved"
             }
         ]
+    },
+    "finances": {
+        "reports": 15,
+        "last_report_end_date": "03/05/2019",
+        "contributions": 1654921.7,
+        "num_contributions": 493,
+        "contributions_19_20": 533.4,
+        "num_contributions_19_20": 1,
+        "expenditures": 1513205.4,
+        "num_expenditures": 125,
+        "expenditures_19_20": 14786.59,
+        "num_expenditures_19_20": 4,
+        "cash_on_hand": 0.0
     }
 }

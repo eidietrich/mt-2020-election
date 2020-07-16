@@ -1,7 +1,7 @@
 {
     "slug": "6316-Flathead-County-Libertarian-Party",
     "committeeName": "Flathead County Libertarian Party",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 5,
     "data": {
         "committeeId": 6316,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 5,
+        "last_report_end_date": "06/25/2018",
+        "contributions": 3220.05,
+        "num_contributions": 43,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 3265.23,
+        "num_expenditures": 32,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 77.71
     }
 }

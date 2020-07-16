@@ -1,7 +1,7 @@
 {
     "slug": "8251-MHA-IC-to-support-MHAPAC",
     "committeeName": "MHA IC to support MHAPAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 8251,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "01/03/2020",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 2500.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 2500.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": -2500.0
     }
 }

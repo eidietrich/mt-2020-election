@@ -1,7 +1,7 @@
 {
     "slug": "3460-Montanans-for-Liberty-and-Justice",
     "committeeName": "Montanans for Liberty and Justice",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 30,
     "data": {
         "committeeId": 3460,
@@ -44,5 +44,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 30,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 786133.11,
+        "num_contributions": 89,
+        "contributions_19_20": 534.43,
+        "num_contributions_19_20": 7,
+        "expenditures": 777446.33,
+        "num_expenditures": 47,
+        "expenditures_19_20": 46.96,
+        "num_expenditures_19_20": 2,
+        "cash_on_hand": 694.83
     }
 }

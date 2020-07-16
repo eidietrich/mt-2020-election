@@ -1,7 +1,7 @@
 {
     "slug": "316-Ravalli-County-Republican-Women",
     "committeeName": "Ravalli County Republican Women",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 24,
     "data": {
         "committeeId": 316,
@@ -44,5 +44,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 24,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 10780.1,
+        "num_contributions": 325,
+        "contributions_19_20": 1191.5,
+        "num_contributions_19_20": 90,
+        "expenditures": 18765.57,
+        "num_expenditures": 97,
+        "expenditures_19_20": 2812.24,
+        "num_expenditures_19_20": 23,
+        "cash_on_hand": 8354.92
     }
 }

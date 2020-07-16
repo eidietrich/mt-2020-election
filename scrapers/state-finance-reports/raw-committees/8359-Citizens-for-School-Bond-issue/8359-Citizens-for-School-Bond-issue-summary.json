@@ -1,7 +1,7 @@
 {
     "slug": "8359-Citizens-for-School-Bond-issue",
     "committeeName": "Citizens for School Bond issue ",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 2,
     "data": {
         "committeeId": 8359,
@@ -39,5 +39,18 @@
                 "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 2,
+        "last_report_end_date": "04/25/2020",
+        "contributions": 1350.0,
+        "num_contributions": 10,
+        "contributions_19_20": 1350.0,
+        "num_contributions_19_20": 10,
+        "expenditures": 1294.0,
+        "num_expenditures": 3,
+        "expenditures_19_20": 1294.0,
+        "num_expenditures_19_20": 3,
+        "cash_on_hand": 56.0
     }
 }

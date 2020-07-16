@@ -1,7 +1,7 @@
 {
     "slug": "297-Meagher-County-Republican-Central-Cmte.",
     "committeeName": "Meagher County Republican Central Cmte.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 14,
     "data": {
         "committeeId": 297,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 14,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 142.57,
+        "num_expenditures": 69,
+        "expenditures_19_20": 11.4,
+        "num_expenditures_19_20": 17,
+        "cash_on_hand": 249.32
     }
 }

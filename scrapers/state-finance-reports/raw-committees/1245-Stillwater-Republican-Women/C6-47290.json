@@ -210,5 +210,63 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "03/30/20",
+            "Entity Name": "First Interstate Bank",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 480",
+            "City": "Absarokee",
+            "State": "MT",
+            "Zip": "59001",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2.0,
+            "Purpose": "Bank fee for paper statement",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "03/27/20",
+            "Entity Name": "MTFRW",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1496",
+            "City": "Columbus",
+            "State": "MT",
+            "Zip": "59019",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 192.5,
+            "Purpose": "4 membership dues @ $27.50",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/03/20",
+            "Entity Name": "MTFRW",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1496",
+            "City": "Columbus",
+            "State": "MT",
+            "Zip": "59019",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 55.0,
+            "Purpose": "4 membership dues @ $27.50",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "slug": "4420-Butte---Silver-bow-Democrats",
     "committeeName": "Butte - Silver bow Democrats",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 4420,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "01/31/2016",
+        "contributions": 1691.64,
+        "num_contributions": 14,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 3247.49,
+        "num_expenditures": 15,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -1152.24
     }
 }

@@ -55,5 +55,25 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/07/16",
+            "Entity Name": "Spiker Communications",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 8567",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59807",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 8000.0,
+            "Purpose": "Pay Bill for Services",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

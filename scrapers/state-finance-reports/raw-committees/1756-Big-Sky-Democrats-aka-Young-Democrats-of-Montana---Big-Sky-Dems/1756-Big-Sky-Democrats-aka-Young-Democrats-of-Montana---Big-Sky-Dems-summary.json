@@ -1,7 +1,7 @@
 {
     "slug": "1756-Big-Sky-Democrats-aka-Young-Democrats-of-Montana---Big-Sky-Dems",
     "committeeName": "Big Sky Democrats aka Young Democrats of Montana - Big Sky Dems",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 1756,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "12/31/2015",
+        "contributions": 1168.0,
+        "num_contributions": 4,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 521.8,
+        "num_expenditures": 4,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 3689.89
     }
 }

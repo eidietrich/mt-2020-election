@@ -1,7 +1,7 @@
 {
     "slug": "6250-Friends-of-Don-Roberts",
     "committeeName": "Friends of Don Roberts",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 6250,
@@ -34,15 +34,28 @@
         ],
         "issues": [
             {
-                "interest": "Newspaper Ad (Billings Gazette) Supporting Don Roberts",
+                "interest": "Don Roberts",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Don Roberts",
+                "interest": "Newspaper Ad (Billings Gazette) Supporting Don Roberts",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "10/07/2016",
+        "contributions": 400.0,
+        "num_contributions": 1,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1342.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

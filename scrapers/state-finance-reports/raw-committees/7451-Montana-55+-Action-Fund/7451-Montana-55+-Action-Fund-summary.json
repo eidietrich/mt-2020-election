@@ -1,7 +1,7 @@
 {
     "slug": "7451-Montana-55+-Action-Fund",
     "committeeName": "Montana 55+ Action Fund",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 7,
     "data": {
         "committeeId": 7451,
@@ -34,22 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Laura Dever for HD 22",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Amelia Marquez for HD 52",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Purpose of Committee",
-                "position": "Other",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Mary McNally for SD 24",
+                "interest": "Anna Drew for HD 58",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -59,22 +44,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Barbara Bassette for HD 24",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Eldena Bear Don't Walk for HD 92",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Margaret Gorksi for HD 88",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Diane Sands for SD49",
+                "interest": "Mary McNally for SD 24",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -84,12 +54,22 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Bryher Herak for HD 75",
+                "interest": "Diane Sands for SD49",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Doug Kaercher for PSC #1",
+                "interest": "Jacob Bachmeier for HD 28",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Amelia Marquez for HD 52",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jessica Karjala for HD 48",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -99,8 +79,13 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jessica Karjala for HD 48",
+                "interest": "Barbara Bassette for HD 24",
                 "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Purpose of Committee",
+                "position": "Other",
                 "status": "Not Applicable"
             },
             {
@@ -114,7 +99,12 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jacob Bachmeier for HD 28",
+                "interest": "Eldena Bear Don't Walk for HD 92",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bryher Herak for HD 75",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -124,10 +114,33 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Anna Drew for HD 58",
+                "interest": "Laura Dever for HD 22",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Doug Kaercher for PSC #1",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Margaret Gorksi for HD 88",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 7,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 60761.95,
+        "num_contributions": 15,
+        "contributions_19_20": 15300.0,
+        "num_contributions_19_20": 8,
+        "expenditures": 63548.68,
+        "num_expenditures": 67,
+        "expenditures_19_20": 16613.64,
+        "num_expenditures_19_20": 18,
+        "cash_on_hand": -1168.68
     }
 }

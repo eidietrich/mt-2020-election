@@ -1,8 +1,8 @@
 {
     "slug": "2902-Montana-Land-Surveyors-Pac--(mls-pac)",
     "committeeName": "Montana Land Surveyors Pac  (mls-pac)",
-    "scrape_date": "2020-07-02",
-    "periods": 10,
+    "scrape_date": "2020-07-09",
+    "periods": 12,
     "data": {
         "committeeId": 2902,
         "committeeName": "Montana Land Surveyors Pac  (mls-pac)",
@@ -39,31 +39,6 @@
                 "status": "Support"
             },
             {
-                "interest": "Adam Hertz for HD 96",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Ross Fitzgerald - HD17",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Forrest Mandeville for HD57",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Daniel Zolnikov for HD45",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Jobs for Montana PAC",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Scott Sales for Senate District 35",
                 "position": "Support",
                 "status": "Not Applicable"
@@ -74,17 +49,12 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Promote the election of candidates for public elective office who support a better business climate and strong economy.",
-                "position": "Other",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kristen Juras - Supreme  Court Justice",
+                "interest": "Daniel Zolnikov for HD45",
                 "position": "Support",
-                "status": "Not Applicable"
+                "status": "Support"
             },
             {
-                "interest": "Ed Greef for HD88",
+                "interest": "Becky Beard for House District 80",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -94,10 +64,53 @@
                 "status": "Support"
             },
             {
-                "interest": "Becky Beard for House District 80",
+                "interest": "Ross Fitzgerald - HD17",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ed Greef for HD88",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kristen Juras - Supreme  Court Justice",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Promote the election of candidates for public elective office who support a better business climate and strong economy.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Adam Hertz for HD 96",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Forrest Mandeville for HD57",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jobs for Montana PAC",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 12,
+        "last_report_end_date": "06/25/2020",
+        "contributions": -5139.22,
+        "num_contributions": 7,
+        "contributions_19_20": -1020.0,
+        "num_contributions_19_20": 2,
+        "expenditures": 9563.9,
+        "num_expenditures": 23,
+        "expenditures_19_20": 2603.9,
+        "num_expenditures_19_20": 5,
+        "cash_on_hand": 7231.33
     }
 }

@@ -1,7 +1,7 @@
 {
     "slug": "323-Rosebud-County-Republican-Central-Cmte.",
     "committeeName": "Rosebud County Republican Central Cmte.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 10,
     "data": {
         "committeeId": 323,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 10,
+        "last_report_end_date": "04/30/2020",
+        "contributions": -9506.0,
+        "num_contributions": 6,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 7288.5,
+        "num_expenditures": 6,
+        "expenditures_19_20": 75.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": 4590.42
     }
 }

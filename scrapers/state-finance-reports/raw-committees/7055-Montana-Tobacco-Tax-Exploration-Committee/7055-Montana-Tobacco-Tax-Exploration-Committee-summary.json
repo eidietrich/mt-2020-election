@@ -1,7 +1,7 @@
 {
     "slug": "7055-Montana-Tobacco-Tax-Exploration-Committee",
     "committeeName": "Montana Tobacco Tax Exploration Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 7055,
@@ -39,5 +39,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "04/26/2018",
+        "contributions": 93500.0,
+        "num_contributions": 17,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 93500.0,
+        "num_expenditures": 13,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

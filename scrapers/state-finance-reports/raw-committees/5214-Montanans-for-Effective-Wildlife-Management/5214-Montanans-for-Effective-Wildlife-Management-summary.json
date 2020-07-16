@@ -1,7 +1,7 @@
 {
     "slug": "5214-Montanans-for-Effective-Wildlife-Management",
     "committeeName": "Montanans for Effective Wildlife Management",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 6,
     "data": {
         "committeeId": 5214,
@@ -39,5 +39,18 @@
                 "status": "On ballot, defeated"
             }
         ]
+    },
+    "finances": {
+        "reports": 6,
+        "last_report_end_date": "07/16/2016",
+        "contributions": 7395.53,
+        "num_contributions": 1,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 7420.9,
+        "num_expenditures": 1,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

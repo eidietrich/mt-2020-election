@@ -74,6 +74,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/26/16",
+            "Entity Name": "Great American Media",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "3050 K Street, NW, Suite 100",
+            "City": "Washington DC",
+            "State": "DC",
+            "Zip": "20007",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 188543.0,
+            "Purpose": "Media Opposing Greg Gianforte",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

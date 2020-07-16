@@ -1,7 +1,7 @@
 {
     "slug": "8047-Central-Montana-Progressive-Political-Action-Committee",
     "committeeName": "Central Montana Progressive Political Action Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 5,
     "data": {
         "committeeId": 8047,
@@ -34,7 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Raph Graybill",
+                "interest": "Kathleen Williams for House of Representatives",
                 "position": "Support",
                 "status": "On ballot, approved"
             },
@@ -42,6 +42,11 @@
                 "interest": "Mike Cooney",
                 "position": "Support",
                 "status": "On ballot"
+            },
+            {
+                "interest": "Steve Bullock",
+                "position": "Support",
+                "status": "On ballot, approved"
             },
             {
                 "interest": "Raph Graybill",
@@ -54,15 +59,23 @@
                 "status": "Support"
             },
             {
-                "interest": "Steve Bullock",
-                "position": "Support",
-                "status": "On ballot, approved"
-            },
-            {
-                "interest": "Kathleen Williams for House of Representatives",
+                "interest": "Raph Graybill",
                 "position": "Support",
                 "status": "On ballot, approved"
             }
         ]
+    },
+    "finances": {
+        "reports": 5,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 5010.09,
+        "num_contributions": 56,
+        "contributions_19_20": 5010.09,
+        "num_contributions_19_20": 56,
+        "expenditures": 340.94,
+        "num_expenditures": 9,
+        "expenditures_19_20": 340.94,
+        "num_expenditures_19_20": 9,
+        "cash_on_hand": 4789.15
     }
 }

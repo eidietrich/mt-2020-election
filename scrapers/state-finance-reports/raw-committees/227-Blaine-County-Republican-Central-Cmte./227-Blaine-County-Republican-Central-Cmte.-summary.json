@@ -1,8 +1,8 @@
 {
     "slug": "227-Blaine-County-Republican-Central-Cmte.",
     "committeeName": "Blaine County Republican Central Cmte.",
-    "scrape_date": "2020-07-02",
-    "periods": 18,
+    "scrape_date": "2020-07-09",
+    "periods": 19,
     "data": {
         "committeeId": 227,
         "committeeName": "Blaine County Republican Central Cmte.",
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 19,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 8309.79,
+        "num_contributions": 176,
+        "contributions_19_20": 3532.0,
+        "num_contributions_19_20": 51,
+        "expenditures": 20763.04,
+        "num_expenditures": 54,
+        "expenditures_19_20": 6170.49,
+        "num_expenditures_19_20": 13,
+        "cash_on_hand": 4221.29
     }
 }

@@ -1,7 +1,7 @@
 {
     "slug": "6417-Montanans-Against-Higher-Taxes",
     "committeeName": "Montanans Against Higher Taxes",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 13,
     "data": {
         "committeeId": 6417,
@@ -39,5 +39,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 13,
+        "last_report_end_date": "11/07/2018",
+        "contributions": 3715.52,
+        "num_contributions": 24,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 3572.46,
+        "num_expenditures": 154,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

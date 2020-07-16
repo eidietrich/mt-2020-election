@@ -1,7 +1,7 @@
 {
     "slug": "324-Sanders-County-Democrats",
     "committeeName": "Sanders County Democrats",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 13,
     "data": {
         "committeeId": 324,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 13,
+        "last_report_end_date": "06/25/2020",
+        "contributions": -11773.25,
+        "num_contributions": 61,
+        "contributions_19_20": -2922.25,
+        "num_contributions_19_20": 53,
+        "expenditures": 11118.23,
+        "num_expenditures": 97,
+        "expenditures_19_20": 5298.23,
+        "num_expenditures_19_20": 53,
+        "cash_on_hand": 6859.98
     }
 }

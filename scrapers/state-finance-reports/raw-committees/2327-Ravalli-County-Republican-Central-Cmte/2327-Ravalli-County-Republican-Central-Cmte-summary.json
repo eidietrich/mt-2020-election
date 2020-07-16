@@ -1,7 +1,7 @@
 {
     "slug": "2327-Ravalli-County-Republican-Central-Cmte",
     "committeeName": "Ravalli County Republican Central Cmte",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 21,
     "data": {
         "committeeId": 2327,
@@ -34,15 +34,28 @@
         ],
         "issues": [
             {
-                "interest": "I-185, I-186",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
                 "interest": "Support: County Comm - Chilcott; State District - Manzella (HD85), Bedey (HD86), Ballance (HD87), Greef (HD88), Ellsworth (SD43), Rosendale (US Senate), Gianforte (Congress), LR-129",
                 "position": "Support",
                 "status": "On ballot"
+            },
+            {
+                "interest": "I-185, I-186",
+                "position": "Oppose",
+                "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 21,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 68588.97,
+        "num_contributions": 1168,
+        "contributions_19_20": 26386.07,
+        "num_contributions_19_20": 347,
+        "expenditures": 122285.29,
+        "num_expenditures": 354,
+        "expenditures_19_20": 36294.71,
+        "num_expenditures_19_20": 121,
+        "cash_on_hand": 47298.35
     }
 }

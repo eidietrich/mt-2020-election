@@ -1,7 +1,7 @@
 {
     "slug": "6075-Doubek-Pyfer-&-Fox-LLP",
     "committeeName": "Doubek, Pyfer & Fox, LLP",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 6075,
@@ -39,5 +39,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "10/19/2016",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 3292.67,
+        "num_expenditures": 3,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -3292.67
     }
 }

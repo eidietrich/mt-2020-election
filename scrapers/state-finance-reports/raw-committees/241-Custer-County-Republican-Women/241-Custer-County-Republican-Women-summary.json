@@ -1,7 +1,7 @@
 {
     "slug": "241-Custer-County-Republican-Women",
     "committeeName": "Custer County Republican Women",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 13,
     "data": {
         "committeeId": 241,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 13,
+        "last_report_end_date": "03/25/2020",
+        "contributions": 4335.4,
+        "num_contributions": 33,
+        "contributions_19_20": 2669.4,
+        "num_contributions_19_20": 19,
+        "expenditures": 6169.19,
+        "num_expenditures": 43,
+        "expenditures_19_20": 3721.14,
+        "num_expenditures_19_20": 27,
+        "cash_on_hand": 671.21
     }
 }

@@ -1,7 +1,7 @@
 {
     "slug": "5803-Citizens-for-Better-Schools",
     "committeeName": "Citizens for Better Schools",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 5803,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "09/22/2016",
+        "contributions": 2000.0,
+        "num_contributions": 6,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 2000.0,
+        "num_expenditures": 6,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

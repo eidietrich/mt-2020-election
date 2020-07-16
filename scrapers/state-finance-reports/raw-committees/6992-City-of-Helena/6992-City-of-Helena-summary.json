@@ -1,7 +1,7 @@
 {
     "slug": "6992-City-of-Helena",
     "committeeName": "City of Helena",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 3,
     "data": {
         "committeeId": 6992,
@@ -39,5 +39,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 3,
+        "last_report_end_date": "06/21/2018",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 51545.49,
+        "num_expenditures": 17,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -26295.49
     }
 }

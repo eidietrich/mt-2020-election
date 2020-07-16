@@ -1,7 +1,7 @@
 {
     "slug": "5025-Bechtold-Law-Firm-PLLC",
     "committeeName": "Bechtold Law Firm PLLC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 27,
     "data": {
         "committeeId": 5025,
@@ -34,15 +34,28 @@
         ],
         "issues": [
             {
-                "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
-                "position": "Other",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
+                "position": "Other",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 27,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 22500.0,
+        "num_expenditures": 9,
+        "expenditures_19_20": 7500.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": -22500.0
     }
 }

@@ -55,5 +55,25 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "07/25/16",
+            "Entity Name": "Winding Creek Group",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1813 Westmeade Drive",
+            "City": "Chesterfield",
+            "State": "MO",
+            "Zip": "63017",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 3500.0,
+            "Purpose": "Polling Fees",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

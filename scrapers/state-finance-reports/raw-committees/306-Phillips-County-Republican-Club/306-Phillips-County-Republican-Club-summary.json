@@ -1,7 +1,7 @@
 {
     "slug": "306-Phillips-County-Republican-Club",
     "committeeName": "Phillips County Republican Club",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 306,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "12/31/2016",
+        "contributions": -2442.0,
+        "num_contributions": 1,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 2326.35,
+        "num_expenditures": 7,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 703.71
     }
 }

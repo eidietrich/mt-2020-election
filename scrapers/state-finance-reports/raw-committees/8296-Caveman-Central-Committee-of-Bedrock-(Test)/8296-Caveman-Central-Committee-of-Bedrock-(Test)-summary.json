@@ -1,7 +1,7 @@
 {
     "slug": "8296-Caveman-Central-Committee-of-Bedrock-(Test)",
     "committeeName": "Caveman Central Committee of Bedrock (Test)",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 2,
     "data": {
         "committeeId": 8296,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 2,
+        "last_report_end_date": "05/12/2020",
+        "contributions": 74627.15,
+        "num_contributions": 295,
+        "contributions_19_20": 74627.15,
+        "num_contributions_19_20": 295,
+        "expenditures": 61934.0,
+        "num_expenditures": 207,
+        "expenditures_19_20": 61934.0,
+        "num_expenditures_19_20": 207,
+        "cash_on_hand": 14944.85
     }
 }

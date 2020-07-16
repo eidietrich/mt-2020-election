@@ -1,7 +1,7 @@
 {
     "slug": "7468-NORTHERN-ROCKIES-MEDICAL-CENTER-INCIDENTAL-COMMITTEE",
     "committeeName": "NORTHERN ROCKIES MEDICAL CENTER INCIDENTAL COMMITTEE",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 7,
     "data": {
         "committeeId": 7468,
@@ -39,5 +39,18 @@
                 "status": "Not on ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 7,
+        "last_report_end_date": "11/21/2018",
+        "contributions": 370.05,
+        "num_contributions": 1,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 25000.0,
+        "num_expenditures": 2,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -25000.0
     }
 }

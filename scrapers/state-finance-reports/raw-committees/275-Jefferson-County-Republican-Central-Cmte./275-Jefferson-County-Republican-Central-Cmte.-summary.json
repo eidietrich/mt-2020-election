@@ -1,7 +1,7 @@
 {
     "slug": "275-Jefferson-County-Republican-Central-Cmte.",
     "committeeName": "Jefferson County Republican Central Cmte.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 16,
     "data": {
         "committeeId": 275,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 16,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 1345.5,
+        "num_contributions": 64,
+        "contributions_19_20": 1521.0,
+        "num_contributions_19_20": 32,
+        "expenditures": 5096.99,
+        "num_expenditures": 21,
+        "expenditures_19_20": 1687.52,
+        "num_expenditures_19_20": 10,
+        "cash_on_hand": 1709.94
     }
 }

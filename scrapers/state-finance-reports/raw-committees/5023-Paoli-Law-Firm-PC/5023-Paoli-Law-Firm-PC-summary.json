@@ -1,7 +1,7 @@
 {
     "slug": "5023-Paoli-Law-Firm-PC",
     "committeeName": "Paoli Law Firm PC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 15,
     "data": {
         "committeeId": 5023,
@@ -44,5 +44,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 15,
+        "last_report_end_date": "12/31/2017",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 65628.85,
+        "num_expenditures": 26,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -65628.85
     }
 }

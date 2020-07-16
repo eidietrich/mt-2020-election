@@ -1,7 +1,7 @@
 {
     "slug": "6355-Great-Falls-Development-Authority-Inc.-Incidental-Committee-for-Cascade-County-Economic-Development-Mill-Levy",
     "committeeName": "Great Falls Development Authority, Inc. Incidental Committee for Cascade County Economic Development Mill Levy",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 6355,
@@ -44,5 +44,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "08/23/2018",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 73293.9,
+        "num_expenditures": 16,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -73293.9
     }
 }

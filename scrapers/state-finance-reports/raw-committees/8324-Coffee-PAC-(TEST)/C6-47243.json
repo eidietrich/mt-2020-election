@@ -42,6 +42,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "5",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/08/20",
+            "Entity Name": "Best Media Company",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1 Main St.",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59716",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1000.0,
+            "Purpose": "Television commercial",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "NBC Montana- all",
+            "Expenditure Paid Communications Quantity": "Aired April 8-9",
+            "Expenditure Paid Communications Subject Matter": "Iced Tea is out of touch"
         }
     ]
 }

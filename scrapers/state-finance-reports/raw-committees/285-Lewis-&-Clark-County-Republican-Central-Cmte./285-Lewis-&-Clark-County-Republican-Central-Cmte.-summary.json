@@ -1,7 +1,7 @@
 {
     "slug": "285-Lewis-&-Clark-County-Republican-Central-Cmte.",
     "committeeName": "Lewis & Clark County Republican Central Cmte.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 22,
     "data": {
         "committeeId": 285,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 22,
+        "last_report_end_date": "06/30/2020",
+        "contributions": 85261.25,
+        "num_contributions": 487,
+        "contributions_19_20": 23152.5,
+        "num_contributions_19_20": 63,
+        "expenditures": 76109.97,
+        "num_expenditures": 219,
+        "expenditures_19_20": 16342.67,
+        "num_expenditures_19_20": 27,
+        "cash_on_hand": 15549.18
     }
 }

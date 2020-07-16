@@ -1,7 +1,7 @@
 {
     "slug": "2127-Montana-Credit-Union-League-PAC",
     "committeeName": "Montana Credit Union League PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 21,
     "data": {
         "committeeId": 2127,
@@ -34,87 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "Amy Rapp for HD 20",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Mike Cuffe for HD 2",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Shoots Veis for HD 51",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Fred Thomas for SD 44",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Joel Krautter for HD 35",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Willis Curdy for HD 98",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Kathy Swanson for HD 77",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Dan Salomon for SD 47",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Adam Hertz for HD 96",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Mary Ann Dunwell for HD 84",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Keith Regier for SD 3",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Alan Redfield for HD 59",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Ryan Lynch for HD 76",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kelly McCarthy for HD 49",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Carolyn Pease-Lopez for SD 21",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "John Bedford for HD 45",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Tom Jacobson for HD 21",
+                "interest": "Amy Rapp for HD 20",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -124,7 +49,52 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Tom Jacobson for HD 21",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Willis Curdy for HD 98",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Adam Hertz for HD 96",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Alan Redfield for HD 59",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Fred Thomas for SD 44",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Carolyn Pease-Lopez for SD 21",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Shoots Veis for HD 51",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "John Bedford for HD 45",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Austin Knudsen for HD 34",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kelly McCarthy for HD 49",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -132,7 +102,50 @@
                 "interest": "Jessica Karjala for HD 48",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Mary Ann Dunwell for HD 84",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dan Salomon for SD 47",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Joel Krautter for HD 35",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mike Cuffe for HD 2",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ryan Lynch for HD 76",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Keith Regier for SD 3",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 21,
+        "last_report_end_date": "03/05/2019",
+        "contributions": -37272.9,
+        "num_contributions": 47,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 40474.31,
+        "num_expenditures": 88,
+        "expenditures_19_20": 1800.0,
+        "num_expenditures_19_20": 3,
+        "cash_on_hand": 996.34
     }
 }

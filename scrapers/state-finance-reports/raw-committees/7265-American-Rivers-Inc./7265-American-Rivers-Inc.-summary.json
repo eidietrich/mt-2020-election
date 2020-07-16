@@ -1,7 +1,7 @@
 {
     "slug": "7265-American-Rivers-Inc.",
     "committeeName": "American Rivers, Inc.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 8,
     "data": {
         "committeeId": 7265,
@@ -39,5 +39,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 8,
+        "last_report_end_date": "10/27/2018",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 116883.0,
+        "num_expenditures": 12,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -116883.0
     }
 }

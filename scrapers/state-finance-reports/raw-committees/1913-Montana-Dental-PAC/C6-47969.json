@@ -23,5 +23,25 @@
         "cash_in_bank": 10750.39
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/05/20",
+            "Entity Name": "Action Print",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "110 W 13th St",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1470.7,
+            "Purpose": "Campaign postcards, color, from Wells Fargo Bank, (2,100 @ $0.23 ea) = $490 + postage for postcards, (2,100 @ $2.19 ea) = $980.70",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "postal",
+            "Expenditure Paid Communications Quantity": "2,100 campaign postcards",
+            "Expenditure Paid Communications Subject Matter": "candidate background"
+        }
+    ]
 }

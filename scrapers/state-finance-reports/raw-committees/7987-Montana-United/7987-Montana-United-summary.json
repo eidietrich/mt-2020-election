@@ -1,7 +1,7 @@
 {
     "slug": "7987-Montana-United",
     "committeeName": "Montana United",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 5,
     "data": {
         "committeeId": 7987,
@@ -49,5 +49,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 5,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 15350.0,
+        "num_contributions": 10,
+        "contributions_19_20": 15350.0,
+        "num_contributions_19_20": 10,
+        "expenditures": 11102.81,
+        "num_expenditures": 11,
+        "expenditures_19_20": 11102.81,
+        "num_expenditures_19_20": 11,
+        "cash_on_hand": 4247.19
     }
 }

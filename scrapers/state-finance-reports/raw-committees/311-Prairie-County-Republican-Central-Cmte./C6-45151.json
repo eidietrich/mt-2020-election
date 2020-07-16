@@ -1016,5 +1016,82 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "11/16/18",
+            "Entity Name": "American Legion ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "112 S. Logan",
+            "City": "Terry",
+            "State": "MT",
+            "Zip": "59349",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 93.0,
+            "Purpose": "Meeting - food",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/16/18",
+            "Entity Name": "Billings Gazette",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "401 N Broadway",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2538.5,
+            "Purpose": "Ads for Rosendale, bullet points on what he would not support. Adds in Billings, Butte, Missoula, Helena on 10/17/18 and billings also on 10/16/18",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "11/02/18",
+            "Entity Name": "Billings Gazette",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "401 N Broadway",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 525.0,
+            "Purpose": "Ad for Rosendale; bullet points on issues he would not support. Ran in Butte 11/02/2018",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "11/01/18",
+            "Entity Name": "Prairie County Community Center",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "112 Garfield Ave",
+            "City": "Terry",
+            "State": "MT",
+            "Zip": "59349",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 40.0,
+            "Purpose": "Meet & Greet for Gianforte",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

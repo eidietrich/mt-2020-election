@@ -1,7 +1,7 @@
 {
     "slug": "1910-Jobs-For-Montana-PAC",
     "committeeName": "Jobs For Montana PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 23,
     "data": {
         "committeeId": 1910,
@@ -34,12 +34,17 @@
         ],
         "issues": [
             {
-                "interest": "Denley Loge for HD 14",
+                "interest": "Promote candidates that support the creation of a better business climate and strong Montana economy.",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Brian Hoven SD 13",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Brian Hoven SD 13",
+                "interest": "Wendy McKamey for HD19",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -49,7 +54,32 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Wendy McKamey for HD19",
+                "interest": "John Esp SD 30",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Pat Connell SD 43",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Denley Loge for HD 14",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ross Fitzgerald HD 17",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ed Buttrey for HD 21",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Doug Kary for SD 22",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -62,37 +92,20 @@
                 "interest": "Bruce Grubbs for HD68",
                 "position": "Support",
                 "status": "Not Applicable"
-            },
-            {
-                "interest": "John Esp SD 30",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Ed Buttrey for HD 21",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Ross Fitzgerald HD 17",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Pat Connell SD 43",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Promote candidates that support the creation of a better business climate and strong Montana economy.",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Doug Kary for SD 22",
-                "position": "Support",
-                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 23,
+        "last_report_end_date": "05/24/2020",
+        "contributions": 204670.39,
+        "num_contributions": 44,
+        "contributions_19_20": 22500.0,
+        "num_contributions_19_20": 7,
+        "expenditures": 203720.33,
+        "num_expenditures": 47,
+        "expenditures_19_20": 24317.33,
+        "num_expenditures_19_20": 4,
+        "cash_on_hand": 1731.67
     }
 }

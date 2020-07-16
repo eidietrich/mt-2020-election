@@ -1,7 +1,7 @@
 {
     "slug": "307-Pondera-County-Democratic-Central-Cmte.",
     "committeeName": "Pondera County Democratic Central Cmte.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 13,
     "data": {
         "committeeId": 307,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 13,
+        "last_report_end_date": "06/25/2020",
+        "contributions": -415.58,
+        "num_contributions": 36,
+        "contributions_19_20": -1369.05,
+        "num_contributions_19_20": 11,
+        "expenditures": 2470.27,
+        "num_expenditures": 21,
+        "expenditures_19_20": 688.42,
+        "num_expenditures_19_20": 8,
+        "cash_on_hand": 2456.52
     }
 }

@@ -1,7 +1,7 @@
 {
     "slug": "6381-Montana-Young-Republicans",
     "committeeName": "Montana Young Republicans",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 12,
     "data": {
         "committeeId": 6381,
@@ -34,12 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "To develop County Young Republican Clubs and foster their growth.",
+                "interest": "To support the principles, objects, and platform of the Republican Party and to secure the election of all duly nominated Republican candidates.",
                 "position": "Other",
                 "status": "Not Applicable"
             },
             {
-                "interest": "To support the principles, objects, and platform of the Republican Party and to secure the election of all duly nominated Republican candidates.",
+                "interest": "To develop County Young Republican Clubs and foster their growth.",
                 "position": "Other",
                 "status": "Not Applicable"
             },
@@ -49,5 +49,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 12,
+        "last_report_end_date": "06/30/2020",
+        "contributions": 12648.53,
+        "num_contributions": 20,
+        "contributions_19_20": 7514.65,
+        "num_contributions_19_20": 11,
+        "expenditures": 9502.92,
+        "num_expenditures": 62,
+        "expenditures_19_20": 5067.37,
+        "num_expenditures_19_20": 31,
+        "cash_on_hand": 4415.61
     }
 }

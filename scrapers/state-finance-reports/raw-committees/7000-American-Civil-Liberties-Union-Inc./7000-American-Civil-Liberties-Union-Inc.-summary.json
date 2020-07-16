@@ -1,7 +1,7 @@
 {
     "slug": "7000-American-Civil-Liberties-Union-Inc.",
     "committeeName": "American Civil Liberties Union, Inc.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 7,
     "data": {
         "committeeId": 7000,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 7,
+        "last_report_end_date": "08/24/2018",
+        "contributions": -73935.35,
+        "num_contributions": 1,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 101402.8,
+        "num_expenditures": 4,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -27467.45
     }
 }

@@ -1,7 +1,7 @@
 {
     "slug": "8424-Citizens-for-Government-Transparency",
     "committeeName": "Citizens for Government Transparency",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 4,
     "data": {
         "committeeId": 8424,
@@ -44,5 +44,18 @@
                 "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 4,
+        "last_report_end_date": "06/30/2020",
+        "contributions": 191800.0,
+        "num_contributions": 16,
+        "contributions_19_20": 191800.0,
+        "num_contributions_19_20": 16,
+        "expenditures": 191900.0,
+        "num_expenditures": 14,
+        "expenditures_19_20": 191900.0,
+        "num_expenditures_19_20": 14,
+        "cash_on_hand": 0.0
     }
 }

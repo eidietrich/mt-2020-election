@@ -1,7 +1,7 @@
 {
     "slug": "253-Flathead-County-Democratic-Women's-Club",
     "committeeName": "Flathead County Democratic Women's Club",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 15,
     "data": {
         "committeeId": 253,
@@ -34,6 +34,51 @@
         ],
         "issues": [
             {
+                "interest": "Rex Renk for Clerk of the Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Robert Petersen for House District 9",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "JoBeth Blair for House District 11",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kwen L. Shirley for House District 4",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Zac Perry for House District 3",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Diane Taylor-Mahnke for Senate District 4",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Andy Shirtliff for PSC # 5",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "James Cossitt for House District 7",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kathleen Williams for US Congress",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Mary Custer for House District 6",
                 "position": "Support",
                 "status": "Not Applicable"
@@ -44,55 +89,23 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Kathleen Williams for US Congress",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Zac Perry for House District 3",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Robert Petersen for House District 9",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kwen L. Shirley for House District 4",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "James Cossitt for House District 7",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Andy Shirtliff for PSC # 5",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Rex Renk for Clerk of the Supreme Court",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Dave Fern for House District 5",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Diane Taylor-Mahnke for Senate District 4",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "JoBeth Blair for House District 11",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 15,
+        "last_report_end_date": "06/25/2020",
+        "contributions": -15029.14,
+        "num_contributions": 553,
+        "contributions_19_20": 1986.29,
+        "num_contributions_19_20": 74,
+        "expenditures": 85243.08,
+        "num_expenditures": 298,
+        "expenditures_19_20": 26310.16,
+        "num_expenditures_19_20": 79,
+        "cash_on_hand": 12310.82
     }
 }

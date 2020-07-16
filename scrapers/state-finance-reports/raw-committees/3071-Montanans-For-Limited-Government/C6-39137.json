@@ -86,5 +86,44 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "06/20/17",
+            "Entity Name": "Pyramid Printing",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1118 West Central Ave",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 58.99,
+            "Purpose": "Business cards",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "06/20/17",
+            "Entity Name": "Sign Pro",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2621 Brooks",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 125.0,
+            "Purpose": "Vinyl Banner",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

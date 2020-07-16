@@ -1,7 +1,7 @@
 {
     "slug": "5459-Montana-Cannabis-Industry-Association-Inc.",
     "committeeName": "Montana Cannabis Industry Association, Inc.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 9,
     "data": {
         "committeeId": 5459,
@@ -39,5 +39,18 @@
                 "status": "On ballot, approved"
             }
         ]
+    },
+    "finances": {
+        "reports": 9,
+        "last_report_end_date": "10/27/2016",
+        "contributions": 66811.0,
+        "num_contributions": 25,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 329172.97,
+        "num_expenditures": 24,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -206979.0
     }
 }

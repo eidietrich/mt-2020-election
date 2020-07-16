@@ -1,7 +1,7 @@
 {
     "slug": "7244-Park-County-Environmental-Council",
     "committeeName": "Park County Environmental Council",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 9,
     "data": {
         "committeeId": 7244,
@@ -39,5 +39,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 9,
+        "last_report_end_date": "11/21/2018",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 5635.21,
+        "num_expenditures": 9,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -5635.21
     }
 }

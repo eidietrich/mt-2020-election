@@ -1,7 +1,7 @@
 {
     "slug": "5040-Montana-Rural-Voters--Action-Fund",
     "committeeName": "Montana Rural Voters  Action Fund",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 14,
     "data": {
         "committeeId": 5040,
@@ -34,167 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "Governor and Lt. Governor - Steve Bullock and Mike Cooney",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Superintendent of Public Instruction - Melissa Romano ",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 96 - Adam Hertz",
+                "interest": "Park County Commissioner District 2 - Tim Henson",
                 "position": "Oppose",
                 "status": "On ballot"
             },
             {
-                "interest": "State Auditor - Jesse Laslovich",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 96 - Andrew Person",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "SD 40 - Terry J. Gauthier",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 50 - Virginia Court",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 38 - Kenneth L. Holmlund",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 51 - Adam Rosendale ",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 43 - Peggy Webb",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 48 - Jessica L. Karjala",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "To influence the election or appointment of candidates and officials who seek to protect Montana's air, water, natural resources and family agriclture.",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "HD 47 - Kathy Kelker",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "SD 26 - Margie MacDonald ",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "SD 25 - Donna Huston",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "SD 26 - Donald Roberts",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 48 - Robert Saunders",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 51 - Shoots Veis",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 50 - Kerri Seekins-Crowe",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Secretary of State - Corey Stapleton",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 60 - Debra Lamm",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "State Auditor - Matt Rosendale ",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Supreme Court Justice #3 - Kristen Juras",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 55 - Ryan Arnold",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Supreme Court Justice #3 - Dirk Sandefur ",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 47 - Jason Lee Thomas",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "SD 21 - Carolyn Pease-Lopez",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 92 - Mike Hopkins",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 49 - Kelly McCarthy",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 44 - Dale Mortensen",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Superintendent of Public Instruction - Elsie Arntzen ",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 28 - Jacob Bachmeier",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "SD 40 - Hal Jacobson",
+                "interest": "HD 52 - Chris Goodridge",
                 "position": "Support",
                 "status": "On ballot"
             },
@@ -204,27 +49,7 @@
                 "status": "On ballot"
             },
             {
-                "interest": "HD 28 - Stephanie Hess",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 52 - Jimmy Patelis",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Governor and Lt. Governor - Greg Gianforte and Lesley Robinson",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 84 - Steve Gibson",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 60 - Laurie Bishop",
+                "interest": "HD 84 - Mary Ann Dunwell",
                 "position": "Support",
                 "status": "On ballot"
             },
@@ -234,12 +59,12 @@
                 "status": "On ballot"
             },
             {
-                "interest": "HD 49 - Benjamin Hunter",
-                "position": "Oppose",
+                "interest": "SD 40 - Hal Jacobson",
+                "position": "Support",
                 "status": "On ballot"
             },
             {
-                "interest": "Secretary of State - Monica J. Lindeen",
+                "interest": "HD 55 - Ryan Arnold",
                 "position": "Support",
                 "status": "On ballot"
             },
@@ -249,22 +74,32 @@
                 "status": "On ballot"
             },
             {
-                "interest": "SD 21 - Jason D. Small",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Park County Commissioner District 2 - Tim Henson",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "HD 44 - Kari Boiter",
+                "interest": "SD 26 - Margie MacDonald ",
                 "position": "Support",
                 "status": "On ballot"
             },
             {
-                "interest": "SD 47 - Daniel R. Salomon",
+                "interest": "HD 47 - Jason Lee Thomas",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Superintendent of Public Instruction - Elsie Arntzen ",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 60 - Laurie Bishop",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 28 - Jacob Bachmeier",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 60 - Debra Lamm",
                 "position": "Oppose",
                 "status": "On ballot"
             },
@@ -274,12 +109,52 @@
                 "status": "On ballot"
             },
             {
-                "interest": "HD 43 - Elizabeth Pincolini ",
+                "interest": "HD 50 - Kerri Seekins-Crowe",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 96 - Adam Hertz",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 28 - Stephanie Hess",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 49 - Kelly McCarthy",
                 "position": "Support",
                 "status": "On ballot"
             },
             {
+                "interest": "SD 47 - Daniel R. Salomon",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 92 - Mike Hopkins",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
                 "interest": "SD 25 - Jen Gross",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 96 - Andrew Person",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 44 - Dale Mortensen",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Governor and Lt. Governor - Steve Bullock and Mike Cooney",
                 "position": "Support",
                 "status": "On ballot"
             },
@@ -289,20 +164,158 @@
                 "status": "On ballot"
             },
             {
+                "interest": "HD 43 - Elizabeth Pincolini ",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Supreme Court Justice #3 - Kristen Juras",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 51 - Adam Rosendale ",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 48 - Robert Saunders",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "To influence the election or appointment of candidates and officials who seek to protect Montana's air, water, natural resources and family agriclture.",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "SD 26 - Donald Roberts",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 52 - Jimmy Patelis",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "State Auditor - Matt Rosendale ",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Supreme Court Justice #3 - Dirk Sandefur ",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Secretary of State - Corey Stapleton",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 49 - Benjamin Hunter",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 48 - Jessica L. Karjala",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 47 - Kathy Kelker",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "State Auditor - Jesse Laslovich",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "SD 40 - Terry J. Gauthier",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
                 "interest": "Park County Commissioner District 2 - Tim Henson",
                 "position": "Oppose",
                 "status": "On ballot"
             },
             {
-                "interest": "HD 84 - Mary Ann Dunwell",
+                "interest": "HD 84 - Steve Gibson",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 44 - Kari Boiter",
                 "position": "Support",
                 "status": "On ballot"
             },
             {
-                "interest": "HD 52 - Chris Goodridge",
+                "interest": "HD 43 - Peggy Webb",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 50 - Virginia Court",
                 "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "SD 21 - Carolyn Pease-Lopez",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Superintendent of Public Instruction - Melissa Romano ",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Secretary of State - Monica J. Lindeen",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "SD 21 - Jason D. Small",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Governor and Lt. Governor - Greg Gianforte and Lesley Robinson",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 38 - Kenneth L. Holmlund",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 51 - Shoots Veis",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "SD 25 - Donna Huston",
+                "position": "Oppose",
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 14,
+        "last_report_end_date": "12/31/2016",
+        "contributions": 67302.82,
+        "num_contributions": 58,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 96730.49,
+        "num_expenditures": 89,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 4100.66
     }
 }

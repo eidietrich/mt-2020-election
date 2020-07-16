@@ -1,7 +1,7 @@
 {
     "slug": "5096-Yellowstone-Co-Republican-Central-Committee",
     "committeeName": "Yellowstone Co Republican Central Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 23,
     "data": {
         "committeeId": 5096,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 23,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 171828.56,
+        "num_contributions": 533,
+        "contributions_19_20": 55833.12,
+        "num_contributions_19_20": 147,
+        "expenditures": 227811.91,
+        "num_expenditures": 316,
+        "expenditures_19_20": 63445.01,
+        "num_expenditures_19_20": 113,
+        "cash_on_hand": 11795.49
     }
 }

@@ -198,6 +198,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "08/26/16",
+            "Entity Name": "Fletcher Rowley",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1720 West End Avenue, Suite 630",
+            "City": "Nashville",
+            "State": "TN",
+            "Zip": "37203",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 10000.0,
+            "Purpose": "Campaign consultation",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "08/26/16",
+            "Entity Name": "Lake Research Partners",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1726 M Street NW Suite 1100",
+            "City": "Washington DC",
+            "State": "DC",
+            "Zip": "20036",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 15041.64,
+            "Purpose": "Telephone Survey",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

@@ -80,6 +80,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/29/20",
+            "Entity Name": "co/Efficient",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1881 Main St",
+            "City": "Kansas City",
+            "State": "MO",
+            "Zip": "64108",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1689.3,
+            "Purpose": "(11,262) P2P Text Messages supporting Austin Knudsen for Attorney General",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "06/02/20",
+            "Entity Name": "co/Efficient",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1881 Main St",
+            "City": "Kansas City",
+            "State": "MO",
+            "Zip": "64108",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 991.98,
+            "Purpose": "(11,262) P2P Text Messages supporting Austin Knudsen for Attorney General - Vote for AK ",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

@@ -23,5 +23,44 @@
         "cash_in_bank": -3398.57
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "12/29/17",
+            "Entity Name": "Howell, Sarah",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "725 W. Alder St., Ste. 21",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59802",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 708.63,
+            "Purpose": "Staff Time and Payroll Expenses",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "12/29/17",
+            "Entity Name": "Nielsen, Micah",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "725 W. Alder St., Ste. 21",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59802",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 465.89,
+            "Purpose": "Staff Time and Payroll Expenses",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "slug": "3162-Yellowstone-County-Republican-Women",
     "committeeName": "Yellowstone County Republican Women",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 14,
     "data": {
         "committeeId": 3162,
@@ -34,37 +34,42 @@
         ],
         "issues": [
             {
-                "interest": "Colin Nygaard HD49",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Douglas Kary HD22",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Vince Ricci HD55",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Frank Fleming HD51",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Rodney Garcia HD52",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
                 "interest": "Dennis Lentz HD53",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Barry Usher HD40",
+                "interest": "Denise Johnson HD48",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Terry Moore HD54",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Cary Smith HD27",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Colin Nygaard HD49",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Tom McGilvray HD24",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Sue Vinton HD56",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Vince Ricci HD55",
                 "position": "Support",
                 "status": "Support"
             },
@@ -74,9 +79,14 @@
                 "status": "Support"
             },
             {
-                "interest": "Colton Zaugg HD47",
+                "interest": "Rodney Garcia HD52",
                 "position": "Support",
                 "status": "Support"
+            },
+            {
+                "interest": "Promote Republican party in community and assist candidates in elections",
+                "position": "Support",
+                "status": "Not Applicable"
             },
             {
                 "interest": "Donald Jones County Commissioner",
@@ -84,14 +94,19 @@
                 "status": "Support"
             },
             {
-                "interest": "Daniel Zolnikov HD45",
+                "interest": "Bill Mercer HD46",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Sue Vinton HD56",
+                "interest": "Colton Zaugg HD47",
                 "position": "Support",
-                "status": "Not Applicable"
+                "status": "Support"
+            },
+            {
+                "interest": "Barry Usher HD40",
+                "position": "Support",
+                "status": "Support"
             },
             {
                 "interest": "Peggy Webb HD43",
@@ -104,35 +119,33 @@
                 "status": "Support"
             },
             {
-                "interest": "Bill Mercer HD46",
+                "interest": "Douglas Kary HD22",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Denise Johnson HD48",
+                "interest": "Frank Fleming HD51",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Promote Republican party in community and assist candidates in elections",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Terry Moore HD54",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Tom McGilvray HD24",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Cary Smith HD27",
+                "interest": "Daniel Zolnikov HD45",
                 "position": "Support",
                 "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 14,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 57026.81,
+        "num_contributions": 769,
+        "contributions_19_20": 29243.61,
+        "num_contributions_19_20": 341,
+        "expenditures": 53662.35,
+        "num_expenditures": 192,
+        "expenditures_19_20": 17090.53,
+        "num_expenditures_19_20": 41,
+        "cash_on_hand": 11971.24
     }
 }

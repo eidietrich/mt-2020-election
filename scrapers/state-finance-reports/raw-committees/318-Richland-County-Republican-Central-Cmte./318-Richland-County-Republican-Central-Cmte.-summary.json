@@ -1,8 +1,8 @@
 {
     "slug": "318-Richland-County-Republican-Central-Cmte.",
     "committeeName": "Richland County Republican Central Cmte.",
-    "scrape_date": "2020-07-02",
-    "periods": 16,
+    "scrape_date": "2020-07-09",
+    "periods": 17,
     "data": {
         "committeeId": 318,
         "committeeName": "Richland County Republican Central Cmte.",
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 17,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 7551.03,
+        "num_contributions": 238,
+        "contributions_19_20": 6624.28,
+        "num_contributions_19_20": 90,
+        "expenditures": 44221.55,
+        "num_expenditures": 103,
+        "expenditures_19_20": 13681.31,
+        "num_expenditures_19_20": 29,
+        "cash_on_hand": 11481.77
     }
 }

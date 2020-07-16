@@ -371,6 +371,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/06/18",
+            "Entity Name": "Bryher Herak for HD 75 Campaign",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Box 97",
+            "City": "Basin",
+            "State": "MT",
+            "Zip": "59631",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 450.0,
+            "Purpose": "Support Bryher Herak Campaign",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

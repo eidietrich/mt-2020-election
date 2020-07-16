@@ -148,5 +148,82 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "04/25/20",
+            "Entity Name": "Victory Enterprises",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "5200 30th Street SW",
+            "City": "Davenport",
+            "State": "IA",
+            "Zip": "52802",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 23690.43,
+            "Purpose": "Share of Design, Creative, Production, Printing of Direct Mail",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Mail",
+            "Expenditure Paid Communications Quantity": "77,278 in 17 legislative districts. By district: 14,082 in SD28, 13,740 in SD35 (incl HD69 and HD70), 6,507 in HD10, 6,387 in HD37, 7,053 in HD68, 6,435 in HD88, 4,017 in HD14, 4,174 in SD44, 2,212 in HD7, 2,224 in HD9, 2,211 in HD21, 2,126 in HD35, 1,873 in HD64, 1,976 in HD75, 2,261 in HD86",
+            "Expenditure Paid Communications Subject Matter": "Mailer 1: Growth \u2013 jobs and the economy. Mailer 2: Wallet \u2013 keeping taxes low. Mailer 3: GOTV \u2013 issue summation and vote prompt. Mailer 4: Growth \u2013 issue summation and vote prompt; Mailer 5: prosperity \u2013 taxes, jobs, GOVT prompt."
+        },
+        {
+            "Date Paid": "04/25/20",
+            "Entity Name": "Victory Enterprises",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "5200 30th Street SW",
+            "City": "Davenport",
+            "State": "IA",
+            "Zip": "52802",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 10290.0,
+            "Purpose": "Share of postage costs for Direct Mail",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Mail",
+            "Expenditure Paid Communications Quantity": "Identical to amount reported in direct mail expense with same vendor",
+            "Expenditure Paid Communications Subject Matter": "Identical to subject matter reported on direct mail expense with same vendor"
+        },
+        {
+            "Date Paid": "04/25/20",
+            "Entity Name": "Victory Enterprises",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "5200 30th Street SW",
+            "City": "Davenport",
+            "State": "IA",
+            "Zip": "52802",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 319.57,
+            "Purpose": "Share of website creation",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Website",
+            "Expenditure Paid Communications Quantity": "1",
+            "Expenditure Paid Communications Subject Matter": "Website landing page for digital ads, common sense solutions for Montana"
+        },
+        {
+            "Date Paid": "04/25/20",
+            "Entity Name": "Victory Enterprises",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "5200 30th Street SW",
+            "City": "Davenport",
+            "State": "IA",
+            "Zip": "52802",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 35700.0,
+            "Purpose": "Share of Design, Creative, Production of Digital Plan",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Adobe Ad Exchange",
+            "Expenditure Paid Communications Quantity": "Run dates for digital ad program are 4/21/20 through 6/2/20; 4/28/20 through 6/2/20; and 5/1/20 through 6/2/20",
+            "Expenditure Paid Communications Subject Matter": "Commonsense, Conservative Solutions for MT Families; Commonsense Solutions MT Families Can Rely On; Bold Leadership, Commonsense, Conservative Solutions; Vote X Candidate for Senate/House"
+        }
+    ]
 }

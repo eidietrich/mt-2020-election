@@ -23,5 +23,44 @@
         "cash_in_bank": -44302.95
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/07/20",
+            "Entity Name": "Missoula Organization of REALTORS",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "724 Burlington Ave",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2000.0,
+            "Purpose": "Support social media campaign",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/25/20",
+            "Entity Name": "Missoula Organization of REALTORS",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "724 Burlington Ave",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 403.82,
+            "Purpose": "In-Kind - Staff time ",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": "Two staff working on planning & support for ballot - 11 hrs."
+        }
+    ]
 }

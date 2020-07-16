@@ -124,13 +124,6 @@ class CommitteeList:
             return full
         return cleaned
 
-        """
-        # TODO: Figure out
-        --> Aggregate officer list to spreadsheets
-        --> Aggregate fundraising/spending to 
-
-        """
-
 class Committee:
     def __init__(self, data, cachePath='scrapers/state-finance-reports/raw-committees',
         fetchSummary=True, fetchReports=True, fetchFullReports=True,
@@ -152,14 +145,15 @@ class Committee:
             self.slug = f'{self.id}-' + self.name.strip().replace('/',' ').replace(' ','-').replace(',','')
             self.cache_path = os.path.join(cachePath, self.slug)
 
-            self.summary = self._fetch_c2_committee_summary()
-
             if fetchReports:
                 raw_reports = self._fetch_committee_reports()
                 filter_date = datetime.strptime(reportFilterDate, '%m/%d/%Y')
                 recent_reports = [r for r in raw_reports if datetime.strptime(r['toDateStr'], '%m/%d/%Y') > filter_date]
                 # print(f'{len(raw_reports)}, {len(recent_reports)} recent')
             if fetchReports and fetchFullReports and len(recent_reports) > 0:
+                # TODO: Add cache here
+                self.summary = self._fetch_c2_committee_summary()
+
                 print(f'Fetching {len(recent_reports)} finance reports for {self.name} ({self.id})')
                 self.full_reports = [Report(r, cachePath=self.cache_path, checkCache=checkCache, writeCache=writeCache) for r in recent_reports]
                 
@@ -305,12 +299,15 @@ class Committee:
         
         if len(self.full_reports) > 0:
             last_report = max(self.full_reports, key=lambda d: datetime.strptime(d.summary['end_date'], '%m/%d/%Y'))
+            last_report_end_date = last_report.summary['end_date']
             cash_on_hand = last_report.summary['cash_in_bank']
         else:
+            last_report_end_date = 'None'
             cash_on_hand = 0
 
         return {
             'reports': len(self.full_reports),
+            'last_report_end_date': last_report_end_date,
 
             'contributions': amt_contributions,
             'num_contributions': num_contributions,
@@ -367,6 +364,7 @@ class Committee:
             'periods': len(self.full_reports),
             'data': self.data,
             'summary': self.summary,
+            'finances': self.finances,
         }
         with open(summary_path, 'w') as f:
             json.dump(summary, f, indent=4)
@@ -378,7 +376,7 @@ class Report:
     def __init__(self, data, cachePath, checkCache=True, writeCache=True, fetchFullReports=True):
         self.id = data['reportId']
         self.data = data
-        self.type = data['formTypeCode']
+        self.type = data['formTypeCode'] # c4 or c6 depending on committee type
         self.start_date = data['fromDateStr']
         self.end_date = data['toDateStr']
         self.label = f'{self.start_date} to {self.end_date}'
@@ -422,7 +420,7 @@ class Report:
         """
         Approach: Assume it's manageable to pull everything from the 'view report' summary
         """
-        print(f'-- Fetching C6 {self.start_date}-{self.end_date} ({self.id})')
+        print(f'-- Fetching {self.type} {self.start_date}-{self.end_date} ({self.id})')
         post_url = 'https://cers-ext.mt.gov/CampaignTracker/public/viewFinanceReport/retrieveReport'
         post_payload = {
             'committeeId': self.data['committeeId'],
@@ -493,6 +491,9 @@ class Report:
         expenditures_raw = session.post(detail_url, {'listName': "expendOther"})
         expenditures = self._parse_expenditure_table(expenditures_raw)
 
+        independent_expenditures_raw = session.post(detail_url, {'listName': "expendIndependent"})
+        independent_expenditures = self._parse_expenditure_table(independent_expenditures_raw)
+
         debt_raw = session.post(detail_url, {'listName': "debtLoan"})
         debts = self._parse_expenditure_table(debt_raw)
 
@@ -502,7 +503,7 @@ class Report:
 
         self.summary = summary
         self.contributions = contributions + refunds + fundraisers + committee_contributions + loans
-        self.expenditures = expenditures + debts + payments
+        self.expenditures = expenditures + independent_expenditures + debts + payments
 
     def _parse_expenditure_table(self, r):
         rows = r.json()

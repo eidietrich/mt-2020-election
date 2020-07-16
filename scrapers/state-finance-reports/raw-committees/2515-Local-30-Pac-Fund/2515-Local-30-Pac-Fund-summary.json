@@ -1,7 +1,7 @@
 {
     "slug": "2515-Local-30-Pac-Fund",
     "committeeName": "Local 30 Pac Fund",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 3,
     "data": {
         "committeeId": 2515,
@@ -39,5 +39,18 @@
                 "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 3,
+        "last_report_end_date": "12/31/2017",
+        "contributions": -5676.03,
+        "num_contributions": 624,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 17311.26,
+        "num_expenditures": 43,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 5607.73
     }
 }

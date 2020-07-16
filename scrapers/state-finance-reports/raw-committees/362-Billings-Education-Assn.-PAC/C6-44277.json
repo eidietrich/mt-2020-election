@@ -148,5 +148,25 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "08/16/18",
+            "Entity Name": "Yellowstone County Democratic Central Committe",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 21131",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59104",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 400.0,
+            "Purpose": "Truman Dinner Table Tickets",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "slug": "5094-Good-Jobs-Montana",
     "committeeName": "Good Jobs Montana",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 14,
     "data": {
         "committeeId": 5094,
@@ -39,15 +39,28 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Greg Gianforte",
-                "position": "Oppose",
-                "status": "Support"
-            },
-            {
                 "interest": "Steve Bullock",
                 "position": "Support",
                 "status": "On ballot, approved"
+            },
+            {
+                "interest": "Greg Gianforte",
+                "position": "Oppose",
+                "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 14,
+        "last_report_end_date": "02/01/2017",
+        "contributions": 5379673.0,
+        "num_contributions": 33,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 5376500.0,
+        "num_expenditures": 116,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

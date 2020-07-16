@@ -1,7 +1,7 @@
 {
     "slug": "5638-Montanans-for-Experienced-Judges",
     "committeeName": "Montanans for Experienced Judges",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 8,
     "data": {
         "committeeId": 5638,
@@ -44,5 +44,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 8,
+        "last_report_end_date": "12/31/2017",
+        "contributions": 4292.86,
+        "num_contributions": 21,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 2795.0,
+        "num_expenditures": 6,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 570.0
     }
 }

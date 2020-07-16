@@ -1,7 +1,7 @@
 {
     "slug": "8418-Conservatives-United-for-Richland-County",
     "committeeName": "Conservatives United for Richland County ",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 3,
     "data": {
         "committeeId": 8418,
@@ -34,7 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Walt McNutt",
+                "interest": "Joel Krautter",
                 "position": "Oppose",
                 "status": "On ballot"
             },
@@ -49,10 +49,23 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Joel Krautter",
+                "interest": "Walt McNutt",
                 "position": "Oppose",
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 3,
+        "last_report_end_date": "06/30/2020",
+        "contributions": 3850.0,
+        "num_contributions": 7,
+        "contributions_19_20": 3850.0,
+        "num_contributions_19_20": 7,
+        "expenditures": 2612.5,
+        "num_expenditures": 7,
+        "expenditures_19_20": 2612.5,
+        "num_expenditures_19_20": 7,
+        "cash_on_hand": 237.5
     }
 }

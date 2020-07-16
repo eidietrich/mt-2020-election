@@ -1,7 +1,7 @@
 {
     "slug": "6486-Madison-County-Republican-Central-Committee",
     "committeeName": "Madison County Republican Central Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 14,
     "data": {
         "committeeId": 6486,
@@ -34,27 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "Jedediah Hinkle for SD 32",
+                "interest": "Gordon Vance for SD34",
                 "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Tom Burnett for HD 67",
-                "position": "Support",
-                "status": "On ballot"
+                "status": "Not Applicable"
             },
             {
                 "interest": "Matt Rosendale for U.S. Senate",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "GREG GIANFORTE FOR US HOUSE REPRESENTATIVE",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Gordon Vance for SD34",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -69,10 +54,38 @@
                 "status": "On ballot"
             },
             {
+                "interest": "Tom Burnett for HD 67",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
                 "interest": "Kerry White for HD 64",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "GREG GIANFORTE FOR US HOUSE REPRESENTATIVE",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jedediah Hinkle for SD 32",
+                "position": "Support",
+                "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 14,
+        "last_report_end_date": "06/26/2020",
+        "contributions": 4342.08,
+        "num_contributions": 11,
+        "contributions_19_20": 6874.89,
+        "num_contributions_19_20": 4,
+        "expenditures": 11312.57,
+        "num_expenditures": 29,
+        "expenditures_19_20": 3535.96,
+        "num_expenditures_19_20": 9,
+        "cash_on_hand": 9252.33
     }
 }

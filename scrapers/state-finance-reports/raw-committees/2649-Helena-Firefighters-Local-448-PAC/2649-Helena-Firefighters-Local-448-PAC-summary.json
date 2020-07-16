@@ -1,7 +1,7 @@
 {
     "slug": "2649-Helena-Firefighters-Local-448-PAC",
     "committeeName": "Helena Firefighters Local 448 PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 2,
     "data": {
         "committeeId": 2649,
@@ -34,7 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Melissa Romano State Superintendent",
+                "interest": "Jesse Laslovich \u2013 Auditor race",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -59,10 +59,23 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jesse Laslovich \u2013 Auditor race",
+                "interest": "Melissa Romano State Superintendent",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 2,
+        "last_report_end_date": "09/30/2016",
+        "contributions": 1699.0,
+        "num_contributions": 13,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 800.0,
+        "num_expenditures": 5,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 315.73
     }
 }

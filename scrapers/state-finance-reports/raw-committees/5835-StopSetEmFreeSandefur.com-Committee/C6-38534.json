@@ -55,5 +55,82 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/31/16",
+            "Entity Name": "Strategic Media Services",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1911 N. Ft. Myer Drive # 400",
+            "City": "Arlington",
+            "State": "VA",
+            "Zip": "22209",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 9500.0,
+            "Purpose": "Tv Ad Placement",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/28/16",
+            "Entity Name": "Strategic Media Services",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1911 N. Ft. Myer Drive # 400",
+            "City": "Arlington",
+            "State": "VA",
+            "Zip": "22209",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 3872.0,
+            "Purpose": "Tv Ad Placement",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/28/16",
+            "Entity Name": "The Political Company",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 81274",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59108",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 500.0,
+            "Purpose": "Digital Ad Placement",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/28/16",
+            "Entity Name": "The Political Company",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 81274",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59108",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 11829.6,
+            "Purpose": "Direct Mail production and postage 19,080 pieces",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

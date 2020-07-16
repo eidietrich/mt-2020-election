@@ -1,7 +1,7 @@
 {
     "slug": "6918-MTCARES-(Montana-Community-Affordable-Renewable-Energy-Saves)",
     "committeeName": "MTCARES (Montana Community Affordable Renewable Energy Saves)",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 9,
     "data": {
         "committeeId": 6918,
@@ -39,5 +39,18 @@
                 "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 9,
+        "last_report_end_date": "11/01/2018",
+        "contributions": 10907.44,
+        "num_contributions": 53,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 13302.15,
+        "num_expenditures": 81,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

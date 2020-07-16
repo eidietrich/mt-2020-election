@@ -74,6 +74,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/07/16",
+            "Entity Name": "Montana Woods N Water ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "171 Clark Creek Loop",
+            "City": "Plains",
+            "State": "MT",
+            "Zip": "59859",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 300.0,
+            "Purpose": "Magazine ad endorsing 12 candidates and 1 ballot initiative.  ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

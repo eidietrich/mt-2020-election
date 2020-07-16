@@ -1,7 +1,7 @@
 {
     "slug": "2796-Working-Montana-PAC",
     "committeeName": "Working Montana PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 23,
     "data": {
         "committeeId": 2796,
@@ -34,7 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Gordon Pierson for SD39",
+                "interest": "Mike Cooney/Dems Primary",
                 "position": "Support",
                 "status": "Support"
             },
@@ -44,10 +44,23 @@
                 "status": "Support"
             },
             {
-                "interest": "Mike Cooney/Dems Primary",
+                "interest": "Gordon Pierson for SD39",
                 "position": "Support",
                 "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 23,
+        "last_report_end_date": "06/26/2020",
+        "contributions": 181200.0,
+        "num_contributions": 5,
+        "contributions_19_20": 46200.0,
+        "num_contributions_19_20": 3,
+        "expenditures": 204442.73,
+        "num_expenditures": 52,
+        "expenditures_19_20": 83677.35,
+        "num_expenditures_19_20": 17,
+        "cash_on_hand": 26761.53
     }
 }

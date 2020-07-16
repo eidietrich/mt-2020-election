@@ -3025,6 +3025,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "07/17/19",
+            "Entity Name": "Choteau Acantha",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 320",
+            "City": "Choteau",
+            "State": "MT",
+            "Zip": "59422",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 56.0,
+            "Purpose": "1 print ad - Tim Fox Welcome",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": "Tim Fox Welcome"
         }
     ]
 }

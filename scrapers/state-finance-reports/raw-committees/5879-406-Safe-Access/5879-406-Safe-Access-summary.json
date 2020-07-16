@@ -1,7 +1,7 @@
 {
     "slug": "5879-406-Safe-Access",
     "committeeName": " 406 Safe Access",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 4,
     "data": {
         "committeeId": 5879,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 4,
+        "last_report_end_date": "01/06/2017",
+        "contributions": -662.55,
+        "num_contributions": 10,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 2289.5,
+        "num_expenditures": 18,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 1153.05
     }
 }

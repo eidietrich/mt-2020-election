@@ -143,6 +143,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/24/18",
+            "Entity Name": "Mammen Group",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1920 L St., NW",
+            "City": "Washington DC",
+            "State": "DC",
+            "Zip": "20036",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 4580.4,
+            "Purpose": "3470 mail piece in support of Senator Mary McNally",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/24/18",
+            "Entity Name": "Mammen Group",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1920 L St., NW",
+            "City": "Washington DC",
+            "State": "DC",
+            "Zip": "20036",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 5648.93,
+            "Purpose": "5593 Mail piece in support of Dan Vermillion",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

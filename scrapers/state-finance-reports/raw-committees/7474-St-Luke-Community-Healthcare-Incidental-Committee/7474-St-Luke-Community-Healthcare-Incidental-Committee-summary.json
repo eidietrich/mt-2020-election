@@ -1,7 +1,7 @@
 {
     "slug": "7474-St-Luke-Community-Healthcare-Incidental-Committee",
     "committeeName": "St Luke Community Healthcare Incidental Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 2,
     "data": {
         "committeeId": 7474,
@@ -49,5 +49,18 @@
                 "status": "Not on ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 2,
+        "last_report_end_date": "10/05/2018",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 51419.84,
+        "num_expenditures": 3,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -51419.84
     }
 }

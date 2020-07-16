@@ -1,7 +1,7 @@
 {
     "slug": "234-Cascade-County-Republican-Central-Cmte.",
     "committeeName": "Cascade County Republican Central Cmte.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 19,
     "data": {
         "committeeId": 234,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 19,
+        "last_report_end_date": "04/11/2019",
+        "contributions": 13712.8,
+        "num_contributions": 232,
+        "contributions_19_20": 200.0,
+        "num_contributions_19_20": 2,
+        "expenditures": 25038.12,
+        "num_expenditures": 133,
+        "expenditures_19_20": 1304.48,
+        "num_expenditures_19_20": 13,
+        "cash_on_hand": 3418.03
     }
 }

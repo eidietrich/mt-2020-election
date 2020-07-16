@@ -1,7 +1,7 @@
 {
     "slug": "410-Montana-Independent-Bankers-Pac-(MIB--PAC)",
     "committeeName": "Montana Independent Bankers Pac (MIB- PAC)",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 31,
     "data": {
         "committeeId": 410,
@@ -39,7 +39,7 @@
                 "status": "Support"
             },
             {
-                "interest": "kirk bushman for psc",
+                "interest": "Tom Welch  for house",
                 "position": "Support",
                 "status": "Support"
             },
@@ -49,15 +49,28 @@
                 "status": "Support"
             },
             {
-                "interest": "james brown for montana PSC #3",
+                "interest": "kirk bushman for psc",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Tom Welch  for house",
+                "interest": "james brown for montana PSC #3",
                 "position": "Support",
                 "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 31,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 5369.79,
+        "num_contributions": 138,
+        "contributions_19_20": 3729.85,
+        "num_contributions_19_20": 27,
+        "expenditures": 11220.0,
+        "num_expenditures": 53,
+        "expenditures_19_20": 4040.0,
+        "num_expenditures_19_20": 12,
+        "cash_on_hand": 8334.05
     }
 }

@@ -23,5 +23,63 @@
         "cash_in_bank": -6159.51
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "04/25/20",
+            "Entity Name": "Burton, Tim",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "700 West Custer ",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59620",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 152.07,
+            "Purpose": "IN-KIND STAFF TIME OPPOSING LR130",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": "Attending campaign planning meetings, fundraising research, responding to AG ballot statement issue, research, conversation with stakeholders for research."
+        },
+        {
+            "Date Paid": "04/25/20",
+            "Entity Name": "Lynch, Kelly",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "700 West Custer",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59620",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 553.6,
+            "Purpose": "IN-KIND STAFF TIME OPPOSING LR130",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": "Attending campaign planning meetings, fundraising research, responding to AG ballot statement, issue and legal research, conversation with stakeholders for research."
+        },
+        {
+            "Date Paid": "04/25/20",
+            "Entity Name": "Montana League of Cities and Towns",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "700 West Custer Ave",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59620",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 46.41,
+            "Purpose": "Office Overhead",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

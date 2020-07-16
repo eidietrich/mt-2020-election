@@ -1,7 +1,7 @@
 {
     "slug": "1995-Montana-Fire-Fighters-PAC",
     "committeeName": "Montana Fire Fighters PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 17,
     "data": {
         "committeeId": 1995,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 17,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 27775.26,
+        "num_contributions": 209,
+        "contributions_19_20": 11517.93,
+        "num_contributions_19_20": 90,
+        "expenditures": 34422.29,
+        "num_expenditures": 31,
+        "expenditures_19_20": 8456.34,
+        "num_expenditures_19_20": 12,
+        "cash_on_hand": 16536.36
     }
 }

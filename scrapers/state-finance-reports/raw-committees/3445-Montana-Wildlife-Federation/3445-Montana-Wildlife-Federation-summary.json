@@ -1,7 +1,7 @@
 {
     "slug": "3445-Montana-Wildlife-Federation",
     "committeeName": "Montana Wildlife Federation",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 5,
     "data": {
         "committeeId": 3445,
@@ -39,5 +39,18 @@
                 "status": "On ballot, approved"
             }
         ]
+    },
+    "finances": {
+        "reports": 5,
+        "last_report_end_date": "11/21/2018",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 26074.0,
+        "num_expenditures": 24,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -26074.0
     }
 }

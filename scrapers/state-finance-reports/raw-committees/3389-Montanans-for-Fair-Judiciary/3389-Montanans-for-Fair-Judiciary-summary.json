@@ -1,7 +1,7 @@
 {
     "slug": "3389-Montanans-for-Fair-Judiciary",
     "committeeName": "Montanans for Fair Judiciary",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 23,
     "data": {
         "committeeId": 3389,
@@ -39,5 +39,18 @@
                 "status": "On ballot, approved"
             }
         ]
+    },
+    "finances": {
+        "reports": 23,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 0,
+        "num_expenditures": 0,
+        "expenditures_19_20": 0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 1.96
     }
 }

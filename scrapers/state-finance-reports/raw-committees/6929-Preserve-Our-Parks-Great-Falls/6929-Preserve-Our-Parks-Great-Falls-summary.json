@@ -1,7 +1,7 @@
 {
     "slug": "6929-Preserve-Our-Parks-Great-Falls",
     "committeeName": "Preserve Our Parks Great Falls",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 3,
     "data": {
         "committeeId": 6929,
@@ -39,5 +39,18 @@
                 "status": "On ballot, approved"
             }
         ]
+    },
+    "finances": {
+        "reports": 3,
+        "last_report_end_date": "05/23/2018",
+        "contributions": 2799.0,
+        "num_contributions": 16,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 2076.0,
+        "num_expenditures": 10,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

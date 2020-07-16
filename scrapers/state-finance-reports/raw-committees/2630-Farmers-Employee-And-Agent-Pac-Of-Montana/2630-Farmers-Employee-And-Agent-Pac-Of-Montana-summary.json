@@ -1,7 +1,7 @@
 {
     "slug": "2630-Farmers-Employee-And-Agent-Pac-Of-Montana",
     "committeeName": "Farmers Employee And Agent Pac Of Montana",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 30,
     "data": {
         "committeeId": 2630,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 30,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 28066.45,
+        "num_contributions": 644,
+        "contributions_19_20": 6975.75,
+        "num_contributions_19_20": 76,
+        "expenditures": 34105.64,
+        "num_expenditures": 84,
+        "expenditures_19_20": 1760.0,
+        "num_expenditures_19_20": 8,
+        "cash_on_hand": 19363.69
     }
 }

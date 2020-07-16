@@ -1,7 +1,7 @@
 {
     "slug": "413-Montana-Medical-PAC",
     "committeeName": "Montana Medical PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 27,
     "data": {
         "committeeId": 413,
@@ -34,6 +34,76 @@
         ],
         "issues": [
             {
+                "interest": "Megan Petersen",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Zac Perry",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Kelly McCarthy",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mike Cuffe for SD 1",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bradley Tschida for HD 97",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Wendy McKamey for HD19",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Fred Anderson HD20",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Alan Redfield  HD59",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Cary Smith",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "I-185",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Kenneth Holmlund HD38",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kathy Kelker HD 47",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Anne Giuliano",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dennis Lenz for HD 53",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
                 "interest": "Jeremy Trebas for HD25",
                 "position": "Support",
                 "status": "Not Applicable"
@@ -44,24 +114,9 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Mike Cuffe for SD 1",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Zac Perry",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Megan Petersen",
+                "interest": "Nancy Ballance HD 87",
                 "position": "Support",
                 "status": "Support"
-            },
-            {
-                "interest": "Dan Bartel HD29",
-                "position": "Support",
-                "status": "Not Applicable"
             },
             {
                 "interest": "Llew Jones for House",
@@ -69,19 +124,9 @@
                 "status": "Support"
             },
             {
-                "interest": "Wendy McKamey for HD19",
+                "interest": "Janet Ellis for House District 81",
                 "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kelly McCarthy",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Fred Anderson HD20",
-                "position": "Support",
-                "status": "Not Applicable"
+                "status": "Support"
             },
             {
                 "interest": "Al Olszewski",
@@ -89,27 +134,12 @@
                 "status": "Support"
             },
             {
-                "interest": "Kathy Kelker HD 47",
+                "interest": "Denley Loge for HD 14",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jim Hamilton HD 61",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Andrea Olsen",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jon Tester",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kenneth Holmlund HD38",
+                "interest": "Dan Bartel HD29",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -119,24 +149,24 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Dennis Lenz for HD 53",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Al Olszewski",
+                "interest": "Jim Hamilton HD 61",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Carl Glimm for HD6",
+                "interest": "Mary McNally",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Frank Garner \u2013 HD 7",
+                "interest": "Greg Hertz for HD 12",
                 "position": "Support",
-                "status": "Support"
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Andrea Olsen",
+                "position": "Support",
+                "status": "Not Applicable"
             },
             {
                 "interest": "Daniel Zolnikov for HD45",
@@ -149,62 +179,12 @@
                 "status": "Support"
             },
             {
-                "interest": "David Howard",
+                "interest": "Frank Garner \u2013 HD 7",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Anne Giuliano",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Russel Tempel",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Nate McConnell",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Adam Rosendale",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Denley Loge for HD 14",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "I-185",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Ray Shaw for HD71",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Denise Hayman for HD 66",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jenny Eck for HD79",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Cary Smith",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Mary Caferro HD 81",
+                "interest": "Jonathan Windy Boy HD32",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -214,27 +194,7 @@
                 "status": "Support"
             },
             {
-                "interest": "Mary McNally",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jim Keane for House District 73",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Bradley Tschida for HD 97",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Alan Redfield  HD59",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Greg Hertz for HD 12",
+                "interest": "Mary Caferro HD 81",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -244,14 +204,9 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Janet Ellis for House District 81",
+                "interest": "Jon Tester",
                 "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Nancy Ballance HD 87",
-                "position": "Support",
-                "status": "Support"
+                "status": "Not Applicable"
             },
             {
                 "interest": "Sue Vinton for HD 56",
@@ -259,15 +214,73 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jonathan Windy Boy HD32",
+                "interest": "Russel Tempel",
                 "position": "Support",
-                "status": "Not Applicable"
+                "status": "On ballot"
+            },
+            {
+                "interest": "Ray Shaw for HD71",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "David Howard",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Adam Rosendale",
+                "position": "Support",
+                "status": "On ballot"
             },
             {
                 "interest": "Geraldine Custer for HD39",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Jim Keane for House District 73",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jenny Eck for HD79",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Carl Glimm for HD6",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Al Olszewski",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Denise Hayman for HD 66",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Nate McConnell",
+                "position": "Support",
+                "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 27,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 64901.0,
+        "num_contributions": 635,
+        "contributions_19_20": 22701.0,
+        "num_contributions_19_20": 236,
+        "expenditures": 62828.77,
+        "num_expenditures": 239,
+        "expenditures_19_20": 7104.77,
+        "num_expenditures_19_20": 23,
+        "cash_on_hand": 25151.87
     }
 }

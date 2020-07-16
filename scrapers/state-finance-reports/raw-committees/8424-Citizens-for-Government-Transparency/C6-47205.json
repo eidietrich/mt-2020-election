@@ -74,6 +74,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "03/23/20",
+            "Entity Name": "Victory Enterprises Inc.",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "5200 30th St. SW",
+            "City": "Davenport",
+            "State": "IA",
+            "Zip": "52802",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 45500.0,
+            "Purpose": "committee set up and initial digital ad creation",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Adobe Ad Exchange",
+            "Expenditure Paid Communications Quantity": "online ads and videos run dates from 3/25/2020 through 4/13/2020",
+            "Expenditure Paid Communications Subject Matter": "Opposition research; legal services-compliance, committee set up, filings; digital advertising fees; creative development-graphic design, video production, website creation; video-protect seniors from fraud; video-meet Nelly, bio, family focus, healthcare expertise; static content ad 1-conservative for State Auditor; static content ad 2-Nelly Nicol will crackdown on fraud"
         }
     ]
 }

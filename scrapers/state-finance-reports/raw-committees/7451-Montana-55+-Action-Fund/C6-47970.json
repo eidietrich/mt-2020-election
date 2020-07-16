@@ -248,6 +248,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "01/16/20",
+            "Entity Name": "Strange Sisters Creative ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2923 Montana Ave",
+            "City": "BILLINGS",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 568.5,
+            "Purpose": "Great Falls Mill Levy Mailer Design",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Design",
+            "Expenditure Paid Communications Quantity": "N/A",
+            "Expenditure Paid Communications Subject Matter": "Great Falls Mill Levy"
         }
     ]
 }

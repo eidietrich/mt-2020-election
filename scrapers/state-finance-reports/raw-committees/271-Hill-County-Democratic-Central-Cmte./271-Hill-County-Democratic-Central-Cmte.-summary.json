@@ -1,7 +1,7 @@
 {
     "slug": "271-Hill-County-Democratic-Central-Cmte.",
     "committeeName": "Hill County Democratic Central Cmte.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 12,
     "data": {
         "committeeId": 271,
@@ -34,17 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "To support Democratic candidates.",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Doug Kaercher PSC1",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Jacob Bachmeier for HD 28",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To support Democratic candidates.",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -52,7 +47,25 @@
                 "interest": "Paul Tuss SD 14",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Doug Kaercher PSC1",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 12,
+        "last_report_end_date": "04/25/2020",
+        "contributions": 29202.03,
+        "num_contributions": 341,
+        "contributions_19_20": 5390.56,
+        "num_contributions_19_20": 40,
+        "expenditures": 22884.56,
+        "num_expenditures": 103,
+        "expenditures_19_20": 6288.43,
+        "num_expenditures_19_20": 32,
+        "cash_on_hand": 5680.99
     }
 }

@@ -1,7 +1,7 @@
 {
     "slug": "7506-Pass-The-Adult-Literacy-Levy",
     "committeeName": "Pass The Adult Literacy Levy",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 3,
     "data": {
         "committeeId": 7506,
@@ -39,5 +39,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 3,
+        "last_report_end_date": "12/11/2018",
+        "contributions": 14134.12,
+        "num_contributions": 15,
+        "contributions_19_20": 34.51,
+        "num_contributions_19_20": 1,
+        "expenditures": 17628.17,
+        "num_expenditures": 19,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

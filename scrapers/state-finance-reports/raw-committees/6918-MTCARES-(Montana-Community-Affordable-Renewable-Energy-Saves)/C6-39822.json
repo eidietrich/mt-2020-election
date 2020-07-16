@@ -117,5 +117,25 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/29/17",
+            "Entity Name": "Doty, Russ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "4957 W 6th St",
+            "City": "Greeley",
+            "State": "CO",
+            "Zip": "80634",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 18.18,
+            "Purpose": "Business cards",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

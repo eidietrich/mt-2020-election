@@ -55,5 +55,44 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "06/08/20",
+            "Entity Name": "TOSKR, Inc.",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1330 BROADWAY - 3RD FLOOR",
+            "City": "OAKLAND",
+            "State": "CA",
+            "Zip": "94612",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 3527.33,
+            "Purpose": "Pre-Paid dials for canvassers from GetThru in quantity of 75,451. ",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Toske, Inc. DBA GetThru",
+            "Expenditure Paid Communications Quantity": "75,451 GetThru Dial Talk Usage fee for May, 2020.",
+            "Expenditure Paid Communications Subject Matter": "Canvasser dials for pro Cooney for Governor"
+        },
+        {
+            "Date Paid": "06/08/20",
+            "Entity Name": "Working Montana PAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2711 Airport Rd.",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 10586.0,
+            "Purpose": "Payroll for 8 Canvassers",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Payroll Expenses",
+            "Expenditure Paid Communications Quantity": "Payroll for WF $1111.84; NH $993.08; SB $1111.84; AM $1218.82; TP $1156.84; PS $1111.84; JP $1111.84; JK $1847.00. Taxes $922.90",
+            "Expenditure Paid Communications Subject Matter": "Payroll for 6-10-2020"
+        }
+    ]
 }

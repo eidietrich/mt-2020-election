@@ -1,7 +1,7 @@
 {
     "slug": "5027-Western-Justice-Associates-PLLC",
     "committeeName": "Western Justice Associates, PLLC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 13,
     "data": {
         "committeeId": 5027,
@@ -39,15 +39,28 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Dirk Sandefur - Supreme Court",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
                 "position": "Other",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Dirk Sandefur - Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 13,
+        "last_report_end_date": "11/23/2016",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 11400.0,
+        "num_expenditures": 6,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -11400.0
     }
 }

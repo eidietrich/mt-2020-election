@@ -1,7 +1,7 @@
 {
     "slug": "8048-Columbia-Falls-SD-6",
     "committeeName": "Columbia Falls SD 6",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 2,
     "data": {
         "committeeId": 8048,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 2,
+        "last_report_end_date": "11/18/2019",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 3172.91,
+        "num_expenditures": 2,
+        "expenditures_19_20": 3172.91,
+        "num_expenditures_19_20": 2,
+        "cash_on_hand": -3172.91
     }
 }

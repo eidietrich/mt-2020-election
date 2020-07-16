@@ -1302,6 +1302,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "04/30/18",
+            "Entity Name": "Mission Control Inc.",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "624 Hebron Ave. Bldg 3",
+            "City": "Glastonbury",
+            "State": "CT",
+            "Zip": "06033",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 920.0,
+            "Purpose": "4,000 door stickers printing and shipping",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/14/18",
+            "Entity Name": "Stones' Phones",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "41-750 Rancho Las Palmas Dr, Suite E-3",
+            "City": "Rancho Mirage",
+            "State": "NV",
+            "Zip": "92270",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 4131.96,
+            "Purpose": "5,806 Live calls to GOTV Ballot Drop Plan Making ",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

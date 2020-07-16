@@ -1,7 +1,7 @@
 {
     "slug": "8350-Doctors-for-a-Healthy-Montana",
     "committeeName": "Doctors for a Healthy Montana ",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 4,
     "data": {
         "committeeId": 8350,
@@ -34,9 +34,9 @@
         ],
         "issues": [
             {
-                "interest": "Pro Life",
+                "interest": "Jennifer Carlson HD 69, Republican ",
                 "position": "Support",
-                "status": "Not on ballot"
+                "status": "Not Applicable"
             },
             {
                 "interest": "Candidate Bruce Grubbs HD 68, Republican ",
@@ -44,12 +44,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Candidate Greg DeVries HD 75, Republican ",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Candidate Jed Hinkle for HD 67, Republican",
+                "interest": "Candidate Caleb Hinkle for HD 68, Republican ",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -59,12 +54,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Candidate Joel Krautter HD 35, Republican ",
-                "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jennifer Carlson HD 69, Republican ",
+                "interest": "Candidate Greg DeVries HD 75, Republican ",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -74,10 +64,33 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Candidate Caleb Hinkle for HD 68, Republican ",
+                "interest": "Candidate Joel Krautter HD 35, Republican ",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Candidate Jed Hinkle for HD 67, Republican",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Pro Life",
+                "position": "Support",
+                "status": "Not on ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 4,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 7835.0,
+        "num_contributions": 8,
+        "contributions_19_20": 7835.0,
+        "num_contributions_19_20": 8,
+        "expenditures": 7217.94,
+        "num_expenditures": 20,
+        "expenditures_19_20": 7217.94,
+        "num_expenditures_19_20": 20,
+        "cash_on_hand": 647.06
     }
 }

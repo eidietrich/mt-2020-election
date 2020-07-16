@@ -1,7 +1,7 @@
 {
     "slug": "7039-SCL-Health-Montana-Incidental-Committee",
     "committeeName": "SCL Health Montana Incidental Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 10,
     "data": {
         "committeeId": 7039,
@@ -39,5 +39,18 @@
                 "status": "Not on ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 10,
+        "last_report_end_date": "11/20/2018",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1202323.53,
+        "num_expenditures": 14,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -1202323.53
     }
 }

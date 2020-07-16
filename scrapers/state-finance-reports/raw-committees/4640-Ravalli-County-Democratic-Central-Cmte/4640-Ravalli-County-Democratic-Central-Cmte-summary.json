@@ -1,7 +1,7 @@
 {
     "slug": "4640-Ravalli-County-Democratic-Central-Cmte",
     "committeeName": "Ravalli County Democratic Central Cmte",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 19,
     "data": {
         "committeeId": 4640,
@@ -34,17 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "David Smith",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "A Jo Young",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Gail Gutsche for PSC, 2016",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -54,7 +44,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Nancy Neal for HD 86",
+                "interest": "Margaret Gorski",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -64,10 +54,33 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Margaret Gorski",
+                "interest": "David Smith",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Gail Gutsche for PSC, 2016",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Nancy Neal for HD 86",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 19,
+        "last_report_end_date": "05/25/2020",
+        "contributions": 14758.35,
+        "num_contributions": 158,
+        "contributions_19_20": 4133.63,
+        "num_contributions_19_20": 71,
+        "expenditures": 22878.03,
+        "num_expenditures": 125,
+        "expenditures_19_20": 6712.72,
+        "num_expenditures_19_20": 55,
+        "cash_on_hand": 3534.44
     }
 }

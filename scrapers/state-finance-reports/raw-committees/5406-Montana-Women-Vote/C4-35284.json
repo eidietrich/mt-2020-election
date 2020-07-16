@@ -23,5 +23,44 @@
         "cash_in_bank": -632.33
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/18/16",
+            "Entity Name": "Nielsen, Micah",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "725 W. Alder St., Ste. 21",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59802",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 341.63,
+            "Purpose": "Staff salary and office overhead",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/18/16",
+            "Entity Name": "Shindel, Jules",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "725 W. Alder St., Ste. 21",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59802",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 290.7,
+            "Purpose": "Staff salary and office overhead",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

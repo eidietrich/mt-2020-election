@@ -1,7 +1,7 @@
 {
     "slug": "257-Gallatin-County-Republican-Central-Cmte.",
     "committeeName": "Gallatin County Republican Central Cmte.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 13,
     "data": {
         "committeeId": 257,
@@ -34,27 +34,22 @@
         ],
         "issues": [
             {
+                "interest": "Greg Gianforte for United States Congress        ",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jane Gillette for HD 65",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
                 "interest": "Bruce Grubbs for HD68",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
                 "interest": "R Stephen White for Gallatin County Commission",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Jason Humberger for Gallatin County Auditor",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Legislative Referendum 129",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Greg Metzger for Gallatin County Clerk & Recorder",
                 "position": "Support",
                 "status": "On ballot"
             },
@@ -69,46 +64,6 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Kim Buchanan for Gallatin County Treasurer",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Walt Sales for HD 69",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Tom Burnett for HD 67",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Jane Gillette for HD 65",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Greg Gianforte for United States Congress        ",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Jon Khonkey for HD 65",
-                "position": "Support",
-                "status": "Not on ballot"
-            },
-            {
-                "interest": "Ron Murray for HD 68",
-                "position": "Support",
-                "status": "Not on ballot"
-            },
-            {
-                "interest": "Gordy Vance for SD 34",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "Kerry White for HD 64",
                 "position": "Support",
                 "status": "Not Applicable"
@@ -119,8 +74,53 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Initiative 186",
-                "position": "Oppose",
+                "interest": "Greg Metzger for Gallatin County Clerk & Recorder",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jon Khonkey for HD 65",
+                "position": "Support",
+                "status": "Not on ballot"
+            },
+            {
+                "interest": "Jason Humberger for Gallatin County Auditor",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Kim Buchanan for Gallatin County Treasurer",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Ron Murray for HD 68",
+                "position": "Support",
+                "status": "Not on ballot"
+            },
+            {
+                "interest": "Jedediah Hinkle for SD 32",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Walt Sales for HD 69",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Legislative Referendum 129",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Tom Burnett for HD 67",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Gordy Vance for SD 34",
+                "position": "Support",
                 "status": "On ballot"
             },
             {
@@ -129,10 +129,23 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Jedediah Hinkle for SD 32",
-                "position": "Support",
+                "interest": "Initiative 186",
+                "position": "Oppose",
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 13,
+        "last_report_end_date": "11/21/2018",
+        "contributions": 101115.41,
+        "num_contributions": 417,
+        "contributions_19_20": 260.0,
+        "num_contributions_19_20": 1,
+        "expenditures": 116793.69,
+        "num_expenditures": 181,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 13968.54
     }
 }

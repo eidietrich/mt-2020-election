@@ -1,7 +1,7 @@
 {
     "slug": "226-Blaine-County-Democratic-Central-Cmte.",
     "committeeName": "Blaine County Democratic Central Cmte.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 16,
     "data": {
         "committeeId": 226,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 16,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 3848.42,
+        "num_contributions": 55,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 2667.51,
+        "num_expenditures": 23,
+        "expenditures_19_20": 50.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": 1844.91
     }
 }

@@ -55,5 +55,82 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/28/16",
+            "Entity Name": "Good Jobs Montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1633 Main Street Suite A-354",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59105",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 50000.0,
+            "Purpose": "Contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/28/16",
+            "Entity Name": "MEA-MFT Ballot Issue Fund",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1232 E 6th Ave",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 50000.0,
+            "Purpose": "Contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/28/16",
+            "Entity Name": "Montanans for Liberty and Justice",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "32 S Ewing #304",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 75000.0,
+            "Purpose": "Contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/28/16",
+            "Entity Name": "New Media",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1730 Rhode Island Ave. NW, Ste 123",
+            "City": "Washington DC",
+            "State": "DC",
+            "Zip": "20036",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 22500.0,
+            "Purpose": "Web advertising in support of Steve Bullock for Governor",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

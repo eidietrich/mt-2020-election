@@ -210,5 +210,25 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "08/27/16",
+            "Entity Name": "Larson, Wade",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Wicks Lane",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59105",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1750.0,
+            "Purpose": "Videography",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

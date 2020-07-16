@@ -1,7 +1,7 @@
 {
     "slug": "1411-Glacier-County-Republican-Central-Committee",
     "committeeName": "Glacier County Republican Central Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 19,
     "data": {
         "committeeId": 1411,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 19,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 13174.74,
+        "num_contributions": 137,
+        "contributions_19_20": 1190.0,
+        "num_contributions_19_20": 11,
+        "expenditures": 20007.68,
+        "num_expenditures": 49,
+        "expenditures_19_20": 2450.46,
+        "num_expenditures_19_20": 11,
+        "cash_on_hand": 6572.93
     }
 }

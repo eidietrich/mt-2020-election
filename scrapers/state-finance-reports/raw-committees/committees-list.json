@@ -50676,6 +50676,18 @@
         "entityState": "MT"
     },
     {
+        "committeeId": 9022,
+        "committeeName": "Flathead County Democratic",
+        "committeeAddress": "PO Box 2622, Kalispell, MT 59903",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1594015200000,
+        "entityFullName": "Flathead County Democratic",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    {
         "committeeId": 8988,
         "committeeName": "Flathead County Democratic",
         "committeeAddress": "P.O. Box 2622, Kalispell, MT 59903",
@@ -50768,6 +50780,18 @@
         "electionYear": "2000",
         "amendedDate": 1587276000000,
         "entityFullName": "Flathead County Democratic Party Central Committee",
+        "entityCity": "Kalispell",
+        "entityState": "MT"
+    },
+    {
+        "committeeId": 9023,
+        "committeeName": "Flathead County Democratic Women",
+        "committeeAddress": "PO Box 2376, Kalispell, MT 59903",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1594015200000,
+        "entityFullName": "Flathead County Democratic Women",
         "entityCity": "Kalispell",
         "entityState": "MT"
     },
@@ -51201,6 +51225,18 @@
         "amendedDate": 1413871200000,
         "entityFullName": "Flathead Democratic Central Committee",
         "entityCity": "Whitefish",
+        "entityState": "MT"
+    },
+    {
+        "committeeId": 9020,
+        "committeeName": "Flathead Democratic Women",
+        "committeeAddress": "P.O. Box 2376, Kalispell, MT 59903",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1594015200000,
+        "entityFullName": "Flathead Democratic Women",
+        "entityCity": "Kalispell",
         "entityState": "MT"
     },
     {
@@ -55868,6 +55904,18 @@
         "electionYear": "2000",
         "amendedDate": 1560664800000,
         "entityFullName": "Hill County Democratic Central Cmte.",
+        "entityCity": "Havre",
+        "entityState": "MT"
+    },
+    {
+        "committeeId": 9027,
+        "committeeName": "Hill County Democratic Central Comm",
+        "committeeAddress": "PO Box 1849, Havre, MT 59501",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1594188000000,
+        "entityFullName": "Hill County Democratic Central Comm",
         "entityCity": "Havre",
         "entityState": "MT"
     },
@@ -69504,6 +69552,18 @@
         "entityState": "MT"
     },
     {
+        "committeeId": 9018,
+        "committeeName": "Montana DocPAC",
+        "committeeAddress": "185 Greenwood Rd  PO Box 2900, Napa, CA 94558",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1593756000000,
+        "entityFullName": "Montana DocPAC",
+        "entityCity": "Napa",
+        "entityState": "CA"
+    },
+    {
         "committeeId": 4867,
         "committeeName": "Montana Dog Lovers Assn",
         "committeeAddress": "123 M St, Helena, MT 59601",
@@ -72048,6 +72108,18 @@
         "entityState": "MT"
     },
     {
+        "committeeId": 9021,
+        "committeeName": "Montana Red",
+        "committeeAddress": "228 S Washington St STE 115, Alexandria , VA 22314",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1594015200000,
+        "entityFullName": "Montana Red",
+        "entityCity": "Alexandria ",
+        "entityState": "VA"
+    },
+    {
         "committeeId": 8904,
         "committeeName": "Montana Red",
         "committeeAddress": "228 S. Washington St. STE. 115, Alexandria, VA 22314",
@@ -72414,7 +72486,7 @@
         "committeeTypeDescr": "Political Party",
         "incorporated": "N",
         "electionYear": "2000",
-        "amendedDate": 1572850800000,
+        "amendedDate": 1594188000000,
         "entityFullName": "Montana Republican State Central Cmte.",
         "entityCity": "Helena",
         "entityState": "MT"
@@ -72950,13 +73022,13 @@
     {
         "committeeId": 355,
         "committeeName": "Montana State Democratic Women's Club",
-        "committeeAddress": "301 Northgate Loop, Helena, MT 59602",
+        "committeeAddress": "1513 20th Ave So, Great Falls, MT 59405",
         "committeeTypeDescr": "Political Party",
         "incorporated": "N",
         "electionYear": "2000",
         "amendedDate": 1407132000000,
         "entityFullName": "Montana State Democratic Women's Club",
-        "entityCity": "Helena",
+        "entityCity": "Great Falls",
         "entityState": "MT"
     },
     {
@@ -88488,6 +88560,18 @@
         "entityState": "WA"
     },
     {
+        "committeeId": 9025,
+        "committeeName": "Weyerhaeuser Company PAC",
+        "committeeAddress": "220 Occidental Avenue South, Seattle, MT 98104",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1594188000000,
+        "entityFullName": "Weyerhaeuser Company PAC",
+        "entityCity": "Seattle",
+        "entityState": "MT"
+    },
+    {
         "committeeId": 7343,
         "committeeName": "Weyerhaeuser Company PAC",
         "committeeAddress": "220 Occidental Ave S, Seattle, WA 98104",
@@ -88524,6 +88608,18 @@
         "entityState": "WA"
     },
     {
+        "committeeId": 9024,
+        "committeeName": "Weyerhaeuser Company Political Action Committee",
+        "committeeAddress": "220 Occidental Ave South, Seattle, WA 98104",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1594015200000,
+        "entityFullName": "Weyerhaeuser Company Political Action Committee",
+        "entityCity": "Seattle",
+        "entityState": "WA"
+    },
+    {
         "committeeId": 7301,
         "committeeName": "Weyerhaeuser Company Political Action Committee",
         "committeeAddress": "220 Occidental Ave S, Seattle, WA 98104",
@@ -88533,6 +88629,18 @@
         "amendedDate": 1526623200000,
         "entityFullName": "Weyerhaeuser Company Political Action Committee",
         "entityCity": "Seattle",
+        "entityState": "WA"
+    },
+    {
+        "committeeId": 9026,
+        "committeeName": "Weyerhaeuser PAC",
+        "committeeAddress": "220 Occidental Ave S, Seattle , WA 98104",
+        "committeeTypeDescr": "Independent",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1594188000000,
+        "entityFullName": "Weyerhaeuser PAC",
+        "entityCity": "Seattle ",
         "entityState": "WA"
     },
     {
@@ -89388,6 +89496,18 @@
         "entityState": "MT"
     },
     {
+        "committeeId": 9019,
+        "committeeName": "Yellowstone County Democrats",
+        "committeeAddress": "PO Box 21131, Billings, MT 59104",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1593756000000,
+        "entityFullName": "Yellowstone County Democrats",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    {
         "committeeId": 3546,
         "committeeName": "Yellowstone County Democrats",
         "committeeAddress": "P.O. Box 21131, Billings, MT 59104",
@@ -89540,6 +89660,18 @@
         "electionYear": "2000",
         "amendedDate": 1404108000000,
         "entityFullName": "Yellowstone County Republican Central Committee",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    {
+        "committeeId": 9028,
+        "committeeName": "Yellowstone County Republican Women",
+        "committeeAddress": "3375 Gregory Drive W, Billings, MT 59102",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1594188000000,
+        "entityFullName": "Yellowstone County Republican Women",
         "entityCity": "Billings",
         "entityState": "MT"
     },
@@ -90286,6 +90418,18 @@
         "entityFullName": "montana for affordable housing PAC",
         "entityCity": "helena ",
         "entityState": "MT"
+    },
+    {
+        "committeeId": 9017,
+        "committeeName": "montana red",
+        "committeeAddress": "228 S washington st. 115, alexandria, VA 22314",
+        "committeeTypeDescr": "Federal Action",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1593756000000,
+        "entityFullName": "montana red",
+        "entityCity": "alexandria",
+        "entityState": "VA"
     },
     {
         "committeeId": 5409,

@@ -1,7 +1,7 @@
 {
     "slug": "1196-MTA-Hospitality-PAC",
     "committeeName": "MTA Hospitality PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 17,
     "data": {
         "committeeId": 1196,
@@ -34,12 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Support candidates for local and statewide office as well as political party support",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Jed Hinkle for Senate",
+                "interest": "Frank Fleming for HD 51",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -49,17 +44,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Mark Sweeney for HD 77",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Doug Kary SD 22",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Frank Fleming for HD 51",
+                "interest": "Jill Cohenour for SD 42",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -69,7 +54,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Bill Mercer for HD 46",
+                "interest": "Doug Kary SD 22",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -79,10 +64,38 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jill Cohenour for SD 42",
+                "interest": "Jed Hinkle for Senate",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Bill Mercer for HD 46",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mark Sweeney for HD 77",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support candidates for local and statewide office as well as political party support",
+                "position": "Support",
+                "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 17,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 4140.0,
+        "num_contributions": 381,
+        "contributions_19_20": 7570.0,
+        "num_contributions_19_20": 190,
+        "expenditures": 41186.54,
+        "num_expenditures": 121,
+        "expenditures_19_20": 15027.92,
+        "num_expenditures_19_20": 52,
+        "cash_on_hand": 2661.72
     }
 }

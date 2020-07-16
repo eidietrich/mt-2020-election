@@ -23,5 +23,25 @@
         "cash_in_bank": -300.0
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "06/05/18",
+            "Entity Name": "Flathead County Initiative 17-01 - No",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "800 South Main Street, Room 302",
+            "City": "Kalispell",
+            "State": "MT",
+            "Zip": "59901",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 300.0,
+            "Purpose": "Staff Time: 3 hours - Joe Unterreiner, president 1 hour; Kate Lufkin, communications, 2 hours",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

@@ -23,5 +23,44 @@
         "cash_in_bank": -128503.41
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "12/22/16",
+            "Entity Name": "TBG",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Box 347261",
+            "City": "Pittsburgh",
+            "State": "PA",
+            "Zip": "15251",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 10.25,
+            "Purpose": "Conference call",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "12/02/16",
+            "Entity Name": "TBG",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Box 347261",
+            "City": "Pittsburgh",
+            "State": "PA",
+            "Zip": "15251",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 17.57,
+            "Purpose": "Conference calls",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

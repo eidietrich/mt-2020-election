@@ -1,7 +1,7 @@
 {
     "slug": "6989-Kalispell-Regional-Medical-Center-Inc.-Incidental-Committee",
     "committeeName": "Kalispell Regional Medical Center, Inc. Incidental Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 8,
     "data": {
         "committeeId": 6989,
@@ -39,5 +39,18 @@
                 "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 8,
+        "last_report_end_date": "11/21/2018",
+        "contributions": 90094.79,
+        "num_contributions": 3,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 391994.21,
+        "num_expenditures": 8,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -301374.21
     }
 }

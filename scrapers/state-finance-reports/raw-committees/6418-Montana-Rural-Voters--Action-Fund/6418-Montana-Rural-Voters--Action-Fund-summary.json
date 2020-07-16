@@ -1,7 +1,7 @@
 {
     "slug": "6418-Montana-Rural-Voters--Action-Fund",
     "committeeName": "Montana Rural Voters  Action Fund",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 2,
     "data": {
         "committeeId": 6418,
@@ -39,9 +39,9 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Nadja Brown, Billings Ward 3 Municipal Election",
-                "position": "Oppose",
-                "status": "On ballot"
+                "interest": "Penny Ronning, Ward 4 Billings Municipal Election",
+                "position": "Support",
+                "status": "Not Applicable"
             },
             {
                 "interest": "George Blackard, Billings Ward 4 Municipal Election",
@@ -49,10 +49,23 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Penny Ronning, Ward 4 Billings Municipal Election",
-                "position": "Support",
-                "status": "Not Applicable"
+                "interest": "Nadja Brown, Billings Ward 3 Municipal Election",
+                "position": "Oppose",
+                "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 2,
+        "last_report_end_date": "11/22/2017",
+        "contributions": 4000.0,
+        "num_contributions": 8,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 3105.26,
+        "num_expenditures": 8,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 894.74
     }
 }

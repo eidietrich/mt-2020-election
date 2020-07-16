@@ -1,7 +1,7 @@
 {
     "slug": "7313-Stop-I-186-to-Protect-Miners-and-Jobs",
     "committeeName": "Stop I-186 to Protect Miners and Jobs",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 17,
     "data": {
         "committeeId": 7313,
@@ -39,5 +39,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 17,
+        "last_report_end_date": "06/30/2020",
+        "contributions": 5558352.41,
+        "num_contributions": 545,
+        "contributions_19_20": 5370.09,
+        "num_contributions_19_20": 4,
+        "expenditures": 5828406.62,
+        "num_expenditures": 259,
+        "expenditures_19_20": 20253.62,
+        "num_expenditures_19_20": 8,
+        "cash_on_hand": 145154.96
     }
 }

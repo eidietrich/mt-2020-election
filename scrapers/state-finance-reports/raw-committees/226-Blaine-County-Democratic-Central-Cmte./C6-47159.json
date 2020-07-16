@@ -23,5 +23,25 @@
         "cash_in_bank": 1844.91
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "03/14/20",
+            "Entity Name": "Montana Seed Show",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 697",
+            "City": "Harlem",
+            "State": "MT",
+            "Zip": "59526",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 50.0,
+            "Purpose": "Booth rental",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "public booth at seed show",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

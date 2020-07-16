@@ -1,7 +1,7 @@
 {
     "slug": "6359-Yes!-for-Flathead-Farms-and-Water",
     "committeeName": "Yes! for Flathead Farms and Water",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 10,
     "data": {
         "committeeId": 6359,
@@ -34,15 +34,28 @@
         ],
         "issues": [
             {
-                "interest": "To place Initiative No. 17-01 on the election ballot to enact resolution No. 1594C to add property to the Egan Slough Zoning District in Flathead County",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Flathead County Initiative No. 17-01",
                 "position": "Support",
                 "status": "On ballot"
+            },
+            {
+                "interest": "To place Initiative No. 17-01 on the election ballot to enact resolution No. 1594C to add property to the Egan Slough Zoning District in Flathead County",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 10,
+        "last_report_end_date": "06/22/2020",
+        "contributions": 71884.53,
+        "num_contributions": 52,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 117669.09,
+        "num_expenditures": 32,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 369.92
     }
 }

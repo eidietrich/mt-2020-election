@@ -1,7 +1,7 @@
 {
     "slug": "4965-Contractors'-PAC",
     "committeeName": "Contractors' PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 23,
     "data": {
         "committeeId": 4965,
@@ -34,12 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "Steve Fitzpatrick for SD 10",
+                "interest": "David Bedey for HD 88",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Bruce Grubbs for HD68",
+                "interest": "Geraldine Custer for HD 39",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -49,12 +49,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "David Bedey for HD 88",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Ross Fitzgerald for HD 17",
+                "interest": "Dan Salomon for SD 47",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -64,12 +59,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jeff Welborn for SD 36",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jim Hamilton for HD 61",
+                "interest": "Terry Gauthier for SD 40",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -84,32 +74,17 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Ross Fitzgerald for HD 17",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Mike Hopkins for HD 92",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Dan Salomon for SD 47",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Ken Holmlund for HD 38",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Terry Gauthier for SD 40",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Wendy McKamey for HD19",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Geraldine Custer for HD 39",
+                "interest": "Steve Fitzpatrick for SD 10",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -119,7 +94,22 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Edward Buttrey for HD 21",
+                "interest": "Ken Holmlund for HD 38",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bruce Grubbs for HD68",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Wendy McKamey for HD19",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jim Hamilton for HD 61",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -127,7 +117,30 @@
                 "interest": "Llew Jones for HD 18",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Jeff Welborn for SD 36",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Edward Buttrey for HD 21",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 23,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 116405.17,
+        "num_contributions": 274,
+        "contributions_19_20": 20520.0,
+        "num_contributions_19_20": 28,
+        "expenditures": 131878.88,
+        "num_expenditures": 160,
+        "expenditures_19_20": 28598.6,
+        "num_expenditures_19_20": 39,
+        "cash_on_hand": 2383.86
     }
 }

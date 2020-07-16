@@ -1,7 +1,7 @@
 {
     "slug": "425-Montana-Law-PAC",
     "committeeName": "Montana Law-PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 30,
     "data": {
         "committeeId": 425,
@@ -34,6 +34,11 @@
         ],
         "issues": [
             {
+                "interest": " Laurie McKinnon",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
                 "interest": "Mike Cooney",
                 "position": "Support",
                 "status": "On ballot"
@@ -42,12 +47,20 @@
                 "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system. ",
                 "position": "Support",
                 "status": "Support"
-            },
-            {
-                "interest": " Laurie McKinnon",
-                "position": "Oppose",
-                "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 30,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 868766.0,
+        "num_contributions": 619,
+        "contributions_19_20": 128267.04,
+        "num_contributions_19_20": 137,
+        "expenditures": 752925.67,
+        "num_expenditures": 189,
+        "expenditures_19_20": 21783.38,
+        "num_expenditures_19_20": 66,
+        "cash_on_hand": 102863.33
     }
 }

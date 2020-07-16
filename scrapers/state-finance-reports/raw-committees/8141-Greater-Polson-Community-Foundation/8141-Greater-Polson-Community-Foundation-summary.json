@@ -1,7 +1,7 @@
 {
     "slug": "8141-Greater-Polson-Community-Foundation",
     "committeeName": "Greater Polson Community Foundation",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 8141,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "12/12/2019",
+        "contributions": 11350.0,
+        "num_contributions": 5,
+        "contributions_19_20": 11350.0,
+        "num_contributions_19_20": 5,
+        "expenditures": 16350.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 16350.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": -5000.0
     }
 }

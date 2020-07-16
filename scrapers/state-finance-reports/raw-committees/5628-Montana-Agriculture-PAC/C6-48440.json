@@ -86,5 +86,25 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "05/01/20",
+            "Entity Name": "VIctory Enterprises",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "5200 30th Street, SW",
+            "City": "Davenport",
+            "State": "IA",
+            "Zip": "520802",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2500.0,
+            "Purpose": "Share of Design, Creative, Production, Printing of Direct Mail",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Direct Mailing for: SD 28-Tom Richmond, HD 35-Walt Sales,                                SD 44-Nancy Ballance, HD 7-Frank Garner, HD 9-Brian Putnam,                        \nHD 10-Doug Mahlum, HD 14-Denley Loge, HD21-Ed Buttrey,                                 HD 35-Joel Krautter, HD 37-Eric Moore, HD 64 Jane Gillette,                               HD 68-Bruce Grubbs, HD 69-Don Seifert, HD 70-Julie Dooling,                           HD 75-Marta Betoglio, HD 86-David Bedey, HD 88-Sharon Greef",
+            "Expenditure Paid Communications Quantity": "77,278",
+            "Expenditure Paid Communications Subject Matter": "Mailer 1: Growth-jobs and the economy; Mailer 2: Wallet-keeping taxes low; Mailer 3: GOVT - issue summation and vote prompt; Mailer 4: Growth-issue summation and vote prompt;  Mailer 5: Prosperity - taxes, jobs, GOVT prompt."
+        }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "slug": "7062-AHA-for-Healthy-Montana",
     "committeeName": "AHA for Healthy Montana",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 11,
     "data": {
         "committeeId": 7062,
@@ -39,5 +39,18 @@
                 "status": "Not on ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 11,
+        "last_report_end_date": "11/19/2018",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 38820.72,
+        "num_expenditures": 13,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -38820.72
     }
 }

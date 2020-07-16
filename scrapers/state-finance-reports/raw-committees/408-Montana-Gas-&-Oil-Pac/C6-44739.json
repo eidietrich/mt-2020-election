@@ -42,6 +42,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/25/18",
+            "Entity Name": "JACOBSON, TOM",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "521 RIVERVIEW DR E",
+            "City": "GREAT FALLS",
+            "State": "MT",
+            "Zip": "59404",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 150.0,
+            "Purpose": "CONTRIBUTION FOR THE GENERAL ELECTION",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "11/01/18",
+            "Entity Name": "Johnson, Brad S.",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1585",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 150.0,
+            "Purpose": "CONTRIBUTION FOR THE GENERAL ELECTION",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "slug": "5464-Beaverhead-County-Democrats",
     "committeeName": "Beaverhead County Democrats",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 21,
     "data": {
         "committeeId": 5464,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 21,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 3772.34,
+        "num_contributions": 50,
+        "contributions_19_20": 100.0,
+        "num_contributions_19_20": 1,
+        "expenditures": 3513.71,
+        "num_expenditures": 20,
+        "expenditures_19_20": 486.0,
+        "num_expenditures_19_20": 5,
+        "cash_on_hand": 392.63
     }
 }

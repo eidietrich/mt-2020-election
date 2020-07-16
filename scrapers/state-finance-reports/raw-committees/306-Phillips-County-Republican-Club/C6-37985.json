@@ -169,6 +169,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "12/31/16",
+            "Entity Name": "PHILLIPS COUNTY REPUBLICAN CLUB",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "MALTA",
+            "City": "MALTA",
+            "State": "MT",
+            "Zip": "59538",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 50.0,
+            "Purpose": "Mike Lang Contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

@@ -23,5 +23,25 @@
         "cash_in_bank": -2500.0
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "08/09/16",
+            "Entity Name": "Montanans for Research & Cures",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1912 ",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59103",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2500.0,
+            "Purpose": "Campaign Donation",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

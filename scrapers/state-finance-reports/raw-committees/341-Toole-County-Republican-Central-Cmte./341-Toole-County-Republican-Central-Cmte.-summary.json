@@ -1,7 +1,7 @@
 {
     "slug": "341-Toole-County-Republican-Central-Cmte.",
     "committeeName": "Toole County Republican Central Cmte.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 6,
     "data": {
         "committeeId": 341,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 6,
+        "last_report_end_date": "11/26/2018",
+        "contributions": 820.0,
+        "num_contributions": 5,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 0,
+        "num_expenditures": 0,
+        "expenditures_19_20": 0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 4976.58
     }
 }

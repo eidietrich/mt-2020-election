@@ -23,5 +23,44 @@
         "cash_in_bank": -834.2
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "06/01/16",
+            "Entity Name": "Nielsen, Micah",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "725 W. Alder St., Ste. 21",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59802",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 124.92,
+            "Purpose": "Staff time and office overhead in support of Yes for YES",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "06/01/16",
+            "Entity Name": "Shindel, Jules",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "725 W. Alder St., Ste. 21",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59802",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 76.95,
+            "Purpose": "Staff time and office overhead in support of Yes for YES",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

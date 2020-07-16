@@ -1,7 +1,7 @@
 {
     "slug": "5660-Sheridan-County-Democratic-Central-Committee",
     "committeeName": "Sheridan County Democratic Central Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 5660,
@@ -34,12 +34,17 @@
         ],
         "issues": [
             {
+                "interest": "Jesse Laslovich \u2013 Auditor race",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Promote Democratic values and Issues. Work with Candidates and the local Democratic Central Cmte to help elect Democratic Candidates.",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Monica Lindeen Secretary Of State",
+                "interest": "Evelyn Carlisle for House District #34",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -54,12 +59,12 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jesse Laslovich \u2013 Auditor race",
+                "interest": "Steve Bullock - Governor",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Steve Bullock - Governor",
+                "interest": "Monica Lindeen Secretary Of State",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -67,12 +72,20 @@
                 "interest": "Melissa Romano State Superintendent",
                 "position": "Support",
                 "status": "Not Applicable"
-            },
-            {
-                "interest": "Evelyn Carlisle for House District #34",
-                "position": "Support",
-                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "08/27/2016",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1364.83,
+        "num_expenditures": 8,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
     }
 }

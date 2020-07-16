@@ -23,5 +23,25 @@
         "cash_in_bank": -80500.0
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "04/27/20",
+            "Entity Name": "Working Montana PAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2711 Airport Rd.",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 50000.0,
+            "Purpose": "Contribution to the Working Montana PAC",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "Contribution to the Working Montana PAC; pro Mike Cooney",
+            "Expenditure Paid Communications Quantity": "Contribution to the Working Montana PAC; pro Mike Cooney",
+            "Expenditure Paid Communications Subject Matter": "Contribution for support of Mike Cooney"
+        }
+    ]
 }

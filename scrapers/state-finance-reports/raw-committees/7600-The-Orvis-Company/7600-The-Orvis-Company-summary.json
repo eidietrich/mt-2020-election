@@ -1,7 +1,7 @@
 {
     "slug": "7600-The-Orvis-Company",
     "committeeName": "The Orvis Company",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 3,
     "data": {
         "committeeId": 7600,
@@ -39,5 +39,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 3,
+        "last_report_end_date": "11/01/2018",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 13614.96,
+        "num_expenditures": 7,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -13614.96
     }
 }

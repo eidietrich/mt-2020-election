@@ -1,7 +1,7 @@
 {
     "slug": "6956-MFPE-formerly-MEA-MFT",
     "committeeName": "MFPE formerly MEA-MFT",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 13,
     "data": {
         "committeeId": 6956,
@@ -34,7 +34,17 @@
         ],
         "issues": [
             {
-                "interest": "Support Leesha Ford, House District 21",
+                "interest": "Support Laura Dever, House District 22",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Montana Tobacco Tax Exploratory Committee",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Helena Fire Levy",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -44,12 +54,27 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Support I-185",
+                "interest": "State 6 Mill Levy- Legislative Referendum 128",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Tom Jacobsen, Senate District 11",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
                 "interest": "Support KEY (Kids Education Yes) ",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support I-185",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Mary McNally, Senate District 24",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -69,40 +94,28 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Support Laura Dever, House District 22",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Support Montana Tobacco Tax Exploratory Committee",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Support Tom Jacobsen, Senate District 11",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Support Mary McNally, Senate District 24",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "State 6 Mill Levy- Legislative Referendum 128",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Support Helena Fire Levy",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Support Thomas Winter, House District 96",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Leesha Ford, House District 21",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 13,
+        "last_report_end_date": "12/31/2018",
+        "contributions": 751000.0,
+        "num_contributions": 4,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1456893.38,
+        "num_expenditures": 91,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -705893.38
     }
 }

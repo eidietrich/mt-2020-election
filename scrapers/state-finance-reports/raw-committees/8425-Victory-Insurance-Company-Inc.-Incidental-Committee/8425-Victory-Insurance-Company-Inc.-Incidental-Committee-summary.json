@@ -1,7 +1,7 @@
 {
     "slug": "8425-Victory-Insurance-Company-Inc.-Incidental-Committee",
     "committeeName": "Victory Insurance Company, Inc. Incidental Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 4,
     "data": {
         "committeeId": 8425,
@@ -39,5 +39,18 @@
                 "status": "Support"
             }
         ]
+    },
+    "finances": {
+        "reports": 4,
+        "last_report_end_date": "06/30/2020",
+        "contributions": -5824.5,
+        "num_contributions": 1,
+        "contributions_19_20": -5824.5,
+        "num_contributions_19_20": 1,
+        "expenditures": 191000.0,
+        "num_expenditures": 6,
+        "expenditures_19_20": 191000.0,
+        "num_expenditures_19_20": 6,
+        "cash_on_hand": -185175.5
     }
 }

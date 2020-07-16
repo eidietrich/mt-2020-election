@@ -678,6 +678,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "05/08/20",
+            "Entity Name": "The Dover Group",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "823 N 25th St",
+            "City": "Philadelphia",
+            "State": "PA",
+            "Zip": "19130",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 4065.0,
+            "Purpose": "digital ads supporting 3 candidates: Loni Conley (HD96), Shannon O'Brien (SD 46), Jasmine Taylor (HD22). Amount: $2,745 in ads; $1,320 ad production",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

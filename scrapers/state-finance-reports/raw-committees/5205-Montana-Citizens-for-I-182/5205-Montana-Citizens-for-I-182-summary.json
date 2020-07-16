@@ -1,7 +1,7 @@
 {
     "slug": "5205-Montana-Citizens-for-I-182",
     "committeeName": "Montana Citizens for I-182",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 11,
     "data": {
         "committeeId": 5205,
@@ -39,5 +39,18 @@
                 "status": "On ballot, approved"
             }
         ]
+    },
+    "finances": {
+        "reports": 11,
+        "last_report_end_date": "11/23/2016",
+        "contributions": 349149.57,
+        "num_contributions": 120,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 70710.31,
+        "num_expenditures": 52,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 3841.69
     }
 }

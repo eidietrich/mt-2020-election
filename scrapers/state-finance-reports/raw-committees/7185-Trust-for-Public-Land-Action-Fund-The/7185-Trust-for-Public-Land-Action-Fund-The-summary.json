@@ -1,7 +1,7 @@
 {
     "slug": "7185-Trust-for-Public-Land-Action-Fund-The",
     "committeeName": "Trust for Public Land Action Fund, The",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 3,
     "data": {
         "committeeId": 7185,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 3,
+        "last_report_end_date": "07/01/2018",
+        "contributions": 2877.29,
+        "num_contributions": 1,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 34000.0,
+        "num_expenditures": 2,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -31122.71
     }
 }

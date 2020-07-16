@@ -2216,6 +2216,25 @@
             "Expenditure Paid Communications Subject Matter": ""
         },
         {
+            "Date Paid": "05/22/17",
+            "Entity Name": "Luc, Lam K",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1983 Retreat Avenue",
+            "City": "Portland",
+            "State": "ME",
+            "Zip": "04101",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 15000.0,
+            "Purpose": "Test MAF",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
             "Date Paid": "07/14/17",
             "Entity Name": "Accrued Expense S/O Memo",
             "First Name": "",

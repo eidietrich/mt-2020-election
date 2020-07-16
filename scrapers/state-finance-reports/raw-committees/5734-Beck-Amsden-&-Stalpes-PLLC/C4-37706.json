@@ -23,5 +23,25 @@
         "cash_in_bank": -35581.93
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "10/25/16",
+            "Entity Name": "Beck, Amsden & Stalpes, PLLC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1946 Stadium Drive, Suite 1",
+            "City": "Bozeman",
+            "State": "MT",
+            "Zip": "59715",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2434.71,
+            "Purpose": "Ind. Expenditure for Dirk Sandefur: supplies $916.71; post $573.; staff1 $425; staff2 $520",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

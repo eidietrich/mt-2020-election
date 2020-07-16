@@ -1,7 +1,7 @@
 {
     "slug": "3008-CTA-BuildMT-PAC",
     "committeeName": "CTA BuildMT PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 49,
     "data": {
         "committeeId": 3008,
@@ -39,5 +39,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 49,
+        "last_report_end_date": "06/30/2020",
+        "contributions": 5700.0,
+        "num_contributions": 5,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 5618.0,
+        "num_expenditures": 8,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 1396.08
     }
 }

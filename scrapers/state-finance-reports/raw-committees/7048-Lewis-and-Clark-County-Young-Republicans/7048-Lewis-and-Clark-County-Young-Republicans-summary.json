@@ -1,7 +1,7 @@
 {
     "slug": "7048-Lewis-and-Clark-County-Young-Republicans",
     "committeeName": "Lewis and Clark County Young Republicans",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 4,
     "data": {
         "committeeId": 7048,
@@ -34,17 +34,17 @@
         ],
         "issues": [
             {
+                "interest": "To provide members with opportunities to learn about the politicval process and political issues.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "To provide members with oppotunities to become involved in and contribute to the development and advancement of the Republican Party within Lewis and Clark County, Montana, and the United States.",
                 "position": "Other",
                 "status": "Not Applicable"
             },
             {
-                "interest": "To develop and maintain and Young Republican organization in Lewis & Clark County.",
-                "position": "Other",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "To provide members with opportunities to learn about the politicval process and political issues.",
+                "interest": "To provide members with opportunities for political expression and recognition.",
                 "position": "Other",
                 "status": "Not Applicable"
             },
@@ -54,10 +54,23 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "To provide members with opportunities for political expression and recognition.",
+                "interest": "To develop and maintain and Young Republican organization in Lewis & Clark County.",
                 "position": "Other",
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 4,
+        "last_report_end_date": "11/26/2018",
+        "contributions": 50.0,
+        "num_contributions": 1,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 50.0,
+        "num_expenditures": 1,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 50.0
     }
 }

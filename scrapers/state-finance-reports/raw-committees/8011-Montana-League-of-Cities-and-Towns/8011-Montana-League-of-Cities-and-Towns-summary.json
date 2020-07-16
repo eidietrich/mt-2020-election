@@ -1,7 +1,7 @@
 {
     "slug": "8011-Montana-League-of-Cities-and-Towns",
     "committeeName": "Montana League of Cities and Towns",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 4,
     "data": {
         "committeeId": 8011,
@@ -39,5 +39,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 4,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 752.08,
+        "num_contributions": 3,
+        "contributions_19_20": 752.08,
+        "num_contributions_19_20": 3,
+        "expenditures": 6911.59,
+        "num_expenditures": 10,
+        "expenditures_19_20": 6911.59,
+        "num_expenditures_19_20": 10,
+        "cash_on_hand": -6911.59
     }
 }

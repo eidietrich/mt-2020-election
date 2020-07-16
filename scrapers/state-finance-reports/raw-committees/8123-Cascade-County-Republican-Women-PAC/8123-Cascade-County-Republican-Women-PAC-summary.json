@@ -1,7 +1,7 @@
 {
     "slug": "8123-Cascade-County-Republican-Women-PAC",
     "committeeName": "Cascade County Republican Women PAC",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 5,
     "data": {
         "committeeId": 8123,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 5,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 1797.0,
+        "num_contributions": 33,
+        "contributions_19_20": 1797.0,
+        "num_contributions_19_20": 33,
+        "expenditures": 1026.88,
+        "num_expenditures": 8,
+        "expenditures_19_20": 1026.88,
+        "num_expenditures_19_20": 8,
+        "cash_on_hand": 1488.12
     }
 }

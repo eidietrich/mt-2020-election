@@ -1,7 +1,7 @@
 {
     "slug": "8018-Friends-of-Columbia-Falls-School-District-6",
     "committeeName": "Friends of Columbia Falls School District 6",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 1,
     "data": {
         "committeeId": 8018,
@@ -39,5 +39,18 @@
                 "status": "On ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "09/12/2019",
+        "contributions": 4050.0,
+        "num_contributions": 9,
+        "contributions_19_20": 4050.0,
+        "num_contributions_19_20": 9,
+        "expenditures": 3536.11,
+        "num_expenditures": 4,
+        "expenditures_19_20": 3536.11,
+        "num_expenditures_19_20": 4,
+        "cash_on_hand": 548.89
     }
 }

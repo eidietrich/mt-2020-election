@@ -1824,6 +1824,25 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/27/16",
+            "Entity Name": "Butte Weekly",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "32 South Main",
+            "City": "Butte",
+            "State": "MT",
+            "Zip": "59701",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 480.0,
+            "Purpose": "Advertising ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }

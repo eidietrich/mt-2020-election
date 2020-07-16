@@ -1,7 +1,7 @@
 {
     "slug": "8333-Carbon-County-Central-Democratic-Committee",
     "committeeName": "Carbon County Central Democratic Committee",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 5,
     "data": {
         "committeeId": 8333,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 5,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 3440.49,
+        "num_contributions": 7,
+        "contributions_19_20": 3440.49,
+        "num_contributions_19_20": 7,
+        "expenditures": 656.23,
+        "num_expenditures": 11,
+        "expenditures_19_20": 606.23,
+        "num_expenditures_19_20": 10,
+        "cash_on_hand": 2790.23
     }
 }

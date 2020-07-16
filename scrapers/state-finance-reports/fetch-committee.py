@@ -17,6 +17,9 @@ data = {
     "isFundraiserInd": False,
 }
 
-data = {'committeeId': 7054, 'committeeName': 'Montana Primary Care Association' }
+# data = {'committeeId': 7054, 'committeeName': 'Montana Primary Care Association' }
+data = {'committeeId': 7987, 'committeeName': 'Montana United'}
+
+
 
 committee = Committee(data, checkCache=False)

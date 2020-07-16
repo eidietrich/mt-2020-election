@@ -1,7 +1,7 @@
 {
     "slug": "5046-MEA-MFT",
     "committeeName": "MEA-MFT",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 14,
     "data": {
         "committeeId": 5046,
@@ -39,22 +39,32 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Jim Shea - Supreme Court",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jesse Laslovich \u2013 Auditor race",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Steve Bullock - Governor",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "I-181",
-                "position": "Oppose",
+                "interest": "Mike McGrath",
+                "position": "Support",
                 "status": "On ballot"
             },
             {
-                "interest": "Melissa Romano State Superintendent",
+                "interest": "Monica Lindeen Secretary Of State",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Monica Lindeen Secretary Of State",
+                "interest": "Melissa Romano State Superintendent",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -64,20 +74,23 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jim Shea - Supreme Court",
-                "position": "Support",
+                "interest": "I-181",
+                "position": "Oppose",
                 "status": "On ballot"
-            },
-            {
-                "interest": "Mike McGrath",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Jesse Laslovich \u2013 Auditor race",
-                "position": "Support",
-                "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 14,
+        "last_report_end_date": "12/22/2016",
+        "contributions": 300000.0,
+        "num_contributions": 4,
+        "contributions_19_20": 0.0,
+        "num_contributions_19_20": 0,
+        "expenditures": 428503.41,
+        "num_expenditures": 34,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -128503.41
     }
 }

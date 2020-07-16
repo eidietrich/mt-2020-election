@@ -1,7 +1,7 @@
 {
     "slug": "7312-Golden-Sunlight-Mines-Inc.",
     "committeeName": "Golden Sunlight Mines, Inc.",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 10,
     "data": {
         "committeeId": 7312,
@@ -39,5 +39,18 @@
                 "status": "Not on ballot"
             }
         ]
+    },
+    "finances": {
+        "reports": 10,
+        "last_report_end_date": "03/04/2019",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 1455869.14,
+        "num_expenditures": 74,
+        "expenditures_19_20": 0.0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": -1159869.14
     }
 }

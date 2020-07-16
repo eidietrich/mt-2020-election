@@ -1,7 +1,7 @@
 {
     "slug": "7948-Great-Schools-Billings",
     "committeeName": "Great Schools Billings",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 2,
     "data": {
         "committeeId": 7948,
@@ -33,5 +33,18 @@
             }
         ],
         "issues": []
+    },
+    "finances": {
+        "reports": 2,
+        "last_report_end_date": "11/25/2019",
+        "contributions": 60074.99,
+        "num_contributions": 40,
+        "contributions_19_20": 60074.99,
+        "num_contributions_19_20": 40,
+        "expenditures": 48425.3,
+        "num_expenditures": 18,
+        "expenditures_19_20": 48425.3,
+        "num_expenditures_19_20": 18,
+        "cash_on_hand": 6036.88
     }
 }

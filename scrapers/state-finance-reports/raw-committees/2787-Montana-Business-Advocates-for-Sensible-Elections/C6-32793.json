@@ -23,5 +23,25 @@
         "cash_in_bank": 20352.96
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "01/07/15",
+            "Entity Name": "Checkered Flag Strategies",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "620 O'Brien Ave",
+            "City": "Whitefish",
+            "State": "MT",
+            "Zip": "59937",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 57.46,
+            "Purpose": "e-mail hosting Nov & Dec 2014",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

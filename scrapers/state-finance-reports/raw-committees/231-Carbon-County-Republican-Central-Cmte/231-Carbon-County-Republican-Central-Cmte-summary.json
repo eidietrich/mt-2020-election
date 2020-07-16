@@ -1,7 +1,7 @@
 {
     "slug": "231-Carbon-County-Republican-Central-Cmte",
     "committeeName": "Carbon County Republican Central Cmte",
-    "scrape_date": "2020-07-02",
+    "scrape_date": "2020-07-09",
     "periods": 13,
     "data": {
         "committeeId": 231,
@@ -39,5 +39,18 @@
                 "status": "Not Applicable"
             }
         ]
+    },
+    "finances": {
+        "reports": 13,
+        "last_report_end_date": "06/25/2020",
+        "contributions": -19805.55,
+        "num_contributions": 70,
+        "contributions_19_20": -5538.2,
+        "num_contributions_19_20": 10,
+        "expenditures": 49930.25,
+        "num_expenditures": 89,
+        "expenditures_19_20": 5197.36,
+        "num_expenditures_19_20": 10,
+        "cash_on_hand": 3186.76
     }
 }

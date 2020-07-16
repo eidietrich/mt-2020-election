@@ -55,5 +55,44 @@
             "Fundraiser Tickets Sold": 0
         }
     ],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "03/08/18",
+            "Entity Name": "northwest montana historical society",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "northwest montana historical society",
+            "City": "kalispell",
+            "State": "MT",
+            "Zip": "59901",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 40.0,
+            "Purpose": "speaker fee for fully informed jury event",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "03/15/18",
+            "Entity Name": "northwest montana historical society",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "northwest montana historical society",
+            "City": "kalispell",
+            "State": "MT",
+            "Zip": "59901",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 152.0,
+            "Purpose": "room rental FIJA event at the museum at the central school in kalispell",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

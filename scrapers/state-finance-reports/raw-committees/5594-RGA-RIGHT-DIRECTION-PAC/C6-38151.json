@@ -42,6 +42,44 @@
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",
             "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "11/03/16",
+            "Entity Name": "MCCLESKEY MEDIA STRATEGIES",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "6100 UPTOWN BLVD. NE #590",
+            "City": "ALBUQUERQUE",
+            "State": "NM",
+            "Zip": "87110",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 14470.31,
+            "Purpose": "TV production",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "11/01/16",
+            "Entity Name": "SRCP Media, Inc.",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "201 N  Union Street Suite 200",
+            "City": "Alexandria",
+            "State": "VA",
+            "Zip": "22314",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 120320.0,
+            "Purpose": "TV Placement",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
         }
     ]
 }
