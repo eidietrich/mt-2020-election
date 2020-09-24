@@ -1,36 +1,70 @@
 {
     "slug": "Arntzen-Elsie",
     "candidateName": "Arntzen, Elsie ",
-    "scrape_date": "2020-06-23",
+    "scrape_date": "2020-08-26",
     "officeTitle": "Superintendent of Public Instruction",
     "partyDescr": "Republican",
-    "periods": 7,
-    "receipts": 93195.45999999999,
-    "expenditures": 71323.88,
-    "balance": 21871.579999999987,
+    "periods": 8,
+    "receipts": 121270.01999999999,
+    "expenditures": 91003.68000000001,
+    "balance": 30266.339999999982,
     "summary": {
         "contributions": {
-            "primary": 69498.07,
-            "general": 23697.39,
-            "total": 93195.45999999999
+            "primary": 70008.07,
+            "general": 51261.95,
+            "total": 121270.01999999999
         },
         "expenditures": {
             "primary": 69498.07,
-            "general": 1825.81,
-            "total": 71323.88
+            "general": 21505.61,
+            "total": 91003.68000000001
         },
         "cash_on_hand": {
-            "primary": 0.0,
-            "general": 21871.579999999998,
-            "total": 21871.579999999987
+            "primary": 510.0,
+            "general": 29756.339999999997,
+            "total": 30266.339999999982
         },
         "report_counts": {
-            "C5": 7,
+            "C5": 8,
             "C7": 0,
             "C7E": 0
         }
     },
     "reports": [
+        {
+            "report": "06/16/2020 to 08/15/2020",
+            "id": 50005,
+            "type": "C5",
+            "start_date": "06/16/2020",
+            "end_date": "08/15/2020",
+            "unitemized_contributions": 420.00000000000364,
+            "num_contributions": 161,
+            "num_expenditures": 26,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 21871.58,
+                    "total": 21871.58
+                },
+                "Receipts": {
+                    "primary": 510.0,
+                    "general": 27564.56,
+                    "total": 28074.56
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 19679.8,
+                    "total": 19679.8
+                },
+                "Ending Balance": {
+                    "primary": 510.0,
+                    "general": 29756.34,
+                    "total": 30266.34
+                },
+                "report_start_date": "06/16/2020",
+                "report_end_date": "08/15/2020"
+            }
+        },
         {
             "report": "05/15/2020 to 06/15/2020",
             "id": 49325,
@@ -72,7 +106,7 @@
             "start_date": "04/16/2020",
             "end_date": "05/14/2020",
             "unitemized_contributions": 0.0,
-            "num_contributions": 6,
+            "num_contributions": 7,
             "num_expenditures": 12,
             "summary": {
                 "previous report": {

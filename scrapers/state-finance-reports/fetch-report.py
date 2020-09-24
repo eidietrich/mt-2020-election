@@ -32,22 +32,23 @@ def open_json(path):
 # Graybill C7E
 # report = {'reportId': 48734, 'fromDateStr': '05/27/2020', 'toDateStr': '05/27/2020', 'formTypeCode': 'C7E', 'formTypeDescr': 'Notice of Pre-Election Expenditures', 'candidateId': 16071, 'candidateName': 'Graybill, Raph ', 'officeTitle': 'Attorney General', 'electionYear': '2020'}
 
-# Arntzen C7
-report = {
-        "reportId": 48948,
-        "fromDateStr": "05/30/2020",
-        "toDateStr": "06/01/2020",
-        "formTypeCode": "C7",
-        "formTypeDescr": "Notice of Pre-Election Contributions",
-        "candidateId": 16074,
-        "candidateName": "Arntzen, Elsie ",
-        "officeTitle": "Superintendent of Public Instruction",
-        "electionYear": "2020",
-        "statusDescr": "Filed",
-        "amendedDate": "null"
-    }
+# # Arntzen C7
+# report = {
+#         "reportId": 48948,
+#         "fromDateStr": "05/30/2020",
+#         "toDateStr": "06/01/2020",
+#         "formTypeCode": "C7",
+#         "formTypeDescr": "Notice of Pre-Election Contributions",
+#         "candidateId": 16074,
+#         "candidateName": "Arntzen, Elsie ",
+#         "officeTitle": "Superintendent of Public Instruction",
+#         "electionYear": "2020",
+#         "statusDescr": "Filed",
+#         "amendedDate": "null"
+#     }
 
-slug = report['candidateName'].strip().replace(' ','-').replace(',','')
+# slug = report['candidateName'].strip().replace(' ','-').replace(',','')
+slug = 'Cooney-Mike--R'
 r = Report(report, cachePath=f'scrapers/state-finance-reports/raw/{slug}', checkCache=True, writeCache=True, fetchFullReports=True)
 
 # print(json.dumps(r.summary, indent=4))

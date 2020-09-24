@@ -1,18 +1,18 @@
 {
     "slug": "Dudik-Kimberly",
     "candidateName": "Dudik, Kimberly ",
-    "scrape_date": "2020-06-23",
+    "scrape_date": "2020-08-26",
     "officeTitle": "Attorney General",
     "partyDescr": "Democrat",
     "periods": 8,
-    "receipts": 240759.05999999997,
+    "receipts": 240769.05999999997,
     "expenditures": 220078.96000000002,
-    "balance": 20680.099999999948,
+    "balance": 20690.099999999948,
     "summary": {
         "contributions": {
-            "primary": 219871.47999999998,
+            "primary": 219881.47999999998,
             "general": 20887.58,
-            "total": 240759.05999999997
+            "total": 240769.05999999997
         },
         "expenditures": {
             "primary": 216392.81000000003,
@@ -20,9 +20,9 @@
             "total": 220078.96000000002
         },
         "cash_on_hand": {
-            "primary": 3478.6699999999546,
+            "primary": 3488.6699999999546,
             "general": 17201.43,
-            "total": 20680.099999999948
+            "total": 20690.099999999948
         },
         "report_counts": {
             "C5": 8,
@@ -37,19 +37,19 @@
             "type": "C5",
             "start_date": "05/15/2020",
             "end_date": "06/15/2020",
-            "unitemized_contributions": 582.0,
+            "unitemized_contributions": 592.0,
             "num_contributions": 42,
             "num_expenditures": 12,
             "summary": {
                 "previous report": {
-                    "primary": 12218.3,
-                    "general": 17121.43,
-                    "total": 29339.73
+                    "primary": 15943.3,
+                    "general": 13466.43,
+                    "total": 29409.73
                 },
                 "Receipts": {
-                    "primary": 4802.0,
+                    "primary": 4812.0,
                     "general": 80.0,
-                    "total": 4882.0
+                    "total": 4892.0
                 },
                 "Expenditures": {
                     "primary": 13541.63,
@@ -57,9 +57,9 @@
                     "total": 13541.63
                 },
                 "Ending Balance": {
-                    "primary": 3478.67,
-                    "general": 17201.43,
-                    "total": 20680.1
+                    "primary": 7213.67,
+                    "general": 13546.43,
+                    "total": 20760.1
                 },
                 "report_start_date": "05/15/2020",
                 "report_end_date": "06/15/2020"

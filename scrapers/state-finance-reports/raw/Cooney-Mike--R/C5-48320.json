@@ -10,12 +10,12 @@
         "officeTitle": "Governor",
         "electionYear": "2020",
         "statusDescr": "Amended",
-        "amendedDate": 1592870760000
+        "amendedDate": 1597989006000
     },
     "summary": {
         "previous report": {
-            "primary": 172860.05,
-            "general": 70377.0,
+            "primary": 172825.05,
+            "general": 70412.0,
             "total": 243237.05
         },
         "Receipts": {
@@ -29,8 +29,8 @@
             "total": 169144.65
         },
         "Ending Balance": {
-            "primary": 118492.92,
-            "general": 83417.0,
+            "primary": 118457.92,
+            "general": 83452.0,
             "total": 201909.92
         },
         "report_start_date": "04/16/2020",

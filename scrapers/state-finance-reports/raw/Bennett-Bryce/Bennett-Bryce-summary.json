@@ -1,36 +1,70 @@
 {
     "slug": "Bennett-Bryce",
     "candidateName": "Bennett, Bryce ",
-    "scrape_date": "2020-06-23",
+    "scrape_date": "2020-08-26",
     "officeTitle": "Secretary of State",
     "partyDescr": "Democrat",
-    "periods": 7,
-    "receipts": 197697.57,
-    "expenditures": 54554.03999999999,
-    "balance": 143143.53000000003,
+    "periods": 8,
+    "receipts": 294578.87,
+    "expenditures": 63536.48999999999,
+    "balance": 231042.38,
     "summary": {
         "contributions": {
-            "primary": 4533.0,
-            "general": 193164.57,
-            "total": 197697.57
+            "primary": 4393.0,
+            "general": 290185.87,
+            "total": 294578.87
         },
         "expenditures": {
             "primary": 1573.0,
-            "general": 52981.03999999999,
-            "total": 54554.03999999999
+            "general": 61963.48999999999,
+            "total": 63536.48999999999
         },
         "cash_on_hand": {
-            "primary": 2960.0,
-            "general": 140183.53000000003,
-            "total": 143143.53000000003
+            "primary": 2820.0,
+            "general": 228222.38,
+            "total": 231042.38
         },
         "report_counts": {
-            "C5": 7,
+            "C5": 8,
             "C7": 0,
             "C7E": 0
         }
     },
     "reports": [
+        {
+            "report": "06/16/2020 to 08/15/2020",
+            "id": 50082,
+            "type": "C5",
+            "start_date": "06/16/2020",
+            "end_date": "08/15/2020",
+            "unitemized_contributions": 5859.990000000005,
+            "num_contributions": 1105,
+            "num_expenditures": 35,
+            "summary": {
+                "previous report": {
+                    "primary": 2820.0,
+                    "general": 142036.03,
+                    "total": 144856.03
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 96881.3,
+                    "total": 96881.3
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 10694.95,
+                    "total": 10694.95
+                },
+                "Ending Balance": {
+                    "primary": 2820.0,
+                    "general": 228222.38,
+                    "total": 231042.38
+                },
+                "report_start_date": "06/16/2020",
+                "report_end_date": "08/15/2020"
+            }
+        },
         {
             "report": "05/15/2020 to 06/15/2020",
             "id": 49299,
@@ -42,9 +76,9 @@
             "num_expenditures": 19,
             "summary": {
                 "previous report": {
-                    "primary": 3280.0,
-                    "general": 123488.12,
-                    "total": 126768.12
+                    "primary": 3140.0,
+                    "general": 125340.62,
+                    "total": 128480.62
                 },
                 "Receipts": {
                     "primary": 0.0,
@@ -57,9 +91,9 @@
                     "total": 6269.58
                 },
                 "Ending Balance": {
-                    "primary": 2960.0,
-                    "general": 140183.53,
-                    "total": 143143.53
+                    "primary": 2820.0,
+                    "general": 142036.03,
+                    "total": 144856.03
                 },
                 "report_start_date": "05/15/2020",
                 "report_end_date": "06/15/2020"
@@ -71,14 +105,14 @@
             "type": "C5",
             "start_date": "04/16/2020",
             "end_date": "05/14/2020",
-            "unitemized_contributions": 2025.880000000001,
+            "unitemized_contributions": 2030.880000000001,
             "num_contributions": 203,
             "num_expenditures": 17,
             "summary": {
                 "previous report": {
-                    "primary": 4233.0,
-                    "general": 105446.09,
-                    "total": 109679.09
+                    "primary": 4093.0,
+                    "general": 107298.59,
+                    "total": 111391.59
                 },
                 "Receipts": {
                     "primary": 0.0,
@@ -91,9 +125,9 @@
                     "total": 3494.85
                 },
                 "Ending Balance": {
-                    "primary": 3280.0,
-                    "general": 123488.12,
-                    "total": 126768.12
+                    "primary": 3140.0,
+                    "general": 125340.62,
+                    "total": 128480.62
                 },
                 "report_start_date": "04/16/2020",
                 "report_end_date": "05/14/2020"
@@ -111,12 +145,12 @@
             "summary": {
                 "previous report": {
                     "primary": 3638.0,
-                    "general": 97388.4,
-                    "total": 101026.4
+                    "general": 99100.9,
+                    "total": 102738.9
                 },
                 "Receipts": {
-                    "primary": 595.0,
-                    "general": 15712.0,
+                    "primary": 455.0,
+                    "general": 15852.0,
                     "total": 16307.0
                 },
                 "Expenditures": {
@@ -125,9 +159,9 @@
                     "total": 7654.31
                 },
                 "Ending Balance": {
-                    "primary": 4233.0,
-                    "general": 105446.09,
-                    "total": 109679.09
+                    "primary": 4093.0,
+                    "general": 107298.59,
+                    "total": 111391.59
                 },
                 "report_start_date": "03/16/2020",
                 "report_end_date": "04/15/2020"
@@ -141,7 +175,7 @@
             "end_date": "03/15/2020",
             "unitemized_contributions": 2669.199999999997,
             "num_contributions": 350,
-            "num_expenditures": 15,
+            "num_expenditures": 14,
             "summary": {
                 "previous report": {
                     "primary": 960.0,
@@ -155,13 +189,13 @@
                 },
                 "Expenditures": {
                     "primary": 300.0,
-                    "general": 6611.88,
-                    "total": 6911.88
+                    "general": 4899.38,
+                    "total": 5199.38
                 },
                 "Ending Balance": {
                     "primary": 3638.0,
-                    "general": 97388.4,
-                    "total": 101026.4
+                    "general": 99100.9,
+                    "total": 102738.9
                 },
                 "report_start_date": "01/01/2020",
                 "report_end_date": "03/15/2020"

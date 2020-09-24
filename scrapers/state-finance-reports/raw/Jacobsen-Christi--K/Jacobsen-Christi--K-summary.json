@@ -1,36 +1,70 @@
 {
     "slug": "Jacobsen-Christi--K",
     "candidateName": "Jacobsen, Christi  K",
-    "scrape_date": "2020-06-23",
+    "scrape_date": "2020-08-26",
     "officeTitle": "Secretary of State",
     "partyDescr": "Republican",
-    "periods": 5,
-    "receipts": 163111.02000000002,
-    "expenditures": 140119.8,
-    "balance": 22991.22000000003,
+    "periods": 6,
+    "receipts": 253210.06,
+    "expenditures": 159990.83,
+    "balance": 93219.23000000001,
     "summary": {
         "contributions": {
-            "primary": 140119.8,
-            "general": 22991.22,
-            "total": 163111.02000000002
+            "primary": 146509.8,
+            "general": 106700.26,
+            "total": 253210.06
         },
         "expenditures": {
-            "primary": 140119.8,
-            "general": 0.0,
-            "total": 140119.8
+            "primary": 146509.8,
+            "general": 13481.03,
+            "total": 159990.83
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 22991.22,
-            "total": 22991.22000000003
+            "general": 93219.23,
+            "total": 93219.23000000001
         },
         "report_counts": {
-            "C5": 5,
+            "C5": 6,
             "C7": 0,
             "C7E": 0
         }
     },
     "reports": [
+        {
+            "report": "06/16/2020 to 08/15/2020",
+            "id": 49433,
+            "type": "C5",
+            "start_date": "06/16/2020",
+            "end_date": "08/15/2020",
+            "unitemized_contributions": 1243.12999999999,
+            "num_contributions": 343,
+            "num_expenditures": 23,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 22991.22,
+                    "total": 22991.22
+                },
+                "Receipts": {
+                    "primary": 6390.0,
+                    "general": 83709.04,
+                    "total": 90099.04
+                },
+                "Expenditures": {
+                    "primary": 6390.0,
+                    "general": 13481.03,
+                    "total": 19871.03
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 93219.23,
+                    "total": 93219.23
+                },
+                "report_start_date": "06/16/2020",
+                "report_end_date": "08/15/2020"
+            }
+        },
         {
             "report": "05/15/2020 to 06/15/2020",
             "id": 49336,

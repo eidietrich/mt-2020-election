@@ -1,0 +1,42 @@
+{
+    "data": {
+        "reportId": 49902,
+        "fromDateStr": "06/16/2020",
+        "toDateStr": "08/15/2020",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 16606,
+        "candidateName": "Johnson, Brad ",
+        "officeTitle": "Secretary of State",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "previous report": {
+            "primary": 81.39,
+            "general": 360.0,
+            "total": 441.39
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 81.39,
+            "total": 81.39
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Ending Balance": {
+            "primary": 81.39,
+            "general": 441.39,
+            "total": 522.78
+        },
+        "report_start_date": "06/16/2020",
+        "report_end_date": "08/15/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"08\\/15\\/2020\",\"Entity Name\":null,\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":null,\"City\":null,\"State\":null,\"Zip\":null,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":4,\"Amount\":81.39,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":81.39,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"Valley Bank of Helena\",\"Fundraiser Location\":\"PO Box 5269 Helena MT 59601\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0.0
+}

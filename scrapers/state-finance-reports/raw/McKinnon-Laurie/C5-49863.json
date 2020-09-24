@@ -1,0 +1,42 @@
+{
+    "data": {
+        "reportId": 49863,
+        "fromDateStr": "06/16/2020",
+        "toDateStr": "08/15/2020",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 16203,
+        "candidateName": "McKinnon, Laurie ",
+        "officeTitle": "Supreme Court Justice No. 05",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "previous report": {
+            "primary": 382.15,
+            "general": 2283.57,
+            "total": 2665.72
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 1431.15,
+            "total": 1431.15
+        },
+        "Expenditures": {
+            "primary": 382.15,
+            "general": 610.02,
+            "total": 992.17
+        },
+        "Ending Balance": {
+            "primary": 0.0,
+            "general": 3104.7,
+            "total": 3104.7
+        },
+        "report_start_date": "06/16/2020",
+        "report_end_date": "08/15/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"08\\/05\\/2020\",\"Entity Name\":null,\"First Name\":\"Edward\",\"Middle Initial\":null,\"Last Name\":\"Yelsa\",\"Addr Line1\":\"1006 Stewart St.\",\"City\":\"Anaconda\",\"State\":\"MT\",\"Zip\":59711.0,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Attorney\",\"Employer\":\"Retired\",\"Contribution Type\":9,\"Amount\":99.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":99.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"06\\/28\\/2020\",\"Entity Name\":null,\"First Name\":\"Kay\",\"Middle Initial\":null,\"Last Name\":\"Dyrland\",\"Addr Line1\":\"1210 5th St.\",\"City\":\"Havre\",\"State\":\"MT\",\"Zip\":59501.0,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Homemaker\",\"Employer\":\"self\",\"Contribution Type\":9,\"Amount\":130.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":130.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"08\\/05\\/2020\",\"Entity Name\":null,\"First Name\":\"Susan\",\"Middle Initial\":null,\"Last Name\":\"Gianforte\",\"Addr Line1\":\"1320 Manley Rd.\",\"City\":\"Bozeman\",\"State\":\"MT\",\"Zip\":59715.0,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Homemaker\",\"Employer\":\"self\",\"Contribution Type\":9,\"Amount\":360.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":360.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"07\\/27\\/2020\",\"Entity Name\":null,\"First Name\":\"Fred\",\"Middle Initial\":null,\"Last Name\":\"Paoli\",\"Addr Line1\":\"46 Loch Leven Rd.\",\"City\":\"Livingston\",\"State\":\"MT\",\"Zip\":59047.0,\"Zip4\":null,\"Country\":null,\"Occupation\":\"Retired Attorney\",\"Employer\":\"retired-attorney\",\"Contribution Type\":9,\"Amount\":100.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":100.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"08\\/05\\/2020\",\"Entity Name\":null,\"First Name\":\"Greg\",\"Middle Initial\":\"R.\",\"Last Name\":\"Gianforte\",\"Addr Line1\":\"1320 Manley Rd.\",\"City\":\"Bozeman\",\"State\":\"MT\",\"Zip\":59715.0,\"Zip4\":null,\"Country\":null,\"Occupation\":\"US Congressman for MT\",\"Employer\":\"US Federal Government\",\"Contribution Type\":9,\"Amount\":360.0,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":360.0,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null},{\"Date Paid\":\"07\\/29\\/2020\",\"Entity Name\":null,\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":null,\"City\":null,\"State\":null,\"Zip\":null,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":4,\"Amount\":382.15,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"GN\",\"Total Primary\":0,\"Total General\":382.15,\"Refund Transaction Type\":null,\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":null,\"Refund Original Transaction Descr\":null,\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"Opportunity Bank\",\"Fundraiser Location\":\"28 Neill Ave., Helena, MT59601\",\"Fundraiser Attendees\":0.0,\"Fundraiser Tickets Sold\":0.0}]",
+    "expenditures": "[{\"Date Paid\":\"07\\/29\\/2020\",\"Entity Name\":\"Laventure LLC\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"1849 Montego Drive\",\"City\":\"Bismarck\",\"State\":\"ND\",\"Zip\":58503,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":610.02,\"Purpose\":\"advertising costs.\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":\"Facebook\",\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":\"candidate profile and qualifications\"},{\"Date Paid\":\"07\\/29\\/2020\",\"Entity Name\":\"Opportunity Bank\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":\"Opportunity Bank\",\"Addr Line1\":\"28 Neill Ave.\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59601,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":382.15,\"Purpose\":\"Transfer of primary funds to general funds \",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 0.0
+}

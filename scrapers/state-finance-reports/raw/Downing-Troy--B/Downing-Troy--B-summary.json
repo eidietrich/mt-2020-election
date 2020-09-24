@@ -1,36 +1,70 @@
 {
     "slug": "Downing-Troy--B",
     "candidateName": "Downing, Troy  B",
-    "scrape_date": "2020-06-23",
+    "scrape_date": "2020-08-26",
     "officeTitle": "State Auditor",
     "partyDescr": "Republican",
-    "periods": 7,
-    "receipts": 196414.4,
-    "expenditures": 174023.0,
-    "balance": 22391.399999999994,
+    "periods": 8,
+    "receipts": 244066.4,
+    "expenditures": 196369.12,
+    "balance": 47697.28,
     "summary": {
         "contributions": {
-            "primary": 173949.0,
-            "general": 22465.4,
-            "total": 196414.4
+            "primary": 178929.0,
+            "general": 65137.4,
+            "total": 244066.4
         },
         "expenditures": {
-            "primary": 173949.0,
-            "general": 74.0,
-            "total": 174023.0
+            "primary": 183949.0,
+            "general": 12420.12,
+            "total": 196369.12
         },
         "cash_on_hand": {
-            "primary": 0.0,
-            "general": 22391.4,
-            "total": 22391.399999999994
+            "primary": -5020.0,
+            "general": 52717.28,
+            "total": 47697.28
         },
         "report_counts": {
-            "C5": 7,
+            "C5": 8,
             "C7": 0,
             "C7E": 0
         }
     },
     "reports": [
+        {
+            "report": "06/16/2020 to 08/15/2020",
+            "id": 49792,
+            "type": "C5",
+            "start_date": "06/16/2020",
+            "end_date": "08/15/2020",
+            "unitemized_contributions": 382.0,
+            "num_contributions": 231,
+            "num_expenditures": 38,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 22291.4,
+                    "total": 22291.4
+                },
+                "Receipts": {
+                    "primary": 4980.0,
+                    "general": 42772.0,
+                    "total": 47752.0
+                },
+                "Expenditures": {
+                    "primary": 10000.0,
+                    "general": 12346.12,
+                    "total": 22346.12
+                },
+                "Ending Balance": {
+                    "primary": -5020.0,
+                    "general": 52717.28,
+                    "total": 47697.28
+                },
+                "report_start_date": "06/16/2020",
+                "report_end_date": "08/15/2020"
+            }
+        },
         {
             "report": "05/15/2020 to 06/15/2020",
             "id": 49306,
@@ -38,7 +72,7 @@
             "start_date": "05/15/2020",
             "end_date": "06/15/2020",
             "unitemized_contributions": 56.0,
-            "num_contributions": 40,
+            "num_contributions": 38,
             "num_expenditures": 11,
             "summary": {
                 "previous report": {
@@ -48,8 +82,8 @@
                 },
                 "Receipts": {
                     "primary": 55391.0,
-                    "general": 9465.4,
-                    "total": 64856.4
+                    "general": 9365.4,
+                    "total": 64756.4
                 },
                 "Expenditures": {
                     "primary": 58512.99,
@@ -58,8 +92,8 @@
                 },
                 "Ending Balance": {
                     "primary": 0.0,
-                    "general": 22391.4,
-                    "total": 22391.4
+                    "general": 22291.4,
+                    "total": 22291.4
                 },
                 "report_start_date": "05/15/2020",
                 "report_end_date": "06/15/2020"
@@ -72,7 +106,7 @@
             "start_date": "04/16/2020",
             "end_date": "05/14/2020",
             "unitemized_contributions": 75.0,
-            "num_contributions": 48,
+            "num_contributions": 49,
             "num_expenditures": 11,
             "summary": {
                 "previous report": {
@@ -106,7 +140,7 @@
             "start_date": "03/16/2020",
             "end_date": "04/15/2020",
             "unitemized_contributions": 145.0,
-            "num_contributions": 33,
+            "num_contributions": 34,
             "num_expenditures": 5,
             "summary": {
                 "previous report": {

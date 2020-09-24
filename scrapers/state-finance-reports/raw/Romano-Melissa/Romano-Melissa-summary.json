@@ -1,36 +1,70 @@
 {
     "slug": "Romano-Melissa",
     "candidateName": "Romano, Melissa ",
-    "scrape_date": "2020-06-23",
+    "scrape_date": "2020-08-26",
     "officeTitle": "Superintendent of Public Instruction",
     "partyDescr": "Democrat",
-    "periods": 7,
-    "receipts": 283305.57,
-    "expenditures": 130479.29,
-    "balance": 152826.28000000003,
+    "periods": 8,
+    "receipts": 359749.87,
+    "expenditures": 141462.13999999998,
+    "balance": 218287.73,
     "summary": {
         "contributions": {
             "primary": 122614.2,
-            "general": 160691.37,
-            "total": 283305.57
+            "general": 237135.66999999998,
+            "total": 359749.87
         },
         "expenditures": {
             "primary": 122614.2,
-            "general": 7865.09,
-            "total": 130479.29
+            "general": 18847.940000000002,
+            "total": 141462.13999999998
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 152826.28,
-            "total": 152826.28000000003
+            "general": 218287.72999999998,
+            "total": 218287.73
         },
         "report_counts": {
-            "C5": 7,
+            "C5": 8,
             "C7": 0,
             "C7E": 0
         }
     },
     "reports": [
+        {
+            "report": "06/16/2020 to 08/15/2020",
+            "id": 49437,
+            "type": "C5",
+            "start_date": "06/16/2020",
+            "end_date": "08/15/2020",
+            "unitemized_contributions": 4883.300000000003,
+            "num_contributions": 928,
+            "num_expenditures": 45,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 152826.28,
+                    "total": 152826.28
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 76444.3,
+                    "total": 76444.3
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 10982.85,
+                    "total": 10982.85
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 218287.73,
+                    "total": 218287.73
+                },
+                "report_start_date": "06/16/2020",
+                "report_end_date": "08/15/2020"
+            }
+        },
         {
             "report": "05/15/2020 to 06/15/2020",
             "id": 48413,

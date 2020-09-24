@@ -1,0 +1,42 @@
+{
+    "data": {
+        "reportId": 49687,
+        "fromDateStr": "06/16/2020",
+        "toDateStr": "08/15/2020",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 16173,
+        "candidateName": "Scott, Mars ",
+        "officeTitle": "Supreme Court Justice No. 05",
+        "electionYear": "2020",
+        "statusDescr": "Amended",
+        "amendedDate": 1597970708000
+    },
+    "summary": {
+        "previous report": {
+            "primary": 2638.58,
+            "general": 0.0,
+            "total": 2638.58
+        },
+        "Receipts": {
+            "primary": 402.78,
+            "general": 0.0,
+            "total": 402.78
+        },
+        "Expenditures": {
+            "primary": 1581.22,
+            "general": 0.0,
+            "total": 1581.22
+        },
+        "Ending Balance": {
+            "primary": 1460.14,
+            "general": 0.0,
+            "total": 1460.14
+        },
+        "report_start_date": "06/16/2020",
+        "report_end_date": "08/15/2020"
+    },
+    "contributions": "[{\"Date Paid\":\"07\\/10\\/2020\",\"Entity Name\":\"Montana State Fund \",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"855 Front St\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59601,\"Zip4\":null,\"Country\":null,\"Occupation\":null,\"Employer\":null,\"Contribution Type\":4,\"Amount\":402.78,\"Amount Type\":\"CA\",\"Purpose\":null,\"Election Type\":\"PM\",\"Total Primary\":402.78,\"Total General\":0,\"Refund Transaction Type\":\"REFUND\",\"Refund Original Transaction Date\":\"05\\/12\\/2020\",\"Refund Original Transaction Total\":438.63,\"Refund Original Transaction Descr\":\"campaign workers compensation insurance premium\",\"Previous Transaction (Y\\/N)\":\"Y\",\"Fundraiser Name\":null,\"Fundraiser Location\":null,\"Fundraiser Attendees\":null,\"Fundraiser Tickets Sold\":null}]",
+    "expenditures": "[{\"Date Paid\":\"07\\/14\\/2020\",\"Entity Name\":\"American Express\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 650448\",\"City\":\"Dallas\",\"State\":\"TX\",\"Zip\":75265.0,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":564.33,\"Purpose\":\"Campaign party refreshments & snacks\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"07\\/14\\/2020\",\"Entity Name\":\"American Express\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 650448\",\"City\":\"Dallas\",\"State\":\"TX\",\"Zip\":75265.0,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":73.0,\"Purpose\":\"USPS Campaign Post Office Box rental, 3 mos\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"07\\/17\\/2020\",\"Entity Name\":\"Premiere Global Services\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 404351\",\"City\":\"Atlanta\",\"State\":\"GA\",\"Zip\":30384.0,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":56.9,\"Purpose\":\"Campaign conference calls - May 2020\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"07\\/31\\/2020\",\"Entity Name\":\"IRS\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":null,\"City\":null,\"State\":null,\"Zip\":null,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":36.07,\"Purpose\":\"Campaign Payroll tax payment\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"07\\/28\\/2020\",\"Entity Name\":\"Montana State Fund \",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"855 Front St\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59601.0,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":70.94,\"Purpose\":\"Campaign quarter tax, unemployment insurance division\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"08\\/06\\/2020\",\"Entity Name\":\"The Montanian \",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"317 California Ave\",\"City\":\"Libby\",\"State\":\"MT\",\"Zip\":59923.0,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":60.0,\"Purpose\":\"Advertising  - 2 days\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":\"newspaper ad campaign, published 5\\/20\\/20 and 5\\/27\\/20\",\"Expenditure Paid Communications Quantity\":\"3x3 display ad\",\"Expenditure Paid Communications Subject Matter\":\"campaign photo, slogan and statement of values\"},{\"Date Paid\":\"06\\/18\\/2020\",\"Entity Name\":\"Vivid Marketing & Design 2018\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 242\",\"City\":\"Frenchtown\",\"State\":\"MT\",\"Zip\":59834.0,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":689.98,\"Purpose\":\"Advertising\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":\"Google Ad Words, campaign ran between May 1-May 31, 2020\",\"Expenditure Paid Communications Quantity\":\"1,990 clicks\",\"Expenditure Paid Communications Subject Matter\":\"Mars Scott, Candidate for Montana Supreme Court, Works Hard to Earn your Vote.  22 Year Veteran, 40 years, for Montana Families.\"},{\"Date Paid\":\"06\\/17\\/2020\",\"Entity Name\":\"State of Montana\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"1209 8th Ave\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59620.0,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":30.0,\"Purpose\":\"payroll tax payment for campaign payroll\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 0.0
+}

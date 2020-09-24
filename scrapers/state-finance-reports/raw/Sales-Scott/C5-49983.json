@@ -1,0 +1,42 @@
+{
+    "data": {
+        "reportId": 49983,
+        "fromDateStr": "06/16/2020",
+        "toDateStr": "08/15/2020",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 15929,
+        "candidateName": "Sales, Scott ",
+        "officeTitle": "Secretary of State",
+        "electionYear": "2020",
+        "statusDescr": "Pending-Amended",
+        "amendedDate": 1597962610000
+    },
+    "summary": {
+        "previous report": {
+            "primary": 19974.98,
+            "general": 24120.0,
+            "total": 44094.98
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Expenditures": {
+            "primary": 6.0,
+            "general": 1370.0,
+            "total": 1376.0
+        },
+        "Ending Balance": {
+            "primary": 19968.98,
+            "general": 22750.0,
+            "total": 42718.98
+        },
+        "report_start_date": "06/16/2020",
+        "report_end_date": "08/15/2020"
+    },
+    "contributions": "[]",
+    "expenditures": "[{\"Date Paid\":\"06\\/24\\/2020\",\"Entity Name\":null,\"First Name\":\"Brook\",\"Middle Initial\":null,\"Last Name\":\"Dormire\",\"Addr Line1\":\"PO Box 6\",\"City\":\"Belgrade\",\"State\":\"MT\",\"Zip\":59714,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":320,\"Purpose\":\"Refund\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"07\\/30\\/2020\",\"Entity Name\":\"First Interstate Bank\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"2023 Burke\",\"City\":\"Bozeman\",\"State\":\"MT\",\"Zip\":59718,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":10,\"Purpose\":\"BANK CHARGES, $2.00 7\\/30,  $2.00 6\\/30, $2.00 4\\/30, $2.00 3\\/31, $2.00 2\\/27\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"08\\/20\\/2020\",\"Entity Name\":\"First Interstate Bank\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"2023 Burke\",\"City\":\"Bozeman\",\"State\":\"MT\",\"Zip\":59718,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":6,\"Purpose\":\"Bank Charges $2.00 5\\/30, $2.00 6\\/30, $2.00 7\\/30\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"06\\/16\\/2020\",\"Entity Name\":null,\"First Name\":\"Jason\",\"Middle Initial\":\"W\",\"Last Name\":\"Ellsworth \",\"Addr Line1\":\"1073 golf course rd.\",\"City\":\"Hamilton\",\"State\":\"MT\",\"Zip\":59840,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":360,\"Purpose\":\"Refund\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"06\\/16\\/2020\",\"Entity Name\":null,\"First Name\":\"Mark\",\"Middle Initial\":\"W\",\"Last Name\":\"Blasdel\",\"Addr Line1\":\"240 Boon Road\",\"City\":\"Somers\",\"State\":\"MT\",\"Zip\":59932,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":360,\"Purpose\":\"Refund\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"06\\/16\\/2020\",\"Entity Name\":null,\"First Name\":\"Wylie\",\"Middle Initial\":null,\"Last Name\":\"Galt\",\"Addr Line1\":\"106 71 Ranch Rd \",\"City\":\"Martinsdale\",\"State\":\"MT\",\"Zip\":59053,\"Zip4\":8752.0,\"Expenditure Type\":2,\"Amount\":320,\"Purpose\":\"Refund\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 0.0
+}

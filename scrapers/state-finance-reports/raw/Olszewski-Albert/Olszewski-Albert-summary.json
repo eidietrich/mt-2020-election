@@ -1,13 +1,13 @@
 {
     "slug": "Olszewski-Albert",
     "candidateName": "Olszewski, Albert ",
-    "scrape_date": "2020-06-23",
+    "scrape_date": "2020-08-26",
     "officeTitle": "Governor",
     "partyDescr": "Republican",
-    "periods": 7,
+    "periods": 8,
     "receipts": 357101.61000000004,
-    "expenditures": 311552.83,
-    "balance": 45548.78000000003,
+    "expenditures": 357101.61,
+    "balance": 5.820766091346741e-11,
     "summary": {
         "contributions": {
             "primary": 325360.42,
@@ -15,22 +15,56 @@
             "total": 357101.61000000004
         },
         "expenditures": {
-            "primary": 280811.64,
-            "general": 30741.19,
-            "total": 311552.83
+            "primary": 325360.42000000004,
+            "general": 31741.19,
+            "total": 357101.61
         },
         "cash_on_hand": {
-            "primary": 44548.77999999997,
-            "general": 1000.0,
-            "total": 45548.78000000003
+            "primary": -5.820766091346741e-11,
+            "general": 0.0,
+            "total": 5.820766091346741e-11
         },
         "report_counts": {
-            "C5": 7,
+            "C5": 8,
             "C7": 0,
             "C7E": 0
         }
     },
     "reports": [
+        {
+            "report": "06/16/2020 to 08/15/2020",
+            "id": 49901,
+            "type": "C5",
+            "start_date": "06/16/2020",
+            "end_date": "08/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 0,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 44548.78,
+                    "general": 1000.0,
+                    "total": 45548.78
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "Expenditures": {
+                    "primary": 44548.78,
+                    "general": 1000.0,
+                    "total": 45548.78
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 0.0,
+                    "total": 0.0
+                },
+                "report_start_date": "06/16/2020",
+                "report_end_date": "08/15/2020"
+            }
+        },
         {
             "report": "05/15/2020 to 06/15/2020",
             "id": 49419,

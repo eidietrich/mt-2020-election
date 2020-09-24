@@ -1,0 +1,42 @@
+{
+    "data": {
+        "reportId": 50002,
+        "fromDateStr": "06/16/2020",
+        "toDateStr": "08/15/2020",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 15938,
+        "candidateName": "Fox, Tim ",
+        "officeTitle": "Governor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "previous report": {
+            "primary": 10370.63,
+            "general": 164001.55,
+            "total": 174372.18
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 28.12,
+            "total": 28.12
+        },
+        "Expenditures": {
+            "primary": 621.08,
+            "general": 1630.45,
+            "total": 2251.53
+        },
+        "Ending Balance": {
+            "primary": 9749.55,
+            "general": 162399.22,
+            "total": 172148.77
+        },
+        "report_start_date": "06/16/2020",
+        "report_end_date": "08/15/2020"
+    },
+    "contributions": "[]",
+    "expenditures": "[{\"Date Paid\":\"07\\/11\\/2020\",\"Entity Name\":\"Mastercard\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 35138 \",\"City\":\"Seattle\",\"State\":\"WA\",\"Zip\":98124,\"Zip4\":5138,\"Expenditure Type\":2,\"Amount\":555.81,\"Purpose\":\"Google Suite Software  2 Boxes of Paper for Office  2 Books of Stamps\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"07\\/31\\/2020\",\"Entity Name\":\"First Interstate Bank\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 6013 \",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59604,\"Zip4\":6013,\"Expenditure Type\":2,\"Amount\":2.0,\"Purpose\":\"Account Service Fee\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"06\\/30\\/2020\",\"Entity Name\":\"First Interstate Bank\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 6013 \",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59604,\"Zip4\":6013,\"Expenditure Type\":2,\"Amount\":3.45,\"Purpose\":\"Account Service Fee\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"08\\/01\\/2020\",\"Entity Name\":\"Mastercard\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 35138 \",\"City\":\"Seattle\",\"State\":\"WA\",\"Zip\":98124,\"Zip4\":5138,\"Expenditure Type\":2,\"Amount\":65.27,\"Purpose\":\"Google Suite Software\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"08\\/15\\/2020\",\"Entity Name\":null,\"First Name\":\"Alan\",\"Middle Initial\":null,\"Last Name\":\"Joscelyn\",\"Addr Line1\":\"634 Mound St \",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59601,\"Zip4\":6100,\"Expenditure Type\":2,\"Amount\":680.0,\"Purpose\":\"Refund of Contribution\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"08\\/15\\/2020\",\"Entity Name\":\"Northwest Canopy\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"83 Sweetbee Lane \",\"City\":\"Columbia Falls\",\"State\":\"MT\",\"Zip\":59912,\"Zip4\":9071,\"Expenditure Type\":2,\"Amount\":235.0,\"Purpose\":\"Podium Return Fee\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"08\\/15\\/2020\",\"Entity Name\":null,\"First Name\":\"Pamela\",\"Middle Initial\":null,\"Last Name\":\"Joscelyn\",\"Addr Line1\":\"634 Mound St \",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59601,\"Zip4\":6100,\"Expenditure Type\":2,\"Amount\":710.0,\"Purpose\":\"Refund of Contribution\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 28.12
+}

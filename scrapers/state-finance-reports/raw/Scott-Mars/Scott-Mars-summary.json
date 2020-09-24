@@ -1,36 +1,70 @@
 {
     "slug": "Scott-Mars",
     "candidateName": "Scott, Mars ",
-    "scrape_date": "2020-06-23",
+    "scrape_date": "2020-08-26",
     "officeTitle": "Supreme Court Justice No. 05",
     "partyDescr": "Non-Partisan",
-    "periods": 5,
-    "receipts": 55178.83,
-    "expenditures": 52540.25,
-    "balance": 2638.5800000000017,
+    "periods": 6,
+    "receipts": 55581.61,
+    "expenditures": 54121.47,
+    "balance": 1460.1399999999994,
     "summary": {
         "contributions": {
-            "primary": 55178.83,
+            "primary": 55581.61,
             "general": 0.0,
-            "total": 55178.83
+            "total": 55581.61
         },
         "expenditures": {
-            "primary": 52540.25,
+            "primary": 54121.47,
             "general": 0.0,
-            "total": 52540.25
+            "total": 54121.47
         },
         "cash_on_hand": {
-            "primary": 2638.5800000000017,
+            "primary": 1460.1399999999994,
             "general": 0.0,
-            "total": 2638.5800000000017
+            "total": 1460.1399999999994
         },
         "report_counts": {
-            "C5": 5,
+            "C5": 6,
             "C7": 0,
             "C7E": 0
         }
     },
     "reports": [
+        {
+            "report": "06/16/2020 to 08/15/2020",
+            "id": 49687,
+            "type": "C5",
+            "start_date": "06/16/2020",
+            "end_date": "08/15/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 1,
+            "num_expenditures": 8,
+            "summary": {
+                "previous report": {
+                    "primary": 2638.58,
+                    "general": 0.0,
+                    "total": 2638.58
+                },
+                "Receipts": {
+                    "primary": 402.78,
+                    "general": 0.0,
+                    "total": 402.78
+                },
+                "Expenditures": {
+                    "primary": 1581.22,
+                    "general": 0.0,
+                    "total": 1581.22
+                },
+                "Ending Balance": {
+                    "primary": 1460.14,
+                    "general": 0.0,
+                    "total": 1460.14
+                },
+                "report_start_date": "06/16/2020",
+                "report_end_date": "08/15/2020"
+            }
+        },
         {
             "report": "05/16/2020 to 06/15/2020",
             "id": 48380,
