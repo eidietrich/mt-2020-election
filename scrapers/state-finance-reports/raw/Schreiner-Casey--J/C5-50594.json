@@ -1,0 +1,42 @@
+{
+    "data": {
+        "reportId": 50594,
+        "fromDateStr": "08/16/2020",
+        "toDateStr": "09/15/2020",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 16017,
+        "candidateName": "Schreiner, Casey  J",
+        "officeTitle": "Governor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "previous report": {
+            "primary": 59.84,
+            "general": 0.0,
+            "total": 59.84
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 0.0,
+            "total": 0.0
+        },
+        "Expenditures": {
+            "primary": 44.95,
+            "general": 0.0,
+            "total": 44.95
+        },
+        "Ending Balance": {
+            "primary": 14.89,
+            "general": 0.0,
+            "total": 14.89
+        },
+        "report_start_date": "08/16/2020",
+        "report_end_date": "09/15/2020"
+    },
+    "contributions": "[]",
+    "expenditures": "[{\"Date Paid\":\"08\\/31\\/2020\",\"Entity Name\":\"First Interstate Bank\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":\"First Interstate Bank\",\"Addr Line1\":\"PO Box 5010\",\"City\":\"Great Falls\",\"State\":\"MT\",\"Zip\":59403,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":25.0,\"Purpose\":\"I-Corp Fee, 08\\/1-08\\/31 2020\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"08\\/31\\/2020\",\"Entity Name\":\"First Interstate Bank\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":\"First Interstate Bank\",\"Addr Line1\":\"PO Box 5010\",\"City\":\"Great Falls\",\"State\":\"MT\",\"Zip\":59403,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":10.0,\"Purpose\":\"Service  Charge \",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"08\\/26\\/2020\",\"Entity Name\":\"First Interstate Bank\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":\"First Interstate Bank\",\"Addr Line1\":\"PO Box 5010\",\"City\":\"Great Falls\",\"State\":\"MT\",\"Zip\":59403,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":9.95,\"Purpose\":\"Online Bill Pay Fee\",\"Election Type\":\"PM\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 0.0
+}

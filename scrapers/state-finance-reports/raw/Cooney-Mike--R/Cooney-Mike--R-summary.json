@@ -1,36 +1,70 @@
 {
     "slug": "Cooney-Mike--R",
     "candidateName": "Cooney, Mike  R",
-    "scrape_date": "2020-08-26",
+    "scrape_date": "2020-09-24",
     "officeTitle": "Governor",
     "partyDescr": "Democrat",
-    "periods": 7,
-    "receipts": 1835670.72,
-    "expenditures": 1146513.15,
-    "balance": 689157.5700000001,
+    "periods": 8,
+    "receipts": 2513625.54,
+    "expenditures": 2058126.88,
+    "balance": 455498.66000000015,
     "summary": {
         "contributions": {
             "primary": 888994.02,
-            "general": 946676.7,
-            "total": 1835670.72
+            "general": 1624631.52,
+            "total": 2513625.54
         },
         "expenditures": {
             "primary": 889029.02,
-            "general": 257484.13,
-            "total": 1146513.15
+            "general": 1169097.8599999999,
+            "total": 2058126.88
         },
         "cash_on_hand": {
             "primary": -35.0,
-            "general": 689192.57,
-            "total": 689157.5700000001
+            "general": 455533.66000000015,
+            "total": 455498.66000000015
         },
         "report_counts": {
-            "C5": 7,
+            "C5": 8,
             "C7": 0,
             "C7E": 0
         }
     },
     "reports": [
+        {
+            "report": "08/16/2020 to 09/15/2020",
+            "id": 50595,
+            "type": "C5",
+            "start_date": "08/16/2020",
+            "end_date": "09/15/2020",
+            "unitemized_contributions": 35265.06999999995,
+            "num_contributions": 8990,
+            "num_expenditures": 162,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 689192.57,
+                    "total": 689192.57
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 677954.82,
+                    "total": 677954.82
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 911613.73,
+                    "total": 911613.73
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 455533.66,
+                    "total": 455533.66
+                },
+                "report_start_date": "08/16/2020",
+                "report_end_date": "09/15/2020"
+            }
+        },
         {
             "report": "06/16/2020 to 08/15/2020",
             "id": 50070,

@@ -1,36 +1,70 @@
 {
     "slug": "Fox-Tim",
     "candidateName": "Fox, Tim ",
-    "scrape_date": "2020-08-26",
+    "scrape_date": "2020-09-24",
     "officeTitle": "Governor",
     "partyDescr": "Republican",
-    "periods": 9,
-    "receipts": 801439.3399999999,
-    "expenditures": 629290.5700000001,
-    "balance": 172148.7699999998,
+    "periods": 10,
+    "receipts": 801440.7299999999,
+    "expenditures": 629365.5700000001,
+    "balance": 172075.1599999998,
     "summary": {
         "contributions": {
             "primary": 627792.69,
-            "general": 173646.65,
-            "total": 801439.3399999999
+            "general": 173648.04,
+            "total": 801440.7299999999
         },
         "expenditures": {
             "primary": 618043.14,
-            "general": 11247.43,
-            "total": 629290.5700000001
+            "general": 11322.43,
+            "total": 629365.5700000001
         },
         "cash_on_hand": {
             "primary": 9749.54999999993,
-            "general": 162399.22,
-            "total": 172148.7699999998
+            "general": 162325.61000000002,
+            "total": 172075.1599999998
         },
         "report_counts": {
-            "C5": 9,
+            "C5": 10,
             "C7": 0,
             "C7E": 0
         }
     },
     "reports": [
+        {
+            "report": "08/16/2020 to 09/15/2020",
+            "id": 50647,
+            "type": "C5",
+            "start_date": "08/16/2020",
+            "end_date": "09/15/2020",
+            "unitemized_contributions": 1.39,
+            "num_contributions": 0,
+            "num_expenditures": 1,
+            "summary": {
+                "previous report": {
+                    "primary": 9749.55,
+                    "general": 162399.22,
+                    "total": 172148.77
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 1.39,
+                    "total": 1.39
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 75.0,
+                    "total": 75.0
+                },
+                "Ending Balance": {
+                    "primary": 9749.55,
+                    "general": 162325.61,
+                    "total": 172075.16
+                },
+                "report_start_date": "08/16/2020",
+                "report_end_date": "09/15/2020"
+            }
+        },
         {
             "report": "06/16/2020 to 08/15/2020",
             "id": 50002,

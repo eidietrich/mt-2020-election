@@ -1,36 +1,70 @@
 {
     "slug": "Gianforte-Greg",
     "candidateName": "Gianforte, Greg ",
-    "scrape_date": "2020-08-26",
+    "scrape_date": "2020-09-24",
     "officeTitle": "Governor",
     "partyDescr": "Republican",
-    "periods": 8,
-    "receipts": 5591163.08,
-    "expenditures": 5159467.16,
-    "balance": 431695.9199999999,
+    "periods": 9,
+    "receipts": 6924751.43,
+    "expenditures": 6526345.41,
+    "balance": 398406.01999999955,
     "summary": {
         "contributions": {
-            "primary": 3160276.94,
-            "general": 2430886.1399999997,
-            "total": 5591163.08
+            "primary": 3199712.78,
+            "general": 3725038.6499999994,
+            "total": 6924751.43
         },
         "expenditures": {
             "primary": 3062479.6900000004,
-            "general": 2096987.47,
-            "total": 5159467.16
+            "general": 3463865.7199999997,
+            "total": 6526345.41
         },
         "cash_on_hand": {
-            "primary": 97797.24999999953,
-            "general": 333898.6699999997,
-            "total": 431695.9199999999
+            "primary": 137233.08999999939,
+            "general": 261172.9299999997,
+            "total": 398406.01999999955
         },
         "report_counts": {
-            "C5": 8,
+            "C5": 9,
             "C7": 0,
             "C7E": 0
         }
     },
     "reports": [
+        {
+            "report": "08/16/2020 to 09/15/2020",
+            "id": 50644,
+            "type": "C5",
+            "start_date": "08/16/2020",
+            "end_date": "09/15/2020",
+            "unitemized_contributions": 2040.1899999999441,
+            "num_contributions": 1313,
+            "num_expenditures": 44,
+            "summary": {
+                "previous report": {
+                    "primary": 98507.25,
+                    "general": 333188.67,
+                    "total": 431695.92
+                },
+                "Receipts": {
+                    "primary": 38725.84,
+                    "general": 1294862.51,
+                    "total": 1333588.35
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 1366878.25,
+                    "total": 1366878.25
+                },
+                "Ending Balance": {
+                    "primary": 137233.09,
+                    "general": 261172.93,
+                    "total": 398406.02
+                },
+                "report_start_date": "08/16/2020",
+                "report_end_date": "09/15/2020"
+            }
+        },
         {
             "report": "06/16/2020 to 08/15/2020",
             "id": 50044,
@@ -42,8 +76,8 @@
             "num_expenditures": 91,
             "summary": {
                 "previous report": {
-                    "primary": 0.0,
-                    "general": 593780.76,
+                    "primary": 710.0,
+                    "general": 593070.76,
                     "total": 593780.76
                 },
                 "Receipts": {
@@ -57,8 +91,8 @@
                     "total": 1744721.78
                 },
                 "Ending Balance": {
-                    "primary": 97797.25,
-                    "general": 333898.67,
+                    "primary": 98507.25,
+                    "general": 333188.67,
                     "total": 431695.92
                 },
                 "report_start_date": "06/16/2020",
@@ -81,8 +115,8 @@
                     "total": 971771.24
                 },
                 "Receipts": {
-                    "primary": 74819.09,
-                    "general": 354287.51,
+                    "primary": 75529.09,
+                    "general": 353577.51,
                     "total": 429106.6
                 },
                 "Expenditures": {
@@ -91,8 +125,8 @@
                     "total": 807097.08
                 },
                 "Ending Balance": {
-                    "primary": 0.0,
-                    "general": 593780.76,
+                    "primary": 710.0,
+                    "general": 593070.76,
                     "total": 593780.76
                 },
                 "report_start_date": "05/15/2020",
@@ -241,7 +275,7 @@
             "type": "C5",
             "start_date": "07/01/2019",
             "end_date": "09/30/2019",
-            "unitemized_contributions": 3412.530000000028,
+            "unitemized_contributions": 3412.5299999999697,
             "num_contributions": 1418,
             "num_expenditures": 180,
             "summary": {

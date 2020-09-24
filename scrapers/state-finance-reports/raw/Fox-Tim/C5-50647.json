@@ -1,0 +1,42 @@
+{
+    "data": {
+        "reportId": 50647,
+        "fromDateStr": "08/16/2020",
+        "toDateStr": "09/15/2020",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 15938,
+        "candidateName": "Fox, Tim ",
+        "officeTitle": "Governor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "previous report": {
+            "primary": 9749.55,
+            "general": 162399.22,
+            "total": 172148.77
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 1.39,
+            "total": 1.39
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 75.0,
+            "total": 75.0
+        },
+        "Ending Balance": {
+            "primary": 9749.55,
+            "general": 162325.61,
+            "total": 172075.16
+        },
+        "report_start_date": "08/16/2020",
+        "report_end_date": "09/15/2020"
+    },
+    "contributions": "[]",
+    "expenditures": "[{\"Date Paid\":\"08\\/16\\/2020\",\"Entity Name\":\"First Interstate Bank\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"PO Box 6013 \",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59604,\"Zip4\":6013,\"Expenditure Type\":2,\"Amount\":75,\"Purpose\":\"Account Service Fee\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 1.39
+}

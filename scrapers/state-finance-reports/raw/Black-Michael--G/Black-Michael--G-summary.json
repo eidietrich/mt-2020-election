@@ -1,36 +1,70 @@
 {
     "slug": "Black-Michael--G",
     "candidateName": "Black, Michael  G",
-    "scrape_date": "2020-08-26",
+    "scrape_date": "2020-09-24",
     "officeTitle": "Supreme Court Justice No. 05",
     "partyDescr": "Non-Partisan",
-    "periods": 8,
-    "receipts": 380377.56,
-    "expenditures": 324665.81,
-    "balance": 55711.75,
+    "periods": 9,
+    "receipts": 388632.56,
+    "expenditures": 364511.1,
+    "balance": 24121.46000000002,
     "summary": {
         "contributions": {
-            "primary": 107148.81,
-            "general": 273228.75,
-            "total": 380377.56
+            "primary": 107648.81,
+            "general": 280983.75,
+            "total": 388632.56
         },
         "expenditures": {
-            "primary": 107043.81,
-            "general": 217622.0,
-            "total": 324665.81
+            "primary": 107648.81,
+            "general": 256862.29,
+            "total": 364511.1
         },
         "cash_on_hand": {
-            "primary": 105.0,
-            "general": 55606.75,
-            "total": 55711.75
+            "primary": 0.0,
+            "general": 24121.459999999992,
+            "total": 24121.46000000002
         },
         "report_counts": {
-            "C5": 8,
+            "C5": 9,
             "C7": 0,
             "C7E": 0
         }
     },
     "reports": [
+        {
+            "report": "08/16/2020 to 09/15/2020",
+            "id": 50649,
+            "type": "C5",
+            "start_date": "08/16/2020",
+            "end_date": "09/15/2020",
+            "unitemized_contributions": 260.0,
+            "num_contributions": 59,
+            "num_expenditures": 5,
+            "summary": {
+                "previous report": {
+                    "primary": 105.0,
+                    "general": 55606.75,
+                    "total": 55711.75
+                },
+                "Receipts": {
+                    "primary": 500.0,
+                    "general": 7755.0,
+                    "total": 8255.0
+                },
+                "Expenditures": {
+                    "primary": 605.0,
+                    "general": 39240.29,
+                    "total": 39845.29
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 24121.46,
+                    "total": 24121.46
+                },
+                "report_start_date": "08/16/2020",
+                "report_end_date": "09/15/2020"
+            }
+        },
         {
             "report": "06/16/2020 to 08/15/2020",
             "id": 50047,

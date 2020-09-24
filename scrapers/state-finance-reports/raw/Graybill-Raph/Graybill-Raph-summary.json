@@ -1,36 +1,70 @@
 {
     "slug": "Graybill-Raph",
     "candidateName": "Graybill, Raph ",
-    "scrape_date": "2020-08-26",
+    "scrape_date": "2020-09-24",
     "officeTitle": "Attorney General",
     "partyDescr": "Democrat",
-    "periods": 8,
-    "receipts": 502743.82,
-    "expenditures": 291931.41,
-    "balance": 210812.41000000003,
+    "periods": 9,
+    "receipts": 613731.21,
+    "expenditures": 357130.55,
+    "balance": 256600.65999999997,
     "summary": {
         "contributions": {
-            "primary": 284426.43,
-            "general": 218317.39,
-            "total": 502743.82
+            "primary": 288436.43,
+            "general": 325294.78,
+            "total": 613731.21
         },
         "expenditures": {
-            "primary": 274554.46,
-            "general": 17376.95,
-            "total": 291931.41
+            "primary": 274697.45,
+            "general": 82433.1,
+            "total": 357130.55
         },
         "cash_on_hand": {
-            "primary": 9871.969999999972,
-            "general": 200940.44,
-            "total": 210812.41000000003
+            "primary": 13738.979999999981,
+            "general": 242861.68000000002,
+            "total": 256600.65999999997
         },
         "report_counts": {
-            "C5": 8,
+            "C5": 9,
             "C7": 0,
             "C7E": 0
         }
     },
     "reports": [
+        {
+            "report": "08/16/2020 to 09/15/2020",
+            "id": 50657,
+            "type": "C5",
+            "start_date": "08/16/2020",
+            "end_date": "09/15/2020",
+            "unitemized_contributions": 5478.309999999998,
+            "num_contributions": 917,
+            "num_expenditures": 16,
+            "summary": {
+                "previous report": {
+                    "primary": 9871.97,
+                    "general": 200940.44,
+                    "total": 210812.41
+                },
+                "Receipts": {
+                    "primary": 4010.0,
+                    "general": 106977.39,
+                    "total": 110987.39
+                },
+                "Expenditures": {
+                    "primary": 142.99,
+                    "general": 65056.15,
+                    "total": 65199.14
+                },
+                "Ending Balance": {
+                    "primary": 13738.98,
+                    "general": 242861.68,
+                    "total": 256600.66
+                },
+                "report_start_date": "08/16/2020",
+                "report_end_date": "09/15/2020"
+            }
+        },
         {
             "report": "06/16/2020 to 08/15/2020",
             "id": 50055,

@@ -1,0 +1,42 @@
+{
+    "data": {
+        "reportId": 50645,
+        "fromDateStr": "08/16/2020",
+        "toDateStr": "09/15/2020",
+        "formTypeCode": "C5",
+        "formTypeDescr": "Candidate Campaign Finance Report",
+        "candidateId": 16496,
+        "candidateName": "Bishop, Lyman  J",
+        "officeTitle": "Governor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "previous report": {
+            "primary": 0.0,
+            "general": 3023.47,
+            "total": 3023.47
+        },
+        "Receipts": {
+            "primary": 0.0,
+            "general": 34.9,
+            "total": 34.9
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 173.86,
+            "total": 173.86
+        },
+        "Ending Balance": {
+            "primary": 0.0,
+            "general": 2884.51,
+            "total": 2884.51
+        },
+        "report_start_date": "08/16/2020",
+        "report_end_date": "09/15/2020"
+    },
+    "contributions": "[]",
+    "expenditures": "[{\"Date Paid\":\"08\\/19\\/2020\",\"Entity Name\":\"Shopify Inc.\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"627 Broadway 9th Floor\",\"City\":\"New York\",\"State\":\"NY\",\"Zip\":10012,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":50.99,\"Purpose\":\"MERCHANT FEE\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"09\\/18\\/2020\",\"Entity Name\":\"Shopify\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"627 Broadway 9th Floor\",\"City\":\"New York\",\"State\":\"NY\",\"Zip\":10012,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":50.99,\"Purpose\":\"MERCHANT FEE\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null},{\"Date Paid\":\"09\\/16\\/2020\",\"Entity Name\":\"GoDaddy.com, LLC\",\"First Name\":null,\"Middle Initial\":null,\"Last Name\":null,\"Addr Line1\":\"14455 North Hayden Road Suite 219\",\"City\":\"Scottsdale\",\"State\":\"AZ\",\"Zip\":85260,\"Zip4\":null,\"Expenditure Type\":2,\"Amount\":71.88,\"Purpose\":\"Hosting Fee\",\"Election Type\":\"GN\",\"Expenditure Paid Communications Platform\":null,\"Expenditure Paid Communications Quantity\":null,\"Expenditure Paid Communications Subject Matter\":null}]",
+    "unitemized_contributions": 34.9
+}

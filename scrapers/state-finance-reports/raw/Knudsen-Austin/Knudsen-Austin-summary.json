@@ -1,36 +1,70 @@
 {
     "slug": "Knudsen-Austin",
     "candidateName": "Knudsen, Austin ",
-    "scrape_date": "2020-08-26",
+    "scrape_date": "2020-09-24",
     "officeTitle": "Attorney General",
     "partyDescr": "Republican",
-    "periods": 8,
-    "receipts": 287038.15,
-    "expenditures": 165438.02000000002,
-    "balance": 121600.13,
+    "periods": 9,
+    "receipts": 359574.31000000006,
+    "expenditures": 181524.73,
+    "balance": 178049.58000000005,
     "summary": {
         "contributions": {
-            "primary": 165207.78,
-            "general": 121830.37,
-            "total": 287038.15
+            "primary": 165337.78,
+            "general": 194236.53,
+            "total": 359574.31000000006
         },
         "expenditures": {
             "primary": 153854.84999999998,
-            "general": 11583.17,
-            "total": 165438.02000000002
+            "general": 27669.879999999997,
+            "total": 181524.73
         },
         "cash_on_hand": {
-            "primary": 11352.930000000022,
-            "general": 110247.2,
-            "total": 121600.13
+            "primary": 11482.930000000022,
+            "general": 166566.65,
+            "total": 178049.58000000005
         },
         "report_counts": {
-            "C5": 8,
+            "C5": 9,
             "C7": 0,
             "C7E": 0
         }
     },
     "reports": [
+        {
+            "report": "08/16/2020 to 09/15/2020",
+            "id": 50371,
+            "type": "C5",
+            "start_date": "08/16/2020",
+            "end_date": "09/15/2020",
+            "unitemized_contributions": 490.0,
+            "num_contributions": 276,
+            "num_expenditures": 23,
+            "summary": {
+                "previous report": {
+                    "primary": 11352.93,
+                    "general": 110247.2,
+                    "total": 121600.13
+                },
+                "Receipts": {
+                    "primary": 130.0,
+                    "general": 72406.16,
+                    "total": 72536.16
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 16086.71,
+                    "total": 16086.71
+                },
+                "Ending Balance": {
+                    "primary": 11482.93,
+                    "general": 166566.65,
+                    "total": 178049.58
+                },
+                "report_start_date": "08/16/2020",
+                "report_end_date": "09/15/2020"
+            }
+        },
         {
             "report": "06/16/2020 to 08/15/2020",
             "id": 49778,
