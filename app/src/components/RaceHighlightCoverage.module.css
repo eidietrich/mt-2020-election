@@ -1,0 +1,52 @@
+.RaceHighlightCoverage {
+    margin: 0.5rem 0.5rem;
+    /* border: 1px solid #666; */
+    /* padding: -.25rem; */
+    /* background-color: #EAE3DA; */
+    /* box-shadow: 1px 1px 3px #888; */
+}
+
+.story-container {
+    margin: -0.25rem;
+}
+.feature {
+    /* width: 100%; */
+    border: 1px solid #444;
+    margin: 0.25rem;
+    padding: 0.5rem;
+}
+
+.secondaries {
+    display: flex;
+    flex-wrap: wrap;
+    /* margin: 0.25rem; */
+}
+
+.secondary {
+    flex: 1 0 30%;
+    min-width: 200px;
+    border: 1px solid #444;
+    margin: 0.25rem;
+    padding: 0.5rem;
+}
+.secondary:last-child {
+    /* margin-right: 0; */
+
+}
+
+.hed {
+    margin-bottom: 0.3rem;
+}
+
+.excerpt {
+    font-style: italic;
+    line-height: 1.2rem;
+}
+
+.feature > .hed {
+    font-size: 2em;
+}
+.feature > .excerpt {
+    font-size: 1.2em;
+    margin-bottom: 0.5rem;
+}

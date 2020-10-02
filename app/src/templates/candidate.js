@@ -7,6 +7,8 @@ import CandidateSummary from '../components/CandidateSummary'
 import CandidateFinance from '../components/CandidateFinance' 
 import CandidateIssuesPrimary from '../components/CandidateIssuesPrimary'
 
+import RaceHighlightCoverage from '../components/RaceHighlightCoverage'
+
 import MoreToComeMessage from '../components/MoreToComeMessage'
 
 import LinksList from '../library/LinksList'
@@ -58,25 +60,28 @@ class CandidatePage extends Component {
 
             <CandidateSummary candidate={candidate}/>
 
-            <div className={styles.text}>
-                <div className={styles.race}>
-                    <strong>Race overview:</strong> <Link to={makeRaceUrl(race)}>2020 {race.position}</Link>
-                </div>
+            <div className={`${styles.text} ${styles.referContainer}`}>
                 <div className={styles.competitors}>
-                    <span><strong>Other candidates:</strong> </span>
+                    <span><strong>Opponents:</strong> </span>
                     {
                         
                         (competitors.length > 0) ?
                         competitors.map((c, i) => {
-                            return <span key={String(i)}><Link to={makeCandidateUrl(c)}>{candidateNameParty(c)}</Link></span>
+                            return <span className={styles.competitor} key={String(i)}><Link to={makeCandidateUrl(c)}>{candidateNameParty(c)}</Link></span>
                             })
                             .reduce((prev, curr) => [prev, ', ', curr])
                         : '(None)'
                     }
 
                 </div>
+
+                <div className={styles.race}>
+                    <strong>Race overview:</strong> <Link to={makeRaceUrl(race)}>2020 {race.position}</Link>
+                </div>
                 
             </div>
+
+            {race.highlightLinks ? <RaceHighlightCoverage race={race} /> : null}
             
             <EmailFormElex />
 

@@ -38,7 +38,6 @@ const summaryTable = ({data}) => {
     // data should be pre-sorted totals from makeTotals()
 
     const rows = data.map((d,i) => {
-        console.log(d)
         const isWinner = (d.votes === Math.max(...data.map(o => o.votes)))
         return <tr key={String(i)} className={isWinner ? styles.winner : null}>
             <td className={styles.label}>

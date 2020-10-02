@@ -9,6 +9,8 @@
 const { candidates, races } = require('./src/data/app-copy.json')
 const preppedData = require('./src/data/app-prepped-data.json') // TODO: Change file name
 const coverageLinks = require('./src/data/outside-links.json').filter(d => d != null)
+const highlightLinks = require('./src/data/highlight-links.json').filter(d => d != null)
+
 const issueStatements = require('./src/data/q-and-a.json')
 
 const financeSummaries = preppedData.finance
@@ -39,6 +41,9 @@ races.forEach(race => {
     const uniqueUrls = Array.from(new Set(withDuplicates.map(d => d.link)))
     const deduped = uniqueUrls.map(url => withDuplicates.find(d => d.link === url))
     race.coverageLinks = deduped
+
+    // Assume highlight links aren't duplicated
+    race.highlightLinks = highlightLinks.filter(link => link.race === raceKey)
 
     // primary results
     const primaryResultsByDistrict = primaryResults.filter(d => d.raceKey === raceKey) // plural b/c of races w/ districts

@@ -6,8 +6,10 @@ import RaceFinance from '../components/RaceFinance'
 // import RaceIssues from '../components/RaceIssues' 
 import RacePrimaryResults from '../components/RacePrimaryResults'
 import RaceCandidateSummary from '../components/RaceCandidateSummary' 
+import RaceHighlightCoverage from '../components/RaceHighlightCoverage'
 import LinksList from '../library/LinksList'
 import EmailFormElex from '../library/EmailFormElex.jsx'
+
 
 import MoreToComeMessage from '../components/MoreToComeMessage'
 
@@ -37,6 +39,8 @@ class RacePage extends Component {
                 race={race}
                 candidates={candidates}
             />
+
+            {race.highlightLinks ? <RaceHighlightCoverage race={race} /> : null}
 
             <EmailFormElex />
 

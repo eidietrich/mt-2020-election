@@ -27,6 +27,7 @@
     "refresh": "npm run refresh:issues && npm run refresh:text && npm run refresh:links && npm run refresh:data",
     "refresh:data": "node process/prep-app-data.js",
     "refresh:links": "node scrapers/coverage-outside/fetch-coverage-list.js && node process/prep-outside-links.js",
+    "refresh:highlights": "node scrapers/coverage-highlights/fetch-highlights.js && node process/prep-highlight-links.js",
     "refresh:text": "node scrapers/app-copy/fetch-app-copy.js",
     "refresh:issues": "node scrapers/issue-questions/doc-to-local.js",
     "local:demo": "(cd app && gatsby build) && serve app/public",
