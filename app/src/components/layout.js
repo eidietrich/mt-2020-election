@@ -52,6 +52,7 @@ const Layout = ({ children }) => {
             <Link className={styles.navItem} to='/'>Overview</Link>
             <Link className={styles.navItem} to='/races'>Races</Link>
             <Link className={styles.navItem} to='/candidates'>Candidates</Link>
+            <Link className={styles.navItem} to='/ballot-measures'>Initiatives</Link>
             <Link className={styles.navItem} to='/how-to-vote'>How to vote</Link>
           </div>
         </div>
