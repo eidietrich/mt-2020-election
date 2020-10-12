@@ -40,7 +40,7 @@ class RacePage extends Component {
                 candidates={candidates}
             />
 
-            {race.highlightLinks ? <RaceHighlightCoverage race={race} /> : null}
+            {(race.highlightLinks.length > 0) ? <RaceHighlightCoverage race={race} /> : null}
 
             <EmailFormElex />
 

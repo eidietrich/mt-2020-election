@@ -21,7 +21,12 @@ const RaceHighlightCoverage = (props) => {
     return <div className={styles.RaceHighlightCoverage}>
       <h2>Key coverage in the race for {race.position}</h2>
       <div className={styles.storyContainer}>
-        {feature ? <Feature hed={feature.hed} excerpt={feature.subhed} link={feature.link}/> : null}
+        {feature ? <Feature
+          hed={feature.hed}
+          excerpt={feature.subhed}
+          link={feature.link}/>
+          : null
+        }
         <div className={styles.secondaries}>
           {secondaries.map((d,i) => <Secondary
             key={i}
