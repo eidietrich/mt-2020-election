@@ -1,8 +1,8 @@
 {
     "slug": "425-Montana-Law-PAC",
     "committeeName": "Montana Law-PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 30,
+    "scrape_date": "2020-11-11",
+    "periods": 33,
     "data": {
         "committeeId": 425,
         "committeeName": "Montana Law-PAC",
@@ -41,7 +41,7 @@
             {
                 "interest": "Mike Cooney",
                 "position": "Support",
-                "status": "On ballot"
+                "status": "Not Applicable"
             },
             {
                 "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system. ",
@@ -51,16 +51,16 @@
         ]
     },
     "finances": {
-        "reports": 30,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 868766.0,
-        "num_contributions": 619,
-        "contributions_19_20": 128267.04,
-        "num_contributions_19_20": 137,
-        "expenditures": 752925.67,
-        "num_expenditures": 189,
-        "expenditures_19_20": 21783.38,
-        "num_expenditures_19_20": 66,
-        "cash_on_hand": 102863.33
+        "reports": 33,
+        "last_report_end_date": "10/25/2020",
+        "contributions": 1036446.52,
+        "num_contributions": 739,
+        "contributions_19_20": 295947.56,
+        "num_contributions_19_20": 257,
+        "expenditures": 1013688.73,
+        "num_expenditures": 213,
+        "expenditures_19_20": 282546.44,
+        "num_expenditures_19_20": 90,
+        "cash_on_hand": 4025.2
     }
 }

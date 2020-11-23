@@ -1,8 +1,8 @@
 {
     "slug": "334-Stillwater-County-Republican-Central-Cmte.",
     "committeeName": "Stillwater County Republican Central Cmte.",
-    "scrape_date": "2020-07-09",
-    "periods": 22,
+    "scrape_date": "2020-11-11",
+    "periods": 24,
     "data": {
         "committeeId": 334,
         "committeeName": "Stillwater County Republican Central Cmte.",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 22,
-        "last_report_end_date": "05/24/2020",
-        "contributions": 79205.51,
-        "num_contributions": 515,
-        "contributions_19_20": 20655.25,
-        "num_contributions_19_20": 139,
-        "expenditures": 84325.44,
-        "num_expenditures": 204,
-        "expenditures_19_20": 25610.03,
-        "num_expenditures_19_20": 56,
-        "cash_on_hand": 7041.6
+        "reports": 24,
+        "last_report_end_date": "08/25/2020",
+        "contributions": 78955.51,
+        "num_contributions": 516,
+        "contributions_19_20": 20405.25,
+        "num_contributions_19_20": 140,
+        "expenditures": 86856.7,
+        "num_expenditures": 215,
+        "expenditures_19_20": 28141.29,
+        "num_expenditures_19_20": 67,
+        "cash_on_hand": 4760.34
     }
 }

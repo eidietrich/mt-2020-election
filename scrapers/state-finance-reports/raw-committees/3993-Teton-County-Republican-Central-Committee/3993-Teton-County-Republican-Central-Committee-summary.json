@@ -1,8 +1,8 @@
 {
     "slug": "3993-Teton-County-Republican-Central-Committee",
     "committeeName": "Teton County Republican Central Committee",
-    "scrape_date": "2020-07-09",
-    "periods": 18,
+    "scrape_date": "2020-11-11",
+    "periods": 21,
     "data": {
         "committeeId": 3993,
         "committeeName": "Teton County Republican Central Committee",
@@ -34,21 +34,6 @@
         ],
         "issues": [
             {
-                "interest": "All Republican Candidates for Public Office on the local, state and national levels.",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Richard \"Dick\" Snellman for Teton County Commissioner",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Greg for Montana",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "Bruce \"Butch\" Gillespie, SD09",
                 "position": "Support",
                 "status": "On ballot"
@@ -57,20 +42,35 @@
                 "interest": "Ross Fitzgerald for HD 17",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Greg for Montana",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "All Republican Candidates for Public Office on the local, state and national levels.",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Richard \"Dick\" Snellman for Teton County Commissioner",
+                "position": "Support",
+                "status": "On ballot"
             }
         ]
     },
     "finances": {
-        "reports": 18,
-        "last_report_end_date": "06/30/2020",
+        "reports": 21,
+        "last_report_end_date": "10/30/2020",
         "contributions": 34236.0,
         "num_contributions": 316,
         "contributions_19_20": 8900.0,
         "num_contributions_19_20": 92,
-        "expenditures": 34900.54,
-        "num_expenditures": 116,
-        "expenditures_19_20": 4096.64,
-        "num_expenditures_19_20": 19,
-        "cash_on_hand": 19417.38
+        "expenditures": 35028.43,
+        "num_expenditures": 117,
+        "expenditures_19_20": 4224.53,
+        "num_expenditures_19_20": 20,
+        "cash_on_hand": 19289.98
     }
 }

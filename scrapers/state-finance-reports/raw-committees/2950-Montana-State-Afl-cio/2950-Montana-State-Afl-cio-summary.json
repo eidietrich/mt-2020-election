@@ -1,7 +1,7 @@
 {
     "slug": "2950-Montana-State-Afl-cio",
     "committeeName": "Montana State Afl-cio",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 1,
     "data": {
         "committeeId": 2950,
@@ -34,14 +34,14 @@
         ],
         "issues": [
             {
-                "interest": "Medicaid Expansion to 138% of federal poverty level",
-                "position": "Support",
-                "status": "Not on ballot"
-            },
-            {
                 "interest": "LR 126 & LR 127",
                 "position": "Oppose",
                 "status": "On ballot, approved"
+            },
+            {
+                "interest": "Medicaid Expansion to 138% of federal poverty level",
+                "position": "Support",
+                "status": "Not on ballot"
             }
         ]
     },

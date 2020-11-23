@@ -1,7 +1,7 @@
 {
     "slug": "2682-Build-Montana-PAC-(Affiliate-of-the-MT-AFL-CIO)",
     "committeeName": "Build Montana PAC (Affiliate of the MT AFL-CIO)",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 22,
     "data": {
         "committeeId": 2682,
@@ -39,9 +39,9 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Lola Sheldon-Galloway for HD 22",
-                "position": "Oppose",
-                "status": "Not Applicable"
+                "interest": "Elect Melissa Romano",
+                "position": "Other",
+                "status": "On ballot"
             },
             {
                 "interest": "Elect Jesse Laslovich",
@@ -49,22 +49,22 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "HD 22 Al Ferderer",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "Oppose Initiative 181",
                 "position": "Other",
                 "status": "On ballot"
             },
             {
-                "interest": "Elect Melissa Romano",
-                "position": "Other",
-                "status": "On ballot"
+                "interest": "Lola Sheldon-Galloway for HD 22",
+                "position": "Oppose",
+                "status": "Not Applicable"
             },
             {
                 "interest": "HD 60 - Laurie Bishop",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "HD 22 Al Ferderer",
                 "position": "Support",
                 "status": "On ballot"
             }

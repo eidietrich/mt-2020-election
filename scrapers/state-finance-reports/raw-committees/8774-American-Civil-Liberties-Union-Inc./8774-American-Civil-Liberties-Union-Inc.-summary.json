@@ -1,8 +1,8 @@
 {
     "slug": "8774-American-Civil-Liberties-Union-Inc.",
     "committeeName": "American Civil Liberties Union, Inc.",
-    "scrape_date": "2020-07-09",
-    "periods": 2,
+    "scrape_date": "2020-11-11",
+    "periods": 8,
     "data": {
         "committeeId": 8774,
         "committeeName": "American Civil Liberties Union, Inc.",
@@ -34,23 +34,23 @@
         ],
         "issues": [
             {
-                "interest": "We do not plan to directly support or oppose any candidates or ballot issues",
-                "position": "Other",
+                "interest": "Voter education in 2020 Montana gubernatorial race.  American Civil Liberties Union, Inc. does not endorse or oppose candidates.",
+                "position": "Education",
                 "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 2,
-        "last_report_end_date": "06/25/2020",
+        "reports": 8,
+        "last_report_end_date": "11/03/2020",
         "contributions": 0,
         "num_contributions": 0,
         "contributions_19_20": 0,
         "num_contributions_19_20": 0,
-        "expenditures": 70000.0,
-        "num_expenditures": 1,
-        "expenditures_19_20": 70000.0,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": -70000.0
+        "expenditures": 585678.56,
+        "num_expenditures": 43,
+        "expenditures_19_20": 585678.56,
+        "num_expenditures_19_20": 43,
+        "cash_on_hand": -585678.56
     }
 }

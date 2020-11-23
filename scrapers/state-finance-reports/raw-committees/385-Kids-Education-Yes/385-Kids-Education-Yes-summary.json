@@ -1,8 +1,8 @@
 {
     "slug": "385-Kids-Education-Yes",
     "committeeName": "Kids Education Yes",
-    "scrape_date": "2020-07-09",
-    "periods": 24,
+    "scrape_date": "2020-11-11",
+    "periods": 28,
     "data": {
         "committeeId": 385,
         "committeeName": "Kids Education Yes",
@@ -19,9 +19,9 @@
         "officers": [
             {
                 "position": "Treasurer",
-                "name": "Morin, Lynda",
+                "name": "Morin, Jim",
                 "address": "P.O. Box 3224  Great Falls, MT  59403",
-                "phone": "(406) 788-9759",
+                "phone": "(406) 761-5100",
                 "email": "info@kidseducationyes.com "
             },
             {
@@ -35,16 +35,16 @@
         "issues": []
     },
     "finances": {
-        "reports": 24,
-        "last_report_end_date": "05/26/2020",
+        "reports": 28,
+        "last_report_end_date": "10/24/2020",
         "contributions": 75397.26,
         "num_contributions": 263,
         "contributions_19_20": 61827.25,
         "num_contributions_19_20": 171,
-        "expenditures": 75517.32,
-        "num_expenditures": 90,
-        "expenditures_19_20": 54324.91,
-        "num_expenditures_19_20": 54,
-        "cash_on_hand": 11015.46
+        "expenditures": 76762.26,
+        "num_expenditures": 95,
+        "expenditures_19_20": 55569.85,
+        "num_expenditures_19_20": 59,
+        "cash_on_hand": 9770.52
     }
 }

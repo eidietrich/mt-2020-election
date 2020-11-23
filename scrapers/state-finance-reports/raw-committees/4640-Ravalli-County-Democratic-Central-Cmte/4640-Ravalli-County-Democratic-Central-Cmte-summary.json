@@ -1,8 +1,8 @@
 {
     "slug": "4640-Ravalli-County-Democratic-Central-Cmte",
     "committeeName": "Ravalli County Democratic Central Cmte",
-    "scrape_date": "2020-07-09",
-    "periods": 19,
+    "scrape_date": "2020-11-11",
+    "periods": 24,
     "data": {
         "committeeId": 4640,
         "committeeName": "Ravalli County Democratic Central Cmte",
@@ -34,7 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "A Jo Young",
+                "interest": "James Olsen",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "David Smith",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -49,17 +54,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "James Olsen",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "David Smith",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Gail Gutsche for PSC, 2016",
+                "interest": "A Jo Young",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -67,20 +62,25 @@
                 "interest": "Nancy Neal for HD 86",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Gail Gutsche for PSC, 2016",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 19,
-        "last_report_end_date": "05/25/2020",
-        "contributions": 14758.35,
-        "num_contributions": 158,
-        "contributions_19_20": 4133.63,
-        "num_contributions_19_20": 71,
-        "expenditures": 22878.03,
-        "num_expenditures": 125,
-        "expenditures_19_20": 6712.72,
-        "num_expenditures_19_20": 55,
-        "cash_on_hand": 3534.44
+        "reports": 24,
+        "last_report_end_date": "10/25/2020",
+        "contributions": 18452.54,
+        "num_contributions": 221,
+        "contributions_19_20": 7827.82,
+        "num_contributions_19_20": 134,
+        "expenditures": 29716.77,
+        "num_expenditures": 163,
+        "expenditures_19_20": 13551.46,
+        "num_expenditures_19_20": 93,
+        "cash_on_hand": 2076.31
     }
 }

@@ -1,7 +1,7 @@
 {
     "slug": "8136-Loose-Caboose-Casino-of-Helena",
     "committeeName": "Loose Caboose Casino of Helena",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 1,
     "data": {
         "committeeId": 8136,
@@ -36,7 +36,7 @@
             {
                 "interest": "Support Montana First Action",
                 "position": "Support",
-                "status": "Support"
+                "status": "Not Applicable"
             }
         ]
     },

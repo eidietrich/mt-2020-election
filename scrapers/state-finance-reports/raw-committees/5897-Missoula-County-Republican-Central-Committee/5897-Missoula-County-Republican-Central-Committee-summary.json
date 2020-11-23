@@ -1,8 +1,8 @@
 {
     "slug": "5897-Missoula-County-Republican-Central-Committee",
     "committeeName": "Missoula County Republican Central Committee",
-    "scrape_date": "2020-07-09",
-    "periods": 8,
+    "scrape_date": "2020-11-11",
+    "periods": 11,
     "data": {
         "committeeId": 5897,
         "committeeName": "Missoula County Republican Central Committee",
@@ -34,62 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Kathy Whitman HD 96",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "Nancy Burgoyne HD 98",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Carol Minjares HD 100",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Brad Tschida HD 97",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Lana Hamilton HD 90",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Alan Ault Missoula County Commissioner",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "David Doc Moore",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Rebecca Dawson HD 95",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Niki Sardot SD 46",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Bethanie Calvert Wanberg",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Kelsey Cooley HD 94",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Mike Warner SD 45",
                 "position": "Support",
                 "status": "On ballot"
             },
@@ -99,7 +44,27 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Mike Hopkins HD 92",
+                "interest": "Lana Hamilton HD 90",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Kelsey Cooley HD 94",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Kathy Whitman HD 96",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Brad Tschida HD 97",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Mike Warner SD 45",
                 "position": "Support",
                 "status": "On ballot"
             },
@@ -107,20 +72,55 @@
                 "interest": "Gary D. Wanberg HD 89",
                 "position": "Support",
                 "status": "On ballot"
+            },
+            {
+                "interest": "Alan Ault Missoula County Commissioner",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Bethanie Calvert Wanberg",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Mike Hopkins HD 92",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Niki Sardot SD 46",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Rebecca Dawson HD 95",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "David Doc Moore",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Carol Minjares HD 100",
+                "position": "Support",
+                "status": "On ballot"
             }
         ]
     },
     "finances": {
-        "reports": 8,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 69738.56,
-        "num_contributions": 327,
-        "contributions_19_20": 89246.71,
-        "num_contributions_19_20": 322,
-        "expenditures": 63612.09,
-        "num_expenditures": 116,
-        "expenditures_19_20": 37609.29,
-        "num_expenditures_19_20": 76,
-        "cash_on_hand": 13736.35
+        "reports": 11,
+        "last_report_end_date": "10/25/2020",
+        "contributions": 71019.56,
+        "num_contributions": 360,
+        "contributions_19_20": 90527.71,
+        "num_contributions_19_20": 355,
+        "expenditures": 70822.08,
+        "num_expenditures": 137,
+        "expenditures_19_20": 44819.28,
+        "num_expenditures_19_20": 97,
+        "cash_on_hand": 9744.36
     }
 }

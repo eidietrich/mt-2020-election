@@ -1,8 +1,8 @@
 {
     "slug": "349-Yellowstone-County-Democratic-Central-Cmte.",
     "committeeName": "Yellowstone County Democratic Central Cmte.",
-    "scrape_date": "2020-07-09",
-    "periods": 26,
+    "scrape_date": "2020-11-11",
+    "periods": 29,
     "data": {
         "committeeId": 349,
         "committeeName": "Yellowstone County Democratic Central Cmte.",
@@ -34,22 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "Jennifer Merecki",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Randy Heinz",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "Carmelita Dominguez",
                 "position": "Other",
                 "status": "On ballot"
             },
             {
-                "interest": "Kendra Shaw",
+                "interest": "Jim Ronquillo",
                 "position": "Support",
                 "status": "On ballot"
             },
@@ -59,23 +49,33 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Jim Ronquillo",
+                "interest": "Kendra Shaw",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Randy Heinz",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jennifer Merecki",
                 "position": "Support",
                 "status": "On ballot"
             }
         ]
     },
     "finances": {
-        "reports": 26,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 163936.77,
-        "num_contributions": 1286,
-        "contributions_19_20": 35141.9,
-        "num_contributions_19_20": 261,
-        "expenditures": 161425.04,
-        "num_expenditures": 533,
-        "expenditures_19_20": 29533.39,
-        "num_expenditures_19_20": 106,
-        "cash_on_hand": 9618.7
+        "reports": 29,
+        "last_report_end_date": "10/24/2020",
+        "contributions": 169409.27,
+        "num_contributions": 1318,
+        "contributions_19_20": 40614.4,
+        "num_contributions_19_20": 293,
+        "expenditures": 173809.34,
+        "num_expenditures": 567,
+        "expenditures_19_20": 41917.69,
+        "num_expenditures_19_20": 140,
+        "cash_on_hand": 3179.4
     }
 }

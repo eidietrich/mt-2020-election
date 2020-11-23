@@ -1,8 +1,8 @@
 {
     "slug": "5022-Montana-Trial-Lawyers-Association",
     "committeeName": "Montana Trial Lawyers Association",
-    "scrape_date": "2020-07-09",
-    "periods": 28,
+    "scrape_date": "2020-11-11",
+    "periods": 31,
     "data": {
         "committeeId": 5022,
         "committeeName": "Montana Trial Lawyers Association",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 28,
-        "last_report_end_date": "06/25/2020",
+        "reports": 31,
+        "last_report_end_date": "10/25/2020",
         "contributions": 0,
         "num_contributions": 0,
         "contributions_19_20": 0,
         "num_contributions_19_20": 0,
-        "expenditures": 55138.38,
-        "num_expenditures": 149,
-        "expenditures_19_20": 20034.32,
-        "num_expenditures_19_20": 27,
-        "cash_on_hand": -55138.38
+        "expenditures": 65675.73,
+        "num_expenditures": 168,
+        "expenditures_19_20": 30571.67,
+        "num_expenditures_19_20": 46,
+        "cash_on_hand": -65675.73
     }
 }

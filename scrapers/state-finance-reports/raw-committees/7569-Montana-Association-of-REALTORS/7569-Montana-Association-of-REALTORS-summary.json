@@ -1,8 +1,8 @@
 {
     "slug": "7569-Montana-Association-of-REALTORS",
     "committeeName": "Montana Association of REALTORS",
-    "scrape_date": "2020-07-09",
-    "periods": 5,
+    "scrape_date": "2020-11-11",
+    "periods": 7,
     "data": {
         "committeeId": 7569,
         "committeeName": "Montana Association of REALTORS",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 5,
-        "last_report_end_date": "04/25/2020",
+        "reports": 7,
+        "last_report_end_date": "10/24/2020",
         "contributions": 1363.32,
         "num_contributions": 1,
         "contributions_19_20": 1363.32,
         "num_contributions_19_20": 1,
-        "expenditures": 19813.85,
-        "num_expenditures": 8,
-        "expenditures_19_20": 3369.4,
-        "num_expenditures_19_20": 3,
-        "cash_on_hand": -19163.85
+        "expenditures": 20495.81,
+        "num_expenditures": 9,
+        "expenditures_19_20": 4051.36,
+        "num_expenditures_19_20": 4,
+        "cash_on_hand": -19845.81
     }
 }

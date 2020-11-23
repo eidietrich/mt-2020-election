@@ -1,8 +1,8 @@
 {
     "slug": "7610-Montana-Native-Vote-Action-Fund",
     "committeeName": "Montana Native Vote Action Fund ",
-    "scrape_date": "2020-07-09",
-    "periods": 7,
+    "scrape_date": "2020-11-11",
+    "periods": 11,
     "data": {
         "committeeId": 7610,
         "committeeName": "Montana Native Vote Action Fund ",
@@ -35,16 +35,16 @@
         "issues": []
     },
     "finances": {
-        "reports": 7,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 44000.0,
-        "num_contributions": 3,
-        "contributions_19_20": 0.0,
-        "num_contributions_19_20": 0,
-        "expenditures": 3185.24,
-        "num_expenditures": 44,
-        "expenditures_19_20": 198.0,
-        "num_expenditures_19_20": 2,
-        "cash_on_hand": 40839.76
+        "reports": 11,
+        "last_report_end_date": "10/30/2020",
+        "contributions": 249330.0,
+        "num_contributions": 12,
+        "contributions_19_20": 205330.0,
+        "num_contributions_19_20": 9,
+        "expenditures": 36356.7,
+        "num_expenditures": 54,
+        "expenditures_19_20": 33369.46,
+        "num_expenditures_19_20": 12,
+        "cash_on_hand": 209668.3
     }
 }

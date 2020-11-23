@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 50239,
+        "fromDateStr": "06/26/2020",
+        "toDateStr": "08/25/2020",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 8363,
+        "candidateName": "Marijuana Policy Project",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/26/2020",
+        "end_date": "08/25/2020",
+        "receipts": 0.0,
+        "expenditures": 13105.96,
+        "cash_in_bank": -42851.59
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "07/31/20",
+            "Entity Name": "Marijuana Policy Project",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2370 Champlain St NW",
+            "City": "Washington DC",
+            "State": "DC",
+            "Zip": "20009",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 8313.07,
+            "Purpose": "Staff time, including office overhead and fringe benefits, for campaign strategy and management consulting for New Approach Montana, CI-118 and I-190",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "06/30/20",
+            "Entity Name": "Marijuana Policy Project",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2370 Champlain St NW",
+            "City": "Washington DC",
+            "State": "DC",
+            "Zip": "20009",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 4792.89,
+            "Purpose": "Staff time, including office overhead and fringe benefits, for campaign strategy and management consulting for New Approach Montana, CI-118 and I-190",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 50380,
+        "fromDateStr": "04/26/2020",
+        "toDateStr": "09/13/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 8359,
+        "candidateName": "Citizens for School Bond issue ",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/26/2020",
+        "end_date": "09/13/2020",
+        "receipts": 2.9,
+        "expenditures": 58.9,
+        "cash_in_bank": 0.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "09/13/20",
+            "Entity Name": "Broadwater Reporter",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "406 Broadway ",
+            "City": "Townsend",
+            "State": "MT",
+            "Zip": "59644",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 58.9,
+            "Purpose": "Thank you advertisement placed in paper on May 22, 2020",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

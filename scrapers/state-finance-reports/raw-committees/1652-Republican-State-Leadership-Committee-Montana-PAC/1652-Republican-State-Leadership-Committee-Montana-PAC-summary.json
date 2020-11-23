@@ -1,8 +1,8 @@
 {
     "slug": "1652-Republican-State-Leadership-Committee-Montana-PAC",
     "committeeName": "Republican State Leadership Committee-Montana PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 29,
+    "scrape_date": "2020-11-11",
+    "periods": 32,
     "data": {
         "committeeId": 1652,
         "committeeName": "Republican State Leadership Committee-Montana PAC",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 29,
-        "last_report_end_date": "06/25/2020",
+        "reports": 32,
+        "last_report_end_date": "10/24/2020",
         "contributions": 76947.53,
         "num_contributions": 1390,
         "contributions_19_20": 0.0,
         "num_contributions_19_20": 0,
-        "expenditures": 105412.0,
-        "num_expenditures": 42,
-        "expenditures_19_20": 180.0,
-        "num_expenditures_19_20": 18,
-        "cash_on_hand": 217.53
+        "expenditures": 105452.0,
+        "num_expenditures": 46,
+        "expenditures_19_20": 220.0,
+        "num_expenditures_19_20": 22,
+        "cash_on_hand": 177.53
     }
 }

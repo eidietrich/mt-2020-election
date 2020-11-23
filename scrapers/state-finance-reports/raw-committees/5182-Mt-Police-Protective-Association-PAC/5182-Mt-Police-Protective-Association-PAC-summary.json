@@ -1,7 +1,7 @@
 {
     "slug": "5182-Mt-Police-Protective-Association-PAC",
     "committeeName": "Mt Police Protective Association PAC",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 1,
     "data": {
         "committeeId": 5182,
@@ -34,17 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "Attorney General Tim Fox",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Legislative Candidates Margie MacDonald, Doc Moore, Steve Lavin, Kathy Swanson",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Legislative Candidate John Bedford",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Legislative Candidate Jimmy Patelis",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -54,7 +49,12 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Legislative Candidate Jimmy Patelis",
+                "interest": "Legislative Candidates Margie MacDonald, Doc Moore, Steve Lavin, Kathy Swanson",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Attorney General Tim Fox",
                 "position": "Support",
                 "status": "Not Applicable"
             }

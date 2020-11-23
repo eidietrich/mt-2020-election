@@ -1,0 +1,76 @@
+{
+    "slug": "4817-Montana-Human-Rights-Action-Network",
+    "committeeName": "Montana Human Rights Action Network",
+    "scrape_date": "2020-11-11",
+    "periods": 1,
+    "data": {
+        "committeeId": 4817,
+        "committeeName": "Montana Human Rights Action Network",
+        "committeeAddress": "PO Box 1497, Helena, MT 59624",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "N",
+        "electionYear": "2016",
+        "amendedDate": 1584511200000,
+        "entityFullName": "Montana Human Rights Action Network",
+        "entityCity": "Helena",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "CARROLL RIVAS, RACHEL",
+                "address": "PO BOX 1497 HELENA, MT  59624",
+                "phone": "",
+                "email": "NETWORK@MHRN.ORG"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Mike Cooney for Governor",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Greg Gianforte for Governor",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Montana Governor's Race-no specific candidate",
+                "position": "Education",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bryce Bennett for Secretary of State",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "No on LR 130",
+                "position": "Oppose",
+                "status": "On ballot"
+            }
+        ]
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "12/12/2015",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 0,
+        "num_expenditures": 0,
+        "expenditures_19_20": 0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
+    }
+}

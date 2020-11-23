@@ -1,8 +1,8 @@
 {
     "slug": "316-Ravalli-County-Republican-Women",
     "committeeName": "Ravalli County Republican Women",
-    "scrape_date": "2020-07-09",
-    "periods": 24,
+    "scrape_date": "2020-11-11",
+    "periods": 27,
     "data": {
         "committeeId": 316,
         "committeeName": "Ravalli County Republican Women",
@@ -34,28 +34,68 @@
         ],
         "issues": [
             {
-                "interest": "Work for election of Republican Party and promote it's ideals. Foster loyalty to the Republican Party and it's ideals.",
+                "interest": "Austin Knudsen for Attorney General",
                 "position": "Support",
-                "status": "Not Applicable"
+                "status": "Support"
+            },
+            {
+                "interest": "Troy Downing-Auditor",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jeffifer Fielder-PSC",
+                "position": "Support",
+                "status": "Support"
             },
             {
                 "interest": "Promote principles of freedon, equaltiy and justice on which government of the United States is founded.",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Elsie Arntzen for OPI",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Greg Gianforte - Governor",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Work for election of Republican Party and promote it's ideals. Foster loyalty to the Republican Party and it's ideals.",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Theresa Manzella-SD 44",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Michele Binkley-HD 85",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Christi Jacobsen-Secretary of State",
+                "position": "Support",
+                "status": "Support"
             }
         ]
     },
     "finances": {
-        "reports": 24,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 10780.1,
-        "num_contributions": 325,
-        "contributions_19_20": 1191.5,
-        "num_contributions_19_20": 90,
-        "expenditures": 18765.57,
-        "num_expenditures": 97,
-        "expenditures_19_20": 2812.24,
-        "num_expenditures_19_20": 23,
-        "cash_on_hand": 8354.92
+        "reports": 27,
+        "last_report_end_date": "10/25/2020",
+        "contributions": 11122.1,
+        "num_contributions": 334,
+        "contributions_19_20": 1533.5,
+        "num_contributions_19_20": 99,
+        "expenditures": 22146.27,
+        "num_expenditures": 108,
+        "expenditures_19_20": 6192.94,
+        "num_expenditures_19_20": 34,
+        "cash_on_hand": 5316.22
     }
 }

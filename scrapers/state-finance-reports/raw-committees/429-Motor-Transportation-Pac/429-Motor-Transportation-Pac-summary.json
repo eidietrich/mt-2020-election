@@ -1,8 +1,8 @@
 {
     "slug": "429-Motor-Transportation-Pac",
     "committeeName": "Motor Transportation Pac",
-    "scrape_date": "2020-07-09",
-    "periods": 19,
+    "scrape_date": "2020-11-11",
+    "periods": 20,
     "data": {
         "committeeId": 429,
         "committeeName": "Motor Transportation Pac",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 19,
-        "last_report_end_date": "06/30/2020",
+        "reports": 20,
+        "last_report_end_date": "11/04/2020",
         "contributions": 5021.0,
         "num_contributions": 61,
         "contributions_19_20": -514.0,
         "num_contributions_19_20": 6,
-        "expenditures": 11005.0,
-        "num_expenditures": 5,
-        "expenditures_19_20": 5.0,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": 8356.16
+        "expenditures": 15005.0,
+        "num_expenditures": 9,
+        "expenditures_19_20": 4005.0,
+        "num_expenditures_19_20": 5,
+        "cash_on_hand": 4356.16
     }
 }

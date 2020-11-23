@@ -1,8 +1,8 @@
 {
     "slug": "8426-DAGA-People's-Lawyer-Project-Montana",
     "committeeName": "DAGA People's Lawyer Project Montana",
-    "scrape_date": "2020-07-09",
-    "periods": 4,
+    "scrape_date": "2020-11-11",
+    "periods": 7,
     "data": {
         "committeeId": 8426,
         "committeeName": "DAGA People's Lawyer Project Montana",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 4,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 128999.2,
-        "num_contributions": 3,
-        "contributions_19_20": 128999.2,
-        "num_contributions_19_20": 3,
-        "expenditures": 1178.0,
-        "num_expenditures": 2,
-        "expenditures_19_20": 1178.0,
-        "num_expenditures_19_20": 2,
-        "cash_on_hand": 113822.0
+        "reports": 7,
+        "last_report_end_date": "10/27/2020",
+        "contributions": 3061081.64,
+        "num_contributions": 43,
+        "contributions_19_20": 3061081.64,
+        "num_contributions_19_20": 43,
+        "expenditures": 2983734.12,
+        "num_expenditures": 81,
+        "expenditures_19_20": 2983734.12,
+        "num_expenditures_19_20": 81,
+        "cash_on_hand": 46404.88
     }
 }

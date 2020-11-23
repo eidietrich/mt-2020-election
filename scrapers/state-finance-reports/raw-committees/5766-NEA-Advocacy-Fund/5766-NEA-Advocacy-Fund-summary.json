@@ -1,7 +1,7 @@
 {
     "slug": "5766-NEA-Advocacy-Fund",
     "committeeName": "NEA Advocacy Fund",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 4,
     "data": {
         "committeeId": 5766,
@@ -34,37 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Jesse Laslovich for State Auditor",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Mike McGrath for State Supreme Court",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Tim Fox for Attorney General",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Dirk Sandefur for State Supreme Court",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Jim Shea for State Supreme Count",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
                 "interest": "Melissa Romano for St. Superintendent of Public Instruction",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Monica Lindeen for Secretary of State",
                 "position": "Support",
                 "status": "Support"
             },
@@ -74,9 +44,39 @@
                 "status": "Support"
             },
             {
+                "interest": "Monica Lindeen for Secretary of State",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Tim Fox for Attorney General",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jesse Laslovich for State Auditor",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
                 "interest": "To make independent expenditures on behalf of candidates who are friends of public education",
                 "position": "Other",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Dirk Sandefur for State Supreme Court",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Mike McGrath for State Supreme Court",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jim Shea for State Supreme Count",
+                "position": "Support",
+                "status": "Support"
             }
         ]
     },

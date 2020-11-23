@@ -1,7 +1,7 @@
 {
     "slug": "5638-Montanans-for-Experienced-Judges",
     "committeeName": "Montanans for Experienced Judges",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 8,
     "data": {
         "committeeId": 5638,
@@ -34,14 +34,14 @@
         ],
         "issues": [
             {
-                "interest": "Elect Experienced Judges",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "Dirk Sandefur - Supreme Court",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Elect Experienced Judges",
+                "position": "Support",
+                "status": "On ballot"
             }
         ]
     },

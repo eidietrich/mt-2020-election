@@ -1,8 +1,8 @@
 {
     "slug": "5011-Montana-Water-Well-Drillers-PAC",
     "committeeName": "Montana Water Well Drillers PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 19,
+    "scrape_date": "2020-11-11",
+    "periods": 21,
     "data": {
         "committeeId": 5011,
         "committeeName": "Montana Water Well Drillers PAC",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 19,
-        "last_report_end_date": "06/30/2020",
-        "contributions": 6638.8,
-        "num_contributions": 29,
-        "contributions_19_20": 6938.8,
-        "num_contributions_19_20": 18,
-        "expenditures": 2011.48,
-        "num_expenditures": 3,
-        "expenditures_19_20": 940.39,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": 6086.52
+        "reports": 21,
+        "last_report_end_date": "10/30/2020",
+        "contributions": 6338.8,
+        "num_contributions": 32,
+        "contributions_19_20": 6638.8,
+        "num_contributions_19_20": 21,
+        "expenditures": 3711.48,
+        "num_expenditures": 20,
+        "expenditures_19_20": 2640.39,
+        "num_expenditures_19_20": 18,
+        "cash_on_hand": 4686.52
     }
 }

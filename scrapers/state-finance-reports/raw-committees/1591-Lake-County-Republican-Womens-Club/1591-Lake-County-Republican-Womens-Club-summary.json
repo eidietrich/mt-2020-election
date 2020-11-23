@@ -1,8 +1,8 @@
 {
     "slug": "1591-Lake-County-Republican-Womens-Club",
     "committeeName": "Lake County Republican Womens Club",
-    "scrape_date": "2020-07-09",
-    "periods": 13,
+    "scrape_date": "2020-11-11",
+    "periods": 14,
     "data": {
         "committeeId": 1591,
         "committeeName": "Lake County Republican Womens Club",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 13,
-        "last_report_end_date": "06/25/2020",
+        "reports": 14,
+        "last_report_end_date": "09/30/2020",
         "contributions": 126.5,
         "num_contributions": 118,
         "contributions_19_20": 155.5,
         "num_contributions_19_20": 26,
-        "expenditures": 10033.11,
-        "num_expenditures": 57,
-        "expenditures_19_20": 1844.94,
-        "num_expenditures_19_20": 5,
-        "cash_on_hand": 2553.9
+        "expenditures": 10233.11,
+        "num_expenditures": 58,
+        "expenditures_19_20": 2044.94,
+        "num_expenditures_19_20": 6,
+        "cash_on_hand": 2353.9
     }
 }

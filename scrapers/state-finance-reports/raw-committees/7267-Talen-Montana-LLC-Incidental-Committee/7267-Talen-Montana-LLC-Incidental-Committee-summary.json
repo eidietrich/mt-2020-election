@@ -1,8 +1,8 @@
 {
     "slug": "7267-Talen-Montana-LLC-Incidental-Committee",
     "committeeName": "Talen Montana, LLC Incidental Committee",
-    "scrape_date": "2020-07-09",
-    "periods": 5,
+    "scrape_date": "2020-11-11",
+    "periods": 6,
     "data": {
         "committeeId": 7267,
         "committeeName": "Talen Montana, LLC Incidental Committee",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 5,
-        "last_report_end_date": "03/20/2020",
+        "reports": 6,
+        "last_report_end_date": "07/27/2020",
         "contributions": 0,
         "num_contributions": 0,
         "contributions_19_20": 0,
         "num_contributions_19_20": 0,
-        "expenditures": 70000.0,
-        "num_expenditures": 5,
-        "expenditures_19_20": 25000.0,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": -70000.0
+        "expenditures": 90000.0,
+        "num_expenditures": 6,
+        "expenditures_19_20": 45000.0,
+        "num_expenditures_19_20": 2,
+        "cash_on_hand": -90000.0
     }
 }

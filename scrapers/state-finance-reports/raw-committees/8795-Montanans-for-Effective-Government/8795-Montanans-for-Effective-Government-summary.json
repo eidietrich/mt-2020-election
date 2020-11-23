@@ -1,8 +1,8 @@
 {
     "slug": "8795-Montanans-for-Effective-Government",
     "committeeName": "Montanans for Effective Government",
-    "scrape_date": "2020-07-09",
-    "periods": 2,
+    "scrape_date": "2020-11-11",
+    "periods": 5,
     "data": {
         "committeeId": 8795,
         "committeeName": "Montanans for Effective Government",
@@ -34,23 +34,168 @@
         ],
         "issues": [
             {
+                "interest": "Oppose the election of Republican Jeremy Trebas in HD 26",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Oppose the election of Republican Steve Gist in HD 25",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Oppose the election of Republican Jedediah Hinkle in HD 67",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support the election of Democrat Melissa Smith in HD 20",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support the election of Democrat Jasmine Krotkov in HD 25",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Support Democratic candidates for state and county offices. ",
                 "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Oppose the election of Republican Frank Fleming in HD 51",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support the election of Democrat Barbara Bessette in HD 24",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support the election of Democrat Debo Powers in HD 3",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Oppose the election of Republican Fred Anderson in HD 20",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support the election of Democrat Tom Browder in HD 92",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support the election of Democrat Colette Campbell in HD 67",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support the election of Democrat Emily Brosten in HD 68",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Oppose the election of Republican Jane Gillette in HD 64",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support the election of Democrat Loni Conley in HD 96",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Oppose the election of Republican Joe Read in HD 93",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support the election of Democrat Anne Giuliano in HD 51",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Oppose the election of Republican Kathy Whitman in HD 96",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support the election of Democrat Jasmine Taylor in HD 22",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support the election of Democrat Emily Brosten in HD 68",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Oppose the election of Republican Jimmy Patelis in HD 52",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support the election of Democrat Helena Lovick in HD 26",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Oppose the election of Republican Jedediah Hinkle in HD 67",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Oppose the election of Republican Steven Galloway in HD 24",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support the election of Democrat Hannah Olson in HD 52",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Oppose the election of Republican Lola Sheldon-Galloway in HD 22",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Oppose the election of Republican Braxton Mitchell in HD 3",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support the election of Democrat Lisa Pavlock in HD 93",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Oppose the election of Republican Caleb Hinkle in HD 68",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support the election of Democrat Brian Popiel in HD 64",
+                "position": "Support",
                 "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 2,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 1700.0,
-        "num_contributions": 4,
-        "contributions_19_20": 1700.0,
-        "num_contributions_19_20": 4,
-        "expenditures": 45.78,
-        "num_expenditures": 2,
-        "expenditures_19_20": 45.78,
-        "num_expenditures_19_20": 2,
-        "cash_on_hand": 1654.22
+        "reports": 5,
+        "last_report_end_date": "10/25/2020",
+        "contributions": 53900.0,
+        "num_contributions": 36,
+        "contributions_19_20": 53900.0,
+        "num_contributions_19_20": 36,
+        "expenditures": 42995.52,
+        "num_expenditures": 37,
+        "expenditures_19_20": 42995.52,
+        "num_expenditures_19_20": 37,
+        "cash_on_hand": 10904.48
     }
 }

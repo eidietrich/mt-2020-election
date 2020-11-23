@@ -1,8 +1,8 @@
 {
     "slug": "7934-MFPE",
     "committeeName": "MFPE",
-    "scrape_date": "2020-07-09",
-    "periods": 6,
+    "scrape_date": "2020-11-11",
+    "periods": 9,
     "data": {
         "committeeId": 7934,
         "committeeName": "MFPE",
@@ -34,32 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Pro Education",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Pro Candidate & Ballot Issues",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "House District 6 - Bruce Tutvedt",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "House District 36 - Jim Johnson",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Gardiner School Levy",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "House Distrtict 68 - Bruce Grubbs",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -69,17 +44,22 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Public Service",
+                "interest": "Pro Candidate & Ballot Issues",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Melissa Romano - State Superintendent",
+                "interest": "House District 36 - Jim Johnson",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
                 "interest": "Great Falls School Levy",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "House Distrtict 68 - Bruce Grubbs",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -92,20 +72,45 @@
                 "interest": "Billings Public Schools Levy",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Billings Safety Levy",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Pro Education",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Melissa Romano - State Superintendent",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Public Service",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Gardiner School Levy",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 6,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 137188.4,
-        "num_expenditures": 51,
-        "expenditures_19_20": 137188.4,
-        "num_expenditures_19_20": 51,
-        "cash_on_hand": -137188.4
+        "reports": 9,
+        "last_report_end_date": "10/24/2020",
+        "contributions": 4060162.98,
+        "num_contributions": 10,
+        "contributions_19_20": 4060162.98,
+        "num_contributions_19_20": 10,
+        "expenditures": 4111711.61,
+        "num_expenditures": 95,
+        "expenditures_19_20": 4111711.61,
+        "num_expenditures_19_20": 95,
+        "cash_on_hand": -38219.9
     }
 }

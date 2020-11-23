@@ -1,7 +1,7 @@
 {
     "slug": "7449-Ballot-Initiative-Strategy-Center",
     "committeeName": "Ballot Initiative Strategy Center",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 6,
     "data": {
         "committeeId": 7449,
@@ -39,14 +39,14 @@
                 "status": "On ballot"
             },
             {
-                "interest": "6 Million Levy",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "Revenue",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "6 Million Levy",
+                "position": "Support",
+                "status": "On ballot"
             }
         ]
     },

@@ -1,8 +1,8 @@
 {
     "slug": "3071-Montanans-For-Limited-Government",
     "committeeName": "Montanans For Limited Government",
-    "scrape_date": "2020-07-09",
-    "periods": 30,
+    "scrape_date": "2020-11-11",
+    "periods": 33,
     "data": {
         "committeeId": 3071,
         "committeeName": "Montanans For Limited Government",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 30,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 48670.0,
-        "num_contributions": 78,
-        "contributions_19_20": 32050.0,
-        "num_contributions_19_20": 19,
-        "expenditures": 33949.19,
-        "num_expenditures": 144,
-        "expenditures_19_20": 17517.05,
-        "num_expenditures_19_20": 59,
-        "cash_on_hand": 14755.81
+        "reports": 33,
+        "last_report_end_date": "10/24/2020",
+        "contributions": 51155.0,
+        "num_contributions": 83,
+        "contributions_19_20": 34535.0,
+        "num_contributions_19_20": 24,
+        "expenditures": 39864.68,
+        "num_expenditures": 157,
+        "expenditures_19_20": 23432.54,
+        "num_expenditures_19_20": 72,
+        "cash_on_hand": 11335.32
     }
 }

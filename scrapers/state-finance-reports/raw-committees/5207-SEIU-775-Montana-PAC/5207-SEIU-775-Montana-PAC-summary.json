@@ -1,8 +1,8 @@
 {
     "slug": "5207-SEIU-775-Montana-PAC",
     "committeeName": "SEIU 775 Montana PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 31,
+    "scrape_date": "2020-11-11",
+    "periods": 34,
     "data": {
         "committeeId": 5207,
         "committeeName": "SEIU 775 Montana PAC",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 31,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 4990.29,
-        "num_contributions": 245,
-        "contributions_19_20": 3315.69,
-        "num_contributions_19_20": 98,
-        "expenditures": 1395.16,
-        "num_expenditures": 2,
-        "expenditures_19_20": 1395.16,
-        "num_expenditures_19_20": 2,
-        "cash_on_hand": 4746.06
+        "reports": 34,
+        "last_report_end_date": "10/24/2020",
+        "contributions": 5847.18,
+        "num_contributions": 305,
+        "contributions_19_20": 4172.58,
+        "num_contributions_19_20": 158,
+        "expenditures": 1733.66,
+        "num_expenditures": 5,
+        "expenditures_19_20": 1733.66,
+        "num_expenditures_19_20": 5,
+        "cash_on_hand": 5637.97
     }
 }

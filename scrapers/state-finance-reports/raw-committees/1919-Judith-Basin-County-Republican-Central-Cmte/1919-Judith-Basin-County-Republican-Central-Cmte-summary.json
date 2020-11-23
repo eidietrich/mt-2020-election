@@ -1,8 +1,8 @@
 {
     "slug": "1919-Judith-Basin-County-Republican-Central-Cmte",
     "committeeName": "Judith Basin County Republican Central Cmte",
-    "scrape_date": "2020-07-09",
-    "periods": 11,
+    "scrape_date": "2020-11-11",
+    "periods": 15,
     "data": {
         "committeeId": 1919,
         "committeeName": "Judith Basin County Republican Central Cmte",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 11,
-        "last_report_end_date": "04/27/2020",
-        "contributions": -1086.48,
-        "num_contributions": 1,
-        "contributions_19_20": 0.0,
-        "num_contributions_19_20": 0,
-        "expenditures": 585.0,
-        "num_expenditures": 1,
-        "expenditures_19_20": 585.0,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": 501.48
+        "reports": 15,
+        "last_report_end_date": "10/19/2020",
+        "contributions": -1336.48,
+        "num_contributions": 2,
+        "contributions_19_20": -250.0,
+        "num_contributions_19_20": 1,
+        "expenditures": 1085.0,
+        "num_expenditures": 3,
+        "expenditures_19_20": 1085.0,
+        "num_expenditures_19_20": 3,
+        "cash_on_hand": 251.48
     }
 }

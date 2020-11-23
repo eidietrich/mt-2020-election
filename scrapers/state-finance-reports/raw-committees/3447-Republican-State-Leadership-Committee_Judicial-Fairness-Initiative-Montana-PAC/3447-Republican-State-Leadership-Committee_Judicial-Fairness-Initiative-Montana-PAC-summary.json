@@ -1,7 +1,7 @@
 {
     "slug": "3447-Republican-State-Leadership-Committee_Judicial-Fairness-Initiative-Montana-PAC",
     "committeeName": "Republican State Leadership Committee_Judicial Fairness Initiative Montana PAC",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 24,
     "data": {
         "committeeId": 3447,
@@ -34,14 +34,14 @@
         ],
         "issues": [
             {
-                "interest": "Dirk Sandefur - Supreme Court Justice",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
                 "interest": "To make independent expenditures in the State of Montana",
                 "position": "Other",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Dirk Sandefur - Supreme Court Justice",
+                "position": "Oppose",
+                "status": "On ballot"
             },
             {
                 "interest": "Kristen Juras - Supreme  Court Justice",

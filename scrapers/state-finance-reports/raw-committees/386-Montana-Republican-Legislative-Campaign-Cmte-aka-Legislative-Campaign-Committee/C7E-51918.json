@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 51918,
+        "fromDateStr": "10/28/2020",
+        "toDateStr": "10/28/2020",
+        "formTypeCode": "C7E",
+        "formTypeDescr": "Notice of Pre-Election Expenditures",
+        "committeeId": 386,
+        "candidateName": "Montana Republican Legislative Campaign Cmte aka Legislative Campaign Committee ",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/28/2020",
+        "end_date": "10/28/2020",
+        "receipts": 0.0,
+        "expenditures": 1763.0,
+        "cash_in_bank": 33429.85
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/28/20",
+            "Entity Name": "Perkins, John",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1527 Leslie Ave",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 894.5,
+            "Purpose": "Wages: October (see addendum)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/28/20",
+            "Entity Name": "Zolnikov, Daniel",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2812 2nd Ave North ",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 868.5,
+            "Purpose": "Wages: October (see addendum)",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

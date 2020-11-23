@@ -1,8 +1,8 @@
 {
     "slug": "2902-Montana-Land-Surveyors-Pac--(mls-pac)",
     "committeeName": "Montana Land Surveyors Pac  (mls-pac)",
-    "scrape_date": "2020-07-09",
-    "periods": 12,
+    "scrape_date": "2020-11-11",
+    "periods": 15,
     "data": {
         "committeeId": 2902,
         "committeeName": "Montana Land Surveyors Pac  (mls-pac)",
@@ -34,57 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "Vince Ricci",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Scott Sales for Senate District 35",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Terry Gauthier for SD40",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Daniel Zolnikov for HD45",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Becky Beard for House District 80",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Debra Lamm",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Ross Fitzgerald - HD17",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Ed Greef for HD88",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Kristen Juras - Supreme  Court Justice",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Promote the election of candidates for public elective office who support a better business climate and strong economy.",
-                "position": "Other",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Adam Hertz for HD 96",
+                "interest": "Becky Beard for House District 80",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -97,12 +52,57 @@
                 "interest": "Jobs for Montana PAC",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Adam Hertz for HD 96",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Scott Sales for Senate District 35",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Promote the election of candidates for public elective office who support a better business climate and strong economy.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Daniel Zolnikov for HD45",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Ross Fitzgerald - HD17",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kristen Juras - Supreme  Court Justice",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Vince Ricci",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Terry Gauthier for SD40",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Debra Lamm",
+                "position": "Support",
+                "status": "Support"
             }
         ]
     },
     "finances": {
-        "reports": 12,
-        "last_report_end_date": "06/25/2020",
+        "reports": 15,
+        "last_report_end_date": "10/30/2020",
         "contributions": -5139.22,
         "num_contributions": 7,
         "contributions_19_20": -1020.0,
@@ -111,6 +111,6 @@
         "num_expenditures": 23,
         "expenditures_19_20": 2603.9,
         "num_expenditures_19_20": 5,
-        "cash_on_hand": 7231.33
+        "cash_on_hand": 7232.42
     }
 }

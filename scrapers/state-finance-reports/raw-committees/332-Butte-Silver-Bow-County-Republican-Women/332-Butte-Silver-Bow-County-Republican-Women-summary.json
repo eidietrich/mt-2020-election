@@ -1,8 +1,8 @@
 {
     "slug": "332-Butte-Silver-Bow-County-Republican-Women",
     "committeeName": "Butte Silver Bow County Republican Women",
-    "scrape_date": "2020-07-09",
-    "periods": 7,
+    "scrape_date": "2020-11-11",
+    "periods": 10,
     "data": {
         "committeeId": 332,
         "committeeName": "Butte Silver Bow County Republican Women",
@@ -35,16 +35,16 @@
         "issues": []
     },
     "finances": {
-        "reports": 7,
-        "last_report_end_date": "04/25/2020",
-        "contributions": 109.9,
-        "num_contributions": 34,
-        "contributions_19_20": 729.0,
-        "num_contributions_19_20": 27,
+        "reports": 10,
+        "last_report_end_date": "09/25/2020",
+        "contributions": 169.9,
+        "num_contributions": 35,
+        "contributions_19_20": 789.0,
+        "num_contributions_19_20": 28,
         "expenditures": 1468.17,
         "num_expenditures": 17,
         "expenditures_19_20": 665.17,
         "num_expenditures_19_20": 7,
-        "cash_on_hand": 563.99
+        "cash_on_hand": 623.99
     }
 }

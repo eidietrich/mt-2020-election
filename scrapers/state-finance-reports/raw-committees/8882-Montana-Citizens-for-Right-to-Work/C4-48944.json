@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 48944,
+        "fromDateStr": "05/01/2020",
+        "toDateStr": "05/23/2020",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 8882,
+        "candidateName": "Montana Citizens for Right to Work",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/01/2020",
+        "end_date": "05/23/2020",
+        "receipts": 0.0,
+        "expenditures": 2093.87,
+        "cash_in_bank": -2093.87
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "05/19/20",
+            "Entity Name": "Montana Citizens for Right to Work",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 624",
+            "City": "Belgrade",
+            "State": "MT",
+            "Zip": "59714",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2093.87,
+            "Purpose": "production and postage for lobbying mailing",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "USPS",
+            "Expenditure Paid Communications Quantity": "3429",
+            "Expenditure Paid Communications Subject Matter": "Lobbying communication to report our survey results and ask supporters to urge the following candidates to support Right to Work; Casey Knudsen, Joyce Stone, Jim Johnson, Bob Phalen, Charles J. Peterson Jr., Jason Stuart, Randy Chamberlin, Jane Gillette, Josh Seckinger, Brian Gabriel Popiel, Kenneth M. Walsh, Cindy Younkin, Ian Root, Greg Devries, Marta Bertoglio, Bryher Herak, Sashin Hume, Ron Marshall, Jolena Bugli, Laura Merrill, Walt Sales, Gary Perry and Debra Brown."
+        }
+    ]
+}

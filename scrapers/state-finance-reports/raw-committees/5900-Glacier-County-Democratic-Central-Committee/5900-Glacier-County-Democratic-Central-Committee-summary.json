@@ -1,0 +1,50 @@
+{
+    "slug": "5900-Glacier-County-Democratic-Central-Committee",
+    "committeeName": "Glacier County Democratic Central Committee",
+    "scrape_date": "2020-11-11",
+    "periods": 1,
+    "data": {
+        "committeeId": 5900,
+        "committeeName": "Glacier County Democratic Central Committee",
+        "committeeAddress": "PO Box 2800, cut bank, MT 59417",
+        "committeeTypeDescr": "Political Party",
+        "incorporated": "N",
+        "electionYear": "2000",
+        "amendedDate": 1593151200000,
+        "entityFullName": "Glacier County Democratic Central Committee",
+        "entityCity": "cut bank",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Salois, Larry J",
+                "address": "PO Box 1503 Cut Bank, MT  59427",
+                "phone": "(406) 229-1986",
+                "email": "bkljsalois@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    },
+    "finances": {
+        "reports": 1,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 184.0,
+        "num_contributions": 2,
+        "contributions_19_20": 34.0,
+        "num_contributions_19_20": 1,
+        "expenditures": 0,
+        "num_expenditures": 0,
+        "expenditures_19_20": 0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 309.13
+    }
+}

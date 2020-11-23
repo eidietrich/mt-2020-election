@@ -1,8 +1,8 @@
 {
     "slug": "3347-Trial-Lawyers-Legislative-PAC",
     "committeeName": "Trial Lawyers Legislative PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 29,
+    "scrape_date": "2020-11-11",
+    "periods": 32,
     "data": {
         "committeeId": 3347,
         "committeeName": "Trial Lawyers Legislative PAC",
@@ -34,16 +34,6 @@
         ],
         "issues": [
             {
-                "interest": "LR-128 6 Mill Levy",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Juli Pierce - MT 13th Jud. Dist., Dept #8",
                 "position": "Support",
                 "status": "Support"
@@ -52,20 +42,30 @@
                 "interest": "Colette Davies - MT 13th Jud. Dist., Dept #7",
                 "position": "Support",
                 "status": "Support"
+            },
+            {
+                "interest": "LR-128 6 Mill Levy",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 29,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 620.5,
-        "num_contributions": 26,
-        "contributions_19_20": 62.81,
-        "num_contributions_19_20": 3,
+        "reports": 32,
+        "last_report_end_date": "10/25/2020",
+        "contributions": 683.32,
+        "num_contributions": 29,
+        "contributions_19_20": 125.63,
+        "num_contributions_19_20": 6,
         "expenditures": 250.0,
         "num_expenditures": 1,
         "expenditures_19_20": 250.0,
         "num_expenditures_19_20": 1,
-        "cash_on_hand": 208.71
+        "cash_on_hand": 229.65
     }
 }

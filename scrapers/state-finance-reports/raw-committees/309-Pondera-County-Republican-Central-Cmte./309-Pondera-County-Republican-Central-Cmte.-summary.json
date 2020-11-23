@@ -1,8 +1,8 @@
 {
     "slug": "309-Pondera-County-Republican-Central-Cmte.",
     "committeeName": "Pondera County Republican Central Cmte.",
-    "scrape_date": "2020-07-09",
-    "periods": 13,
+    "scrape_date": "2020-11-11",
+    "periods": 14,
     "data": {
         "committeeId": 309,
         "committeeName": "Pondera County Republican Central Cmte.",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 13,
-        "last_report_end_date": "05/25/2020",
-        "contributions": 13064.85,
-        "num_contributions": 139,
-        "contributions_19_20": 2195.0,
-        "num_contributions_19_20": 8,
-        "expenditures": 23349.08,
-        "num_expenditures": 55,
-        "expenditures_19_20": 769.6,
-        "num_expenditures_19_20": 6,
-        "cash_on_hand": 10300.07
+        "reports": 14,
+        "last_report_end_date": "10/25/2020",
+        "contributions": 12969.85,
+        "num_contributions": 134,
+        "contributions_19_20": 2220.0,
+        "num_contributions_19_20": 7,
+        "expenditures": 23710.91,
+        "num_expenditures": 57,
+        "expenditures_19_20": 1131.43,
+        "num_expenditures_19_20": 8,
+        "cash_on_hand": 9938.24
     }
 }

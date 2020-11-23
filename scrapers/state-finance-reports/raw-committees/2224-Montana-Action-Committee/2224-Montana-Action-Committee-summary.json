@@ -1,8 +1,8 @@
 {
     "slug": "2224-Montana-Action-Committee",
     "committeeName": "Montana Action Committee",
-    "scrape_date": "2020-07-09",
-    "periods": 28,
+    "scrape_date": "2020-11-11",
+    "periods": 31,
     "data": {
         "committeeId": 2224,
         "committeeName": "Montana Action Committee",
@@ -35,8 +35,8 @@
         "issues": []
     },
     "finances": {
-        "reports": 28,
-        "last_report_end_date": "06/25/2020",
+        "reports": 31,
+        "last_report_end_date": "10/25/2020",
         "contributions": 0,
         "num_contributions": 0,
         "contributions_19_20": 0,

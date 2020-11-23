@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 50980,
+        "fromDateStr": "07/01/2020",
+        "toDateStr": "10/24/2020",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 8315,
+        "candidateName": "Justice Committee of McGarvey, Heberling, Sullivan & Lacey P.C.",
+        "statusDescr": "Pending-Amended",
+        "amendedDate": 1605112974000,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "07/01/2020",
+        "end_date": "10/24/2020",
+        "receipts": 0.0,
+        "expenditures": 12229.92,
+        "cash_in_bank": -21337.92
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/09/20",
+            "Entity Name": "Montana Law PAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 838",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 10000.0,
+            "Purpose": "CONTRIBUTION FOR THE GENERAL ELECTION CYCLE",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/09/20",
+            "Entity Name": "InstyPrints",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "131 Main St",
+            "City": "Kalispell",
+            "State": "MT",
+            "Zip": "59901",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2229.92,
+            "Purpose": "Printing of letters and envelopes, and postage for a direct mailing in support of a gubernatorial candidate. ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Direct mailers",
+            "Expenditure Paid Communications Quantity": "1742 letters directly mailed.",
+            "Expenditure Paid Communications Subject Matter": "The importance of Mike Cooney as governor for legal issues impacting clients of McGarvey Law."
+        }
+    ]
+}

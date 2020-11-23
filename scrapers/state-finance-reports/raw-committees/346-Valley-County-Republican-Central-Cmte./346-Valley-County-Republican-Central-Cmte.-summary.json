@@ -1,8 +1,8 @@
 {
     "slug": "346-Valley-County-Republican-Central-Cmte.",
     "committeeName": "Valley County Republican Central Cmte.",
-    "scrape_date": "2020-07-09",
-    "periods": 14,
+    "scrape_date": "2020-11-11",
+    "periods": 16,
     "data": {
         "committeeId": 346,
         "committeeName": "Valley County Republican Central Cmte.",
@@ -41,8 +41,8 @@
         ]
     },
     "finances": {
-        "reports": 14,
-        "last_report_end_date": "06/25/2020",
+        "reports": 16,
+        "last_report_end_date": "10/30/2020",
         "contributions": 3770.0,
         "num_contributions": 33,
         "contributions_19_20": 3770.0,

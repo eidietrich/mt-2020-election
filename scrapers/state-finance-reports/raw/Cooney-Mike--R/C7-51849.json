@@ -1,0 +1,32 @@
+{
+    "data": {
+        "reportId": 51849,
+        "fromDateStr": "10/28/2020",
+        "toDateStr": "10/28/2020",
+        "formTypeCode": "C7",
+        "formTypeDescr": "Notice of Pre-Election Contributions",
+        "candidateId": 16070,
+        "candidateName": "Cooney, Mike  R",
+        "officeTitle": "Governor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "report_start_date": "10/28/2020",
+        "report_end_date": "10/28/2020",
+        "Receipts": {
+            "primary": 0.0,
+            "general": 1510.0,
+            "total": 1510.0
+        },
+        "Expenditures": {
+            "primary": 0,
+            "general": 0,
+            "total": 0
+        }
+    },
+    "contributions": "[{\"Date Paid\":\"10\\/28\\/20\",\"Entity Name\":\"Elkins, Brad\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"308 Bel Vedere Ln NE\",\"City\":\"Albuquerque\",\"State\":\"NM\",\"Zip\":\"87102\",\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Campaign Manager\",\"Employer\":\"Cooney for Montana\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":200.0,\"Amount Type\":\"IK\",\"Purpose\":\"Cameo video from Chris Christie \",\"Election Type\":\"General\",\"Total Primary\":0.0,\"Total General\":200.0,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0.0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/28\\/20\",\"Entity Name\":\"Ellestad, June\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"5565 Expedition Dr\",\"City\":\"Lolo\",\"State\":\"MT\",\"Zip\":\"59847\",\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Grant Director\",\"Employer\":\"Fort Belknap Tribal Health\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":150.0,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0.0,\"Total General\":275.0,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0.0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/28\\/20\",\"Entity Name\":\"Gary, Mo\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"11385 Trillium Ln\",\"City\":\"Lolo\",\"State\":\"MT\",\"Zip\":\"59847\",\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"RETIRED\",\"Employer\":\"Not Employed\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":100.0,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0.0,\"Total General\":150.0,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0.0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/28\\/20\",\"Entity Name\":\"House, Janet\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"21620 Polette Pl\",\"City\":\"Florence\",\"State\":\"MT\",\"Zip\":\"59833\",\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"RETIRED\",\"Employer\":\"Not Employed\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":100.0,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0.0,\"Total General\":100.0,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0.0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/28\\/20\",\"Entity Name\":\"Kumasaka, Kerri\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"PO Box 919\",\"City\":\"Boulder\",\"State\":\"MT\",\"Zip\":\"59632\",\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"MANAGER\",\"Employer\":\"Boulder Hot Springs\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":710.0,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0.0,\"Total General\":710.0,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0.0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/28\\/20\",\"Entity Name\":\"Kurth, Sid\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"2840 Two Moons Rd\",\"City\":\"Big Sky\",\"State\":\"MT\",\"Zip\":\"59716\",\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"RETIRED\",\"Employer\":\"Not Employed\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":250.0,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0.0,\"Total General\":500.0,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0.0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0
+}

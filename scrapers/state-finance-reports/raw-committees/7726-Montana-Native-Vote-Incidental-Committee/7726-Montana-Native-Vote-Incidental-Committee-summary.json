@@ -1,7 +1,7 @@
 {
     "slug": "7726-Montana-Native-Vote-Incidental-Committee",
     "committeeName": "Montana Native Vote Incidental Committee",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 1,
     "data": {
         "committeeId": 7726,
@@ -34,8 +34,8 @@
         ],
         "issues": [
             {
-                "interest": "LR-129",
-                "position": "Oppose",
+                "interest": "LR-128",
+                "position": "Support",
                 "status": "On ballot"
             },
             {
@@ -44,8 +44,8 @@
                 "status": "On ballot"
             },
             {
-                "interest": "LR-128",
-                "position": "Support",
+                "interest": "LR-129",
+                "position": "Oppose",
                 "status": "On ballot"
             }
         ]

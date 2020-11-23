@@ -1,7 +1,7 @@
 {
     "slug": "3057-Montana-Police-Protective-Assn-PAC",
     "committeeName": "Montana Police Protective Assn PAC",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 10,
     "data": {
         "committeeId": 3057,
@@ -34,14 +34,14 @@
         ],
         "issues": [
             {
-                "interest": "Support Candidates and Issues in 2014 Election cycle.",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
                 "interest": "Mary McNally - SD 24",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Candidates and Issues in 2014 Election cycle.",
+                "position": "Support",
+                "status": "Support"
             }
         ]
     },

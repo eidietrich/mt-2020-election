@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 52052,
+        "fromDateStr": "11/02/2020",
+        "toDateStr": "11/02/2020",
+        "formTypeCode": "C7E",
+        "formTypeDescr": "Notice of Pre-Election Expenditures",
+        "committeeId": 8338,
+        "candidateName": "Vote NO on LR130",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/02/2020",
+        "end_date": "11/02/2020",
+        "receipts": 0.0,
+        "expenditures": 58503.41,
+        "cash_in_bank": 151877.17
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/02/20",
+            "Entity Name": "Morel Ink",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "4824 NE 42nd Ave",
+            "City": "Portland",
+            "State": "OR",
+            "Zip": "97218",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 58503.41,
+            "Purpose": "Postcards, mailing fees & Postage",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "134,048",
+            "Expenditure Paid Communications Subject Matter": "Vote No on LR130"
+        }
+    ]
+}

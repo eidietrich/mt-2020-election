@@ -1,8 +1,8 @@
 {
     "slug": "386-Montana-Republican-Legislative-Campaign-Cmte-aka-Legislative-Campaign-Committee",
     "committeeName": "Montana Republican Legislative Campaign Cmte aka Legislative Campaign Committee ",
-    "scrape_date": "2020-07-09",
-    "periods": 23,
+    "scrape_date": "2020-11-11",
+    "periods": 29,
     "data": {
         "committeeId": 386,
         "committeeName": "Montana Republican Legislative Campaign Cmte aka Legislative Campaign Committee ",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 23,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 474284.32,
-        "num_contributions": 713,
-        "contributions_19_20": 96147.75,
-        "num_contributions_19_20": 158,
-        "expenditures": 428147.52,
-        "num_expenditures": 396,
-        "expenditures_19_20": 60524.51,
-        "num_expenditures_19_20": 75,
-        "cash_on_hand": 57096.85
+        "reports": 29,
+        "last_report_end_date": "11/03/2020",
+        "contributions": 645704.94,
+        "num_contributions": 797,
+        "contributions_19_20": 267568.37,
+        "num_contributions_19_20": 242,
+        "expenditures": 587288.69,
+        "num_expenditures": 450,
+        "expenditures_19_20": 219665.68,
+        "num_expenditures_19_20": 129,
+        "cash_on_hand": 38347.35
     }
 }

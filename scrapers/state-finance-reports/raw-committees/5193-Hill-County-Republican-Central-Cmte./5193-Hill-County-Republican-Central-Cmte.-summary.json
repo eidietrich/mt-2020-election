@@ -1,8 +1,8 @@
 {
     "slug": "5193-Hill-County-Republican-Central-Cmte.",
     "committeeName": "Hill County Republican Central Cmte.",
-    "scrape_date": "2020-07-09",
-    "periods": 13,
+    "scrape_date": "2020-11-11",
+    "periods": 16,
     "data": {
         "committeeId": 5193,
         "committeeName": "Hill County Republican Central Cmte.",
@@ -35,16 +35,16 @@
         "issues": []
     },
     "finances": {
-        "reports": 13,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 30722.94,
-        "num_contributions": 270,
-        "contributions_19_20": 7672.0,
-        "num_contributions_19_20": 72,
-        "expenditures": 34763.02,
-        "num_expenditures": 81,
-        "expenditures_19_20": 4577.67,
-        "num_expenditures_19_20": 14,
-        "cash_on_hand": 8009.74
+        "reports": 16,
+        "last_report_end_date": "09/27/2020",
+        "contributions": 32172.94,
+        "num_contributions": 272,
+        "contributions_19_20": 9122.0,
+        "num_contributions_19_20": 74,
+        "expenditures": 40762.52,
+        "num_expenditures": 86,
+        "expenditures_19_20": 10577.17,
+        "num_expenditures_19_20": 19,
+        "cash_on_hand": 3460.24
     }
 }

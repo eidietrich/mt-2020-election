@@ -1,8 +1,8 @@
 {
     "slug": "324-Sanders-County-Democrats",
     "committeeName": "Sanders County Democrats",
-    "scrape_date": "2020-07-09",
-    "periods": 13,
+    "scrape_date": "2020-11-11",
+    "periods": 16,
     "data": {
         "committeeId": 324,
         "committeeName": "Sanders County Democrats",
@@ -32,19 +32,35 @@
                 "email": ""
             }
         ],
-        "issues": []
+        "issues": [
+            {
+                "interest": "Non-partisan and local board candidates who share our vision for the future",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Candidates at local, state, and national level reflecting Democratic values",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Active community engagement and service",
+                "position": "Other",
+                "status": "Not Applicable"
+            }
+        ]
     },
     "finances": {
-        "reports": 13,
-        "last_report_end_date": "06/25/2020",
+        "reports": 16,
+        "last_report_end_date": "10/24/2020",
         "contributions": -11773.25,
         "num_contributions": 61,
         "contributions_19_20": -2922.25,
         "num_contributions_19_20": 53,
-        "expenditures": 11118.23,
-        "num_expenditures": 97,
-        "expenditures_19_20": 5298.23,
-        "num_expenditures_19_20": 53,
-        "cash_on_hand": 6859.98
+        "expenditures": 11791.46,
+        "num_expenditures": 109,
+        "expenditures_19_20": 5971.46,
+        "num_expenditures_19_20": 65,
+        "cash_on_hand": 6246.81
     }
 }

@@ -1,7 +1,7 @@
 {
     "slug": "5728-Moderie-Law-Firm",
     "committeeName": "Moderie Law Firm",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 1,
     "data": {
         "committeeId": 5728,
@@ -34,8 +34,8 @@
         ],
         "issues": [
             {
-                "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
-                "position": "Other",
+                "interest": "Dirk Sandefur - Supreme Court",
+                "position": "Support",
                 "status": "Not Applicable"
             },
             {
@@ -44,8 +44,8 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Dirk Sandefur - Supreme Court",
-                "position": "Support",
+                "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
+                "position": "Other",
                 "status": "Not Applicable"
             }
         ]

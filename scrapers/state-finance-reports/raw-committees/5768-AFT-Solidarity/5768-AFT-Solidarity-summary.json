@@ -1,8 +1,8 @@
 {
     "slug": "5768-AFT-Solidarity",
     "committeeName": "AFT Solidarity",
-    "scrape_date": "2020-07-09",
-    "periods": 20,
+    "scrape_date": "2020-11-11",
+    "periods": 23,
     "data": {
         "committeeId": 5768,
         "committeeName": "AFT Solidarity",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 20,
-        "last_report_end_date": "06/25/2020",
+        "reports": 23,
+        "last_report_end_date": "10/24/2020",
         "contributions": 0,
         "num_contributions": 0,
         "contributions_19_20": 0,
         "num_contributions_19_20": 0,
-        "expenditures": 463942.85,
-        "num_expenditures": 5,
-        "expenditures_19_20": 13942.85,
-        "num_expenditures_19_20": 2,
-        "cash_on_hand": -463942.85
+        "expenditures": 1164942.85,
+        "num_expenditures": 9,
+        "expenditures_19_20": 714942.85,
+        "num_expenditures_19_20": 6,
+        "cash_on_hand": -1164942.85
     }
 }

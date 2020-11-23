@@ -1,0 +1,50 @@
+{
+    "slug": "8882-Montana-Citizens-for-Right-to-Work",
+    "committeeName": "Montana Citizens for Right to Work",
+    "scrape_date": "2020-11-11",
+    "periods": 4,
+    "data": {
+        "committeeId": 8882,
+        "committeeName": "Montana Citizens for Right to Work",
+        "committeeAddress": "PO Box 624, Belgrade, MT 59714",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "Y",
+        "electionYear": "2020",
+        "amendedDate": 1590127200000,
+        "entityFullName": "Montana Citizens for Right to Work",
+        "entityCity": "Belgrade",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "POPE, RANDAL Alan",
+                "address": "PO Box Belgrade, MT  59714",
+                "phone": "(406) 599-8511",
+                "email": "randy.rtw@gmail.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": []
+    },
+    "finances": {
+        "reports": 4,
+        "last_report_end_date": "11/03/2020",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 36395.11,
+        "num_expenditures": 6,
+        "expenditures_19_20": 36395.11,
+        "num_expenditures_19_20": 6,
+        "cash_on_hand": -36395.11
+    }
+}

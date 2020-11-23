@@ -24,7 +24,7 @@
   },
   "scripts": {
     "start": "cd app && npm start",
-    "refresh": "npm run refresh:issues && npm run refresh:text && npm run refresh:links && npm run refresh:data",
+    "refresh": "npm run refresh:issues && npm run refresh:text && npm run refresh:links && npm run refresh:data && npm run refresh:highlights",
     "refresh:data": "node process/prep-app-data.js",
     "refresh:links": "node scrapers/coverage-outside/fetch-coverage-list.js && node process/prep-outside-links.js",
     "refresh:highlights": "node scrapers/coverage-highlights/fetch-highlights.js && node process/prep-highlight-links.js",

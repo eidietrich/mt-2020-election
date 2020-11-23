@@ -1,8 +1,8 @@
 {
     "slug": "241-Custer-County-Republican-Women",
     "committeeName": "Custer County Republican Women",
-    "scrape_date": "2020-07-09",
-    "periods": 13,
+    "scrape_date": "2020-11-11",
+    "periods": 15,
     "data": {
         "committeeId": 241,
         "committeeName": "Custer County Republican Women",
@@ -19,10 +19,10 @@
         "officers": [
             {
                 "position": "Treasurer",
-                "name": "Deesten, Janice",
-                "address": "2220 Pearl St Miles City, MT  59301",
-                "phone": "(406) 234-1617",
-                "email": "jdeesten@midrivers.com"
+                "name": "Phipps, Mollie",
+                "address": "428 Road 557 Miles City, MT  59301",
+                "phone": "(406) 853-2152",
+                "email": "amphipps@rangeweb.net"
             },
             {
                 "position": "Deputy Treasurer",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 13,
-        "last_report_end_date": "03/25/2020",
+        "reports": 15,
+        "last_report_end_date": "06/25/2020",
         "contributions": 4335.4,
         "num_contributions": 33,
         "contributions_19_20": 2669.4,
         "num_contributions_19_20": 19,
-        "expenditures": 6169.19,
-        "num_expenditures": 43,
-        "expenditures_19_20": 3721.14,
-        "num_expenditures_19_20": 27,
-        "cash_on_hand": 671.21
+        "expenditures": 6524.19,
+        "num_expenditures": 45,
+        "expenditures_19_20": 4076.14,
+        "num_expenditures_19_20": 29,
+        "cash_on_hand": 316.21
     }
 }

@@ -1,8 +1,8 @@
 {
     "slug": "7551-Gallatin-County-Republican-Women",
     "committeeName": "Gallatin County Republican Women",
-    "scrape_date": "2020-07-09",
-    "periods": 5,
+    "scrape_date": "2020-11-11",
+    "periods": 6,
     "data": {
         "committeeId": 7551,
         "committeeName": "Gallatin County Republican Women",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 5,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 23494.61,
-        "num_contributions": 406,
-        "contributions_19_20": 12966.0,
-        "num_contributions_19_20": 357,
-        "expenditures": 17723.04,
-        "num_expenditures": 91,
-        "expenditures_19_20": 13389.83,
-        "num_expenditures_19_20": 75,
-        "cash_on_hand": 6146.57
+        "reports": 6,
+        "last_report_end_date": "08/25/2020",
+        "contributions": 22697.61,
+        "num_contributions": 361,
+        "contributions_19_20": 12169.0,
+        "num_contributions_19_20": 312,
+        "expenditures": 18122.78,
+        "num_expenditures": 99,
+        "expenditures_19_20": 13789.57,
+        "num_expenditures_19_20": 83,
+        "cash_on_hand": 6075.33
     }
 }

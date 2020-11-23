@@ -1,7 +1,7 @@
 {
     "slug": "4796-Safe-Montana",
     "committeeName": "Safe Montana",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 6,
     "data": {
         "committeeId": 4796,
@@ -34,14 +34,14 @@
         ],
         "issues": [
             {
-                "interest": "I-182",
-                "position": "Oppose",
-                "status": "On ballot, approved"
-            },
-            {
                 "interest": "I-176 Safe Montana Ballot Initaitive",
                 "position": "Support",
                 "status": "On ballot"
+            },
+            {
+                "interest": "I-182",
+                "position": "Oppose",
+                "status": "On ballot, approved"
             }
         ]
     },

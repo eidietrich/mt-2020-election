@@ -1,7 +1,7 @@
 {
     "slug": "5820-Justice-Committee-of-McGarvey-Heberling-Sullivan-&-Lacey-P.C.",
     "committeeName": "Justice Committee of McGarvey, Heberling, Sullivan & Lacey, P.C.",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 4,
     "data": {
         "committeeId": 5820,
@@ -34,11 +34,6 @@
         ],
         "issues": [
             {
-                "interest": "Dedicated to promote greater justice, access to justice for underprivileged, equal protection of laws, impartiality, jury trial system, public discourse, civil rights, environment.",
-                "position": "Other",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Jim Shea - Supreme Court",
                 "position": "Support",
                 "status": "On ballot"
@@ -47,6 +42,11 @@
                 "interest": "Mike McGrath",
                 "position": "Support",
                 "status": "On ballot"
+            },
+            {
+                "interest": "Dedicated to promote greater justice, access to justice for underprivileged, equal protection of laws, impartiality, jury trial system, public discourse, civil rights, environment.",
+                "position": "Other",
+                "status": "Not Applicable"
             },
             {
                 "interest": "Dirk Sandefur - Supreme Court",

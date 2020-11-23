@@ -1,8 +1,8 @@
 {
     "slug": "1196-MTA-Hospitality-PAC",
     "committeeName": "MTA Hospitality PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 17,
+    "scrape_date": "2020-11-11",
+    "periods": 20,
     "data": {
         "committeeId": 1196,
         "committeeName": "MTA Hospitality PAC",
@@ -34,27 +34,17 @@
         ],
         "issues": [
             {
-                "interest": "Frank Fleming for HD 51",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kimberly Dudik for HD94",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jill Cohenour for SD 42",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Tom Jacobson for SD11",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Doug Kary SD 22",
+                "interest": "Support candidates for local and statewide office as well as political party support",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Mark Sweeney for HD 77",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -64,38 +54,48 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jed Hinkle for Senate",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Bill Mercer for HD 46",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Mark Sweeney for HD 77",
+                "interest": "Jed Hinkle for Senate",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Support candidates for local and statewide office as well as political party support",
+                "interest": "Doug Kary SD 22",
                 "position": "Support",
-                "status": "Support"
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jill Cohenour for SD 42",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kimberly Dudik for HD94",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Frank Fleming for HD 51",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 17,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 4140.0,
-        "num_contributions": 381,
-        "contributions_19_20": 7570.0,
-        "num_contributions_19_20": 190,
-        "expenditures": 41186.54,
-        "num_expenditures": 121,
-        "expenditures_19_20": 15027.92,
-        "num_expenditures_19_20": 52,
-        "cash_on_hand": 2661.72
+        "reports": 20,
+        "last_report_end_date": "10/26/2020",
+        "contributions": 6140.0,
+        "num_contributions": 395,
+        "contributions_19_20": 9570.0,
+        "num_contributions_19_20": 204,
+        "expenditures": 43196.54,
+        "num_expenditures": 123,
+        "expenditures_19_20": 17037.92,
+        "num_expenditures_19_20": 54,
+        "cash_on_hand": 2671.72
     }
 }

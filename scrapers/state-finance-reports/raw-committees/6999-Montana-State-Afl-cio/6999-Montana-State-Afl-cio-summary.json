@@ -1,8 +1,8 @@
 {
     "slug": "6999-Montana-State-Afl-cio",
     "committeeName": "Montana State Afl-cio",
-    "scrape_date": "2020-07-09",
-    "periods": 11,
+    "scrape_date": "2020-11-11",
+    "periods": 19,
     "data": {
         "committeeId": 6999,
         "committeeName": "Montana State Afl-cio",
@@ -34,6 +34,11 @@
         ],
         "issues": [
             {
+                "interest": "Gianforte, Greg",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
                 "interest": "Mike Cooney/Dems Primary",
                 "position": "Support",
                 "status": "Support"
@@ -46,16 +51,16 @@
         ]
     },
     "finances": {
-        "reports": 11,
-        "last_report_end_date": "06/26/2020",
+        "reports": 19,
+        "last_report_end_date": "11/04/2020",
         "contributions": 500.0,
         "num_contributions": 1,
         "contributions_19_20": 0.0,
         "num_contributions_19_20": 0,
-        "expenditures": 101000.0,
-        "num_expenditures": 5,
-        "expenditures_19_20": 95000.0,
-        "num_expenditures_19_20": 3,
-        "cash_on_hand": -100500.0
+        "expenditures": 473000.0,
+        "num_expenditures": 17,
+        "expenditures_19_20": 467000.0,
+        "num_expenditures_19_20": 15,
+        "cash_on_hand": -472500.0
     }
 }

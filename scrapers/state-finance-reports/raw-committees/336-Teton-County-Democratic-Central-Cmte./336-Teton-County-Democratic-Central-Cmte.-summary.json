@@ -1,7 +1,7 @@
 {
     "slug": "336-Teton-County-Democratic-Central-Cmte.",
     "committeeName": "Teton County Democratic Central Cmte.",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 6,
     "data": {
         "committeeId": 336,
@@ -34,7 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "Andy Shirtliff for PSC # 5",
+                "interest": "Kaercher for PSC",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jon Tester for US Senate",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -44,12 +49,7 @@
                 "status": "Support"
             },
             {
-                "interest": "Barbara Bassett for HD 24",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Jon Tester for US Senate",
+                "interest": "Rex Renk for Clerk of the Supreme Court",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -59,17 +59,17 @@
                 "status": "Support"
             },
             {
-                "interest": "Rex Renk for Clerk of the Supreme Court",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kaercher for PSC",
+                "interest": "Andy Shirtliff for PSC # 5",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
                 "interest": "Rick Kerr HD 19",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Barbara Bassett for HD 24",
                 "position": "Support",
                 "status": "Support"
             }

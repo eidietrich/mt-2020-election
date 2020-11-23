@@ -7,8 +7,8 @@
         "formTypeDescr": "Political Committee Finance Report",
         "committeeId": 7987,
         "candidateName": "Montana United",
-        "statusDescr": "Filed",
-        "amendedDate": null,
+        "statusDescr": "Amended",
+        "amendedDate": 1604531413000,
         "totalContrLessThan35": 0.0,
         "totalIndivContrLessThan35": 0.0,
         "grandTotalLessThan35": 0.0,
@@ -23,5 +23,25 @@
         "cash_in_bank": 371.72
     },
     "contributions": [],
-    "expenditures": []
+    "expenditures": [
+        {
+            "Date Paid": "03/24/20",
+            "Entity Name": "Redding, Edward",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1370 Bitterroot Rd",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59602",
+            "Zip4": "",
+            "Expenditure Type": "Debts and Loans Not Yet Paid",
+            "Amount": 920.0,
+            "Purpose": "Website development and hosting",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
 }

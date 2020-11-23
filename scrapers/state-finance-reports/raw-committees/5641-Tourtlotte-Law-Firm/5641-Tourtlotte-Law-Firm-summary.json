@@ -1,7 +1,7 @@
 {
     "slug": "5641-Tourtlotte-Law-Firm",
     "committeeName": "Tourtlotte Law Firm",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 6,
     "data": {
         "committeeId": 5641,
@@ -34,14 +34,14 @@
         ],
         "issues": [
             {
-                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system. ",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
                 "interest": "Dirk Sandefur - Supreme Court",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system. ",
+                "position": "Support",
+                "status": "Support"
             },
             {
                 "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",

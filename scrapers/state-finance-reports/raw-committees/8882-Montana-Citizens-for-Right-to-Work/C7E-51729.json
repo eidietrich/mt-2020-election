@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 51729,
+        "fromDateStr": "10/26/2020",
+        "toDateStr": "11/03/2020",
+        "formTypeCode": "C7E",
+        "formTypeDescr": "Notice of Pre-Election Expenditures",
+        "committeeId": 8882,
+        "candidateName": "Montana Citizens for Right to Work",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/26/2020",
+        "end_date": "11/03/2020",
+        "receipts": 0.0,
+        "expenditures": 7071.98,
+        "cash_in_bank": -36395.11
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/28/20",
+            "Entity Name": "Montana Citizens for Right to Work",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 624",
+            "City": "Belgrade",
+            "State": "MT",
+            "Zip": "59714",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 7071.98,
+            "Purpose": "Mail reporting survey results to our supporters. We do not support or oppose any candidate in this mail.",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "USPS",
+            "Expenditure Paid Communications Quantity": "15916",
+            "Expenditure Paid Communications Subject Matter": "Reporting survey results to our supporters for candidates; K Regier, G Quist, C Friedel, M McDonald, J Butterbaugh, E McClafferty, S Nordwick, M Sweeney, D Solomon, C Porter Gay, L Rekston, G Browning, S Gist, J Krotkov, F Fleming, A Guiliano, J Read, L Pavlock, K Whitman, L Conley, B Tschida, L Hansen, C Owens, D Fern, E Buttrey, J Horn, L Verrill-Rhys, Jessica Karjala, J Lamm, L Bishop, J Hinkle, C Campbell, D Rivera, R Farris-Olsen, D Westlake, M Funk, D Gaub, K Abbott, C Hull and M Dunwell."
+        }
+    ]
+}

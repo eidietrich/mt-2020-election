@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 50340,
+        "fromDateStr": "08/26/2020",
+        "toDateStr": "09/25/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 410,
+        "candidateName": "Montana Independent Bankers Pac (MIB- PAC)",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "08/26/2020",
+        "end_date": "09/25/2020",
+        "receipts": 0.0,
+        "expenditures": 2000.0,
+        "cash_in_bank": 3834.05
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "09/10/20",
+            "Entity Name": "arntzen, Elsie",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "po box 1597",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 500.0,
+            "Purpose": "campaign contribution for arntzen for state superintendent",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "campaign contribution",
+            "Expenditure Paid Communications Quantity": "1",
+            "Expenditure Paid Communications Subject Matter": "campaign contribution for for arntzen for state superintendent"
+        },
+        {
+            "Date Paid": "09/03/20",
+            "Entity Name": "Montana republican leadership committee",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "po box 6656",
+            "City": "helena",
+            "State": "MT",
+            "Zip": "59604",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 1500.0,
+            "Purpose": "payment for golfing at MRLCC golf tournament helena",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "golf tournament ",
+            "Expenditure Paid Communications Quantity": "1 -- golf team of four",
+            "Expenditure Paid Communications Subject Matter": "payment for registration for golfing tournament in helena"
+        }
+    ]
+}

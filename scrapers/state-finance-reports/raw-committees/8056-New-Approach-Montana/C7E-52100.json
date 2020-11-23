@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 52100,
+        "fromDateStr": "11/02/2020",
+        "toDateStr": "11/02/2020",
+        "formTypeCode": "C7E",
+        "formTypeDescr": "Notice of Pre-Election Expenditures",
+        "committeeId": 8056,
+        "candidateName": "New Approach Montana",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/02/2020",
+        "end_date": "11/02/2020",
+        "receipts": 0.0,
+        "expenditures": 95733.62,
+        "cash_in_bank": 370526.31
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/02/20",
+            "Entity Name": "Moxie Media Inc",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 30084",
+            "City": "Seattle",
+            "State": "WA",
+            "Zip": "98113",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 70590.77,
+            "Purpose": "Mail pieces and postage",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Mail pieces",
+            "Expenditure Paid Communications Quantity": "213,414 pieces",
+            "Expenditure Paid Communications Subject Matter": "Messages in support of CI-118 and I-190"
+        },
+        {
+            "Date Paid": "11/02/20",
+            "Entity Name": "Savvy Communications",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "41-750 Rancho Las Palmas Drive, Suite E-3",
+            "City": "Rancho Mirage",
+            "State": "CA",
+            "Zip": "92270",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 25142.85,
+            "Purpose": "TEXT MESSAGES TO VOTERS",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Text messages to voter cell phones",
+            "Expenditure Paid Communications Quantity": "149024 text messages on Nov. 2",
+            "Expenditure Paid Communications Subject Matter": "Messages in support of CI-118 and I-190"
+        }
+    ]
+}

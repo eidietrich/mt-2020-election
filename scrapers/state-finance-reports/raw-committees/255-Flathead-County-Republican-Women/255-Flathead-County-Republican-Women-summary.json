@@ -1,8 +1,8 @@
 {
     "slug": "255-Flathead-County-Republican-Women",
     "committeeName": "Flathead County Republican Women",
-    "scrape_date": "2020-07-09",
-    "periods": 22,
+    "scrape_date": "2020-11-11",
+    "periods": 25,
     "data": {
         "committeeId": 255,
         "committeeName": "Flathead County Republican Women",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 22,
-        "last_report_end_date": "06/25/2020",
-        "contributions": -55585.82,
-        "num_contributions": 301,
-        "contributions_19_20": -5103.41,
-        "num_contributions_19_20": 114,
-        "expenditures": 88849.4,
-        "num_expenditures": 212,
-        "expenditures_19_20": 18342.59,
-        "num_expenditures_19_20": 51,
-        "cash_on_hand": 11223.83
+        "reports": 25,
+        "last_report_end_date": "10/25/2020",
+        "contributions": -51632.82,
+        "num_contributions": 342,
+        "contributions_19_20": -1150.41,
+        "num_contributions_19_20": 155,
+        "expenditures": 89719.56,
+        "num_expenditures": 218,
+        "expenditures_19_20": 19212.75,
+        "num_expenditures_19_20": 57,
+        "cash_on_hand": 14351.67
     }
 }

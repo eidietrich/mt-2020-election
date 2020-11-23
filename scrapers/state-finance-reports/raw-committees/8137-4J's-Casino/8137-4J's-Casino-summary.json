@@ -1,7 +1,7 @@
 {
     "slug": "8137-4J's-Casino",
     "committeeName": "4J's Casino",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 1,
     "data": {
         "committeeId": 8137,
@@ -36,7 +36,7 @@
             {
                 "interest": "Support Montana First Action",
                 "position": "Support",
-                "status": "Support"
+                "status": "Not Applicable"
             }
         ]
     },

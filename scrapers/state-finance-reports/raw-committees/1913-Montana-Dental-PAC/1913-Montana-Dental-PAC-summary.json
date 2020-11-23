@@ -1,8 +1,8 @@
 {
     "slug": "1913-Montana-Dental-PAC",
     "committeeName": "Montana Dental PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 18,
+    "scrape_date": "2020-11-11",
+    "periods": 19,
     "data": {
         "committeeId": 1913,
         "committeeName": "Montana Dental PAC",
@@ -34,27 +34,17 @@
         ],
         "issues": [
             {
-                "interest": "Steve Bullock - Governor",
-                "position": "Other",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "bryce bennett",
+                "interest": "darrold hutchinson",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "ellie hill smith",
+                "interest": "gene vuckovich",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "mike cuffe",
-                "position": "Other",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "jeff wellborn",
+                "interest": "willis curdy",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -64,77 +54,12 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "jonathon windy boy",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "roger webb",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "donald roberts",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "frank garner",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "brad tschida",
                 "position": "Other",
                 "status": "Support"
             },
             {
-                "interest": "darrold hutchinson",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "jim keane",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "kirk b. waggonner ",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "janet ellis",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "moffie funk ",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "austin knudsen",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "don bartel",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "nancy ballance",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "rob cook",
-                "position": "Other",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "gene vuckovich",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -144,23 +69,48 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "ron ehli",
+                "interest": "jim keane",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "jenny eck",
+                "interest": "frank garner",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "steve lavin",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "kelly mccarthy",
+                "interest": "kimberly p. dudik",
                 "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "jeff wellborn",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "don bartel",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "jeff essmann",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "bryce bennett",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "moffie funk ",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "jonathon windy boy",
+                "position": "Support",
                 "status": "Not Applicable"
             },
             {
@@ -174,33 +124,18 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "dennis lenz",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "kimberly p. dudik",
-                "position": "Other",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "nate mcconnell",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "dick barrett",
                 "position": "Other",
                 "status": "Not Applicable"
             },
             {
-                "interest": "jeff essmann",
+                "interest": "donald roberts",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "david \"doc\" moore",
-                "position": "Other",
+                "interest": "ellie hill smith",
+                "position": "Support",
                 "status": "Not Applicable"
             },
             {
@@ -209,23 +144,88 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "willis curdy",
+                "interest": "rob cook",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "kirk b. waggonner ",
                 "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "jenny eck",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "nate mcconnell",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "mike cuffe",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "steve lavin",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "dennis lenz",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "nancy ballance",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steve Bullock - Governor",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "roger webb",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "janet ellis",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "kelly mccarthy",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "ron ehli",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "david \"doc\" moore",
+                "position": "Other",
                 "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 18,
-        "last_report_end_date": "06/04/2020",
+        "reports": 19,
+        "last_report_end_date": "08/30/2020",
         "contributions": 10042.0,
         "num_contributions": 195,
         "contributions_19_20": 5600.0,
         "num_contributions_19_20": 102,
-        "expenditures": 29814.61,
-        "num_expenditures": 82,
-        "expenditures_19_20": 14988.34,
-        "num_expenditures_19_20": 33,
-        "cash_on_hand": 9720.39
+        "expenditures": 32694.61,
+        "num_expenditures": 98,
+        "expenditures_19_20": 17868.34,
+        "num_expenditures_19_20": 49,
+        "cash_on_hand": 6840.39
     }
 }

@@ -1,8 +1,8 @@
 {
     "slug": "2810-Republican-Headquarters-PAC",
     "committeeName": "Republican Headquarters PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 19,
+    "scrape_date": "2020-11-11",
+    "periods": 22,
     "data": {
         "committeeId": 2810,
         "committeeName": "Republican Headquarters PAC",
@@ -41,8 +41,8 @@
         ]
     },
     "finances": {
-        "reports": 19,
-        "last_report_end_date": "06/25/2020",
+        "reports": 22,
+        "last_report_end_date": "10/25/2020",
         "contributions": 2095.0,
         "num_contributions": 3,
         "contributions_19_20": 0.0,

@@ -1,8 +1,8 @@
 {
     "slug": "6384-Forward-Montana",
     "committeeName": "Forward Montana",
-    "scrape_date": "2020-07-09",
-    "periods": 23,
+    "scrape_date": "2020-11-11",
+    "periods": 26,
     "data": {
         "committeeId": 6384,
         "committeeName": "Forward Montana",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 23,
-        "last_report_end_date": "06/30/2020",
+        "reports": 26,
+        "last_report_end_date": "10/30/2020",
         "contributions": 68055.01,
         "num_contributions": 7,
         "contributions_19_20": 6852.13,
         "num_contributions_19_20": 3,
-        "expenditures": 121218.12,
-        "num_expenditures": 273,
-        "expenditures_19_20": 30540.08,
-        "num_expenditures_19_20": 32,
-        "cash_on_hand": -28284.02
+        "expenditures": 125553.52,
+        "num_expenditures": 280,
+        "expenditures_19_20": 34875.48,
+        "num_expenditures_19_20": 39,
+        "cash_on_hand": -32619.42
     }
 }

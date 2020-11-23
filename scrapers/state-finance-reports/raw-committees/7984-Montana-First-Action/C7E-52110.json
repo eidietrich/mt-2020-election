@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 52110,
+        "fromDateStr": "11/02/2020",
+        "toDateStr": "11/02/2020",
+        "formTypeCode": "C7E",
+        "formTypeDescr": "Notice of Pre-Election Expenditures",
+        "committeeId": 7984,
+        "candidateName": "Montana First Action",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/02/2020",
+        "end_date": "11/02/2020",
+        "receipts": 0.0,
+        "expenditures": 1650.9,
+        "cash_in_bank": 150843.91
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/02/20",
+            "Entity Name": "Burnt Timber Consulting, LLC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 5315",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59604",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 700.0,
+            "Purpose": "November Bookkeeping & Compliance",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "11/02/20",
+            "Entity Name": "The James Brown Law Office, PLLC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "30 S  Ewing Street Suite 100",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 950.9,
+            "Purpose": "Legal services",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 50812,
+        "fromDateStr": "09/26/2020",
+        "toDateStr": "10/25/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 5897,
+        "candidateName": "Missoula County Republican Central Committee",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/26/2020",
+        "end_date": "10/25/2020",
+        "receipts": 0.0,
+        "expenditures": 2127.01,
+        "cash_in_bank": 9744.36
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/14/20",
+            "Entity Name": "FreedomVoice",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "5600 Avenida Encinas #170",
+            "City": "Carlsbad",
+            "State": "CA",
+            "Zip": "92008",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 9.51,
+            "Purpose": "Cloud phone service - Oct",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/09/20",
+            "Entity Name": "Missoulian",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "500 S Higgins",
+            "City": "Missoula",
+            "State": "MT",
+            "Zip": "59801",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2117.5,
+            "Purpose": "Display ad to run Oct. 11, 2020 ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Missoulian print ad in voter guide supplement",
+            "Expenditure Paid Communications Quantity": "One full back page of supplement",
+            "Expenditure Paid Communications Subject Matter": "Photos, messages from local Republican candidates: Denley Loge, HD 14; Gary Wanberg, HD 89; Lana Hamilton, HD 90; Bethanie Wanberg, HD 91; Mike Hopkins, HD 92; Karen Sherman, HD 94; Rebecca Dawson, HD 95; Kathy Whitman, HD 96;  Brad Tschida, HD 97;Nancy Burgoyne, HD 98; David Doc Moore, HD 99; Carol Minjares, HD 100; Susan Reneau, SD 45;Niki Sardot, SD 46; Dan Salomon, SD 47; Alan Ault, Missoula County Commissioner "
+        }
+    ]
+}

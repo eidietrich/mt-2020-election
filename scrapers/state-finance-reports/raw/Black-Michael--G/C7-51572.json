@@ -1,0 +1,32 @@
+{
+    "data": {
+        "reportId": 51572,
+        "fromDateStr": "10/23/2020",
+        "toDateStr": "10/25/2020",
+        "formTypeCode": "C7",
+        "formTypeDescr": "Notice of Pre-Election Contributions",
+        "candidateId": 16010,
+        "candidateName": "Black, Michael  G",
+        "officeTitle": "Supreme Court Justice No. 05",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "report_start_date": "10/23/2020",
+        "report_end_date": "10/25/2020",
+        "Receipts": {
+            "primary": 40.0,
+            "general": 810.0,
+            "total": 850.0
+        },
+        "Expenditures": {
+            "primary": 0,
+            "general": 0,
+            "total": 0
+        }
+    },
+    "contributions": "[{\"Date Paid\":\"10\\/23\\/20\",\"Entity Name\":\"Anderson, Sandra K\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"PO Box 190\",\"City\":\"Miles City\",\"State\":\"MT\",\"Zip\":59301,\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"owner\",\"Employer\":\"Great Northern Drilling Co.\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0,\"Total General\":100,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/24\\/20\",\"Entity Name\":\"Bjornson, David\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"2809 Great Northern Loop Ste 100\",\"City\":\"Missoula\",\"State\":\"MT\",\"Zip\":59808,\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Attorney\",\"Employer\":\"self\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":150,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":100,\"Total General\":150,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/23\\/20\",\"Entity Name\":\"Evans, Patrick E\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"1421 Norman Park Dr\",\"City\":\"Billings\",\"State\":\"MT\",\"Zip\":59102,\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Retired\",\"Employer\":\"Retired\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0,\"Total General\":100,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/23\\/20\",\"Entity Name\":\"Frampton, Robert\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"1291 N Michigan Avenue\",\"City\":\"Pasadena\",\"State\":\"CA\",\"Zip\":91104,\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Retired\",\"Employer\":\"Retired\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0,\"Total General\":100,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/24\\/20\",\"Entity Name\":\"Smith, Edwin\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"630 Flowerree St\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59601,\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Retired\",\"Employer\":\"Retired\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":200,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0,\"Total General\":200,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/23\\/20\",\"Entity Name\":\"Wallace, Stephen L\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"PO Box 1279\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59624,\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Attorney\",\"Employer\":\"Retired\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":40,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"Primary\",\"Total Primary\":40,\"Total General\":360,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/23\\/20\",\"Entity Name\":\"Wallace, Stephen L\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"PO Box 1279\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59624,\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Attorney\",\"Employer\":\"Retired\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":160,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":40,\"Total General\":360,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0.0
+}

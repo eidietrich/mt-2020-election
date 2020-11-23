@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 50806,
+        "fromDateStr": "08/26/2020",
+        "toDateStr": "09/25/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 385,
+        "candidateName": "Kids Education Yes",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "08/26/2020",
+        "end_date": "09/25/2020",
+        "receipts": 0.0,
+        "expenditures": 19.96,
+        "cash_in_bank": 9918.52
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "08/26/20",
+            "Entity Name": "Facebook",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1 Hacker Way",
+            "City": "Menlo Park",
+            "State": "CA",
+            "Zip": "94025",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 19.96,
+            "Purpose": "FB advertising",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Digital",
+            "Expenditure Paid Communications Quantity": "Date range Aug 26-Aug 31 2020",
+            "Expenditure Paid Communications Subject Matter": "\"Kids Education Yes and our community would like to thank you.\""
+        }
+    ]
+}

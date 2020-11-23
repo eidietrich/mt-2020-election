@@ -1,8 +1,8 @@
 {
     "slug": "8418-Conservatives-United-for-Richland-County",
     "committeeName": "Conservatives United for Richland County ",
-    "scrape_date": "2020-07-09",
-    "periods": 3,
+    "scrape_date": "2020-11-11",
+    "periods": 4,
     "data": {
         "committeeId": 8418,
         "committeeName": "Conservatives United for Richland County ",
@@ -34,13 +34,8 @@
         ],
         "issues": [
             {
-                "interest": "Joel Krautter",
+                "interest": "Walt McNutt",
                 "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Brian Ler",
-                "position": "Support",
                 "status": "On ballot"
             },
             {
@@ -49,15 +44,20 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Walt McNutt",
+                "interest": "Brian Ler",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Joel Krautter",
                 "position": "Oppose",
                 "status": "On ballot"
             }
         ]
     },
     "finances": {
-        "reports": 3,
-        "last_report_end_date": "06/30/2020",
+        "reports": 4,
+        "last_report_end_date": "07/30/2020",
         "contributions": 3850.0,
         "num_contributions": 7,
         "contributions_19_20": 3850.0,

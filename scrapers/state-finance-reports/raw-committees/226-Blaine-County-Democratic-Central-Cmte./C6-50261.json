@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 50261,
+        "fromDateStr": "06/26/2020",
+        "toDateStr": "08/25/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 226,
+        "candidateName": "Blaine County Democratic Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/26/2020",
+        "end_date": "08/25/2020",
+        "receipts": 0.0,
+        "expenditures": 103.5,
+        "cash_in_bank": 1741.41
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "08/07/20",
+            "Entity Name": "Blaine County Journal",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "420 Indiana",
+            "City": "Chinook",
+            "State": "MT",
+            "Zip": "59523",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 103.5,
+            "Purpose": "single add for Blaine County Democratic Central Committee Zoom meeting.",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Blaine County Journal",
+            "Expenditure Paid Communications Quantity": "One add on 08/12/20",
+            "Expenditure Paid Communications Subject Matter": "Advertisement for public to join committee Zoom meeting to hear candidate for Secretary of State, Bryce Bennett."
+        }
+    ]
+}

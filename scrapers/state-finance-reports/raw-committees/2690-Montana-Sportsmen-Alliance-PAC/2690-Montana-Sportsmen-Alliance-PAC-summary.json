@@ -1,8 +1,8 @@
 {
     "slug": "2690-Montana-Sportsmen-Alliance-PAC",
     "committeeName": "Montana Sportsmen Alliance PAC ",
-    "scrape_date": "2020-07-09",
-    "periods": 22,
+    "scrape_date": "2020-11-11",
+    "periods": 23,
     "data": {
         "committeeId": 2690,
         "committeeName": "Montana Sportsmen Alliance PAC ",
@@ -41,8 +41,8 @@
         ]
     },
     "finances": {
-        "reports": 22,
-        "last_report_end_date": "06/25/2020",
+        "reports": 23,
+        "last_report_end_date": "11/03/2020",
         "contributions": 3080.0,
         "num_contributions": 22,
         "contributions_19_20": 0.0,

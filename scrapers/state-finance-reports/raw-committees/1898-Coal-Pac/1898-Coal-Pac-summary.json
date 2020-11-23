@@ -1,8 +1,8 @@
 {
     "slug": "1898-Coal-Pac",
     "committeeName": "Coal Pac",
-    "scrape_date": "2020-07-09",
-    "periods": 22,
+    "scrape_date": "2020-11-11",
+    "periods": 24,
     "data": {
         "committeeId": 1898,
         "committeeName": "Coal Pac",
@@ -34,12 +34,32 @@
         ],
         "issues": [
             {
+                "interest": "Steve Fitzpatrick for SD 10",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Brad Hamlett HD 23",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Terry Gauthier for SD 40",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ed Buttrey for HD 21",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Ross Fitzgerald for HD 17",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Mike Hopkins for HD 92",
+                "interest": "Tom Richmond for SD 28",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -49,12 +69,42 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Steve Fitzpatrick for SD 10",
+                "interest": "Frank Garner for HD7",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Bruce Grubbs for HD68",
+                "interest": "Dan Salomon for SD 47",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steve Daines for U.S.Senate",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Geri Custer for HD 39",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jason Small for SD 21",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Joel Krautter for HD 35",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mike Hopkins for HD 92",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Julie Dooling for HD 70",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -64,7 +114,12 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Frank Garner for HD7",
+                "interest": "Bruce Grubbs for HD68",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Nancy Ballance for SD 44",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -79,70 +134,15 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Tom Richmond for SD 28",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Joel Krautter for HD 35",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Terry Gauthier for SD 40",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Dan Salomon for SD 47",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Geri Custer for HD 39",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Nancy Ballance for SD 44",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Julie Dooling for HD 70",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jason Small for SD 21",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Steve Daines for U.S.Senate",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Ed Buttrey for HD 21",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Bruce Tutvedt for HD6",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Brad Hamlett HD 23",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 22,
-        "last_report_end_date": "06/25/2020",
+        "reports": 24,
+        "last_report_end_date": "09/30/2020",
         "contributions": 36282.5,
         "num_contributions": 114,
         "contributions_19_20": 12092.5,

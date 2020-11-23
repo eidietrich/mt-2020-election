@@ -1,8 +1,8 @@
 {
     "slug": "2118-Montana-Farm-Bureau-Federation-Pac-aka-Montana-Farm-Bureau-PAC",
     "committeeName": "Montana Farm Bureau Federation Pac aka Montana Farm Bureau PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 27,
+    "scrape_date": "2020-11-11",
+    "periods": 30,
     "data": {
         "committeeId": 2118,
         "committeeName": "Montana Farm Bureau Federation Pac aka Montana Farm Bureau PAC",
@@ -34,17 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "Adam Hertz for HD 96",
+                "interest": "Jason Small for SD 21",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Pat Riley for HD 40",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Joel Krautter for HD 35",
+                "interest": "Geraldine Custer for HD39",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -54,44 +49,14 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Dan Bartel for HD 29",
+                "interest": "Sue Vinton for HD 56",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "James O'Hara for HD 27",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Walt Sales for HD 69",
+                "interest": "Ray Shaw for HD71",
                 "position": "Support",
                 "status": "On ballot"
-            },
-            {
-                "interest": "Elsie Arntzen for State Superintendent",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Ryan Osmundson for SD 15",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Bruce Grubbs for House District 68",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Greg Hertz for HD12",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Steve Fitzpatrick for SD10",
-                "position": "Support",
-                "status": "Not Applicable"
             },
             {
                 "interest": "Corey Stapleton for Secretary of State",
@@ -104,67 +69,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Ross Fitzgerald for HD 17",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Don Roberts \u2013 SD 26",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Dan Salomon for SD 47",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jon Knokey for HD 65",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kristen Juras for Supreme Court",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Ray Shaw for HD71",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Geraldine Custer for HD39",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Wendy McKamey for HD19",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Donna Huston for SD 25",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Rob Cook for HD18",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Matt Rosendale for State Auditor",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Don Kaltschmidt for SD 3",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jason Small for SD 21",
+                "interest": "Steve Gunderson for HD 1",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -174,14 +79,44 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Sue Vinton for HD 56",
+                "interest": "Elsie Arntzen for State Superintendent",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Terry Gauthier for SD40",
+                "interest": "Rob Cook for HD18",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Walt Sales for HD 69",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Adam Hertz for HD 96",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Don Roberts \u2013 SD 26",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Matt Rosendale for State Auditor",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Hertha Lund for SD 15",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mike Lang for Senate District 17",
+                "position": "Support",
+                "status": "On ballot"
             },
             {
                 "interest": "Scott Rolston for HD 85",
@@ -189,7 +124,32 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Steve Gunderson for HD 1",
+                "interest": "Gordon Pierson for HD 78",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bruce Grubbs for House District 68",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Kristen Juras for Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Greg Hertz for HD12",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Donna Huston for SD 25",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Pat Riley for HD 40",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -204,33 +164,73 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Mike Lang for Senate District 17",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Gordon Pierson for HD 78",
+                "interest": "Joel Krautter for HD 35",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Hertha Lund for SD 15",
+                "interest": "Don Kaltschmidt for SD 3",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "James O'Hara for HD 27",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steve Fitzpatrick for SD10",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dan Bartel for HD 29",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dan Salomon for SD 47",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Terry Gauthier for SD40",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jon Knokey for HD 65",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ryan Osmundson for SD 15",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Wendy McKamey for HD19",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ross Fitzgerald for HD 17",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 27,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 36553.94,
-        "num_contributions": 172,
-        "contributions_19_20": 4603.0,
-        "num_contributions_19_20": 43,
-        "expenditures": 40320.58,
-        "num_expenditures": 117,
-        "expenditures_19_20": 10106.44,
-        "num_expenditures_19_20": 27,
-        "cash_on_hand": 3802.03
+        "reports": 30,
+        "last_report_end_date": "10/24/2020",
+        "contributions": 47564.94,
+        "num_contributions": 204,
+        "contributions_19_20": 15614.0,
+        "num_contributions_19_20": 75,
+        "expenditures": 46450.29,
+        "num_expenditures": 130,
+        "expenditures_19_20": 16236.15,
+        "num_expenditures_19_20": 40,
+        "cash_on_hand": 17705.32
     }
 }

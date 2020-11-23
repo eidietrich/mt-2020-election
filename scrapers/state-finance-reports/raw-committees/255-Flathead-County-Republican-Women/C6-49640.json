@@ -7,8 +7,8 @@
         "formTypeDescr": "Political Committee Finance Report",
         "committeeId": 255,
         "candidateName": "Flathead County Republican Women",
-        "statusDescr": "Filed",
-        "amendedDate": null,
+        "statusDescr": "Amended",
+        "amendedDate": 1604065961000,
         "totalContrLessThan35": 0.0,
         "totalIndivContrLessThan35": 0.0,
         "grandTotalLessThan35": 0.0,
@@ -19,8 +19,8 @@
         "start_date": "05/26/2020",
         "end_date": "06/25/2020",
         "receipts": 200.0,
-        "expenditures": 4606.0,
-        "cash_in_bank": 11223.83
+        "expenditures": 5106.0,
+        "cash_in_bank": 10723.83
     },
     "contributions": [
         {
@@ -222,6 +222,25 @@
             "Expenditure Type": "All Other Expenditures",
             "Amount": 500.0,
             "Purpose": "DONATION - ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "06/15/20",
+            "Entity Name": "Skees, Derek A",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 9134",
+            "City": "kalispell",
+            "State": "MT",
+            "Zip": "59904",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 500.0,
+            "Purpose": "Campaign Donation",
             "Election Type": "General",
             "Expenditure Paid Communications Platform": "",
             "Expenditure Paid Communications Quantity": "",

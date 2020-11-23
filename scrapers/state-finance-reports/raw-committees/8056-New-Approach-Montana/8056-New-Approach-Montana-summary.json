@@ -1,8 +1,8 @@
 {
     "slug": "8056-New-Approach-Montana",
     "committeeName": "New Approach Montana",
-    "scrape_date": "2020-07-09",
-    "periods": 4,
+    "scrape_date": "2020-11-11",
+    "periods": 12,
     "data": {
         "committeeId": 8056,
         "committeeName": "New Approach Montana",
@@ -26,10 +26,10 @@
             },
             {
                 "position": "Deputy Treasurer",
-                "name": "",
-                "address": "",
-                "phone": "",
-                "email": ""
+                "name": "Schweich, Matthew H",
+                "address": "2370 Champlain St NW, Suite 12 Washington, DC  20009",
+                "phone": "(401) 343-0434",
+                "email": "matthewhschweich@gmail.com"
             }
         ],
         "issues": [
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 4,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 2305895.85,
-        "num_contributions": 63,
-        "contributions_19_20": 2305895.85,
-        "num_contributions_19_20": 63,
-        "expenditures": 1988251.31,
-        "num_expenditures": 139,
-        "expenditures_19_20": 1988251.31,
-        "num_expenditures_19_20": 139,
-        "cash_on_hand": 231215.77
+        "reports": 12,
+        "last_report_end_date": "11/02/2020",
+        "contributions": 7370542.51,
+        "num_contributions": 195,
+        "contributions_19_20": 7370542.51,
+        "num_contributions_19_20": 195,
+        "expenditures": 6520507.72,
+        "num_expenditures": 249,
+        "expenditures_19_20": 6520507.72,
+        "num_expenditures_19_20": 249,
+        "cash_on_hand": 370526.31
     }
 }

@@ -1,14 +1,14 @@
 {
     "data": {
         "reportId": 46943,
-        "fromDateStr": "01/02/2020",
+        "fromDateStr": "05/01/2018",
         "toDateStr": "03/25/2020",
         "formTypeCode": "C4",
         "formTypeDescr": "Incidental Political Committee Finance Report",
         "committeeId": 8478,
         "candidateName": "Missoula Organization of Realtors",
         "statusDescr": "Amended",
-        "amendedDate": 1591373371000,
+        "amendedDate": 1604076513000,
         "totalContrLessThan35": 0.0,
         "totalIndivContrLessThan35": 0.0,
         "grandTotalLessThan35": 0.0,
@@ -16,14 +16,52 @@
         "grandTotalLessThan35General": 0.0
     },
     "summary": {
-        "start_date": "01/02/2020",
+        "start_date": "05/01/2018",
         "end_date": "03/25/2020",
         "receipts": 0.0,
-        "expenditures": 41678.65,
-        "cash_in_bank": -41678.65
+        "expenditures": 43678.65,
+        "cash_in_bank": -43678.65
     },
     "contributions": [],
     "expenditures": [
+        {
+            "Date Paid": "07/26/18",
+            "Entity Name": "NATIONAL ASSOCIATION OF REALTORS",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "430 N. MICHIGAN AVE",
+            "City": "CHICAGO",
+            "State": "IL",
+            "Zip": "60611",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 1000.0,
+            "Purpose": "Contribution to REALTOR Party PAC",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "02/14/19",
+            "Entity Name": "NATIONAL ASSOCIATION OF REALTORS",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "430 N. MICHIGAN AVE",
+            "City": "CHICAGO",
+            "State": "IL",
+            "Zip": "60611",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 1000.0,
+            "Purpose": "Contribution to NAR Advocacy Fund",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
         {
             "Date Paid": "03/25/20",
             "Entity Name": "Missoula Organization of REALTORS",

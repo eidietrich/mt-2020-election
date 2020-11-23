@@ -1,7 +1,7 @@
 {
     "slug": "8135-DRAE's-Station-Casino",
     "committeeName": "DRAE's Station Casino",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 1,
     "data": {
         "committeeId": 8135,
@@ -36,7 +36,7 @@
             {
                 "interest": "Support Montana First Action",
                 "position": "Support",
-                "status": "Support"
+                "status": "Not Applicable"
             }
         ]
     },

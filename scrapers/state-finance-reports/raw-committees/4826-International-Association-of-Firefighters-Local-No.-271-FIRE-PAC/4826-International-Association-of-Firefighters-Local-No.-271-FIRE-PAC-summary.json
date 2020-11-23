@@ -1,8 +1,8 @@
 {
     "slug": "4826-International-Association-of-Firefighters-Local-No.-271-FIRE-PAC",
     "committeeName": "International Association of Firefighters Local No. 271 FIRE PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 6,
+    "scrape_date": "2020-11-11",
+    "periods": 8,
     "data": {
         "committeeId": 4826,
         "committeeName": "International Association of Firefighters Local No. 271 FIRE PAC",
@@ -44,28 +44,28 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Lisa Triepke Missoula Mayor ",
-                "position": "Monitor",
-                "status": "On ballot, defeated"
-            },
-            {
                 "interest": "John Engen Missoula Mayor",
                 "position": "Support",
                 "status": "Support"
+            },
+            {
+                "interest": "Lisa Triepke Missoula Mayor ",
+                "position": "Monitor",
+                "status": "On ballot, defeated"
             }
         ]
     },
     "finances": {
-        "reports": 6,
-        "last_report_end_date": "05/05/2020",
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
+        "reports": 8,
+        "last_report_end_date": "08/25/2020",
+        "contributions": 161.0,
+        "num_contributions": 1,
+        "contributions_19_20": 161.0,
+        "num_contributions_19_20": 1,
         "expenditures": 8271.55,
         "num_expenditures": 24,
         "expenditures_19_20": 1950.0,
         "num_expenditures_19_20": 10,
-        "cash_on_hand": -618.62
+        "cash_on_hand": -457.62
     }
 }

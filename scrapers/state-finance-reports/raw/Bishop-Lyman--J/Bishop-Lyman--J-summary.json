@@ -1,36 +1,118 @@
 {
     "slug": "Bishop-Lyman--J",
     "candidateName": "Bishop, Lyman  J",
-    "scrape_date": "2020-09-24",
+    "scrape_date": "2020-11-03",
     "officeTitle": "Governor",
     "partyDescr": "Libertarian",
-    "periods": 6,
-    "receipts": 17466.65,
-    "expenditures": 14582.140000000001,
-    "balance": 2884.51,
+    "periods": 9,
+    "receipts": 27496.550000000003,
+    "expenditures": 24705.010000000002,
+    "balance": 2791.540000000001,
     "summary": {
         "contributions": {
             "primary": 0.0,
-            "general": 17466.65,
-            "total": 17466.65
+            "general": 27496.550000000003,
+            "total": 27496.550000000003
         },
         "expenditures": {
             "primary": 0.0,
-            "general": 14582.140000000001,
-            "total": 14582.140000000001
+            "general": 24705.010000000002,
+            "total": 24705.010000000002
         },
         "cash_on_hand": {
             "primary": 0.0,
-            "general": 2884.51,
-            "total": 2884.51
+            "general": 2791.540000000001,
+            "total": 2791.540000000001
         },
         "report_counts": {
-            "C5": 6,
+            "C5": 7,
             "C7": 0,
-            "C7E": 0
+            "C7E": 2
         }
     },
     "reports": [
+        {
+            "report": "10/26/2020 to 10/27/2020",
+            "id": 51570,
+            "type": "C7E",
+            "start_date": "10/26/2020",
+            "end_date": "10/27/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 1,
+            "summary": {
+                "report_start_date": "10/26/2020",
+                "report_end_date": "10/27/2020",
+                "Receipts": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 5000.0,
+                    "total": 5000.0
+                }
+            }
+        },
+        {
+            "report": "10/16/2020 to 10/19/2020",
+            "id": 51569,
+            "type": "C7E",
+            "start_date": "10/16/2020",
+            "end_date": "10/19/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 1,
+            "summary": {
+                "report_start_date": "10/16/2020",
+                "report_end_date": "10/19/2020",
+                "Receipts": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 5000.0,
+                    "total": 5000.0
+                }
+            }
+        },
+        {
+            "report": "09/16/2020 to 10/15/2020",
+            "id": 51234,
+            "type": "C5",
+            "start_date": "09/16/2020",
+            "end_date": "10/15/2020",
+            "unitemized_contributions": 29.899999999999636,
+            "num_contributions": 1,
+            "num_expenditures": 2,
+            "summary": {
+                "previous report": {
+                    "primary": 0.0,
+                    "general": 2884.51,
+                    "total": 2884.51
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 10029.9,
+                    "total": 10029.9
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 122.87,
+                    "total": 122.87
+                },
+                "Ending Balance": {
+                    "primary": 0.0,
+                    "general": 12791.54,
+                    "total": 12791.54
+                },
+                "report_start_date": "09/16/2020",
+                "report_end_date": "10/15/2020"
+            }
+        },
         {
             "report": "08/16/2020 to 09/15/2020",
             "id": 50645,

@@ -1,7 +1,7 @@
 {
     "slug": "292-Lincoln-County-Republican-Central-Cmte.",
     "committeeName": "Lincoln County Republican Central Cmte.",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 11,
     "data": {
         "committeeId": 292,
@@ -39,17 +39,17 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Elsie Arntzen -State Superintendent",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
                 "interest": "Corey Stapleton for Secretary of State",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
                 "interest": "Voter educaton an d candidate support",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Elsie Arntzen -State Superintendent",
                 "position": "Support",
                 "status": "Not Applicable"
             }

@@ -1,7 +1,7 @@
 {
     "slug": "225-Big-Horn-County-Republican-Central-Cmte.",
     "committeeName": "Big Horn County Republican Central Cmte.",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 8,
     "data": {
         "committeeId": 225,
@@ -34,27 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Promote Republican candidates locally, state-wide and nationaly",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Steve Daines",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Corey Stapleton for Secretary of State",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Elsie Arntzen for OPI",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Matt Rosendale for State Auditor",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -64,9 +44,29 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Corey Stapleton for Secretary of State",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Ryan Zinke - US Congress",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Matt Rosendale for State Auditor",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Promote Republican candidates locally, state-wide and nationaly",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Elsie Arntzen for OPI",
+                "position": "Support",
+                "status": "Support"
             }
         ]
     },

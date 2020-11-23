@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 52142,
+        "fromDateStr": "11/03/2020",
+        "toDateStr": "11/03/2020",
+        "formTypeCode": "C7E",
+        "formTypeDescr": "Notice of Pre-Election Expenditures",
+        "committeeId": 8781,
+        "candidateName": "ACLU of Montana",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "11/03/2020",
+        "end_date": "11/03/2020",
+        "receipts": 0.0,
+        "expenditures": 2690.0,
+        "cash_in_bank": 64554.64
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/03/20",
+            "Entity Name": "Crowley Fleck, PLLP",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 797",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 690.0,
+            "Purpose": "legal advice",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "11/03/20",
+            "Entity Name": "Dover Group",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "9 West Washington - 4th Floor ",
+            "City": "Chicago",
+            "State": "IL",
+            "Zip": "60602",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2000.0,
+            "Purpose": "voter registration info - digital display",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

@@ -1,8 +1,8 @@
 {
     "slug": "6341-McKeon-Law-of-Butte",
     "committeeName": "McKeon Law of Butte",
-    "scrape_date": "2020-07-09",
-    "periods": 14,
+    "scrape_date": "2020-11-11",
+    "periods": 17,
     "data": {
         "committeeId": 6341,
         "committeeName": "McKeon Law of Butte",
@@ -34,20 +34,20 @@
         ],
         "issues": [
             {
-                "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
-                "position": "Other",
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
+                "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
-                "position": "Support",
+                "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
+                "position": "Other",
                 "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 14,
-        "last_report_end_date": "06/25/2020",
+        "reports": 17,
+        "last_report_end_date": "10/25/2020",
         "contributions": 624.0,
         "num_contributions": 1,
         "contributions_19_20": 624.0,

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 49514,
+        "fromDateStr": "06/26/2020",
+        "toDateStr": "08/25/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 290,
+        "candidateName": "Lincoln County Democratic Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/26/2020",
+        "end_date": "08/25/2020",
+        "receipts": 40.0,
+        "expenditures": 250.0,
+        "cash_in_bank": 984.8
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "07/22/20",
+            "Entity Name": "Ramesz, Lori L",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1623",
+            "City": "Eureka",
+            "State": "MT",
+            "Zip": "59917",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 250.0,
+            "Purpose": "Campaign Contribution - HD 2.",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

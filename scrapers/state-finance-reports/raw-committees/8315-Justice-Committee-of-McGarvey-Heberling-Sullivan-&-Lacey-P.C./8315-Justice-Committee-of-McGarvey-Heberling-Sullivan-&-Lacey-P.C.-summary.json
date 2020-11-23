@@ -1,8 +1,8 @@
 {
     "slug": "8315-Justice-Committee-of-McGarvey-Heberling-Sullivan-&-Lacey-P.C.",
     "committeeName": "Justice Committee of McGarvey, Heberling, Sullivan & Lacey P.C.",
-    "scrape_date": "2020-07-09",
-    "periods": 2,
+    "scrape_date": "2020-11-11",
+    "periods": 3,
     "data": {
         "committeeId": 8315,
         "committeeName": "Justice Committee of McGarvey, Heberling, Sullivan & Lacey P.C.",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 2,
-        "last_report_end_date": "06/30/2020",
+        "reports": 3,
+        "last_report_end_date": "10/24/2020",
         "contributions": 0,
         "num_contributions": 0,
         "contributions_19_20": 0,
         "num_contributions_19_20": 0,
-        "expenditures": 9108.0,
-        "num_expenditures": 2,
-        "expenditures_19_20": 9108.0,
-        "num_expenditures_19_20": 2,
-        "cash_on_hand": -9108.0
+        "expenditures": 21337.92,
+        "num_expenditures": 4,
+        "expenditures_19_20": 21337.92,
+        "num_expenditures_19_20": 4,
+        "cash_on_hand": -21337.92
     }
 }

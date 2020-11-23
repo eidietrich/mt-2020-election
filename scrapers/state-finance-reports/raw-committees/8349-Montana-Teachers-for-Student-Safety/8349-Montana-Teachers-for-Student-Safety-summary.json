@@ -1,8 +1,8 @@
 {
     "slug": "8349-Montana-Teachers-for-Student-Safety",
     "committeeName": "Montana Teachers for Student Safety ",
-    "scrape_date": "2020-07-09",
-    "periods": 4,
+    "scrape_date": "2020-11-11",
+    "periods": 7,
     "data": {
         "committeeId": 8349,
         "committeeName": "Montana Teachers for Student Safety ",
@@ -34,22 +34,22 @@
         ],
         "issues": [
             {
-                "interest": "Support Binkley for HD85",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Support Schillinger for HD 37 ",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Support Noland for HD10",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
+                "interest": "Support Binkley for HD85",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Support DeVries for HD 75",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Schillinger for HD 37 ",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -61,8 +61,8 @@
         ]
     },
     "finances": {
-        "reports": 4,
-        "last_report_end_date": "06/25/2020",
+        "reports": 7,
+        "last_report_end_date": "10/24/2020",
         "contributions": 6800.0,
         "num_contributions": 5,
         "contributions_19_20": 6800.0,

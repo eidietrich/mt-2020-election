@@ -1,8 +1,8 @@
 {
     "slug": "8021-Cascade-County-Republican-Central-Committee",
     "committeeName": "Cascade County Republican Central Committee",
-    "scrape_date": "2020-07-09",
-    "periods": 6,
+    "scrape_date": "2020-11-11",
+    "periods": 9,
     "data": {
         "committeeId": 8021,
         "committeeName": "Cascade County Republican Central Committee",
@@ -39,12 +39,7 @@
                 "status": "Support"
             },
             {
-                "interest": "Rosendale, Matt",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Sheldon-Galloway, Lola",
+                "interest": "Bennion, Jon",
                 "position": "Support",
                 "status": "Support"
             },
@@ -54,12 +49,17 @@
                 "status": "Support"
             },
             {
+                "interest": "Gianforte, Greg",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
                 "interest": "Daines, Steve",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Anderson, Fred",
+                "interest": "Sheldon-Galloway, Lola",
                 "position": "Support",
                 "status": "Support"
             },
@@ -69,22 +69,7 @@
                 "status": "Support"
             },
             {
-                "interest": "Sales, Scott",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Gianforte, Greg",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Olszewski, Al",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "McKamey, Wendy",
+                "interest": "Fox, Tim",
                 "position": "Support",
                 "status": "Support"
             },
@@ -94,12 +79,32 @@
                 "status": "Support"
             },
             {
-                "interest": "Bennion, Jon",
+                "interest": "Buttrey, Ed",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Buttrey, Ed",
+                "interest": "McKamey, Wendy",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Olszewski, Al",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Sales, Scott",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Anderson, Fred",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Rosendale, Matt",
                 "position": "Support",
                 "status": "Support"
             },
@@ -107,25 +112,20 @@
                 "interest": "Downing, Troy",
                 "position": "Support",
                 "status": "Support"
-            },
-            {
-                "interest": "Fox, Tim",
-                "position": "Support",
-                "status": "Support"
             }
         ]
     },
     "finances": {
-        "reports": 6,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 13895.93,
-        "num_contributions": 16,
-        "contributions_19_20": 13895.93,
-        "num_contributions_19_20": 16,
-        "expenditures": 9785.39,
-        "num_expenditures": 31,
-        "expenditures_19_20": 9785.39,
-        "num_expenditures_19_20": 31,
-        "cash_on_hand": 7472.64
+        "reports": 9,
+        "last_report_end_date": "10/24/2020",
+        "contributions": 15580.93,
+        "num_contributions": 21,
+        "contributions_19_20": 15580.93,
+        "num_contributions_19_20": 21,
+        "expenditures": 10257.87,
+        "num_expenditures": 33,
+        "expenditures_19_20": 10257.87,
+        "num_expenditures_19_20": 33,
+        "cash_on_hand": 8705.16
     }
 }

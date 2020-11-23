@@ -1,8 +1,8 @@
 {
     "slug": "8640-Citizens-Against-Local-Option-Gas-Tax",
     "committeeName": "Citizens Against Local Option Gas Tax",
-    "scrape_date": "2020-07-09",
-    "periods": 2,
+    "scrape_date": "2020-11-11",
+    "periods": 3,
     "data": {
         "committeeId": 8640,
         "committeeName": "Citizens Against Local Option Gas Tax",
@@ -41,8 +41,8 @@
         ]
     },
     "finances": {
-        "reports": 2,
-        "last_report_end_date": "05/29/2020",
+        "reports": 3,
+        "last_report_end_date": "11/06/2020",
         "contributions": 8700.0,
         "num_contributions": 2,
         "contributions_19_20": 8700.0,

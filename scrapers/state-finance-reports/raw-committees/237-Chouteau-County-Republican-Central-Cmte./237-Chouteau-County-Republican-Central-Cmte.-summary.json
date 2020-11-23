@@ -1,7 +1,7 @@
 {
     "slug": "237-Chouteau-County-Republican-Central-Cmte.",
     "committeeName": "Chouteau County Republican Central Cmte.",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 22,
     "data": {
         "committeeId": 237,
@@ -39,37 +39,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Corey Stapleton",
-                "position": "Modify",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Clay Riehl ",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Elsie Arntzen",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jim O'hara ",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Greg Gianforte for Congress",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Matt Rosendale for US Senate",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Bruce Meyers",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -79,12 +49,42 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Matt Rosendale for US Senate",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Jim O'hara ",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Tim Fox ",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Clay Riehl ",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Donald  Trump for US President",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Tim Fox ",
+                "interest": "Corey Stapleton",
+                "position": "Modify",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Elsie Arntzen",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bruce Meyers",
                 "position": "Support",
                 "status": "Not Applicable"
             }

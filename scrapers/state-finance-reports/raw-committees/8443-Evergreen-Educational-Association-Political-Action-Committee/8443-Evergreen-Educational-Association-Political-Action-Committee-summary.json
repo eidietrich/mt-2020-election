@@ -1,8 +1,8 @@
 {
     "slug": "8443-Evergreen-Educational-Association-Political-Action-Committee",
     "committeeName": "Evergreen Educational Association Political Action Committee",
-    "scrape_date": "2020-07-09",
-    "periods": 7,
+    "scrape_date": "2020-11-11",
+    "periods": 11,
     "data": {
         "committeeId": 8443,
         "committeeName": "Evergreen Educational Association Political Action Committee",
@@ -35,8 +35,8 @@
         "issues": []
     },
     "finances": {
-        "reports": 7,
-        "last_report_end_date": "06/30/2020",
+        "reports": 11,
+        "last_report_end_date": "10/31/2020",
         "contributions": 284.0,
         "num_contributions": 3,
         "contributions_19_20": 284.0,

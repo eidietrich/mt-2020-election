@@ -1,8 +1,8 @@
 {
     "slug": "7049-McKenna-Starin-Law",
     "committeeName": "McKenna Starin Law",
-    "scrape_date": "2020-07-09",
-    "periods": 12,
+    "scrape_date": "2020-11-11",
+    "periods": 15,
     "data": {
         "committeeId": 7049,
         "committeeName": "McKenna Starin Law",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 12,
-        "last_report_end_date": "06/25/2020",
+        "reports": 15,
+        "last_report_end_date": "10/25/2020",
         "contributions": 0,
         "num_contributions": 0,
         "contributions_19_20": 0,
         "num_contributions_19_20": 0,
-        "expenditures": 15000.0,
-        "num_expenditures": 2,
-        "expenditures_19_20": 7500.0,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": -15000.0
+        "expenditures": 20174.0,
+        "num_expenditures": 6,
+        "expenditures_19_20": 12674.0,
+        "num_expenditures_19_20": 5,
+        "cash_on_hand": -20174.0
     }
 }

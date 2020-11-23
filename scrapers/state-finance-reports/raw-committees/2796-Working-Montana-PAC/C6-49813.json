@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 49813,
+        "fromDateStr": "06/27/2020",
+        "toDateStr": "07/31/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 2796,
+        "candidateName": "Working Montana PAC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/27/2020",
+        "end_date": "07/31/2020",
+        "receipts": 0.0,
+        "expenditures": 12453.0,
+        "cash_in_bank": 14308.53
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "07/28/20",
+            "Entity Name": "Montana Voices GetThru payment",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "220 South 27th Street",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 10950.0,
+            "Purpose": "100,000 Texts/100,000 Dials for Pro Cooney for Governor",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Text/Dials through GetThru for calls/texts for Pro Cooney for Governor",
+            "Expenditure Paid Communications Quantity": "100,000 texts and 100,000 calls for Pro Cooney for Governor",
+            "Expenditure Paid Communications Subject Matter": "100,000 texts and 100,000 calls for Pro Cooney for Governor"
+        },
+        {
+            "Date Paid": "07/29/20",
+            "Entity Name": "Working Montana PAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2711 Airport Rd.",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 1503.0,
+            "Purpose": "Payroll for 8 Canvassers for 72 hours of texting for Cooney. From July 23-25, 2020. ",
+            "Election Type": "Primary",
+            "Expenditure Paid Communications Platform": "72 hours of texting for Pro Cooney for Governor",
+            "Expenditure Paid Communications Quantity": "8 Canvassers/72 hours of texting for pro Cooney for Governor",
+            "Expenditure Paid Communications Subject Matter": "Pro Cooney for Governor"
+        }
+    ]
+}

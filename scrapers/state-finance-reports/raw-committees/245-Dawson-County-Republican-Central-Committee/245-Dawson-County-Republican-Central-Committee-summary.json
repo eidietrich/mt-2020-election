@@ -1,8 +1,8 @@
 {
     "slug": "245-Dawson-County-Republican-Central-Committee",
     "committeeName": "Dawson County Republican Central Committee",
-    "scrape_date": "2020-07-09",
-    "periods": 24,
+    "scrape_date": "2020-11-11",
+    "periods": 28,
     "data": {
         "committeeId": 245,
         "committeeName": "Dawson County Republican Central Committee",
@@ -34,27 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Adam Rosendale for SD11",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Lola Sheldon Galloway for HD22",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Joe Reed for HD 93",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Chase Reynolds for SD 49",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Michael Cooper for HD 26",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -67,20 +47,40 @@
                 "interest": "Randy Pinocci for PSC",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Adam Rosendale for SD11",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Michael Cooper for HD 26",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Lola Sheldon Galloway for HD22",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Chase Reynolds for SD 49",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 24,
-        "last_report_end_date": "06/25/2020",
-        "contributions": -3365.68,
-        "num_contributions": 248,
-        "contributions_19_20": 5983.15,
-        "num_contributions_19_20": 83,
-        "expenditures": 41026.56,
-        "num_expenditures": 107,
-        "expenditures_19_20": 7237.6,
-        "num_expenditures_19_20": 29,
-        "cash_on_hand": 8399.99
+        "reports": 28,
+        "last_report_end_date": "11/03/2020",
+        "contributions": -2824.68,
+        "num_contributions": 251,
+        "contributions_19_20": 6524.15,
+        "num_contributions_19_20": 86,
+        "expenditures": 48491.72,
+        "num_expenditures": 134,
+        "expenditures_19_20": 14702.76,
+        "num_expenditures_19_20": 56,
+        "cash_on_hand": 1475.83
     }
 }

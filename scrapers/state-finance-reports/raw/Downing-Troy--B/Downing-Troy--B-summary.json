@@ -1,36 +1,70 @@
 {
     "slug": "Downing-Troy--B",
     "candidateName": "Downing, Troy  B",
-    "scrape_date": "2020-09-24",
+    "scrape_date": "2020-11-03",
     "officeTitle": "State Auditor",
     "partyDescr": "Republican",
-    "periods": 9,
-    "receipts": 276815.8,
-    "expenditures": 210053.18,
-    "balance": 66762.62,
+    "periods": 10,
+    "receipts": 300119.8,
+    "expenditures": 216524.75999999998,
+    "balance": 83595.04000000001,
     "summary": {
         "contributions": {
-            "primary": 190664.4,
-            "general": 86151.4,
-            "total": 276815.8
+            "primary": 195764.4,
+            "general": 104355.4,
+            "total": 300119.8
         },
         "expenditures": {
-            "primary": 184299.0,
-            "general": 25754.18,
-            "total": 210053.18
+            "primary": 184379.0,
+            "general": 32145.760000000002,
+            "total": 216524.75999999998
         },
         "cash_on_hand": {
-            "primary": 6365.399999999994,
-            "general": 60397.219999999994,
-            "total": 66762.62
+            "primary": 11385.399999999994,
+            "general": 72209.63999999998,
+            "total": 83595.04000000001
         },
         "report_counts": {
-            "C5": 9,
+            "C5": 10,
             "C7": 0,
             "C7E": 0
         }
     },
     "reports": [
+        {
+            "report": "09/16/2020 to 10/14/2020",
+            "id": 50634,
+            "type": "C5",
+            "start_date": "09/16/2020",
+            "end_date": "10/14/2020",
+            "unitemized_contributions": 375.0,
+            "num_contributions": 115,
+            "num_expenditures": 23,
+            "summary": {
+                "previous report": {
+                    "primary": 6365.4,
+                    "general": 60397.22,
+                    "total": 66762.62
+                },
+                "Receipts": {
+                    "primary": 5100.0,
+                    "general": 18204.0,
+                    "total": 23304.0
+                },
+                "Expenditures": {
+                    "primary": 80.0,
+                    "general": 6391.58,
+                    "total": 6471.58
+                },
+                "Ending Balance": {
+                    "primary": 11385.4,
+                    "general": 72209.64,
+                    "total": 83595.04
+                },
+                "report_start_date": "09/16/2020",
+                "report_end_date": "10/14/2020"
+            }
+        },
         {
             "report": "08/16/2020 to 09/15/2020",
             "id": 50194,

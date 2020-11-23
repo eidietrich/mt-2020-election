@@ -1,8 +1,8 @@
 {
     "slug": "8363-Marijuana-Policy-Project",
     "committeeName": "Marijuana Policy Project",
-    "scrape_date": "2020-07-09",
-    "periods": 4,
+    "scrape_date": "2020-11-11",
+    "periods": 9,
     "data": {
         "committeeId": 8363,
         "committeeName": "Marijuana Policy Project",
@@ -34,23 +34,23 @@
         ],
         "issues": [
             {
-                "interest": "New Approach Montana",
+                "interest": "New Approach Montana, CI-118 and I-190",
                 "position": "Support",
-                "status": "Not on ballot"
+                "status": "On ballot"
             }
         ]
     },
     "finances": {
-        "reports": 4,
-        "last_report_end_date": "06/25/2020",
+        "reports": 9,
+        "last_report_end_date": "11/02/2020",
         "contributions": 0,
         "num_contributions": 0,
         "contributions_19_20": 0,
         "num_contributions_19_20": 0,
-        "expenditures": 29745.63,
-        "num_expenditures": 8,
-        "expenditures_19_20": 29745.63,
-        "num_expenditures_19_20": 8,
-        "cash_on_hand": -29745.63
+        "expenditures": 99199.24,
+        "num_expenditures": 15,
+        "expenditures_19_20": 99199.24,
+        "num_expenditures_19_20": 15,
+        "cash_on_hand": -99199.24
     }
 }

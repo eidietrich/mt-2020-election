@@ -1,8 +1,8 @@
 {
     "slug": "2327-Ravalli-County-Republican-Central-Cmte",
     "committeeName": "Ravalli County Republican Central Cmte",
-    "scrape_date": "2020-07-09",
-    "periods": 21,
+    "scrape_date": "2020-11-11",
+    "periods": 24,
     "data": {
         "committeeId": 2327,
         "committeeName": "Ravalli County Republican Central Cmte",
@@ -19,10 +19,10 @@
         "officers": [
             {
                 "position": "Treasurer",
-                "name": "Ballance, Nancy L",
-                "address": "PO Box 314 Hamilton, MT  59840",
-                "phone": "(406) 363-8416",
-                "email": "nancyballance@aol.com"
+                "name": "Hulse, Richard",
+                "address": "529 West River Rd Hamilton, MT  59840",
+                "phone": "(520) 373-4608",
+                "email": "rthulse@gmail.com"
             },
             {
                 "position": "Deputy Treasurer",
@@ -34,28 +34,33 @@
         ],
         "issues": [
             {
-                "interest": "Support: County Comm - Chilcott; State District - Manzella (HD85), Bedey (HD86), Ballance (HD87), Greef (HD88), Ellsworth (SD43), Rosendale (US Senate), Gianforte (Congress), LR-129",
+                "interest": "County Comm - Huls, State Districts - Manzella (SD44), Binkley (HD85), Bedey (HD86), Marshall (HD87), Greef (HD88)",
                 "position": "Support",
-                "status": "On ballot"
+                "status": "Not Applicable"
             },
             {
-                "interest": "I-185, I-186",
-                "position": "Oppose",
-                "status": "On ballot"
+                "interest": "Trump-Pence - US President, Daines - US Senate, Rosendale - US Congress",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jacobson - SOS, Downing - Auditor, Knudsen - AG, Arntzen - OPI",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 21,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 68588.97,
-        "num_contributions": 1168,
-        "contributions_19_20": 26386.07,
-        "num_contributions_19_20": 347,
-        "expenditures": 122285.29,
-        "num_expenditures": 354,
-        "expenditures_19_20": 36294.71,
-        "num_expenditures_19_20": 121,
-        "cash_on_hand": 47298.35
+        "reports": 24,
+        "last_report_end_date": "10/24/2020",
+        "contributions": 82063.97,
+        "num_contributions": 1214,
+        "contributions_19_20": 39861.07,
+        "num_contributions_19_20": 393,
+        "expenditures": 157245.14,
+        "num_expenditures": 378,
+        "expenditures_19_20": 71254.56,
+        "num_expenditures_19_20": 145,
+        "cash_on_hand": 25433.5
     }
 }

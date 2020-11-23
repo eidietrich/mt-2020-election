@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 51821,
+        "fromDateStr": "10/29/2020",
+        "toDateStr": "10/29/2020",
+        "formTypeCode": "C7E",
+        "formTypeDescr": "Notice of Pre-Election Expenditures",
+        "committeeId": 8361,
+        "candidateName": "Good Jobs MT",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/29/2020",
+        "end_date": "10/29/2020",
+        "receipts": 0.0,
+        "expenditures": 8575.91,
+        "cash_in_bank": 398404.86
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/29/20",
+            "Entity Name": "Blueprint Interactive",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2307 North Trenton Street",
+            "City": "Arlington",
+            "State": "",
+            "Zip": "",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 8575.91,
+            "Purpose": "Digital Ad and Website Production; topics: Healthcare, Sales Tax, Public Lands, and Social Security",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Facebook/Instagram, Youtube and TradeDesk",
+            "Expenditure Paid Communications Quantity": "Production for three (3) ads",
+            "Expenditure Paid Communications Subject Matter": "Opposing Greg Gianforte/Supporting Mike Cooney"
+        }
+    ]
+}

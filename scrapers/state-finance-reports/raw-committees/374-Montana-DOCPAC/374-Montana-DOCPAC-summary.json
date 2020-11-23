@@ -1,8 +1,8 @@
 {
     "slug": "374-Montana-DOCPAC",
     "committeeName": "Montana DOCPAC",
-    "scrape_date": "2020-07-09",
-    "periods": 29,
+    "scrape_date": "2020-11-11",
+    "periods": 32,
     "data": {
         "committeeId": 374,
         "committeeName": "Montana DOCPAC",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 29,
-        "last_report_end_date": "06/25/2020",
-        "contributions": -1041.78,
-        "num_contributions": 88,
-        "contributions_19_20": 949.9,
-        "num_contributions_19_20": 16,
-        "expenditures": 21981.07,
-        "num_expenditures": 62,
-        "expenditures_19_20": 3935.21,
-        "num_expenditures_19_20": 19,
-        "cash_on_hand": 9397.06
+        "reports": 32,
+        "last_report_end_date": "10/25/2020",
+        "contributions": -791.78,
+        "num_contributions": 93,
+        "contributions_19_20": 1199.9,
+        "num_contributions_19_20": 21,
+        "expenditures": 22684.33,
+        "num_expenditures": 66,
+        "expenditures_19_20": 4638.47,
+        "num_expenditures_19_20": 23,
+        "cash_on_hand": 8943.8
     }
 }

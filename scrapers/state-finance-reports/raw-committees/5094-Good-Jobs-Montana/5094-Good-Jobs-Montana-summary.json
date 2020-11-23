@@ -1,7 +1,7 @@
 {
     "slug": "5094-Good-Jobs-Montana",
     "committeeName": "Good Jobs Montana",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 14,
     "data": {
         "committeeId": 5094,
@@ -34,19 +34,19 @@
         ],
         "issues": [
             {
-                "interest": "Making Independent Expenditures in Montnana Elections",
-                "position": "Other",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Steve Bullock",
                 "position": "Support",
                 "status": "On ballot, approved"
             },
             {
+                "interest": "Making Independent Expenditures in Montnana Elections",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Greg Gianforte",
                 "position": "Oppose",
-                "status": "Support"
+                "status": "Not Applicable"
             }
         ]
     },

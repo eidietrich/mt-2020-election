@@ -1,8 +1,8 @@
 {
     "slug": "8781-ACLU-of-Montana",
     "committeeName": "ACLU of Montana",
-    "scrape_date": "2020-07-09",
-    "periods": 1,
+    "scrape_date": "2020-11-11",
+    "periods": 7,
     "data": {
         "committeeId": 8781,
         "committeeName": "ACLU of Montana",
@@ -34,23 +34,23 @@
         ],
         "issues": [
             {
-                "interest": "We do not plan to directly support or oppose and candidates or ballot issues.",
-                "position": "Other",
+                "interest": "We will be engaging in voter education on the Montana Governor's race in the form of electioneering communications. We will not be endorsing specific candidates.",
+                "position": "Education",
                 "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 1,
-        "last_report_end_date": "05/24/2020",
-        "contributions": 70000.0,
-        "num_contributions": 1,
-        "contributions_19_20": 70000.0,
-        "num_contributions_19_20": 1,
-        "expenditures": 0,
-        "num_expenditures": 0,
-        "expenditures_19_20": 0,
-        "num_expenditures_19_20": 0,
-        "cash_on_hand": 70000.0
+        "reports": 7,
+        "last_report_end_date": "11/03/2020",
+        "contributions": 582254.04,
+        "num_contributions": 7,
+        "contributions_19_20": 582254.04,
+        "num_contributions_19_20": 7,
+        "expenditures": 495445.36,
+        "num_expenditures": 37,
+        "expenditures_19_20": 495445.36,
+        "num_expenditures_19_20": 37,
+        "cash_on_hand": 64554.64
     }
 }

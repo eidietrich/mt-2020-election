@@ -1,8 +1,8 @@
 {
     "slug": "280-Lake-County-Republican-Central-Cmte.",
     "committeeName": "Lake County Republican Central Cmte.",
-    "scrape_date": "2020-07-09",
-    "periods": 20,
+    "scrape_date": "2020-11-11",
+    "periods": 23,
     "data": {
         "committeeId": 280,
         "committeeName": "Lake County Republican Central Cmte.",
@@ -34,11 +34,6 @@
         ],
         "issues": [
             {
-                "interest": "Montana Republican Legislative Campaign Committee",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Gail Decker Lake County Commissioner",
                 "position": "Support",
                 "status": "Not Applicable"
@@ -47,20 +42,25 @@
                 "interest": "Joe Read Lake County HD 93",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Montana Republican Legislative Campaign Committee",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 20,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 12257.12,
-        "num_contributions": 127,
-        "contributions_19_20": 8166.62,
-        "num_contributions_19_20": 45,
-        "expenditures": 25078.2,
-        "num_expenditures": 45,
-        "expenditures_19_20": 4557.81,
-        "num_expenditures_19_20": 11,
-        "cash_on_hand": 7366.93
+        "reports": 23,
+        "last_report_end_date": "10/25/2020",
+        "contributions": 31342.12,
+        "num_contributions": 185,
+        "contributions_19_20": 27251.62,
+        "num_contributions_19_20": 103,
+        "expenditures": 34142.9,
+        "num_expenditures": 64,
+        "expenditures_19_20": 13622.51,
+        "num_expenditures_19_20": 30,
+        "cash_on_hand": 14505.23
     }
 }

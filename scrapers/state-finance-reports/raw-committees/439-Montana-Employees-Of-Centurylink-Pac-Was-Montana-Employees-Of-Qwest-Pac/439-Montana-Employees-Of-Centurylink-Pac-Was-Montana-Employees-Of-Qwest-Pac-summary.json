@@ -1,8 +1,8 @@
 {
     "slug": "439-Montana-Employees-Of-Centurylink-Pac-Was-Montana-Employees-Of-Qwest-Pac",
     "committeeName": "Montana Employees Of Centurylink Pac Was Montana Employees Of Qwest Pac",
-    "scrape_date": "2020-07-09",
-    "periods": 7,
+    "scrape_date": "2020-11-11",
+    "periods": 10,
     "data": {
         "committeeId": 439,
         "committeeName": "Montana Employees Of Centurylink Pac Was Montana Employees Of Qwest Pac",
@@ -46,16 +46,16 @@
         ]
     },
     "finances": {
-        "reports": 7,
-        "last_report_end_date": "11/26/2018",
+        "reports": 10,
+        "last_report_end_date": "10/31/2020",
         "contributions": 480.0,
         "num_contributions": 13,
         "contributions_19_20": 0.0,
         "num_contributions_19_20": 0,
-        "expenditures": 9861.45,
-        "num_expenditures": 86,
-        "expenditures_19_20": 0.0,
-        "num_expenditures_19_20": 0,
-        "cash_on_hand": 4650.74
+        "expenditures": 11002.2,
+        "num_expenditures": 96,
+        "expenditures_19_20": 1140.75,
+        "num_expenditures_19_20": 10,
+        "cash_on_hand": 3509.99
     }
 }

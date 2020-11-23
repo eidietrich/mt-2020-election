@@ -1,8 +1,8 @@
 {
     "slug": "2898-Boilermakers-Local-11-PAC",
     "committeeName": "Boilermakers Local 11 PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 9,
+    "scrape_date": "2020-11-11",
+    "periods": 12,
     "data": {
         "committeeId": 2898,
         "committeeName": "Boilermakers Local 11 PAC",
@@ -41,8 +41,8 @@
         ]
     },
     "finances": {
-        "reports": 9,
-        "last_report_end_date": "06/29/2020",
+        "reports": 12,
+        "last_report_end_date": "10/25/2020",
         "contributions": -170.01,
         "num_contributions": 1,
         "contributions_19_20": 0.0,

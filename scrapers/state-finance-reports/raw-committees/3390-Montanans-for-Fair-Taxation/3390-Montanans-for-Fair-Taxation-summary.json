@@ -1,8 +1,8 @@
 {
     "slug": "3390-Montanans-for-Fair-Taxation",
     "committeeName": "Montanans for Fair Taxation",
-    "scrape_date": "2020-07-09",
-    "periods": 23,
+    "scrape_date": "2020-11-11",
+    "periods": 26,
     "data": {
         "committeeId": 3390,
         "committeeName": "Montanans for Fair Taxation",
@@ -41,8 +41,8 @@
         ]
     },
     "finances": {
-        "reports": 23,
-        "last_report_end_date": "06/25/2020",
+        "reports": 26,
+        "last_report_end_date": "10/24/2020",
         "contributions": 162.5,
         "num_contributions": 2,
         "contributions_19_20": 0.0,

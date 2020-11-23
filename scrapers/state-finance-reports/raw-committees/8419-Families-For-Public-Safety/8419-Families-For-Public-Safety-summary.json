@@ -1,8 +1,8 @@
 {
     "slug": "8419-Families-For-Public-Safety",
     "committeeName": "Families For Public Safety",
-    "scrape_date": "2020-07-09",
-    "periods": 4,
+    "scrape_date": "2020-11-11",
+    "periods": 5,
     "data": {
         "committeeId": 8419,
         "committeeName": "Families For Public Safety",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 4,
-        "last_report_end_date": "06/30/2020",
-        "contributions": 1630.0,
-        "num_contributions": 5,
-        "contributions_19_20": 1630.0,
-        "num_contributions_19_20": 5,
-        "expenditures": 1585.4,
-        "num_expenditures": 2,
-        "expenditures_19_20": 1585.4,
-        "num_expenditures_19_20": 2,
-        "cash_on_hand": 44.6
+        "reports": 5,
+        "last_report_end_date": "08/31/2020",
+        "contributions": 1830.0,
+        "num_contributions": 7,
+        "contributions_19_20": 1830.0,
+        "num_contributions_19_20": 7,
+        "expenditures": 1864.4,
+        "num_expenditures": 3,
+        "expenditures_19_20": 1864.4,
+        "num_expenditures_19_20": 3,
+        "cash_on_hand": 0.0
     }
 }

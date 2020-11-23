@@ -1,8 +1,8 @@
 {
     "slug": "370-NorthWestern-Energy-Montana-Employee-PAC",
     "committeeName": "NorthWestern Energy Montana Employee PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 29,
+    "scrape_date": "2020-11-11",
+    "periods": 32,
     "data": {
         "committeeId": 370,
         "committeeName": "NorthWestern Energy Montana Employee PAC",
@@ -34,177 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Forest Mandeville for HD 57",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kenneth Holmlund HD38",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Greg Hertz for HD 12",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Theresa Manzella for HD 85",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Alan Redfield  HD59",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kerry White for HD 64",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Janet Ellis for SD 41",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Dan Bartel HD29",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Brad Hamlett HD 23",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Sue Vinton for HD 56",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Alan Doane for HD36",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Gordon Pierson for HD 78",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Bill Mercer for HD 46",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Montana Republican State Central Committee",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Doug Kary SD 22",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Bob Keenan SD 5",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jacob Bachmeier for HD 28",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Mark Blasdel SD 4",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Beth Baker for MT Supreme Court Justice",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Wendy McKamey for HD19",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Bob Brown - HD13",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Daniel Zolnikov for HD45",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Fred Anderson HD20",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Cary Smith - SD27",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jim Keane for HD73",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Steve Gunderson for HD 1",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Barry Usher HD 40",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Willis Curdy for HD 98",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Derek Harvey for HD 74",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Mike Cuffe for SD 1",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Casey Knudsen HD 33",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Adam Hertz for HD 96",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Ingrid Gustafson for MT Supreme Court Justice",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Vince Ricci for HD 55",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Nate McConnell SD 48",
+                "interest": "Ross Fitzgerald for HD 17",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -214,19 +44,14 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Ryan Lynch HD 76",
+                "interest": "Peggy Webb HD43",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Geraldine Custer for HD39",
+                "interest": "Theresa Manzella for HD 85",
                 "position": "Support",
                 "status": "Not Applicable"
-            },
-            {
-                "interest": "Ray Shaw for HD71",
-                "position": "Support",
-                "status": "On ballot"
             },
             {
                 "interest": "Mark Noland for HD 10",
@@ -234,82 +59,22 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Gordan Vance for SD34",
+                "interest": "Brad Hamlett HD 23",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Mary Caferro HD 81",
+                "interest": "Alan Doane for HD36",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jeremy Trebas for HD25",
+                "interest": "Wendy McKamey for HD19",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Bradley Tschida for HD 97",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "David Howard - SD29",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Nancy Ballance for HD87",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Carlie Boland for SD12",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Peggy Webb HD43",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Frederick Moore for HD 37",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Derek Skees - HD11",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Duane Ankney for SD 20",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Shane Morgieau for HD95",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kimberly Dudik for HD94",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Tom Welch HD72",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Becky Beard for HD 80",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "E Wylie Galt HD 30",
+                "interest": "Kenneth Holmlund HD38",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -319,42 +84,47 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Casey Schreiner for HD26",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Ross Fitzgerald for HD 17",
+                "interest": "Nate McConnell SD 48",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Carl Glimm for HD6",
+                "interest": "Forest Mandeville for HD 57",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Seth Berglee for HD58",
+                "interest": "Gordan Vance for SD34",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Matt Regier for HD4",
+                "interest": "Derek Harvey for HD 74",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Toole County Republican Central Committee",
+                "interest": "Barry Usher HD 40",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Montana Democratic Party",
+                "interest": "Casey Knudsen HD 33",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Denley Loge for HD 14",
+                "interest": "Steve Gunderson for HD 1",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Willis Curdy for HD 98",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bob Brown - HD13",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -364,7 +134,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Patrick Connell for SD 43",
+                "interest": "Geraldine Custer for HD39",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -374,12 +144,147 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Dennis Lenz for HD 53",
+                "interest": "Jim Keane for HD73",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Derek Skees - HD11",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ray Shaw for HD71",
                 "position": "Support",
                 "status": "On ballot"
             },
             {
+                "interest": "Kerry White for HD 64",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Shane Morgieau for HD95",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Vince Ricci for HD 55",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Gordon Pierson for HD 78",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Frederick Moore for HD 37",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Greg Hertz for HD 12",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "David Howard - SD29",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jacob Bachmeier for HD 28",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Sue Vinton for HD 56",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Montana Republican State Central Committee",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Duane Ankney for SD 20",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "John Esp for SD 30",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mark Blasdel SD 4",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ingrid Gustafson for MT Supreme Court Justice",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Cary Smith - SD27",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Fred Anderson HD20",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Daniel Zolnikov for HD45",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Mary Caferro HD 81",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Adam Hertz for HD 96",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Carlie Boland for SD12",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Carl Glimm for HD6",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Patrick Connell for SD 43",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kimberly Dudik for HD94",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ryan Lynch HD 76",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Dan Bartel HD29",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Matt Regier for HD4",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -389,23 +294,118 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "E Wylie Galt HD 30",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mike Cuffe for SD 1",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Doug Kary SD 22",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Casey Schreiner for HD26",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Janet Ellis for SD 41",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jeremy Trebas for HD25",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Toole County Republican Central Committee",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bob Keenan SD 5",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Denley Loge for HD 14",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Tom Welch HD72",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Beth Baker for MT Supreme Court Justice",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bill Mercer for HD 46",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Seth Berglee for HD58",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dennis Lenz for HD 53",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Alan Redfield  HD59",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Tom Jacobson for SD11",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Nancy Ballance for HD87",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Montana Democratic Party",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bradley Tschida for HD 97",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Becky Beard for HD 80",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 29,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 72159.07,
-        "num_contributions": 893,
-        "contributions_19_20": 35798.51,
-        "num_contributions_19_20": 194,
-        "expenditures": 70086.0,
-        "num_expenditures": 245,
-        "expenditures_19_20": 24360.0,
-        "num_expenditures_19_20": 79,
-        "cash_on_hand": 39944.6
+        "reports": 32,
+        "last_report_end_date": "10/25/2020",
+        "contributions": 75759.79,
+        "num_contributions": 1031,
+        "contributions_19_20": 39399.23,
+        "num_contributions_19_20": 332,
+        "expenditures": 82276.0,
+        "num_expenditures": 260,
+        "expenditures_19_20": 36550.0,
+        "num_expenditures_19_20": 94,
+        "cash_on_hand": 34307.64
     }
 }

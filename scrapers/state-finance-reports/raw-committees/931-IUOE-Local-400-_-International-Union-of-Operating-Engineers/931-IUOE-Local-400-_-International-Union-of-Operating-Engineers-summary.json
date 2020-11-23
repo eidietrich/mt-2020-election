@@ -1,8 +1,8 @@
 {
     "slug": "931-IUOE-Local-400-_-International-Union-of-Operating-Engineers",
     "committeeName": "IUOE Local 400 _ International Union of Operating Engineers",
-    "scrape_date": "2020-07-09",
-    "periods": 19,
+    "scrape_date": "2020-11-11",
+    "periods": 20,
     "data": {
         "committeeId": 931,
         "committeeName": "IUOE Local 400 _ International Union of Operating Engineers",
@@ -34,28 +34,28 @@
         ],
         "issues": [
             {
-                "interest": "Monica Lindeen Secretary Of State",
+                "interest": "Various Legislative / Political Candidates",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Various Legislative / Political Candidates",
+                "interest": "Monica Lindeen Secretary Of State",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 19,
-        "last_report_end_date": "06/25/2020",
-        "contributions": -380.05,
-        "num_contributions": 13,
-        "contributions_19_20": -57.5,
-        "num_contributions_19_20": 5,
-        "expenditures": 500.0,
-        "num_expenditures": 2,
-        "expenditures_19_20": 0.0,
-        "num_expenditures_19_20": 0,
-        "cash_on_hand": 671.58
+        "reports": 20,
+        "last_report_end_date": "10/26/2020",
+        "contributions": -359.05,
+        "num_contributions": 14,
+        "contributions_19_20": -36.5,
+        "num_contributions_19_20": 6,
+        "expenditures": 750.0,
+        "num_expenditures": 4,
+        "expenditures_19_20": 250.0,
+        "num_expenditures_19_20": 2,
+        "cash_on_hand": 442.58
     }
 }

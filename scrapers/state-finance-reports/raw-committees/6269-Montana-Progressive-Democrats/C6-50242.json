@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 50242,
+        "fromDateStr": "06/26/2020",
+        "toDateStr": "08/25/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 6269,
+        "candidateName": "Montana Progressive Democrats",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/26/2020",
+        "end_date": "08/25/2020",
+        "receipts": 25.0,
+        "expenditures": 0.99,
+        "cash_in_bank": 831.88
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "08/20/20",
+            "Entity Name": "ActBlue",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 441146",
+            "City": "Somerville",
+            "State": "MA",
+            "Zip": "02144",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 0.99,
+            "Purpose": "On line fee - 1 donation",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

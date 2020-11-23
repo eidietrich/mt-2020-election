@@ -1,8 +1,8 @@
 {
     "slug": "252-Flathead-County-Democratic-Central-Committee",
     "committeeName": "Flathead County Democratic Central Committee",
-    "scrape_date": "2020-07-09",
-    "periods": 20,
+    "scrape_date": "2020-11-11",
+    "periods": 25,
     "data": {
         "committeeId": 252,
         "committeeName": "Flathead County Democratic Central Committee",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 20,
-        "last_report_end_date": "04/25/2020",
-        "contributions": 172389.57,
-        "num_contributions": 1918,
-        "contributions_19_20": 66056.82,
-        "num_contributions_19_20": 497,
-        "expenditures": 160666.55,
-        "num_expenditures": 361,
-        "expenditures_19_20": 49503.72,
-        "num_expenditures_19_20": 110,
-        "cash_on_hand": 22320.66
+        "reports": 25,
+        "last_report_end_date": "10/24/2020",
+        "contributions": 181793.82,
+        "num_contributions": 1872,
+        "contributions_19_20": 77712.91,
+        "num_contributions_19_20": 554,
+        "expenditures": 189905.55,
+        "num_expenditures": 420,
+        "expenditures_19_20": 78742.72,
+        "num_expenditures_19_20": 169,
+        "cash_on_hand": 7442.0
     }
 }

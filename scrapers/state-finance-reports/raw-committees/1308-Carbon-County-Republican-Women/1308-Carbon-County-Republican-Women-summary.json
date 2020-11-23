@@ -1,8 +1,8 @@
 {
     "slug": "1308-Carbon-County-Republican-Women",
     "committeeName": "Carbon County Republican Women",
-    "scrape_date": "2020-07-09",
-    "periods": 9,
+    "scrape_date": "2020-11-11",
+    "periods": 12,
     "data": {
         "committeeId": 1308,
         "committeeName": "Carbon County Republican Women",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 9,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 1802.83,
-        "num_contributions": 10,
-        "contributions_19_20": 1517.5,
-        "num_contributions_19_20": 6,
-        "expenditures": 4428.51,
-        "num_expenditures": 38,
-        "expenditures_19_20": 1700.06,
-        "num_expenditures_19_20": 18,
-        "cash_on_hand": 534.64
+        "reports": 12,
+        "last_report_end_date": "11/03/2020",
+        "contributions": 6675.25,
+        "num_contributions": 30,
+        "contributions_19_20": 6389.92,
+        "num_contributions_19_20": 26,
+        "expenditures": 9478.79,
+        "num_expenditures": 50,
+        "expenditures_19_20": 6750.34,
+        "num_expenditures_19_20": 30,
+        "cash_on_hand": 626.78
     }
 }

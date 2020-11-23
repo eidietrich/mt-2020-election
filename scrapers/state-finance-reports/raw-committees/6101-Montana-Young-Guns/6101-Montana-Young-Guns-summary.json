@@ -1,8 +1,8 @@
 {
     "slug": "6101-Montana-Young-Guns",
     "committeeName": "Montana Young Guns",
-    "scrape_date": "2020-07-09",
-    "periods": 20,
+    "scrape_date": "2020-11-11",
+    "periods": 21,
     "data": {
         "committeeId": 6101,
         "committeeName": "Montana Young Guns",
@@ -41,8 +41,8 @@
         ]
     },
     "finances": {
-        "reports": 20,
-        "last_report_end_date": "06/25/2020",
+        "reports": 21,
+        "last_report_end_date": "11/08/2020",
         "contributions": 2613.66,
         "num_contributions": 1,
         "contributions_19_20": 0.0,

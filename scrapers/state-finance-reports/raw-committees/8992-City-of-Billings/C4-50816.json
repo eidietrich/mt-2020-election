@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 50816,
+        "fromDateStr": "08/26/2020",
+        "toDateStr": "09/25/2020",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 8992,
+        "candidateName": "City of Billings",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "08/26/2020",
+        "end_date": "09/25/2020",
+        "receipts": 0.0,
+        "expenditures": 6800.0,
+        "cash_in_bank": -6800.0
+    },
+    "contributions": [
+        {
+            "Date Paid": "09/25/20",
+            "Entity Name": "City of Billings",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 1178",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59103",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Incidental Committee Contributions",
+            "Amount": 1330.68,
+            "Amount Type": "IK",
+            "Purpose": "City of Billings staff time spent on Public Safety Mill Levy education",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 8421.31,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "09/21/20",
+            "Entity Name": "Scripps Media, Inc",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "3203 3rd Ave ",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59101",
+            "Zip4": "",
+            "Expenditure Type": "Debt and Loan Payment",
+            "Amount": 6800.0,
+            "Purpose": "",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

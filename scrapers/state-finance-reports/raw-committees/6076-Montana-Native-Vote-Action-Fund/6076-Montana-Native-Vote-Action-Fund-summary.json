@@ -1,7 +1,7 @@
 {
     "slug": "6076-Montana-Native-Vote-Action-Fund",
     "committeeName": "Montana Native Vote Action Fund ",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 2,
     "data": {
         "committeeId": 6076,
@@ -34,32 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Michael DesRosier",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Shane Morgieau for HD 95",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jen Gross for SD 25",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "George Kipp for HD15",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Dirk Sandefur - Supreme Court",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Susan Webber for HD16",
+                "interest": "Jonathan Windy Boy HD32",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -69,22 +44,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Monica Lindeen Secretary Of State",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jesse Laslovich - State Auditor",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Rae Peppers for HD 41",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Sharon Stewart Peregoy",
+                "interest": "Dirk Sandefur - Supreme Court",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -94,12 +54,27 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Melissa Romano - State Superintendent",
+                "interest": "Shane Morgieau for HD 95",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Frank Smith SD 16",
+                "interest": "Jesse Laslovich - State Auditor",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "George Kipp for HD15",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Susan Webber for HD16",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Monica Lindeen Secretary Of State",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -109,17 +84,42 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Rae Peppers for HD 41",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Melissa Romano - State Superintendent",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Michael DesRosier",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Bridget Smith for HD31",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Larry Jent - Attorney General",
+                "interest": "Sharon Stewart Peregoy",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jonathan Windy Boy HD32",
+                "interest": "Jen Gross for SD 25",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Frank Smith SD 16",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Larry Jent - Attorney General",
                 "position": "Support",
                 "status": "Not Applicable"
             }

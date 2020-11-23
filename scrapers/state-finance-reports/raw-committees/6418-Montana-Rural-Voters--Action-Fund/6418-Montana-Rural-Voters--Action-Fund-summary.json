@@ -1,7 +1,7 @@
 {
     "slug": "6418-Montana-Rural-Voters--Action-Fund",
     "committeeName": "Montana Rural Voters  Action Fund",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 2,
     "data": {
         "committeeId": 6418,
@@ -34,9 +34,9 @@
         ],
         "issues": [
             {
-                "interest": "Denise Joy, Billings Ward 3 Municipal Election",
-                "position": "Support",
-                "status": "Not Applicable"
+                "interest": "Nadja Brown, Billings Ward 3 Municipal Election",
+                "position": "Oppose",
+                "status": "On ballot"
             },
             {
                 "interest": "Penny Ronning, Ward 4 Billings Municipal Election",
@@ -49,9 +49,9 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Nadja Brown, Billings Ward 3 Municipal Election",
-                "position": "Oppose",
-                "status": "On ballot"
+                "interest": "Denise Joy, Billings Ward 3 Municipal Election",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
     },

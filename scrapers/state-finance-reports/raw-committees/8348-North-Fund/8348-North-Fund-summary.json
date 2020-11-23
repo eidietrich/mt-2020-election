@@ -1,8 +1,8 @@
 {
     "slug": "8348-North-Fund",
     "committeeName": "North Fund",
-    "scrape_date": "2020-07-09",
-    "periods": 4,
+    "scrape_date": "2020-11-11",
+    "periods": 8,
     "data": {
         "committeeId": 8348,
         "committeeName": "North Fund",
@@ -34,23 +34,23 @@
         ],
         "issues": [
             {
-                "interest": "CI-118: establish the legal age for purchasing, consuming, or possessing marijuana.",
+                "interest": "New Approach Montana, CI-118 and I-190",
                 "position": "Support",
-                "status": "Not on ballot"
+                "status": "On ballot"
             }
         ]
     },
     "finances": {
-        "reports": 4,
-        "last_report_end_date": "06/25/2020",
+        "reports": 8,
+        "last_report_end_date": "10/29/2020",
         "contributions": 0,
         "num_contributions": 0,
         "contributions_19_20": 0,
         "num_contributions_19_20": 0,
-        "expenditures": 1249095.0,
-        "num_expenditures": 10,
-        "expenditures_19_20": 1249095.0,
-        "num_expenditures_19_20": 10,
-        "cash_on_hand": -1249095.0
+        "expenditures": 5067020.0,
+        "num_expenditures": 25,
+        "expenditures_19_20": 5067020.0,
+        "num_expenditures_19_20": 25,
+        "cash_on_hand": -5067020.0
     }
 }

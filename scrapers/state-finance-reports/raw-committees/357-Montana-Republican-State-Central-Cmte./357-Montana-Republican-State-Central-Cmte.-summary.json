@@ -1,8 +1,8 @@
 {
     "slug": "357-Montana-Republican-State-Central-Cmte.",
     "committeeName": "Montana Republican State Central Cmte.",
-    "scrape_date": "2020-07-09",
-    "periods": 32,
+    "scrape_date": "2020-11-11",
+    "periods": 35,
     "data": {
         "committeeId": 357,
         "committeeName": "Montana Republican State Central Cmte.",
@@ -35,16 +35,16 @@
         "issues": []
     },
     "finances": {
-        "reports": 32,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 905256.45,
-        "num_contributions": 931,
-        "contributions_19_20": 279742.39,
-        "num_contributions_19_20": 581,
-        "expenditures": 962915.95,
-        "num_expenditures": 185,
-        "expenditures_19_20": 217709.72,
-        "num_expenditures_19_20": 27,
-        "cash_on_hand": 129727.32
+        "reports": 35,
+        "last_report_end_date": "10/24/2020",
+        "contributions": 2313549.29,
+        "num_contributions": 1005,
+        "contributions_19_20": 1688035.23,
+        "num_contributions_19_20": 655,
+        "expenditures": 2628735.92,
+        "num_expenditures": 294,
+        "expenditures_19_20": 1883529.69,
+        "num_expenditures_19_20": 136,
+        "cash_on_hand": 39241.51
     }
 }

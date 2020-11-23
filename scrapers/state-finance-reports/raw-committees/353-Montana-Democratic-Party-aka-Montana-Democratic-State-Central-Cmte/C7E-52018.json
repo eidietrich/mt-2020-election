@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 52018,
+        "fromDateStr": "10/30/2020",
+        "toDateStr": "11/01/2020",
+        "formTypeCode": "C7E",
+        "formTypeDescr": "Notice of Pre-Election Expenditures",
+        "committeeId": 353,
+        "candidateName": "Montana Democratic Party aka Montana Democratic State Central Cmte",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/30/2020",
+        "end_date": "11/01/2020",
+        "receipts": 0.0,
+        "expenditures": 8300.0,
+        "cash_in_bank": 267432.7
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/30/20",
+            "Entity Name": "Left Hook",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "2601 Ocean Park Blvd Ste 324",
+            "City": "Santa Monica",
+            "State": "CA",
+            "Zip": "90405",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 8300.0,
+            "Purpose": "IE Digital ads running on Facebook and Instagram, and Banner ads running 10-30 through 11-3 Supporting Raph Graybill, Attorney General",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Facebook and Instagram",
+            "Expenditure Paid Communications Quantity": " IE Digital ads running on Facebook and Instagram, and Banner ads running 10-30 through 11-3 Supporting Raph Graybill, Attorney General",
+            "Expenditure Paid Communications Subject Matter": "Instagram, and Banner ads running 10-30 through 11-3 Supporting Raph Graybill, Attorney General \tRaph Graybill/\"Austin Knutson Transparency Report ads\""
+        }
+    ]
+}

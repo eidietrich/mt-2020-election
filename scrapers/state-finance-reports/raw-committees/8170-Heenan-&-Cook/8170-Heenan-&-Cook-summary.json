@@ -1,8 +1,8 @@
 {
     "slug": "8170-Heenan-&-Cook",
     "committeeName": "Heenan & Cook",
-    "scrape_date": "2020-07-09",
-    "periods": 5,
+    "scrape_date": "2020-11-11",
+    "periods": 8,
     "data": {
         "committeeId": 8170,
         "committeeName": "Heenan & Cook",
@@ -46,8 +46,8 @@
         ]
     },
     "finances": {
-        "reports": 5,
-        "last_report_end_date": "06/25/2020",
+        "reports": 8,
+        "last_report_end_date": "10/25/2020",
         "contributions": 0,
         "num_contributions": 0,
         "contributions_19_20": 0,

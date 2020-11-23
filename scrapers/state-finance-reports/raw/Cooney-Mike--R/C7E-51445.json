@@ -1,0 +1,32 @@
+{
+    "data": {
+        "reportId": 51445,
+        "fromDateStr": "10/20/2020",
+        "toDateStr": "10/20/2020",
+        "formTypeCode": "C7E",
+        "formTypeDescr": "Notice of Pre-Election Expenditures",
+        "candidateId": 16070,
+        "candidateName": "Cooney, Mike  R",
+        "officeTitle": "Governor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "report_start_date": "10/20/2020",
+        "report_end_date": "10/20/2020",
+        "Receipts": {
+            "primary": 0,
+            "general": 0,
+            "total": 0
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 4577.71,
+            "total": 4577.71
+        }
+    },
+    "contributions": "[]",
+    "expenditures": "[{\"Date Paid\":\"10\\/21\\/20\",\"Entity Name\":\"ActBlue Technical Services\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"366 Summer St \",\"City\":\"Somerville\",\"State\":\"MA\",\"Zip\":2144,\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":3977.71,\"Purpose\":\"1 credit card processing fee for 3,744 contributions covering 10\\/15\\/20-10\\/18\\/20\",\"Election Type\":\"General\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"10\\/21\\/20\",\"Entity Name\":\"Facebook, Inc.\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"1601 Willow Rd\",\"City\":\"Menlo Park\",\"State\":\"CA\",\"Zip\":94025,\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":250.0,\"Purpose\":\"ad boost\",\"Election Type\":\"General\",\"Expenditure Paid Communications Platform\":\"Facebook\",\"Expenditure Paid Communications Quantity\":\"10\\/20\\/20-10\\/21\\/20\",\"Expenditure Paid Communications Subject Matter\":\"Together, we can keep Montana the Last Best Place\"},{\"Date Paid\":\"10\\/21\\/20\",\"Entity Name\":\"Numero, Inc.\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"26895 Aliso Creek Rd # B795\",\"City\":\"Aliso Viejo\",\"State\":\"CA\",\"Zip\":92656,\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":350.0,\"Purpose\":\"Fundraising - Monthly call time app payment for October  2020\",\"Election Type\":\"General\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"}]",
+    "unitemized_contributions": 0
+}

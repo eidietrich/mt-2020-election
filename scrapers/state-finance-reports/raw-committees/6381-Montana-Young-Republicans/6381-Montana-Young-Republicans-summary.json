@@ -1,7 +1,7 @@
 {
     "slug": "6381-Montana-Young-Republicans",
     "committeeName": "Montana Young Republicans",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 12,
     "data": {
         "committeeId": 6381,
@@ -34,17 +34,17 @@
         ],
         "issues": [
             {
-                "interest": "To support the principles, objects, and platform of the Republican Party and to secure the election of all duly nominated Republican candidates.",
-                "position": "Other",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "To develop County Young Republican Clubs and foster their growth.",
                 "position": "Other",
                 "status": "Not Applicable"
             },
             {
                 "interest": "To provide a means for Young Republicans in Montana to contribute to the betterment of the Republican Party, the U.S.A., and the State of Montana.",
+                "position": "Other",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "To support the principles, objects, and platform of the Republican Party and to secure the election of all duly nominated Republican candidates.",
                 "position": "Other",
                 "status": "Not Applicable"
             }

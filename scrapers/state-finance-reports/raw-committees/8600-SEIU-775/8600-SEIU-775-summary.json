@@ -1,8 +1,8 @@
 {
     "slug": "8600-SEIU-775",
     "committeeName": "SEIU 775",
-    "scrape_date": "2020-07-09",
-    "periods": 4,
+    "scrape_date": "2020-11-11",
+    "periods": 7,
     "data": {
         "committeeId": 8600,
         "committeeName": "SEIU 775",
@@ -34,14 +34,14 @@
         ],
         "issues": [
             {
-                "interest": "To support ballot initiatives and candidates that help working people.  ",
-                "position": "Other",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "I-190, support, Petition has been approved for signature gathering ",
                 "position": "Support",
                 "status": "On ballot"
+            },
+            {
+                "interest": "To support ballot initiatives and candidates that help working people.  ",
+                "position": "Other",
+                "status": "Not Applicable"
             },
             {
                 "interest": "CI-118, support, Petition has been approved for signature gathering ",
@@ -51,16 +51,16 @@
         ]
     },
     "finances": {
-        "reports": 4,
-        "last_report_end_date": "06/25/2020",
+        "reports": 7,
+        "last_report_end_date": "10/24/2020",
         "contributions": 0,
         "num_contributions": 0,
         "contributions_19_20": 0,
         "num_contributions_19_20": 0,
-        "expenditures": 496083.6,
-        "num_expenditures": 11,
-        "expenditures_19_20": 496083.6,
-        "num_expenditures_19_20": 11,
-        "cash_on_hand": -496083.6
+        "expenditures": 1046978.4,
+        "num_expenditures": 17,
+        "expenditures_19_20": 1046978.4,
+        "num_expenditures_19_20": 17,
+        "cash_on_hand": -1046978.4
     }
 }

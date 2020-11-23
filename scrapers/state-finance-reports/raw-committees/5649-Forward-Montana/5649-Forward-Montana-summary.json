@@ -1,7 +1,7 @@
 {
     "slug": "5649-Forward-Montana",
     "committeeName": "Forward Montana",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 5,
     "data": {
         "committeeId": 5649,
@@ -34,14 +34,14 @@
         ],
         "issues": [
             {
-                "interest": "Supreme Court Justices",
-                "position": "Monitor",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Annual Voter Guide",
                 "position": "Other",
                 "status": "On ballot"
+            },
+            {
+                "interest": "Supreme Court Justices",
+                "position": "Monitor",
+                "status": "Not Applicable"
             }
         ]
     },

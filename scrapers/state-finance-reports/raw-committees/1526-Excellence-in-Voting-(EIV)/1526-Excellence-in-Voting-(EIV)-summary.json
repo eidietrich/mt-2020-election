@@ -1,8 +1,8 @@
 {
     "slug": "1526-Excellence-in-Voting-(EIV)",
     "committeeName": "Excellence in Voting (EIV)",
-    "scrape_date": "2020-07-09",
-    "periods": 18,
+    "scrape_date": "2020-11-11",
+    "periods": 21,
     "data": {
         "committeeId": 1526,
         "committeeName": "Excellence in Voting (EIV)",
@@ -46,16 +46,16 @@
         ]
     },
     "finances": {
-        "reports": 18,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 173388.25,
-        "num_contributions": 30,
-        "contributions_19_20": 101688.25,
-        "num_contributions_19_20": 23,
-        "expenditures": 182764.77,
-        "num_expenditures": 120,
-        "expenditures_19_20": 92865.0,
-        "num_expenditures_19_20": 74,
-        "cash_on_hand": 1610.83
+        "reports": 21,
+        "last_report_end_date": "10/25/2020",
+        "contributions": 215888.25,
+        "num_contributions": 34,
+        "contributions_19_20": 144188.25,
+        "num_contributions_19_20": 27,
+        "expenditures": 202514.77,
+        "num_expenditures": 139,
+        "expenditures_19_20": 112615.0,
+        "num_expenditures_19_20": 93,
+        "cash_on_hand": 24360.83
     }
 }

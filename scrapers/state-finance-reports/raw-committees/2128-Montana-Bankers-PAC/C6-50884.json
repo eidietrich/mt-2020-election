@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 50884,
+        "fromDateStr": "08/26/2020",
+        "toDateStr": "09/25/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 2128,
+        "candidateName": "Montana Bankers PAC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "08/26/2020",
+        "end_date": "09/25/2020",
+        "receipts": 0.0,
+        "expenditures": 7000.0,
+        "cash_in_bank": 2018.49
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "09/08/20",
+            "Entity Name": "Jobs for Montana PAC, Cary",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Sharbono Building, N. Last Chance Gulch",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2500.0,
+            "Purpose": "CONTRIBUTION FOR THE GENERAL ELECTION",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "09/08/20",
+            "Entity Name": "Montana Prosperity PAC, Cary",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "Steamboat Block N. Last Chance Gulch",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 4500.0,
+            "Purpose": "CONTRIBUTION FOR THE GENERAL ELECTION",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

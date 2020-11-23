@@ -1,0 +1,32 @@
+{
+    "data": {
+        "reportId": 51850,
+        "fromDateStr": "10/28/2020",
+        "toDateStr": "10/28/2020",
+        "formTypeCode": "C7E",
+        "formTypeDescr": "Notice of Pre-Election Expenditures",
+        "candidateId": 16070,
+        "candidateName": "Cooney, Mike  R",
+        "officeTitle": "Governor",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "report_start_date": "10/28/2020",
+        "report_end_date": "10/28/2020",
+        "Receipts": {
+            "primary": 0,
+            "general": 0,
+            "total": 0
+        },
+        "Expenditures": {
+            "primary": 0.0,
+            "general": 114780.23000000001,
+            "total": 114780.23000000001
+        }
+    },
+    "contributions": "[]",
+    "expenditures": "[{\"Date Paid\":\"10\\/28\\/20\",\"Entity Name\":\"Dixon\\/Davis Media Group, LLC\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"1028 33rd St NW Ste 300\",\"City\":\"Washington DC\",\"State\":\"DC\",\"Zip\":\"20007\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":16220.0,\"Purpose\":\"Video Production - production services  and delivery of At All\",\"Election Type\":\"General\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"10\\/28\\/20\",\"Entity Name\":\"Dixon\\/Davis Media Group, LLC\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"1028 33rd St NW Ste 300\",\"City\":\"Washington DC\",\"State\":\"DC\",\"Zip\":\"20007\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":16610.0,\"Purpose\":\"Video Production - production services  and delivery of Action\",\"Election Type\":\"General\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"10\\/28\\/20\",\"Entity Name\":\"Dixon\\/Davis Media Group, LLC\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"1028 33rd St NW Ste 300\",\"City\":\"Washington DC\",\"State\":\"DC\",\"Zip\":\"20007\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":70170.0,\"Purpose\":\"Video Production - production services  and delivery of Dream Job\",\"Election Type\":\"General\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"10\\/28\\/20\",\"Entity Name\":\"Mailing Technical Services, Inc.\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"850 S 27th St\",\"City\":\"Billings\",\"State\":\"MT\",\"Zip\":\"59101\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":3078.41,\"Purpose\":\"Postage for Qty 8434 Standard Letters\",\"Election Type\":\"General\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"10\\/28\\/20\",\"Entity Name\":\"Mailing Technical Services, Inc.\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"850 S 27th St\",\"City\":\"Billings\",\"State\":\"MT\",\"Zip\":\"59101\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":1654.91,\"Purpose\":\"Postage for Qty 4534 Standard Letters\",\"Election Type\":\"General\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"10\\/28\\/20\",\"Entity Name\":\"Perkins Coie LLP\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"1201 3rd Ave Ste 4900\",\"City\":\"Seattle\",\"State\":\"WA\",\"Zip\":\"98101\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":3257.2,\"Purpose\":\"Legal - October 2020 payment for political law advise\",\"Election Type\":\"General\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"10\\/28\\/20\",\"Entity Name\":\"The Billings Times\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"2919 Montana Ave\",\"City\":\"Billings\",\"State\":\"MT\",\"Zip\":\"59101\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":251.4,\"Purpose\":\"Printing - Qty 750 Thank You Cards\",\"Election Type\":\"General\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"10\\/28\\/20\",\"Entity Name\":\"The Billings Times\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"2919 Montana Ave\",\"City\":\"Billings\",\"State\":\"MT\",\"Zip\":\"59101\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":3029.32,\"Purpose\":\"Printing - Qty 1400 Letterhead and Envelopes\",\"Election Type\":\"General\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"},{\"Date Paid\":\"10\\/28\\/20\",\"Entity Name\":\"The Billings Times\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"2919 Montana Ave\",\"City\":\"Billings\",\"State\":\"MT\",\"Zip\":\"59101\",\"Zip4\":\"\",\"Expenditure Type\":\"All Other Expenditures\",\"Amount\":508.99,\"Purpose\":\"Printing - Qty 500 Bumper Stickers\",\"Election Type\":\"General\",\"Expenditure Paid Communications Platform\":\"\",\"Expenditure Paid Communications Quantity\":\"\",\"Expenditure Paid Communications Subject Matter\":\"\"}]",
+    "unitemized_contributions": 0
+}

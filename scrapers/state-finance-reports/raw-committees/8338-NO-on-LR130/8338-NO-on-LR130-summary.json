@@ -1,8 +1,8 @@
 {
     "slug": "8338-NO-on-LR130",
     "committeeName": "NO on LR130",
-    "scrape_date": "2020-07-09",
-    "periods": 4,
+    "scrape_date": "2020-11-11",
+    "periods": 9,
     "data": {
         "committeeId": 8338,
         "committeeName": "NO on LR130",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 4,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 121096.68,
-        "num_contributions": 66,
-        "contributions_19_20": 121096.68,
-        "num_contributions_19_20": 66,
-        "expenditures": 28.25,
-        "num_expenditures": 1,
-        "expenditures_19_20": 28.25,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": 971.75
+        "reports": 9,
+        "last_report_end_date": "11/03/2020",
+        "contributions": 1620598.81,
+        "num_contributions": 127,
+        "contributions_19_20": 1620598.81,
+        "num_contributions_19_20": 127,
+        "expenditures": 1255622.83,
+        "num_expenditures": 30,
+        "expenditures_19_20": 1255622.83,
+        "num_expenditures_19_20": 30,
+        "cash_on_hand": 151877.17
     }
 }

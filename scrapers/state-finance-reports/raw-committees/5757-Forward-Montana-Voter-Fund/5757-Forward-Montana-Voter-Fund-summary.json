@@ -1,8 +1,8 @@
 {
     "slug": "5757-Forward-Montana-Voter-Fund",
     "committeeName": "Forward Montana Voter Fund",
-    "scrape_date": "2020-07-09",
-    "periods": 18,
+    "scrape_date": "2020-11-11",
+    "periods": 23,
     "data": {
         "committeeId": 5757,
         "committeeName": "Forward Montana Voter Fund",
@@ -20,9 +20,9 @@
             {
                 "position": "Treasurer",
                 "name": "Kelly, Matt",
-                "address": "2822 3rd Ave N #203 Billings, MT  59101",
+                "address": "PO BOX 2817 Missoula, MT  59806",
                 "phone": "",
-                "email": "annalese@forwardmontana.org"
+                "email": "mattjkelly100@gmail.com "
             },
             {
                 "position": "Deputy Treasurer",
@@ -34,33 +34,23 @@
         ],
         "issues": [
             {
-                "interest": "Danny Choriki for Ward 3, Billings",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "Statewide, legislative, and local candidates who are champions for young people and their values and needs.",
                 "position": "Support",
                 "status": "Support"
-            },
-            {
-                "interest": "Kendra Shaw, Ward 1 Billings; Carmelita Dominguez, Ward 4 Billings",
-                "position": "Support",
-                "status": "On ballot"
             }
         ]
     },
     "finances": {
-        "reports": 18,
-        "last_report_end_date": "06/30/2020",
-        "contributions": 32403.12,
-        "num_contributions": 27,
-        "contributions_19_20": 15000.0,
-        "num_contributions_19_20": 2,
-        "expenditures": 36442.13,
-        "num_expenditures": 70,
-        "expenditures_19_20": 21381.74,
-        "num_expenditures_19_20": 36,
-        "cash_on_hand": 5689.53
+        "reports": 23,
+        "last_report_end_date": "11/02/2020",
+        "contributions": 228905.57,
+        "num_contributions": 77,
+        "contributions_19_20": 211502.45,
+        "num_contributions_19_20": 52,
+        "expenditures": 209100.2,
+        "num_expenditures": 88,
+        "expenditures_19_20": 194039.81,
+        "num_expenditures_19_20": 54,
+        "cash_on_hand": 26411.5
     }
 }

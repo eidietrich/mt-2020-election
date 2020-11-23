@@ -1,8 +1,8 @@
 {
     "slug": "8108-Montana-Family-Foundation",
     "committeeName": "Montana Family Foundation",
-    "scrape_date": "2020-07-09",
-    "periods": 6,
+    "scrape_date": "2020-11-11",
+    "periods": 9,
     "data": {
         "committeeId": 8108,
         "committeeName": "Montana Family Foundation",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 6,
-        "last_report_end_date": "06/25/2020",
+        "reports": 9,
+        "last_report_end_date": "10/24/2020",
         "contributions": 0,
         "num_contributions": 0,
         "contributions_19_20": 0,
         "num_contributions_19_20": 0,
-        "expenditures": 27006.31,
-        "num_expenditures": 7,
-        "expenditures_19_20": 27006.31,
-        "num_expenditures_19_20": 7,
-        "cash_on_hand": -27006.31
+        "expenditures": 57006.31,
+        "num_expenditures": 8,
+        "expenditures_19_20": 57006.31,
+        "num_expenditures_19_20": 8,
+        "cash_on_hand": -57006.31
     }
 }

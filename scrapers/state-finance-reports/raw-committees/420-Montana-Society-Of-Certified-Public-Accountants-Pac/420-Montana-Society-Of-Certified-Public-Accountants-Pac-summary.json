@@ -1,7 +1,7 @@
 {
     "slug": "420-Montana-Society-Of-Certified-Public-Accountants-Pac",
     "committeeName": "Montana Society Of Certified Public Accountants Pac",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 8,
     "data": {
         "committeeId": 420,
@@ -34,12 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "Corey Stapleton for Secretary of State",
+                "interest": "Elsie Arntzen for State Superintendent",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Elsie Arntzen for State Superintendent",
+                "interest": "Corey Stapleton for Secretary of State",
                 "position": "Support",
                 "status": "Not Applicable"
             }

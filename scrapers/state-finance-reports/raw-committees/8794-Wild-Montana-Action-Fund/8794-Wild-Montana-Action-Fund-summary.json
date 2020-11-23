@@ -1,8 +1,8 @@
 {
     "slug": "8794-Wild-Montana-Action-Fund",
     "committeeName": "Wild Montana Action Fund",
-    "scrape_date": "2020-07-09",
-    "periods": 2,
+    "scrape_date": "2020-11-11",
+    "periods": 6,
     "data": {
         "committeeId": 8794,
         "committeeName": "Wild Montana Action Fund",
@@ -20,14 +20,14 @@
             {
                 "position": "Treasurer",
                 "name": "Leighton , Kim \"Quinn\" ",
-                "address": "80 S. Warren St. Helena, MT  59601",
+                "address": "PO Box 6371 Helena, MT  59604",
                 "phone": "(406) 443-7350",
                 "email": "quinn.leightn@gmail.com"
             },
             {
                 "position": "Deputy Treasurer",
                 "name": "Parr, Laura ",
-                "address": "80 S. Warren St. Helena, MT  59601",
+                "address": "PO Box 6371 Helena, MT  59604",
                 "phone": "(406) 443-7350",
                 "email": "lparr@wildmontanaaction.org"
             }
@@ -37,20 +37,30 @@
                 "interest": "Gubernatorial Primary Voter Guide; all Dem and Rep candidates ",
                 "position": "Education",
                 "status": "On ballot"
+            },
+            {
+                "interest": "I-190 and Ci-118",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Public Lands Voter Guide ",
+                "position": "Education",
+                "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 2,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 1391.96,
-        "num_expenditures": 3,
-        "expenditures_19_20": 1391.96,
-        "num_expenditures_19_20": 3,
-        "cash_on_hand": -1391.96
+        "reports": 6,
+        "last_report_end_date": "11/03/2020",
+        "contributions": 6000.0,
+        "num_contributions": 1,
+        "contributions_19_20": 6000.0,
+        "num_contributions_19_20": 1,
+        "expenditures": 48110.37,
+        "num_expenditures": 23,
+        "expenditures_19_20": 48110.37,
+        "num_expenditures_19_20": 23,
+        "cash_on_hand": -12526.84
     }
 }

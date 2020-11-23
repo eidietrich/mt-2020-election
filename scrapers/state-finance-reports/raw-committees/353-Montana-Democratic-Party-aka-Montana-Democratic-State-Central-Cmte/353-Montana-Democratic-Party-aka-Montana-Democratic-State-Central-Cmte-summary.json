@@ -1,8 +1,8 @@
 {
     "slug": "353-Montana-Democratic-Party-aka-Montana-Democratic-State-Central-Cmte",
     "committeeName": "Montana Democratic Party aka Montana Democratic State Central Cmte",
-    "scrape_date": "2020-07-09",
-    "periods": 31,
+    "scrape_date": "2020-11-11",
+    "periods": 37,
     "data": {
         "committeeId": 353,
         "committeeName": "Montana Democratic Party aka Montana Democratic State Central Cmte",
@@ -34,8 +34,8 @@
         ],
         "issues": [
             {
-                "interest": "To elect Democratic Candidates in the State of Montana.",
-                "position": "Support",
+                "interest": "See Attachment",
+                "position": "Other",
                 "status": "Not Applicable"
             },
             {
@@ -44,23 +44,23 @@
                 "status": "Support"
             },
             {
-                "interest": "See Attachment",
-                "position": "Other",
+                "interest": "To elect Democratic Candidates in the State of Montana.",
+                "position": "Support",
                 "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 31,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 5086144.16,
-        "num_contributions": 1945,
-        "contributions_19_20": 706768.61,
-        "num_contributions_19_20": 257,
-        "expenditures": 5350317.21,
-        "num_expenditures": 1213,
-        "expenditures_19_20": 604897.18,
-        "num_expenditures_19_20": 143,
-        "cash_on_hand": 227708.93
+        "reports": 37,
+        "last_report_end_date": "11/01/2020",
+        "contributions": 6429994.16,
+        "num_contributions": 2077,
+        "contributions_19_20": 2050618.61,
+        "num_contributions_19_20": 389,
+        "expenditures": 6857157.31,
+        "num_expenditures": 1350,
+        "expenditures_19_20": 2111737.28,
+        "num_expenditures_19_20": 280,
+        "cash_on_hand": 267432.7
     }
 }

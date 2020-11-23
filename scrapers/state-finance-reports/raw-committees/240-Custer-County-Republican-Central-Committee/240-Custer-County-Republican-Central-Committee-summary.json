@@ -1,8 +1,8 @@
 {
     "slug": "240-Custer-County-Republican-Central-Committee",
     "committeeName": "Custer County Republican Central Committee",
-    "scrape_date": "2020-07-09",
-    "periods": 21,
+    "scrape_date": "2020-11-11",
+    "periods": 24,
     "data": {
         "committeeId": 240,
         "committeeName": "Custer County Republican Central Committee",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 21,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 3075.48,
-        "num_contributions": 53,
-        "contributions_19_20": 1215.0,
-        "num_contributions_19_20": 4,
-        "expenditures": 5961.65,
-        "num_expenditures": 28,
-        "expenditures_19_20": 1428.31,
-        "num_expenditures_19_20": 9,
-        "cash_on_hand": 580.12
+        "reports": 24,
+        "last_report_end_date": "10/31/2020",
+        "contributions": 9115.48,
+        "num_contributions": 79,
+        "contributions_19_20": 7255.0,
+        "num_contributions_19_20": 30,
+        "expenditures": 9525.65,
+        "num_expenditures": 38,
+        "expenditures_19_20": 4992.31,
+        "num_expenditures_19_20": 19,
+        "cash_on_hand": 1446.12
     }
 }

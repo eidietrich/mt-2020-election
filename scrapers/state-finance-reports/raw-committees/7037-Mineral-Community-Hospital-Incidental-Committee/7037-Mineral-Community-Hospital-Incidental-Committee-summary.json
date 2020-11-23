@@ -1,7 +1,7 @@
 {
     "slug": "7037-Mineral-Community-Hospital-Incidental-Committee",
     "committeeName": "Mineral Community Hospital Incidental Committee",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 1,
     "data": {
         "committeeId": 7037,
@@ -34,12 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "Contribution made to support ballot initiative to increase tobacco taxes to support health care programs",
+                "interest": "contribution made to ballot initiative to increase tobacco taxes to help fund certain health care programs",
                 "position": "Support",
                 "status": "Not on ballot"
             },
             {
-                "interest": "contribution made to ballot initiative to increase tobacco taxes to help fund certain health care programs",
+                "interest": "Contribution made to support ballot initiative to increase tobacco taxes to support health care programs",
                 "position": "Support",
                 "status": "Not on ballot"
             }

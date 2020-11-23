@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 50917,
+        "fromDateStr": "09/26/2020",
+        "toDateStr": "10/25/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 410,
+        "candidateName": "Montana Independent Bankers Pac (MIB- PAC)",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/26/2020",
+        "end_date": "10/25/2020",
+        "receipts": 0.0,
+        "expenditures": 330.0,
+        "cash_in_bank": 3504.05
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/02/20",
+            "Entity Name": "molnar, brad",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "po box 517",
+            "City": "laurel",
+            "State": "MT",
+            "Zip": "59044",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 180.0,
+            "Purpose": "campaign contribution to Molnar for Senate",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "campaign contribution check from MIB Pac",
+            "Expenditure Paid Communications Quantity": "1",
+            "Expenditure Paid Communications Subject Matter": "campaign contribution to molnar for senate."
+        },
+        {
+            "Date Paid": "10/03/20",
+            "Entity Name": "sweeney, mark",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "po box 681 ",
+            "City": "phillipsburg",
+            "State": "MT",
+            "Zip": "59858",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 150.0,
+            "Purpose": "campaign contribution to sweeney for senate",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "pac check from MIB PAC",
+            "Expenditure Paid Communications Quantity": "1",
+            "Expenditure Paid Communications Subject Matter": "campaign contribution to sweeney for montana senate."
+        }
+    ]
+}

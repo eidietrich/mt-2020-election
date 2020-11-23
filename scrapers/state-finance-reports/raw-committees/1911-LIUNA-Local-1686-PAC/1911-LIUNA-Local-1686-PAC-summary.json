@@ -1,8 +1,8 @@
 {
     "slug": "1911-LIUNA-Local-1686-PAC",
     "committeeName": "LIUNA Local 1686 PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 21,
+    "scrape_date": "2020-11-11",
+    "periods": 24,
     "data": {
         "committeeId": 1911,
         "committeeName": "LIUNA Local 1686 PAC",
@@ -34,16 +34,6 @@
         ],
         "issues": [
             {
-                "interest": "Monica Lindeen Secretary Of State",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Amanda Curtis House District 74",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Melissa Romano - State Superintendent",
                 "position": "Support",
                 "status": "Not Applicable"
@@ -54,7 +44,12 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jessie Laslovich for State Auditor",
+                "interest": "Monica Lindeen Secretary Of State",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Larry Jent - Attorney General",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -64,23 +59,28 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Larry Jent - Attorney General",
+                "interest": "Amanda Curtis House District 74",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jessie Laslovich for State Auditor",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 21,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 5612.6,
-        "num_contributions": 79,
-        "contributions_19_20": 2195.0,
-        "num_contributions_19_20": 15,
-        "expenditures": 3881.03,
-        "num_expenditures": 23,
-        "expenditures_19_20": 770.0,
-        "num_expenditures_19_20": 7,
-        "cash_on_hand": 3380.48
+        "reports": 24,
+        "last_report_end_date": "10/25/2020",
+        "contributions": 5962.6,
+        "num_contributions": 84,
+        "contributions_19_20": 2545.0,
+        "num_contributions_19_20": 20,
+        "expenditures": 6406.03,
+        "num_expenditures": 33,
+        "expenditures_19_20": 3295.0,
+        "num_expenditures_19_20": 17,
+        "cash_on_hand": 1205.48
     }
 }

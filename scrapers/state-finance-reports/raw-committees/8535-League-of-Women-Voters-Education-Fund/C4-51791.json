@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 51791,
+        "fromDateStr": "09/26/2020",
+        "toDateStr": "10/24/2020",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 8535,
+        "candidateName": "League of Women Voters Education Fund",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/26/2020",
+        "end_date": "10/24/2020",
+        "receipts": 0.0,
+        "expenditures": 70.0,
+        "cash_in_bank": -804.89
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/24/20",
+            "Entity Name": "League of Women Voters Education Fund",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1730 M St. NW, Suite 1000",
+            "City": "Washington DC",
+            "State": "DC",
+            "Zip": "20036",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 70.0,
+            "Purpose": "Candidate research and outreach for General 2020 election",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Vote411.org",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": "Candidate research and outreach for General 2020 election"
+        }
+    ]
+}

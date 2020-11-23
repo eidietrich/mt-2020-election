@@ -1,8 +1,8 @@
 {
     "slug": "1916-SEIU-775-MT-Quality-Care-Committee",
     "committeeName": "SEIU 775 MT Quality Care Committee",
-    "scrape_date": "2020-07-09",
-    "periods": 32,
+    "scrape_date": "2020-11-11",
+    "periods": 35,
     "data": {
         "committeeId": 1916,
         "committeeName": "SEIU 775 MT Quality Care Committee",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 32,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 993810.03,
-        "num_contributions": 41,
-        "contributions_19_20": 528565.1,
-        "num_contributions_19_20": 10,
-        "expenditures": 916299.71,
-        "num_expenditures": 24,
-        "expenditures_19_20": 475718.77,
-        "num_expenditures_19_20": 10,
-        "cash_on_hand": 52302.57
+        "reports": 35,
+        "last_report_end_date": "10/24/2020",
+        "contributions": 1494704.83,
+        "num_contributions": 46,
+        "contributions_19_20": 1029459.9,
+        "num_contributions_19_20": 15,
+        "expenditures": 1466349.71,
+        "num_expenditures": 30,
+        "expenditures_19_20": 1025768.77,
+        "num_expenditures_19_20": 16,
+        "cash_on_hand": 2252.57
     }
 }

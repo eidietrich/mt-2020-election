@@ -1,7 +1,7 @@
 {
     "slug": "8014-Missoulians-for-Missoula",
     "committeeName": "Missoulians for Missoula",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 4,
     "data": {
         "committeeId": 8014,
@@ -34,7 +34,27 @@
         ],
         "issues": [
             {
+                "interest": "Alex Michael Fregerio for Missoula City Council",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Alan C. Ault for Missoula City Council",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Amber Sherrill for Missoula City Council",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Nick Shontz for Missoula City Council",
+                "position": "Oppose",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Sandra Vasecka for Missoula City Council",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -44,32 +64,12 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Nick Shontz for Missoula City Council",
-                "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Mirtha Becerra for Missoula City Council",
-                "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Amber Sherrill for Missoula City Council",
-                "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Brent Sperry for Missoula City Council ",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Sandra Vasecka for Missoula City Council",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Alex Michael Fregerio for Missoula City Council",
+                "interest": "Mirtha Becerra for Missoula City Council",
                 "position": "Oppose",
                 "status": "Not Applicable"
             }

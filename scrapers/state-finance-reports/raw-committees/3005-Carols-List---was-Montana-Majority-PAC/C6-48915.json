@@ -7,8 +7,8 @@
         "formTypeDescr": "Political Committee Finance Report",
         "committeeId": 3005,
         "candidateName": "Carols List - was Montana Majority PAC",
-        "statusDescr": "Filed",
-        "amendedDate": null,
+        "statusDescr": "Amended",
+        "amendedDate": 1604612025000,
         "totalContrLessThan35": 0.0,
         "totalIndivContrLessThan35": 0.0,
         "grandTotalLessThan35": 0.0,
@@ -20,7 +20,7 @@
         "end_date": "05/24/2020",
         "receipts": 1425.0,
         "expenditures": 12193.26,
-        "cash_in_bank": 27078.65
+        "cash_in_bank": 25682.47
     },
     "contributions": [
         {

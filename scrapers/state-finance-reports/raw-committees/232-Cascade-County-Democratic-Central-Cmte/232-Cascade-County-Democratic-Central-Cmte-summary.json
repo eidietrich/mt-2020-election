@@ -1,8 +1,8 @@
 {
     "slug": "232-Cascade-County-Democratic-Central-Cmte",
     "committeeName": "Cascade County Democratic Central Cmte",
-    "scrape_date": "2020-07-09",
-    "periods": 20,
+    "scrape_date": "2020-11-11",
+    "periods": 21,
     "data": {
         "committeeId": 232,
         "committeeName": "Cascade County Democratic Central Cmte",
@@ -26,25 +26,25 @@
             },
             {
                 "position": "Deputy Treasurer",
-                "name": "Strizich, William",
-                "address": "1510 Colorado Ave Black Eagle, MT  59414",
-                "phone": "(406) 870-3333",
-                "email": "wstrizich@aol.com"
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
             }
         ],
         "issues": []
     },
     "finances": {
-        "reports": 20,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 28782.99,
-        "num_contributions": 747,
-        "contributions_19_20": 29325.18,
-        "num_contributions_19_20": 506,
-        "expenditures": 44676.28,
-        "num_expenditures": 426,
-        "expenditures_19_20": 9737.35,
-        "num_expenditures_19_20": 125,
-        "cash_on_hand": 15183.55
+        "reports": 21,
+        "last_report_end_date": "09/30/2020",
+        "contributions": 29027.99,
+        "num_contributions": 767,
+        "contributions_19_20": 29570.18,
+        "num_contributions_19_20": 526,
+        "expenditures": 47037.79,
+        "num_expenditures": 452,
+        "expenditures_19_20": 12098.86,
+        "num_expenditures_19_20": 151,
+        "cash_on_hand": 13517.04
     }
 }

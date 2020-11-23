@@ -1,8 +1,8 @@
 {
     "slug": "5699-Planned-Parenthood-Advocates-of-Montana-PAC",
     "committeeName": "Planned Parenthood Advocates of Montana PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 6,
+    "scrape_date": "2020-11-11",
+    "periods": 11,
     "data": {
         "committeeId": 5699,
         "committeeName": "Planned Parenthood Advocates of Montana PAC",
@@ -34,108 +34,38 @@
         ],
         "issues": [
             {
-                "interest": "Robert Saunders -HD 48",
-                "position": "Oppose",
-                "status": "On ballot, approved"
-            },
-            {
-                "interest": "Oppose anti-women's health candidates",
-                "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kari Boiter - HD 44",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Mike Hopkins - HD 92",
-                "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Dale Mortenson - HD 44",
-                "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Andrew Person - HD 96",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kristen Juras for Supreme  Court Justice",
-                "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Steve Bullock for Governor",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Shoots Veis - HD 51",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Adam Pertz - HD 96",
-                "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Adam Rosendale - HD 51",
-                "position": "Oppose",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Addrien Marx - HD 92",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Jessica Karjala - HD 48",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Dirk Sandefur for Supreme Court Justice",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Support pro-women's health candidates",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jimmy Patelis  - HD 52",
-                "position": "Oppose",
-                "status": "Support"
+                "interest": "Mike Cooney for Governor",
+                "position": "Support",
+                "status": "On ballot"
             },
             {
                 "interest": "Greg Gianforte for Governor",
                 "position": "Oppose",
-                "status": "Not Applicable"
+                "status": "On ballot"
             },
             {
-                "interest": "Chris Goodridge - HD 52",
-                "position": "Support",
-                "status": "On ballot"
+                "interest": "Oppose anti-women's health candidates",
+                "position": "Oppose",
+                "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 6,
-        "last_report_end_date": "01/30/2017",
-        "contributions": 497574.27,
-        "num_contributions": 145,
-        "contributions_19_20": 0.0,
-        "num_contributions_19_20": 0,
-        "expenditures": 793417.2,
-        "num_expenditures": 39,
-        "expenditures_19_20": 0.0,
-        "num_expenditures_19_20": 0,
-        "cash_on_hand": 74663.03
+        "reports": 11,
+        "last_report_end_date": "11/03/2020",
+        "contributions": 1031156.27,
+        "num_contributions": 157,
+        "contributions_19_20": 533582.0,
+        "num_contributions_19_20": 12,
+        "expenditures": 1359290.95,
+        "num_expenditures": 64,
+        "expenditures_19_20": 565873.75,
+        "num_expenditures_19_20": 25,
+        "cash_on_hand": 58104.18
     }
 }

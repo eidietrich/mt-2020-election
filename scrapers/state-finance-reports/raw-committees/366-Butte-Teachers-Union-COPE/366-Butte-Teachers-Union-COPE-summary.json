@@ -1,8 +1,8 @@
 {
     "slug": "366-Butte-Teachers-Union-COPE",
     "committeeName": "Butte Teachers Union COPE",
-    "scrape_date": "2020-07-09",
-    "periods": 18,
+    "scrape_date": "2020-11-11",
+    "periods": 21,
     "data": {
         "committeeId": 366,
         "committeeName": "Butte Teachers Union COPE",
@@ -34,16 +34,6 @@
         ],
         "issues": [
             {
-                "interest": "Melissa Romano State Superintendent",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Steve Bullock Governor",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "Amanda Curtis House District 74",
                 "position": "Support",
                 "status": "Not Applicable"
@@ -54,9 +44,19 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Denise Juneau US Senate",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Edie McLafferty Senate 38",
                 "position": "Support",
                 "status": "On ballot"
+            },
+            {
+                "interest": "Melissa Romano State Superintendent",
+                "position": "Support",
+                "status": "Not Applicable"
             },
             {
                 "interest": "Eric Mankins City Commissioner",
@@ -64,23 +64,23 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Denise Juneau US Senate",
+                "interest": "Steve Bullock Governor",
                 "position": "Support",
-                "status": "Not Applicable"
+                "status": "On ballot"
             }
         ]
     },
     "finances": {
-        "reports": 18,
-        "last_report_end_date": "06/25/2020",
-        "contributions": -9493.5,
-        "num_contributions": 65,
-        "contributions_19_20": -1154.0,
-        "num_contributions_19_20": 17,
-        "expenditures": 12041.36,
-        "num_expenditures": 38,
-        "expenditures_19_20": 1525.0,
-        "num_expenditures_19_20": 8,
-        "cash_on_hand": 4688.09
+        "reports": 21,
+        "last_report_end_date": "10/25/2020",
+        "contributions": -9163.5,
+        "num_contributions": 69,
+        "contributions_19_20": -824.0,
+        "num_contributions_19_20": 21,
+        "expenditures": 12611.36,
+        "num_expenditures": 41,
+        "expenditures_19_20": 2095.0,
+        "num_expenditures_19_20": 11,
+        "cash_on_hand": 4448.09
     }
 }

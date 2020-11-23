@@ -1,8 +1,8 @@
 {
     "slug": "8316-MONCAR",
     "committeeName": "MONCAR ",
-    "scrape_date": "2020-07-09",
-    "periods": 1,
+    "scrape_date": "2020-11-11",
+    "periods": 2,
     "data": {
         "committeeId": 8316,
         "committeeName": "MONCAR ",
@@ -35,16 +35,16 @@
         "issues": []
     },
     "finances": {
-        "reports": 1,
-        "last_report_end_date": "06/26/2020",
-        "contributions": 2000.0,
-        "num_contributions": 7,
-        "contributions_19_20": 2000.0,
-        "num_contributions_19_20": 7,
-        "expenditures": 0,
-        "num_expenditures": 0,
-        "expenditures_19_20": 0,
-        "num_expenditures_19_20": 0,
-        "cash_on_hand": 2000.0
+        "reports": 2,
+        "last_report_end_date": "08/25/2020",
+        "contributions": 5800.0,
+        "num_contributions": 21,
+        "contributions_19_20": 5800.0,
+        "num_contributions_19_20": 21,
+        "expenditures": 11050.0,
+        "num_expenditures": 37,
+        "expenditures_19_20": 11050.0,
+        "num_expenditures_19_20": 37,
+        "cash_on_hand": -5250.0
     }
 }

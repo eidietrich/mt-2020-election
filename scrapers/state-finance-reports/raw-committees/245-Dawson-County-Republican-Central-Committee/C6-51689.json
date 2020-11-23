@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 51689,
+        "fromDateStr": "09/27/2020",
+        "toDateStr": "10/25/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 245,
+        "candidateName": "Dawson County Republican Central Committee",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/27/2020",
+        "end_date": "10/25/2020",
+        "receipts": 0.0,
+        "expenditures": 481.5,
+        "cash_in_bank": 1975.83
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/09/20",
+            "Entity Name": "Glendive Ranger Review",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "119 West Bell Street",
+            "City": "Glendive",
+            "State": "MT",
+            "Zip": "59330",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 181.5,
+            "Purpose": "2 ads encouraging voters to vote Republican for 132$, and 1 add to vote for LR130 and Laura McKinnon for 49.50$",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Ranger Review Newspaper",
+            "Expenditure Paid Communications Quantity": "ads ran 1 day on 10/9/20; 2 ads encouraging people to vote Republican, and 1 ad to vote yes on LR130 and Laura McKinnon",
+            "Expenditure Paid Communications Subject Matter": "2 ads encouraging voters to vote Republican, and 1 ad to vote yes on LR130 and Laura McKinnon"
+        },
+        {
+            "Date Paid": "10/09/20",
+            "Entity Name": "kxgn radio",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "210 S. Douglas",
+            "City": "Glendive",
+            "State": "MT",
+            "Zip": "59330",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 300.0,
+            "Purpose": "ads encouraging voters to vote Republican",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Radio",
+            "Expenditure Paid Communications Quantity": "50 ads at 6$ an ad",
+            "Expenditure Paid Communications Subject Matter": "Pro Republican ads for voters to vote Republican"
+        }
+    ]
+}

@@ -1,8 +1,8 @@
 {
     "slug": "415-Eye-Pac-Aka-Montana-Eye-Pac",
     "committeeName": "Eye Pac Aka Montana Eye Pac  ",
-    "scrape_date": "2020-07-09",
-    "periods": 20,
+    "scrape_date": "2020-11-11",
+    "periods": 21,
     "data": {
         "committeeId": 415,
         "committeeName": "Eye Pac Aka Montana Eye Pac  ",
@@ -41,8 +41,8 @@
         ]
     },
     "finances": {
-        "reports": 20,
-        "last_report_end_date": "06/25/2020",
+        "reports": 21,
+        "last_report_end_date": "10/28/2020",
         "contributions": 1864.03,
         "num_contributions": 10,
         "contributions_19_20": 14.03,
@@ -51,6 +51,6 @@
         "num_expenditures": 37,
         "expenditures_19_20": 0.0,
         "num_expenditures_19_20": 0,
-        "cash_on_hand": 10509.41
+        "cash_on_hand": 10509.67
     }
 }

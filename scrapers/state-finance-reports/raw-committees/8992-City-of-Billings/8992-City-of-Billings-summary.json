@@ -1,0 +1,56 @@
+{
+    "slug": "8992-City-of-Billings",
+    "committeeName": "City of Billings",
+    "scrape_date": "2020-11-11",
+    "periods": 4,
+    "data": {
+        "committeeId": 8992,
+        "committeeName": "City of Billings",
+        "committeeAddress": "P.O. Box 1178, Billings, MT 59103",
+        "committeeTypeDescr": "Incidental",
+        "incorporated": "L",
+        "electionYear": "2020",
+        "amendedDate": 1593410400000,
+        "entityFullName": "City of Billings",
+        "entityCity": "Billings",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Zoeller, Andrew",
+                "address": "P.O. Box 1178 Billings, MT  59103",
+                "phone": "(406) 657-8209",
+                "email": "zoellera@billingsmt.gov"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "",
+                "address": "",
+                "phone": "",
+                "email": ""
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Public Safety Mill Levy",
+                "position": "Education",
+                "status": "On ballot"
+            }
+        ]
+    },
+    "finances": {
+        "reports": 4,
+        "last_report_end_date": "10/22/2020",
+        "contributions": 11698.62,
+        "num_contributions": 3,
+        "contributions_19_20": 11698.62,
+        "num_contributions_19_20": 3,
+        "expenditures": 34084.32,
+        "num_expenditures": 7,
+        "expenditures_19_20": 34084.32,
+        "num_expenditures_19_20": 7,
+        "cash_on_hand": -16884.32
+    }
+}

@@ -1,8 +1,8 @@
 {
     "slug": "2128-Montana-Bankers-PAC",
     "committeeName": "Montana Bankers PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 20,
+    "scrape_date": "2020-11-11",
+    "periods": 22,
     "data": {
         "committeeId": 2128,
         "committeeName": "Montana Bankers PAC",
@@ -39,17 +39,12 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Tim Fox - Attorney General",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Jesse Laslovich \u2013 Auditor race",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "MONTANA CHAMBER PAC",
+                "interest": "Corey Stapleton for Secretary of State",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -59,7 +54,12 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Corey Stapleton for Secretary of State",
+                "interest": "MONTANA CHAMBER PAC",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kristen Juras - Supreme  Court Justice",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -69,23 +69,23 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Kristen Juras - Supreme  Court Justice",
+                "interest": "Tim Fox - Attorney General",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 20,
-        "last_report_end_date": "12/31/2019",
-        "contributions": 27925.39,
-        "num_contributions": 109,
-        "contributions_19_20": 4795.0,
-        "num_contributions_19_20": 12,
-        "expenditures": 29931.28,
-        "num_expenditures": 15,
-        "expenditures_19_20": 0.0,
-        "num_expenditures_19_20": 0,
-        "cash_on_hand": 6641.41
+        "reports": 22,
+        "last_report_end_date": "09/25/2020",
+        "contributions": 32815.39,
+        "num_contributions": 106,
+        "contributions_19_20": 9795.0,
+        "num_contributions_19_20": 19,
+        "expenditures": 39554.2,
+        "num_expenditures": 21,
+        "expenditures_19_20": 9622.92,
+        "num_expenditures_19_20": 6,
+        "cash_on_hand": 2018.49
     }
 }

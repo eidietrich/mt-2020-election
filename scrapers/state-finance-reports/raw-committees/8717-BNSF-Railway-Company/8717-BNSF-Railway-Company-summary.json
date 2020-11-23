@@ -1,8 +1,8 @@
 {
     "slug": "8717-BNSF-Railway-Company",
     "committeeName": "BNSF Railway Company",
-    "scrape_date": "2020-07-09",
-    "periods": 2,
+    "scrape_date": "2020-11-11",
+    "periods": 3,
     "data": {
         "committeeId": 8717,
         "committeeName": "BNSF Railway Company",
@@ -35,8 +35,8 @@
         "issues": []
     },
     "finances": {
-        "reports": 2,
-        "last_report_end_date": "06/25/2020",
+        "reports": 3,
+        "last_report_end_date": "07/11/2020",
         "contributions": 0,
         "num_contributions": 0,
         "contributions_19_20": 0,

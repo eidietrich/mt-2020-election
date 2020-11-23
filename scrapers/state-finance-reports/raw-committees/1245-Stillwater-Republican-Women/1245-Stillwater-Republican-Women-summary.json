@@ -1,8 +1,8 @@
 {
     "slug": "1245-Stillwater-Republican-Women",
     "committeeName": "Stillwater Republican Women ",
-    "scrape_date": "2020-07-09",
-    "periods": 18,
+    "scrape_date": "2020-11-11",
+    "periods": 21,
     "data": {
         "committeeId": 1245,
         "committeeName": "Stillwater Republican Women ",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 18,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 22508.14,
-        "num_contributions": 270,
-        "contributions_19_20": 20435.94,
-        "num_contributions_19_20": 98,
-        "expenditures": 54424.47,
-        "num_expenditures": 283,
-        "expenditures_19_20": 20982.68,
-        "num_expenditures_19_20": 94,
-        "cash_on_hand": 5290.38
+        "reports": 21,
+        "last_report_end_date": "10/25/2020",
+        "contributions": 25267.14,
+        "num_contributions": 274,
+        "contributions_19_20": 23194.94,
+        "num_contributions_19_20": 102,
+        "expenditures": 57781.72,
+        "num_expenditures": 314,
+        "expenditures_19_20": 24339.93,
+        "num_expenditures_19_20": 125,
+        "cash_on_hand": 4747.13
     }
 }

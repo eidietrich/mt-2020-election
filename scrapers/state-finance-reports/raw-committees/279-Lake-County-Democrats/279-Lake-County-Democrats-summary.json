@@ -1,7 +1,7 @@
 {
     "slug": "279-Lake-County-Democrats",
     "committeeName": "Lake County Democrats",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 7,
     "data": {
         "committeeId": 279,
@@ -42,15 +42,15 @@
     },
     "finances": {
         "reports": 7,
-        "last_report_end_date": "06/25/2020",
-        "contributions": -1787.72,
-        "num_contributions": 15,
-        "contributions_19_20": -1216.0,
-        "num_contributions_19_20": 14,
-        "expenditures": 3315.74,
-        "num_expenditures": 31,
-        "expenditures_19_20": 3315.74,
-        "num_expenditures_19_20": 31,
-        "cash_on_hand": 2029.98
+        "last_report_end_date": "10/29/2020",
+        "contributions": 2133.73,
+        "num_contributions": 40,
+        "contributions_19_20": 2705.45,
+        "num_contributions_19_20": 39,
+        "expenditures": 7350.33,
+        "num_expenditures": 51,
+        "expenditures_19_20": 7350.33,
+        "num_expenditures_19_20": 51,
+        "cash_on_hand": 1820.39
     }
 }

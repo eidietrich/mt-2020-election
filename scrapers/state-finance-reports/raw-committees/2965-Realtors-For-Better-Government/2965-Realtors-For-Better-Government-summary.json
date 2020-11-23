@@ -1,8 +1,8 @@
 {
     "slug": "2965-Realtors-For-Better-Government",
     "committeeName": "Realtors For Better Government",
-    "scrape_date": "2020-07-09",
-    "periods": 20,
+    "scrape_date": "2020-11-11",
+    "periods": 22,
     "data": {
         "committeeId": 2965,
         "committeeName": "Realtors For Better Government",
@@ -44,28 +44,28 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Chris Mehl",
+                "interest": "Shaun Brown",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Shaun Brown",
+                "interest": "Chris Mehl",
                 "position": "Support",
                 "status": "Support"
             }
         ]
     },
     "finances": {
-        "reports": 20,
-        "last_report_end_date": "04/27/2020",
-        "contributions": 22762.18,
-        "num_contributions": 29,
-        "contributions_19_20": 41861.21,
-        "num_contributions_19_20": 5,
-        "expenditures": 241065.32,
-        "num_expenditures": 53,
-        "expenditures_19_20": 32717.8,
-        "num_expenditures_19_20": 8,
-        "cash_on_hand": 9605.69
+        "reports": 22,
+        "last_report_end_date": "10/24/2020",
+        "contributions": 86444.14,
+        "num_contributions": 32,
+        "contributions_19_20": 105543.17,
+        "num_contributions_19_20": 8,
+        "expenditures": 312118.86,
+        "num_expenditures": 78,
+        "expenditures_19_20": 103771.34,
+        "num_expenditures_19_20": 33,
+        "cash_on_hand": 1552.15
     }
 }

@@ -1,8 +1,8 @@
 {
     "slug": "253-Flathead-County-Democratic-Women's-Club",
     "committeeName": "Flathead County Democratic Women's Club",
-    "scrape_date": "2020-07-09",
-    "periods": 15,
+    "scrape_date": "2020-11-11",
+    "periods": 18,
     "data": {
         "committeeId": 253,
         "committeeName": "Flathead County Democratic Women's Club",
@@ -34,27 +34,22 @@
         ],
         "issues": [
             {
-                "interest": "Rex Renk for Clerk of the Supreme Court",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Robert Petersen for House District 9",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "JoBeth Blair for House District 11",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Kwen L. Shirley for House District 4",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
+                "interest": "Mary Custer for House District 6",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Zac Perry for House District 3",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Rex Renk for Clerk of the Supreme Court",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -69,17 +64,17 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Robert Petersen for House District 9",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "JoBeth Blair for House District 11",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "James Cossitt for House District 7",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kathleen Williams for US Congress",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Mary Custer for House District 6",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -92,20 +87,25 @@
                 "interest": "Dave Fern for House District 5",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Kathleen Williams for US Congress",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 15,
-        "last_report_end_date": "06/25/2020",
-        "contributions": -15029.14,
-        "num_contributions": 553,
-        "contributions_19_20": 1986.29,
-        "num_contributions_19_20": 74,
-        "expenditures": 85243.08,
-        "num_expenditures": 298,
-        "expenditures_19_20": 26310.16,
-        "num_expenditures_19_20": 79,
-        "cash_on_hand": 12310.82
+        "reports": 18,
+        "last_report_end_date": "10/25/2020",
+        "contributions": -1809.14,
+        "num_contributions": 618,
+        "contributions_19_20": 15206.29,
+        "num_contributions_19_20": 139,
+        "expenditures": 94969.68,
+        "num_expenditures": 325,
+        "expenditures_19_20": 36036.76,
+        "num_expenditures_19_20": 106,
+        "cash_on_hand": 12950.22
     }
 }

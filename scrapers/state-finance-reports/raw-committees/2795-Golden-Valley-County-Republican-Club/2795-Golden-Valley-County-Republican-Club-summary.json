@@ -1,8 +1,8 @@
 {
     "slug": "2795-Golden-Valley-County-Republican-Club",
     "committeeName": "Golden Valley County Republican Club",
-    "scrape_date": "2020-07-09",
-    "periods": 13,
+    "scrape_date": "2020-11-11",
+    "periods": 14,
     "data": {
         "committeeId": 2795,
         "committeeName": "Golden Valley County Republican Club",
@@ -39,11 +39,6 @@
                 "status": "Support"
             },
             {
-                "interest": "Support Republican candidates",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Greg Gianforte for Congress",
                 "position": "Support",
                 "status": "Not Applicable"
@@ -52,12 +47,17 @@
                 "interest": "Wylie Galt for HD 30",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Support Republican candidates",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 13,
-        "last_report_end_date": "04/25/2020",
+        "reports": 14,
+        "last_report_end_date": "06/25/2020",
         "contributions": -510.5,
         "num_contributions": 17,
         "contributions_19_20": 78.0,

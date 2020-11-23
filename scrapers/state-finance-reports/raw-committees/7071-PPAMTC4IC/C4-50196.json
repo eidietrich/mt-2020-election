@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 50196,
+        "fromDateStr": "06/26/2020",
+        "toDateStr": "08/24/2020",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7071,
+        "candidateName": "PPAMTC4IC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/26/2020",
+        "end_date": "08/24/2020",
+        "receipts": 0.0,
+        "expenditures": 28.0,
+        "cash_in_bank": -28.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "08/20/20",
+            "Entity Name": "planned parenthood advocates of montana",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1116 Grand Ave., Ste. 201",
+            "City": "Billings",
+            "State": "MT",
+            "Zip": "59102",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 28.0,
+            "Purpose": "research and decision making around coordinated ask from Cooney Campaign",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "In person",
+            "Expenditure Paid Communications Quantity": "time researching August 20 and 21, 2020",
+            "Expenditure Paid Communications Subject Matter": "Cooney campaign"
+        }
+    ]
+}

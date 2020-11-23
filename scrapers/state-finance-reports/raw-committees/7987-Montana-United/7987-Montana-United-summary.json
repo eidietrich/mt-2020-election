@@ -1,8 +1,8 @@
 {
     "slug": "7987-Montana-United",
     "committeeName": "Montana United",
-    "scrape_date": "2020-07-09",
-    "periods": 5,
+    "scrape_date": "2020-11-11",
+    "periods": 10,
     "data": {
         "committeeId": 7987,
         "committeeName": "Montana United",
@@ -41,6 +41,11 @@
             {
                 "interest": "Austin Knudsen for Attorney General",
                 "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Montana Republican State Central Committee",
+                "position": "Support",
                 "status": "Not Applicable"
             },
             {
@@ -51,16 +56,16 @@
         ]
     },
     "finances": {
-        "reports": 5,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 15350.0,
-        "num_contributions": 10,
-        "contributions_19_20": 15350.0,
-        "num_contributions_19_20": 10,
-        "expenditures": 11102.81,
-        "num_expenditures": 11,
-        "expenditures_19_20": 11102.81,
-        "num_expenditures_19_20": 11,
-        "cash_on_hand": 4247.19
+        "reports": 10,
+        "last_report_end_date": "11/02/2020",
+        "contributions": 59960.0,
+        "num_contributions": 29,
+        "contributions_19_20": 59960.0,
+        "num_contributions_19_20": 29,
+        "expenditures": 35492.08,
+        "num_expenditures": 22,
+        "expenditures_19_20": 35492.08,
+        "num_expenditures_19_20": 22,
+        "cash_on_hand": 25387.92
     }
 }

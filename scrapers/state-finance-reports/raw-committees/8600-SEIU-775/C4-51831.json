@@ -1,0 +1,66 @@
+{
+    "data": {
+        "reportId": 51831,
+        "fromDateStr": "09/26/2020",
+        "toDateStr": "10/24/2020",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 8600,
+        "candidateName": "SEIU 775",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/26/2020",
+        "end_date": "10/24/2020",
+        "receipts": 0.0,
+        "expenditures": 250349.2,
+        "cash_in_bank": -1046978.4
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/13/20",
+            "Entity Name": "SEIU 775 MT Quality Care Committee",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "302 N Last Chance Gulch",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 250000.0,
+            "Purpose": "Contribution",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        },
+        {
+            "Date Paid": "10/24/20",
+            "Entity Name": "SEIU 775 MT Quality Care Committee",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "302 N Last Chance Gulch",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 349.2,
+            "Purpose": "In-Kind staff/overhead provided by SEIU 775",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

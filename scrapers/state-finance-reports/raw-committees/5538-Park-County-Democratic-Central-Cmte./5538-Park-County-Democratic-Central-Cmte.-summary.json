@@ -1,8 +1,8 @@
 {
     "slug": "5538-Park-County-Democratic-Central-Cmte.",
     "committeeName": "Park County Democratic Central Cmte.",
-    "scrape_date": "2020-07-09",
-    "periods": 17,
+    "scrape_date": "2020-11-11",
+    "periods": 20,
     "data": {
         "committeeId": 5538,
         "committeeName": "Park County Democratic Central Cmte.",
@@ -35,16 +35,16 @@
         "issues": []
     },
     "finances": {
-        "reports": 17,
-        "last_report_end_date": "06/29/2020",
-        "contributions": 18838.49,
-        "num_contributions": 261,
-        "contributions_19_20": 8885.88,
-        "num_contributions_19_20": 80,
-        "expenditures": 22806.24,
-        "num_expenditures": 126,
-        "expenditures_19_20": 5975.97,
-        "num_expenditures_19_20": 36,
-        "cash_on_hand": 7463.96
+        "reports": 20,
+        "last_report_end_date": "10/29/2020",
+        "contributions": 19379.56,
+        "num_contributions": 281,
+        "contributions_19_20": 9426.95,
+        "num_contributions_19_20": 100,
+        "expenditures": 27944.74,
+        "num_expenditures": 139,
+        "expenditures_19_20": 11114.47,
+        "num_expenditures_19_20": 49,
+        "cash_on_hand": 5211.74
     }
 }

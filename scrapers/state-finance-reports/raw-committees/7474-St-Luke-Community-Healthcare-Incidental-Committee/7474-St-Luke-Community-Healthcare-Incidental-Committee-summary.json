@@ -1,7 +1,7 @@
 {
     "slug": "7474-St-Luke-Community-Healthcare-Incidental-Committee",
     "committeeName": "St Luke Community Healthcare Incidental Committee",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 2,
     "data": {
         "committeeId": 7474,
@@ -34,11 +34,6 @@
         ],
         "issues": [
             {
-                "interest": "Purpose: To support or oppose issues and candidates for legislative, statewide, or other public office on which the PAC agrees.  Candidates and issues may change from time to time.",
-                "position": "Other",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Contribution made to support ballot initiative to increase tobacco taxes to support health care programs",
                 "position": "Support",
                 "status": "Not on ballot"
@@ -47,6 +42,11 @@
                 "interest": "Ballot Initiative to increase tobacco taxes to suport health care programs",
                 "position": "Support",
                 "status": "Not on ballot"
+            },
+            {
+                "interest": "Purpose: To support or oppose issues and candidates for legislative, statewide, or other public office on which the PAC agrees.  Candidates and issues may change from time to time.",
+                "position": "Other",
+                "status": "Not Applicable"
             }
         ]
     },

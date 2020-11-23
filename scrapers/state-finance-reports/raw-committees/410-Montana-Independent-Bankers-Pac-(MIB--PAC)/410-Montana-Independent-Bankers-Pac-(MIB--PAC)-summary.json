@@ -1,8 +1,8 @@
 {
     "slug": "410-Montana-Independent-Bankers-Pac-(MIB--PAC)",
     "committeeName": "Montana Independent Bankers Pac (MIB- PAC)",
-    "scrape_date": "2020-07-09",
-    "periods": 31,
+    "scrape_date": "2020-11-11",
+    "periods": 34,
     "data": {
         "committeeId": 410,
         "committeeName": "Montana Independent Bankers Pac (MIB- PAC)",
@@ -34,17 +34,47 @@
         ],
         "issues": [
             {
+                "interest": "brad molnar for state senate",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Elsie Arntzen -State Superintendent",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "MRLCC golfing event",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "republican candidate leadership committee (RLCC)",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "james brown for montana PSC #3",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "joe lamm for legislature",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
                 "interest": "Kerri Seekins-Crowe for House",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Tom Welch  for house",
+                "interest": "mark sweeney for state senate ",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "ken walsh for legislature ",
+                "interest": "jacobson for secretary of state",
                 "position": "Support",
                 "status": "Support"
             },
@@ -54,23 +84,33 @@
                 "status": "Support"
             },
             {
-                "interest": "james brown for montana PSC #3",
+                "interest": "ken walsh for legislature ",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "gianforte for governor",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Tom Welch  for house",
                 "position": "Support",
                 "status": "Support"
             }
         ]
     },
     "finances": {
-        "reports": 31,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 5369.79,
-        "num_contributions": 138,
-        "contributions_19_20": 3729.85,
-        "num_contributions_19_20": 27,
-        "expenditures": 11220.0,
-        "num_expenditures": 53,
-        "expenditures_19_20": 4040.0,
-        "num_expenditures_19_20": 12,
-        "cash_on_hand": 8334.05
+        "reports": 34,
+        "last_report_end_date": "10/25/2020",
+        "contributions": 5289.79,
+        "num_contributions": 139,
+        "contributions_19_20": 3649.85,
+        "num_contributions_19_20": 28,
+        "expenditures": 16130.0,
+        "num_expenditures": 62,
+        "expenditures_19_20": 8950.0,
+        "num_expenditures_19_20": 21,
+        "cash_on_hand": 3504.05
     }
 }

@@ -1,7 +1,7 @@
 {
     "slug": "5028-Heenan-Law-Firm-PLLC",
     "committeeName": "Heenan Law Firm PLLC",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 13,
     "data": {
         "committeeId": 5028,
@@ -34,7 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
+                "interest": "Dirk Sandefur - Supreme Court",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -44,7 +44,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Dirk Sandefur - Supreme Court",
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
                 "position": "Support",
                 "status": "Not Applicable"
             }

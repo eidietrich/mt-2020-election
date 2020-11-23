@@ -1,8 +1,8 @@
 {
     "slug": "325-Sanders-County-Republican-Central-Committee",
     "committeeName": "Sanders County Republican Central Committee",
-    "scrape_date": "2020-07-09",
-    "periods": 24,
+    "scrape_date": "2020-11-11",
+    "periods": 27,
     "data": {
         "committeeId": 325,
         "committeeName": "Sanders County Republican Central Committee",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 24,
-        "last_report_end_date": "05/24/2020",
-        "contributions": 4958.22,
-        "num_contributions": 179,
-        "contributions_19_20": -299.2,
-        "num_contributions_19_20": 15,
-        "expenditures": 16228.54,
-        "num_expenditures": 85,
-        "expenditures_19_20": 1861.2,
-        "num_expenditures_19_20": 13,
-        "cash_on_hand": 2042.02
+        "reports": 27,
+        "last_report_end_date": "09/25/2020",
+        "contributions": 6943.23,
+        "num_contributions": 189,
+        "contributions_19_20": 1685.81,
+        "num_contributions_19_20": 25,
+        "expenditures": 16583.54,
+        "num_expenditures": 89,
+        "expenditures_19_20": 2216.2,
+        "num_expenditures_19_20": 17,
+        "cash_on_hand": 3672.03
     }
 }

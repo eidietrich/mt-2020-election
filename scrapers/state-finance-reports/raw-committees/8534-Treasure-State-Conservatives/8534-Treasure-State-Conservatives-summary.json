@@ -1,8 +1,8 @@
 {
     "slug": "8534-Treasure-State-Conservatives",
     "committeeName": "Treasure State Conservatives",
-    "scrape_date": "2020-07-09",
-    "periods": 3,
+    "scrape_date": "2020-11-11",
+    "periods": 5,
     "data": {
         "committeeId": 8534,
         "committeeName": "Treasure State Conservatives",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 3,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 35950.75,
-        "num_contributions": 13,
-        "contributions_19_20": 35950.75,
-        "num_contributions_19_20": 13,
-        "expenditures": 48076.81,
-        "num_expenditures": 33,
-        "expenditures_19_20": 48076.81,
-        "num_expenditures_19_20": 33,
-        "cash_on_hand": 13287.32
+        "reports": 5,
+        "last_report_end_date": "09/25/2020",
+        "contributions": 36500.75,
+        "num_contributions": 14,
+        "contributions_19_20": 36500.75,
+        "num_contributions_19_20": 14,
+        "expenditures": 61914.13,
+        "num_expenditures": 42,
+        "expenditures_19_20": 61914.13,
+        "num_expenditures_19_20": 42,
+        "cash_on_hand": 0.0
     }
 }

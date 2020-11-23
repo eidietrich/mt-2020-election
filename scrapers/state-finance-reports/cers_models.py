@@ -41,12 +41,15 @@ MANUAL_CACHES = {
     48320: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-48320-cooney-may2020-contributions.csv',
     48513: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-48513-cooney-june2020-contribututions.csv',
     50070: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-50070-cooney-aug2020-contribututions.csv',
-    50595: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-50595-cooney-sept2020-contribututions.csv'
+    50595: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-50595-cooney-sept2020-contribututions.csv',
+    51325: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-51325-cooney-oct2020-contribututions.csv',
 }
 MANUAL_SUMMARY_CACHES = {
     48513: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-48513-cooney-june2020-summary.html',
     50070: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-50070-cooney-aug2020-summary.html',
     50595: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-50595-cooney-sept2020-summary.html',
+    51325: 'scrapers/state-finance-reports/raw/Cooney-Mike--R/manual-51325-cooney-oct2020-summary.html',
+
 }
 
 class CandidateList:

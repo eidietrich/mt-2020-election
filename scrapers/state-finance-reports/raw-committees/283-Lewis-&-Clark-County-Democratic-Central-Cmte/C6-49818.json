@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 49818,
+        "fromDateStr": "04/01/2020",
+        "toDateStr": "04/30/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 283,
+        "candidateName": "Lewis & Clark County Democratic Central Cmte",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/01/2020",
+        "end_date": "04/30/2020",
+        "receipts": 3.42,
+        "expenditures": 2.5,
+        "cash_in_bank": 4543.8
+    },
+    "contributions": [
+        {
+            "Date Paid": "04/30/20",
+            "Entity Name": "",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "",
+            "City": "",
+            "State": "",
+            "Zip": "",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": 3.42,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 3.42,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "Bank interest - Intrepid credit union",
+            "Fundraiser Location": "helena, mt",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "04/30/20",
+            "Entity Name": "Intrepid credit union",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "915 kessler street",
+            "City": "helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2.5,
+            "Purpose": "Monthly bank fee",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "1",
+            "Expenditure Paid Communications Subject Matter": "monthly banking fee"
+        }
+    ]
+}

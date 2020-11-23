@@ -1,7 +1,7 @@
 {
     "slug": "6332-Vote-Yes-For-Muldown",
     "committeeName": "Vote Yes For Muldown",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 2,
     "data": {
         "committeeId": 6332,
@@ -42,15 +42,15 @@
     },
     "finances": {
         "reports": 2,
-        "last_report_end_date": "10/23/2017",
+        "last_report_end_date": "10/06/2020",
         "contributions": 8740.45,
         "num_contributions": 43,
         "contributions_19_20": 19.12,
         "num_contributions_19_20": 1,
-        "expenditures": 6677.53,
-        "num_expenditures": 8,
-        "expenditures_19_20": 0.0,
-        "num_expenditures_19_20": 0,
-        "cash_on_hand": 4713.59
+        "expenditures": 11391.12,
+        "num_expenditures": 12,
+        "expenditures_19_20": 1790.18,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": 0.0
     }
 }

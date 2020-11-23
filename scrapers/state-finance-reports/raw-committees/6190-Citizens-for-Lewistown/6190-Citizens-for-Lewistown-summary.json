@@ -1,7 +1,7 @@
 {
     "slug": "6190-Citizens-for-Lewistown",
     "committeeName": "Citizens for Lewistown",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 2,
     "data": {
         "committeeId": 6190,
@@ -34,12 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "Official Ballot on the Alternative Form of Local Government",
+                "interest": "Maintain current form of government",
                 "position": "Support",
                 "status": "On ballot"
             },
             {
-                "interest": "Maintain current form of government",
+                "interest": "Official Ballot on the Alternative Form of Local Government",
                 "position": "Support",
                 "status": "On ballot"
             }

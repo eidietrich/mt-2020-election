@@ -1,8 +1,8 @@
 {
     "slug": "256-Gallatin-County-Democrats-aka-Gallatin-County-Democratic-Central--Cmte",
     "committeeName": "Gallatin County Democrats aka Gallatin County Democratic Central  Cmte",
-    "scrape_date": "2020-07-09",
-    "periods": 21,
+    "scrape_date": "2020-11-11",
+    "periods": 27,
     "data": {
         "committeeId": 256,
         "committeeName": "Gallatin County Democrats aka Gallatin County Democratic Central  Cmte",
@@ -34,6 +34,21 @@
         ],
         "issues": [
             {
+                "interest": "Erin Cox for Gallatin County Auditor",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Pat Flowers for Senate District 32",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kathleen Williams for US Congress",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Jennifer Blossom for Gallatin County Treasurer",
                 "position": "Support",
                 "status": "Not Applicable"
@@ -44,27 +59,12 @@
                 "status": "Support"
             },
             {
-                "interest": "Sam Newville for Senate District 34",
+                "interest": "Rex Renk for Clerk of the Supreme Court",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
                 "interest": "Denise Albrecht for HD 64",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Kathleen Williams for US Congress",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Seth Mangini for HD 68",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Chris Pope for HD 65",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -79,12 +79,22 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Rex Renk for Clerk of the Supreme Court",
+                "interest": "Eric Semerad for Gallatin County Clerk and Recorder",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Pat Flowers for Senate District 32",
+                "interest": "Sam Newville for Senate District 34",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Seth Mangini for HD 68",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Chris Pope for HD 65",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -92,30 +102,20 @@
                 "interest": "Advance values, issues, and candidates representing the Democratic party in all relevant county and local elections. ",
                 "position": "Support",
                 "status": "Not Applicable"
-            },
-            {
-                "interest": "Eric Semerad for Gallatin County Clerk and Recorder",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Erin Cox for Gallatin County Auditor",
-                "position": "Support",
-                "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 21,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 121844.57,
-        "num_contributions": 910,
-        "contributions_19_20": 47806.2,
-        "num_contributions_19_20": 211,
-        "expenditures": 100531.35,
-        "num_expenditures": 630,
-        "expenditures_19_20": 30947.65,
-        "num_expenditures_19_20": 176,
-        "cash_on_hand": 30387.19
+        "reports": 27,
+        "last_report_end_date": "11/01/2020",
+        "contributions": 144565.82,
+        "num_contributions": 981,
+        "contributions_19_20": 70527.45,
+        "num_contributions_19_20": 282,
+        "expenditures": 116917.9,
+        "num_expenditures": 689,
+        "expenditures_19_20": 47334.2,
+        "num_expenditures_19_20": 235,
+        "cash_on_hand": 37181.89
     }
 }

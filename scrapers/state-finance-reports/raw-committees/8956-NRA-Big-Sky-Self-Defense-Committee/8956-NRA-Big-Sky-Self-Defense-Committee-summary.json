@@ -1,8 +1,8 @@
 {
     "slug": "8956-NRA-Big-Sky-Self-Defense-Committee",
     "committeeName": "NRA Big Sky Self-Defense Committee",
-    "scrape_date": "2020-07-09",
-    "periods": 1,
+    "scrape_date": "2020-11-11",
+    "periods": 5,
     "data": {
         "committeeId": 8956,
         "committeeName": "NRA Big Sky Self-Defense Committee",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 1,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 0,
-        "num_contributions": 0,
-        "contributions_19_20": 0,
-        "num_contributions_19_20": 0,
-        "expenditures": 0,
-        "num_expenditures": 0,
-        "expenditures_19_20": 0,
-        "num_expenditures_19_20": 0,
-        "cash_on_hand": 0.0
+        "reports": 5,
+        "last_report_end_date": "10/31/2020",
+        "contributions": 51550.0,
+        "num_contributions": 5,
+        "contributions_19_20": 51550.0,
+        "num_contributions_19_20": 5,
+        "expenditures": 52493.06,
+        "num_expenditures": 20,
+        "expenditures_19_20": 52493.06,
+        "num_expenditures_19_20": 20,
+        "cash_on_hand": -878.06
     }
 }

@@ -1,0 +1,59 @@
+{
+    "data": {
+        "reportId": 51936,
+        "fromDateStr": "09/30/2020",
+        "toDateStr": "10/31/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 231,
+        "candidateName": "Carbon County Republican Central Cmte",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "09/30/2020",
+        "end_date": "10/31/2020",
+        "receipts": 50.0,
+        "expenditures": 0.0,
+        "cash_in_bank": 1386.76
+    },
+    "contributions": [
+        {
+            "Date Paid": "10/01/20",
+            "Entity Name": "Stromswald, Mallerie",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 5315",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59604",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Interest, Rebates, Refunds, Fundraisers, and Other Miscellaneous Receipts",
+            "Amount": -50.0,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "General",
+            "Total Primary": 0.0,
+            "Total General": 50.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": 1600754400000,
+            "Refund Original Transaction Total": 200.0,
+            "Refund Original Transaction Descr": "Campaign Contribution.  ",
+            "Previous Transaction (Y/N)": "Y",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": []
+}

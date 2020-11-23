@@ -1,8 +1,8 @@
 {
     "slug": "8321-National-Education-Association-(General-Fund)",
     "committeeName": "National Education Association (General Fund)",
-    "scrape_date": "2020-07-09",
-    "periods": 4,
+    "scrape_date": "2020-11-11",
+    "periods": 7,
     "data": {
         "committeeId": 8321,
         "committeeName": "National Education Association (General Fund)",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 4,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 125000.0,
-        "num_contributions": 2,
-        "contributions_19_20": 125000.0,
-        "num_contributions_19_20": 2,
-        "expenditures": 125000.0,
-        "num_expenditures": 2,
-        "expenditures_19_20": 125000.0,
-        "num_expenditures_19_20": 2,
+        "reports": 7,
+        "last_report_end_date": "10/25/2020",
+        "contributions": 3414000.0,
+        "num_contributions": 5,
+        "contributions_19_20": 3414000.0,
+        "num_contributions_19_20": 5,
+        "expenditures": 3414000.0,
+        "num_expenditures": 6,
+        "expenditures_19_20": 3414000.0,
+        "num_expenditures_19_20": 6,
         "cash_on_hand": 0.0
     }
 }

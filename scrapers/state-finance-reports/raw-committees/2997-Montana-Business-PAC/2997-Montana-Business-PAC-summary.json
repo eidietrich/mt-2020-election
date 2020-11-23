@@ -1,8 +1,8 @@
 {
     "slug": "2997-Montana-Business-PAC",
     "committeeName": "Montana Business PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 24,
+    "scrape_date": "2020-11-11",
+    "periods": 27,
     "data": {
         "committeeId": 2997,
         "committeeName": "Montana Business PAC",
@@ -46,16 +46,16 @@
         ]
     },
     "finances": {
-        "reports": 24,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 153567.72,
-        "num_contributions": 27,
-        "contributions_19_20": 78465.72,
-        "num_contributions_19_20": 10,
-        "expenditures": 138225.07,
-        "num_expenditures": 10,
-        "expenditures_19_20": 70000.0,
-        "num_expenditures_19_20": 4,
-        "cash_on_hand": 15295.53
+        "reports": 27,
+        "last_report_end_date": "10/24/2020",
+        "contributions": 180649.87,
+        "num_contributions": 33,
+        "contributions_19_20": 105547.87,
+        "num_contributions_19_20": 16,
+        "expenditures": 153225.07,
+        "num_expenditures": 12,
+        "expenditures_19_20": 85000.0,
+        "num_expenditures_19_20": 6,
+        "cash_on_hand": 26795.53
     }
 }

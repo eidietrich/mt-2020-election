@@ -1,7 +1,7 @@
 {
     "slug": "5084-Montana-State-Afl-cio",
     "committeeName": "Montana State Afl-cio",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 14,
     "data": {
         "committeeId": 5084,
@@ -34,13 +34,13 @@
         ],
         "issues": [
             {
-                "interest": "Elect Melissa Romano",
-                "position": "Support",
+                "interest": "Oppose Initiative 181",
+                "position": "Oppose",
                 "status": "On ballot"
             },
             {
-                "interest": "Oppose Initiative 181",
-                "position": "Oppose",
+                "interest": "Elect Melissa Romano",
+                "position": "Support",
                 "status": "On ballot"
             },
             {

@@ -1,8 +1,8 @@
 {
     "slug": "2523-Rosebud-County-Republican-Women's-Club",
     "committeeName": "Rosebud County Republican Women's Club",
-    "scrape_date": "2020-07-09",
-    "periods": 10,
+    "scrape_date": "2020-11-11",
+    "periods": 11,
     "data": {
         "committeeId": 2523,
         "committeeName": "Rosebud County Republican Women's Club",
@@ -34,7 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "Zinke for Congress",
+                "interest": "Elsie Arntzen",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Corey Stapleton for Secretary of State",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -49,28 +54,23 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Elsie Arntzen",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Corey Stapleton for Secretary of State",
+                "interest": "Zinke for Congress",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 10,
-        "last_report_end_date": "04/30/2020",
+        "reports": 11,
+        "last_report_end_date": "09/25/2020",
         "contributions": 4180.0,
         "num_contributions": 43,
         "contributions_19_20": 0.0,
         "num_contributions_19_20": 0,
-        "expenditures": 5219.0,
-        "num_expenditures": 16,
-        "expenditures_19_20": 0.0,
-        "num_expenditures_19_20": 0,
-        "cash_on_hand": 5142.15
+        "expenditures": 5469.0,
+        "num_expenditures": 17,
+        "expenditures_19_20": 250.0,
+        "num_expenditures_19_20": 1,
+        "cash_on_hand": 4892.15
     }
 }

@@ -1,8 +1,8 @@
 {
     "slug": "250-Fergus-County-Republican-Central-Cmte.",
     "committeeName": "Fergus County Republican Central Cmte.",
-    "scrape_date": "2020-07-09",
-    "periods": 21,
+    "scrape_date": "2020-11-11",
+    "periods": 22,
     "data": {
         "committeeId": 250,
         "committeeName": "Fergus County Republican Central Cmte.",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 21,
-        "last_report_end_date": "06/22/2020",
-        "contributions": 3774.35,
-        "num_contributions": 50,
-        "contributions_19_20": 2134.35,
-        "num_contributions_19_20": 16,
-        "expenditures": 4245.85,
-        "num_expenditures": 17,
-        "expenditures_19_20": 1907.45,
-        "num_expenditures_19_20": 10,
-        "cash_on_hand": 1929.55
+        "reports": 22,
+        "last_report_end_date": "10/25/2020",
+        "contributions": 6981.35,
+        "num_contributions": 58,
+        "contributions_19_20": 5341.35,
+        "num_contributions_19_20": 24,
+        "expenditures": 4513.85,
+        "num_expenditures": 19,
+        "expenditures_19_20": 2175.45,
+        "num_expenditures_19_20": 12,
+        "cash_on_hand": 5258.55
     }
 }

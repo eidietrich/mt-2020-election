@@ -1,8 +1,8 @@
 {
     "slug": "7984-Montana-First-Action",
     "committeeName": "Montana First Action",
-    "scrape_date": "2020-07-09",
-    "periods": 5,
+    "scrape_date": "2020-11-11",
+    "periods": 10,
     "data": {
         "committeeId": 7984,
         "committeeName": "Montana First Action",
@@ -34,6 +34,11 @@
         ],
         "issues": [
             {
+                "interest": "Montana Republican State Central Cmte.",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
                 "interest": "To Support Conservative Candidates and Causes",
                 "position": "Support",
                 "status": "Support"
@@ -41,16 +46,16 @@
         ]
     },
     "finances": {
-        "reports": 5,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 182650.0,
-        "num_contributions": 42,
-        "contributions_19_20": 182650.0,
-        "num_contributions_19_20": 42,
-        "expenditures": 37561.83,
-        "num_expenditures": 19,
-        "expenditures_19_20": 37561.83,
-        "num_expenditures_19_20": 19,
-        "cash_on_hand": 145088.17
+        "reports": 10,
+        "last_report_end_date": "11/02/2020",
+        "contributions": 1142746.37,
+        "num_contributions": 194,
+        "contributions_19_20": 1142746.37,
+        "num_contributions_19_20": 194,
+        "expenditures": 994155.34,
+        "num_expenditures": 39,
+        "expenditures_19_20": 994155.34,
+        "num_expenditures_19_20": 39,
+        "cash_on_hand": 150843.91
     }
 }

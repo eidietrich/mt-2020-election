@@ -1,8 +1,8 @@
 {
     "slug": "7373-Republicans-for-Freedom",
     "committeeName": "Republicans for Freedom",
-    "scrape_date": "2020-07-09",
-    "periods": 11,
+    "scrape_date": "2020-11-11",
+    "periods": 14,
     "data": {
         "committeeId": 7373,
         "committeeName": "Republicans for Freedom",
@@ -39,11 +39,6 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "DAN SKATTUM",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
                 "interest": "Greg DeVries",
                 "position": "Support",
                 "status": "Support"
@@ -52,20 +47,25 @@
                 "interest": "Steven Galloway for Senate District 12",
                 "position": "Support",
                 "status": "Support"
+            },
+            {
+                "interest": "DAN SKATTUM",
+                "position": "Support",
+                "status": "Support"
             }
         ]
     },
     "finances": {
-        "reports": 11,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 14887.4,
-        "num_contributions": 43,
-        "contributions_19_20": 11177.8,
-        "num_contributions_19_20": 21,
-        "expenditures": 11024.76,
-        "num_expenditures": 10,
-        "expenditures_19_20": 6000.0,
-        "num_expenditures_19_20": 1,
-        "cash_on_hand": 6399.24
+        "reports": 14,
+        "last_report_end_date": "10/24/2020",
+        "contributions": 21387.4,
+        "num_contributions": 50,
+        "contributions_19_20": 17677.8,
+        "num_contributions_19_20": 28,
+        "expenditures": 15114.76,
+        "num_expenditures": 12,
+        "expenditures_19_20": 10090.0,
+        "num_expenditures_19_20": 3,
+        "cash_on_hand": 4834.24
     }
 }

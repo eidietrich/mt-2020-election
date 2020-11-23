@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 52072,
+        "fromDateStr": "10/25/2020",
+        "toDateStr": "11/03/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 8957,
+        "candidateName": "Committee to Recall the Mayor",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/25/2020",
+        "end_date": "11/03/2020",
+        "receipts": 0.0,
+        "expenditures": 54.52,
+        "cash_in_bank": 0.0
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "11/03/20",
+            "Entity Name": "Super One Foods, Super One Foods",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "39 Stevensville Cutoff Road West",
+            "City": "Stevensville",
+            "State": "MT",
+            "Zip": "59870",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 54.52,
+            "Purpose": "Gift certificate to be used after Covid  to thank volunteers for their work.  This is to be used for refreshments and snacks.",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Recall the Mayor",
+            "Expenditure Paid Communications Quantity": "Refreshments and snacks",
+            "Expenditure Paid Communications Subject Matter": "Thank you for the work everyone did"
+        }
+    ]
+}

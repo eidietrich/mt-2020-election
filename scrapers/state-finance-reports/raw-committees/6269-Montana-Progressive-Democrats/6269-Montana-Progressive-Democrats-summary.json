@@ -1,8 +1,8 @@
 {
     "slug": "6269-Montana-Progressive-Democrats",
     "committeeName": "Montana Progressive Democrats",
-    "scrape_date": "2020-07-09",
-    "periods": 16,
+    "scrape_date": "2020-11-11",
+    "periods": 19,
     "data": {
         "committeeId": 6269,
         "committeeName": "Montana Progressive Democrats",
@@ -34,39 +34,14 @@
         ],
         "issues": [
             {
-                "interest": "Jennifer Merecki for SD 22",
+                "interest": "Jessica Karjala for HD 48",
                 "position": "Support",
                 "status": "Not Applicable"
-            },
-            {
-                "interest": "Bert Pezzarossi for HD 38",
-                "position": "Support",
-                "status": "Support"
             },
             {
                 "interest": "Eldena Bear Don't Walk for HD 93",
                 "position": "Support",
                 "status": "Not Applicable"
-            },
-            {
-                "interest": "John Heenan",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Lynelle Melton for HD 19",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Tom Woods for HD 62",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "To recruit, support and endorse progressive candidates, and raise and spend money for progressive candidates and issues. Endorse, support candidacy of Jennifer Merecki for SD 22",
-                "position": "Support",
-                "status": "Support"
             },
             {
                 "interest": "Jade Bahr for HD 50",
@@ -79,7 +54,27 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jessica Karjala for HD 48",
+                "interest": "To recruit, support and endorse progressive candidates, and raise and spend money for progressive candidates and issues. Endorse, support candidacy of Jennifer Merecki for SD 22",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Lynelle Melton for HD 19",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "John Heenan",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Tom Woods for HD 62",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jennifer Merecki for SD 22",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -87,20 +82,25 @@
                 "interest": "Catherine Scott for HD 80",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Bert Pezzarossi for HD 38",
+                "position": "Support",
+                "status": "Support"
             }
         ]
     },
     "finances": {
-        "reports": 16,
-        "last_report_end_date": "06/25/2020",
+        "reports": 19,
+        "last_report_end_date": "10/24/2020",
         "contributions": 3943.82,
         "num_contributions": 96,
         "contributions_19_20": 1300.0,
         "num_contributions_19_20": 55,
-        "expenditures": 6076.71,
-        "num_expenditures": 135,
-        "expenditures_19_20": 2066.27,
-        "num_expenditures_19_20": 47,
-        "cash_on_hand": 807.87
+        "expenditures": 6081.07,
+        "num_expenditures": 137,
+        "expenditures_19_20": 2070.63,
+        "num_expenditures_19_20": 49,
+        "cash_on_hand": 913.51
     }
 }

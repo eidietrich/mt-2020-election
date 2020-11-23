@@ -1,7 +1,7 @@
 {
     "slug": "224-Beaverhead-County-Republican-Central-Committee",
     "committeeName": "Beaverhead County Republican Central Committee",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 21,
     "data": {
         "committeeId": 224,
@@ -34,6 +34,16 @@
         ],
         "issues": [
             {
+                "interest": "John Jackson",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "To support & encourage Republican ideals & principles in Beaverhead County.",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Stacey Reynolds",
                 "position": "Support",
                 "status": "On ballot"
@@ -49,17 +59,7 @@
                 "status": "On ballot"
             },
             {
-                "interest": "John Jackson",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "Greg Gianforte for Congress",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "To support & encourage Republican ideals & principles in Beaverhead County.",
                 "position": "Support",
                 "status": "Not Applicable"
             }

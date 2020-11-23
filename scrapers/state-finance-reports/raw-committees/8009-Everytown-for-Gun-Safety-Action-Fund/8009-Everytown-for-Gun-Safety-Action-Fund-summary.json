@@ -1,8 +1,8 @@
 {
     "slug": "8009-Everytown-for-Gun-Safety-Action-Fund",
     "committeeName": "Everytown for Gun Safety Action Fund",
-    "scrape_date": "2020-07-09",
-    "periods": 6,
+    "scrape_date": "2020-11-11",
+    "periods": 9,
     "data": {
         "committeeId": 8009,
         "committeeName": "Everytown for Gun Safety Action Fund",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 6,
-        "last_report_end_date": "06/25/2020",
+        "reports": 9,
+        "last_report_end_date": "10/24/2020",
         "contributions": 0,
         "num_contributions": 0,
         "contributions_19_20": 0,
         "num_contributions_19_20": 0,
-        "expenditures": 149693.25,
-        "num_expenditures": 34,
-        "expenditures_19_20": 149693.25,
-        "num_expenditures_19_20": 34,
-        "cash_on_hand": -112328.57
+        "expenditures": 283087.2,
+        "num_expenditures": 49,
+        "expenditures_19_20": 283087.2,
+        "num_expenditures_19_20": 49,
+        "cash_on_hand": -245722.52
     }
 }

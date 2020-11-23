@@ -8,7 +8,7 @@
         "committeeId": 4640,
         "candidateName": "Ravalli County Democratic Central Cmte",
         "statusDescr": "Amended",
-        "amendedDate": 1592503395000,
+        "amendedDate": 1603831287000,
         "totalContrLessThan35": 0.0,
         "totalIndivContrLessThan35": 0.0,
         "grandTotalLessThan35": 0.0,
@@ -19,8 +19,8 @@
         "start_date": "04/16/2019",
         "end_date": "12/31/2019",
         "receipts": 5740.0,
-        "expenditures": 1844.63,
-        "cash_in_bank": 4011.95
+        "expenditures": 2204.63,
+        "cash_in_bank": 3651.95
     },
     "contributions": [
         {
@@ -2170,7 +2170,7 @@
             "Zip": "59840",
             "Zip4": "",
             "Expenditure Type": "All Other Expenditures",
-            "Amount": 40.0,
+            "Amount": 400.0,
             "Purpose": "Balance of fee for two booths in 2020 Fair",
             "Election Type": "Primary",
             "Expenditure Paid Communications Platform": "",

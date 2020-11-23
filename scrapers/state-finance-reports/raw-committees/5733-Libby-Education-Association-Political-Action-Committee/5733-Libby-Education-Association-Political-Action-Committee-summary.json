@@ -1,8 +1,8 @@
 {
     "slug": "5733-Libby-Education-Association-Political-Action-Committee",
     "committeeName": "Libby Education Association Political Action Committee",
-    "scrape_date": "2020-07-09",
-    "periods": 23,
+    "scrape_date": "2020-11-11",
+    "periods": 27,
     "data": {
         "committeeId": 5733,
         "committeeName": "Libby Education Association Political Action Committee",
@@ -35,8 +35,8 @@
         "issues": []
     },
     "finances": {
-        "reports": 23,
-        "last_report_end_date": "05/25/2020",
+        "reports": 27,
+        "last_report_end_date": "10/24/2020",
         "contributions": -346.0,
         "num_contributions": 3,
         "contributions_19_20": 0.0,

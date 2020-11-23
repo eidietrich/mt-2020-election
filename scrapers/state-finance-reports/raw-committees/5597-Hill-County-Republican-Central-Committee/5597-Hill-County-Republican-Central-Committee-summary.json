@@ -1,7 +1,7 @@
 {
     "slug": "5597-Hill-County-Republican-Central-Committee",
     "committeeName": "Hill County Republican Central Committee",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 1,
     "data": {
         "committeeId": 5597,
@@ -34,12 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "Stephanie Hess for HD28",
+                "interest": "Bruce Meyers for SD 16",
                 "position": "Support",
                 "status": "On ballot"
             },
             {
-                "interest": "Bruce Meyers for SD 16",
+                "interest": "Stephanie Hess for HD28",
                 "position": "Support",
                 "status": "On ballot"
             }

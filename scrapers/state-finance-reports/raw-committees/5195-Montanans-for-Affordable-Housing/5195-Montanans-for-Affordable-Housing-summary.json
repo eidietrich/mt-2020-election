@@ -1,8 +1,8 @@
 {
     "slug": "5195-Montanans-for-Affordable-Housing",
     "committeeName": "Montanans for Affordable Housing",
-    "scrape_date": "2020-07-09",
-    "periods": 21,
+    "scrape_date": "2020-11-11",
+    "periods": 22,
     "data": {
         "committeeId": 5195,
         "committeeName": "Montanans for Affordable Housing",
@@ -35,16 +35,16 @@
         "issues": []
     },
     "finances": {
-        "reports": 21,
-        "last_report_end_date": "04/25/2020",
+        "reports": 22,
+        "last_report_end_date": "10/30/2020",
         "contributions": 37150.11,
         "num_contributions": 24,
         "contributions_19_20": 18280.5,
         "num_contributions_19_20": 1,
-        "expenditures": 33610.18,
-        "num_expenditures": 77,
-        "expenditures_19_20": 0.0,
-        "num_expenditures_19_20": 0,
-        "cash_on_hand": 25441.87
+        "expenditures": 50160.18,
+        "num_expenditures": 165,
+        "expenditures_19_20": 16550.0,
+        "num_expenditures_19_20": 88,
+        "cash_on_hand": 8891.87
     }
 }

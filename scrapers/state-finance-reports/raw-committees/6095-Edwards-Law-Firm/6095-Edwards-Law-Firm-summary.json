@@ -1,7 +1,7 @@
 {
     "slug": "6095-Edwards-Law-Firm",
     "committeeName": "Edwards Law Firm",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 2,
     "data": {
         "committeeId": 6095,
@@ -34,13 +34,13 @@
         ],
         "issues": [
             {
-                "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
-                "position": "Other",
+                "interest": "Dirk Sandefur - Supreme Court",
+                "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Dirk Sandefur - Supreme Court",
-                "position": "Support",
+                "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
+                "position": "Other",
                 "status": "Not Applicable"
             },
             {

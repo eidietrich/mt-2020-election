@@ -1,8 +1,8 @@
 {
     "slug": "402-Montana-Conservation-Voters-Action-Fund",
     "committeeName": "Montana Conservation Voters Action Fund",
-    "scrape_date": "2020-07-09",
-    "periods": 37,
+    "scrape_date": "2020-11-11",
+    "periods": 42,
     "data": {
         "committeeId": 402,
         "committeeName": "Montana Conservation Voters Action Fund",
@@ -34,12 +34,22 @@
         ],
         "issues": [
             {
-                "interest": "Supports candidates for local legislative and statewide office who support conservation values. ",
+                "interest": "Shane Morigeau MT Auditor",
                 "position": "Support",
-                "status": "Support"
+                "status": "Not Applicable"
             },
             {
-                "interest": "Monica Tranel MT Public Service Commission District 4",
+                "interest": "Raph Graybill MT Attorney General",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Zach Brown, Gallatin County Commission",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Valerie McMurtry, MT Public Service Commission District 2",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -49,17 +59,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "HD Hannah Olsen 52, Ed Staffman 62, Alice Buckley 63, Kelly Kortum 65, Collette Campell 67, Kim Abott 83, Lisa Pavlock 93, Danny Tenebaum 95, Willis Curdy 98, Mark Thane 99",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Bryce Bennett MT Secretary of State",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Shane Morigeau MT Auditor",
+                "interest": "HD Kathy Kelker 47, Connie Keogh 91, Emma Kerr-Carpenter 49, Jasmine Krotkov 25, Marilyn Marler 90, Andrea Olsen 100, Katie Sullivan 89",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -69,33 +69,68 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "HD Dave Fern 4, Jamie Horn 21, Barbara Bessette 24, Helena Lovick 26, Jessica Karjala 48, Anne Guiliano 51",
+                "interest": "Mike Cooney MT Governor",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "SD Chris Pope 31",
+                "interest": "Juanita Vero, Missoula County Commission",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Raph Graybill MT Attorney General",
+                "interest": "Supports candidates for local legislative and statewide office who support conservation values. ",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Bryce Bennett MT Secretary of State",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "HD Hannah Olsen 52, Ed Staffman 62, Alice Buckley 63, Kelly Kortum 65, Collette Campell 67, Kim Abott 83, Lisa Pavlock 93, Danny Tenebaum 95, Willis Curdy 98, Mark Thane 99",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "HD Jade Bahr 50, Mary Ann Dunwell 84, Rob Farris-Olsen 79, Moffie Funk 82, Jim Hamilton 61, Denise Hayman 66",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "HD Debo Powers 03, Melissa Smith 20, Jasmine Taylor 22, Laurie Bishop 60, Brian Popiel 64, Tom France 94, Loni Conley 96, LouAnn Hansen 97",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mike Black, MT Supreme Court Seat 5",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Monica Tranel MT Public Service Commission District 4",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "HD Dave Fern 5, Jamie Horn 21, Barbara Bessette 24, Helena Lovick 26, Jessica Karjala 48, Anne Guiliano 51",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 37,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 1676089.53,
-        "num_contributions": 380,
-        "contributions_19_20": 95443.4,
-        "num_contributions_19_20": 43,
-        "expenditures": 1645074.29,
-        "num_expenditures": 182,
-        "expenditures_19_20": 49962.11,
-        "num_expenditures_19_20": 42,
-        "cash_on_hand": 45191.33
+        "reports": 42,
+        "last_report_end_date": "11/03/2020",
+        "contributions": 3533714.53,
+        "num_contributions": 417,
+        "contributions_19_20": 1953068.4,
+        "num_contributions_19_20": 80,
+        "expenditures": 3454077.2,
+        "num_expenditures": 214,
+        "expenditures_19_20": 1858965.02,
+        "num_expenditures_19_20": 74,
+        "cash_on_hand": 90594.42
     }
 }

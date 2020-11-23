@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 49732,
+        "fromDateStr": "05/25/2020",
+        "toDateStr": "06/25/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 334,
+        "candidateName": "Stillwater County Republican Central Cmte.",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "05/25/2020",
+        "end_date": "06/25/2020",
+        "receipts": 0.0,
+        "expenditures": 200.0,
+        "cash_in_bank": 6841.6
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "06/15/20",
+            "Entity Name": "EV Media Outdoor",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 311",
+            "City": "Lynden",
+            "State": "WA",
+            "Zip": "98264",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 200.0,
+            "Purpose": "Park City Outdoor Billboard Rental",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Outdoor Billboard",
+            "Expenditure Paid Communications Quantity": "1",
+            "Expenditure Paid Communications Subject Matter": "\"Message states \"\"Montana Values are Republican Values - Vote Republican\"\" \""
+        }
+    ]
+}

@@ -1,36 +1,262 @@
 {
     "slug": "Bennett-Bryce",
     "candidateName": "Bennett, Bryce ",
-    "scrape_date": "2020-09-24",
+    "scrape_date": "2020-11-03",
     "officeTitle": "Secretary of State",
     "partyDescr": "Democrat",
-    "periods": 9,
-    "receipts": 365197.87,
-    "expenditures": 128397.56,
-    "balance": 236800.31,
+    "periods": 18,
+    "receipts": 458717.91,
+    "expenditures": 447224.78,
+    "balance": 11493.129999999946,
     "summary": {
         "contributions": {
             "primary": 4393.0,
-            "general": 360804.87,
-            "total": 365197.87
+            "general": 454324.91,
+            "total": 458717.91
         },
         "expenditures": {
             "primary": 1573.0,
-            "general": 126824.56,
-            "total": 128397.56
+            "general": 445651.78,
+            "total": 447224.78
         },
         "cash_on_hand": {
             "primary": 2820.0,
-            "general": 233980.31,
-            "total": 236800.31
+            "general": 8673.129999999946,
+            "total": 11493.129999999946
         },
         "report_counts": {
-            "C5": 9,
-            "C7": 0,
-            "C7E": 0
+            "C5": 10,
+            "C7": 4,
+            "C7E": 4
         }
     },
     "reports": [
+        {
+            "report": "10/27/2020 to 10/27/2020",
+            "id": 51751,
+            "type": "C7",
+            "start_date": "10/27/2020",
+            "end_date": "10/27/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 33,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "10/27/2020",
+                "report_end_date": "10/27/2020",
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 5210.0,
+                    "total": 5210.0
+                },
+                "Expenditures": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                }
+            }
+        },
+        {
+            "report": "10/27/2020 to 10/27/2020",
+            "id": 51726,
+            "type": "C7E",
+            "start_date": "10/27/2020",
+            "end_date": "10/27/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 5,
+            "summary": {
+                "report_start_date": "10/27/2020",
+                "report_end_date": "10/27/2020",
+                "Receipts": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 11838.13,
+                    "total": 11838.13
+                }
+            }
+        },
+        {
+            "report": "10/26/2020 to 10/26/2020",
+            "id": 51723,
+            "type": "C7E",
+            "start_date": "10/26/2020",
+            "end_date": "10/26/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 3,
+            "summary": {
+                "report_start_date": "10/26/2020",
+                "report_end_date": "10/26/2020",
+                "Receipts": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 64134.0,
+                    "total": 64134.0
+                }
+            }
+        },
+        {
+            "report": "10/22/2020 to 10/24/2020",
+            "id": 51571,
+            "type": "C7",
+            "start_date": "10/22/2020",
+            "end_date": "10/24/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 15,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "10/22/2020",
+                "report_end_date": "10/24/2020",
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 2280.0,
+                    "total": 2280.0
+                },
+                "Expenditures": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                }
+            }
+        },
+        {
+            "report": "10/20/2020 to 10/20/2020",
+            "id": 51440,
+            "type": "C7E",
+            "start_date": "10/20/2020",
+            "end_date": "10/20/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 4,
+            "summary": {
+                "report_start_date": "10/20/2020",
+                "report_end_date": "10/20/2020",
+                "Receipts": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 5923.76,
+                    "total": 5923.76
+                }
+            }
+        },
+        {
+            "report": "10/20/2020 to 10/20/2020",
+            "id": 51422,
+            "type": "C7",
+            "start_date": "10/20/2020",
+            "end_date": "10/20/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 30,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "10/20/2020",
+                "report_end_date": "10/20/2020",
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 4440.0,
+                    "total": 4440.0
+                },
+                "Expenditures": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                }
+            }
+        },
+        {
+            "report": "10/19/2020 to 10/19/2020",
+            "id": 51383,
+            "type": "C7E",
+            "start_date": "10/19/2020",
+            "end_date": "10/19/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 1,
+            "summary": {
+                "report_start_date": "10/19/2020",
+                "report_end_date": "10/19/2020",
+                "Receipts": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 210.0,
+                    "total": 210.0
+                }
+            }
+        },
+        {
+            "report": "10/19/2020 to 10/19/2020",
+            "id": 51342,
+            "type": "C7",
+            "start_date": "10/19/2020",
+            "end_date": "10/19/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 7,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "10/19/2020",
+                "report_end_date": "10/19/2020",
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 1150.0,
+                    "total": 1150.0
+                },
+                "Expenditures": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                }
+            }
+        },
+        {
+            "report": "09/16/2020 to 10/14/2020",
+            "id": 51341,
+            "type": "C5",
+            "start_date": "09/16/2020",
+            "end_date": "10/14/2020",
+            "unitemized_contributions": 5989.479999999996,
+            "num_contributions": 913,
+            "num_expenditures": 72,
+            "summary": {
+                "previous report": {
+                    "primary": 2820.0,
+                    "general": 233980.31,
+                    "total": 236800.31
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 80440.04,
+                    "total": 80440.04
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 236721.33,
+                    "total": 236721.33
+                },
+                "Ending Balance": {
+                    "primary": 2820.0,
+                    "general": 77699.02,
+                    "total": 80519.02
+                },
+                "report_start_date": "09/16/2020",
+                "report_end_date": "10/14/2020"
+            }
+        },
         {
             "report": "08/16/2020 to 09/15/2020",
             "id": 50602,
@@ -140,7 +366,7 @@
             "start_date": "04/16/2020",
             "end_date": "05/14/2020",
             "unitemized_contributions": 2030.880000000001,
-            "num_contributions": 203,
+            "num_contributions": 204,
             "num_expenditures": 17,
             "summary": {
                 "previous report": {

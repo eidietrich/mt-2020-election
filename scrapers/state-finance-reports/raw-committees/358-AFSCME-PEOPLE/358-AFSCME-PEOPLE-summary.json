@@ -1,8 +1,8 @@
 {
     "slug": "358-AFSCME-PEOPLE",
     "committeeName": "AFSCME PEOPLE",
-    "scrape_date": "2020-07-09",
-    "periods": 35,
+    "scrape_date": "2020-11-11",
+    "periods": 38,
     "data": {
         "committeeId": 358,
         "committeeName": "AFSCME PEOPLE",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 35,
-        "last_report_end_date": "06/25/2020",
-        "contributions": -33500.0,
-        "num_contributions": 6,
-        "contributions_19_20": 0.0,
-        "num_contributions_19_20": 0,
-        "expenditures": 46500.0,
-        "num_expenditures": 6,
-        "expenditures_19_20": 0.0,
-        "num_expenditures_19_20": 0,
+        "reports": 38,
+        "last_report_end_date": "10/25/2020",
+        "contributions": 97210.0,
+        "num_contributions": 8,
+        "contributions_19_20": 130710.0,
+        "num_contributions_19_20": 2,
+        "expenditures": 177210.0,
+        "num_expenditures": 10,
+        "expenditures_19_20": 130710.0,
+        "num_expenditures_19_20": 4,
         "cash_on_hand": 0.0
     }
 }

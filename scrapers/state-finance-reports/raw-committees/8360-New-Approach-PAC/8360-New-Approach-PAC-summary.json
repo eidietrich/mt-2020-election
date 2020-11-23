@@ -1,8 +1,8 @@
 {
     "slug": "8360-New-Approach-PAC",
     "committeeName": "New Approach PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 4,
+    "scrape_date": "2020-11-11",
+    "periods": 8,
     "data": {
         "committeeId": 8360,
         "committeeName": "New Approach PAC",
@@ -36,21 +36,21 @@
             {
                 "interest": "CI-118",
                 "position": "Support",
-                "status": "Support"
+                "status": "On ballot"
             }
         ]
     },
     "finances": {
-        "reports": 4,
-        "last_report_end_date": "06/25/2020",
+        "reports": 8,
+        "last_report_end_date": "10/30/2020",
         "contributions": 0,
         "num_contributions": 0,
         "contributions_19_20": 0,
         "num_contributions_19_20": 0,
-        "expenditures": 941219.3,
-        "num_expenditures": 21,
-        "expenditures_19_20": 941219.3,
-        "num_expenditures_19_20": 21,
-        "cash_on_hand": -941219.3
+        "expenditures": 1906415.05,
+        "num_expenditures": 27,
+        "expenditures_19_20": 1906415.05,
+        "num_expenditures_19_20": 27,
+        "cash_on_hand": -1906415.05
     }
 }

@@ -1,8 +1,8 @@
 {
     "slug": "407-MFPE-PAC",
     "committeeName": "MFPE PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 34,
+    "scrape_date": "2020-11-11",
+    "periods": 37,
     "data": {
         "committeeId": 407,
         "committeeName": "MFPE PAC",
@@ -34,17 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "Rex Renk for Clerk of the Supreme Court",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Doug Kaercher PSC1",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Andy Shirtliff for PSC # 5",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "MDLCC",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -54,23 +49,28 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "MDLCC",
+                "interest": "Rex Renk for Clerk of the Supreme Court",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Doug Kaercher PSC1",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 34,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 42890.47,
-        "num_contributions": 1274,
-        "contributions_19_20": 14427.19,
-        "num_contributions_19_20": 213,
-        "expenditures": 185819.47,
-        "num_expenditures": 61,
-        "expenditures_19_20": 74522.27,
-        "num_expenditures_19_20": 24,
-        "cash_on_hand": 17875.3
+        "reports": 37,
+        "last_report_end_date": "10/25/2020",
+        "contributions": 45493.98,
+        "num_contributions": 1394,
+        "contributions_19_20": 17030.7,
+        "num_contributions_19_20": 333,
+        "expenditures": 207519.47,
+        "num_expenditures": 69,
+        "expenditures_19_20": 96222.27,
+        "num_expenditures_19_20": 32,
+        "cash_on_hand": 8162.02
     }
 }

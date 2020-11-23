@@ -1,36 +1,94 @@
 {
     "slug": "Graybill-Raph",
     "candidateName": "Graybill, Raph ",
-    "scrape_date": "2020-09-24",
+    "scrape_date": "2020-11-03",
     "officeTitle": "Attorney General",
     "partyDescr": "Democrat",
-    "periods": 9,
-    "receipts": 613731.21,
-    "expenditures": 357130.55,
-    "balance": 256600.65999999997,
+    "periods": 11,
+    "receipts": 725288.3099999999,
+    "expenditures": 495152.08999999997,
+    "balance": 230136.21999999997,
     "summary": {
         "contributions": {
-            "primary": 288436.43,
-            "general": 325294.78,
-            "total": 613731.21
+            "primary": 288536.43,
+            "general": 436751.88,
+            "total": 725288.3099999999
         },
         "expenditures": {
             "primary": 274697.45,
-            "general": 82433.1,
-            "total": 357130.55
+            "general": 220454.64,
+            "total": 495152.08999999997
         },
         "cash_on_hand": {
-            "primary": 13738.979999999981,
-            "general": 242861.68000000002,
-            "total": 256600.65999999997
+            "primary": 13838.979999999981,
+            "general": 216297.24,
+            "total": 230136.21999999997
         },
         "report_counts": {
-            "C5": 9,
-            "C7": 0,
+            "C5": 10,
+            "C7": 1,
             "C7E": 0
         }
     },
     "reports": [
+        {
+            "report": "10/17/2020 to 10/19/2020",
+            "id": 51332,
+            "type": "C7",
+            "start_date": "10/17/2020",
+            "end_date": "10/19/2020",
+            "unitemized_contributions": 0.0,
+            "num_contributions": 33,
+            "num_expenditures": 0,
+            "summary": {
+                "report_start_date": "10/17/2020",
+                "report_end_date": "10/19/2020",
+                "Receipts": {
+                    "primary": 100.0,
+                    "general": 6990.0,
+                    "total": 7090.0
+                },
+                "Expenditures": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                }
+            }
+        },
+        {
+            "report": "09/16/2020 to 10/14/2020",
+            "id": 51327,
+            "type": "C5",
+            "start_date": "09/16/2020",
+            "end_date": "10/14/2020",
+            "unitemized_contributions": 9816.270000000004,
+            "num_contributions": 1087,
+            "num_expenditures": 26,
+            "summary": {
+                "previous report": {
+                    "primary": 13738.98,
+                    "general": 242861.68,
+                    "total": 256600.66
+                },
+                "Receipts": {
+                    "primary": 0.0,
+                    "general": 104467.1,
+                    "total": 104467.1
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 138021.54,
+                    "total": 138021.54
+                },
+                "Ending Balance": {
+                    "primary": 13738.98,
+                    "general": 209307.24,
+                    "total": 223046.22
+                },
+                "report_start_date": "09/16/2020",
+                "report_end_date": "10/14/2020"
+            }
+        },
         {
             "report": "08/16/2020 to 09/15/2020",
             "id": 50657,
@@ -175,7 +233,7 @@
             "end_date": "04/15/2020",
             "unitemized_contributions": 4036.1100000000006,
             "num_contributions": 304,
-            "num_expenditures": 8,
+            "num_expenditures": 20,
             "summary": {
                 "previous report": {
                     "primary": 153062.32,

@@ -1,7 +1,7 @@
 {
     "slug": "414-NARAL-Pro-Choice-Montana-PAC",
     "committeeName": "NARAL Pro-Choice Montana PAC",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 11,
     "data": {
         "committeeId": 414,
@@ -34,7 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Kimberly Dudik for HD 94",
+                "interest": "Amelia Marquez ",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -44,22 +44,12 @@
                 "status": "Support"
             },
             {
-                "interest": "Amelia Marquez ",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Support Pro-Choice Candidates and Various Issues",
                 "position": "Support",
                 "status": "Support"
             },
             {
-                "interest": "Mary Caferro HD 81",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Alex Grey",
+                "interest": "Jasmine Krotkov for HD 25",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -69,9 +59,9 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Connie Keogh",
+                "interest": "Alex Grey",
                 "position": "Support",
-                "status": "Support"
+                "status": "Not Applicable"
             },
             {
                 "interest": "Emma Kerr-Carpenter",
@@ -79,7 +69,17 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jasmine Krotkov for HD 25",
+                "interest": "Kimberly Dudik for HD 94",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Connie Keogh",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Mary Caferro HD 81",
                 "position": "Support",
                 "status": "Not Applicable"
             }

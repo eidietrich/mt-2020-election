@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 50100,
+        "fromDateStr": "06/26/2020",
+        "toDateStr": "08/25/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 269,
+        "candidateName": "Granite County Republican Central Cmte",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/26/2020",
+        "end_date": "08/25/2020",
+        "receipts": 0.0,
+        "expenditures": 100.0,
+        "cash_in_bank": 910.72
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "08/19/20",
+            "Entity Name": "Big Sky Digital Marketing",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "P.O. Box 392",
+            "City": "Drummond",
+            "State": "MT",
+            "Zip": "59832",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 100.0,
+            "Purpose": "Tri County Fair Broadcast Advertisement for Granite Co Republican Central Committee, Ad in 2 sections, includes both on-screen line graphics and voice",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Tri County Fair Broadcast Advertisement for Republican Central Committee",
+            "Expenditure Paid Communications Quantity": "1 Broadcast Ad in 2 sections",
+            "Expenditure Paid Communications Subject Matter": "AD for Granite County Republican Central Committee"
+        }
+    ]
+}

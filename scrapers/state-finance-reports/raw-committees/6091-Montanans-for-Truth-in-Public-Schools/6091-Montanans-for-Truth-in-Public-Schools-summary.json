@@ -1,7 +1,7 @@
 {
     "slug": "6091-Montanans-for-Truth-in-Public-Schools",
     "committeeName": "Montanans for Truth in Public Schools",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 5,
     "data": {
         "committeeId": 6091,
@@ -41,7 +41,7 @@
             {
                 "interest": "Greg Gianforte",
                 "position": "Oppose",
-                "status": "Support"
+                "status": "Not Applicable"
             }
         ]
     },

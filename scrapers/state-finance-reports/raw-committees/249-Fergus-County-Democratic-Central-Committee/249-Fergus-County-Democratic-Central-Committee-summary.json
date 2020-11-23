@@ -1,8 +1,8 @@
 {
     "slug": "249-Fergus-County-Democratic-Central-Committee",
     "committeeName": "Fergus County Democratic Central Committee",
-    "scrape_date": "2020-07-09",
-    "periods": 16,
+    "scrape_date": "2020-11-11",
+    "periods": 20,
     "data": {
         "committeeId": 249,
         "committeeName": "Fergus County Democratic Central Committee",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 16,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 5729.81,
-        "num_contributions": 49,
-        "contributions_19_20": 1560.51,
-        "num_contributions_19_20": 12,
-        "expenditures": 6051.38,
-        "num_expenditures": 50,
-        "expenditures_19_20": 1108.46,
-        "num_expenditures_19_20": 11,
-        "cash_on_hand": 896.42
+        "reports": 20,
+        "last_report_end_date": "10/28/2020",
+        "contributions": 8514.81,
+        "num_contributions": 66,
+        "contributions_19_20": 4345.51,
+        "num_contributions_19_20": 29,
+        "expenditures": 12014.26,
+        "num_expenditures": 56,
+        "expenditures_19_20": 7071.34,
+        "num_expenditures_19_20": 17,
+        "cash_on_hand": 466.49
     }
 }

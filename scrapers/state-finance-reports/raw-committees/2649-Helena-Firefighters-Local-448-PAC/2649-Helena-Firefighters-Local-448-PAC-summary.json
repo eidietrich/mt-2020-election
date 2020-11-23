@@ -1,7 +1,7 @@
 {
     "slug": "2649-Helena-Firefighters-Local-448-PAC",
     "committeeName": "Helena Firefighters Local 448 PAC",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 2,
     "data": {
         "committeeId": 2649,
@@ -34,7 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Jesse Laslovich \u2013 Auditor race",
+                "interest": "Larry Jent",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -44,17 +44,12 @@
                 "status": "Support"
             },
             {
-                "interest": "Denise Juneau for U.S. House of Representatives",
+                "interest": "Jesse Laslovich \u2013 Auditor race",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Steve Bullock",
-                "position": "Support",
-                "status": "On ballot, approved"
-            },
-            {
-                "interest": "Larry Jent",
+                "interest": "Denise Juneau for U.S. House of Representatives",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -62,6 +57,11 @@
                 "interest": "Melissa Romano State Superintendent",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Steve Bullock",
+                "position": "Support",
+                "status": "On ballot, approved"
             }
         ]
     },

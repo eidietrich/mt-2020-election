@@ -2,13 +2,13 @@
     "data": {
         "reportId": 49493,
         "fromDateStr": "04/23/2020",
-        "toDateStr": "06/26/2020",
+        "toDateStr": "07/31/2020",
         "formTypeCode": "C6",
         "formTypeDescr": "Political Committee Finance Report",
         "committeeId": 6486,
         "candidateName": "Madison County Republican Central Committee",
-        "statusDescr": "Filed",
-        "amendedDate": null,
+        "statusDescr": "Amended",
+        "amendedDate": 1603814184000,
         "totalContrLessThan35": 0.0,
         "totalIndivContrLessThan35": 0.0,
         "grandTotalLessThan35": 0.0,
@@ -17,7 +17,7 @@
     },
     "summary": {
         "start_date": "04/23/2020",
-        "end_date": "06/26/2020",
+        "end_date": "07/31/2020",
         "receipts": 0.0,
         "expenditures": 0.0,
         "cash_in_bank": 9252.33

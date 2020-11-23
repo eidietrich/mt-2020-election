@@ -1,7 +1,7 @@
 {
     "slug": "4971-Big-Sky-Democrats",
     "committeeName": "Big Sky Democrats",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 16,
     "data": {
         "committeeId": 4971,
@@ -34,12 +34,12 @@
         ],
         "issues": [
             {
-                "interest": "Steve Bullock",
+                "interest": "Jacob Bachmeier",
                 "position": "Support",
-                "status": "On ballot, approved"
+                "status": "Support"
             },
             {
-                "interest": "Andrew Person",
+                "interest": "Kari Boiter - HD 44",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -49,7 +49,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jesse Laslovich \u2013 Auditor race",
+                "interest": "Andrew Person",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -59,14 +59,14 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Kari Boiter - HD 44",
+                "interest": "Steve Bullock",
                 "position": "Support",
-                "status": "Not Applicable"
+                "status": "On ballot, approved"
             },
             {
-                "interest": "Jacob Bachmeier",
+                "interest": "Jesse Laslovich \u2013 Auditor race",
                 "position": "Support",
-                "status": "Support"
+                "status": "Not Applicable"
             }
         ]
     },

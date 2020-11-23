@@ -1,7 +1,7 @@
 {
     "slug": "6213-Datsopoulos-MacDonald-&-Lind-PC",
     "committeeName": "Datsopoulos MacDonald & Lind, PC",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 1,
     "data": {
         "committeeId": 6213,
@@ -34,8 +34,8 @@
         ],
         "issues": [
             {
-                "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
-                "position": "Other",
+                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
+                "position": "Support",
                 "status": "Not Applicable"
             },
             {
@@ -44,8 +44,8 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "To make contributions to independent committees for independent expenditures for candidates and issues that impact the civil justice system.",
-                "position": "Support",
+                "interest": "Contributions are not earmarked for any specific candidates or ballot issues.",
+                "position": "Other",
                 "status": "Not Applicable"
             }
         ]

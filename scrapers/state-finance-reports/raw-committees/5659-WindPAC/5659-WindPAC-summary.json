@@ -1,7 +1,7 @@
 {
     "slug": "5659-WindPAC",
     "committeeName": "WindPAC",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 6,
     "data": {
         "committeeId": 5659,
@@ -34,12 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Steve Bullock",
-                "position": "Support",
-                "status": "On ballot, approved"
-            },
-            {
-                "interest": "Rob Cook for HD18",
+                "interest": "Carolyn Pease-Lopez Campaign",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -49,12 +44,12 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Carolyn Pease-Lopez Campaign",
+                "interest": "Harry Klock for Senate District 15",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Shane Morigeau for House District 95",
+                "interest": "Rob Cook for HD18",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -64,7 +59,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Harry Klock for Senate District 15",
+                "interest": "Shane Morigeau for House District 95",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -77,6 +72,11 @@
                 "interest": "Friends of Kimberly Dudik",
                 "position": "Support",
                 "status": "Support"
+            },
+            {
+                "interest": "Steve Bullock",
+                "position": "Support",
+                "status": "On ballot, approved"
             }
         ]
     },

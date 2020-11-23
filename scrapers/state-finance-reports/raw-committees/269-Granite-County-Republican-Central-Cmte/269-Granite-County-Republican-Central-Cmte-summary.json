@@ -1,8 +1,8 @@
 {
     "slug": "269-Granite-County-Republican-Central-Cmte",
     "committeeName": "Granite County Republican Central Cmte",
-    "scrape_date": "2020-07-09",
-    "periods": 23,
+    "scrape_date": "2020-11-11",
+    "periods": 26,
     "data": {
         "committeeId": 269,
         "committeeName": "Granite County Republican Central Cmte",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 23,
-        "last_report_end_date": "06/25/2020",
+        "reports": 26,
+        "last_report_end_date": "10/25/2020",
         "contributions": -914.0,
         "num_contributions": 3,
         "contributions_19_20": 100.0,
         "num_contributions_19_20": 1,
-        "expenditures": 1032.85,
-        "num_expenditures": 10,
-        "expenditures_19_20": 114.0,
-        "num_expenditures_19_20": 2,
-        "cash_on_hand": 1010.72
+        "expenditures": 1132.85,
+        "num_expenditures": 11,
+        "expenditures_19_20": 214.0,
+        "num_expenditures_19_20": 3,
+        "cash_on_hand": 910.72
     }
 }

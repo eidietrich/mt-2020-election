@@ -1,7 +1,7 @@
 {
     "slug": "5046-MEA-MFT",
     "committeeName": "MEA-MFT",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 14,
     "data": {
         "committeeId": 5046,
@@ -39,17 +39,32 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jim Shea - Supreme Court",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "Jesse Laslovich \u2013 Auditor race",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
+                "interest": "Melissa Romano State Superintendent",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Steve Bullock - Governor",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "I-181",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jim Shea - Supreme Court",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Dirk Sandefur - Supreme Court",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -62,21 +77,6 @@
                 "interest": "Monica Lindeen Secretary Of State",
                 "position": "Support",
                 "status": "Not Applicable"
-            },
-            {
-                "interest": "Melissa Romano State Superintendent",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Dirk Sandefur - Supreme Court",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "I-181",
-                "position": "Oppose",
-                "status": "On ballot"
             }
         ]
     },

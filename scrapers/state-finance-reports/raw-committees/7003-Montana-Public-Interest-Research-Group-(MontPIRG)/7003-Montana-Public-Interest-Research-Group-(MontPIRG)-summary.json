@@ -1,7 +1,7 @@
 {
     "slug": "7003-Montana-Public-Interest-Research-Group-(MontPIRG)",
     "committeeName": "Montana Public Interest Research Group (MontPIRG)",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 11,
     "data": {
         "committeeId": 7003,
@@ -34,17 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Bozeman Open Space Bond",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "I-186",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "LR-128",
                 "position": "Support",
                 "status": "On ballot"
             },
@@ -54,7 +44,17 @@
                 "status": "On ballot"
             },
             {
+                "interest": "Bozeman Open Space Bond",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
                 "interest": "I-185",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "LR-128",
                 "position": "Support",
                 "status": "On ballot"
             }

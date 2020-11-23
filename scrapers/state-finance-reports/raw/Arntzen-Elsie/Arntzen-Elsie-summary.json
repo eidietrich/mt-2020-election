@@ -1,36 +1,118 @@
 {
     "slug": "Arntzen-Elsie",
     "candidateName": "Arntzen, Elsie ",
-    "scrape_date": "2020-09-24",
+    "scrape_date": "2020-11-03",
     "officeTitle": "Superintendent of Public Instruction",
     "partyDescr": "Republican",
-    "periods": 9,
-    "receipts": 141340.02,
-    "expenditures": 103608.91,
-    "balance": 37731.109999999986,
+    "periods": 12,
+    "receipts": 204528.02,
+    "expenditures": 187719.52,
+    "balance": 16808.5,
     "summary": {
         "contributions": {
-            "primary": 70538.07,
-            "general": 70801.95,
-            "total": 141340.02
+            "primary": 70678.07,
+            "general": 133849.95,
+            "total": 204528.02
         },
         "expenditures": {
             "primary": 69498.07,
-            "general": 34110.84,
-            "total": 103608.91
+            "general": 118221.45,
+            "total": 187719.52
         },
         "cash_on_hand": {
-            "primary": 1040.0,
-            "general": 36691.11,
-            "total": 37731.109999999986
+            "primary": 1180.0,
+            "general": 15628.500000000015,
+            "total": 16808.5
         },
         "report_counts": {
-            "C5": 9,
+            "C5": 10,
             "C7": 0,
-            "C7E": 0
+            "C7E": 2
         }
     },
     "reports": [
+        {
+            "report": "11/02/2020 to 11/02/2020",
+            "id": 52042,
+            "type": "C7E",
+            "start_date": "11/02/2020",
+            "end_date": "11/02/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 1,
+            "summary": {
+                "report_start_date": "11/02/2020",
+                "report_end_date": "11/02/2020",
+                "Receipts": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 1551.57,
+                    "total": 1551.57
+                }
+            }
+        },
+        {
+            "report": "10/24/2020 to 10/26/2020",
+            "id": 51607,
+            "type": "C7E",
+            "start_date": "10/24/2020",
+            "end_date": "10/26/2020",
+            "unitemized_contributions": 0,
+            "num_contributions": 0,
+            "num_expenditures": 1,
+            "summary": {
+                "report_start_date": "10/24/2020",
+                "report_end_date": "10/26/2020",
+                "Receipts": {
+                    "primary": 0,
+                    "general": 0,
+                    "total": 0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 590.4,
+                    "total": 590.4
+                }
+            }
+        },
+        {
+            "report": "09/16/2020 to 10/14/2020",
+            "id": 51218,
+            "type": "C5",
+            "start_date": "09/16/2020",
+            "end_date": "10/14/2020",
+            "unitemized_contributions": 80.0,
+            "num_contributions": 87,
+            "num_expenditures": 33,
+            "summary": {
+                "previous report": {
+                    "primary": 1040.0,
+                    "general": 36691.11,
+                    "total": 37731.11
+                },
+                "Receipts": {
+                    "primary": 140.0,
+                    "general": 63048.0,
+                    "total": 63188.0
+                },
+                "Expenditures": {
+                    "primary": 0.0,
+                    "general": 81968.64,
+                    "total": 81968.64
+                },
+                "Ending Balance": {
+                    "primary": 1180.0,
+                    "general": 17770.47,
+                    "total": 18950.47
+                },
+                "report_start_date": "09/16/2020",
+                "report_end_date": "10/14/2020"
+            }
+        },
         {
             "report": "08/16/2020 to 09/15/2020",
             "id": 50624,

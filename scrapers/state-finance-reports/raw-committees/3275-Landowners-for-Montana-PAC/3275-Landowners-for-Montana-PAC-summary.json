@@ -1,8 +1,8 @@
 {
     "slug": "3275-Landowners-for-Montana-PAC",
     "committeeName": "Landowners for Montana PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 27,
+    "scrape_date": "2020-11-11",
+    "periods": 30,
     "data": {
         "committeeId": 3275,
         "committeeName": "Landowners for Montana PAC",
@@ -34,18 +34,23 @@
         ],
         "issues": [
             {
+                "interest": "Knudsen for Attorney General",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Jed Hinkle for Senate",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Chase Reynolds for Senate",
                 "position": "Support",
                 "status": "On ballot"
             },
             {
-                "interest": "Vermillion for Senate",
-                "position": "Oppose",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Flowers for Senate",
-                "position": "Oppose",
+                "interest": "gianforte for governor",
+                "position": "Support",
                 "status": "On ballot"
             },
             {
@@ -54,23 +59,33 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Jed Hinkle for Senate",
+                "interest": "Flowers for Senate",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Vermillion for Senate",
+                "position": "Oppose",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Malone for HD 59",
                 "position": "Support",
-                "status": "Not Applicable"
+                "status": "On ballot"
             }
         ]
     },
     "finances": {
-        "reports": 27,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 24285.0,
-        "num_contributions": 90,
-        "contributions_19_20": 35.0,
-        "num_contributions_19_20": 1,
-        "expenditures": 26135.54,
-        "num_expenditures": 21,
-        "expenditures_19_20": 0.0,
-        "num_expenditures_19_20": 0,
-        "cash_on_hand": 67.46
+        "reports": 30,
+        "last_report_end_date": "10/24/2020",
+        "contributions": 45664.56,
+        "num_contributions": 176,
+        "contributions_19_20": 21414.56,
+        "num_contributions_19_20": 87,
+        "expenditures": 45718.84,
+        "num_expenditures": 31,
+        "expenditures_19_20": 19583.3,
+        "num_expenditures_19_20": 10,
+        "cash_on_hand": 1953.72
     }
 }

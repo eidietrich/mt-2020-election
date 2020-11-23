@@ -1,8 +1,8 @@
 {
     "slug": "409-MHAPAC--(Montana-Hospital-Association)",
     "committeeName": "MHAPAC  (Montana Hospital Association)",
-    "scrape_date": "2020-07-09",
-    "periods": 35,
+    "scrape_date": "2020-11-11",
+    "periods": 39,
     "data": {
         "committeeId": 409,
         "committeeName": "MHAPAC  (Montana Hospital Association)",
@@ -34,37 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "Mike Cuffe for SD 1",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Bruce Grubbs for House District 68",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Mark Sweeney for HD 77",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jim Hamilton HD 61",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Ross Fitzgerald HD 17",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Marilyn Ryan HD 99",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Jim Keane \u2013 HD 73",
+                "interest": "Tom Welch HD72",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -74,62 +44,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Tom Welch HD72",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Llew Jones for HD 18",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Zach Brown for HD 63",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Eric Moore for HD 37",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Sharon Stewart-Peregoy HD 42",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "David Bedey for Montana HD 86",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Sharon Greef for Montana HD 88",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Julie Dooling for HD 70",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Frank Garner \u2013 HD 7",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Kathy Kelker HD 47",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Vince Ricci for HD 55",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Terry Gauthier for SD40",
+                "interest": "Mary Caferro HD 81",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -144,32 +59,17 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Mike Hopkins for HD 92",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Zac Perry HD 3",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Joel Krautter for HD 35",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Nancy Ballance for SD 44",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Brad Hamlett for HD 23",
+                "interest": "Ross Fitzgerald HD 17",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Geraldine Custer for HD39",
+                "interest": "Adam Hertz HD 96",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -179,27 +79,27 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Steve Fitzpatrick for SD 10",
+                "interest": "Kathy Kelker HD 47",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Bridgette Smith HD 31",
+                "interest": "Mark Sweeney for HD 77",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Shane Morigeau for HD 95",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Adam Hertz HD 96",
+                "interest": "Sharon Greef for Montana HD 88",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Walt Sales for SD 35",
+                "interest": "Jen Gross for SD 25",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jim Keane \u2013 HD 73",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -209,7 +109,87 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Sharon Stewart-Peregoy HD 42",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Brad Hamlett for HD 23",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Zac Perry HD 3",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Shane Morigeau for HD 95",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
                 "interest": "Denise Hayman for HD 66",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Walt Sales for SD 35",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mike Hopkins for HD 92",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Terry Gauthier for SD40",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Frank Garner \u2013 HD 7",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Steve Fitzpatrick for SD 10",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Vince Ricci for HD 55",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jim Hamilton HD 61",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Ed Buttrey for HD 21",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Marilyn Ryan HD 99",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Llew Jones for HD 18",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bridgette Smith HD 31",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Julie Dooling for HD 70",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -219,12 +199,12 @@
                 "status": "On ballot"
             },
             {
-                "interest": "Ed Buttrey for HD 21",
+                "interest": "Bruce Grubbs for House District 68",
                 "position": "Support",
-                "status": "Not Applicable"
+                "status": "On ballot"
             },
             {
-                "interest": "Denley Loge for HD 14",
+                "interest": "Laurie Bishop for HD 60",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -234,33 +214,53 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Laurie Bishop for HD 60",
+                "interest": "Eric Moore for HD 37",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Denley Loge for HD 14",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Mary Caferro HD 81",
+                "interest": "Zach Brown for HD 63",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jen Gross for SD 25",
+                "interest": "Joel Krautter for HD 35",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mike Cuffe for SD 1",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Geraldine Custer for HD39",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "David Bedey for Montana HD 86",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 35,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 277209.85,
-        "num_contributions": 1008,
-        "contributions_19_20": 70384.95,
-        "num_contributions_19_20": 321,
-        "expenditures": 176256.83,
-        "num_expenditures": 222,
-        "expenditures_19_20": 96923.31,
-        "num_expenditures_19_20": 98,
-        "cash_on_hand": 27173.57
+        "reports": 39,
+        "last_report_end_date": "11/03/2020",
+        "contributions": 337958.84,
+        "num_contributions": 1095,
+        "contributions_19_20": 131795.07,
+        "num_contributions_19_20": 438,
+        "expenditures": 193197.83,
+        "num_expenditures": 241,
+        "expenditures_19_20": 113864.31,
+        "num_expenditures_19_20": 117,
+        "cash_on_hand": 47344.18
     }
 }

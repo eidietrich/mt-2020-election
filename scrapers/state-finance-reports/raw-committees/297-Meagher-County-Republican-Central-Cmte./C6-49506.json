@@ -7,8 +7,8 @@
         "formTypeDescr": "Political Committee Finance Report",
         "committeeId": 297,
         "candidateName": "Meagher County Republican Central Cmte.",
-        "statusDescr": "Filed",
-        "amendedDate": null,
+        "statusDescr": "Pending-Amended",
+        "amendedDate": 1604596237000,
         "totalContrLessThan35": 0.0,
         "totalIndivContrLessThan35": 0.0,
         "grandTotalLessThan35": 0.0,
@@ -20,7 +20,7 @@
         "end_date": "06/25/2020",
         "receipts": 0.0,
         "expenditures": 0.98,
-        "cash_in_bank": 249.32
+        "cash_in_bank": 248.34
     },
     "contributions": [],
     "expenditures": [

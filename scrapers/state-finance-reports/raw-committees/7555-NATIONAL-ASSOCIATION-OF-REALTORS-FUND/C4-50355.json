@@ -1,0 +1,79 @@
+{
+    "data": {
+        "reportId": 50355,
+        "fromDateStr": "04/26/2020",
+        "toDateStr": "09/09/2020",
+        "formTypeCode": "C4",
+        "formTypeDescr": "Incidental Political Committee Finance Report",
+        "committeeId": 7555,
+        "candidateName": "NATIONAL ASSOCIATION OF REALTORS FUND",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "04/26/2020",
+        "end_date": "09/09/2020",
+        "receipts": 33000.0,
+        "expenditures": 33000.0,
+        "cash_in_bank": 0.0
+    },
+    "contributions": [
+        {
+            "Date Paid": "09/09/20",
+            "Entity Name": "NATIONAL ASSOCIATION OF REALTORS",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "430 N. MICHIGAN AVE",
+            "City": "CHICAGO",
+            "State": "IL",
+            "Zip": "60611",
+            "Zip4": "",
+            "Country": "",
+            "Occupation": "",
+            "Employer": "",
+            "Contribution Type": "Individual Contributions",
+            "Amount": 33000.0,
+            "Amount Type": "CA",
+            "Purpose": "",
+            "Election Type": "General",
+            "Total Primary": 10000.0,
+            "Total General": 69481.0,
+            "Refund Transaction Type": "",
+            "Refund Original Transaction Date": null,
+            "Refund Original Transaction Total": 0.0,
+            "Refund Original Transaction Descr": "",
+            "Previous Transaction (Y/N)": "N",
+            "Fundraiser Name": "",
+            "Fundraiser Location": "",
+            "Fundraiser Attendees": 0,
+            "Fundraiser Tickets Sold": 0
+        }
+    ],
+    "expenditures": [
+        {
+            "Date Paid": "09/09/20",
+            "Entity Name": "Realtors for Better Government",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "1 S. Montana Ave., Ste M1",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59601",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 33000.0,
+            "Purpose": "CONTRIBUTION FOR THE GENERAL ELECTION",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

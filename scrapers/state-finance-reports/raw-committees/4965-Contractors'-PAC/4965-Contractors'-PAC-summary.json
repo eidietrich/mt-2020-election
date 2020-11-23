@@ -1,8 +1,8 @@
 {
     "slug": "4965-Contractors'-PAC",
     "committeeName": "Contractors' PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 23,
+    "scrape_date": "2020-11-11",
+    "periods": 26,
     "data": {
         "committeeId": 4965,
         "committeeName": "Contractors' PAC",
@@ -34,32 +34,7 @@
         ],
         "issues": [
             {
-                "interest": "David Bedey for HD 88",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Geraldine Custer for HD 39",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Walt Sales for SD 35",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Dan Salomon for SD 47",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Fred Anderson for HD 20",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Terry Gauthier for SD 40",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -69,7 +44,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Julie Dooling for HD 70",
+                "interest": "Terry Gauthier for SD 40",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -79,17 +54,12 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Mike Hopkins for HD 92",
+                "interest": "Geraldine Custer for HD 39",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Steve Fitzpatrick for SD 10",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Tom Richmond for SD 28",
+                "interest": "Julie Dooling for HD 70",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -104,7 +74,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Wendy McKamey for HD19",
+                "interest": "Fred Anderson for HD 20",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -114,12 +84,27 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Jeff Welborn for SD 36",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Llew Jones for HD 18",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jeff Welborn for SD 36",
+                "interest": "David Bedey for HD 88",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Wendy McKamey for HD19",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steve Fitzpatrick for SD 10",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -127,20 +112,35 @@
                 "interest": "Edward Buttrey for HD 21",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Mike Hopkins for HD 92",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dan Salomon for SD 47",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Tom Richmond for SD 28",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 23,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 116405.17,
-        "num_contributions": 274,
-        "contributions_19_20": 20520.0,
-        "num_contributions_19_20": 28,
-        "expenditures": 131878.88,
-        "num_expenditures": 160,
-        "expenditures_19_20": 28598.6,
-        "num_expenditures_19_20": 39,
-        "cash_on_hand": 2383.86
+        "reports": 26,
+        "last_report_end_date": "10/24/2020",
+        "contributions": 154655.17,
+        "num_contributions": 322,
+        "contributions_19_20": 58770.0,
+        "num_contributions_19_20": 76,
+        "expenditures": 152181.14,
+        "num_expenditures": 184,
+        "expenditures_19_20": 48900.86,
+        "num_expenditures_19_20": 63,
+        "cash_on_hand": 20334.28
     }
 }

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 51968,
+        "fromDateStr": "10/31/2020",
+        "toDateStr": "10/31/2020",
+        "formTypeCode": "C7E",
+        "formTypeDescr": "Notice of Pre-Election Expenditures",
+        "committeeId": 8956,
+        "candidateName": "NRA Big Sky Self-Defense Committee",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "10/31/2020",
+        "end_date": "10/31/2020",
+        "receipts": 0.0,
+        "expenditures": 2000.0,
+        "cash_in_bank": -878.06
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "10/31/20",
+            "Entity Name": "i360, LLC ",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "29374 Network Place",
+            "City": "Chicago",
+            "State": "IL",
+            "Zip": "60673",
+            "Zip4": "",
+            "Expenditure Type": "Independent Expenditure",
+            "Amount": 2000.0,
+            "Purpose": "Peer-to-peer text messages",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "Peer-to-peer texting",
+            "Expenditure Paid Communications Quantity": "Approximately 15,000",
+            "Expenditure Paid Communications Subject Matter": "LR-130"
+        }
+    ]
+}

@@ -1,8 +1,8 @@
 {
     "slug": "6950-Madison-County-Democratic-Central-Cmte",
     "committeeName": "Madison County Democratic Central Cmte",
-    "scrape_date": "2020-07-09",
-    "periods": 12,
+    "scrape_date": "2020-11-11",
+    "periods": 15,
     "data": {
         "committeeId": 6950,
         "committeeName": "Madison County Democratic Central Cmte",
@@ -35,16 +35,16 @@
         "issues": []
     },
     "finances": {
-        "reports": 12,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 21464.54,
-        "num_contributions": 271,
-        "contributions_19_20": 8137.85,
-        "num_contributions_19_20": 126,
-        "expenditures": 5843.68,
-        "num_expenditures": 33,
-        "expenditures_19_20": 2270.55,
-        "num_expenditures_19_20": 18,
-        "cash_on_hand": 9650.68
+        "reports": 15,
+        "last_report_end_date": "10/24/2020",
+        "contributions": 26314.54,
+        "num_contributions": 302,
+        "contributions_19_20": 12987.85,
+        "num_contributions_19_20": 157,
+        "expenditures": 19261.22,
+        "num_expenditures": 64,
+        "expenditures_19_20": 15688.09,
+        "num_expenditures_19_20": 49,
+        "cash_on_hand": 1153.14
     }
 }

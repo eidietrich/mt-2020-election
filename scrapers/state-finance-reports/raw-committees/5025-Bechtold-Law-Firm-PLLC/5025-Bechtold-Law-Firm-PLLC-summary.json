@@ -1,8 +1,8 @@
 {
     "slug": "5025-Bechtold-Law-Firm-PLLC",
     "committeeName": "Bechtold Law Firm PLLC",
-    "scrape_date": "2020-07-09",
-    "periods": 27,
+    "scrape_date": "2020-11-11",
+    "periods": 30,
     "data": {
         "committeeId": 5025,
         "committeeName": "Bechtold Law Firm PLLC",
@@ -46,8 +46,8 @@
         ]
     },
     "finances": {
-        "reports": 27,
-        "last_report_end_date": "06/25/2020",
+        "reports": 30,
+        "last_report_end_date": "10/25/2020",
         "contributions": 0,
         "num_contributions": 0,
         "contributions_19_20": 0,

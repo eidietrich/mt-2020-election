@@ -1,8 +1,8 @@
 {
     "slug": "354-Montana-Federation-Of-Republican-Women",
     "committeeName": "Montana Federation Of Republican Women",
-    "scrape_date": "2020-07-09",
-    "periods": 29,
+    "scrape_date": "2020-11-11",
+    "periods": 32,
     "data": {
         "committeeId": 354,
         "committeeName": "Montana Federation Of Republican Women",
@@ -35,16 +35,16 @@
         "issues": []
     },
     "finances": {
-        "reports": 29,
-        "last_report_end_date": "06/25/2020",
-        "contributions": 86756.98,
-        "num_contributions": 572,
-        "contributions_19_20": 38861.34,
-        "num_contributions_19_20": 214,
-        "expenditures": 79918.88,
-        "num_expenditures": 239,
-        "expenditures_19_20": 29328.65,
-        "num_expenditures_19_20": 84,
-        "cash_on_hand": 15727.75
+        "reports": 32,
+        "last_report_end_date": "10/25/2020",
+        "contributions": 87867.98,
+        "num_contributions": 588,
+        "contributions_19_20": 39972.34,
+        "num_contributions_19_20": 230,
+        "expenditures": 83403.38,
+        "num_expenditures": 261,
+        "expenditures_19_20": 32813.15,
+        "num_expenditures_19_20": 106,
+        "cash_on_hand": 13354.25
     }
 }

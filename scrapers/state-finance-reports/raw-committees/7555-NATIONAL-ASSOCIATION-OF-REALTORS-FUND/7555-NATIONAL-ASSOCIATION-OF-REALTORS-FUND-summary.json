@@ -1,8 +1,8 @@
 {
     "slug": "7555-NATIONAL-ASSOCIATION-OF-REALTORS-FUND",
     "committeeName": "NATIONAL ASSOCIATION OF REALTORS FUND",
-    "scrape_date": "2020-07-09",
-    "periods": 3,
+    "scrape_date": "2020-11-11",
+    "periods": 4,
     "data": {
         "committeeId": 7555,
         "committeeName": "NATIONAL ASSOCIATION OF REALTORS FUND",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 3,
-        "last_report_end_date": "04/25/2020",
-        "contributions": 46481.0,
-        "num_contributions": 3,
-        "contributions_19_20": 21000.0,
-        "num_contributions_19_20": 2,
-        "expenditures": 46481.0,
-        "num_expenditures": 4,
-        "expenditures_19_20": 21000.0,
-        "num_expenditures_19_20": 2,
+        "reports": 4,
+        "last_report_end_date": "09/09/2020",
+        "contributions": 79481.0,
+        "num_contributions": 4,
+        "contributions_19_20": 54000.0,
+        "num_contributions_19_20": 3,
+        "expenditures": 79481.0,
+        "num_expenditures": 5,
+        "expenditures_19_20": 54000.0,
+        "num_expenditures_19_20": 3,
         "cash_on_hand": 0.0
     }
 }

@@ -1,8 +1,8 @@
 {
     "slug": "8851-Pro-Business-Pro-Jobs-Montana",
     "committeeName": "Pro Business Pro Jobs Montana",
-    "scrape_date": "2020-07-09",
-    "periods": 2,
+    "scrape_date": "2020-11-11",
+    "periods": 5,
     "data": {
         "committeeId": 8851,
         "committeeName": "Pro Business Pro Jobs Montana",
@@ -35,8 +35,8 @@
         "issues": []
     },
     "finances": {
-        "reports": 2,
-        "last_report_end_date": "06/25/2020",
+        "reports": 5,
+        "last_report_end_date": "10/24/2020",
         "contributions": 0,
         "num_contributions": 0,
         "contributions_19_20": 0,

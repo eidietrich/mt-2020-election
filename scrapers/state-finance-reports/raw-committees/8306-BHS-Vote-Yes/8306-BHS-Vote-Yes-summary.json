@@ -1,0 +1,56 @@
+{
+    "slug": "8306-BHS-Vote-Yes",
+    "committeeName": "BHS Vote Yes",
+    "scrape_date": "2020-11-11",
+    "periods": 3,
+    "data": {
+        "committeeId": 8306,
+        "committeeName": "BHS Vote Yes",
+        "committeeAddress": "P.O. Box 509, Bridger, MT 59014",
+        "committeeTypeDescr": "Ballot Issue",
+        "incorporated": "N",
+        "electionYear": "2020",
+        "amendedDate": 1578898800000,
+        "entityFullName": "BHS Vote Yes",
+        "entityCity": "Bridger",
+        "entityState": "MT"
+    },
+    "summary": {
+        "officers": [
+            {
+                "position": "Treasurer",
+                "name": "Sweet, Kirstin",
+                "address": "P.O. Box 509 Bridger, MT  59014",
+                "phone": "(406) 698-0249",
+                "email": "kirstinsweet@icloud.com"
+            },
+            {
+                "position": "Deputy Treasurer",
+                "name": "Knutson, Jillann",
+                "address": "2019 Highway 72 Bridger, MT  59014",
+                "phone": "",
+                "email": "jknutson@beartooth.org"
+            }
+        ],
+        "issues": [
+            {
+                "interest": "Support Bridger Public Schools 2020 Gym Bond",
+                "position": "Support",
+                "status": "Support"
+            }
+        ]
+    },
+    "finances": {
+        "reports": 3,
+        "last_report_end_date": "06/25/2020",
+        "contributions": 0,
+        "num_contributions": 0,
+        "contributions_19_20": 0,
+        "num_contributions_19_20": 0,
+        "expenditures": 0,
+        "num_expenditures": 0,
+        "expenditures_19_20": 0,
+        "num_expenditures_19_20": 0,
+        "cash_on_hand": 0.0
+    }
+}

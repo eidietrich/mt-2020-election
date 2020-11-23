@@ -1,7 +1,7 @@
 {
     "slug": "5660-Sheridan-County-Democratic-Central-Committee",
     "committeeName": "Sheridan County Democratic Central Committee",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 1,
     "data": {
         "committeeId": 5660,
@@ -39,22 +39,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Promote Democratic values and Issues. Work with Candidates and the local Democratic Central Cmte to help elect Democratic Candidates.",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Evelyn Carlisle for House District #34",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Gretchen Ulrickson for Sheridan County Sheriff",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Denise Juneau for U.S. House of Representatives",
+                "interest": "Monica Lindeen Secretary Of State",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -64,7 +49,22 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Monica Lindeen Secretary Of State",
+                "interest": "Evelyn Carlisle for House District #34",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Denise Juneau for U.S. House of Representatives",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Gretchen Ulrickson for Sheridan County Sheriff",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Promote Democratic values and Issues. Work with Candidates and the local Democratic Central Cmte to help elect Democratic Candidates.",
                 "position": "Support",
                 "status": "Not Applicable"
             },

@@ -1,8 +1,8 @@
 {
     "slug": "6486-Madison-County-Republican-Central-Committee",
     "committeeName": "Madison County Republican Central Committee",
-    "scrape_date": "2020-07-09",
-    "periods": 14,
+    "scrape_date": "2020-11-11",
+    "periods": 17,
     "data": {
         "committeeId": 6486,
         "committeeName": "Madison County Republican Central Committee",
@@ -34,9 +34,9 @@
         ],
         "issues": [
             {
-                "interest": "Gordon Vance for SD34",
+                "interest": "Tom Burnett for HD 67",
                 "position": "Support",
-                "status": "Not Applicable"
+                "status": "On ballot"
             },
             {
                 "interest": "Matt Rosendale for U.S. Senate",
@@ -44,27 +44,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "DAN SKATTUM",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Bowen Greenwood for Clerk of the Supreme Court",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Tom Burnett for HD 67",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "Kerry White for HD 64",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "GREG GIANFORTE FOR US HOUSE REPRESENTATIVE",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -72,20 +52,40 @@
                 "interest": "Jedediah Hinkle for SD 32",
                 "position": "Support",
                 "status": "On ballot"
+            },
+            {
+                "interest": "DAN SKATTUM",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "GREG GIANFORTE FOR US HOUSE REPRESENTATIVE",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bowen Greenwood for Clerk of the Supreme Court",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Gordon Vance for SD34",
+                "position": "Support",
+                "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 14,
-        "last_report_end_date": "06/26/2020",
+        "reports": 17,
+        "last_report_end_date": "10/26/2020",
         "contributions": 4342.08,
         "num_contributions": 11,
         "contributions_19_20": 6874.89,
         "num_contributions_19_20": 4,
-        "expenditures": 11312.57,
-        "num_expenditures": 29,
-        "expenditures_19_20": 3535.96,
-        "num_expenditures_19_20": 9,
-        "cash_on_hand": 9252.33
+        "expenditures": 14412.57,
+        "num_expenditures": 37,
+        "expenditures_19_20": 6635.96,
+        "num_expenditures_19_20": 17,
+        "cash_on_hand": 6177.33
     }
 }

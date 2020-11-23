@@ -1,8 +1,8 @@
 {
     "slug": "3008-CTA-BuildMT-PAC",
     "committeeName": "CTA BuildMT PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 49,
+    "scrape_date": "2020-11-11",
+    "periods": 53,
     "data": {
         "committeeId": 3008,
         "committeeName": "CTA BuildMT PAC",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 49,
-        "last_report_end_date": "06/30/2020",
-        "contributions": 5700.0,
-        "num_contributions": 5,
-        "contributions_19_20": 0.0,
-        "num_contributions_19_20": 0,
-        "expenditures": 5618.0,
-        "num_expenditures": 8,
-        "expenditures_19_20": 0.0,
-        "num_expenditures_19_20": 0,
+        "reports": 53,
+        "last_report_end_date": "11/02/2020",
+        "contributions": 7120.0,
+        "num_contributions": 7,
+        "contributions_19_20": 1420.0,
+        "num_contributions_19_20": 2,
+        "expenditures": 7038.0,
+        "num_expenditures": 10,
+        "expenditures_19_20": 1420.0,
+        "num_expenditures_19_20": 2,
         "cash_on_hand": 1396.08
     }
 }

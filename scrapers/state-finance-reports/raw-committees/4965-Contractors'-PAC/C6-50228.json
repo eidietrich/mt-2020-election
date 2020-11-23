@@ -1,0 +1,47 @@
+{
+    "data": {
+        "reportId": 50228,
+        "fromDateStr": "06/26/2020",
+        "toDateStr": "08/25/2020",
+        "formTypeCode": "C6",
+        "formTypeDescr": "Political Committee Finance Report",
+        "committeeId": 4965,
+        "candidateName": "Contractors' PAC",
+        "statusDescr": "Filed",
+        "amendedDate": null,
+        "totalContrLessThan35": 0.0,
+        "totalIndivContrLessThan35": 0.0,
+        "grandTotalLessThan35": 0.0,
+        "grandTotalLessThan35Primary": 0.0,
+        "grandTotalLessThan35General": 0.0
+    },
+    "summary": {
+        "start_date": "06/26/2020",
+        "end_date": "08/25/2020",
+        "receipts": 1.65,
+        "expenditures": 2500.0,
+        "cash_in_bank": -114.49
+    },
+    "contributions": [],
+    "expenditures": [
+        {
+            "Date Paid": "08/18/20",
+            "Entity Name": "Jobs for Montana PAC",
+            "First Name": "",
+            "Middle Initial": "",
+            "Last Name": "",
+            "Addr Line1": "PO Box 1618",
+            "City": "Helena",
+            "State": "MT",
+            "Zip": "59624",
+            "Zip4": "",
+            "Expenditure Type": "All Other Expenditures",
+            "Amount": 2500.0,
+            "Purpose": "Transfer to Jobs for Montana PAC for future independent expenditures. ",
+            "Election Type": "General",
+            "Expenditure Paid Communications Platform": "",
+            "Expenditure Paid Communications Quantity": "",
+            "Expenditure Paid Communications Subject Matter": ""
+        }
+    ]
+}

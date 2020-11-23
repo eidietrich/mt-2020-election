@@ -1,0 +1,32 @@
+{
+    "data": {
+        "reportId": 51945,
+        "fromDateStr": "10/29/2020",
+        "toDateStr": "10/29/2020",
+        "formTypeCode": "C7",
+        "formTypeDescr": "Notice of Pre-Election Contributions",
+        "candidateId": 15982,
+        "candidateName": "Knudsen, Austin ",
+        "officeTitle": "Attorney General",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "report_start_date": "10/29/2020",
+        "report_end_date": "10/29/2020",
+        "Receipts": {
+            "primary": 0.0,
+            "general": 1440.0,
+            "total": 1440.0
+        },
+        "Expenditures": {
+            "primary": 0,
+            "general": 0,
+            "total": 0
+        }
+    },
+    "contributions": "[{\"Date Paid\":\"10\\/29\\/20\",\"Entity Name\":\"Fears, Bryan\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"5473 Blair Road\",\"City\":\"Dallas\",\"State\":\"TX\",\"Zip\":\"75231\",\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Attorney\",\"Employer\":\"Fears Nachawati Law Firm\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":360.0,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0.0,\"Total General\":360.0,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0.0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/29\\/20\",\"Entity Name\":\"Secrist, Steven R\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"20402 88th Ave West\",\"City\":\"Edmonds\",\"State\":\"WA\",\"Zip\":\"98026\",\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"General Counsel\\/Sr. VP\",\"Employer\":\"PSE\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":360.0,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0.0,\"Total General\":360.0,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0.0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/29\\/20\",\"Entity Name\":\"Swanson, Marc\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"724 8th Ave north \",\"City\":\"Glasgow\",\"State\":\"MT\",\"Zip\":\"59230\",\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Retired\",\"Employer\":\"None\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":360.0,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0.0,\"Total General\":360.0,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0.0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/29\\/20\",\"Entity Name\":\"Swanson, Sarah\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"705 6th Ave N.\",\"City\":\"Glasgow\",\"State\":\"MT\",\"Zip\":\"59230\",\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Retired\",\"Employer\":\"None\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":360.0,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0.0,\"Total General\":360.0,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0.0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0
+}

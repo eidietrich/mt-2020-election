@@ -1,8 +1,8 @@
 {
     "slug": "5055-INTERNATIONAL-ASSOCIATION-OF-FIREFIGHTERS-INTERESTED-IN-REGISTRATION-AND-EDUCATION-PAC",
     "committeeName": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
-    "scrape_date": "2020-07-09",
-    "periods": 15,
+    "scrape_date": "2020-11-11",
+    "periods": 18,
     "data": {
         "committeeId": 5055,
         "committeeName": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
@@ -41,16 +41,16 @@
         ]
     },
     "finances": {
-        "reports": 15,
-        "last_report_end_date": "06/25/2020",
+        "reports": 18,
+        "last_report_end_date": "10/24/2020",
         "contributions": 0,
         "num_contributions": 0,
         "contributions_19_20": 0,
         "num_contributions_19_20": 0,
-        "expenditures": 49146.32,
-        "num_expenditures": 80,
-        "expenditures_19_20": 27429.84,
-        "num_expenditures_19_20": 50,
-        "cash_on_hand": -49146.32
+        "expenditures": 151445.3,
+        "num_expenditures": 93,
+        "expenditures_19_20": 129728.82,
+        "num_expenditures_19_20": 63,
+        "cash_on_hand": -151445.3
     }
 }

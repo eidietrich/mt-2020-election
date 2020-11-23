@@ -1,8 +1,8 @@
 {
     "slug": "426-Wood-PAC---Montana-Wood-Products-Assn.",
     "committeeName": "Wood PAC - Montana Wood Products Assn.",
-    "scrape_date": "2020-07-09",
-    "periods": 32,
+    "scrape_date": "2020-11-11",
+    "periods": 35,
     "data": {
         "committeeId": 426,
         "committeeName": "Wood PAC - Montana Wood Products Assn.",
@@ -34,26 +34,6 @@
         ],
         "issues": [
             {
-                "interest": "Bill Mercer for HD 46",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Bradley Hamlett for House District 23",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "John Esp for SD 30",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Gordan Vance for SD34",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Willis Curdy for HD 98",
                 "position": "Support",
                 "status": "Not Applicable"
@@ -64,102 +44,7 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Zac Perry for HD3",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Peggy Webb",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Dave Fern for House District 5",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Brian Hoven SD 13",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Adam Rosendale SD 11",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Mike Hopkins - HD 92",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Mike Cuff for HD 2",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jeremy Trebas for HD25",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Bruce Grubbs for HD68",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Bob Keenan SD 5",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jon Knokey HD 65",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Lola Sheldon-Galloway for HD 22",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Steve Gunderson for HD 1",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Tom Burnett",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Alan Redfield for HD 59",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Doug Kary SD 22",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
                 "interest": "Greg Hertz for House District 12",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "John Schmidt for SD 41",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Mark Blasdel SD 4",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Matt Regier for HD4",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -169,7 +54,17 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "E. Wylie Galt for HD 30",
+                "interest": "Tom Burnett",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jon Knokey HD 65",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "John Schmidt for SD 41",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -179,12 +74,42 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Jim Keane for House District 73",
+                "interest": "Brian Hoven SD 13",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Walt Sales HD 69",
+                "interest": "Bob Keenan SD 5",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Adam Hertz for HD 96",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bradley Hamlett for House District 23",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jeremy Trebas for HD25",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Patrick Connell for SD 43",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bruce Grubbs for HD68",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Lola Sheldon-Galloway for HD 22",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -194,7 +119,22 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Kerry White for HD 64",
+                "interest": "Gordan Vance for SD34",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dennis Lenz for HD 53",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Mike Cuff for HD 2",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ed Buttrey for HD 21",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -209,17 +149,22 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Denley Loge for HD 14",
+                "interest": "Doug Kary SD 22",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Bradley Tschida for HD 97",
+                "interest": "Walt Sales HD 69",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Adam Hertz for HD 96",
+                "interest": "Zac Perry for HD3",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dave Fern for House District 5",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -229,38 +174,93 @@
                 "status": "Support"
             },
             {
+                "interest": "Jim Keane for House District 73",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
                 "interest": "Becky Beard for House District 80",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Dennis Lenz for HD 53",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Ed Buttrey for HD 21",
+                "interest": "Matt Regier for HD4",
                 "position": "Support",
                 "status": "Not Applicable"
             },
             {
-                "interest": "Patrick Connell for SD 43",
+                "interest": "Mike Hopkins - HD 92",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Denley Loge for HD 14",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Kerry White for HD 64",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steve Gunderson for HD 1",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mark Blasdel SD 4",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "John Esp for SD 30",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "E. Wylie Galt for HD 30",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Peggy Webb",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Adam Rosendale SD 11",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Alan Redfield for HD 59",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bill Mercer for HD 46",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bradley Tschida for HD 97",
                 "position": "Support",
                 "status": "Not Applicable"
             }
         ]
     },
     "finances": {
-        "reports": 32,
-        "last_report_end_date": "06/26/2020",
-        "contributions": 11083.0,
-        "num_contributions": 98,
-        "contributions_19_20": 4290.0,
-        "num_contributions_19_20": 19,
-        "expenditures": 19847.96,
-        "num_expenditures": 107,
-        "expenditures_19_20": 4902.0,
-        "num_expenditures_19_20": 7,
-        "cash_on_hand": 6405.97
+        "reports": 35,
+        "last_report_end_date": "10/30/2020",
+        "contributions": 12123.0,
+        "num_contributions": 111,
+        "contributions_19_20": 5350.0,
+        "num_contributions_19_20": 31,
+        "expenditures": 24027.96,
+        "num_expenditures": 138,
+        "expenditures_19_20": 9082.0,
+        "num_expenditures_19_20": 38,
+        "cash_on_hand": 3765.97
     }
 }

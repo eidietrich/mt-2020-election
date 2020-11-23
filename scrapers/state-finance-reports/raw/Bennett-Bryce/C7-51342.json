@@ -1,0 +1,32 @@
+{
+    "data": {
+        "reportId": 51342,
+        "fromDateStr": "10/19/2020",
+        "toDateStr": "10/19/2020",
+        "formTypeCode": "C7",
+        "formTypeDescr": "Notice of Pre-Election Contributions",
+        "candidateId": 16068,
+        "candidateName": "Bennett, Bryce ",
+        "officeTitle": "Secretary of State",
+        "electionYear": "2020",
+        "statusDescr": "Filed",
+        "amendedDate": null
+    },
+    "summary": {
+        "report_start_date": "10/19/2020",
+        "report_end_date": "10/19/2020",
+        "Receipts": {
+            "primary": 0.0,
+            "general": 1150.0,
+            "total": 1150.0
+        },
+        "Expenditures": {
+            "primary": 0,
+            "general": 0,
+            "total": 0
+        }
+    },
+    "contributions": "[{\"Date Paid\":\"10\\/19\\/20\",\"Entity Name\":\"Conrad, Rowan\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"16895 Fox Hill Dr\",\"City\":\"Frenchtown\",\"State\":\"MT\",\"Zip\":59834,\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Retired\",\"Employer\":\"Not employed\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":500,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0,\"Total General\":500,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/19\\/20\",\"Entity Name\":\"Harper, Janet M\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"1608 Gold Rush Ave\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59601,\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Retired\",\"Employer\":\"Not employed\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0,\"Total General\":100,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/19\\/20\",\"Entity Name\":\"Jensen, Guy\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"222 S. Adams\",\"City\":\"Plentywood\",\"State\":\"MT\",\"Zip\":59254,\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Retired\",\"Employer\":\"Not employed\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0,\"Total General\":100,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/19\\/20\",\"Entity Name\":\"Lauder, Nila M\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"160 Lake Shore Dr\",\"City\":\"Kalispell\",\"State\":\"MT\",\"Zip\":59901,\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Retired\",\"Employer\":\"Not employed\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":150,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0,\"Total General\":150,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/19\\/20\",\"Entity Name\":\"Massman, Jennifer\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"104 Short Dr\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59601,\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Retired\",\"Employer\":\"Not employed\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0,\"Total General\":100,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/19\\/20\",\"Entity Name\":\"Murphy, Minh-ha\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"529 Crestview Rd\",\"City\":\"Kalispell\",\"State\":\"MT\",\"Zip\":59901,\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Business Owner\",\"Employer\":\"MURPHY'S STATE LIQUOR & WINE\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0,\"Total General\":100,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0},{\"Date Paid\":\"10\\/19\\/20\",\"Entity Name\":\"Schwartz, Raymond B\",\"First Name\":\"\",\"Middle Initial\":\"\",\"Last Name\":\"\",\"Addr Line1\":\"21 N Last Chance Gulch Apt 5E\",\"City\":\"Helena\",\"State\":\"MT\",\"Zip\":59601,\"Zip4\":\"\",\"Country\":\"\",\"Occupation\":\"Retired\",\"Employer\":\"Not employed\",\"Contribution Type\":\"Individual Contributions\",\"Amount\":100,\"Amount Type\":\"CA\",\"Purpose\":\"\",\"Election Type\":\"General\",\"Total Primary\":0,\"Total General\":100,\"Refund Transaction Type\":\"\",\"Refund Original Transaction Date\":null,\"Refund Original Transaction Total\":0,\"Refund Original Transaction Descr\":\"\",\"Previous Transaction (Y\\/N)\":\"N\",\"Fundraiser Name\":\"\",\"Fundraiser Location\":\"\",\"Fundraiser Attendees\":0,\"Fundraiser Tickets Sold\":0}]",
+    "expenditures": "[]",
+    "unitemized_contributions": 0.0
+}

@@ -1,7 +1,7 @@
 {
     "slug": "4963-Montana-Association-of-Insurance-and-Financial-Advisors-PAc",
     "committeeName": "Montana Association of Insurance and Financial Advisors PAc",
-    "scrape_date": "2020-07-09",
+    "scrape_date": "2020-11-11",
     "periods": 11,
     "data": {
         "committeeId": 4963,
@@ -39,182 +39,12 @@
                 "status": "Not Applicable"
             },
             {
-                "interest": "Brian Hoven SD 13",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Matt Regier for HD4",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Ray Shaw for HD71",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Brad Hamlett for HD 23",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Tom Welch HD72",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Wendy McKamey for HD19",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Michael W Houghton HD67",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Gordon Vance for SD34",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Russel Tempel",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Bruce Grubbs for HD68",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Charles C Brown HD 17",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Greg Hertz for HD12",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Wendy McKamey for HD19",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Dennis Lenz for HD 53",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
                 "interest": "Mike Cuffe",
                 "position": "Support",
                 "status": "On ballot"
             },
             {
-                "interest": "Daniel Salomon for SD47",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Geraldine Custer for HD39",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Vince Ricci for HD 55",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Gilbert B Meyers",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Julie Dooling for HD 70",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jim Hamilton for HD 61",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Bruce Grubbs for HD68",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Ross Fitzgerald for HD 17",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Duane Ankney",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Harry Klock \u2013 SD 15",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Fred Thomas SD44",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Matt Rosendale for Auditor",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Geraldine Custer for HD39",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Frederick Anderson",
-                "position": "Support",
-                "status": "Support"
-            },
-            {
-                "interest": "Geraldine Custer for HD39",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Steve Fitzpatrick SD 10",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Walt Sales for HD 69",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Dan Bartel - HD29",
-                "position": "Support",
-                "status": "On ballot"
-            },
-            {
-                "interest": "Mary Caferro HD 81",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Jesse Laslovich \u2013 Auditor race",
-                "position": "Support",
-                "status": "Not Applicable"
-            },
-            {
-                "interest": "Tom Welch HD72",
+                "interest": "Charles C Brown HD 17",
                 "position": "Support",
                 "status": "Not Applicable"
             },
@@ -224,9 +54,179 @@
                 "status": "Not Applicable"
             },
             {
+                "interest": "Tom Welch HD72",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Walt Sales for HD 69",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Russel Tempel",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Michael W Houghton HD67",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ray Shaw for HD71",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Harry Klock \u2013 SD 15",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Matt Regier for HD4",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Vince Ricci for HD 55",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jim Hamilton for HD 61",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Gordon Vance for SD34",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bruce Grubbs for HD68",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Matt Rosendale for Auditor",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Greg Hertz for HD12",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Dan Bartel - HD29",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
                 "interest": "Barry Usher for HD40",
                 "position": "Support",
                 "status": "Not Applicable"
+            },
+            {
+                "interest": "Julie Dooling for HD 70",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Brad Hamlett for HD 23",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Bruce Grubbs for HD68",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Duane Ankney",
+                "position": "Support",
+                "status": "On ballot"
+            },
+            {
+                "interest": "Geraldine Custer for HD39",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Geraldine Custer for HD39",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Tom Welch HD72",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Steve Fitzpatrick SD 10",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Brian Hoven SD 13",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Frederick Anderson",
+                "position": "Support",
+                "status": "Support"
+            },
+            {
+                "interest": "Gilbert B Meyers",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Geraldine Custer for HD39",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Daniel Salomon for SD47",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Fred Thomas SD44",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Wendy McKamey for HD19",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Ross Fitzgerald for HD 17",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Mary Caferro HD 81",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Wendy McKamey for HD19",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Jesse Laslovich \u2013 Auditor race",
+                "position": "Support",
+                "status": "Not Applicable"
+            },
+            {
+                "interest": "Dennis Lenz for HD 53",
+                "position": "Support",
+                "status": "On ballot"
             }
         ]
     },

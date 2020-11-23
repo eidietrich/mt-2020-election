@@ -1,8 +1,8 @@
 {
     "slug": "290-Lincoln-County-Democratic-Central-Cmte.",
     "committeeName": "Lincoln County Democratic Central Cmte.",
-    "scrape_date": "2020-07-09",
-    "periods": 14,
+    "scrape_date": "2020-11-11",
+    "periods": 17,
     "data": {
         "committeeId": 290,
         "committeeName": "Lincoln County Democratic Central Cmte.",
@@ -35,16 +35,16 @@
         "issues": []
     },
     "finances": {
-        "reports": 14,
-        "last_report_end_date": "06/25/2020",
+        "reports": 17,
+        "last_report_end_date": "10/25/2020",
         "contributions": 34.52,
         "num_contributions": 65,
         "contributions_19_20": 1179.77,
         "num_contributions_19_20": 54,
-        "expenditures": 4679.2,
-        "num_expenditures": 37,
-        "expenditures_19_20": 2768.55,
-        "num_expenditures_19_20": 21,
-        "cash_on_hand": 1194.8
+        "expenditures": 5205.66,
+        "num_expenditures": 41,
+        "expenditures_19_20": 3295.01,
+        "num_expenditures_19_20": 25,
+        "cash_on_hand": 708.34
     }
 }
