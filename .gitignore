@@ -1,3 +1,5 @@
+.prettierrc
+
 # Security
 credentials.json
 credentials-old.json
