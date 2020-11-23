@@ -1,0 +1,2 @@
+scrapers/state-finance-reports/data/state-finance-cleaned.json filter=lfs diff=lfs merge=lfs -text
+scrapers/fed-finance-reports/data/itemized-receipts.json filter=lfs diff=lfs merge=lfs -text
